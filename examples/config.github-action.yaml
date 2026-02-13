@@ -8,9 +8,9 @@ feeds:
   max_items_per_feed: 5
   request_timeout_seconds: 20
 rules:
-  - name: "important-updates"
-    include_keywords: ["security", "vulnerability", "ai", "llm"]
-    exclude_keywords: ["sponsor", "ad"]
+  - name: "all-updates"
+    include_keywords: []
+    exclude_keywords: []
     include_domains: []
     min_content_length: 0
 summarizer:
