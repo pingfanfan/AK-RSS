@@ -61,6 +61,7 @@ func runCmd(args []string) {
 	entries, err := f.Fetch(context.Background(), feeds, fetcher.Options{
 		MaxItemsPerFeed: cfg.Feeds.MaxItemsPerFeed,
 		TimeoutSeconds:  cfg.Feeds.RequestTimeoutSeconds,
+		MaxConcurrent:   cfg.Feeds.MaxConcurrentFeeds,
 	})
 	if err != nil {
 		log.Fatalf("fetch entries: %v", err)

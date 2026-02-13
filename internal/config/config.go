@@ -28,6 +28,7 @@ type FeedsConfig struct {
 	OPMLPath              string `yaml:"opml_path"`
 	MaxItemsPerFeed       int    `yaml:"max_items_per_feed"`
 	MaxEntriesPerRun      int    `yaml:"max_entries_per_run"`
+	MaxConcurrentFeeds    int    `yaml:"max_concurrent_feeds"`
 	RequestTimeoutSeconds int    `yaml:"request_timeout_seconds"`
 }
 

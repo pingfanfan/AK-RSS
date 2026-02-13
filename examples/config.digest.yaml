@@ -7,6 +7,7 @@ feeds:
   opml_path: "examples/feeds.opml"
   max_items_per_feed: 3
   max_entries_per_run: 12
+  max_concurrent_feeds: 12
   request_timeout_seconds: 15
 rules:
   - name: "security-or-ai"

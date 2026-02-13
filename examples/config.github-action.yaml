@@ -7,7 +7,8 @@ feeds:
   opml_path: "examples/feeds.opml"
   max_items_per_feed: 1
   max_entries_per_run: 12
-  request_timeout_seconds: 20
+  max_concurrent_feeds: 12
+  request_timeout_seconds: 10
 rules:
   - name: "all-updates"
     include_keywords: []

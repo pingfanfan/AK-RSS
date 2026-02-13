@@ -6,6 +6,7 @@ import (
 	"io"
 	"net/http"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/mmcdole/gofeed"
@@ -16,6 +17,7 @@ import (
 type Options struct {
 	MaxItemsPerFeed int
 	TimeoutSeconds  int
+	MaxConcurrent   int
 }
 
 type Fetcher struct {
@@ -36,18 +38,54 @@ func (f *Fetcher) Fetch(ctx context.Context, feeds []opml.Feed, opts Options) ([
 	if maxItems <= 0 {
 		maxItems = 3
 	}
+	maxConcurrent := opts.MaxConcurrent
+	if maxConcurrent <= 0 {
+		maxConcurrent = 12
+	}
+	if maxConcurrent > len(feeds) {
+		maxConcurrent = len(feeds)
+	}
+	if maxConcurrent == 0 {
+		return nil, nil
+	}
 
 	entries := make([]core.Entry, 0, len(feeds)*maxItems)
 	seen := map[string]struct{}{}
 	var okCount int
+	type result struct {
+		entries []core.Entry
+		err     error
+	}
+	jobs := make(chan opml.Feed)
+	results := make(chan result, len(feeds))
+	var wg sync.WaitGroup
 
-	for _, feed := range feeds {
-		batch, err := f.fetchOne(ctx, feed, maxItems)
-		if err != nil {
+	worker := func() {
+		defer wg.Done()
+		for feed := range jobs {
+			batch, err := f.fetchOne(ctx, feed, maxItems)
+			results <- result{entries: batch, err: err}
+		}
+	}
+	for i := 0; i < maxConcurrent; i++ {
+		wg.Add(1)
+		go worker()
+	}
+	go func() {
+		for _, feed := range feeds {
+			jobs <- feed
+		}
+		close(jobs)
+		wg.Wait()
+		close(results)
+	}()
+
+	for r := range results {
+		if r.err != nil {
 			continue
 		}
 		okCount++
-		for _, e := range batch {
+		for _, e := range r.entries {
 			key := normalizeKey(e.Link, e.Title)
 			if _, exists := seen[key]; exists {
 				continue
