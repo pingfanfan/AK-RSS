@@ -5,7 +5,8 @@ store:
   seen_file: ".opmlwatch/seen_links.json"
 feeds:
   opml_path: "examples/feeds.opml"
-  max_items_per_feed: 5
+  max_items_per_feed: 1
+  max_entries_per_run: 12
   request_timeout_seconds: 20
 rules:
   - name: "all-updates"

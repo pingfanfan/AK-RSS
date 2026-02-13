@@ -20,6 +20,7 @@
       "properties": {
         "opml_path": { "type": "string", "minLength": 1 },
         "max_items_per_feed": { "type": "integer", "minimum": 1 },
+        "max_entries_per_run": { "type": "integer", "minimum": 1 },
         "request_timeout_seconds": { "type": "integer", "minimum": 1 }
       }
     },

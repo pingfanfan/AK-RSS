@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"sort"
 	"time"
 
 	"github.com/opmlwatch/opmlwatch/internal/config"
@@ -72,6 +73,7 @@ func runCmd(args []string) {
 	newEntries := seenStore.FilterNew(entries)
 
 	selected := rules.Apply(newEntries, cfg.Rules)
+	selected = limitRecent(selected, cfg.Feeds.MaxEntriesPerRun)
 	summarizer, err := summarizers.BuildFromConfig(cfg.Summarizer)
 	if err != nil {
 		log.Fatalf("build summarizer: %v", err)
@@ -117,6 +119,17 @@ func runCmd(args []string) {
 	if err := seenStore.Save(); err != nil {
 		log.Fatalf("save seen state: %v", err)
 	}
+}
+
+func limitRecent(entries []core.Entry, max int) []core.Entry {
+	if max <= 0 || len(entries) <= max {
+		return entries
+	}
+	cp := append([]core.Entry(nil), entries...)
+	sort.Slice(cp, func(i, j int) bool {
+		return cp[i].Published.After(cp[j].Published)
+	})
+	return cp[:max]
 }
 
 func validateConfigCmd(args []string) {

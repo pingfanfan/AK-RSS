@@ -27,6 +27,7 @@ type StoreConfig struct {
 type FeedsConfig struct {
 	OPMLPath              string `yaml:"opml_path"`
 	MaxItemsPerFeed       int    `yaml:"max_items_per_feed"`
+	MaxEntriesPerRun      int    `yaml:"max_entries_per_run"`
 	RequestTimeoutSeconds int    `yaml:"request_timeout_seconds"`
 }
 

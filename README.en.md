@@ -79,6 +79,7 @@ Built-in workflow: `.github/workflows/digest.yml`
 - Runs every 30 minutes (`*/30 * * * *`)
 - Pulls latest feed entries
 - Generates digest + tweet-ready summary lines
+- Applies per-run cap (`max_entries_per_run`) to prevent first-run overload
 - Sends email alert when there are new matched entries
 
 ## Config and Interfaces
