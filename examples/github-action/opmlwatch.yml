@@ -1,0 +1,39 @@
+name: OPMLWatch Digest
+
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+      - name: Build
+        run: go build ./cmd/opmlwatch
+      - name: Generate digest
+        run: |
+          ./opmlwatch run --config examples/config.digest.yaml --dry-run
+      - name: Commit digest output
+        run: |
+          if [ -n "$(git status --porcelain digest/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add digest/
+            git commit -m "chore: update daily digest"
+            git push
+          fi
+      - name: Open issue when digest updated
+        if: success()
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "OPMLWatch daily digest"
+          content-filepath: digest/latest.md
+          labels: digest

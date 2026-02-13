@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>OPMLWatch Example</title>
+  </head>
+  <body>
+    <outline text="Tech">
+      <outline text="Go Blog" type="rss" xmlUrl="https://go.dev/blog/feed.atom"/>
+      <outline text="GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/"/>
+    </outline>
+    <outline text="Security">
+      <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
+    </outline>
+  </body>
+</opml>

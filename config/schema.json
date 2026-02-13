@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://opmlwatch.dev/schema/config.json",
+  "title": "OPMLWatch Config",
+  "type": "object",
+  "required": ["feeds", "sinks"],
+  "properties": {
+    "timezone": { "type": "string" },
+    "store": {
+      "type": "object",
+      "properties": {
+        "driver": { "type": "string", "enum": ["sqlite"] },
+        "dsn": { "type": "string" }
+      }
+    },
+    "feeds": {
+      "type": "object",
+      "required": ["opml_path"],
+      "properties": {
+        "opml_path": { "type": "string", "minLength": 1 }
+      }
+    },
+    "rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": { "type": "string" },
+          "include_keywords": { "type": "array", "items": { "type": "string" } },
+          "exclude_keywords": { "type": "array", "items": { "type": "string" } },
+          "include_domains": { "type": "array", "items": { "type": "string" } },
+          "min_content_length": { "type": "integer", "minimum": 0 }
+        }
+      }
+    },
+    "summarizer": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string", "enum": ["none", "openai"] },
+        "enabled": { "type": "boolean" },
+        "config": {
+          "type": "object",
+          "additionalProperties": { "type": "string" }
+        }
+      }
+    },
+    "sinks": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["type", "name", "enabled", "config"],
+        "properties": {
+          "type": { "type": "string", "enum": ["webhook", "markdown", "email"] },
+          "name": { "type": "string" },
+          "enabled": { "type": "boolean" },
+          "config": {
+            "type": "object",
+            "additionalProperties": { "type": "string" }
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

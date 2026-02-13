@@ -1,0 +1,11 @@
+services:
+  opmlwatch:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: opmlwatch:local
+    command: ["run", "--config", "examples/config.digest.yaml", "--dry-run"]
+    working_dir: /app
+    volumes:
+      - ./:/app
+    restart: "no"

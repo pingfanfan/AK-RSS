@@ -1,0 +1,41 @@
+timezone: "Asia/Shanghai"
+store:
+  driver: "sqlite"
+  dsn: "opmlwatch.db"
+feeds:
+  opml_path: "examples/feeds.opml"
+rules:
+  - name: "security-or-ai"
+    include_keywords: ["security", "vulnerability", "ai", "llm"]
+    exclude_keywords: ["sponsor", "ad"]
+    include_domains: []
+    min_content_length: 0
+summarizer:
+  type: "openai"
+  enabled: false
+  config:
+    base_url: "https://api.openai.com/v1"
+    model: "gpt-4o-mini"
+    api_key: "env:OPENAI_API_KEY"
+sinks:
+  - type: "markdown"
+    name: "daily-digest"
+    enabled: true
+    config:
+      path: "digest/latest.md"
+  - type: "email"
+    name: "mail-alert"
+    enabled: false
+    config:
+      host: "smtp.example.com"
+      port: "587"
+      username: "your-user"
+      password: "your-password"
+      from: "bot@example.com"
+      to: "you@example.com"
+      subject_prefix: "[OPMLWatch]"
+  - type: "webhook"
+    name: "team-webhook"
+    enabled: false
+    config:
+      url: "https://example.com/webhook"

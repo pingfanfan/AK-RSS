@@ -1,0 +1,17 @@
+timezone: "Asia/Shanghai"
+store:
+  driver: "sqlite"
+  dsn: "opmlwatch.db"
+feeds:
+  opml_path: "examples/feeds.opml"
+rules: []
+summarizer:
+  type: "none"
+  enabled: false
+  config: {}
+sinks:
+  - type: "webhook"
+    name: "default-webhook"
+    enabled: true
+    config:
+      url: "https://example.com/webhook"
