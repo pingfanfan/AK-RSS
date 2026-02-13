@@ -40,18 +40,15 @@ type chatResponse struct {
 }
 
 func New(cfg map[string]string) (*Summarizer, error) {
-	baseURL := strings.TrimSpace(cfg["base_url"])
+	baseURL := resolve(cfg["base_url"])
 	if baseURL == "" {
 		baseURL = "https://api.openai.com/v1"
 	}
-	apiKey := strings.TrimSpace(cfg["api_key"])
-	if strings.HasPrefix(apiKey, "env:") {
-		apiKey = os.Getenv(strings.TrimPrefix(apiKey, "env:"))
-	}
+	apiKey := resolve(cfg["api_key"])
 	if apiKey == "" {
 		return nil, fmt.Errorf("openai summarizer missing api_key")
 	}
-	model := strings.TrimSpace(cfg["model"])
+	model := resolve(cfg["model"])
 	if model == "" {
 		model = "gpt-4o-mini"
 	}
@@ -62,6 +59,14 @@ func New(cfg map[string]string) (*Summarizer, error) {
 		model:   model,
 		client:  &http.Client{Timeout: 20 * time.Second},
 	}, nil
+}
+
+func resolve(v string) string {
+	v = strings.TrimSpace(v)
+	if strings.HasPrefix(v, "env:") {
+		return strings.TrimSpace(os.Getenv(strings.TrimPrefix(v, "env:")))
+	}
+	return v
 }
 
 func (s *Summarizer) Name() string { return "openai" }

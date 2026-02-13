@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 	"net/http/httptest"
+	"os"
 	"testing"
 
 	"github.com/opmlwatch/opmlwatch/internal/core"
@@ -48,5 +49,26 @@ func TestSummarize(t *testing.T) {
 	}
 	if out.Model != "gpt-4o-mini" {
 		t.Fatalf("unexpected model: %s", out.Model)
+	}
+}
+
+func TestNewResolveEnv(t *testing.T) {
+	_ = os.Setenv("AI_BASE_URL_TEST", "https://example.com/v1")
+	_ = os.Setenv("AI_MODEL_TEST", "m")
+	_ = os.Setenv("AI_KEY_TEST", "k")
+	defer os.Unsetenv("AI_BASE_URL_TEST")
+	defer os.Unsetenv("AI_MODEL_TEST")
+	defer os.Unsetenv("AI_KEY_TEST")
+
+	s, err := New(map[string]string{
+		"base_url": "env:AI_BASE_URL_TEST",
+		"model":    "env:AI_MODEL_TEST",
+		"api_key":  "env:AI_KEY_TEST",
+	})
+	if err != nil {
+		t.Fatalf("new summarizer: %v", err)
+	}
+	if s.baseURL != "https://example.com/v1" || s.model != "m" || s.apiKey != "k" {
+		t.Fatalf("unexpected resolved values: %+v", s)
 	}
 }
