@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"net/smtp"
+	"os"
 	"strconv"
 	"strings"
 	"time"
@@ -24,23 +25,23 @@ type Sink struct {
 
 func New(name string, cfg map[string]string) (*Sink, error) {
 	port := 587
-	if p := strings.TrimSpace(cfg["port"]); p != "" {
+	if p := resolve(cfg["port"]); p != "" {
 		n, err := strconv.Atoi(p)
 		if err != nil {
 			return nil, fmt.Errorf("email sink %s invalid port: %w", name, err)
 		}
 		port = n
 	}
-	to := splitCSV(cfg["to"])
+	to := splitCSV(resolve(cfg["to"]))
 	s := &Sink{
 		name:          name,
-		host:          strings.TrimSpace(cfg["host"]),
+		host:          resolve(cfg["host"]),
 		port:          port,
-		username:      strings.TrimSpace(cfg["username"]),
-		password:      strings.TrimSpace(cfg["password"]),
-		from:          strings.TrimSpace(cfg["from"]),
+		username:      resolve(cfg["username"]),
+		password:      resolve(cfg["password"]),
+		from:          resolve(cfg["from"]),
 		to:            to,
-		subjectPrefix: strings.TrimSpace(cfg["subject_prefix"]),
+		subjectPrefix: resolve(cfg["subject_prefix"]),
 	}
 	if s.host == "" || s.from == "" || len(s.to) == 0 {
 		return nil, fmt.Errorf("email sink %s requires host/from/to", name)
@@ -101,4 +102,12 @@ func splitCSV(v string) []string {
 		}
 	}
 	return out
+}
+
+func resolve(v string) string {
+	v = strings.TrimSpace(v)
+	if strings.HasPrefix(v, "env:") {
+		return strings.TrimSpace(os.Getenv(strings.TrimPrefix(v, "env:")))
+	}
+	return v
 }

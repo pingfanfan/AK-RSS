@@ -1,0 +1,36 @@
+timezone: "Asia/Shanghai"
+store:
+  driver: "sqlite"
+  dsn: "opmlwatch.db"
+feeds:
+  opml_path: "examples/feeds.opml"
+rules:
+  - name: "important-updates"
+    include_keywords: ["security", "vulnerability", "ai", "llm"]
+    exclude_keywords: ["sponsor", "ad"]
+    include_domains: []
+    min_content_length: 0
+summarizer:
+  type: "openai"
+  enabled: true
+  config:
+    base_url: "env:AI_BASE_URL"
+    model: "env:AI_MODEL"
+    api_key: "env:AI_API_KEY"
+sinks:
+  - type: "markdown"
+    name: "daily-digest"
+    enabled: true
+    config:
+      path: "digest/latest.md"
+  - type: "email"
+    name: "mail-alert"
+    enabled: true
+    config:
+      host: "env:SMTP_HOST"
+      port: "env:SMTP_PORT"
+      username: "env:SMTP_USERNAME"
+      password: "env:SMTP_PASSWORD"
+      from: "env:SMTP_FROM"
+      to: "env:SMTP_TO"
+      subject_prefix: "[OPMLWatch]"
