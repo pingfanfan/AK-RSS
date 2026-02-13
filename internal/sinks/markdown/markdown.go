@@ -39,9 +39,15 @@ func (s *Sink) Send(_ context.Context, batch core.Batch) error {
 		}
 		b.WriteString("\n")
 		if e.Analysis != nil {
+			if e.Analysis.TLDR != "" {
+				b.WriteString("  - TLDR: " + e.Analysis.TLDR + "\n")
+			}
 			b.WriteString("  - WHAT: " + e.Analysis.What + "\n")
 			b.WriteString("  - WHY: " + e.Analysis.Why + "\n")
 			b.WriteString("  - ACTION: " + e.Analysis.Action + "\n")
+			if e.Analysis.Tweet != "" {
+				b.WriteString("  - TWEET: " + e.Analysis.Tweet + "\n")
+			}
 		}
 	}
 	return os.WriteFile(s.path, []byte(b.String()), 0o644)

@@ -2,7 +2,10 @@ name: OPMLWatch Digest + Email
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    # GitHub cron uses UTC.
+    # This runs every 30 minutes during UK daytime/evening:
+    # GMT: 06:00-22:30, BST: 07:00-23:30
+    - cron: "*/30 6-22 * * *"
   workflow_dispatch:
 
 jobs:
@@ -30,10 +33,10 @@ jobs:
           go run ./cmd/opmlwatch run --config examples/config.github-action.yaml
       - name: Commit digest output
         run: |
-          if [ -n "$(git status --porcelain digest/)" ]; then
+          if [ -n "$(git status --porcelain digest/ .opmlwatch/)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add digest/
-            git commit -m "chore: update digest"
+            git add digest/ .opmlwatch/
+            git commit -m "chore: update digest and seen state"
             git push
           fi

@@ -7,9 +7,11 @@ Turn OPML into actionable updates: rule-based alerts + daily digests + optional 
 `opmlwatch` focuses on the "feed -> action" pipeline:
 
 - Import feeds from OPML
+- Fetch latest entries from each feed (not just feed metadata)
 - Apply rules (keywords/domains/content length)
-- Optional AI analysis (`WHAT / WHY / ACTION`)
+- Optional AI analysis (`TLDR / WHAT / WHY / ACTION / TWEET`)
 - Deliver to sinks (`webhook`, `markdown`, `email`)
+- Deduplicate with persisted seen-state (`.opmlwatch/seen_links.json`)
 
 ## Quickstart
 
@@ -68,7 +70,16 @@ export OPENAI_API_KEY="your_key"
 docker compose run --rm opmlwatch
 ```
 
-When entries match, email includes AI `WHAT/WHY/ACTION` lines.
+When entries match, email includes AI `TLDR/WHAT/WHY/ACTION/TWEET` lines.
+
+## 30-Minute GitHub Action
+
+Built-in workflow: `.github/workflows/digest.yml`
+
+- Runs every 30 minutes (`*/30 * * * *`)
+- Pulls latest feed entries
+- Generates digest + tweet-ready summary lines
+- Sends email alert when there are new matched entries
 
 ## Config and Interfaces
 

@@ -2,8 +2,11 @@ timezone: "Asia/Shanghai"
 store:
   driver: "sqlite"
   dsn: "opmlwatch.db"
+  seen_file: ".opmlwatch/seen_links.json"
 feeds:
   opml_path: "examples/feeds.opml"
+  max_items_per_feed: 3
+  request_timeout_seconds: 15
 rules:
   - name: "security-or-ai"
     include_keywords: ["security", "vulnerability", "ai", "llm"]
@@ -17,6 +20,7 @@ summarizer:
     base_url: "https://api.openai.com/v1"
     model: "gpt-4o-mini"
     api_key: "env:OPENAI_API_KEY"
+    reader_profile: "中文开发者，关注安全、AI、工程实践；总结要能直接用于决策和分享。"
 sinks:
   - type: "markdown"
     name: "daily-digest"

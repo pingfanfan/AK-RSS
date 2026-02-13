@@ -14,10 +14,11 @@ import (
 )
 
 type Summarizer struct {
-	baseURL string
-	apiKey  string
-	model   string
-	client  *http.Client
+	baseURL       string
+	apiKey        string
+	model         string
+	readerProfile string
+	client        *http.Client
 }
 
 type chatRequest struct {
@@ -52,12 +53,17 @@ func New(cfg map[string]string) (*Summarizer, error) {
 	if model == "" {
 		model = "gpt-4o-mini"
 	}
+	readerProfile := resolve(cfg["reader_profile"])
+	if readerProfile == "" {
+		readerProfile = "中文读者，关注技术趋势与可执行建议。"
+	}
 
 	return &Summarizer{
-		baseURL: strings.TrimSuffix(baseURL, "/"),
-		apiKey:  apiKey,
-		model:   model,
-		client:  &http.Client{Timeout: 20 * time.Second},
+		baseURL:       strings.TrimSuffix(baseURL, "/"),
+		apiKey:        apiKey,
+		model:         model,
+		readerProfile: readerProfile,
+		client:        &http.Client{Timeout: 20 * time.Second},
 	}, nil
 }
 
@@ -80,7 +86,17 @@ func (s *Summarizer) Summarize(ctx context.Context, entry core.Entry) (core.Anal
 		text = text[:3000]
 	}
 
-	prompt := "Analyze this feed update and return exactly 3 lines in Chinese: WHAT: ..., WHY: ..., ACTION: ...\\n" +
+	prompt := "请基于读者画像，分析这篇最新博客更新，并严格返回 5 行：\n" +
+		"TLDR: ...\n" +
+		"WHAT: ...\n" +
+		"WHY: ...\n" +
+		"ACTION: ...\n" +
+		"TWEET: ...\n\n" +
+		"要求：\n" +
+		"- 使用简体中文\n" +
+		"- 内容具体可执行，避免空话\n" +
+		"- TWEET 控制在 260 字以内，可直接发布\n\n" +
+		"读者画像: " + s.readerProfile + "\n\n" +
 		"Title: " + entry.Title + "\\n" +
 		"Link: " + entry.Link + "\\n" +
 		"Content: " + text
@@ -124,27 +140,36 @@ func (s *Summarizer) Summarize(ctx context.Context, entry core.Entry) (core.Anal
 	}
 
 	content := out.Choices[0].Message.Content
-	what, why, action := parseThreeLines(content)
+	tldr, what, why, action, tweet := parseFiveLines(content)
 	return core.Analysis{
+		TLDR:   tldr,
 		What:   what,
 		Why:    why,
 		Action: action,
+		Tweet:  tweet,
 		Model:  s.model,
 	}, nil
 }
 
-func parseThreeLines(s string) (what, why, action string) {
+func parseFiveLines(s string) (tldr, what, why, action, tweet string) {
 	lines := strings.Split(strings.ReplaceAll(s, "\r\n", "\n"), "\n")
 	for _, line := range lines {
 		l := strings.TrimSpace(line)
 		switch {
+		case strings.HasPrefix(strings.ToUpper(l), "TLDR:"):
+			tldr = strings.TrimSpace(l[5:])
 		case strings.HasPrefix(strings.ToUpper(l), "WHAT:"):
 			what = strings.TrimSpace(l[5:])
 		case strings.HasPrefix(strings.ToUpper(l), "WHY:"):
 			why = strings.TrimSpace(l[4:])
 		case strings.HasPrefix(strings.ToUpper(l), "ACTION:"):
 			action = strings.TrimSpace(l[7:])
+		case strings.HasPrefix(strings.ToUpper(l), "TWEET:"):
+			tweet = strings.TrimSpace(l[6:])
 		}
+	}
+	if tldr == "" {
+		tldr = "一条值得关注的博客更新。"
 	}
 	if what == "" {
 		what = "新条目更新"
@@ -154,6 +179,9 @@ func parseThreeLines(s string) (what, why, action string) {
 	}
 	if action == "" {
 		action = "打开原文快速判断是否加入待办"
+	}
+	if tweet == "" {
+		tweet = what
 	}
 	return
 }

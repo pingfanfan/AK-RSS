@@ -2,8 +2,11 @@ timezone: "Asia/Shanghai"
 store:
   driver: "sqlite"
   dsn: "opmlwatch.db"
+  seen_file: ".opmlwatch/seen_links.json"
 feeds:
   opml_path: "examples/feeds.opml"
+  max_items_per_feed: 5
+  request_timeout_seconds: 20
 rules:
   - name: "important-updates"
     include_keywords: ["security", "vulnerability", "ai", "llm"]
@@ -17,6 +20,7 @@ summarizer:
     base_url: "env:AI_BASE_URL"
     model: "env:AI_MODEL"
     api_key: "env:AI_API_KEY"
+    reader_profile: "中文开发者，关注安全、AI、基础设施与产品趋势；输出要实用，可快速阅读并可直接发社交媒体。"
 sinks:
   - type: "markdown"
     name: "daily-digest"

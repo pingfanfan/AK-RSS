@@ -2,8 +2,11 @@ timezone: "Asia/Shanghai"
 store:
   driver: "sqlite"
   dsn: "opmlwatch.db"
+  seen_file: ".opmlwatch/seen_links.json"
 feeds:
   opml_path: "examples/feeds.opml"
+  max_items_per_feed: 3
+  request_timeout_seconds: 15
 rules: []
 summarizer:
   type: "none"

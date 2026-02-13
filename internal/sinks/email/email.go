@@ -83,9 +83,15 @@ func buildBody(batch core.Batch) string {
 		b.WriteString("- " + e.Title + "\n")
 		b.WriteString("  Link: " + e.Link + "\n")
 		if e.Analysis != nil {
+			if e.Analysis.TLDR != "" {
+				b.WriteString("  TLDR: " + e.Analysis.TLDR + "\n")
+			}
 			b.WriteString("  WHAT: " + e.Analysis.What + "\n")
 			b.WriteString("  WHY: " + e.Analysis.Why + "\n")
 			b.WriteString("  ACTION: " + e.Analysis.Action + "\n")
+			if e.Analysis.Tweet != "" {
+				b.WriteString("  TWEET: " + e.Analysis.Tweet + "\n")
+			}
 		}
 		b.WriteString("\n")
 	}

@@ -11,10 +11,10 @@ import (
 	"github.com/opmlwatch/opmlwatch/internal/core"
 )
 
-func TestParseThreeLines(t *testing.T) {
-	what, why, action := parseThreeLines("WHAT: A\nWHY: B\nACTION: C")
-	if what != "A" || why != "B" || action != "C" {
-		t.Fatalf("unexpected parse result: %q %q %q", what, why, action)
+func TestParseFiveLines(t *testing.T) {
+	tldr, what, why, action, tweet := parseFiveLines("TLDR: T\nWHAT: A\nWHY: B\nACTION: C\nTWEET: X")
+	if tldr != "T" || what != "A" || why != "B" || action != "C" || tweet != "X" {
+		t.Fatalf("unexpected parse result: %q %q %q %q %q", tldr, what, why, action, tweet)
 	}
 }
 
@@ -25,7 +25,7 @@ func TestSummarize(t *testing.T) {
 		}
 		_ = json.NewEncoder(w).Encode(map[string]any{
 			"choices": []map[string]any{{
-				"message": map[string]any{"content": "WHAT: W\nWHY: Y\nACTION: A"},
+				"message": map[string]any{"content": "TLDR: T\nWHAT: W\nWHY: Y\nACTION: A\nTWEET: X"},
 			}},
 		})
 	}))
@@ -44,7 +44,7 @@ func TestSummarize(t *testing.T) {
 	if err != nil {
 		t.Fatalf("summarize: %v", err)
 	}
-	if out.What != "W" || out.Why != "Y" || out.Action != "A" {
+	if out.TLDR != "T" || out.What != "W" || out.Why != "Y" || out.Action != "A" || out.Tweet != "X" {
 		t.Fatalf("unexpected summary: %+v", out)
 	}
 	if out.Model != "gpt-4o-mini" {

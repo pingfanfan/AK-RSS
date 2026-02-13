@@ -19,12 +19,15 @@ type Config struct {
 }
 
 type StoreConfig struct {
-	Driver string `yaml:"driver"`
-	DSN    string `yaml:"dsn"`
+	Driver   string `yaml:"driver"`
+	DSN      string `yaml:"dsn"`
+	SeenFile string `yaml:"seen_file"`
 }
 
 type FeedsConfig struct {
-	OPMLPath string `yaml:"opml_path"`
+	OPMLPath              string `yaml:"opml_path"`
+	MaxItemsPerFeed       int    `yaml:"max_items_per_feed"`
+	RequestTimeoutSeconds int    `yaml:"request_timeout_seconds"`
 }
 
 type RuleConfig struct {

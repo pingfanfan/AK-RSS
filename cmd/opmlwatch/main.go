@@ -10,9 +10,11 @@ import (
 
 	"github.com/opmlwatch/opmlwatch/internal/config"
 	"github.com/opmlwatch/opmlwatch/internal/core"
+	"github.com/opmlwatch/opmlwatch/internal/fetcher"
 	"github.com/opmlwatch/opmlwatch/internal/opml"
 	"github.com/opmlwatch/opmlwatch/internal/rules"
 	"github.com/opmlwatch/opmlwatch/internal/sinks"
+	"github.com/opmlwatch/opmlwatch/internal/state"
 	"github.com/opmlwatch/opmlwatch/internal/summarizers"
 )
 
@@ -53,20 +55,23 @@ func runCmd(args []string) {
 		log.Fatalf("load OPML: %v", err)
 	}
 
-	// MVP placeholder entries so sinks and rule flow are testable end-to-end.
-	entries := make([]core.Entry, 0, len(feeds))
 	now := time.Now().UTC()
-	for _, f := range feeds {
-		entries = append(entries, core.Entry{
-			FeedTitle: f.Title,
-			Title:     fmt.Sprintf("Feed discovered: %s", f.Title),
-			Link:      f.XMLURL,
-			Published: now,
-			Tags:      []string{"feed-discovery"},
-		})
+	f := fetcher.New(cfg.Feeds.RequestTimeoutSeconds)
+	entries, err := f.Fetch(context.Background(), feeds, fetcher.Options{
+		MaxItemsPerFeed: cfg.Feeds.MaxItemsPerFeed,
+		TimeoutSeconds:  cfg.Feeds.RequestTimeoutSeconds,
+	})
+	if err != nil {
+		log.Fatalf("fetch entries: %v", err)
 	}
 
-	selected := rules.Apply(entries, cfg.Rules)
+	seenStore, err := state.New(cfg.Store.SeenFile)
+	if err != nil {
+		log.Fatalf("init seen store: %v", err)
+	}
+	newEntries := seenStore.FilterNew(entries)
+
+	selected := rules.Apply(newEntries, cfg.Rules)
 	summarizer, err := summarizers.BuildFromConfig(cfg.Summarizer)
 	if err != nil {
 		log.Fatalf("build summarizer: %v", err)
@@ -85,8 +90,11 @@ func runCmd(args []string) {
 		RunAt:   now,
 		Entries: selected,
 		Meta: map[string]string{
-			"feeds_total": fmt.Sprintf("%d", len(feeds)),
-			"summarizer":  summarizer.Name(),
+			"feeds_total":     fmt.Sprintf("%d", len(feeds)),
+			"entries_total":   fmt.Sprintf("%d", len(entries)),
+			"entries_new":     fmt.Sprintf("%d", len(newEntries)),
+			"entries_matched": fmt.Sprintf("%d", len(selected)),
+			"summarizer":      summarizer.Name(),
 		},
 	}
 
@@ -103,6 +111,11 @@ func runCmd(args []string) {
 			log.Fatalf("sink %s failed: %v", sink.Name(), err)
 		}
 		log.Printf("sink %s delivered %d entries", sink.Name(), len(batch.Entries))
+	}
+
+	seenStore.MarkSeen(entries)
+	if err := seenStore.Save(); err != nil {
+		log.Fatalf("save seen state: %v", err)
 	}
 }
 

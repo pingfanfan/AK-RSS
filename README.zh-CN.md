@@ -7,9 +7,11 @@
 `opmlwatch` 专注在“信息流 -> 行动”这条链路：
 
 - 从 OPML 导入订阅
+- 抓取每个订阅的最新条目（不是只看 feed 元信息）
 - 用规则筛选（关键词/域名/内容长度）
-- 可选 AI 分析（`WHAT / WHY / ACTION`）
+- 可选 AI 分析（`TLDR / WHAT / WHY / ACTION / TWEET`）
 - 输出到 `webhook`、`markdown`、`email`
+- 用持久化已读状态去重（`.opmlwatch/seen_links.json`）
 
 ## 快速开始
 
@@ -68,7 +70,16 @@ export OPENAI_API_KEY="你的密钥"
 docker compose run --rm opmlwatch
 ```
 
-命中条目后，邮件会包含 AI 的 `WHAT/WHY/ACTION` 分析。
+命中条目后，邮件会包含 AI 的 `TLDR/WHAT/WHY/ACTION/TWEET` 分析。
+
+## 每 30 分钟自动执行（GitHub Action）
+
+内置工作流：`.github/workflows/digest.yml`
+
+- 每 30 分钟执行一次（`*/30 * * * *`）
+- 抓取最新博客条目
+- 生成可读摘要 + 可直接发社交媒体的 `TWEET` 草稿
+- 有新命中条目时自动发邮件提醒
 
 ## 配置与接口
 

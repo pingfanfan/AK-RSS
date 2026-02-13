@@ -20,8 +20,10 @@ type Batch struct {
 }
 
 type Analysis struct {
+	TLDR   string `json:"tldr,omitempty"`
 	What   string `json:"what"`
 	Why    string `json:"why"`
 	Action string `json:"action"`
+	Tweet  string `json:"tweet,omitempty"`
 	Model  string `json:"model,omitempty"`
 }
