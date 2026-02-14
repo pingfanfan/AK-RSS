@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-02-14T21:38:01Z",
+  "generated_at": "2026-02-14T22:01:40Z",
   "days": [
     {
       "date": "2026-02-14",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "chadnauseam.com (1)",
         "construction-physics.com (1)",
         "joanwestenberg.com (1)",
+        "johndcook.com (1)",
         "matklad.github.io (1)",
-        "nesbitt.io (1)",
-        "paulgraham.com (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "johndcook.com · Finding a non-square mod p",
         "righto.com · Instruction decoding in the Intel 8087 floating-point chip",
         "tedium.co · Design Deconstruction",
         "construction-physics.com · Reading list 02/14/26",
         "shkspr.mobi · Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin ★★★★☆",
-        "simonwillison.net · Quoting Thoughtworks",
-        "utcc.utoronto.ca/~cks · The (very) old \"repaint mode\" GUI approach"
+        "simonwillison.net · Quoting Thoughtworks"
       ],
       "key_points": [
         "博客通过芯片逆向工程，详解1980年代Intel 8087浮点协处理器如何用多级电路解码其62条专用指令。",
