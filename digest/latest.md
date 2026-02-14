@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-14 16:41:56 UTC
+Generated at: 2026-02-14 17:04:44 UTC
 
-- [Design Deconstruction](https://feed.tedium.co/link/15204/17276365/text-based-design-mindset) (`tedium.co`)
-  - TLDR: 设计工具可解耦为文本输入与图形输出，用代码/命令行能实现更精准、可复现的设计，尤其适合开发者。
-  - WHAT: 作者因GUI视频编辑工具（CapCut、Canva）无法实现特定滤镜而受挫，转而用FFmpeg等命令行工具成功达成目标，提出“设计解构”理念：将创意与执行分离，文本驱动更符合工程思维。
-  - WHY: GUI工具常隐藏细节、限制自动化与版本控制；文本/代码方式提供完全控制、可脚本化、易于集成到开发流程，提升效率与设计一致性。
-  - ACTION: 尝试用脚本（如FFmpeg、ImageMagick、CSS/Canvas）处理媒体与界面，将设计参数（滤镜、布局）代码化，建立可复用的设计系统，替代部分手动GUI操作。
-  - TWEET: 设计不必总依赖GUI。我用FFmpeg+脚本实现了像素化黑白滤镜，比CapCut/Canva更精准可控。文本驱动设计让参数可版本化、流程自动化，适合开发者。试试用代码解构你的设计工作流？ #设计思维 #开发者工具
+- [Instruction decoding in the Intel 8087 floating-point chip](http://www.righto.com/2026/02/8087-instruction-decoding.html) (`righto.com`)
+  - TLDR: 博客通过芯片逆向工程，详解1980年代Intel 8087浮点协处理器如何用多级电路解码其62条专用指令。
+  - WHAT: 文章基于硅片显微照片，分析8087芯片的物理布局，重点解释微码ROM、数据通路及栈寄存器等模块如何协作完成指令解码。
+  - WHY: 揭示早期硬件设计的精巧与复杂性，为理解现代CPU指令集、微架构及潜在硬件安全分析提供历史参考与底层视角。
+  - ACTION: 开发者可精读原文配图，对比现代x86指令解码流程，思考硬件设计中的权衡（如面积、速度、复杂度）。
+  - TWEET: 【硬核拆解】把8087芯片开壳拍照，竟是为了研究它如何解码62条浮点指令！这篇博客带你从硅片级看微码ROM、数据通路和栈寄存器如何协作，理解80年代硬件设计的精妙。对底层、性能与安全感兴趣的开发者必读。 #硬件 #逆向工程 #CPU
