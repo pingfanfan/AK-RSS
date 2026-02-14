@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-02-14T22:01:40Z",
-  "count": 17,
+  "generated_at": "2026-02-14T22:39:43Z",
+  "count": 19,
   "updates": [
+    {
+      "id": "https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/",
+      "run_at": "2026-02-14T22:39:16Z",
+      "feed_title": "johndcook.com",
+      "title": "Finding a square root of -1 mod p",
+      "link": "https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/",
+      "published": "2026-02-14T22:07:05Z",
+      "tags": [
+        "Math",
+        "Number theory"
+      ],
+      "tldr": "当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到。",
+      "what": "具体步骤：1. 验证 p % 4 == 1；2. 随机或按策略找到模 p 下的非二次剩余 c（如尝试小整数）；3. 计算 k = (p-1)//4，求 x = pow(c, k, p)。",
+      "why": "由欧拉准则，c 是非二次剩余意味着 c^((p-1)/2) ≡ -1 mod p。结合 p=4k+1，则 (c^k)^2 = c^(2k) = c^((p-1)/2) ≡ -1 mod p，故 x=c^k 即为所求。",
+      "action": "直接运行以下 Python 代码验证示例：`p = 2**255 - 19; c = 2; k = (p-1)//4; x = pow(c, k, p); print((x*x + 1) % p)` 结果应为 0。",
+      "tweet": "如何在模素数下求 -1 的平方根？条件：p ≡ 1 mod 4。方法：先找非二次剩余 c（如 2），计算 x = c^((p-1)/4) mod p。例如 p=2^255-19，x=pow(2, (p-1)//4, p) 即满足 x² ≡ -1。代码验证秒出结果！#密码学 #Python #数论"
+    },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/",
       "run_at": "2026-02-14T22:01:26Z",
@@ -46,6 +63,19 @@
       "why": "GUI工具常隐藏细节、限制自动化与版本控制；文本/代码方式提供完全控制、可脚本化、易于集成到开发流程，提升效率与设计一致性。",
       "action": "尝试用脚本（如FFmpeg、ImageMagick、CSS/Canvas）处理媒体与界面，将设计参数（滤镜、布局）代码化，建立可复用的设计系统，替代部分手动GUI操作。",
       "tweet": "设计不必总依赖GUI。我用FFmpeg+脚本实现了像素化黑白滤镜，比CapCut/Canva更精准可控。文本驱动设计让参数可版本化、流程自动化，适合开发者。试试用代码解构你的设计工作流？ #设计思维 #开发者工具"
+    },
+    {
+      "id": "https://jayd.ml/2026/02/14/microsoft-game-pass-fraud.html",
+      "run_at": "2026-02-14T22:39:16Z",
+      "feed_title": "jayd.ml",
+      "title": "Microsoft Game Pass Ultimate Billing Fraud",
+      "link": "https://jayd.ml/2026/02/14/microsoft-game-pass-fraud.html",
+      "published": "2026-02-14T14:38:00Z",
+      "tldr": "微软被指在用户明确关闭自动续费后，仍于三年后偷偷开启并扣款，暴露订阅系统安全与黑暗模式风险。",
+      "what": "用户购买Game Pass Ultimate时彻底关闭自动续费并启用虚拟卡，但三年后订阅被自动续费扣款，质疑微软欺诈。",
+      "why": "可能因系统漏洞、故意设计（黑暗模式）或支付验证失效，反映订阅管理产品在用户控制与透明度上的缺陷。",
+      "action": "1. 定期复查订阅状态；2. 始终使用一次性虚拟卡；3. 关闭自动续费后截图存证；4. 向消协或网信办举报。",
+      "tweet": "微软Game Pass Ultimate被曝用户关闭自动续费后仍被偷偷开启扣款！安全警示：订阅服务需定期检查，务必用虚拟卡并截图保存设置。这不仅是漏洞，更是产品黑暗模式。建议向12315举报。 #订阅欺诈 #产品安全 #微软"
     },
     {
       "id": "https://www.construction-physics.com/p/reading-list-021426",
@@ -151,19 +181,6 @@
       "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
     },
     {
-      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "run_at": "2026-02-14T21:37:41Z",
-      "feed_title": "matklad.github.io",
-      "title": "Justifying text-wrap: pretty",
-      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
-      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
-      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
-      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
-      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
-    },
-    {
       "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
       "run_at": "2026-02-14T10:41:07Z",
       "feed_title": "nesbitt.io",
@@ -178,6 +195,19 @@
       "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
       "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
+    },
+    {
+      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "run_at": "2026-02-14T21:37:41Z",
+      "feed_title": "matklad.github.io",
+      "title": "Justifying text-wrap: pretty",
+      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
+      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
+      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
+      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
+      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
