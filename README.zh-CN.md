@@ -82,6 +82,14 @@ docker compose run --rm opmlwatch
 - 每轮有处理上限（`max_entries_per_run`），避免首次跑爆量
 - 有新命中条目时自动发邮件提醒
 
+## GitHub Pages 可视化页面
+
+- 静态页面源码：`site/`
+- 流程会自动更新数据文件：
+  - `site/data/updates.json`（滚动更新）
+  - `site/data/daily.json`（每日总结）
+- 页面发布工作流：`.github/workflows/pages.yml`
+
 ## 配置与接口
 
 - 配置 schema：`config/schema.json`

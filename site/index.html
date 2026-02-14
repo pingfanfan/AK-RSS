@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OPMLWatch Live Feed</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Newsreader:opsz,wght@6..72,500;6..72,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="bg-glow"></div>
+  <main class="container">
+    <header class="hero">
+      <p class="eyebrow">AK-RSS</p>
+      <h1>Rolling Blog Intelligence</h1>
+      <p class="subtitle">Live updates from your OPML list, with AI briefs and daily wrap-ups.</p>
+      <div class="meta-row">
+        <span id="lastUpdated">Loading…</span>
+        <button id="refreshBtn" type="button">Refresh</button>
+      </div>
+    </header>
+
+    <section class="cards" id="stats"></section>
+
+    <section class="grid">
+      <article class="panel">
+        <div class="panel-head">
+          <h2>Daily Summary</h2>
+          <span class="badge" id="dayCount">0 days</span>
+        </div>
+        <div id="dailyList" class="list"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-head">
+          <h2>Live Timeline</h2>
+          <span class="badge" id="updateCount">0 updates</span>
+        </div>
+        <div id="timeline" class="list"></div>
+      </article>
+    </section>
+  </main>
+
+  <template id="timelineItemTmpl">
+    <div class="item">
+      <div class="item-top">
+        <a class="item-title" target="_blank" rel="noopener"></a>
+        <span class="time"></span>
+      </div>
+      <p class="feed"></p>
+      <p class="tldr"></p>
+      <p class="action"></p>
+      <div class="tweet-wrap">
+        <button class="tweet-btn" type="button">Copy Tweet Draft</button>
+      </div>
+    </div>
+  </template>
+
+  <template id="dailyItemTmpl">
+    <div class="item">
+      <div class="item-top">
+        <p class="item-title"></p>
+        <span class="time"></span>
+      </div>
+      <p class="feed"></p>
+      <ul class="mini-list"></ul>
+    </div>
+  </template>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>

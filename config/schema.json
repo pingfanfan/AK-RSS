@@ -57,7 +57,7 @@
         "type": "object",
         "required": ["type", "name", "enabled", "config"],
         "properties": {
-          "type": { "type": "string", "enum": ["webhook", "markdown", "email"] },
+          "type": { "type": "string", "enum": ["webhook", "markdown", "email", "site"] },
           "name": { "type": "string" },
           "enabled": { "type": "boolean" },
           "config": {

@@ -8,6 +8,7 @@ import (
 	"github.com/opmlwatch/opmlwatch/internal/core"
 	"github.com/opmlwatch/opmlwatch/internal/sinks/email"
 	"github.com/opmlwatch/opmlwatch/internal/sinks/markdown"
+	"github.com/opmlwatch/opmlwatch/internal/sinks/site"
 	"github.com/opmlwatch/opmlwatch/internal/sinks/webhook"
 )
 
@@ -37,6 +38,12 @@ func BuildFromConfig(cfgs []config.SinkConfig, dryRun bool) ([]Sink, error) {
 			out = append(out, s)
 		case "email":
 			s, err := email.New(c.Name, c.Config)
+			if err != nil {
+				return nil, err
+			}
+			out = append(out, s)
+		case "site":
+			s, err := site.New(c.Name, c.Config)
 			if err != nil {
 				return nil, err
 			}

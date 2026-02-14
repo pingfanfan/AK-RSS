@@ -82,6 +82,14 @@ Built-in workflow: `.github/workflows/digest.yml`
 - Applies per-run cap (`max_entries_per_run`) to prevent first-run overload
 - Sends email alert when there are new matched entries
 
+## GitHub Pages Dashboard
+
+- Static site source: `site/`
+- Data files updated by the pipeline:
+  - `site/data/updates.json` (rolling updates)
+  - `site/data/daily.json` (daily summaries)
+- Deployment workflow: `.github/workflows/pages.yml`
+
 ## Config and Interfaces
 
 - Config schema: `config/schema.json`

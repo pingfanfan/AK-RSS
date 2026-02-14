@@ -33,10 +33,10 @@ jobs:
           go run ./cmd/opmlwatch run --config examples/config.github-action.yaml
       - name: Commit digest output
         run: |
-          if [ -n "$(git status --porcelain digest/ .opmlwatch/)" ]; then
+          if [ -n "$(git status --porcelain digest/ .opmlwatch/ site/data/)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add digest/ .opmlwatch/
-            git commit -m "chore: update digest and seen state"
+            git add digest/ .opmlwatch/ site/data/
+            git commit -m "chore: update digest, seen state, and site data"
             git push
           fi

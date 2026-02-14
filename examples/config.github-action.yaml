@@ -40,3 +40,12 @@ sinks:
       from: "env:SMTP_FROM"
       to: "env:SMTP_TO"
       subject_prefix: "[OPMLWatch]"
+  - type: "site"
+    name: "pages-data"
+    enabled: true
+    config:
+      updates_path: "site/data/updates.json"
+      daily_path: "site/data/daily.json"
+      max_updates: "1200"
+      max_days: "30"
+      timezone: "Europe/London"
