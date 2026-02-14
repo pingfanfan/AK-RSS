@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T07:41:40Z",
-  "count": 9,
+  "generated_at": "2026-02-14T08:03:15Z",
+  "count": 10,
   "updates": [
     {
       "id": "https://simonwillison.net/2026/feb/14/thoughtworks/#atom-everything",
@@ -19,6 +19,22 @@
       "why": "初级开发者无历史包袱，更易掌握AI工具；中期工程师在hiring boom中成长，fundamentals不足，且习惯固化导致retraining阻力大。",
       "action": "初级开发者应最大化利用AI工具积累经验；中期工程师需系统学习fundamentals；团队可试点rotation或mentorship项目。",
       "tweet": "AI不会淘汰初级开发者，反而加速其成长——他们更擅长AI工具。真正危机是中期工程师：基础薄弱，再培训难。行业需探索apprenticeship等新模式。 #AI编程 #开发者职业 #Thoughtworks"
+    },
+    {
+      "id": "https://utcc.utoronto.ca/~cks/space/blog/tech/repaintmodegui",
+      "run_at": "2026-02-14T08:02:55Z",
+      "feed_title": "utcc.utoronto.ca/~cks",
+      "title": "The (very) old \"repaint mode\" GUI approach",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI",
+      "published": "2026-02-14T04:34:18Z",
+      "tags": [
+        "tech"
+      ],
+      "tldr": "博客澄清了“立即模式GUI”常被误解，并详细解释了一种更古老的、为节省内存而设计的“重绘模式”。",
+      "what": "“重绘模式”指在内存稀缺时代，GUI直接、增量地重绘窗口中被破坏（damaged）的区域，而非全屏刷新，严重依赖裁剪区域和最小化绘制。",
+      "why": "1980-1990年代内存昂贵且有限，此模式通过避免双缓冲来最小化内存占用；现代内存充裕，更注重无撕裂的平滑更新，故普遍采用双缓冲。",
+      "action": "在开发资源受限环境（如嵌入式UI）或优化老旧系统时，可借鉴其“增量更新与区域裁剪”的核心思想以节省资源；评估现代GUI框架时，明确其缓冲与重绘策略。",
+      "tweet": "你熟知的“立即模式GUI”可能被混淆了。本文详解更古老的“重绘模式”：为省内存，它只重绘窗口受损区域，依赖裁剪，避免双缓冲。这是1980-90年代的智慧，与现代双缓冲防撕裂的思路形成鲜明对比。理解此演进，对优化资源敏感型UI或评估框架底层策略仍有价值。#GUI #性能优化 #开发历史"
     },
     {
       "id": "https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/",
