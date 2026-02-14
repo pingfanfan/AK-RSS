@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-02-14T00:00:18Z",
-  "count": 5,
+  "generated_at": "2026-02-14T00:07:43Z",
+  "count": 6,
   "updates": [
+    {
+      "id": "http://www.paulgraham.com/superlinear.html",
+      "run_at": "2026-02-14T00:00:05Z",
+      "feed_title": "paulgraham.com",
+      "title": "Superlinear Returns",
+      "link": "http://www.paulgraham.com/superlinear.html",
+      "published": "2026-02-14T00:00:07Z",
+      "tldr": "Superlinear Returns",
+      "what": "Superlinear Returns",
+      "why": "Fresh update from monitored feed.",
+      "action": "Open source link and decide whether to read now or add to digest backlog.",
+      "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
+    },
     {
       "id": "https://chadnauseam.com/random/semaglutide-has-changed-the-world",
       "run_at": "2026-02-14T00:00:05Z",
@@ -16,17 +29,21 @@
       "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
     },
     {
-      "id": "http://www.paulgraham.com/superlinear.html",
-      "run_at": "2026-02-14T00:00:05Z",
-      "feed_title": "paulgraham.com",
-      "title": "Superlinear Returns",
-      "link": "http://www.paulgraham.com/superlinear.html",
-      "published": "2026-02-14T00:00:07Z",
-      "tldr": "Superlinear Returns",
-      "what": "Superlinear Returns",
-      "why": "Fresh update from monitored feed.",
-      "action": "Open source link and decide whether to read now or add to digest backlog.",
-      "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
+      "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
+      "run_at": "2026-02-14T00:07:23Z",
+      "feed_title": "simonwillison.net",
+      "title": "Anthropic's public benefit mission",
+      "link": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything",
+      "published": "2026-02-13T23:59:51Z",
+      "tags": [
+        "ai-ethics",
+        "anthropic"
+      ],
+      "tldr": "Anthropic的公益使命表述从2021年的“文化、社会和技术进步”简化为2024年的“人类长期利益”，反映其安全优先策略。",
+      "what": "通过特拉华州注册文件发现，Anthropic作为公益公司（非非营利）的法定使命仅有两版细微变化，未像OpenAI公开IRS文件。",
+      "why": "使命表述的简化与强化“长期”暗示Anthropic将AI安全控制置于短期社会影响之上，开发者需关注其产品安全设计是否匹配此理念。",
+      "action": "查阅Anthropic公开的注册文件及安全政策，评估其模型安全措施（如宪法AI）是否与“长期利益”使命一致，并据此选择合作或工具。",
+      "tweet": "Anthropic公益使命从“文化/社会/技术”调整为“人类长期利益”，安全优先策略明确。开发者应核查其安全实践是否匹配此理念，并关注公开文件。 #AI安全 #Anthropic"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/openai-mission-statement/#atom-everything",
