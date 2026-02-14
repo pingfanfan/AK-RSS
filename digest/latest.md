@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-14 12:44:19 UTC
+Generated at: 2026-02-14 13:16:11 UTC
 
-- [Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin ★★★★☆](https://shkspr.mobi/blog/2026/02/book-review-20-goto-10-10101001-facts-about-retro-computers-by-steven-goodwin/) (`shkspr.mobi`)
-  - TLDR: 本书是非线性复古计算机趣闻集，采用GOTO跳转式阅读，类似文本冒险，但受出版社问题影响购买困难。
-  - WHAT: 《20 Goto 10》包含近200篇短文，涵盖复古计算机轶事、技术概述和奇闻，章节结尾有多选GOTO引导跳转，形成网状阅读路径。
-  - WHY: 对中文开发者而言，书中POKE、CHAIN等复古命令及历史故事能激发技术灵感，理解编程文化根源，尽管内容看似“无用”却具独特魅力。
-  - ACTION: 若想阅读，可访问计算历史中心购买签名版；团队可尝试复现GOTO跳转模式设计文档，或从书中提取历史案例用于技术分享。
-  - TWEET: 推荐《20 Goto 10》：一本用GOTO指令串联的复古计算机趣闻书！非线性阅读像玩文本冒险，有死胡同和彩蛋。虽因出版社问题难买，但计算历史中心有签名版。开发者能从POKE/CHAIN等老命令中感受编程文化，适合作为灵感来源或团队阅读。 #复古计算 #技术历史 #书评
+- [Reading list 02/14/26](https://www.construction-physics.com/p/reading-list-021426) (`construction-physics.com`)
+  - TLDR: 这是一份面向开发者的精选阅读清单，聚焦AI安全、基础设施与硬件创新等前沿实践。
+  - WHAT: 博客以信息图形式列出了多篇深度文章，涵盖AI安全对齐、数据中心电力挑战、半导体供应链及机器人技术等主题。
+  - WHY: 帮助开发者高效筛选高质量信息，快速把握影响技术选型与产品方向的关键行业动态与底层逻辑。
+  - ACTION: 点击链接查看完整阅读清单图片，根据自身领域（如安全、后端、AI产品）选择2-3篇文章精读，并关注Construction Physics获取后续更新。
+  - TWEET: 【开发者阅读清单】Construction Physics最新一期聚焦AI安全、数据中心能源、半导体供应链与机器人技术。以信息图形式精选硬核长文，帮你快速穿透噪音，把握基础设施与产品趋势的核心脉络。适合关注安全、AI与底层架构的工程师与产品经理。链接直达→ https://www.construction-physics.com/p/reading-list-021426 #技术趋势 #AI安全 #基础设施

@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-14T12:44:44Z",
+  "generated_at": "2026-02-14T13:16:29Z",
   "days": [
     {
       "date": "2026-02-14",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "chadnauseam.com (1)",
+        "construction-physics.com (1)",
         "joanwestenberg.com (1)",
         "nesbitt.io (1)",
         "paulgraham.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "construction-physics.com · Reading list 02/14/26",
         "shkspr.mobi · Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin ★★★★☆",
         "simonwillison.net · Quoting Thoughtworks",
         "utcc.utoronto.ca/~cks · The (very) old \"repaint mode\" GUI approach",
         "joanwestenberg.com · AI twitter's favourite lie: everyone wants to be a developer",
-        "paulgraham.com · Superlinear Returns",
         "chadnauseam.com · semaglutide-has-changed-the-world"
       ],
       "key_points": [
+        "这是一份面向开发者的精选阅读清单，聚焦AI安全、基础设施与硬件创新等前沿实践。",
         "本书是非线性复古计算机趣闻集，采用GOTO跳转式阅读，类似文本冒险，但受出版社问题影响购买困难。",
         "AI工具提升初级开发者效率，但中期工程师因基础薄弱面临再培训难题，行业尚无成熟解决方案。",
-        "博客澄清了“立即模式GUI”常被误解，并详细解释了一种更古老的、为节省内存而设计的“重绘模式”。",
-        "博客驳斥“AI让编码平民化”的幻想，指出用户追求零摩擦解决方案，而非成为开发者。"
+        "博客澄清了“立即模式GUI”常被误解，并详细解释了一种更古老的、为节省内存而设计的“重绘模式”。"
       ],
       "tweet_drafts": [
+        "【开发者阅读清单】Construction Physics最新一期聚焦AI安全、数据中心能源、半导体供应链与机器人技术。以信息图形式精选硬核长文，帮你快速穿透噪音，把握基础设施与产品趋势的核心脉络。适合关注安全、AI与底层架构的工程师与产品经理。链接直达→ https://www.construction-physics.com/p/reading-list-021426 #技术趋势 #AI安全 #基础设施",
         "推荐《20 Goto 10》：一本用GOTO指令串联的复古计算机趣闻书！非线性阅读像玩文本冒险，有死胡同和彩蛋。虽因出版社问题难买，但计算历史中心有签名版。开发者能从POKE/CHAIN等老命令中感受编程文化，适合作为灵感来源或团队阅读。 #复古计算 #技术历史 #书评",
-        "AI不会淘汰初级开发者，反而加速其成长——他们更擅长AI工具。真正危机是中期工程师：基础薄弱，再培训难。行业需探索apprenticeship等新模式。 #AI编程 #开发者职业 #Thoughtworks",
-        "你熟知的“立即模式GUI”可能被混淆了。本文详解更古老的“重绘模式”：为省内存，它只重绘窗口受损区域，依赖裁剪，避免双缓冲。这是1980-90年代的智慧，与现代双缓冲防撕裂的思路形成鲜明对比。理解此演进，对优化资源敏感型UI或评估框架底层策略仍有价值。#GUI #性能优化 #开发历史"
+        "AI不会淘汰初级开发者，反而加速其成长——他们更擅长AI工具。真正危机是中期工程师：基础薄弱，再培训难。行业需探索apprenticeship等新模式。 #AI编程 #开发者职业 #Thoughtworks"
       ]
     },
     {
