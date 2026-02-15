@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T18:02:39Z",
+  "generated_at": "2026-02-15T18:43:27Z",
   "days": [
     {
       "date": "2026-02-15",
-      "total": 10,
+      "total": 11,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "joanwestenberg.com (1)",
         "miguelgrinberg.com (1)",
         "nesbitt.io (1)",
@@ -13,23 +13,23 @@
         "seangoedecke.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Gwtar: a static efficient single-file HTML format",
         "simonwillison.net · Three months of OpenClaw",
         "oldvcr.blogspot.com · Hideki Sato has died",
         "miguelgrinberg.com · My Courses Site is Moving to a New Home",
         "simonwillison.net · Quoting Eric Meyer",
-        "shkspr.mobi · Social Media Payments and Perverse Incentives",
-        "simonwillison.net · How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt"
+        "shkspr.mobi · Social Media Payments and Perverse Incentives"
       ],
       "key_points": [
+        "Gwtar 是一种将网页所有资源打包为单个 HTML 文件的新格式，通过浏览器 API 实现资源的按需懒加载，避免因文件过大导致加载缓慢。",
         "OpenClaw开源AI代理框架在三个月内获得爆炸性关注，但AI.com的超级碗宣传与其实际功能（仅可注册handle）存在巨大落差，需警惕炒作。",
         "世嘉主机核心设计师、前代理社长 Hideki Sato（佐藤秀树）去世，享年77岁，他参与了从SG-1000到Dreamcast所有主机的设计。",
-        "作者付费课程及电子书平台已迁移至新域名，老用户需手动迁移账户。",
-        "CSS并非臃肿，而是Web视觉与交互的雄心表达，开发者应重新审视其核心价值。"
+        "作者付费课程及电子书平台已迁移至新域名，老用户需手动迁移账户。"
       ],
       "tweet_drafts": [
+        "【技术突破】Gwtar 让“单文件网页”不再笨重！它巧妙利用 `window.stop()` 中断初始加载，将全部资源存入内联 tar，再通过 `PerformanceObserver` 拦截请求，按需从 tar 中提取并注入。完美平衡便携性与性能，适合离线文档、大型静态站点归档。前端优化新思路！#WebDev #前端优化 #归档格式",
         "【OpenClaw三个月爆红警示】开源AI代理框架OpenClaw从首次提交到获196k星仅用3个月，更被$70M域名AI.com在超级碗广告点名。但实际仅能注册handle，功能近乎vaporware。开发者应：①速查其GitHub代码质量；②实测“易用安全”宣称；③警惕炒作，理性评估集成价值。链接：https://github.com/openclaw/openclaw #AI #开源 #安全",
-        "世嘉主机灵魂人物、主导设计SG-1000至Dreamcast全部硬件的Hideki Sato（佐藤秀树）先生于本周末去世，享年77岁。他曾任世嘉代理社长，其撰写的世嘉主机技术回顾是理解硬件产品成败的绝佳教材。Saturn的技术超前与混乱、Dreamcast的前瞻性与生态缺失，至今仍是产品开发的经典教训。RIP。",
-        "【重要通知】知名开发者 Miguel Grinberg 的付费课程与电子书平台已迁移！老用户请务必通过以下链接迁移账户，保留购买记录：https://learn.miguelgrinberg.com。基础设施升级，体验更佳，速操作。#开发者 #在线学习 #产品迁移"
+        "世嘉主机灵魂人物、主导设计SG-1000至Dreamcast全部硬件的Hideki Sato（佐藤秀树）先生于本周末去世，享年77岁。他曾任世嘉代理社长，其撰写的世嘉主机技术回顾是理解硬件产品成败的绝佳教材。Saturn的技术超前与混乱、Dreamcast的前瞻性与生态缺失，至今仍是产品开发的经典教训。RIP。"
       ]
     },
     {
