@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-15T19:06:43Z",
+  "generated_at": "2026-02-15T19:37:43Z",
   "days": [
     {
       "date": "2026-02-15",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "simonwillison.net (4)",
         "joanwestenberg.com (1)",
+        "johndcook.com (1)",
         "miguelgrinberg.com (1)",
         "nesbitt.io (1)",
-        "oldvcr.blogspot.com (1)",
-        "seangoedecke.com (1)"
+        "oldvcr.blogspot.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Race between primes of the forms 4k + 1 and 4k + 3",
         "simonwillison.net · Gwtar: a static efficient single-file HTML format",
         "simonwillison.net · Three months of OpenClaw",
         "oldvcr.blogspot.com · Hideki Sato has died",
         "miguelgrinberg.com · My Courses Site is Moving to a New Home",
-        "simonwillison.net · Quoting Eric Meyer",
-        "shkspr.mobi · Social Media Payments and Perverse Incentives"
+        "simonwillison.net · Quoting Eric Meyer"
       ],
       "key_points": [
+        "最大素数纪录多为4k+3形式，因Mersenne素数更易通过Lucas-Lehmer测试发现，且存在“Chebyshev偏差”——有限范围内4k+3素数计数常领先，但极限下两类素数数量相等。",
         "Gwtar 是一种将网页所有资源打包为单个 HTML 文件的新格式，通过浏览器 API 实现资源的按需懒加载，避免因文件过大导致加载缓慢。",
         "OpenClaw开源AI代理框架在三个月内获得爆炸性关注，但AI.com的超级碗宣传与其实际功能（仅可注册handle）存在巨大落差，需警惕炒作。",
-        "世嘉主机核心设计师、前代理社长 Hideki Sato（佐藤秀树）去世，享年77岁，他参与了从SG-1000到Dreamcast所有主机的设计。",
-        "作者付费课程及电子书平台已迁移至新域名，老用户需手动迁移账户。"
+        "世嘉主机核心设计师、前代理社长 Hideki Sato（佐藤秀树）去世，享年77岁，他参与了从SG-1000到Dreamcast所有主机的设计。"
       ],
       "tweet_drafts": [
+        "为何最大素数纪录全是4k+3？因Mersenne素数易用Lucas-Lehmer测试发现，非因数量更多。数论中存在“Chebyshev偏差”：有限范围内4k+3素数计数常领先，但极限下与4k+1相等，且会无限振荡。附可视化代码，开发者需注意：密码学选参时，素数形式影响算法特性（如平方和表示），勿被短期数据误导。",
         "【技术突破】Gwtar 让“单文件网页”不再笨重！它巧妙利用 `window.stop()` 中断初始加载，将全部资源存入内联 tar，再通过 `PerformanceObserver` 拦截请求，按需从 tar 中提取并注入。完美平衡便携性与性能，适合离线文档、大型静态站点归档。前端优化新思路！#WebDev #前端优化 #归档格式",
-        "【OpenClaw三个月爆红警示】开源AI代理框架OpenClaw从首次提交到获196k星仅用3个月，更被$70M域名AI.com在超级碗广告点名。但实际仅能注册handle，功能近乎vaporware。开发者应：①速查其GitHub代码质量；②实测“易用安全”宣称；③警惕炒作，理性评估集成价值。链接：https://github.com/openclaw/openclaw #AI #开源 #安全",
-        "世嘉主机灵魂人物、主导设计SG-1000至Dreamcast全部硬件的Hideki Sato（佐藤秀树）先生于本周末去世，享年77岁。他曾任世嘉代理社长，其撰写的世嘉主机技术回顾是理解硬件产品成败的绝佳教材。Saturn的技术超前与混乱、Dreamcast的前瞻性与生态缺失，至今仍是产品开发的经典教训。RIP。"
+        "【OpenClaw三个月爆红警示】开源AI代理框架OpenClaw从首次提交到获196k星仅用3个月，更被$70M域名AI.com在超级碗广告点名。但实际仅能注册handle，功能近乎vaporware。开发者应：①速查其GitHub代码质量；②实测“易用安全”宣称；③警惕炒作，理性评估集成价值。链接：https://github.com/openclaw/openclaw #AI #开源 #安全"
       ]
     },
     {
