@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T17:04:59Z",
+  "generated_at": "2026-02-15T17:39:20Z",
   "days": [
     {
       "date": "2026-02-15",
-      "total": 9,
+      "total": 10,
       "feeds": [
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "joanwestenberg.com (1)",
         "miguelgrinberg.com (1)",
         "nesbitt.io (1)",
@@ -13,23 +13,23 @@
         "seangoedecke.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Three months of OpenClaw",
         "oldvcr.blogspot.com · Hideki Sato has died",
         "miguelgrinberg.com · My Courses Site is Moving to a New Home",
         "simonwillison.net · Quoting Eric Meyer",
         "shkspr.mobi · Social Media Payments and Perverse Incentives",
-        "simonwillison.net · How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
-        "utcc.utoronto.ca/~cks · The problem of delivering errors to syndication feed readers"
+        "simonwillison.net · How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt"
       ],
       "key_points": [
+        "OpenClaw开源AI代理框架在三个月内获得爆炸性关注，但AI.com的超级碗宣传与其实际功能（仅可注册handle）存在巨大落差，需警惕炒作。",
         "世嘉主机核心设计师、前代理社长 Hideki Sato（佐藤秀树）去世，享年77岁，他参与了从SG-1000到Dreamcast所有主机的设计。",
         "作者付费课程及电子书平台已迁移至新域名，老用户需手动迁移账户。",
-        "CSS并非臃肿，而是Web视觉与交互的雄心表达，开发者应重新审视其核心价值。",
-        "原生社交打赏功能设想虽好，但会扭曲创作激励，催生内容抄袭并引入安全与法律责任风险，需谨慎实验。"
+        "CSS并非臃肿，而是Web视觉与交互的雄心表达，开发者应重新审视其核心价值。"
       ],
       "tweet_drafts": [
+        "【OpenClaw三个月爆红警示】开源AI代理框架OpenClaw从首次提交到获196k星仅用3个月，更被$70M域名AI.com在超级碗广告点名。但实际仅能注册handle，功能近乎vaporware。开发者应：①速查其GitHub代码质量；②实测“易用安全”宣称；③警惕炒作，理性评估集成价值。链接：https://github.com/openclaw/openclaw #AI #开源 #安全",
         "世嘉主机灵魂人物、主导设计SG-1000至Dreamcast全部硬件的Hideki Sato（佐藤秀树）先生于本周末去世，享年77岁。他曾任世嘉代理社长，其撰写的世嘉主机技术回顾是理解硬件产品成败的绝佳教材。Saturn的技术超前与混乱、Dreamcast的前瞻性与生态缺失，至今仍是产品开发的经典教训。RIP。",
-        "【重要通知】知名开发者 Miguel Grinberg 的付费课程与电子书平台已迁移！老用户请务必通过以下链接迁移账户，保留购买记录：https://learn.miguelgrinberg.com。基础设施升级，体验更佳，速操作。#开发者 #在线学习 #产品迁移",
-        "Eric Meyer力挺CSS：“它不是臃肿，是雄心勃勃！” CSS试图用文本格式表达一切视觉与交互，其深度常被低估。作为Web基石，理解其设计哲学能提升前端工程水平。建议：重读规范、实践新特性、参与标准讨论。尊重基础，才能构建未来。#CSS #Web标准 #前端开发"
+        "【重要通知】知名开发者 Miguel Grinberg 的付费课程与电子书平台已迁移！老用户请务必通过以下链接迁移账户，保留购买记录：https://learn.miguelgrinberg.com。基础设施升级，体验更佳，速操作。#开发者 #在线学习 #产品迁移"
       ]
     },
     {

@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-02-15T17:04:59Z",
-  "count": 31,
+  "generated_at": "2026-02-15T17:39:20Z",
+  "count": 32,
   "updates": [
+    {
+      "id": "https://simonwillison.net/2026/feb/15/openclaw/#atom-everything",
+      "run_at": "2026-02-15T17:38:56Z",
+      "feed_title": "simonwillison.net",
+      "title": "Three months of OpenClaw",
+      "link": "https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything",
+      "published": "2026-02-15T17:23:28Z",
+      "tags": [
+        "ai-agents",
+        "openclaw",
+        "ai",
+        "open-source",
+        "domains"
+      ],
+      "tldr": "OpenClaw开源AI代理框架在三个月内获得爆炸性关注，但AI.com的超级碗宣传与其实际功能（仅可注册handle）存在巨大落差，需警惕炒作。",
+      "what": "项目自2025年11月25日启动，已累计10,000次提交、600贡献者、196,000星标；AI.com宣称其产品基于OpenClaw，但当前仅开放handle预留，无实质功能。",
+      "why": "开源框架的快速迭代与社区参与、$70M购买的ai.com域名营销、以及市场对“易用安全AI代理”的迫切需求共同驱动了此次病毒式传播。",
+      "action": "1. 立即访问OpenClaw GitHub仓库，审查代码结构与安全实现；2. 测试其实际可用性，验证“无需技术技能”的说法；3. 关注后续功能发布，评估是否值得集成到项目中。",
+      "tweet": "【OpenClaw三个月爆红警示】开源AI代理框架OpenClaw从首次提交到获196k星仅用3个月，更被$70M域名AI.com在超级碗广告点名。但实际仅能注册handle，功能近乎vaporware。开发者应：①速查其GitHub代码质量；②实测“易用安全”宣称；③警惕炒作，理性评估集成价值。链接：https://github.com/openclaw/openclaw #AI #开源 #安全"
+    },
     {
       "id": "https://oldvcr.blogspot.com/2026/02/hideki-sato-has-died.html",
       "run_at": "2026-02-15T17:04:36Z",
@@ -338,19 +358,6 @@
       "tweet": "AI圈流行“人人成开发者”？错！多数人只想tap/swipe解决问题，拒绝prompt/terminal。开发者真机会：用AI封装复杂性，提供无缝体验。别教人编码，帮人省编码。#AI #产品思维 #开发者"
     },
     {
-      "id": "https://chadnauseam.com/random/semaglutide-has-changed-the-world",
-      "run_at": "2026-02-14T00:00:05Z",
-      "feed_title": "chadnauseam.com",
-      "title": "semaglutide-has-changed-the-world",
-      "link": "https://chadnauseam.com/random/semaglutide-has-changed-the-world",
-      "published": "2026-02-14T00:00:07Z",
-      "tldr": "semaglutide-has-changed-the-world",
-      "what": "semaglutide-has-changed-the-world",
-      "why": "Fresh update from monitored feed.",
-      "action": "Open source link and decide whether to read now or add to digest backlog.",
-      "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
-    },
-    {
       "id": "http://www.paulgraham.com/superlinear.html",
       "run_at": "2026-02-14T00:00:05Z",
       "feed_title": "paulgraham.com",
@@ -362,6 +369,19 @@
       "why": "Fresh update from monitored feed.",
       "action": "Open source link and decide whether to read now or add to digest backlog.",
       "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
+    },
+    {
+      "id": "https://chadnauseam.com/random/semaglutide-has-changed-the-world",
+      "run_at": "2026-02-14T00:00:05Z",
+      "feed_title": "chadnauseam.com",
+      "title": "semaglutide-has-changed-the-world",
+      "link": "https://chadnauseam.com/random/semaglutide-has-changed-the-world",
+      "published": "2026-02-14T00:00:07Z",
+      "tldr": "semaglutide-has-changed-the-world",
+      "what": "semaglutide-has-changed-the-world",
+      "why": "Fresh update from monitored feed.",
+      "action": "Open source link and decide whether to read now or add to digest backlog.",
+      "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
     },
     {
       "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
