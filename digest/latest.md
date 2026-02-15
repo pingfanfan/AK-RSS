@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-15 21:37:37 UTC
+Generated at: 2026-02-15 22:01:26 UTC
 
-- [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything) (`simonwillison.net`)
-  - TLDR: “Deep Blue”指开发者因AI快速替代其核心技能而产生的职业倦怠与存在焦虑，需正视此心理现象。
-  - WHAT: 这是一种心理状态，源于生成式AI（如ChatGPT）能瞬间完成开发者多年积累的编程与数据处理任务，导致其感到技能价值被剥夺。
-  - WHY: 该情绪在开发者社区真实蔓延，引发互相指责与精神内耗，若不命名讨论，将阻碍社区健康与个人职业规划。
-  - ACTION: 主动将AI工具集成至现有工作流，用其处理重复任务；同时深耕AI难以替代的领域，如复杂系统架构、安全合规与产品战略。
-  - TWEET: 你的技能被AI“秒杀”过吗？新词“Deep Blue”描述了开发者面对ChatGPT等工具时的深层焦虑：多年修炼可能瞬间过时。这不是技术问题，是心理危机。建议：①用AI做助手而非对手；②转向架构、安全等AI弱项。正视情绪，才能找到新定位。 #开发者 #AI焦虑
+- [Em dash](https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything) (`simonwillison.net`)
+  - TLDR: Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合。
+  - WHAT: 博客展示代码s.replace(' - ', u'\u2014')，追溯至2015年Django迁移，标签涵盖generative-ai、typography等，核心是排版自动化。
+  - WHY: 通过历史代码对比LLM热潮，突显手动自动化工具的可持续性；利用AI标签吸引关注技术演进的开发者，增强内容传播。
+  - ACTION: 1. 在静态站点生成器中实现标点智能替换插件；2. 整理并开源遗留脚本，提升代码复用价值；3. 发布技术内容时交叉使用传统工具与AI标签以扩大触及。
+  - TWEET: Simon Willison 晒出2015年代码：s.replace(' - ', '\u2014') 自动转短横线为em dash，坚称非LLM所写却打#generative-ai 标签。启示：老工具+AI标签=高效引流。行动：给你的博客加标点优化脚本；翻翻旧代码库；发文章混合传统/AI标签。#开发者技巧
