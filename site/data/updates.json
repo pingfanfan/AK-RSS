@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T06:14:36Z",
-  "count": 24,
+  "generated_at": "2026-02-15T06:45:20Z",
+  "count": 25,
   "updates": [
     {
       "id": "https://simonwillison.net/2026/feb/15/cognitive-debt/#atom-everything",
@@ -22,6 +22,22 @@
       "why": "生成式AI让代码产出速度远超人类理解速度，债务从“代码库”转移到“人脑”，更隐蔽且直接削弱团队持续交付能力。",
       "action": "1. 强制AI生成代码后撰写设计注释；2. 每周举行15分钟设计意图同步会；3. 用架构决策记录（ADR）固化关键决策；4. 代码审查必须包含“是否易理解”检查项。",
       "tweet": "警惕！用AI写代码可能让你更快失去对项目的掌控。最新研究指出，最大的风险不是技术债务，而是“认知债务”——团队集体遗忘系统为何如此设计。即使代码整洁，无人能解释时，项目即瘫痪。对策：强制AI生成设计注释、定期同步意图、用ADR记录决策。别让速度吞噬理解。#认知债务 #AI编程 #工程实践"
+    },
+    {
+      "id": "https://utcc.utoronto.ca/~cks/space/blog/web/feedreadererrorsproblem",
+      "run_at": "2026-02-15T06:45:00Z",
+      "feed_title": "utcc.utoronto.ca/~cks",
+      "title": "The problem of delivering errors to syndication feed readers",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblem",
+      "published": "2026-02-15T04:30:32Z",
+      "tags": [
+        "web"
+      ],
+      "tldr": "针对被阻止的订阅源阅读器，返回HTML错误页或302重定向无效，必须返回有效的订阅源（如Atom/RSS）才能让用户看到解释。",
+      "what": "订阅源阅读器期望响应为订阅源格式，若收到text/html等格式会静默丢弃，用户仅可能看到标题或状态码，精心编写的HTML错误页无法展示。",
+      "why": "订阅源阅读器协议设计如此，非订阅源内容被视为解析错误，这是其核心行为逻辑，而非缺陷。",
+      "action": "1. 订阅源提供者：为被阻止的User-Agent等准备一个“错误订阅源”，返回200状态码，并在条目中嵌入解释或指向HTML页的链接。2. 订阅源阅读器开发者：尝试显示收到的HTML错误响应体，提升异常情况下的用户体验。",
+      "tweet": "【订阅源错误处理指南】当需阻止某些阅读器时，返回HTML错误页无效，因其只解析RSS/Atom。正确做法：返回200状态码+一个含解释的特殊订阅条目。同时呼吁阅读器开发者：请尝试显示收到的HTML错误内容。这对提升订阅生态的健壮性至关重要。 #RSS #WebDev"
     },
     {
       "id": "https://www.joanwestenberg.com/the-empire-always-falls/",
@@ -237,19 +253,6 @@
       "tweet": "AI圈流行“人人成开发者”？错！多数人只想tap/swipe解决问题，拒绝prompt/terminal。开发者真机会：用AI封装复杂性，提供无缝体验。别教人编码，帮人省编码。#AI #产品思维 #开发者"
     },
     {
-      "id": "http://www.paulgraham.com/superlinear.html",
-      "run_at": "2026-02-14T00:00:05Z",
-      "feed_title": "paulgraham.com",
-      "title": "Superlinear Returns",
-      "link": "http://www.paulgraham.com/superlinear.html",
-      "published": "2026-02-14T00:00:07Z",
-      "tldr": "Superlinear Returns",
-      "what": "Superlinear Returns",
-      "why": "Fresh update from monitored feed.",
-      "action": "Open source link and decide whether to read now or add to digest backlog.",
-      "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
-    },
-    {
       "id": "https://chadnauseam.com/random/semaglutide-has-changed-the-world",
       "run_at": "2026-02-14T00:00:05Z",
       "feed_title": "chadnauseam.com",
@@ -261,6 +264,19 @@
       "why": "Fresh update from monitored feed.",
       "action": "Open source link and decide whether to read now or add to digest backlog.",
       "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
+    },
+    {
+      "id": "http://www.paulgraham.com/superlinear.html",
+      "run_at": "2026-02-14T00:00:05Z",
+      "feed_title": "paulgraham.com",
+      "title": "Superlinear Returns",
+      "link": "http://www.paulgraham.com/superlinear.html",
+      "published": "2026-02-14T00:00:07Z",
+      "tldr": "Superlinear Returns",
+      "what": "Superlinear Returns",
+      "why": "Fresh update from monitored feed.",
+      "action": "Open source link and decide whether to read now or add to digest backlog.",
+      "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
     },
     {
       "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
