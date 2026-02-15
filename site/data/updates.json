@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T08:03:44Z",
+  "generated_at": "2026-02-15T08:42:46Z",
   "count": 26,
   "updates": [
     {
@@ -279,19 +279,6 @@
       "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
     },
     {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
-    },
-    {
       "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
       "run_at": "2026-02-14T21:37:41Z",
       "feed_title": "matklad.github.io",
@@ -319,6 +306,19 @@
       "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
       "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
+    },
+    {
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
