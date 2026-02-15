@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T20:01:44Z",
+  "generated_at": "2026-02-15T20:40:07Z",
   "count": 34,
   "updates": [
     {
@@ -175,6 +175,19 @@
       "tweet": "警惕AI“必然性”迷思！博客以罗马帝国、托勒密体系为例，指出所有技术帝国都终将崩溃。对开发者：别死磕单一AI巨头，评估风险，拥抱开源替代方案，为范式转移做准备。历史教训：永久性只是幻觉。#AI #开发者 #风险"
     },
     {
+      "id": "https://seangoedecke.com/fast-llm-inference/",
+      "run_at": "2026-02-15T06:13:50Z",
+      "feed_title": "seangoedecke.com",
+      "title": "Two different tricks for fast LLM inference",
+      "link": "https://seangoedecke.com/fast-llm-inference/",
+      "published": "2026-02-15T00:00:00Z",
+      "tldr": "Anthropic与OpenAI的“fast mode”本质不同：前者通过低批次推理加速真实模型Opus 4.6（2.5倍速，成本高），后者依赖专用芯片运行简化模型GPT-5.3-Codex-Spark（15倍速，能力降级）。",
+      "what": "Anthropic快模式：真实Opus 4.6，吞吐约170 tokens/秒（原65），价格约6倍。OpenAI快模式：简化模型Spark，超1000 tokens/秒（原65），但工具调用等能力明显弱于完整版GPT-5.3-Codex。",
+      "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
+      "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
+      "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
       "run_at": "2026-02-15T10:40:57Z",
       "feed_title": "nesbitt.io",
@@ -191,19 +204,6 @@
       "why": "对开发者可加速本地构建迭代；对社区能减少对crates.io等依赖捐赠带宽服务的无效请求，降低其运营成本，体现技术社会责任。",
       "action": "Go项目直接采用`go mod download`模式；Rust/Python/Ruby项目可尝试`cargo fetch`/`pip download`等命令模拟分离，并关注其官方离线安装支持；在团队内部分享此模式并审查现有Dockerfile。",
       "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
-    },
-    {
-      "id": "https://seangoedecke.com/fast-llm-inference/",
-      "run_at": "2026-02-15T06:13:50Z",
-      "feed_title": "seangoedecke.com",
-      "title": "Two different tricks for fast LLM inference",
-      "link": "https://seangoedecke.com/fast-llm-inference/",
-      "published": "2026-02-15T00:00:00Z",
-      "tldr": "Anthropic与OpenAI的“fast mode”本质不同：前者通过低批次推理加速真实模型Opus 4.6（2.5倍速，成本高），后者依赖专用芯片运行简化模型GPT-5.3-Codex-Spark（15倍速，能力降级）。",
-      "what": "Anthropic快模式：真实Opus 4.6，吞吐约170 tokens/秒（原65），价格约6倍。OpenAI快模式：简化模型Spark，超1000 tokens/秒（原65），但工具调用等能力明显弱于完整版GPT-5.3-Codex。",
-      "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
-      "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
-      "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
     },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/",
@@ -419,17 +419,20 @@
       "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
     },
     {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
+      "run_at": "2026-02-14T10:41:07Z",
+      "feed_title": "nesbitt.io",
+      "title": "Package Management Namespaces",
+      "link": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
       "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
+      "tags": [
+        "package-managers"
+      ],
+      "tldr": "扁平命名空间虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，威胁供应链安全。",
+      "what": "博客以PyPI、crates.io等为例，分析扁平命名空间（全局先到先得）的优缺点：优点是命令短、易记忆；缺点是名字稀缺、废弃包滞留、易受typosquatting攻击。",
+      "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
+      "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
+      "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
     },
     {
       "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
@@ -445,20 +448,17 @@
       "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
     },
     {
-      "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
-      "run_at": "2026-02-14T10:41:07Z",
-      "feed_title": "nesbitt.io",
-      "title": "Package Management Namespaces",
-      "link": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
       "published": "2026-02-14T00:00:00Z",
-      "tags": [
-        "package-managers"
-      ],
-      "tldr": "扁平命名空间虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，威胁供应链安全。",
-      "what": "博客以PyPI、crates.io等为例，分析扁平命名空间（全局先到先得）的优缺点：优点是命令短、易记忆；缺点是名字稀缺、废弃包滞留、易受typosquatting攻击。",
-      "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
-      "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
-      "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
