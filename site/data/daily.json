@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-15T15:04:00Z",
+  "generated_at": "2026-02-15T15:38:20Z",
   "days": [
     {
       "date": "2026-02-15",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "simonwillison.net (2)",
         "joanwestenberg.com (1)",
+        "miguelgrinberg.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
-        "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "miguelgrinberg.com · My Courses Site is Moving to a New Home",
         "simonwillison.net · Quoting Eric Meyer",
         "shkspr.mobi · Social Media Payments and Perverse Incentives",
         "simonwillison.net · How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
         "utcc.utoronto.ca/~cks · The problem of delivering errors to syndication feed readers",
-        "joanwestenberg.com · The empire always falls",
-        "nesbitt.io · Separating Download from Install in Docker Builds"
+        "joanwestenberg.com · The empire always falls"
       ],
       "key_points": [
+        "作者付费课程及电子书平台已迁移至新域名，老用户需手动迁移账户。",
         "CSS并非臃肿，而是Web视觉与交互的雄心表达，开发者应重新审视其核心价值。",
         "原生社交打赏功能设想虽好，但会扭曲创作激励，催生内容抄袭并引入安全与法律责任风险，需谨慎实验。",
-        "AI代理加速开发，但团队对系统的共享理解会快速流失，导致“认知债务”累积，最终使项目陷入瘫痪。",
-        "针对被阻止的订阅源阅读器，返回HTML错误页或302重定向无效，必须返回有效的订阅源（如Atom/RSS）才能让用户看到解释。"
+        "AI代理加速开发，但团队对系统的共享理解会快速流失，导致“认知债务”累积，最终使项目陷入瘫痪。"
       ],
       "tweet_drafts": [
+        "【重要通知】知名开发者 Miguel Grinberg 的付费课程与电子书平台已迁移！老用户请务必通过以下链接迁移账户，保留购买记录：https://learn.miguelgrinberg.com。基础设施升级，体验更佳，速操作。#开发者 #在线学习 #产品迁移",
         "Eric Meyer力挺CSS：“它不是臃肿，是雄心勃勃！” CSS试图用文本格式表达一切视觉与交互，其深度常被低估。作为Web基石，理解其设计哲学能提升前端工程水平。建议：重读规范、实践新特性、参与标准讨论。尊重基础，才能构建未来。#CSS #Web标准 #前端开发",
-        "【社交平台内嵌打赏？小心扭曲激励！】设想虽好，但可能催生“内容 stealing”产业链，并让平台卷入欺诈与黑客攻击的法律风险。实验前必须：①强身份验证+内容溯源；②厘清支付中介法律责任；③优先在去中心化协议层试点。安全与激励设计，缺一不可。#社交支付 #产品安全 #开发者",
-        "警惕！用AI写代码可能让你更快失去对项目的掌控。最新研究指出，最大的风险不是技术债务，而是“认知债务”——团队集体遗忘系统为何如此设计。即使代码整洁，无人能解释时，项目即瘫痪。对策：强制AI生成设计注释、定期同步意图、用ADR记录决策。别让速度吞噬理解。#认知债务 #AI编程 #工程实践"
+        "【社交平台内嵌打赏？小心扭曲激励！】设想虽好，但可能催生“内容 stealing”产业链，并让平台卷入欺诈与黑客攻击的法律风险。实验前必须：①强身份验证+内容溯源；②厘清支付中介法律责任；③优先在去中心化协议层试点。安全与激励设计，缺一不可。#社交支付 #产品安全 #开发者"
       ]
     },
     {
