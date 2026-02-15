@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T10:41:16Z",
+  "generated_at": "2026-02-15T11:03:33Z",
   "days": [
     {
       "date": "2026-02-15",
@@ -15,14 +15,14 @@
         "simonwillison.net · How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
         "utcc.utoronto.ca/~cks · The problem of delivering errors to syndication feed readers",
         "joanwestenberg.com · The empire always falls",
-        "seangoedecke.com · Two different tricks for fast LLM inference",
-        "nesbitt.io · Separating Download from Install in Docker Builds"
+        "nesbitt.io · Separating Download from Install in Docker Builds",
+        "seangoedecke.com · Two different tricks for fast LLM inference"
       ],
       "key_points": [
         "AI代理加速开发，但团队对系统的共享理解会快速流失，导致“认知债务”累积，最终使项目陷入瘫痪。",
         "针对被阻止的订阅源阅读器，返回HTML错误页或302重定向无效，必须返回有效的订阅源（如Atom/RSS）才能让用户看到解释。",
         "警惕将当前AI巨头的统治视为永恒，历史表明所有技术-商业帝国都会因内部腐化而崩溃。",
-        "Anthropic与OpenAI的“fast mode”本质不同：前者通过低批次推理加速真实模型Opus 4.6（2.5倍速，成本高），后者依赖专用芯片运行简化模型GPT-5.3-Codex-Spark（15倍速，能力降级）。"
+        "在Dockerfile中分离依赖下载与安装步骤，能显著提升构建缓存命中率，减少冗余下载，节省时间与公共带宽。"
       ],
       "tweet_drafts": [
         "警惕！用AI写代码可能让你更快失去对项目的掌控。最新研究指出，最大的风险不是技术债务，而是“认知债务”——团队集体遗忘系统为何如此设计。即使代码整洁，无人能解释时，项目即瘫痪。对策：强制AI生成设计注释、定期同步意图、用ADR记录决策。别让速度吞噬理解。#认知债务 #AI编程 #工程实践",
