@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-02-15T12:02:04Z",
-  "count": 27,
+  "generated_at": "2026-02-15T12:44:55Z",
+  "count": 28,
   "updates": [
+    {
+      "id": "https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/",
+      "run_at": "2026-02-15T12:44:33Z",
+      "feed_title": "shkspr.mobi",
+      "title": "Social Media Payments and Perverse Incentives",
+      "link": "https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/",
+      "published": "2026-02-15T12:34:23Z",
+      "tags": [
+        "/etc/",
+        "BSky",
+        "mastodon",
+        "money",
+        "Social Media"
+      ],
+      "tldr": "原生社交打赏功能设想虽好，但会扭曲创作激励，催生内容抄袭并引入安全与法律责任风险，需谨慎实验。",
+      "what": "博客提出了在社交平台（如Mastodon）内嵌原生打赏按钮的产品原型，并系统分析了其可能引发的抄袭激励、平台责任、黑客攻击诱因等负面效应。",
+      "why": "对关注基础设施与安全的开发者而言，这是评估支付功能产品设计的关键风险前置分析，涉及经济模型、安全与法律边界。",
+      "action": "1. 实验前必须设计强身份验证与内容数字指纹机制以对抗抄袭；2. 明确平台作为支付中介的法律责任与用户欺诈处理流程；3. 优先在去中心化协议层（如ActivityPub）探索，而非中心化平台快速上线。",
+      "tweet": "【社交平台内嵌打赏？小心扭曲激励！】设想虽好，但可能催生“内容 stealing”产业链，并让平台卷入欺诈与黑客攻击的法律风险。实验前必须：①强身份验证+内容溯源；②厘清支付中介法律责任；③优先在去中心化协议层试点。安全与激励设计，缺一不可。#社交支付 #产品安全 #开发者"
+    },
     {
       "id": "https://simonwillison.net/2026/feb/15/cognitive-debt/#atom-everything",
       "run_at": "2026-02-15T06:13:50Z",
@@ -297,6 +317,19 @@
       "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
     },
     {
+      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "run_at": "2026-02-14T21:37:41Z",
+      "feed_title": "matklad.github.io",
+      "title": "Justifying text-wrap: pretty",
+      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
+      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
+      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
+      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
+      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
       "run_at": "2026-02-14T10:41:07Z",
       "feed_title": "nesbitt.io",
@@ -311,19 +344,6 @@
       "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
       "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
-    },
-    {
-      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "run_at": "2026-02-14T21:37:41Z",
-      "feed_title": "matklad.github.io",
-      "title": "Justifying text-wrap: pretty",
-      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
-      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
-      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
-      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
-      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
     },
     {
       "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
