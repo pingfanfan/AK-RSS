@@ -1,19 +1,23 @@
 {
-  "generated_at": "2026-02-16T08:09:09Z",
+  "generated_at": "2026-02-16T08:44:49Z",
   "days": [
     {
       "date": "2026-02-16",
-      "total": 1,
+      "total": 2,
       "feeds": [
+        "pluralistic.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: The online community trilemma (16 Feb 2026)",
         "utcc.utoronto.ca/~cks · Sometimes giving syndication feed readers good errors is a mistake"
       ],
       "key_points": [
+        "在线社区无法同时最大化覆盖范围、社区质量和信息质量，必须有所取舍。",
         "为RSS/Atom阅读器返回格式正确的错误订阅源（stub feed）反而导致Feedly误将其缓存为主订阅源，引发服务故障。"
       ],
       "tweet_drafts": [
+        "【社区设计铁律】覆盖、质量、氛围，三者只能得其二。你的产品在牺牲哪个？开发者必读：明确优先级，设计时预设取舍，并告诉用户为什么。 #产品策略 #社区管理 #开发者",
         "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
       ]
     },
