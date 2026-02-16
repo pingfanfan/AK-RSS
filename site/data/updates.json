@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T18:07:39Z",
+  "generated_at": "2026-02-16T18:44:08Z",
   "count": 52,
   "updates": [
     {
@@ -162,6 +162,19 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
+      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "run_at": "2026-02-16T12:45:25Z",
+      "feed_title": "matklad.github.io",
+      "title": "Diagnostics Factory",
+      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
+      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
+      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
+      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
+      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
+    },
+    {
       "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
       "run_at": "2026-02-16T09:45:21Z",
       "feed_title": "rakhim.exotext.com",
@@ -192,19 +205,6 @@
       "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
       "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
-    },
-    {
-      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "run_at": "2026-02-16T12:45:25Z",
-      "feed_title": "matklad.github.io",
-      "title": "Diagnostics Factory",
-      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
-      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
-      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
-      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
-      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -477,24 +477,6 @@
       "tweet": "警惕AI“必然性”迷思！博客以罗马帝国、托勒密体系为例，指出所有技术帝国都终将崩溃。对开发者：别死磕单一AI巨头，评估风险，拥抱开源替代方案，为范式转移做准备。历史教训：永久性只是幻觉。#AI #开发者 #风险"
     },
     {
-      "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
-      "run_at": "2026-02-15T10:40:57Z",
-      "feed_title": "nesbitt.io",
-      "title": "Separating Download from Install in Docker Builds",
-      "link": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
-      "published": "2026-02-15T00:00:00Z",
-      "tags": [
-        "package-managers",
-        "docker",
-        "idea"
-      ],
-      "tldr": "在Dockerfile中分离依赖下载与安装步骤，能显著提升构建缓存命中率，减少冗余下载，节省时间与公共带宽。",
-      "what": "将包管理器的“下载”（仅根据lockfile获取依赖到本地缓存）与“安装”（从本地缓存离线安装）拆分为两个独立的RUN指令，并调整COPY顺序，使仅lockfile变更时能复用下载层。",
-      "why": "对开发者可加速本地构建迭代；对社区能减少对crates.io等依赖捐赠带宽服务的无效请求，降低其运营成本，体现技术社会责任。",
-      "action": "Go项目直接采用`go mod download`模式；Rust/Python/Ruby项目可尝试`cargo fetch`/`pip download`等命令模拟分离，并关注其官方离线安装支持；在团队内部分享此模式并审查现有Dockerfile。",
-      "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
-    },
-    {
       "id": "https://seangoedecke.com/fast-llm-inference/",
       "run_at": "2026-02-15T06:13:50Z",
       "feed_title": "seangoedecke.com",
@@ -514,6 +496,24 @@
       "title": "Deep Blue: Chess vs Programming",
       "link": "https://susam.net/deep-blue.html",
       "published": "2026-02-15T00:00:00Z"
+    },
+    {
+      "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
+      "run_at": "2026-02-15T10:40:57Z",
+      "feed_title": "nesbitt.io",
+      "title": "Separating Download from Install in Docker Builds",
+      "link": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
+      "published": "2026-02-15T00:00:00Z",
+      "tags": [
+        "package-managers",
+        "docker",
+        "idea"
+      ],
+      "tldr": "在Dockerfile中分离依赖下载与安装步骤，能显著提升构建缓存命中率，减少冗余下载，节省时间与公共带宽。",
+      "what": "将包管理器的“下载”（仅根据lockfile获取依赖到本地缓存）与“安装”（从本地缓存离线安装）拆分为两个独立的RUN指令，并调整COPY顺序，使仅lockfile变更时能复用下载层。",
+      "why": "对开发者可加速本地构建迭代；对社区能减少对crates.io等依赖捐赠带宽服务的无效请求，降低其运营成本，体现技术社会责任。",
+      "action": "Go项目直接采用`go mod download`模式；Rust/Python/Ruby项目可尝试`cargo fetch`/`pip download`等命令模拟分离，并关注其官方离线安装支持；在团队内部分享此模式并审查现有Dockerfile。",
+      "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
     },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/",
