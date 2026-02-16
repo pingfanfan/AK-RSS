@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T11:13:39Z",
+  "generated_at": "2026-02-16T11:43:27Z",
   "days": [
     {
       "date": "2026-02-16",
@@ -13,19 +13,19 @@
       "highlights": [
         "pluralistic.net · Pluralistic: The online community trilemma (16 Feb 2026)",
         "utcc.utoronto.ca/~cks · Sometimes giving syndication feed readers good errors is a mistake",
-        "nesbitt.io · CHANGELOG.md",
-        "rakhim.exotext.com · Modern UI is clean and invisible? Ha, I wish!"
+        "rakhim.exotext.com · Modern UI is clean and invisible? Ha, I wish!",
+        "nesbitt.io · CHANGELOG.md"
       ],
       "key_points": [
         "在线社区无法同时最大化覆盖范围、社区质量和信息质量，必须有所取舍。",
         "为RSS/Atom阅读器返回格式正确的错误订阅源（stub feed）反而导致Feedly误将其缓存为主订阅源，引发服务故障。",
-        "项目通过移除大型依赖、自建轻量数学模块，修复关键财务计算bug，并暴露eval()安全漏洞，实现包体积减少68%与构建时间大幅缩短。",
-        "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。"
+        "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
+        "项目通过移除大型依赖、自建轻量数学模块，修复关键财务计算bug，并暴露eval()安全漏洞，实现包体积减少68%与构建时间大幅缩短。"
       ],
       "tweet_drafts": [
         "【社区设计铁律】覆盖、质量、氛围，三者只能得其二。你的产品在牺牲哪个？开发者必读：明确优先级，设计时预设取舍，并告诉用户为什么。 #产品策略 #社区管理 #开发者",
         "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查",
-        "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
+        "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
       ]
     },
     {
