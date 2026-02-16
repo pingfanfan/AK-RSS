@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-02-16T11:43:27Z",
-  "count": 43,
+  "generated_at": "2026-02-16T12:06:52Z",
+  "count": 45,
   "updates": [
+    {
+      "id": "https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/",
+      "run_at": "2026-02-16T12:06:25Z",
+      "feed_title": "matduggan.com",
+      "title": "I Sold Out for $20 a Month and All I Got Was This Perfectly Generated Terraform",
+      "link": "https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/",
+      "published": "2026-02-16T12:05:16Z",
+      "tags": [
+        "AI",
+        "LLM"
+      ],
+      "tldr": "作者从伦理上抵制LLM，但Claude Code在生成Terraform等基础设施代码上的卓越实用性，迫使他承认其价值。",
+      "what": "博客记录了作者对Copilot、Gemini的失望，以及对Claude Code能准确、高效生成Terraform、K8s YAML、README等代码的亲身测试与惊讶。",
+      "why": "因为Claude Code完美解决了基础设施配置中重复、枯燥、易错的手工编码痛点，其带来的效率提升压倒了对LLM伦理的原有成见。",
+      "action": "立即用Claude Code（或类似工具）处理你项目中重复的基础设施即代码（如Terraform）、配置（如k8s YAML）或文档编写任务，但必须人工审核输出。",
+      "tweet": "曾坚决抵制LLM，直到试了Claude Code。它把我最讨厌的Terraform编写变成了几分钟的事，准确得可怕。伦理上仍挣扎，但效率上已投降。开发者真该试试。#AI编程 #Terraform #DevOps"
+    },
+    {
+      "id": "https://idiallo.com/blog/programming-tools-are-free?src=feed",
+      "run_at": "2026-02-16T12:06:25Z",
+      "feed_title": "idiallo.com",
+      "title": "Programming is free",
+      "link": "https://idiallo.com/blog/programming-tools-are-free?src=feed",
+      "published": "2026-02-16T12:00:00Z",
+      "tldr": "免费工具仍是编程入门最佳路径，避免被付费服务与“必须买装备”的叙事绑架。",
+      "what": "作者通过个人经历对比今昔，批评当前初学者过度消费云服务与复杂工具，忽视免费且够用的基础方案（如LAMP栈）。",
+      "why": "高昂成本与过度工程是新手核心障碍，免费工具能降低门槛，让精力聚焦于学习本质而非工具选型。",
+      "action": "立即用廉价VPS（如$5/月）部署LAMP/LEMP栈；使用Vim/VS Code等免费IDE；用免费AI辅助工具（如Codeium）替代付费Copilot；暂缓接触复杂云服务。",
+      "tweet": "别再被“必须买买买”的叙事忽悠！编程入门本质免费：一台旧电脑、一个VPS、LAMP栈、Vim/VS Code足矣。云服务与高级工具是规模化时才需考虑。先写出“Hello World”，再谈架构。#编程入门 #开发者"
+    },
     {
       "id": "https://pluralistic.net/2026/02/16/fast-good-cheap/",
       "run_at": "2026-02-16T08:44:30Z",
@@ -44,19 +74,6 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
-      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "run_at": "2026-02-16T09:45:21Z",
-      "feed_title": "rakhim.exotext.com",
-      "title": "Modern UI is clean and invisible? Ha, I wish!",
-      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
-      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
-      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
-      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
-      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
-    },
-    {
       "id": "https://nesbitt.io/2026/02/16/changelog.html",
       "run_at": "2026-02-16T10:44:48Z",
       "feed_title": "nesbitt.io",
@@ -74,6 +91,19 @@
       "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
       "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
+    },
+    {
+      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "run_at": "2026-02-16T09:45:21Z",
+      "feed_title": "rakhim.exotext.com",
+      "title": "Modern UI is clean and invisible? Ha, I wish!",
+      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
+      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
+      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
+      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
+      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -590,6 +620,19 @@
       "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
     },
     {
+      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "run_at": "2026-02-14T21:37:41Z",
+      "feed_title": "matklad.github.io",
+      "title": "Justifying text-wrap: pretty",
+      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
+      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
+      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
+      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
+      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
+    },
+    {
       "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
       "run_at": "2026-02-15T07:42:18Z",
       "feed_title": "fabiensanglard.net",
@@ -617,19 +660,6 @@
       "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
       "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
-    },
-    {
-      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "run_at": "2026-02-14T21:37:41Z",
-      "feed_title": "matklad.github.io",
-      "title": "Justifying text-wrap: pretty",
-      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
-      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
-      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
-      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
-      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
