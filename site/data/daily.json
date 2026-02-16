@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-02-16T13:26:27Z",
+  "generated_at": "2026-02-16T13:53:26Z",
   "days": [
     {
       "date": "2026-02-16",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "filfre.net (1)",
         "idiallo.com (1)",
         "matduggan.com (1)",
         "matklad.github.io (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "filfre.net · 1998 Ebook!",
         "shkspr.mobi · Book Review: This Is How They Tell Me the World Ends - Nicole Perlroth ★⯪☆☆☆",
         "matduggan.com · I Sold Out for $20 a Month and All I Got Was This Perfectly Generated Terraform",
         "dfarq.homeip.net · Youtube founding date: February 15, 2005",
         "idiallo.com · Programming is free",
-        "pluralistic.net · Pluralistic: The online community trilemma (16 Feb 2026)",
-        "utcc.utoronto.ca/~cks · Sometimes giving syndication feed readers good errors is a mistake"
+        "pluralistic.net · Pluralistic: The online community trilemma (16 Feb 2026)"
       ],
       "key_points": [
+        "1998年电子书已发布，格式全面转向.epub，工具链优化将加速后续更新。",
         "博主强烈批评该书技术错误频出、充满刻板印象且编辑粗疏，整体不推荐。",
         "作者从伦理上抵制LLM，但Claude Code在生成Terraform等基础设施代码上的卓越实用性，迫使他承认其价值。",
-        "纠正了YouTube成立日期的常见错误认知，明确其正确日期为2005年2月15日。",
-        "免费工具仍是编程入门最佳路径，避免被付费服务与“必须买装备”的叙事绑架。"
+        "纠正了YouTube成立日期的常见错误认知，明确其正确日期为2005年2月15日。"
       ],
       "tweet_drafts": [
+        "【技术更新】1998年《数字古董商》电子书已发布，格式全面转向.epub。.mobi已淘汰，新Kindle原生支持.epub，老设备可用Calibre转换。脚本已适配Linux，工具链优化后更新将更及时。开发者若需旧格式请自行转换，欢迎支持作者持续产出：https://www.filfre.net/2026/02/1998-ebook/ #电子书 #格式迁移 #开发者工具",
         "【避坑书评】《This Is How They Tell Me the World Ends》被狠批：技术硬伤（“黑客让光盘飞出硬盘”）、性别偏见（“黑客皆爱柔术”）、纽约时报滥情。虽提及Stuxnet，但整体不严谨。安全开发者慎读！#网络安全 #读书笔记",
-        "曾坚决抵制LLM，直到试了Claude Code。它把我最讨厌的Terraform编写变成了几分钟的事，准确得可怕。伦理上仍挣扎，但效率上已投降。开发者真该试试。#AI编程 #Terraform #DevOps",
-        "【科技史纠错】YouTube成立于2005年2月15日，由PayPal早期员工创建。对开发者而言，查证这类关键事实是避免技术谣言的第一步。PayPal“黑帮”的连续创业史，更是研究产品演进、团队构建与基础设施趋势的绝佳样本。建议核查你常引用的公司日期，并分析其早期决策逻辑。#开发者 #创业 #科技史"
+        "曾坚决抵制LLM，直到试了Claude Code。它把我最讨厌的Terraform编写变成了几分钟的事，准确得可怕。伦理上仍挣扎，但效率上已投降。开发者真该试试。#AI编程 #Terraform #DevOps"
       ]
     },
     {
       "date": "2026-02-15",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "simonwillison.net (7)",
         "daringfireball.net (1)",
