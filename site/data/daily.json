@@ -1,35 +1,51 @@
 {
-  "generated_at": "2026-02-15T22:40:05Z",
+  "generated_at": "2026-02-16T06:19:00Z",
   "days": [
     {
-      "date": "2026-02-15",
-      "total": 14,
+      "date": "2026-02-16",
+      "total": 1,
       "feeds": [
-        "simonwillison.net (6)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)",
-        "miguelgrinberg.com (1)",
-        "nesbitt.io (1)",
-        "oldvcr.blogspot.com (1)"
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · Sometimes giving syndication feed readers good errors is a mistake"
+      ],
+      "key_points": [
+        "为RSS/Atom阅读器返回格式正确的错误订阅源（stub feed）反而导致Feedly误将其缓存为主订阅源，引发服务故障。"
+      ],
+      "tweet_drafts": [
+        "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
+      ]
+    },
+    {
+      "date": "2026-02-15",
+      "total": 17,
+      "feeds": [
+        "simonwillison.net (7)",
+        "daringfireball.net (1)",
+        "geohot.github.io (1)",
+        "joanwestenberg.com (1)",
+        "johndcook.com (1)",
+        "miguelgrinberg.com (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · The AI Vampire",
+        "daringfireball.net · WorkOS Pipes",
         "simonwillison.net · Em dash",
         "simonwillison.net · Deep Blue",
         "johndcook.com · Race between primes of the forms 4k + 1 and 4k + 3",
-        "simonwillison.net · Gwtar: a static efficient single-file HTML format",
-        "simonwillison.net · Three months of OpenClaw",
-        "oldvcr.blogspot.com · Hideki Sato has died"
+        "simonwillison.net · Gwtar: a static efficient single-file HTML format"
       ],
       "key_points": [
+        "AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报。",
+        "WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子。",
         "Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合。",
-        "“Deep Blue”指开发者因AI快速替代其核心技能而产生的职业倦怠与存在焦虑，需正视此心理现象。",
-        "最大素数纪录多为4k+3形式，因Mersenne素数更易通过Lucas-Lehmer测试发现，且存在“Chebyshev偏差”——有限范围内4k+3素数计数常领先，但极限下两类素数数量相等。",
-        "Gwtar 是一种将网页所有资源打包为单个 HTML 文件的新格式，通过浏览器 API 实现资源的按需懒加载，避免因文件过大导致加载缓慢。"
+        "“Deep Blue”指开发者因AI快速替代其核心技能而产生的职业倦怠与存在焦虑，需正视此心理现象。"
       ],
       "tweet_drafts": [
-        "Simon Willison 晒出2015年代码：s.replace(' - ', '\\u2014') 自动转短横线为em dash，坚称非LLM所写却打#generative-ai 标签。启示：老工具+AI标签=高效引流。行动：给你的博客加标点优化脚本；翻翻旧代码库；发文章混合传统/AI标签。#开发者技巧",
-        "你的技能被AI“秒杀”过吗？新词“Deep Blue”描述了开发者面对ChatGPT等工具时的深层焦虑：多年修炼可能瞬间过时。这不是技术问题，是心理危机。建议：①用AI做助手而非对手；②转向架构、安全等AI弱项。正视情绪，才能找到新定位。 #开发者 #AI焦虑",
-        "为何最大素数纪录全是4k+3？因Mersenne素数易用Lucas-Lehmer测试发现，非因数量更多。数论中存在“Chebyshev偏差”：有限范围内4k+3素数计数常领先，但极限下与4k+1相等，且会无限振荡。附可视化代码，开发者需注意：密码学选参时，素数形式影响算法特性（如平方和表示），勿被短期数据误导。"
+        "【AI吸血鬼警告】Steve Yegge指出：若你是公司唯一重度AI用户，10倍效率可能换来burnout和同事敌意。AI自动化简单任务，却留下艰难决策，每日代理工作应限4小时。开发者需主动设限、同步策略、谈判价值，别让企业吸干你的血！#AI #开发者健康 #效率陷阱",
+        "还在为每个第三方 API 手写 OAuth 和令牌刷新逻辑？WorkOS Pipes 用一个嵌入式小组件搞定用户授权，后端直接取令牌，安全存储与刷新全托管。支持 GitHub、Slack、Google 等主流服务，极大简化集成。推荐给所有需要连接外部 API 的团队。 #开发者工具 #SaaS #基础设施",
+        "Simon Willison 晒出2015年代码：s.replace(' - ', '\\u2014') 自动转短横线为em dash，坚称非LLM所写却打#generative-ai 标签。启示：老工具+AI标签=高效引流。行动：给你的博客加标点优化脚本；翻翻旧代码库；发文章混合传统/AI标签。#开发者技巧"
       ]
     },
     {
