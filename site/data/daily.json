@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-16T12:06:52Z",
+  "generated_at": "2026-02-16T12:45:58Z",
   "days": [
     {
       "date": "2026-02-16",
-      "total": 6,
+      "total": 9,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "matduggan.com (1)",
+        "matklad.github.io (1)",
         "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "rakhim.exotext.com (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Book Review: This Is How They Tell Me the World Ends - Nicole Perlroth ★⯪☆☆☆",
         "matduggan.com · I Sold Out for $20 a Month and All I Got Was This Perfectly Generated Terraform",
+        "dfarq.homeip.net · Youtube founding date: February 15, 2005",
         "idiallo.com · Programming is free",
         "pluralistic.net · Pluralistic: The online community trilemma (16 Feb 2026)",
-        "utcc.utoronto.ca/~cks · Sometimes giving syndication feed readers good errors is a mistake",
-        "nesbitt.io · CHANGELOG.md",
-        "rakhim.exotext.com · Modern UI is clean and invisible? Ha, I wish!"
+        "utcc.utoronto.ca/~cks · Sometimes giving syndication feed readers good errors is a mistake"
       ],
       "key_points": [
+        "博主强烈批评该书技术错误频出、充满刻板印象且编辑粗疏，整体不推荐。",
         "作者从伦理上抵制LLM，但Claude Code在生成Terraform等基础设施代码上的卓越实用性，迫使他承认其价值。",
-        "免费工具仍是编程入门最佳路径，避免被付费服务与“必须买装备”的叙事绑架。",
-        "在线社区无法同时最大化覆盖范围、社区质量和信息质量，必须有所取舍。",
-        "为RSS/Atom阅读器返回格式正确的错误订阅源（stub feed）反而导致Feedly误将其缓存为主订阅源，引发服务故障。"
+        "纠正了YouTube成立日期的常见错误认知，明确其正确日期为2005年2月15日。",
+        "免费工具仍是编程入门最佳路径，避免被付费服务与“必须买装备”的叙事绑架。"
       ],
       "tweet_drafts": [
+        "【避坑书评】《This Is How They Tell Me the World Ends》被狠批：技术硬伤（“黑客让光盘飞出硬盘”）、性别偏见（“黑客皆爱柔术”）、纽约时报滥情。虽提及Stuxnet，但整体不严谨。安全开发者慎读！#网络安全 #读书笔记",
         "曾坚决抵制LLM，直到试了Claude Code。它把我最讨厌的Terraform编写变成了几分钟的事，准确得可怕。伦理上仍挣扎，但效率上已投降。开发者真该试试。#AI编程 #Terraform #DevOps",
-        "别再被“必须买买买”的叙事忽悠！编程入门本质免费：一台旧电脑、一个VPS、LAMP栈、Vim/VS Code足矣。云服务与高级工具是规模化时才需考虑。先写出“Hello World”，再谈架构。#编程入门 #开发者",
-        "【社区设计铁律】覆盖、质量、氛围，三者只能得其二。你的产品在牺牲哪个？开发者必读：明确优先级，设计时预设取舍，并告诉用户为什么。 #产品策略 #社区管理 #开发者"
+        "【科技史纠错】YouTube成立于2005年2月15日，由PayPal早期员工创建。对开发者而言，查证这类关键事实是避免技术谣言的第一步。PayPal“黑帮”的连续创业史，更是研究产品演进、团队构建与基础设施趋势的绝佳样本。建议核查你常引用的公司日期，并分析其早期决策逻辑。#开发者 #创业 #科技史"
       ]
     },
     {
