@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T10:15:43Z",
-  "count": 42,
+  "generated_at": "2026-02-16T10:45:12Z",
+  "count": 43,
   "updates": [
     {
       "id": "https://pluralistic.net/2026/02/16/fast-good-cheap/",
@@ -55,6 +55,25 @@
       "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
       "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
       "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
+    },
+    {
+      "id": "https://nesbitt.io/2026/02/16/changelog.html",
+      "run_at": "2026-02-16T10:44:48Z",
+      "feed_title": "nesbitt.io",
+      "title": "CHANGELOG.md",
+      "link": "https://nesbitt.io/2026/02/16/changelog.html",
+      "published": "2026-02-16T00:00:00Z",
+      "tags": [
+        "package-managers",
+        "open-source",
+        "ai",
+        "satire"
+      ],
+      "tldr": "项目通过移除大型依赖、自建轻量数学模块，修复关键财务计算bug，并暴露eval()安全漏洞，实现包体积减少68%与构建时间大幅缩短。",
+      "what": "1.2.0移除14MB的mathjs，新增47行自定义math-utils；1.3.0添加百分比/四舍五入函数，修复除零返回Infinity、浮点精度、字符串拼接导致的$149百万订单等严重bug；1.4.0添加用户表达式解析器，但发现CVE-2025-41547（因使用eval()）。",
+      "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
+      "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
+      "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -327,6 +346,19 @@
       "tweet": "警惕AI“必然性”迷思！博客以罗马帝国、托勒密体系为例，指出所有技术帝国都终将崩溃。对开发者：别死磕单一AI巨头，评估风险，拥抱开源替代方案，为范式转移做准备。历史教训：永久性只是幻觉。#AI #开发者 #风险"
     },
     {
+      "id": "https://seangoedecke.com/fast-llm-inference/",
+      "run_at": "2026-02-15T06:13:50Z",
+      "feed_title": "seangoedecke.com",
+      "title": "Two different tricks for fast LLM inference",
+      "link": "https://seangoedecke.com/fast-llm-inference/",
+      "published": "2026-02-15T00:00:00Z",
+      "tldr": "Anthropic与OpenAI的“fast mode”本质不同：前者通过低批次推理加速真实模型Opus 4.6（2.5倍速，成本高），后者依赖专用芯片运行简化模型GPT-5.3-Codex-Spark（15倍速，能力降级）。",
+      "what": "Anthropic快模式：真实Opus 4.6，吞吐约170 tokens/秒（原65），价格约6倍。OpenAI快模式：简化模型Spark，超1000 tokens/秒（原65），但工具调用等能力明显弱于完整版GPT-5.3-Codex。",
+      "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
+      "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
+      "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
       "run_at": "2026-02-15T10:40:57Z",
       "feed_title": "nesbitt.io",
@@ -343,19 +375,6 @@
       "why": "对开发者可加速本地构建迭代；对社区能减少对crates.io等依赖捐赠带宽服务的无效请求，降低其运营成本，体现技术社会责任。",
       "action": "Go项目直接采用`go mod download`模式；Rust/Python/Ruby项目可尝试`cargo fetch`/`pip download`等命令模拟分离，并关注其官方离线安装支持；在团队内部分享此模式并审查现有Dockerfile。",
       "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
-    },
-    {
-      "id": "https://seangoedecke.com/fast-llm-inference/",
-      "run_at": "2026-02-15T06:13:50Z",
-      "feed_title": "seangoedecke.com",
-      "title": "Two different tricks for fast LLM inference",
-      "link": "https://seangoedecke.com/fast-llm-inference/",
-      "published": "2026-02-15T00:00:00Z",
-      "tldr": "Anthropic与OpenAI的“fast mode”本质不同：前者通过低批次推理加速真实模型Opus 4.6（2.5倍速，成本高），后者依赖专用芯片运行简化模型GPT-5.3-Codex-Spark（15倍速，能力降级）。",
-      "what": "Anthropic快模式：真实Opus 4.6，吞吐约170 tokens/秒（原65），价格约6倍。OpenAI快模式：简化模型Spark，超1000 tokens/秒（原65），但工具调用等能力明显弱于完整版GPT-5.3-Codex。",
-      "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
-      "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
-      "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
     },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/",
@@ -571,19 +590,6 @@
       "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
     },
     {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
-    },
-    {
       "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
       "run_at": "2026-02-14T21:37:41Z",
       "feed_title": "matklad.github.io",
@@ -595,6 +601,19 @@
       "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
       "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
       "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
+    },
+    {
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",

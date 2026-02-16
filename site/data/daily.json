@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-02-16T10:15:43Z",
+  "generated_at": "2026-02-16T10:45:12Z",
   "days": [
     {
       "date": "2026-02-16",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "rakhim.exotext.com (1)",
         "utcc.utoronto.ca/~cks (1)"
@@ -12,12 +13,14 @@
       "highlights": [
         "pluralistic.net · Pluralistic: The online community trilemma (16 Feb 2026)",
         "utcc.utoronto.ca/~cks · Sometimes giving syndication feed readers good errors is a mistake",
-        "rakhim.exotext.com · Modern UI is clean and invisible? Ha, I wish!"
+        "rakhim.exotext.com · Modern UI is clean and invisible? Ha, I wish!",
+        "nesbitt.io · CHANGELOG.md"
       ],
       "key_points": [
         "在线社区无法同时最大化覆盖范围、社区质量和信息质量，必须有所取舍。",
         "为RSS/Atom阅读器返回格式正确的错误订阅源（stub feed）反而导致Feedly误将其缓存为主订阅源，引发服务故障。",
-        "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。"
+        "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
+        "项目通过移除大型依赖、自建轻量数学模块，修复关键财务计算bug，并暴露eval()安全漏洞，实现包体积减少68%与构建时间大幅缩短。"
       ],
       "tweet_drafts": [
         "【社区设计铁律】覆盖、质量、氛围，三者只能得其二。你的产品在牺牲哪个？开发者必读：明确优先级，设计时预设取舍，并告诉用户为什么。 #产品策略 #社区管理 #开发者",
