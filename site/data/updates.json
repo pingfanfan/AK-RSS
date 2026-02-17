@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-02-17T10:13:51Z",
-  "count": 61,
+  "generated_at": "2026-02-17T10:44:52Z",
+  "count": 62,
   "updates": [
+    {
+      "id": "https://nesbitt.io/2026/02/17/platform-strings.html",
+      "run_at": "2026-02-17T10:44:26Z",
+      "feed_title": "nesbitt.io",
+      "title": "Platform Strings",
+      "link": "https://nesbitt.io/2026/02/17/platform-strings.html",
+      "published": "2026-02-17T10:00:00Z",
+      "tags": [
+        "package-managers",
+        "deep-dive"
+      ],
+      "tldr": "不同工具链对同一硬件/OS组合使用互不兼容的平台标识字符串，导致跨生态系统的互操作和维护成本增加。",
+      "what": "博客以M1 Mac为例，列举了LLVM、RubyGems、Go、Python、npm等生态系统的不同命名（如aarch64-apple-darwin vs arm64-darwin），并追溯了GNU target triples的历史起源及其在GCC/LLVM中的演变。",
+      "why": "这种碎片化使得构建系统、包管理器和跨平台工具必须维护复杂的映射表，增加了出错风险（如安全漏洞、依赖冲突），并阻碍了AI/基础设施工具链的标准化和效率。",
+      "action": "开发者应优先使用广泛支持的规范（如LLVM triple），在项目中显式处理平台检测逻辑，并考虑贡献或采用统一的转换库（如platforms库）以减少自定义映射。",
+      "tweet": "【平台字符串混乱】你的M1 Mac在LLVM眼里是aarch64-apple-darwin，在npm眼里却是darwin-arm64。这种碎片化源于1990年代GNU autoconf，至今困扰着每个跨平台工具链。它让构建系统不得不维护映射表，增加安全风险与维护成本。建议：采用LLVM triple规范，使用统一转换库。详情：https://nesbitt.io/2026/02/17/platform-strings.html #开发者 #基础设施"
+    },
     {
       "id": "https://www.troyhunt.com/weekly-update-491/",
       "run_at": "2026-02-17T06:16:07Z",
@@ -301,19 +318,6 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
-      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "run_at": "2026-02-16T12:45:25Z",
-      "feed_title": "matklad.github.io",
-      "title": "Diagnostics Factory",
-      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
-      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
-      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
-      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
-      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
-    },
-    {
       "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
       "run_at": "2026-02-16T09:45:21Z",
       "feed_title": "rakhim.exotext.com",
@@ -325,6 +329,19 @@
       "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
       "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
       "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
+    },
+    {
+      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "run_at": "2026-02-16T12:45:25Z",
+      "feed_title": "matklad.github.io",
+      "title": "Diagnostics Factory",
+      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
+      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
+      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
+      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
+      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
     },
     {
       "id": "https://nesbitt.io/2026/02/16/changelog.html",
@@ -624,6 +641,19 @@
       "published": "2026-02-15T00:00:00Z"
     },
     {
+      "id": "https://seangoedecke.com/fast-llm-inference/",
+      "run_at": "2026-02-15T06:13:50Z",
+      "feed_title": "seangoedecke.com",
+      "title": "Two different tricks for fast LLM inference",
+      "link": "https://seangoedecke.com/fast-llm-inference/",
+      "published": "2026-02-15T00:00:00Z",
+      "tldr": "Anthropic与OpenAI的“fast mode”本质不同：前者通过低批次推理加速真实模型Opus 4.6（2.5倍速，成本高），后者依赖专用芯片运行简化模型GPT-5.3-Codex-Spark（15倍速，能力降级）。",
+      "what": "Anthropic快模式：真实Opus 4.6，吞吐约170 tokens/秒（原65），价格约6倍。OpenAI快模式：简化模型Spark，超1000 tokens/秒（原65），但工具调用等能力明显弱于完整版GPT-5.3-Codex。",
+      "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
+      "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
+      "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
       "run_at": "2026-02-15T10:40:57Z",
       "feed_title": "nesbitt.io",
@@ -640,19 +670,6 @@
       "why": "对开发者可加速本地构建迭代；对社区能减少对crates.io等依赖捐赠带宽服务的无效请求，降低其运营成本，体现技术社会责任。",
       "action": "Go项目直接采用`go mod download`模式；Rust/Python/Ruby项目可尝试`cargo fetch`/`pip download`等命令模拟分离，并关注其官方离线安装支持；在团队内部分享此模式并审查现有Dockerfile。",
       "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
-    },
-    {
-      "id": "https://seangoedecke.com/fast-llm-inference/",
-      "run_at": "2026-02-15T06:13:50Z",
-      "feed_title": "seangoedecke.com",
-      "title": "Two different tricks for fast LLM inference",
-      "link": "https://seangoedecke.com/fast-llm-inference/",
-      "published": "2026-02-15T00:00:00Z",
-      "tldr": "Anthropic与OpenAI的“fast mode”本质不同：前者通过低批次推理加速真实模型Opus 4.6（2.5倍速，成本高），后者依赖专用芯片运行简化模型GPT-5.3-Codex-Spark（15倍速，能力降级）。",
-      "what": "Anthropic快模式：真实Opus 4.6，吞吐约170 tokens/秒（原65），价格约6倍。OpenAI快模式：简化模型Spark，超1000 tokens/秒（原65），但工具调用等能力明显弱于完整版GPT-5.3-Codex。",
-      "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
-      "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
-      "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
     },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/",

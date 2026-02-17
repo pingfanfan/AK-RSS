@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-17T10:13:51Z",
+  "generated_at": "2026-02-17T10:44:52Z",
   "days": [
     {
       "date": "2026-02-17",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "daringfireball.net (1)",
         "martinalderson.com (1)",
+        "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "simonwillison.net (1)",
-        "troyhunt.com (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "troyhunt.com (1)"
       ],
       "highlights": [
+        "nesbitt.io · Platform Strings",
         "troyhunt.com · Weekly Update 491",
         "simonwillison.net · Nano Banana Pro diff to webcomic",
         "utcc.utoronto.ca/~cks · Understanding the limitation of 'do in new frame/window' in GNU Emacs",
         "daringfireball.net · [Sponsor] Hands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry",
-        "seangoedecke.com · LLM-generated skills work, if you generate them afterwards",
-        "martinalderson.com · Anthropic's 500 vulns are the tip of the iceberg"
+        "seangoedecke.com · LLM-generated skills work, if you generate them afterwards"
       ],
       "key_points": [
+        "不同工具链对同一硬件/OS组合使用互不兼容的平台标识字符串，导致跨生态系统的互操作和维护成本增加。",
         "ESP32蓝牙桥接Yale门锁实验因BLE被动性失败，作者转向优化Wi-Fi网络并评估Aqara U400作为替代方案。",
         "使用 AI 工具（Nano Banana Pro）将代码版本差异（diff）自动转化为网络漫画，以可视化方式解释新功能，对抗 AI 加速开发带来的“认知债务”。",
-        "Emacs 的“新框架/窗口”功能基于“显示缓冲区”模型，而非“运行命令”，因此没有直接的“在新框架执行命令”函数。",
-        "Sentry 官方 iOS 监控实战工作坊，教你用崩溃报告、追踪与日志系统化解决性能与稳定性问题，避免警报疲劳。"
+        "Emacs 的“新框架/窗口”功能基于“显示缓冲区”模型，而非“运行命令”，因此没有直接的“在新框架执行命令”函数。"
       ],
       "tweet_drafts": [
+        "【平台字符串混乱】你的M1 Mac在LLVM眼里是aarch64-apple-darwin，在npm眼里却是darwin-arm64。这种碎片化源于1990年代GNU autoconf，至今困扰着每个跨平台工具链。它让构建系统不得不维护映射表，增加安全风险与维护成本。建议：采用LLVM triple规范，使用统一转换库。详情：https://nesbitt.io/2026/02/17/platform-strings.html #开发者 #基础设施",
         "智能家居实验翻车？@TroyHunt 的ESP32蓝牙桥接Yale门锁因BLE被动性失败，已转向优化Wi-Fi。教训：协议选择需匹配实时性需求，基础网络是核心。备选方案：Aqara U400。 #智能家居 #物联网 #开发者",
-        "对抗 AI 时代的“认知债务”！试试将代码 diff 丢给 AI（如 Nano Banana Pro），自动生成解释新功能的网络漫画。Showboat 的远程发布功能就这样被可视化了，直观又有趣。开发者们，让技术文档活起来吧！#AI #开发工具 #认知债务",
-        "Emacs 新框架限制解析：框架显示缓冲区，不直接运行命令。`C-x 5 5` 是钩住“显示缓冲区”事件来创建框架。自定义功能时，先让命令生成缓冲区，再用 `switch-to-buffer-other-frame` 显示。适用于 MH-E、Magit 等非文件缓冲区场景。"
+        "对抗 AI 时代的“认知债务”！试试将代码 diff 丢给 AI（如 Nano Banana Pro），自动生成解释新功能的网络漫画。Showboat 的远程发布功能就这样被可视化了，直观又有趣。开发者们，让技术文档活起来吧！#AI #开发工具 #认知债务"
       ]
     },
     {
