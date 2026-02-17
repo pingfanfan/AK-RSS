@@ -2,7 +2,6 @@
 name: Email subscription
 description: Subscribe to AK-RSS 2-hour updates
 title: "[subscribe] your-email@example.com"
-labels: [subscription]
 ---
 
 EMAIL: your-email@example.com

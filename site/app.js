@@ -209,7 +209,7 @@ function wireSubscribeForm() {
       "Close this issue to unsubscribe."
     ].join("\n");
 
-    const url = `${SUBSCRIBE_URL_BASE}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}&labels=${encodeURIComponent("subscription")}`;
+    const url = `${SUBSCRIBE_URL_BASE}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
     hint.textContent = "Opening subscription confirmation page...";
     window.open(url, "_blank", "noopener");
   });
