@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-17 10:44:26 UTC
+Generated at: 2026-02-17 11:13:51 UTC
 
-- [Platform Strings](https://nesbitt.io/2026/02/17/platform-strings.html) (`nesbitt.io`)
-  - TLDR: 不同工具链对同一硬件/OS组合使用互不兼容的平台标识字符串，导致跨生态系统的互操作和维护成本增加。
-  - WHAT: 博客以M1 Mac为例，列举了LLVM、RubyGems、Go、Python、npm等生态系统的不同命名（如aarch64-apple-darwin vs arm64-darwin），并追溯了GNU target triples的历史起源及其在GCC/LLVM中的演变。
-  - WHY: 这种碎片化使得构建系统、包管理器和跨平台工具必须维护复杂的映射表，增加了出错风险（如安全漏洞、依赖冲突），并阻碍了AI/基础设施工具链的标准化和效率。
-  - ACTION: 开发者应优先使用广泛支持的规范（如LLVM triple），在项目中显式处理平台检测逻辑，并考虑贡献或采用统一的转换库（如platforms库）以减少自定义映射。
-  - TWEET: 【平台字符串混乱】你的M1 Mac在LLVM眼里是aarch64-apple-darwin，在npm眼里却是darwin-arm64。这种碎片化源于1990年代GNU autoconf，至今困扰着每个跨平台工具链。它让构建系统不得不维护映射表，增加安全风险与维护成本。建议：采用LLVM triple规范，使用统一转换库。详情：https://nesbitt.io/2026/02/17/platform-strings.html #开发者 #基础设施
+- [Pluralistic: What's a "gig work minimum wage" (17 Feb 2026)](https://pluralistic.net/2026/02/17/no-piecework/) (`pluralistic.net`)
+  - TLDR: 零工经济“最低工资”的核心是“等待工作时的报酬率”，而非每单价格；忽略等待时间会导致实际时薪远低于法定标准。
+  - WHAT: 文章剖析了零工经济中最低工资的实质，指出按件计酬模式通过将“等待时间”定义为“非工作时间”来系统性压低工资，并引用西雅图法规与NBER研究佐证。
+  - WHY: 对开发者而言，若产品涉及零工/众包模式，此模式是潜在的“工资盗窃”设计，将运营风险与无薪时间成本转嫁给劳动者，引发法律与伦理风险。
+  - ACTION: 审查自身平台：若采用任务竞价或派单模式，必须计算并公开“包含等待时间的预期时薪”，并设计机制补偿劳动者有效等待时间，避免仅按完成量付费。
+  - TWEET: 【开发者注意】零工平台设计陷阱：名义“每单价格”≠实际时薪。关键在“等待工作时的报酬率”。若你的产品让劳动者大量时间无薪等待，就是在变相违反最低工资原则。设计时应内置等待时间补偿与透明时薪计算。 #零工经济 #最低工资 #产品伦理 #劳动法
