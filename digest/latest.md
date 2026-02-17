@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-17 16:45:55 UTC
+Generated at: 2026-02-17 17:20:17 UTC
 
-- [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute) (`experimental-history.com`)
-  - TLDR: 博客以UFO现象为例，倡导用科学数据和可重复实验替代传闻，批判盲目接受异常报告。
-  - WHAT: 作者梳理UFO报告历史，指出多数可被已知现象解释，剩余未解案例常因证据不足，强调验证方法比结论更重要。
-  - WHY: 对开发者而言，这直接关联到AI模型的可信度、安全系统的误报处理，以及基础设施的数据质量——需警惕“异常”陷阱。
-  - ACTION: 1. 在AI训练中增加对抗样本和噪声数据测试；2. 为监控系统设计多源数据交叉验证模块；3. 用公开数据集（如MNIST异常检测）实践验证流程。
-  - TWEET: 【技术人如何看待UFO？】这篇博客用科学方法拆解“不明飞行物”现象：多数报告可解释，未解案例常因证据链断裂。对开发者启示：在AI、安全、基础设施中，必须建立数据验证闭环，避免被“异常”误导。具体行动：①为模型加入噪声测试；②设计多源交叉验证；③用公开数据集演练。科学精神比猎奇更重要。原文：https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute
+- [How to Force Restart an iPhone](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios) (`daringfireball.net`)
+  - TLDR: iPhone 卡死时，用“音量上→音量下→长按侧键”组合强制重启，步骤易忘但关键。
+  - WHAT: 博客详解了强制重启的具体按键顺序，并分享了升级 iOS 26.3 后锁屏卡死的亲身经历及解决方法。
+  - WHY: 系统更新可能导致意外卡死，当无法关机且无其他设备查询时，此操作是唯一自救手段。
+  - ACTION: 立即记忆三步操作（音量上、下、长按侧键），或将 Apple 支持页面加入浏览器书签以备急用。
+  - TWEET: iPhone 卡在锁屏别慌！强制重启三步：音量上→音量下→长按侧键至苹果logo出现。iOS更新后偶发卡死，此技能关键时刻自救。收藏Apple支持页，开发者必备故障排除技巧。#iPhone #iOS #技术干货
