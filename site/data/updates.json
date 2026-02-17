@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T21:08:10Z",
+  "generated_at": "2026-02-17T21:42:47Z",
   "count": 73,
   "updates": [
     {
@@ -245,19 +245,6 @@
       "tweet": "【免费实战】Sentry 官方 iOS 工作坊上线！手把手教你用崩溃报告+追踪+日志，快速定位性能瓶颈与崩溃根因，还能分析安装包大小。告别无效警报，直接提升用户体验与留存。开发者必看 👇 https://sentry.io/resources/ios-workshop-jan-2026/"
     },
     {
-      "id": "https://seangoedecke.com/generate-skills-afterwards/",
-      "run_at": "2026-02-17T06:16:07Z",
-      "feed_title": "seangoedecke.com",
-      "title": "LLM-generated skills work, if you generate them afterwards",
-      "link": "https://seangoedecke.com/generate-skills-afterwards/",
-      "published": "2026-02-17T00:00:00Z",
-      "tldr": "论文认为LLM自生成技能无效，但作者指出问题在于“事前生成”，正确方法是“事后总结”技能以实现复用。",
-      "what": "博客批判了一篇论文中让LLM在任务前生成技能的方法，主张在任务完成后让LLM将解决过程总结为结构化技能文档，并以SAEs特征钳制实验为例说明其价值。",
-      "why": "事前生成类似冗余的“思考步骤”，当前模型已内置推理；事后生成能捕获实际解决中的隐性知识、陷阱和有效模式，形成可复用的过程性资产。",
-      "action": "对重复性AI辅助任务（如代码编写、数据分析），在LLM输出解决方案后，立即用固定提示词（如“请将上述步骤总结为可复用的技能文档，包含步骤、代码示例和注意事项”）生成技能，并存入团队共享知识库。",
-      "tweet": "【开发技巧】别让LLM事前写技能计划！新研究显示这无效。正确姿势：完成任务后，让它总结成结构化文档。例如在SAEs实验中，事后总结的特征钳制步骤可直接复用。建议开发者建立“技能库”，将LLM解决实际问题的经验沉淀为可调用资产，大幅提升AI协作效率。#AI开发 #机器学习"
-    },
-    {
       "id": "https://martinalderson.com/posts/anthropic-found-500-zero-days/?utm_source=rss",
       "run_at": "2026-02-17T06:16:07Z",
       "feed_title": "martinalderson.com",
@@ -269,6 +256,19 @@
       "why": "AI系统严重依赖第三方库，未维护组件构成无法修补的供应链风险，可能成为针对AI基础设施的持久化攻击入口。",
       "action": "立即扫描项目依赖清单（SBOM），标记所有“未维护/停更”组件，制定迁移至替代库或隔离/降级使用的具体计划。",
       "tweet": "Anthropic红队发现500+漏洞，但警告：真正危险的是“长尾漏洞”——那些无人维护的软件中的缺陷，永远无法修复。AI开发者必须立即行动：扫描依赖，清理停更库，堵住供应链安全最大缺口。#AISecurity #DevSecOps"
+    },
+    {
+      "id": "https://seangoedecke.com/generate-skills-afterwards/",
+      "run_at": "2026-02-17T06:16:07Z",
+      "feed_title": "seangoedecke.com",
+      "title": "LLM-generated skills work, if you generate them afterwards",
+      "link": "https://seangoedecke.com/generate-skills-afterwards/",
+      "published": "2026-02-17T00:00:00Z",
+      "tldr": "论文认为LLM自生成技能无效，但作者指出问题在于“事前生成”，正确方法是“事后总结”技能以实现复用。",
+      "what": "博客批判了一篇论文中让LLM在任务前生成技能的方法，主张在任务完成后让LLM将解决过程总结为结构化技能文档，并以SAEs特征钳制实验为例说明其价值。",
+      "why": "事前生成类似冗余的“思考步骤”，当前模型已内置推理；事后生成能捕获实际解决中的隐性知识、陷阱和有效模式，形成可复用的过程性资产。",
+      "action": "对重复性AI辅助任务（如代码编写、数据分析），在LLM输出解决方案后，立即用固定提示词（如“请将上述步骤总结为可复用的技能文档，包含步骤、代码示例和注意事项”）生成技能，并存入团队共享知识库。",
+      "tweet": "【开发技巧】别让LLM事前写技能计划！新研究显示这无效。正确姿势：完成任务后，让它总结成结构化文档。例如在SAEs实验中，事后总结的特征钳制步骤可直接复用。建议开发者建立“技能库”，将LLM解决实际问题的经验沉淀为可调用资产，大幅提升AI协作效率。#AI开发 #机器学习"
     },
     {
       "id": "https://entropicthoughts.com/learning-keybee",
@@ -486,19 +486,6 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
-      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "run_at": "2026-02-16T09:45:21Z",
-      "feed_title": "rakhim.exotext.com",
-      "title": "Modern UI is clean and invisible? Ha, I wish!",
-      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
-      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
-      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
-      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
-      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
-    },
-    {
       "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
       "run_at": "2026-02-16T12:45:25Z",
       "feed_title": "matklad.github.io",
@@ -529,6 +516,19 @@
       "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
       "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
+    },
+    {
+      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "run_at": "2026-02-16T09:45:21Z",
+      "feed_title": "rakhim.exotext.com",
+      "title": "Modern UI is clean and invisible? Ha, I wish!",
+      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
+      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
+      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
+      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
+      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -819,6 +819,14 @@
       "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
     },
     {
+      "id": "https://susam.net/deep-blue.html",
+      "run_at": "2026-02-16T13:53:07Z",
+      "feed_title": "susam.net",
+      "title": "Deep Blue: Chess vs Programming",
+      "link": "https://susam.net/deep-blue.html",
+      "published": "2026-02-15T00:00:00Z"
+    },
+    {
       "id": "https://seangoedecke.com/fast-llm-inference/",
       "run_at": "2026-02-15T06:13:50Z",
       "feed_title": "seangoedecke.com",
@@ -830,14 +838,6 @@
       "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
       "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
       "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
-    },
-    {
-      "id": "https://susam.net/deep-blue.html",
-      "run_at": "2026-02-16T13:53:07Z",
-      "feed_title": "susam.net",
-      "title": "Deep Blue: Chess vs Programming",
-      "link": "https://susam.net/deep-blue.html",
-      "published": "2026-02-15T00:00:00Z"
     },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/",
@@ -1066,6 +1066,19 @@
       "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
     },
     {
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
       "run_at": "2026-02-14T10:41:07Z",
       "feed_title": "nesbitt.io",
@@ -1080,19 +1093,6 @@
       "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
       "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
-    },
-    {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
