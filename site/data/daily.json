@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T07:45:40Z",
+  "generated_at": "2026-02-17T08:09:44Z",
   "days": [
     {
       "date": "2026-02-17",
@@ -15,14 +15,14 @@
         "troyhunt.com · Weekly Update 491",
         "simonwillison.net · Nano Banana Pro diff to webcomic",
         "daringfireball.net · [Sponsor] Hands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry",
-        "martinalderson.com · Anthropic's 500 vulns are the tip of the iceberg",
-        "seangoedecke.com · LLM-generated skills work, if you generate them afterwards"
+        "seangoedecke.com · LLM-generated skills work, if you generate them afterwards",
+        "martinalderson.com · Anthropic's 500 vulns are the tip of the iceberg"
       ],
       "key_points": [
         "ESP32蓝牙桥接Yale门锁实验因BLE被动性失败，作者转向优化Wi-Fi网络并评估Aqara U400作为替代方案。",
         "使用 AI 工具（Nano Banana Pro）将代码版本差异（diff）自动转化为网络漫画，以可视化方式解释新功能，对抗 AI 加速开发带来的“认知债务”。",
         "Sentry 官方 iOS 监控实战工作坊，教你用崩溃报告、追踪与日志系统化解决性能与稳定性问题，避免警报疲劳。",
-        "Anthropic发现的500个漏洞仅是冰山一角，未维护软件中的“长尾漏洞”才是更大威胁。"
+        "论文认为LLM自生成技能无效，但作者指出问题在于“事前生成”，正确方法是“事后总结”技能以实现复用。"
       ],
       "tweet_drafts": [
         "智能家居实验翻车？@TroyHunt 的ESP32蓝牙桥接Yale门锁因BLE被动性失败，已转向优化Wi-Fi。教训：协议选择需匹配实时性需求，基础网络是核心。备选方案：Aqara U400。 #智能家居 #物联网 #开发者",
