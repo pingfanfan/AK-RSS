@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-02-17T14:44:49Z",
-  "count": 67,
+  "generated_at": "2026-02-17T15:15:00Z",
+  "count": 68,
   "updates": [
+    {
+      "id": "https://simonwillison.net/2026/feb/17/rough-draft-8266/#atom-everything",
+      "run_at": "2026-02-17T15:14:35Z",
+      "feed_title": "simonwillison.net",
+      "title": "Quoting ROUGH DRAFT 8/2/66",
+      "link": "https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything",
+      "published": "2026-02-17T14:49:04Z",
+      "tags": [
+        "screen-writing",
+        "science-fiction"
+      ],
+      "tldr": "早期草稿揭示创作迭代过程，版本历史对开发者有重要启示。",
+      "what": "博客引用了1966年《星际迷航》开场白的原始草稿，其用词（如“patrol”）与最终定稿（“mission”）存在关键差异。",
+      "why": "这生动展示了“迭代”与“版本控制”的价值——如同代码commit，保留历史能清晰追溯决策演变，避免信息丢失。",
+      "action": "1. 在项目中强制使用Git等工具，保留所有设计草稿与废弃代码；2. 定期review历史版本，分析变更原因以优化当前架构；3. 在团队内部分享“从草稿到成品”的案例，强化迭代文化。",
+      "tweet": "《星际迷航》开场白草稿与定稿对比：从“五年巡逻”到“五年使命”。这对开发者是绝佳隐喻：版本历史不是垃圾，而是决策地图。务必用Git记录一切草稿，定期复盘变更，你的未来设计将更稳健。#软件开发 #迭代 #版本控制"
+    },
     {
       "id": "https://simonwillison.net/2026/feb/17/first-kakapo-chick-in-four-years/#atom-everything",
       "run_at": "2026-02-17T14:15:59Z",
@@ -399,17 +416,17 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
-      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "run_at": "2026-02-16T09:45:21Z",
-      "feed_title": "rakhim.exotext.com",
-      "title": "Modern UI is clean and invisible? Ha, I wish!",
-      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "run_at": "2026-02-16T12:45:25Z",
+      "feed_title": "matklad.github.io",
+      "title": "Diagnostics Factory",
+      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
       "published": "2026-02-16T00:00:00Z",
-      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
-      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
-      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
-      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
-      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
+      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
+      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
+      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
+      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
+      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
     },
     {
       "id": "https://nesbitt.io/2026/02/16/changelog.html",
@@ -431,17 +448,17 @@
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
     },
     {
-      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "run_at": "2026-02-16T12:45:25Z",
-      "feed_title": "matklad.github.io",
-      "title": "Diagnostics Factory",
-      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "run_at": "2026-02-16T09:45:21Z",
+      "feed_title": "rakhim.exotext.com",
+      "title": "Modern UI is clean and invisible? Ha, I wish!",
+      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
       "published": "2026-02-16T00:00:00Z",
-      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
-      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
-      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
-      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
-      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
+      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
+      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
+      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
+      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
+      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -982,19 +999,6 @@
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
     },
     {
-      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "run_at": "2026-02-14T21:37:41Z",
-      "feed_title": "matklad.github.io",
-      "title": "Justifying text-wrap: pretty",
-      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
-      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
-      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
-      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
-      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
-    },
-    {
       "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
       "run_at": "2026-02-15T07:42:18Z",
       "feed_title": "fabiensanglard.net",
@@ -1006,6 +1010,19 @@
       "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
       "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
       "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
+    },
+    {
+      "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "run_at": "2026-02-14T21:37:41Z",
+      "feed_title": "matklad.github.io",
+      "title": "Justifying text-wrap: pretty",
+      "link": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Safari 2025年新增CSS属性`text-wrap: pretty`，使用动态规划优化网页文本换行，但当前与`text-align: justify`连用会导致词间距异常。",
+      "what": "`text-wrap: pretty`是一个CSS属性，旨在通过智能选择换行点，使文本行的长度更均衡，提升排版美观度。",
+      "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
+      "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
+      "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",

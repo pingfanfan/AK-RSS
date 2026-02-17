@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T14:44:49Z",
+  "generated_at": "2026-02-17T15:15:00Z",
   "days": [
     {
       "date": "2026-02-17",
-      "total": 11,
+      "total": 12,
       "feeds": [
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "martinalderson.com (1)",
@@ -13,23 +13,23 @@
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting ROUGH DRAFT 8/2/66",
         "simonwillison.net · First kākāpō chick in four years hatches on Valentine's Day",
         "shkspr.mobi · Gadget Review: Epomaker Split 70 Mechanical Keyboard ★★★★⯪",
         "dfarq.homeip.net · First BBS goes online Feb. 16, 1978",
         "pluralistic.net · Pluralistic: What's a \"gig work minimum wage\" (17 Feb 2026)",
-        "nesbitt.io · Platform Strings",
-        "troyhunt.com · Weekly Update 491"
+        "nesbitt.io · Platform Strings"
       ],
       "key_points": [
+        "早期草稿揭示创作迭代过程，版本历史对开发者有重要启示。",
         "2026年鸮鹦鹉繁殖季首雏诞生，通过代孕妈妈抚养优化繁殖策略，种群总数暂达237只。",
         "零工经济“最低工资”的核心是“等待工作时的报酬率”，而非每单价格；忽略等待时间会导致实际时薪远低于法定标准。",
-        "不同工具链对同一硬件/OS组合使用互不兼容的平台标识字符串，导致跨生态系统的互操作和维护成本增加。",
-        "ESP32蓝牙桥接Yale门锁实验因BLE被动性失败，作者转向优化Wi-Fi网络并评估Aqara U400作为替代方案。"
+        "不同工具链对同一硬件/OS组合使用互不兼容的平台标识字符串，导致跨生态系统的互操作和维护成本增加。"
       ],
       "tweet_drafts": [
+        "《星际迷航》开场白草稿与定稿对比：从“五年巡逻”到“五年使命”。这对开发者是绝佳隐喻：版本历史不是垃圾，而是决策地图。务必用Git记录一切草稿，定期复盘变更，你的未来设计将更稳健。#软件开发 #迭代 #版本控制",
         "【技术视角看鸮鹦鹉保护】2026首只鸮鹦鹉雏鸟通过“代孕”诞生，生母四蛋压力大，代孕妈妈无蛋，优化抚养策略。种群管理已数字化，技术如何助力生物多样性？开发者可参与数据追踪、AI预测等项目。#AI #数据科学 #生物保护",
-        "【开发者注意】零工平台设计陷阱：名义“每单价格”≠实际时薪。关键在“等待工作时的报酬率”。若你的产品让劳动者大量时间无薪等待，就是在变相违反最低工资原则。设计时应内置等待时间补偿与透明时薪计算。 #零工经济 #最低工资 #产品伦理 #劳动法",
-        "【平台字符串混乱】你的M1 Mac在LLVM眼里是aarch64-apple-darwin，在npm眼里却是darwin-arm64。这种碎片化源于1990年代GNU autoconf，至今困扰着每个跨平台工具链。它让构建系统不得不维护映射表，增加安全风险与维护成本。建议：采用LLVM triple规范，使用统一转换库。详情：https://nesbitt.io/2026/02/17/platform-strings.html #开发者 #基础设施"
+        "【开发者注意】零工平台设计陷阱：名义“每单价格”≠实际时薪。关键在“等待工作时的报酬率”。若你的产品让劳动者大量时间无薪等待，就是在变相违反最低工资原则。设计时应内置等待时间补偿与透明时薪计算。 #零工经济 #最低工资 #产品伦理 #劳动法"
       ]
     },
     {
