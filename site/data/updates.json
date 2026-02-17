@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-02-17T18:46:11Z",
-  "count": 71,
+  "generated_at": "2026-02-17T19:18:41Z",
+  "count": 72,
   "updates": [
+    {
+      "id": "https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates",
+      "run_at": "2026-02-17T19:18:19Z",
+      "feed_title": "daringfireball.net",
+      "title": "★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years",
+      "link": "https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates",
+      "published": "2026-02-17T18:49:55Z",
+      "tldr": "苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。",
+      "what": "苹果基于App Store交易数据发布iOS 26/iPadOS 26采用率：近四年iPhone 74%（vs iOS 18的76%），所有iPhone 66%；近四年iPad 66%，所有iPad 57%。同比前代波动在2%内。",
+      "why": "苹果延续“发布后约2个月再大规模推送自动更新”策略，避免新版本初期问题，同时用户手动更新意愿稳定，导致采用率曲线平滑。",
+      "action": "1. 调整测试矩阵，确保覆盖近四年设备的iOS 26（占比74%）；2. 优先适配iOS 26新API，但保留对iOS 18+的兼容（覆盖率\u003e90%）；3. 监控安全公告，因旧版本占比仍高（iOS 17约30%需关注）。",
+      "tweet": "苹果官方数据：iOS 26在近4年iPhone中采用率74%，与iOS 18（76%）基本持平，驳斥“暴跌”谣言。苹果控制自动更新节奏（发布后2个月推送），采用率曲线稳定。开发者行动：1. 测试覆盖近4年设备（74%用户）；2. 优先适配iOS 26，兼容iOS 18+（\u003e90%覆盖率）；3. 关注旧版安全补丁（iOS 17仍有30%用户）。#iOS开发 #版本碎片化 #苹果生态"
+    },
     {
       "id": "https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios",
       "run_at": "2026-02-17T17:20:17Z",
@@ -460,19 +473,6 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
-      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "run_at": "2026-02-16T09:45:21Z",
-      "feed_title": "rakhim.exotext.com",
-      "title": "Modern UI is clean and invisible? Ha, I wish!",
-      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
-      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
-      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
-      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
-      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
-    },
-    {
       "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
       "run_at": "2026-02-16T12:45:25Z",
       "feed_title": "matklad.github.io",
@@ -503,6 +503,19 @@
       "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
       "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
+    },
+    {
+      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "run_at": "2026-02-16T09:45:21Z",
+      "feed_title": "rakhim.exotext.com",
+      "title": "Modern UI is clean and invisible? Ha, I wish!",
+      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
+      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
+      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
+      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
+      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -775,14 +788,6 @@
       "tweet": "警惕AI“必然性”迷思！博客以罗马帝国、托勒密体系为例，指出所有技术帝国都终将崩溃。对开发者：别死磕单一AI巨头，评估风险，拥抱开源替代方案，为范式转移做准备。历史教训：永久性只是幻觉。#AI #开发者 #风险"
     },
     {
-      "id": "https://susam.net/deep-blue.html",
-      "run_at": "2026-02-16T13:53:07Z",
-      "feed_title": "susam.net",
-      "title": "Deep Blue: Chess vs Programming",
-      "link": "https://susam.net/deep-blue.html",
-      "published": "2026-02-15T00:00:00Z"
-    },
-    {
       "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
       "run_at": "2026-02-15T10:40:57Z",
       "feed_title": "nesbitt.io",
@@ -799,6 +804,14 @@
       "why": "对开发者可加速本地构建迭代；对社区能减少对crates.io等依赖捐赠带宽服务的无效请求，降低其运营成本，体现技术社会责任。",
       "action": "Go项目直接采用`go mod download`模式；Rust/Python/Ruby项目可尝试`cargo fetch`/`pip download`等命令模拟分离，并关注其官方离线安装支持；在团队内部分享此模式并审查现有Dockerfile。",
       "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
+    },
+    {
+      "id": "https://susam.net/deep-blue.html",
+      "run_at": "2026-02-16T13:53:07Z",
+      "feed_title": "susam.net",
+      "title": "Deep Blue: Chess vs Programming",
+      "link": "https://susam.net/deep-blue.html",
+      "published": "2026-02-15T00:00:00Z"
     },
     {
       "id": "https://seangoedecke.com/fast-llm-inference/",
@@ -1027,19 +1040,6 @@
       "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
     },
     {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
-    },
-    {
       "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
       "run_at": "2026-02-14T10:41:07Z",
       "feed_title": "nesbitt.io",
@@ -1067,6 +1067,19 @@
       "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
       "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
       "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
+    },
+    {
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",

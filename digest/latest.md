@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-17 18:45:46 UTC
+Generated at: 2026-02-17 19:18:19 UTC
 
-- [Microspeak: Escrow](https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067) (`devblogs.microsoft.com/oldnewthing`)
-  - TLDR: "Escrow build" 指软件发布前选定的候选版本，进入冻结观察期，通过严格测试和 bug 评估决定是否发布或重置。
-  - WHAT: 这是发布管理中的关键阶段：选定一个构建作为“托管构建”，期间不接受新功能或非关键修复，仅验证其是否满足发布质量与可靠性标准。
-  - WHY: 核心目的是控制发布风险。通过“冻结”代码并集中观察，结合“bug bar”（缺陷门槛）量化评估问题，确保只有足够稳定的产品才能出厂，避免重大故障。
-  - ACTION: 1. 在团队发布流程中明确设立“escrow”阶段，定义清晰的进入/退出标准。2. 制定并共识“bug bar”细则（如影响范围、严重性、可绕行性）。3. 建立“escrow reset”触发与重建流程，确保决策高效。
-  - TWEET: 【Microspeak解析：什么是“托管构建”？】软件发布前，团队会选定一个候选版本进入“托管”状态：代码冻结，仅允许修复通过“缺陷门槛”评估的严重问题。若发现关键Bug则重置周期，重新开始。这是一种用结构化观察控制发布风险的有效实践。 #软件发布 #DevOps #工程实践
+- [★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years](https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates) (`daringfireball.net`)
+  - TLDR: 苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。
+  - WHAT: 苹果基于App Store交易数据发布iOS 26/iPadOS 26采用率：近四年iPhone 74%（vs iOS 18的76%），所有iPhone 66%；近四年iPad 66%，所有iPad 57%。同比前代波动在2%内。
+  - WHY: 苹果延续“发布后约2个月再大规模推送自动更新”策略，避免新版本初期问题，同时用户手动更新意愿稳定，导致采用率曲线平滑。
+  - ACTION: 1. 调整测试矩阵，确保覆盖近四年设备的iOS 26（占比74%）；2. 优先适配iOS 26新API，但保留对iOS 18+的兼容（覆盖率>90%）；3. 监控安全公告，因旧版本占比仍高（iOS 17约30%需关注）。
+  - TWEET: 苹果官方数据：iOS 26在近4年iPhone中采用率74%，与iOS 18（76%）基本持平，驳斥“暴跌”谣言。苹果控制自动更新节奏（发布后2个月推送），采用率曲线稳定。开发者行动：1. 测试覆盖近4年设备（74%用户）；2. 优先适配iOS 26，兼容iOS 18+（>90%覆盖率）；3. 关注旧版安全补丁（iOS 17仍有30%用户）。#iOS开发 #版本碎片化 #苹果生态

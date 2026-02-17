@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-17T18:46:11Z",
+  "generated_at": "2026-02-17T19:18:41Z",
   "days": [
     {
       "date": "2026-02-17",
-      "total": 15,
+      "total": 16,
       "feeds": [
+        "daringfireball.net (3)",
         "simonwillison.net (3)",
-        "daringfireball.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)",
         "martinalderson.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years",
         "daringfireball.net · How to Force Restart an iPhone",
         "experimental-history.com · I swear the UFO is coming any minute",
         "devblogs.microsoft.com/oldnewthing · Microspeak: Escrow",
         "simonwillison.net · Quoting ROUGH DRAFT 8/2/66",
-        "simonwillison.net · First kākāpō chick in four years hatches on Valentine's Day",
-        "shkspr.mobi · Gadget Review: Epomaker Split 70 Mechanical Keyboard ★★★★⯪"
+        "simonwillison.net · First kākāpō chick in four years hatches on Valentine's Day"
       ],
       "key_points": [
+        "苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。",
         "iPhone 卡死时，用“音量上→音量下→长按侧键”组合强制重启，步骤易忘但关键。",
         "博客以UFO现象为例，倡导用科学数据和可重复实验替代传闻，批判盲目接受异常报告。",
-        "\"Escrow build\" 指软件发布前选定的候选版本，进入冻结观察期，通过严格测试和 bug 评估决定是否发布或重置。",
-        "早期草稿揭示创作迭代过程，版本历史对开发者有重要启示。"
+        "\"Escrow build\" 指软件发布前选定的候选版本，进入冻结观察期，通过严格测试和 bug 评估决定是否发布或重置。"
       ],
       "tweet_drafts": [
+        "苹果官方数据：iOS 26在近4年iPhone中采用率74%，与iOS 18（76%）基本持平，驳斥“暴跌”谣言。苹果控制自动更新节奏（发布后2个月推送），采用率曲线稳定。开发者行动：1. 测试覆盖近4年设备（74%用户）；2. 优先适配iOS 26，兼容iOS 18+（\u003e90%覆盖率）；3. 关注旧版安全补丁（iOS 17仍有30%用户）。#iOS开发 #版本碎片化 #苹果生态",
         "iPhone 卡在锁屏别慌！强制重启三步：音量上→音量下→长按侧键至苹果logo出现。iOS更新后偶发卡死，此技能关键时刻自救。收藏Apple支持页，开发者必备故障排除技巧。#iPhone #iOS #技术干货",
-        "【技术人如何看待UFO？】这篇博客用科学方法拆解“不明飞行物”现象：多数报告可解释，未解案例常因证据链断裂。对开发者启示：在AI、安全、基础设施中，必须建立数据验证闭环，避免被“异常”误导。具体行动：①为模型加入噪声测试；②设计多源交叉验证；③用公开数据集演练。科学精神比猎奇更重要。原文：https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
-        "【Microspeak解析：什么是“托管构建”？】软件发布前，团队会选定一个候选版本进入“托管”状态：代码冻结，仅允许修复通过“缺陷门槛”评估的严重问题。若发现关键Bug则重置周期，重新开始。这是一种用结构化观察控制发布风险的有效实践。 #软件发布 #DevOps #工程实践"
+        "【技术人如何看待UFO？】这篇博客用科学方法拆解“不明飞行物”现象：多数报告可解释，未解案例常因证据链断裂。对开发者启示：在AI、安全、基础设施中，必须建立数据验证闭环，避免被“异常”误导。具体行动：①为模型加入噪声测试；②设计多源交叉验证；③用公开数据集演练。科学精神比猎奇更重要。原文：https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute"
       ]
     },
     {
