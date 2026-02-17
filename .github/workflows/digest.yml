@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     env:
       AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
       AI_MODEL: ${{ secrets.AI_MODEL }}
@@ -40,3 +45,9 @@ jobs:
             git commit -m "chore: update digest, seen state, and site data"
             git push
           fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
