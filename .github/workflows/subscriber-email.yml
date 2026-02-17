@@ -1,0 +1,34 @@
+name: Subscriber Email Updates
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: read
+    env:
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      SMTP_FROM: ${{ secrets.SMTP_FROM }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send subscriber updates
+        run: |
+          python3 .github/scripts/send_subscriber_updates.py
+      - name: Commit subscriber send state
+        run: |
+          if [ -n "$(git status --porcelain .opmlwatch/subscriber_last_sent_at.txt)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .opmlwatch/subscriber_last_sent_at.txt
+            git commit -m "chore: update subscriber send cursor"
+            git push
+          fi

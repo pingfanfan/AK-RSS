@@ -1,4 +1,5 @@
 const byId = (id) => document.getElementById(id);
+const SUBSCRIBE_URL_BASE = "https://github.com/pingfanfan/AK-RSS/issues/new";
 
 const fmt = new Intl.DateTimeFormat("en-GB", {
   year: "numeric",
@@ -179,5 +180,41 @@ async function load() {
 }
 
 byId("refreshBtn").addEventListener("click", load);
+
+function validEmail(email) {
+  return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+}
+
+function wireSubscribeForm() {
+  const form = byId("subscribeForm");
+  const emailInput = byId("subscribeEmail");
+  const hint = byId("subscribeHint");
+  if (!form || !emailInput || !hint) return;
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const email = (emailInput.value || "").trim().toLowerCase();
+    if (!validEmail(email)) {
+      hint.textContent = "Please enter a valid email address.";
+      return;
+    }
+
+    const title = `[subscribe] ${email}`;
+    const body = [
+      `EMAIL: ${email}`,
+      "",
+      "SOURCE: github-pages",
+      "",
+      "Keep this issue OPEN to stay subscribed.",
+      "Close this issue to unsubscribe."
+    ].join("\n");
+
+    const url = `${SUBSCRIBE_URL_BASE}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}&labels=${encodeURIComponent("subscription")}`;
+    hint.textContent = "Opening subscription confirmation page...";
+    window.open(url, "_blank", "noopener");
+  });
+}
+
+wireSubscribeForm();
 setInterval(load, 60000);
 load();

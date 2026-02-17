@@ -82,6 +82,15 @@ docker compose run --rm opmlwatch
 - 每轮有处理上限（`max_entries_per_run`），避免首次跑爆量
 - 有新命中条目时自动发邮件提醒
 
+## 每 2 小时订阅邮件
+
+工作流：`.github/workflows/subscriber-email.yml`
+
+- 每 2 小时执行一次（`0 */2 * * *`）
+- 从“订阅 issue”中读取订阅邮箱
+- 仅发送“上次订阅推送之后”的新更新
+- 用户关闭自己的订阅 issue 即取消订阅
+
 ## GitHub Pages 可视化页面
 
 - 静态页面源码：`site/`

@@ -120,6 +120,14 @@ body {
   padding: 12px 14px;
 }
 
+.subscribe-card {
+  margin-top: 12px;
+  border-left: 4px solid var(--brand-2);
+  background: linear-gradient(120deg, #eef2ff, #fffdfa);
+  border-radius: 14px;
+  padding: 12px 14px;
+}
+
 .origin-title {
   margin: 0;
   font-size: 12px;
@@ -133,6 +141,39 @@ body {
   margin: 6px 0 0;
   color: #4c3b30;
   line-height: 1.5;
+}
+
+.subscribe-form {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.subscribe-form input {
+  min-width: 260px;
+  flex: 1;
+  border: 1px solid #cad4f3;
+  background: #fff;
+  border-radius: 10px;
+  padding: 9px 12px;
+  font: inherit;
+}
+
+.subscribe-form button {
+  border: 0;
+  background: linear-gradient(135deg, var(--brand-2), #3a73ff);
+  color: #fff;
+  border-radius: 10px;
+  padding: 9px 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.subscribe-hint {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: #42537a;
 }
 
 .stats {

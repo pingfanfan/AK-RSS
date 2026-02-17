@@ -82,6 +82,15 @@ Built-in workflow: `.github/workflows/digest.yml`
 - Applies per-run cap (`max_entries_per_run`) to prevent first-run overload
 - Sends email alert when there are new matched entries
 
+## 2-Hour Subscriber Emails
+
+Workflow: `.github/workflows/subscriber-email.yml`
+
+- Runs every 2 hours (`0 */2 * * *`)
+- Reads subscriber emails from open subscription issues
+- Sends only updates newer than the last subscriber-send cursor
+- Unsubscribe by closing your subscription issue
+
 ## GitHub Pages Dashboard
 
 - Static site source: `site/`
