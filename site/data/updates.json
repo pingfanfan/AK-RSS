@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T06:16:49Z",
+  "generated_at": "2026-02-17T06:46:05Z",
   "count": 60,
   "updates": [
     {
@@ -285,19 +285,6 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
-      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "run_at": "2026-02-16T12:45:25Z",
-      "feed_title": "matklad.github.io",
-      "title": "Diagnostics Factory",
-      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
-      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
-      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
-      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
-      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
-    },
-    {
       "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
       "run_at": "2026-02-16T09:45:21Z",
       "feed_title": "rakhim.exotext.com",
@@ -328,6 +315,19 @@
       "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
       "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
+    },
+    {
+      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "run_at": "2026-02-16T12:45:25Z",
+      "feed_title": "matklad.github.io",
+      "title": "Diagnostics Factory",
+      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
+      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
+      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
+      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
+      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -600,6 +600,14 @@
       "tweet": "警惕AI“必然性”迷思！博客以罗马帝国、托勒密体系为例，指出所有技术帝国都终将崩溃。对开发者：别死磕单一AI巨头，评估风险，拥抱开源替代方案，为范式转移做准备。历史教训：永久性只是幻觉。#AI #开发者 #风险"
     },
     {
+      "id": "https://susam.net/deep-blue.html",
+      "run_at": "2026-02-16T13:53:07Z",
+      "feed_title": "susam.net",
+      "title": "Deep Blue: Chess vs Programming",
+      "link": "https://susam.net/deep-blue.html",
+      "published": "2026-02-15T00:00:00Z"
+    },
+    {
       "id": "https://seangoedecke.com/fast-llm-inference/",
       "run_at": "2026-02-15T06:13:50Z",
       "feed_title": "seangoedecke.com",
@@ -611,14 +619,6 @@
       "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
       "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
       "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
-    },
-    {
-      "id": "https://susam.net/deep-blue.html",
-      "run_at": "2026-02-16T13:53:07Z",
-      "feed_title": "susam.net",
-      "title": "Deep Blue: Chess vs Programming",
-      "link": "https://susam.net/deep-blue.html",
-      "published": "2026-02-15T00:00:00Z"
     },
     {
       "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
@@ -826,19 +826,6 @@
       "tweet": "AI圈流行“人人成开发者”？错！多数人只想tap/swipe解决问题，拒绝prompt/terminal。开发者真机会：用AI封装复杂性，提供无缝体验。别教人编码，帮人省编码。#AI #产品思维 #开发者"
     },
     {
-      "id": "http://www.paulgraham.com/superlinear.html",
-      "run_at": "2026-02-14T00:00:05Z",
-      "feed_title": "paulgraham.com",
-      "title": "Superlinear Returns",
-      "link": "http://www.paulgraham.com/superlinear.html",
-      "published": "2026-02-14T00:00:07Z",
-      "tldr": "Superlinear Returns",
-      "what": "Superlinear Returns",
-      "why": "Fresh update from monitored feed.",
-      "action": "Open source link and decide whether to read now or add to digest backlog.",
-      "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
-    },
-    {
       "id": "https://chadnauseam.com/random/semaglutide-has-changed-the-world",
       "run_at": "2026-02-14T00:00:05Z",
       "feed_title": "chadnauseam.com",
@@ -852,17 +839,17 @@
       "tweet": "semaglutide-has-changed-the-world https://chadnauseam.com/random/semaglutide-has-changed-the-world"
     },
     {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
+      "id": "http://www.paulgraham.com/superlinear.html",
+      "run_at": "2026-02-14T00:00:05Z",
+      "feed_title": "paulgraham.com",
+      "title": "Superlinear Returns",
+      "link": "http://www.paulgraham.com/superlinear.html",
+      "published": "2026-02-14T00:00:07Z",
+      "tldr": "Superlinear Returns",
+      "what": "Superlinear Returns",
+      "why": "Fresh update from monitored feed.",
+      "action": "Open source link and decide whether to read now or add to digest backlog.",
+      "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
     },
     {
       "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
@@ -892,6 +879,19 @@
       "why": "名字稀缺增加开发者认知负担与选择成本；拼写错误攻击是直接的安全威胁，影响基础设施的可靠性与开发者信任。",
       "action": "1. 项目优先选用带命名空间隔离的包管理器（如NPM、Go Modules）；2. 强制使用锁文件（如package-lock.json, Cargo.lock）并定期审计依赖；3. 团队内部分享命名规范，警惕相似包名。",
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
+    },
+    {
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
