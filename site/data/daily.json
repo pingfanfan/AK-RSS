@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-18T12:06:53Z",
+  "generated_at": "2026-02-18T12:46:23Z",
   "days": [
     {
       "date": "2026-02-18",
-      "total": 6,
+      "total": 8,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
         "nesbitt.io (1)",
-        "tedium.co (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Book Review: All Systems Red - The Murderbot Diaries by Martha Wells ★★⯪☆☆",
+        "dfarq.homeip.net · Windows 2000 release date",
         "idiallo.com · Taking Our Minds for Granted",
         "utcc.utoronto.ca/~cks · Two challenges of incremental backups",
         "tedium.co · Markdown’s Moment",
-        "joanwestenberg.com · The case for gatekeeping, or: why medieval guilds had it figured out",
-        "daringfireball.net · Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4",
-        "nesbitt.io · What Package Registries Could Borrow from OCI"
+        "joanwestenberg.com · The case for gatekeeping, or: why medieval guilds had it figured out"
       ],
       "key_points": [
+        "博客作者认为《All Systems Red》被高估，节奏缓慢且套路化，尽管涉及AI自主与企业信任议题。",
+        "Windows 2000 于 2000 年 2 月 17 日作为企业级操作系统正式发布。",
         "博客警示开发者：过度依赖AI可能削弱深度思考与突破性创新能力，强调主动“思考”在AI时代的稀缺价值。",
-        "增量备份的核心难点并非节省空间，而是如何**可靠追踪变更**与**同步删除状态**，否则恢复将产生数据不一致。",
-        "大厂（Cloudflare/Vercel）力推“Markdown for Agents”，利用Markdown简洁性服务AI代理，可能成为Web新标准。",
-        "AI生成的垃圾PR正淹没开源项目，作者呼吁借鉴中世纪行会的学徒制与声誉担保体系，重建贡献者信任机制。"
+        "增量备份的核心难点并非节省空间，而是如何**可靠追踪变更**与**同步删除状态**，否则恢复将产生数据不一致。"
       ],
       "tweet_drafts": [
-        "你的大脑会“梦”出解决方案，但AI只会重组已知信息。当每次难题都秒问ChatGPT，我们正在遗忘如何“思考”。对开发者来说，最危险的不是AI写代码，而是我们交出了定义问题和产生突破性连接的肌肉。今天起，先自己挣扎30分钟。 #AI时代 #深度思考",
-        "增量备份的隐形陷阱：省空间易，保一致难。关键在两点：1) 100%可靠发现变更（OS常帮倒忙）；2) 恢复时必须精准删除已不存在的文件。后者更考验自研方案设计。你的备份系统如何处理“删除传播”？#DevOps #Backup",
-        "【开发者注意】Cloudflare、Vercel等大厂正力推“Markdown for Agents”——为AI代理提供简洁内容格式。HTML太复杂？Markdown能省token、提解析效率。建议：尽快为网站准备Markdown版本，关注相关工具更新。这可能是继RSS后的新内容分发趋势？#AI #开发者 #Markdown"
+        "《Murderbot Diaries》首部曲评价：被捧过高？🤔 小说以AI安全机器人为视角，探讨企业隐瞒与自主意识，但节奏拖沓、套路陈旧。对开发者而言，议题相关但叙事乏力。建议选择性阅读，关注后续是否提升。#AI安全 #读书笔记 #科技评论",
+        "【历史重溯】Windows 2000 于 2000 年 2 月 17 日发布，是面向企业的 NT 内核重大升级，奠定了现代 Windows 服务器可靠性与管理基础。对比其架构与今日的 Windows Server，可见安全与虚拟化技术的巨大飞跃。 #Windows2000 #企业IT #基础设施历史",
+        "你的大脑会“梦”出解决方案，但AI只会重组已知信息。当每次难题都秒问ChatGPT，我们正在遗忘如何“思考”。对开发者来说，最危险的不是AI写代码，而是我们交出了定义问题和产生突破性连接的肌肉。今天起，先自己挣扎30分钟。 #AI时代 #深度思考"
       ]
     },
     {

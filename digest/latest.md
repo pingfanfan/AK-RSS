@@ -1,10 +1,16 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-18 12:06:35 UTC
+Generated at: 2026-02-18 12:45:52 UTC
 
-- [Taking Our Minds for Granted](https://idiallo.com/blog/taking-our-mind-for-granted?src=feed) (`idiallo.com`)
-  - TLDR: 博客警示开发者：过度依赖AI可能削弱深度思考与突破性创新能力，强调主动“思考”在AI时代的稀缺价值。
-  - WHAT: 文章通过个人经历与历史案例，对比人类大脑在无干扰状态下产生突破性想法的独特过程，与AI的即时重组式回答，指出我们正习惯性外包“思考的挣扎”。
-  - WHY: 对开发者而言，长期依赖AI解决复杂问题，可能导致丧失独立定义问题、进行模糊探索和产生原创连接的核心能力，最终影响解决未知挑战的潜力。
-  - ACTION: 每日设定30分钟“无设备深度思考时间”，用纸笔记录半成品想法；在寻求AI帮助前，强制自己先独立探索至少一个可行路径。
-  - TWEET: 你的大脑会“梦”出解决方案，但AI只会重组已知信息。当每次难题都秒问ChatGPT，我们正在遗忘如何“思考”。对开发者来说，最危险的不是AI写代码，而是我们交出了定义问题和产生突破性连接的肌肉。今天起，先自己挣扎30分钟。 #AI时代 #深度思考
+- [Book Review: All Systems Red - The Murderbot Diaries by Martha Wells ★★⯪☆☆](https://shkspr.mobi/blog/2026/02/book-review-all-systems-red-the-murderbot-diaries-by-martha-wells/) (`shkspr.mobi`)
+  - TLDR: 博客作者认为《All Systems Red》被高估，节奏缓慢且套路化，尽管涉及AI自主与企业信任议题。
+  - WHAT: 首部曲讲述安全机器人Murderbot被迫卷入行星调查阴谋，揭露企业隐瞒，但叙事平淡、 exposition 过多。
+  - WHY: 对开发者而言，它触及AI伦理、系统漏洞与透明度等现实议题，但文学表现力不足，信息密度低。
+  - ACTION: 若关注AI安全可略读，但优先选择技术性更强的材料；续集或改进可观望。
+  - TWEET: 《Murderbot Diaries》首部曲评价：被捧过高？🤔 小说以AI安全机器人为视角，探讨企业隐瞒与自主意识，但节奏拖沓、套路陈旧。对开发者而言，议题相关但叙事乏力。建议选择性阅读，关注后续是否提升。#AI安全 #读书笔记 #科技评论
+- [Windows 2000 release date](https://dfarq.homeip.net/windows-2000-release-date/?utm_source=rss&utm_medium=rss&utm_campaign=windows-2000-release-date) (`dfarq.homeip.net`)
+  - TLDR: Windows 2000 于 2000 年 2 月 17 日作为企业级操作系统正式发布。
+  - WHAT: 文章确认了 Windows 2000 的准确发布日期，并指出其定位是取代 Windows NT 4.0 的企业操作系统，核心改进在于可靠性与易用性。
+  - WHY: 对关注基础设施演进的开发者而言，这是现代 Windows 企业内核与安全模型的重要起点，其架构设计影响深远。
+  - ACTION: 建议开发者查阅 Windows 2000 的原始技术文档或架构白皮书，对比其与当前 Windows Server 在安全、内核设计上的演进。
+  - TWEET: 【历史重溯】Windows 2000 于 2000 年 2 月 17 日发布，是面向企业的 NT 内核重大升级，奠定了现代 Windows 服务器可靠性与管理基础。对比其架构与今日的 Windows Server，可见安全与虚拟化技术的巨大飞跃。 #Windows2000 #企业IT #基础设施历史
