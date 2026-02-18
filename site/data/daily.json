@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-02-18T21:10:22Z",
+  "generated_at": "2026-02-18T21:42:58Z",
   "days": [
     {
       "date": "2026-02-18",
-      "total": 16,
+      "total": 17,
       "feeds": [
+        "daringfireball.net (2)",
         "simonwillison.net (2)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’",
         "jeffgeerling.com · Frigate with Hailo for object detection on a Raspberry Pi",
         "blog.jim-nielsen.com · A Few Rambling Observations on Care",
         "simonwillison.net · Typing without having to type",
         "simonwillison.net · The A.I. Disruption We’ve Been Waiting for Has Arrived",
-        "buttondown.com/hillelwayne · Stream of Consciousness Driven Development",
-        "devblogs.microsoft.com/oldnewthing · Could Write­Process­Memory be made faster by avoiding the intermediate buffer?"
+        "buttondown.com/hillelwayne · Stream of Consciousness Driven Development"
       ],
       "key_points": [
+        "AI 变革已至，开发者需直面其混乱与机遇并存的实际影响。",
         "Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案。",
         "AI编码助手使类型提示从开发负担变为质量保障工具，显著提升代码可维护性。",
-        "Claude Code 在 2025 年 11 月后能力质变，能独立完成复杂项目，颠覆传统软件开发成本模型。",
-        "通过创建结构化 Markdown 文件（问题-尝试-方案-理论）来记录并同步复杂决策的完整思考链，确保结对双方在修改前达成深度共识。"
+        "Claude Code 在 2025 年 11 月后能力质变，能独立完成复杂项目，颠覆传统软件开发成本模型。"
       ],
       "tweet_drafts": [
+        "Paul Ford 说：“爱它恨它，AI  disruptive 已至，且充满混乱的乐趣。” 对开发者而言，关键不是站队，而是行动：本周就在一个次要项目里集成 AI 工具，实测其对效率、安全与现有基建的真实影响，并记录问题。变革已来，动手评估胜过空谈。#AI #DevOps #Security",
         "树莓派Frigate安防新选择：用Hailo AI加速器（HAT+/M.2）替代Coral TPU！性能更强，模型支持更广，且M.2版本通用性高。升级指南：评估需求→确认Frigate兼容→选购硬件。低功耗高效能AI推理，为你的智能家居安防注入新动力。#Frigate #Hailo #树莓派 #AIoT #智能安防",
-        "【博客解读】25年经验开发者坦言：曾因“打字慢”抵制类型提示，如今AI编码助手自动生成类型，让他彻底改观。类型提示不再拖慢迭代，反而提升代码质量与可维护性。行动建议：马上在项目中启用类型检查，用AI工具补全注解，让机器干脏活，你专注逻辑。AI辅助编程正重塑开发习惯。#AI编程 #类型提示 #开发者效率",
-        "【颠覆性时刻】Paul Ford 亲历：Claude Code 在 11 月后“突然变强”，能独立开发完整应用。他仅用周末就完成了自己曾报价 2.5 万美元的网站重构，并处理了曾报价 35 万美元的数据集。AI 编程已从“助手”变为“执行者”，每月 200 美元即可创造数十万价值。你的旧项目该复活了。#AI编程 #开发者经济"
+        "【博客解读】25年经验开发者坦言：曾因“打字慢”抵制类型提示，如今AI编码助手自动生成类型，让他彻底改观。类型提示不再拖慢迭代，反而提升代码质量与可维护性。行动建议：马上在项目中启用类型检查，用AI工具补全注解，让机器干脏活，你专注逻辑。AI辅助编程正重塑开发习惯。#AI编程 #类型提示 #开发者效率"
       ]
     },
     {

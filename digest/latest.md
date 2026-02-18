@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-18 21:09:50 UTC
+Generated at: 2026-02-18 21:42:40 UTC
 
-- [Frigate with Hailo for object detection on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/) (`jeffgeerling.com`)
-  - TLDR: Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案。
-  - WHAT: 博客介绍了将树莓派5的官方AI HAT+（内置Hailo-8/8L）或通用M.2 Hailo卡，用于替代现有Coral TPU，在Frigate中实现低功耗、高性能的实时对象检测。
-  - WHY: Hailo性能显著优于Coral，支持更复杂的模型，且M.2接口使其能用于更多非树莓派设备，解决了Coral生态封闭和性能瓶颈问题。
-  - ACTION: 1. 评估Hailo-8L（性价比）或Hailo-8（性能）是否满足你的检测精度/延迟需求；2. 确认你的Frigate版本已支持Hailo插件；3. 根据你的主板（Pi5或其它SBC）购买对应Hailo硬件。
-  - TWEET: 树莓派Frigate安防新选择：用Hailo AI加速器（HAT+/M.2）替代Coral TPU！性能更强，模型支持更广，且M.2版本通用性高。升级指南：评估需求→确认Frigate兼容→选购硬件。低功耗高效能AI推理，为你的智能家居安防注入新动力。#Frigate #Hailo #树莓派 #AIoT #智能安防
+- [Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’](https://www.nytimes.com/2026/02/18/opinion/ai-software.html?unlocked_article_code=1.NFA.djaw.TBlAp8kE_N-i) (`daringfireball.net`)
+  - TLDR: AI 变革已至，开发者需直面其混乱与机遇并存的实际影响。
+  - WHAT: Paul Ford 在《纽约时报》评论指出，AI 引发两极分化评价，但技术颠覆已真实发生，充满“恼人却令人兴奋”的挑战。
+  - WHY: 对关注安全、基建与产品的开发者而言，需超越 hype，评估 AI 对现有系统、工作流及安全范式的实质性冲击。
+  - ACTION: 立即在非关键项目中测试主流 AI 工具（如代码生成、文档分析），记录效率变化与安全风险，形成团队评估报告。
+  - TWEET: Paul Ford 说：“爱它恨它，AI  disruptive 已至，且充满混乱的乐趣。” 对开发者而言，关键不是站队，而是行动：本周就在一个次要项目里集成 AI 工具，实测其对效率、安全与现有基建的真实影响，并记录问题。变革已来，动手评估胜过空谈。#AI #DevOps #Security
