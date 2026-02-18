@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-02-18T11:43:34Z",
+  "generated_at": "2026-02-18T12:06:53Z",
   "days": [
     {
       "date": "2026-02-18",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "daringfireball.net (1)",
+        "idiallo.com (1)",
         "joanwestenberg.com (1)",
         "nesbitt.io (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · Taking Our Minds for Granted",
         "utcc.utoronto.ca/~cks · Two challenges of incremental backups",
         "tedium.co · Markdown’s Moment",
         "joanwestenberg.com · The case for gatekeeping, or: why medieval guilds had it figured out",
@@ -19,15 +21,15 @@
         "nesbitt.io · What Package Registries Could Borrow from OCI"
       ],
       "key_points": [
+        "博客警示开发者：过度依赖AI可能削弱深度思考与突破性创新能力，强调主动“思考”在AI时代的稀缺价值。",
         "增量备份的核心难点并非节省空间，而是如何**可靠追踪变更**与**同步删除状态**，否则恢复将产生数据不一致。",
         "大厂（Cloudflare/Vercel）力推“Markdown for Agents”，利用Markdown简洁性服务AI代理，可能成为Web新标准。",
-        "AI生成的垃圾PR正淹没开源项目，作者呼吁借鉴中世纪行会的学徒制与声誉担保体系，重建贡献者信任机制。",
-        "苹果将于3月4日在三地举办线下“特别体验”活动，而非传统线上发布会，预计通过新闻稿分日公布多款新品。"
+        "AI生成的垃圾PR正淹没开源项目，作者呼吁借鉴中世纪行会的学徒制与声誉担保体系，重建贡献者信任机制。"
       ],
       "tweet_drafts": [
+        "你的大脑会“梦”出解决方案，但AI只会重组已知信息。当每次难题都秒问ChatGPT，我们正在遗忘如何“思考”。对开发者来说，最危险的不是AI写代码，而是我们交出了定义问题和产生突破性连接的肌肉。今天起，先自己挣扎30分钟。 #AI时代 #深度思考",
         "增量备份的隐形陷阱：省空间易，保一致难。关键在两点：1) 100%可靠发现变更（OS常帮倒忙）；2) 恢复时必须精准删除已不存在的文件。后者更考验自研方案设计。你的备份系统如何处理“删除传播”？#DevOps #Backup",
-        "【开发者注意】Cloudflare、Vercel等大厂正力推“Markdown for Agents”——为AI代理提供简洁内容格式。HTML太复杂？Markdown能省token、提解析效率。建议：尽快为网站准备Markdown版本，关注相关工具更新。这可能是继RSS后的新内容分发趋势？#AI #开发者 #Markdown",
-        "AI生成的“完美格式垃圾PR”正在杀死开源维护者的热情。中世纪行会用学徒制和声誉担保解决了分散生产的信任问题。我们是否需要新的“开源行会”？建议：设置贡献者观察期、要求历史PR证明、核心维护者背书。转发讨论 #开源 #AI #开发者"
+        "【开发者注意】Cloudflare、Vercel等大厂正力推“Markdown for Agents”——为AI代理提供简洁内容格式。HTML太复杂？Markdown能省token、提解析效率。建议：尽快为网站准备Markdown版本，关注相关工具更新。这可能是继RSS后的新内容分发趋势？#AI #开发者 #Markdown"
       ]
     },
     {
