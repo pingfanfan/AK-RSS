@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-02-18T09:13:53Z",
+  "generated_at": "2026-02-18T09:45:11Z",
   "days": [
     {
       "date": "2026-02-18",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "daringfireball.net (1)",
         "joanwestenberg.com (1)",
+        "nesbitt.io (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
@@ -14,7 +15,8 @@
         "utcc.utoronto.ca/~cks · Two challenges of incremental backups",
         "tedium.co · Markdown’s Moment",
         "joanwestenberg.com · The case for gatekeeping, or: why medieval guilds had it figured out",
-        "daringfireball.net · Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4"
+        "daringfireball.net · Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4",
+        "nesbitt.io · What Package Registries Could Borrow from OCI"
       ],
       "key_points": [
         "增量备份的核心难点并非节省空间，而是如何**可靠追踪变更**与**同步删除状态**，否则恢复将产生数据不一致。",
