@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-02-17T22:51:16Z",
-  "count": 73,
+  "generated_at": "2026-02-18T06:47:03Z",
+  "count": 78,
   "updates": [
+    {
+      "id": "https://utcc.utoronto.ca/~cks/space/blog/tech/incrementalbackupstwochallenges",
+      "run_at": "2026-02-18T06:46:22Z",
+      "feed_title": "utcc.utoronto.ca/~cks",
+      "title": "Two challenges of incremental backups",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IncrementalBackupsTwoChallenges",
+      "published": "2026-02-18T04:25:12Z",
+      "tags": [
+        "tech"
+      ],
+      "tldr": "增量备份的核心难点并非节省空间，而是如何**可靠追踪变更**与**同步删除状态**，否则恢复将产生数据不一致。",
+      "what": "博客明确指出增量备份的两大挑战：1) 可靠检测所有变化（受限于OS能力）；2) 处理恢复时需删除已不存在的文件/目录（需自定义元数据方案）。",
+      "why": "若挑战一失败会遗漏变更；若挑战二失败，恢复时会残留已删除文件，导致目录状态错误，备份失去意义。后者更依赖自主设计。",
+      "action": "1) 审计你的备份方案，确认其如何记录“删除事件”（如通过墓碑文件或差异快照）；2) 评估变更检测机制（如inotify+定期扫描）是否覆盖了所有可能漏报的场景（如直接磁盘写入）；3) 设计增量格式时，确保删除信息能随增量链传递。",
+      "tweet": "增量备份的隐形陷阱：省空间易，保一致难。关键在两点：1) 100%可靠发现变更（OS常帮倒忙）；2) 恢复时必须精准删除已不存在的文件。后者更考验自研方案设计。你的备份系统如何处理“删除传播”？#DevOps #Backup"
+    },
+    {
+      "id": "https://feed.tedium.co/link/15204/17278321/markdown-growing-influence-cloudflare-ai",
+      "run_at": "2026-02-18T06:46:22Z",
+      "feed_title": "tedium.co",
+      "title": "Markdown’s Moment",
+      "link": "https://feed.tedium.co/link/15204/17278321/markdown-growing-influence-cloudflare-ai",
+      "published": "2026-02-18T04:01:53Z",
+      "tldr": "大厂（Cloudflare/Vercel）力推“Markdown for Agents”，利用Markdown简洁性服务AI代理，可能成为Web新标准。",
+      "what": "Cloudflare、Laravel Cloud、Vercel相继推出功能，允许/鼓励网站提供Markdown版本，供AI代理高效抓取和解析。",
+      "why": "HTML结构复杂、消耗AI tokens多；Markdown纯文本、语义清晰，能降低AI处理成本，提升内容在AI搜索中的可见性。",
+      "action": "立即为网站核心页面生成并维护Markdown版本；关注Cloudflare Workers/Vercel相关工具链，测试AI代理抓取效果。",
+      "tweet": "【开发者注意】Cloudflare、Vercel等大厂正力推“Markdown for Agents”——为AI代理提供简洁内容格式。HTML太复杂？Markdown能省token、提解析效率。建议：尽快为网站准备Markdown版本，关注相关工具更新。这可能是继RSS后的新内容分发趋势？#AI #开发者 #Markdown"
+    },
+    {
+      "id": "https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/",
+      "run_at": "2026-02-18T06:46:22Z",
+      "feed_title": "joanwestenberg.com",
+      "title": "The case for gatekeeping, or: why medieval guilds had it figured out",
+      "link": "https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/",
+      "published": "2026-02-18T02:21:09Z",
+      "tldr": "AI生成的垃圾PR正淹没开源项目，作者呼吁借鉴中世纪行会的学徒制与声誉担保体系，重建贡献者信任机制。",
+      "what": "博客指出开源维护者正被大量AI生成、格式规范但内容低质的PR困扰，传统基于小社区人际信任的贡献体系已崩溃，而中世纪行会通过长期学徒考核与“担保人”制度有效解决了分散环境下的质量验证问题。",
+      "why": "AI工具极大降低了低质量贡献的门槛，而开源项目规模扩大后，原有的“ lurker-观察-贡献”慢周期信任模型失效，导致维护者精力被无效PR耗尽，项目安全与质量风险上升。",
+      "action": "1. 在项目中设立贡献者分级制度（如观察期、受限权限）；2. 要求新贡献者提供过往高质量PR记录或核心维护者背书；3. 利用自动化工具（如代码模式分析）初筛AI生成内容；4. 核心团队主动识别并长期培养可信贡献者，形成小范围声誉网络。",
+      "tweet": "AI生成的“完美格式垃圾PR”正在杀死开源维护者的热情。中世纪行会用学徒制和声誉担保解决了分散生产的信任问题。我们是否需要新的“开源行会”？建议：设置贡献者观察期、要求历史PR证明、核心维护者背书。转发讨论 #开源 #AI #开发者"
+    },
+    {
+      "id": "https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/",
+      "run_at": "2026-02-18T06:46:22Z",
+      "feed_title": "daringfireball.net",
+      "title": "Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4",
+      "link": "https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/",
+      "published": "2026-02-18T00:08:45Z",
+      "tldr": "苹果将于3月4日在三地举办线下“特别体验”活动，而非传统线上发布会，预计通过新闻稿分日公布多款新品。",
+      "what": "活动聚焦媒体线下动手体验，可能伴随iPhone 17e、M4/M5芯片iPad与MacBook系列（含新款低价MacBook）的逐日新闻稿发布。",
+      "why": "采用“体验”替代“发布会”，可降低制作成本、分散产品关注度，并通过区域性活动维持市场热度，同时为潜在的产品策略调整（如低价MacBook）铺垫。",
+      "action": "开发者应密切关注苹果新闻稿，提前测试应用在M5芯片及新iPad/MacBook上的兼容性，并评估iPhone 17e的A18芯片对性能与功耗的影响。",
+      "tweet": "苹果3月4日将办线下“特别体验”而非发布会，或分日发新闻稿推iPhone 17e、M4/M5芯片iPad与MacBook（含低价款）。开发者速备：关注官方公告，测试新硬件兼容性，评估A18/M5芯片适配。 #苹果 #开发者 #硬件更新"
+    },
+    {
+      "id": "https://simonwillison.net/2026/feb/17/claude-sonnet-46/#atom-everything",
+      "run_at": "2026-02-18T06:46:22Z",
+      "feed_title": "simonwillison.net",
+      "title": "Introducing Claude Sonnet 4.6",
+      "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
+      "published": "2026-02-17T23:58:58Z",
+      "tags": [
+        "ai",
+        "generative-ai",
+        "llms",
+        "llm",
+        "anthropic",
+        "claude",
+        "llm-pricing",
+        "pelican-riding-a-bicycle",
+        "llm-release",
+        "claude-code"
+      ],
+      "tldr": "Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出。",
+      "what": "新模型知识截止2025年8月，默认200K上下文（可扩至1M）；llm-anthropic 0.24已支持，迁移需注意adaptive thinking变化。",
+      "why": "开发者可用更低成本获得旗舰级性能，适合生产环境；但需测试其“高礼帽偏好”等 quirky 输出是否影响业务逻辑。",
+      "action": "立即升级llm-anthropic至0.24，用关键业务提示词对比Sonnet 4.6与Opus 4.6，评估成本与质量平衡点。",
+      "tweet": "Anthropic新模型Claude Sonnet 4.6发布！性能媲美Opus 4.5，价格却只需$3/$15（百万token）。知识截止2025年8月，支持长上下文。开发者工具llm-anthropic 0.24已适配。测试发现它偏爱给SVG加高礼帽——你的业务能接受这种“创意”吗？速测成本效益：https://simonwillison.net/2026/Feb/17/claude-sonnet-46/"
+    },
     {
       "id": "https://berthub.eu/articles/posts/digitale-coalitieplannen/",
       "run_at": "2026-02-17T20:07:21Z",
@@ -245,19 +325,6 @@
       "tweet": "【免费实战】Sentry 官方 iOS 工作坊上线！手把手教你用崩溃报告+追踪+日志，快速定位性能瓶颈与崩溃根因，还能分析安装包大小。告别无效警报，直接提升用户体验与留存。开发者必看 👇 https://sentry.io/resources/ios-workshop-jan-2026/"
     },
     {
-      "id": "https://martinalderson.com/posts/anthropic-found-500-zero-days/?utm_source=rss",
-      "run_at": "2026-02-17T06:16:07Z",
-      "feed_title": "martinalderson.com",
-      "title": "Anthropic's 500 vulns are the tip of the iceberg",
-      "link": "https://martinalderson.com/posts/anthropic-found-500-zero-days/?utm_source=rss",
-      "published": "2026-02-17T00:00:00Z",
-      "tldr": "Anthropic发现的500个漏洞仅是冰山一角，未维护软件中的“长尾漏洞”才是更大威胁。",
-      "what": "博客指出Anthropic红队仅扫描了“正在维护”的软件就发现500+严重漏洞；更危险的是海量“无人维护”软件中潜伏的、永远无法修复的漏洞。",
-      "why": "AI系统严重依赖第三方库，未维护组件构成无法修补的供应链风险，可能成为针对AI基础设施的持久化攻击入口。",
-      "action": "立即扫描项目依赖清单（SBOM），标记所有“未维护/停更”组件，制定迁移至替代库或隔离/降级使用的具体计划。",
-      "tweet": "Anthropic红队发现500+漏洞，但警告：真正危险的是“长尾漏洞”——那些无人维护的软件中的缺陷，永远无法修复。AI开发者必须立即行动：扫描依赖，清理停更库，堵住供应链安全最大缺口。#AISecurity #DevSecOps"
-    },
-    {
       "id": "https://seangoedecke.com/generate-skills-afterwards/",
       "run_at": "2026-02-17T06:16:07Z",
       "feed_title": "seangoedecke.com",
@@ -269,6 +336,19 @@
       "why": "事前生成类似冗余的“思考步骤”，当前模型已内置推理；事后生成能捕获实际解决中的隐性知识、陷阱和有效模式，形成可复用的过程性资产。",
       "action": "对重复性AI辅助任务（如代码编写、数据分析），在LLM输出解决方案后，立即用固定提示词（如“请将上述步骤总结为可复用的技能文档，包含步骤、代码示例和注意事项”）生成技能，并存入团队共享知识库。",
       "tweet": "【开发技巧】别让LLM事前写技能计划！新研究显示这无效。正确姿势：完成任务后，让它总结成结构化文档。例如在SAEs实验中，事后总结的特征钳制步骤可直接复用。建议开发者建立“技能库”，将LLM解决实际问题的经验沉淀为可调用资产，大幅提升AI协作效率。#AI开发 #机器学习"
+    },
+    {
+      "id": "https://martinalderson.com/posts/anthropic-found-500-zero-days/?utm_source=rss",
+      "run_at": "2026-02-17T06:16:07Z",
+      "feed_title": "martinalderson.com",
+      "title": "Anthropic's 500 vulns are the tip of the iceberg",
+      "link": "https://martinalderson.com/posts/anthropic-found-500-zero-days/?utm_source=rss",
+      "published": "2026-02-17T00:00:00Z",
+      "tldr": "Anthropic发现的500个漏洞仅是冰山一角，未维护软件中的“长尾漏洞”才是更大威胁。",
+      "what": "博客指出Anthropic红队仅扫描了“正在维护”的软件就发现500+严重漏洞；更危险的是海量“无人维护”软件中潜伏的、永远无法修复的漏洞。",
+      "why": "AI系统严重依赖第三方库，未维护组件构成无法修补的供应链风险，可能成为针对AI基础设施的持久化攻击入口。",
+      "action": "立即扫描项目依赖清单（SBOM），标记所有“未维护/停更”组件，制定迁移至替代库或隔离/降级使用的具体计划。",
+      "tweet": "Anthropic红队发现500+漏洞，但警告：真正危险的是“长尾漏洞”——那些无人维护的软件中的缺陷，永远无法修复。AI开发者必须立即行动：扫描依赖，清理停更库，堵住供应链安全最大缺口。#AISecurity #DevSecOps"
     },
     {
       "id": "https://entropicthoughts.com/learning-keybee",
@@ -486,6 +566,32 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
+      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "run_at": "2026-02-16T09:45:21Z",
+      "feed_title": "rakhim.exotext.com",
+      "title": "Modern UI is clean and invisible? Ha, I wish!",
+      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
+      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
+      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
+      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
+      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
+    },
+    {
+      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "run_at": "2026-02-16T12:45:25Z",
+      "feed_title": "matklad.github.io",
+      "title": "Diagnostics Factory",
+      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
+      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
+      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
+      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
+      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/16/changelog.html",
       "run_at": "2026-02-16T10:44:48Z",
       "feed_title": "nesbitt.io",
@@ -503,32 +609,6 @@
       "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
       "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
-    },
-    {
-      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "run_at": "2026-02-16T12:45:25Z",
-      "feed_title": "matklad.github.io",
-      "title": "Diagnostics Factory",
-      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
-      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
-      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
-      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
-      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
-    },
-    {
-      "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "run_at": "2026-02-16T09:45:21Z",
-      "feed_title": "rakhim.exotext.com",
-      "title": "Modern UI is clean and invisible? Ha, I wish!",
-      "link": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "现代UI追求“干净隐形”却牺牲直观性，导致界面千篇一律且认知负担加重，作者呼吁设计应保留个性与连贯性。",
-      "what": "博客通过对比Apple Music与Winamp，批判当前UI设计误将“隐形”等同于优秀，指出其制造了非直观、无现实映射的复杂导航结构。",
-      "why": "对开发者而言，此趋势直接影响产品可用性与用户留存；盲目跟风“隐形”设计可能掩盖深层交互问题，损害基础设施与体验。",
-      "action": "1. 审计产品UI：检查导航是否一致、动画是否反映空间结构；2. 在组件库中保留品牌个性元素，避免完全趋同；3. 增加用户测试，量化认知负荷而非仅关注视觉评分。",
-      "tweet": "现代UI越做越“干净”，用户却更迷茫？博主怒斥：所谓“隐形”设计实为混乱！对比Winamp的直观与Apple Music的迷失，指出当前UI缺乏个性、导航反直觉。开发者警惕：好UI不是隐形，是连贯与可控。立即评估你的产品：是否用动画掩盖了结构缺陷？#UI设计 #用户体验 #产品趋势"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -801,14 +881,6 @@
       "tweet": "警惕AI“必然性”迷思！博客以罗马帝国、托勒密体系为例，指出所有技术帝国都终将崩溃。对开发者：别死磕单一AI巨头，评估风险，拥抱开源替代方案，为范式转移做准备。历史教训：永久性只是幻觉。#AI #开发者 #风险"
     },
     {
-      "id": "https://susam.net/deep-blue.html",
-      "run_at": "2026-02-16T13:53:07Z",
-      "feed_title": "susam.net",
-      "title": "Deep Blue: Chess vs Programming",
-      "link": "https://susam.net/deep-blue.html",
-      "published": "2026-02-15T00:00:00Z"
-    },
-    {
       "id": "https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html",
       "run_at": "2026-02-15T10:40:57Z",
       "feed_title": "nesbitt.io",
@@ -838,6 +910,14 @@
       "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
       "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
       "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
+    },
+    {
+      "id": "https://susam.net/deep-blue.html",
+      "run_at": "2026-02-16T13:53:07Z",
+      "feed_title": "susam.net",
+      "title": "Deep Blue: Chess vs Programming",
+      "link": "https://susam.net/deep-blue.html",
+      "published": "2026-02-15T00:00:00Z"
     },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/",
@@ -1069,19 +1149,6 @@
       "tweet": "包管理器命名空间设计至关重要。扁平命名空间（如PyPI）虽简洁，但导致好名字被占用、废弃包不回收，且易引发拼写错误攻击，严重威胁供应链安全。建议优先选择带命名空间隔离的系统（如NPM），项目中使用锁文件并定期审计依赖，团队内部分享命名规范，警惕相似包名。安全与可维护性需从基础设施设计开始。#开发者安全 #包管理"
     },
     {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
-    },
-    {
       "id": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
       "run_at": "2026-02-14T21:37:41Z",
       "feed_title": "matklad.github.io",
@@ -1093,6 +1160,19 @@
       "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
       "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
       "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
+    },
+    {
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",

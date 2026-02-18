@@ -1,35 +1,62 @@
 {
-  "generated_at": "2026-02-17T22:51:16Z",
+  "generated_at": "2026-02-18T06:47:03Z",
   "days": [
     {
-      "date": "2026-02-17",
-      "total": 17,
+      "date": "2026-02-18",
+      "total": 4,
       "feeds": [
+        "daringfireball.net (1)",
+        "joanwestenberg.com (1)",
+        "tedium.co (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Two challenges of incremental backups",
+        "tedium.co · Markdown’s Moment",
+        "joanwestenberg.com · The case for gatekeeping, or: why medieval guilds had it figured out",
+        "daringfireball.net · Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4"
+      ],
+      "key_points": [
+        "增量备份的核心难点并非节省空间，而是如何**可靠追踪变更**与**同步删除状态**，否则恢复将产生数据不一致。",
+        "大厂（Cloudflare/Vercel）力推“Markdown for Agents”，利用Markdown简洁性服务AI代理，可能成为Web新标准。",
+        "AI生成的垃圾PR正淹没开源项目，作者呼吁借鉴中世纪行会的学徒制与声誉担保体系，重建贡献者信任机制。",
+        "苹果将于3月4日在三地举办线下“特别体验”活动，而非传统线上发布会，预计通过新闻稿分日公布多款新品。"
+      ],
+      "tweet_drafts": [
+        "增量备份的隐形陷阱：省空间易，保一致难。关键在两点：1) 100%可靠发现变更（OS常帮倒忙）；2) 恢复时必须精准删除已不存在的文件。后者更考验自研方案设计。你的备份系统如何处理“删除传播”？#DevOps #Backup",
+        "【开发者注意】Cloudflare、Vercel等大厂正力推“Markdown for Agents”——为AI代理提供简洁内容格式。HTML太复杂？Markdown能省token、提解析效率。建议：尽快为网站准备Markdown版本，关注相关工具更新。这可能是继RSS后的新内容分发趋势？#AI #开发者 #Markdown",
+        "AI生成的“完美格式垃圾PR”正在杀死开源维护者的热情。中世纪行会用学徒制和声誉担保解决了分散生产的信任问题。我们是否需要新的“开源行会”？建议：设置贡献者观察期、要求历史PR证明、核心维护者背书。转发讨论 #开源 #AI #开发者"
+      ]
+    },
+    {
+      "date": "2026-02-17",
+      "total": 18,
+      "feeds": [
+        "simonwillison.net (4)",
         "daringfireball.net (3)",
-        "simonwillison.net (3)",
         "berthub.eu (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Introducing Claude Sonnet 4.6",
         "berthub.eu · De digitale coalitieplannen: gaat het ook echt gebeuren?",
         "daringfireball.net · ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years",
         "daringfireball.net · How to Force Restart an iPhone",
         "experimental-history.com · I swear the UFO is coming any minute",
-        "devblogs.microsoft.com/oldnewthing · Microspeak: Escrow",
-        "simonwillison.net · Quoting ROUGH DRAFT 8/2/66"
+        "devblogs.microsoft.com/oldnewthing · Microspeak: Escrow"
       ],
       "key_points": [
+        "Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出。",
         "荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑。",
         "苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。",
-        "iPhone 卡死时，用“音量上→音量下→长按侧键”组合强制重启，步骤易忘但关键。",
-        "博客以UFO现象为例，倡导用科学数据和可重复实验替代传闻，批判盲目接受异常报告。"
+        "iPhone 卡死时，用“音量上→音量下→长按侧键”组合强制重启，步骤易忘但关键。"
       ],
       "tweet_drafts": [
+        "Anthropic新模型Claude Sonnet 4.6发布！性能媲美Opus 4.5，价格却只需$3/$15（百万token）。知识截止2025年8月，支持长上下文。开发者工具llm-anthropic 0.24已适配。测试发现它偏爱给SVG加高礼帽——你的业务能接受这种“创意”吗？速测成本效益：https://simonwillison.net/2026/Feb/17/claude-sonnet-46/",
         "荷兰拟以中央集权+强制标准推动政府数字自主，摆脱美云依赖。对国内开发者启示：密切关注信创政策与国产云标准，提前适配技术栈，积极参与国产化替代生态，把握数字主权趋势。#数字主权 #云计算 #信创",
-        "苹果官方数据：iOS 26在近4年iPhone中采用率74%，与iOS 18（76%）基本持平，驳斥“暴跌”谣言。苹果控制自动更新节奏（发布后2个月推送），采用率曲线稳定。开发者行动：1. 测试覆盖近4年设备（74%用户）；2. 优先适配iOS 26，兼容iOS 18+（\u003e90%覆盖率）；3. 关注旧版安全补丁（iOS 17仍有30%用户）。#iOS开发 #版本碎片化 #苹果生态",
-        "iPhone 卡在锁屏别慌！强制重启三步：音量上→音量下→长按侧键至苹果logo出现。iOS更新后偶发卡死，此技能关键时刻自救。收藏Apple支持页，开发者必备故障排除技巧。#iPhone #iOS #技术干货"
+        "苹果官方数据：iOS 26在近4年iPhone中采用率74%，与iOS 18（76%）基本持平，驳斥“暴跌”谣言。苹果控制自动更新节奏（发布后2个月推送），采用率曲线稳定。开发者行动：1. 测试覆盖近4年设备（74%用户）；2. 优先适配iOS 26，兼容iOS 18+（\u003e90%覆盖率）；3. 关注旧版安全补丁（iOS 17仍有30%用户）。#iOS开发 #版本碎片化 #苹果生态"
       ]
     },
     {
