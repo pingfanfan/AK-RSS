@@ -1,37 +1,42 @@
 {
-  "generated_at": "2026-02-19T17:45:38Z",
+  "generated_at": "2026-02-19T18:14:02Z",
   "days": [
     {
       "date": "2026-02-19",
-      "total": 9,
+      "total": 10,
       "feeds": [
+        "simonwillison.net (2)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "simonwillison.net · Gemini 3.1 Pro",
         "devblogs.microsoft.com/oldnewthing · Exploring the signals the dialog manager uses for dismissing a dialog",
         "pluralistic.net · Pluralistic: Six Years of Pluralistic (19 Feb 2026)",
         "construction-physics.com · Is the Future “AWS for Everything”?",
         "shkspr.mobi · AI is a NAND Maximiser",
-        "dfarq.homeip.net · Office Space released Feb. 19, 1999",
-        "simonwillison.net · Experimenting with sponsorship for my blog and newsletter"
+        "dfarq.homeip.net · Office Space released Feb. 19, 1999"
       ],
       "key_points": [
+        "价格减半，性能对标Claude Opus 4.6，SVG生成能力提升",
         "Exploring the signals the dialog manager uses for dismissing a dialog",
         "独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。",
-        "未来基础设施可能由类似AWS的标准化、可重复服务主导，因其规模效应持续降低成本，而定制化项目成本将攀升。",
-        "AI is a NAND Maximiser"
+        "未来基础设施可能由类似AWS的标准化、可重复服务主导，因其规模效应持续降低成本，而定制化项目成本将攀升。"
       ],
       "tweet_drafts": [
+        "Gemini 3.1 Pro发布！价格仅Claude Opus 4.6一半，性能却相近。实测SVG生成更精细（看鹈鹕骑车图）。新模型ID：gemini-3.1-pro-preview。注意：目前响应较慢。",
         "Exploring the signals the dialog manager uses for dismissing a dialog",
-        "【独立博客六年实践】作者Cory Doctorow分享核心方法论：用“Memex”（如Obsidian）构建个人知识图谱，再用“POSSE”（自有站点首发）",
-        "博客揭示关键趋势：效率来自重复。汽车因大规模生产变便宜，维修因单次服务变贵。同理，AWS等云平台通过提供标准化、可重复的服务单元，正成为新时代的“高效工厂”。建议开发者：少自建、多消费托管服务，专注核心创新。#云计算 #DevOps #成本优化"
+        "【独立博客六年实践】作者Cory Doctorow分享核心方法论：用“Memex”（如Obsidian）构建个人知识图谱，再用“POSSE”（自有站点首发）"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Gemini 3.1 Pro Released",
+          "link": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "Exploring the signals the dialog manager uses for dismissing a dialog",
@@ -41,27 +46,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Six Years of Pluralistic (19 Feb 2026)",
           "link": "https://pluralistic.net/2026/02/19/now-we-are-six/"
-        },
-        {
-          "feed_title": "construction-physics.com",
-          "title": "Is the Future “AWS for Everything”?",
-          "link": "https://www.construction-physics.com/p/is-the-future-aws-for-everything"
         }
       ],
-      "summary_zh": "2026-02-19 技术日报：Exploring the signals the dialog manager uses for dismissing a dialog；独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。；未来基础设施可能由类似AWS的标准化、可重复服务主导，因其规模效应持续降低成本，而定制化项目成本将攀升。。",
-      "summary_en": "Daily brief (2026-02-19): Exploring the signals the dialog manager uses for dismissing a dialog; Pluralistic: Six Years of Pluralistic (19 Feb 2026); Is the Future “AWS for Everything”?.",
+      "summary_zh": "2026-02-19 技术日报：价格减半，性能对标Claude Opus 4.6，SVG生成能力提升；Exploring the signals the dialog manager uses for dismissing a dialog；独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。。",
+      "summary_en": "Daily brief (2026-02-19): Half the price of Claude Opus 4.6 with similar performance; improved SVG generation.; Exploring the signals the dialog manager uses for dismissing a dialog; Pluralistic: Six Years of Pluralistic (19 Feb 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-19 日报】Exploring the signals the dialog manager uses for dismissing a dialog；独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。；未来基础设施可能由类似AWS的标准化、可重复服务主导，因其规模效应持续降低成本，而定制化项目成本将攀升。。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-19): Exploring the signals the dialog manager uses for dismissing a dialog; Pluralistic: Six Years of Pluralistic (19 Feb 2026); Is the Future “AWS for Everything”?. Actionable takeaways included. What would you ship next? #AI #Engineerin"
+          "zh": "【2026-02-19 日报】价格减半，性能对标Claude Opus 4.6，SVG生成能力提升；Exploring the signals the dialog manager uses for dismissing a dialog；独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-19): Half the price of Claude Opus 4.6 with similar performance; improved SVG generation.; Exploring the signals the dialog manager uses for dismissing a dialog; Pluralistic: Six Years of Pluralistic (19 Feb 2026). Actionable takeaways in"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-19）\n- Exploring the signals the dialog manager uses for dismissing a dialog\n- 独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。\n- 未来基础设施可能由类似AWS的标准化、可重复服务主导，因其规模效应持续降低成本，而定制化项目成本将攀升。\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260219-00/?p=112072\n- https://pluralistic.net/2026/02/19/now-we-are-six/\n- https://www.construction-physics.com/p/is-the-future-aws-for-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-19)\n- Exploring the signals the dialog manager uses for dismissing a dialog\n- Pluralistic: Six Years of Pluralistic (19 Feb 2026)\n- Is the Future “AWS for Everything”?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260219-00/?p=112072\n- https://pluralistic.net/2026/02/19/now-we-are-six/\n- https://www.construction-physics.com/p/is-the-future-aws-for-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-19）\n- 价格减半，性能对标Claude Opus 4.6，SVG生成能力提升\n- Exploring the signals the dialog manager uses for dismissing a dialog\n- 独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260219-00/?p=112072\n- https://pluralistic.net/2026/02/19/now-we-are-six/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-19)\n- Half the price of Claude Opus 4.6 with similar performance; improved SVG generation.\n- Exploring the signals the dialog manager uses for dismissing a dialog\n- Pluralistic: Six Years of Pluralistic (19 Feb 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260219-00/?p=112072\n- https://pluralistic.net/2026/02/19/now-we-are-six/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Exploring the signals the dialog manager uses for dismissing a dialog；独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。；未来基础设施可能由类似AWS的标准化、可重复服务主导，因其规模效应持续降低成本，而定制化项目成本将攀升。。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Exploring the signals the dialog manager uses for dismissing a dialog; Pluralistic: Six Years of Pluralistic (19 Feb 2026); Is the Future “AWS for Everything”?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：价格减半，性能对标Claude Opus 4.6，SVG生成能力提升；Exploring the signals the dialog manager uses for dismissing a dialog；独立博客“Pluralistic”运营六周年，作者核心分享其个人知识管理（Memex方法）与自主发布（POSSE）的实践。。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Half the price of Claude Opus 4.6 with similar performance; improved SVG generation.; Exploring the signals the dialog manager uses for dismissing a dialog; Pluralistic: Six Years of Pluralistic (19 Feb 2026).\nI turned them into an action-ready daily brief you can use right awa"
         }
       }
     },
