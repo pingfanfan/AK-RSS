@@ -98,7 +98,7 @@ Workflow: `.github/workflows/subscriber-email.yml`
   - `site/data/updates.json` (rolling updates)
   - `site/data/daily.json` (daily summaries)
 - Built-in language toggle (中文 / English) with original-title preservation + translation display
-- Daily copy-ready social pack for `X`, `LinkedIn`, and `Threads` in both Chinese and English
+- Daily copy-ready social pack for `X`, `LinkedIn`, and `Threads` in both Chinese and English, with source links included
 - Deployment workflow: `.github/workflows/pages.yml`
 
 ## Config and Interfaces

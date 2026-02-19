@@ -79,9 +79,16 @@ type dailySummary struct {
 	Highlights  []string         `json:"highlights"`
 	KeyPoints   []string         `json:"key_points"`
 	TweetDrafts []string         `json:"tweet_drafts"`
+	Sources     []dailySource    `json:"sources,omitempty"`
 	SummaryZh   string           `json:"summary_zh,omitempty"`
 	SummaryEn   string           `json:"summary_en,omitempty"`
 	SocialPosts dailySocialPosts `json:"social_posts"`
+}
+
+type dailySource struct {
+	FeedTitle string `json:"feed_title,omitempty"`
+	Title     string `json:"title,omitempty"`
+	Link      string `json:"link,omitempty"`
 }
 
 type localizedPost struct {
@@ -234,6 +241,8 @@ func (s *Sink) buildDaily(all []updateRecord) dailyFile {
 		keyPointsZh := make([]string, 0, 4)
 		keyPointsEn := make([]string, 0, 4)
 		tweets := make([]string, 0, 3)
+		sources := make([]dailySource, 0, 3)
+		sourceSeen := map[string]struct{}{}
 
 		for _, it := range b.items {
 			if len(highlights) < 6 {
@@ -243,11 +252,24 @@ func (s *Sink) buildDaily(all []updateRecord) dailyFile {
 			appendUniqueLimited(&keyPointsZh, firstNonEmpty(it.TLDRZh, it.TLDR, it.WhatZh, it.What, it.TitleZh, it.Title), 4)
 			appendUniqueLimited(&keyPointsEn, firstNonEmpty(it.TLDREn, it.WhatEn, it.TitleEn, it.Title, it.TLDR, it.What), 4)
 			appendUniqueLimited(&tweets, firstNonEmpty(it.XZh, it.TweetZh, it.Tweet, it.XEn, it.TweetEn), 3)
+			if len(sources) < 3 {
+				link := strings.TrimSpace(it.Link)
+				if link != "" {
+					if _, ok := sourceSeen[link]; !ok {
+						sourceSeen[link] = struct{}{}
+						sources = append(sources, dailySource{
+							FeedTitle: it.FeedTitle,
+							Title:     firstNonEmpty(it.TitleEn, it.TitleZh, it.Title),
+							Link:      link,
+						})
+					}
+				}
+			}
 		}
 
 		summaryZh := buildDailySummaryText(day, keyPointsZh, "zh")
 		summaryEn := buildDailySummaryText(day, keyPointsEn, "en")
-		social := buildDailySocialPosts(day, keyPointsZh, keyPointsEn, highlights)
+		social := buildDailySocialPosts(day, keyPointsZh, keyPointsEn, highlights, sources)
 
 		result = append(result, dailySummary{
 			Date:        day,
@@ -256,6 +278,7 @@ func (s *Sink) buildDaily(all []updateRecord) dailyFile {
 			Highlights:  highlights,
 			KeyPoints:   keyPoints,
 			TweetDrafts: tweets,
+			Sources:     sources,
 			SummaryZh:   summaryZh,
 			SummaryEn:   summaryEn,
 			SocialPosts: social,
@@ -368,7 +391,7 @@ func buildDailySummaryText(day string, points []string, lang string) string {
 	return clipRunes(fmt.Sprintf("Daily brief (%s): %s.", day, strings.Join(use, "; ")), 320)
 }
 
-func buildDailySocialPosts(day string, zhPoints, enPoints, highlights []string) dailySocialPosts {
+func buildDailySocialPosts(day string, zhPoints, enPoints, highlights []string, sources []dailySource) dailySocialPosts {
 	zh := firstThree(zhPoints)
 	en := firstThree(enPoints)
 	if len(zh) == 0 {
@@ -383,30 +406,39 @@ func buildDailySocialPosts(day string, zhPoints, enPoints, highlights []string) 
 
 	zhBullets := bullets(zh)
 	enBullets := bullets(en)
+	sourceURLs := sourceURLList(sources, 3)
+	sourceInlineZh := ""
+	sourceInlineEn := ""
+	if len(sourceURLs) > 0 {
+		sourceInlineZh = " 来源: " + sourceURLs[0]
+		sourceInlineEn = " Source: " + sourceURLs[0]
+	}
+	sourceBlockZh := sourceBlock("zh", sourceURLs)
+	sourceBlockEn := sourceBlock("en", sourceURLs)
 
 	return dailySocialPosts{
 		X: localizedPost{
-			Zh: clipRunes(fmt.Sprintf("【%s 日报】%s。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践", day, zhJoined), 260),
-			En: clipRunes(fmt.Sprintf("AK-RSS Daily (%s): %s. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic", day, enJoined), 260),
+			Zh: clipRunes(fmt.Sprintf("【%s 日报】%s。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践%s", day, zhJoined, sourceInlineZh), 260),
+			En: clipRunes(fmt.Sprintf("AK-RSS Daily (%s): %s. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic%s", day, enJoined, sourceInlineEn), 260),
 		},
 		LinkedIn: localizedPost{
 			Zh: strings.TrimSpace(fmt.Sprintf(
-				"今天的技术情报（%s）\n%s\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n#AI #工程实践 #产品洞察",
-				day, zhBullets,
+				"今天的技术情报（%s）\n%s\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n%s\n#AI #工程实践 #产品洞察",
+				day, zhBullets, sourceBlockZh,
 			)),
 			En: strings.TrimSpace(fmt.Sprintf(
-				"Tech signal brief (%s)\n%s\n\nI compiled actionable next steps and source links for team sync and content planning.\n#AI #Engineering #Product",
-				day, enBullets,
+				"Tech signal brief (%s)\n%s\n\nI compiled actionable next steps and source links for team sync and content planning.\n%s\n#AI #Engineering #Product",
+				day, enBullets, sourceBlockEn,
 			)),
 		},
 		Threads: localizedPost{
 			Zh: clipRunes(fmt.Sprintf(
-				"今天最值得看的 3 个点：%s。\n我把行动建议做成日报了，可以直接拿去用。",
-				zhJoined,
+				"今天最值得看的 3 个点：%s。\n我把行动建议做成日报了，可以直接拿去用。%s",
+				zhJoined, sourceInlineZh,
 			), 320),
 			En: clipRunes(fmt.Sprintf(
-				"Three signals worth your attention today: %s.\nI turned them into an action-ready daily brief you can use right away.",
-				enJoined,
+				"Three signals worth your attention today: %s.\nI turned them into an action-ready daily brief you can use right away.%s",
+				enJoined, sourceInlineEn,
 			), 320),
 		},
 	}
@@ -486,6 +518,42 @@ func firstThree(items []string) []string {
 		}
 	}
 	return out
+}
+
+func sourceURLList(sources []dailySource, n int) []string {
+	out := make([]string, 0, min(n, len(sources)))
+	seen := map[string]struct{}{}
+	for _, src := range sources {
+		link := strings.TrimSpace(src.Link)
+		if link == "" {
+			continue
+		}
+		if _, ok := seen[link]; ok {
+			continue
+		}
+		seen[link] = struct{}{}
+		out = append(out, link)
+		if len(out) >= n {
+			break
+		}
+	}
+	return out
+}
+
+func sourceBlock(lang string, urls []string) string {
+	if len(urls) == 0 {
+		return ""
+	}
+	header := "Sources:"
+	if lang == "zh" {
+		header = "来源:"
+	}
+	lines := make([]string, 0, len(urls)+1)
+	lines = append(lines, header)
+	for _, u := range urls {
+		lines = append(lines, "- "+u)
+	}
+	return strings.Join(lines, "\n")
 }
 
 func bullets(items []string) string {

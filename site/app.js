@@ -271,6 +271,36 @@ async function copyWithFeedback(btn, content, defaultLabel) {
   }, 1200);
 }
 
+function hasExplicitSourceBlock(text) {
+  return /(?:^|\n)\s*(?:sources?|来源)\s*[:：]/im.test(text || "");
+}
+
+function buildEntrySourceSuffix(item) {
+  const link = (item?.link || "").trim();
+  if (!link) return "";
+  return currentLang === "zh" ? `\n来源: ${link}` : `\nSource: ${link}`;
+}
+
+function buildDaySourceSuffix(day) {
+  const links = (day?.sources || [])
+    .map((s) => (s?.link || "").trim())
+    .filter(Boolean)
+    .slice(0, 3);
+  if (links.length === 0) return "";
+
+  const header = currentLang === "zh" ? "来源:" : "Sources:";
+  return `\n\n${header}\n${links.map((u) => `- ${u}`).join("\n")}`;
+}
+
+function withRequiredSource(text, sourceSuffix) {
+  const base = (text || "").trim();
+  const suffix = (sourceSuffix || "").trim();
+  if (!suffix) return base;
+  if (!base) return suffix;
+  if (hasExplicitSourceBlock(base)) return base;
+  return `${base}\n${suffix}`;
+}
+
 function renderTimeline(updates) {
   const list = byId("timeline");
   const tmpl = byId("timelineItemTmpl");
@@ -312,12 +342,13 @@ function renderTimeline(updates) {
     node.querySelector(".entry-action").textContent = `${t("label_action")}: ${action || ""}`;
 
     const xText = pickLocalized(item, "x") || pickLocalized(item, "tweet") || `${item.title || ""} ${item.link || ""}`.trim();
-    node.querySelector(".tweet-preview").textContent = xText;
+    const xTextWithSource = withRequiredSource(xText, buildEntrySourceSuffix(item));
+    node.querySelector(".tweet-preview").textContent = xTextWithSource;
 
     const btn = node.querySelector(".tweet-btn");
     const label = t("copy_x");
     btn.textContent = label;
-    btn.addEventListener("click", () => copyWithFeedback(btn, xText, label));
+    btn.addEventListener("click", () => copyWithFeedback(btn, xTextWithSource, label));
 
     list.appendChild(node);
   });
@@ -385,11 +416,12 @@ function renderDaily(daily) {
 
       block.querySelector(".social-platform").textContent = p.title;
       const content = dailyPlatformText(d, p.key);
-      textNode.textContent = content;
+      const contentWithSource = withRequiredSource(content, buildDaySourceSuffix(d));
+      textNode.textContent = contentWithSource;
 
       const label = t(p.copyKey);
       btn.textContent = label;
-      btn.addEventListener("click", () => copyWithFeedback(btn, content, label));
+      btn.addEventListener("click", () => copyWithFeedback(btn, contentWithSource, label));
     });
 
     list.appendChild(node);

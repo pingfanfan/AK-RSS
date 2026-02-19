@@ -98,7 +98,7 @@ docker compose run --rm opmlwatch
   - `site/data/updates.json`（滚动更新）
   - `site/data/daily.json`（每日总结）
 - 页面内置中英文一键切换（保留原文标题，并在切换语言时展示翻译）
-- 每日自动生成可直接复制的社交平台文案（`X` / `LinkedIn` / `Threads`，中英双语）
+- 每日自动生成可直接复制的社交平台文案（`X` / `LinkedIn` / `Threads`，中英双语，含来源链接）
 - 页面发布工作流：`.github/workflows/pages.yml`
 
 ## 配置与接口

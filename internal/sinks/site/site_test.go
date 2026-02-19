@@ -64,4 +64,7 @@ func TestSiteSinkWritesFiles(t *testing.T) {
 	if daily.Days[0].SocialPosts.X.Zh == "" && daily.Days[0].SocialPosts.X.En == "" {
 		t.Fatalf("expected social posts to be generated")
 	}
+	if len(daily.Days[0].Sources) == 0 {
+		t.Fatalf("expected sources to be generated for professional copy blocks")
+	}
 }
