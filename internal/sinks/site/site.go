@@ -407,19 +407,13 @@ func buildDailySocialPosts(day string, zhPoints, enPoints, highlights []string, 
 	zhBullets := bullets(zh)
 	enBullets := bullets(en)
 	sourceURLs := sourceURLList(sources, 3)
-	sourceInlineZh := ""
-	sourceInlineEn := ""
-	if len(sourceURLs) > 0 {
-		sourceInlineZh = " 来源: " + sourceURLs[0]
-		sourceInlineEn = " Source: " + sourceURLs[0]
-	}
 	sourceBlockZh := sourceBlock("zh", sourceURLs)
 	sourceBlockEn := sourceBlock("en", sourceURLs)
 
 	return dailySocialPosts{
 		X: localizedPost{
-			Zh: clipRunes(fmt.Sprintf("【%s 日报】%s。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践%s", day, zhJoined, sourceInlineZh), 260),
-			En: clipRunes(fmt.Sprintf("AK-RSS Daily (%s): %s. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic%s", day, enJoined, sourceInlineEn), 260),
+			Zh: clipRunes(fmt.Sprintf("【%s 日报】%s。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践", day, zhJoined), 260),
+			En: clipRunes(fmt.Sprintf("AK-RSS Daily (%s): %s. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic", day, enJoined), 260),
 		},
 		LinkedIn: localizedPost{
 			Zh: strings.TrimSpace(fmt.Sprintf(
@@ -433,12 +427,12 @@ func buildDailySocialPosts(day string, zhPoints, enPoints, highlights []string, 
 		},
 		Threads: localizedPost{
 			Zh: clipRunes(fmt.Sprintf(
-				"今天最值得看的 3 个点：%s。\n我把行动建议做成日报了，可以直接拿去用。%s",
-				zhJoined, sourceInlineZh,
+				"今天最值得看的 3 个点：%s。\n我把行动建议做成日报了，可以直接拿去用。",
+				zhJoined,
 			), 320),
 			En: clipRunes(fmt.Sprintf(
-				"Three signals worth your attention today: %s.\nI turned them into an action-ready daily brief you can use right away.%s",
-				enJoined, sourceInlineEn,
+				"Three signals worth your attention today: %s.\nI turned them into an action-ready daily brief you can use right away.",
+				enJoined,
 			), 320),
 		},
 	}
