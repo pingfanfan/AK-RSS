@@ -436,6 +436,24 @@ body {
   cursor: pointer;
 }
 
+.entry-image-btn,
+.day-image-btn {
+  border: 1px solid #9db2f7;
+  background: linear-gradient(135deg, #f8fbff, #edf2ff);
+  color: #1f3c83;
+  border-radius: 10px;
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.entry-image-btn:disabled,
+.day-image-btn:disabled {
+  opacity: 0.72;
+  cursor: progress;
+}
+
 .day-date {
   margin: 0;
   font-weight: 700;
