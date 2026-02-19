@@ -56,6 +56,14 @@ body {
   justify-content: space-between;
   gap: 10px;
   align-items: center;
+  flex-wrap: wrap;
+}
+
+.hero-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
 }
 
 .tag {
@@ -69,6 +77,30 @@ body {
 .sync {
   font-size: 12px;
   color: var(--muted);
+}
+
+.lang-toggle {
+  display: inline-flex;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 2px;
+}
+
+.lang-btn {
+  border: 0;
+  background: transparent;
+  color: #3f544b;
+  border-radius: 10px;
+  padding: 6px 10px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.lang-btn.active {
+  background: linear-gradient(135deg, #e7f0ff, #ecfff5);
+  color: #1f3f8e;
+  font-weight: 600;
 }
 
 .hero h1 {
@@ -317,6 +349,13 @@ body {
   color: var(--brand-2);
 }
 
+.entry-title-translation {
+  margin: 6px 0 0;
+  color: #5f6f97;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
 .entry-tldr,
 .entry-why,
 .entry-action,
@@ -366,6 +405,22 @@ body {
   font-size: 13px;
 }
 
+.day-summary-label {
+  margin: 10px 0 0;
+  color: #546d62;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.day-summary {
+  margin: 6px 0 0;
+  color: #23382f;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
 .day-points {
   margin: 8px 0 0 16px;
   padding: 0;
@@ -375,6 +430,47 @@ body {
   margin: 5px 0;
   color: #2f4339;
   font-size: 13px;
+}
+
+.day-social-grid {
+  margin-top: 12px;
+  display: grid;
+  gap: 8px;
+}
+
+.social-card {
+  border: 1px solid #d9dde9;
+  border-radius: 12px;
+  background: #fbfcff;
+  padding: 10px;
+}
+
+.social-platform {
+  margin: 0;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #4d5f8b;
+  font-weight: 700;
+}
+
+.social-post {
+  margin: 8px 0 0;
+  color: #293b5f;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  font-size: 13px;
+}
+
+.social-copy {
+  margin-top: 8px;
+  border: 1px solid #c0cbed;
+  background: #fff;
+  color: #24345d;
+  border-radius: 10px;
+  padding: 6px 10px;
+  font-size: 12px;
+  cursor: pointer;
 }
 
 .empty {
@@ -412,4 +508,5 @@ body {
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .layout { grid-template-columns: 1fr; }
   .scroll { max-height: none; }
+  .hero-controls { width: 100%; justify-content: space-between; }
 }

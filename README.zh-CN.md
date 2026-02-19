@@ -9,7 +9,7 @@
 - 从 OPML 导入订阅
 - 抓取每个订阅的最新条目（不是只看 feed 元信息）
 - 用规则筛选（关键词/域名/内容长度）
-- 可选 AI 分析（`TLDR / WHAT / WHY / ACTION / TWEET`）
+- 可选 AI 分析（中英双语 `TLDR / WHAT / WHY / ACTION` + 平台发布文案）
 - 输出到 `webhook`、`markdown`、`email`
 - 用持久化已读状态去重（`.opmlwatch/seen_links.json`）
 
@@ -97,6 +97,8 @@ docker compose run --rm opmlwatch
 - 流程会自动更新数据文件：
   - `site/data/updates.json`（滚动更新）
   - `site/data/daily.json`（每日总结）
+- 页面内置中英文一键切换（保留原文标题，并在切换语言时展示翻译）
+- 每日自动生成可直接复制的社交平台文案（`X` / `LinkedIn` / `Threads`，中英双语）
 - 页面发布工作流：`.github/workflows/pages.yml`
 
 ## 配置与接口

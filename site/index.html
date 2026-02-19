@@ -4,9 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AK Signal Deck</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
@@ -14,28 +14,39 @@
   <main class="shell">
     <header class="hero">
       <div class="hero-top">
-        <span class="tag">AK-RSS Signal Deck</span>
-        <span id="lastUpdated" class="sync">Syncing...</span>
+        <span id="tagText" class="tag">AK-RSS Signal Deck</span>
+        <div class="hero-controls">
+          <div class="lang-toggle" role="tablist" aria-label="language switch">
+            <button id="langBtnZh" type="button" class="lang-btn">中文</button>
+            <button id="langBtnEn" type="button" class="lang-btn">English</button>
+          </div>
+          <span id="lastUpdated" class="sync">Syncing...</span>
+        </div>
       </div>
-      <h1>Andrej K Recommended Intelligence Feed</h1>
-      <p class="subtitle">Rolling updates from your OPML list, expanded with Andrej K 补全推荐, with AI briefs and tweet-ready drafts.</p>
+
+      <h1 id="heroTitle">Andrej K Recommended Intelligence Feed</h1>
+      <p id="subtitleText" class="subtitle">Rolling updates from your OPML list, expanded with Andrej K recommendations, with AI briefs and platform-ready daily posts.</p>
+
       <div class="cta-row">
         <button id="refreshBtn" type="button">Refresh Now</button>
-        <a class="ghost-link" href="https://github.com/pingfanfan/AK-RSS/blob/main/examples/feeds.opml" target="_blank" rel="noopener">Open Source OPML</a>
+        <a id="openOpmlLink" class="ghost-link" href="https://github.com/pingfanfan/AK-RSS/blob/main/examples/feeds.opml" target="_blank" rel="noopener">Open Source OPML</a>
       </div>
+
       <section class="origin-card">
-        <p class="origin-title">Curation Note</p>
-        <p class="origin-text">This watchlist is your original feed universe with additional recommendations attributed to Andrej K, designed for high-signal engineering and AI reading.</p>
+        <p id="curationTitle" class="origin-title">Curation Note</p>
+        <p id="curationText" class="origin-text">This watchlist uses your original feed universe with additional recommendations attributed to Andrej K, focused on high-signal engineering and AI reading.</p>
       </section>
+
       <section class="subscribe-card">
-        <p class="origin-title">2-Hour Email Subscription</p>
-        <p class="origin-text">Enter your email to receive new updates every 2 hours.</p>
+        <p id="subscribeTitle" class="origin-title">2-Hour Email Subscription</p>
+        <p id="subscribeText" class="origin-text">Enter your email to receive new updates every 2 hours.</p>
         <form id="subscribeForm" class="subscribe-form">
           <input id="subscribeEmail" type="email" placeholder="you@example.com" required />
-          <button type="submit">Subscribe</button>
+          <button id="subscribeSubmit" type="submit">Subscribe</button>
         </form>
         <p id="subscribeHint" class="subscribe-hint">You will be redirected to a GitHub issue confirmation page.</p>
       </section>
+
       <section id="stats" class="stats"></section>
     </header>
 
@@ -46,7 +57,7 @@
     <section class="layout">
       <aside class="panel">
         <div class="panel-head">
-          <h2>Daily Capsule</h2>
+          <h2 id="dailyHeading">Daily Capsule</h2>
           <span id="dayCount" class="small-meta">0 days</span>
         </div>
         <div id="dailyList" class="scroll"></div>
@@ -54,7 +65,7 @@
 
       <section class="panel panel-large">
         <div class="panel-head">
-          <h2>Live Rolling Updates</h2>
+          <h2 id="liveHeading">Live Rolling Updates</h2>
           <span id="updateCount" class="small-meta">0 updates</span>
         </div>
         <div id="timeline" class="scroll"></div>
@@ -69,12 +80,13 @@
         <time class="entry-time"></time>
       </div>
       <a class="entry-title" target="_blank" rel="noopener"></a>
+      <p class="entry-title-translation"></p>
       <p class="entry-tldr"></p>
       <p class="entry-why"></p>
       <p class="entry-action"></p>
       <div class="tweet-row">
         <p class="tweet-preview"></p>
-        <button class="tweet-btn" type="button">Copy Tweet Draft</button>
+        <button class="tweet-btn" type="button">Copy X Post</button>
       </div>
     </article>
   </template>
@@ -86,7 +98,29 @@
         <span class="day-total"></span>
       </div>
       <p class="day-feeds"></p>
+
+      <p class="day-summary-label"></p>
+      <p class="day-summary"></p>
+
       <ul class="day-points"></ul>
+
+      <div class="day-social-grid">
+        <article class="social-card social-x">
+          <p class="social-platform">X</p>
+          <p class="social-post"></p>
+          <button class="social-copy" type="button">Copy</button>
+        </article>
+        <article class="social-card social-linkedin">
+          <p class="social-platform">LinkedIn</p>
+          <p class="social-post"></p>
+          <button class="social-copy" type="button">Copy</button>
+        </article>
+        <article class="social-card social-threads">
+          <p class="social-platform">Threads</p>
+          <p class="social-post"></p>
+          <button class="social-copy" type="button">Copy</button>
+        </article>
+      </div>
     </article>
   </template>
 

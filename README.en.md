@@ -9,7 +9,7 @@ Turn OPML into actionable updates: rule-based alerts + daily digests + optional 
 - Import feeds from OPML
 - Fetch latest entries from each feed (not just feed metadata)
 - Apply rules (keywords/domains/content length)
-- Optional AI analysis (`TLDR / WHAT / WHY / ACTION / TWEET`)
+- Optional AI analysis (bilingual `TLDR / WHAT / WHY / ACTION` + platform-ready posts)
 - Deliver to sinks (`webhook`, `markdown`, `email`)
 - Deduplicate with persisted seen-state (`.opmlwatch/seen_links.json`)
 
@@ -97,6 +97,8 @@ Workflow: `.github/workflows/subscriber-email.yml`
 - Data files updated by the pipeline:
   - `site/data/updates.json` (rolling updates)
   - `site/data/daily.json` (daily summaries)
+- Built-in language toggle (中文 / English) with original-title preservation + translation display
+- Daily copy-ready social pack for `X`, `LinkedIn`, and `Threads` in both Chinese and English
 - Deployment workflow: `.github/workflows/pages.yml`
 
 ## Config and Interfaces

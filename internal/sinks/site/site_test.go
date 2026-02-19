@@ -2,6 +2,7 @@ package site
 
 import (
 	"context"
+	"encoding/json"
 	"os"
 	"path/filepath"
 	"testing"
@@ -47,5 +48,20 @@ func TestSiteSinkWritesFiles(t *testing.T) {
 	}
 	if _, err := os.Stat(filepath.Join(d, "daily.json")); err != nil {
 		t.Fatalf("daily file missing: %v", err)
+	}
+
+	raw, err := os.ReadFile(filepath.Join(d, "daily.json"))
+	if err != nil {
+		t.Fatalf("read daily: %v", err)
+	}
+	var daily dailyFile
+	if err := json.Unmarshal(raw, &daily); err != nil {
+		t.Fatalf("decode daily: %v", err)
+	}
+	if len(daily.Days) == 0 {
+		t.Fatalf("expected daily summary items")
+	}
+	if daily.Days[0].SocialPosts.X.Zh == "" && daily.Days[0].SocialPosts.X.En == "" {
+		t.Fatalf("expected social posts to be generated")
 	}
 }
