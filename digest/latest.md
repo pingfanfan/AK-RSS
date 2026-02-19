@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-19 07:45:21 UTC
+Generated at: 2026-02-19 08:08:57 UTC
 
-- [How GNU Tar handles deleted things in incremental tar archives](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GNUTarIncrementalDeletes) (`utcc.utoronto.ca/~cks`)
+- [AI is the Best Thing to Happen to Art](https://geohot.github.io//blog/jekyll/update/2026/02/19/ai-art.html) (`geohot.github.io`)
