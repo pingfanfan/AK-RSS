@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T11:14:14Z",
+  "generated_at": "2026-02-19T11:43:12Z",
   "count": 97,
   "updates": [
     {
@@ -295,6 +295,22 @@
       "tweet": "【Pebble 重大更新】三款新硬件（Time 2/Round 2/Index 01）量产在即，同步推送安全与性能固件。开发者请立即：1. 更新SDK测试新API 2. 审核App权限适配 3. 关注供应链动态。智能手表生态迎来新变量，抓紧适配！#智能手表 #开发者 #硬件安全 #产品趋势"
     },
     {
+      "id": "https://github.com/techarohq/anubis/releases/tag/v1.25.0",
+      "run_at": "2026-02-18T16:46:58Z",
+      "feed_title": "xeiaso.net",
+      "title": "Anubis v1.25.0: Necron",
+      "link": "https://github.com/TecharoHQ/anubis/releases/tag/v1.25.0",
+      "published": "2026-02-18T00:00:00Z",
+      "tags": [
+        "external"
+      ],
+      "tldr": "Anubis v1.25.0 发布，但核心开发者因健康与倦怠原因暂停公开开发，版本仅含少量实用工具与修复。",
+      "what": "新增 `iplist2rule` 工具（将IP黑名单转为规则集）、波兰语本地化、修复路径前缀下的链接问题。",
+      "why": "维护者因个人健康手术、长期网络暴力及倦怠导致开发精力不足，公开活动暂停。",
+      "action": "立即使用新工具 `iplist2rule` 优化规则管理；若遇问题可降级或跟进 main 分支修复；对开源维护者多一份理解。",
+      "tweet": "Anubis v1.25.0 发布，新增 `iplist2rule` 工具助你快速将IP黑名单转为规则集，并修复路径前缀问题。但维护者因健康与倦怠暂停开发，请关注分支更新。开源不易，多些理解。#开源 #安全 #DevOps"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/18/what-package-registries-could-borrow-from-oci.html",
       "run_at": "2026-02-18T09:44:49Z",
       "feed_title": "nesbitt.io",
@@ -311,22 +327,6 @@
       "why": "解决npm、RubyGems等包格式碎片化问题；基于内容寻址（SHA-256）增强安全防篡改；分层存储适合大文件（如AI模型）高效分发。",
       "action": "评估将包存储后端迁移至兼容OCI的registry（如Harbor、Docker Hub），利用其签名、分层缓存能力，并测试主流包管理器（如pip、npm）的OCI插件。",
       "tweet": "包格式太乱？容器界的OCI标准已悄悄统一Helm、AI模型存储！其manifest+blob结构能提升安全、支持大文件高效分发。开发者可评估将包仓库迁移至OCI兼容registry，简化基础设施。 #DevOps #AI #云原生"
-    },
-    {
-      "id": "https://github.com/techarohq/anubis/releases/tag/v1.25.0",
-      "run_at": "2026-02-18T16:46:58Z",
-      "feed_title": "xeiaso.net",
-      "title": "Anubis v1.25.0: Necron",
-      "link": "https://github.com/TecharoHQ/anubis/releases/tag/v1.25.0",
-      "published": "2026-02-18T00:00:00Z",
-      "tags": [
-        "external"
-      ],
-      "tldr": "Anubis v1.25.0 发布，但核心开发者因健康与倦怠原因暂停公开开发，版本仅含少量实用工具与修复。",
-      "what": "新增 `iplist2rule` 工具（将IP黑名单转为规则集）、波兰语本地化、修复路径前缀下的链接问题。",
-      "why": "维护者因个人健康手术、长期网络暴力及倦怠导致开发精力不足，公开活动暂停。",
-      "action": "立即使用新工具 `iplist2rule` 优化规则管理；若遇问题可降级或跟进 main 分支修复；对开源维护者多一份理解。",
-      "tweet": "Anubis v1.25.0 发布，新增 `iplist2rule` 工具助你快速将IP黑名单转为规则集，并修复路径前缀问题。但维护者因健康与倦怠暂停开发，请关注分支更新。开源不易，多些理解。#开源 #安全 #DevOps"
     },
     {
       "id": "https://simonwillison.net/2026/feb/17/claude-sonnet-46/#atom-everything",
@@ -837,6 +837,19 @@
       "tweet": "【订阅源错误处理陷阱】为阅读器返回“正确格式”的错误订阅源，反而导致Feedly误缓存并切换至错误源。教训：向RSS/Atom客户端报错时，慎用有效订阅源格式，优先用4xx/5xx状态码或HTML页，避免被第三方客户端当作正常内容。监控你的订阅源被如何解析！#RSS #DevOps #故障排查"
     },
     {
+      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "run_at": "2026-02-16T12:45:25Z",
+      "feed_title": "matklad.github.io",
+      "title": "Diagnostics Factory",
+      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
+      "published": "2026-02-16T00:00:00Z",
+      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
+      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
+      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
+      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
+      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
+    },
+    {
       "id": "https://rakhim.exotext.com/modern-ui-is-not-invisible",
       "run_at": "2026-02-16T09:45:21Z",
       "feed_title": "rakhim.exotext.com",
@@ -867,19 +880,6 @@
       "why": "消除冗余依赖以优化性能与构建速度；统一分散的数学逻辑并修复直接影响营收的财务错误；为满足销售需求快速引入功能，但未进行安全代码审查。",
       "action": "立即审计项目依赖，仅保留必需功能；对涉及金额、 rounding 的核心逻辑编写单元测试，覆盖边界条件；彻底移除eval()，改用安全解析库（如math.js或自定义AST）；所有变更需记录changelog并关联issue编号。",
       "tweet": "【血泪教训】某项目移除14MB mathjs，自建47行数学模块，包体积↓68%，构建从12s→4s。但为满足销售需求，1.4.0竟用eval()实现表达式解析，引爆CVE-2025-41547。此前已修复$Infinity发票、$149百万订单等致命bug。核心教训：1. 财务逻辑必须全覆盖测试；2. 禁用eval，安全优先；3. 拒绝臃肿依赖，自建轻量模块。 #安全 #性能优化 #开发实践"
-    },
-    {
-      "id": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "run_at": "2026-02-16T12:45:25Z",
-      "feed_title": "matklad.github.io",
-      "title": "Diagnostics Factory",
-      "link": "https://matklad.github.io/2026/02/16/diagnostics-factory.html",
-      "published": "2026-02-16T00:00:00Z",
-      "tldr": "提出“诊断工厂”模式，用函数构造错误消息而非定义错误类型，提升错误报告灵活性。",
-      "what": "博客描述了在Zig中处理错误报告的个人默认方法，通过TigerBeetle的lint脚本示例展示如何用Errors结构体封装错误构造逻辑。",
-      "why": "避免僵化的错误类型设计，允许动态组合上下文信息（如文件、行号），生成更精准、有用的错误消息，改善开发者体验。",
-      "action": "在工具链或基础设施项目中，重构现有错误处理，将错误类型替换为错误构造函数集，确保每个错误点能附加具体上下文。",
-      "tweet": "错误处理新思路：别纠结错误类型，用“诊断工厂”函数集动态生成错误消息。@matklad 在Zig项目中实践，通过add_long_line等函数灵活附加上下文，让错误报告更精准。适用于工具链和基础设施开发，提升调试效率。推荐重构你的错误处理逻辑！#编程 #错误处理 #Zig"
     },
     {
       "id": "https://simonwillison.net/2026/feb/15/the-ai-vampire/#atom-everything",
@@ -1170,14 +1170,6 @@
       "tweet": "Docker构建加速新思路：分离“下载”与“安装”层！仅COPY lockfile后RUN下载，再COPY源码后离线安装，让缓存更精准。Go社区已实践多年，大幅减少冗余请求。其他语言生态（Rust/Python/Ruby）也值得跟进，既提速本地构建，又减轻crates.io等公共仓库的带宽负担。#Docker #DevOps #Go"
     },
     {
-      "id": "https://susam.net/deep-blue.html",
-      "run_at": "2026-02-16T13:53:07Z",
-      "feed_title": "susam.net",
-      "title": "Deep Blue: Chess vs Programming",
-      "link": "https://susam.net/deep-blue.html",
-      "published": "2026-02-15T00:00:00Z"
-    },
-    {
       "id": "https://seangoedecke.com/fast-llm-inference/",
       "run_at": "2026-02-15T06:13:50Z",
       "feed_title": "seangoedecke.com",
@@ -1189,6 +1181,14 @@
       "why": "核心差异在技术路径：Anthropic采用“低批次”策略，减少用户等待批处理填充时间以提升单请求速度；OpenAI则可能使用Cerebras等专用芯片实现硬件级加速，但以模型能力简化为代价。",
       "action": "开发者需按场景选择：若任务依赖复杂工具调用或高精度，选Anthropic真实模型并接受成本/速度权衡；若为高吞吐、低复杂度任务，可试OpenAI快模式。自建服务时，可通过调低批次大小模拟Anthropic模式以降低延迟。",
       "tweet": "Anthropic与OpenAI的“fast mode”大不同：一个用真实模型Opus 4.6（低批次推理，快2.5倍但贵6倍），一个用简化模型Spark（专用芯片，快15倍但能力降级）。选型关键：任务是否需要完整模型能力？自建服务可调低批次优化延迟。 #AI #开发者"
+    },
+    {
+      "id": "https://susam.net/deep-blue.html",
+      "run_at": "2026-02-16T13:53:07Z",
+      "feed_title": "susam.net",
+      "title": "Deep Blue: Chess vs Programming",
+      "link": "https://susam.net/deep-blue.html",
+      "published": "2026-02-15T00:00:00Z"
     },
     {
       "id": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/",
