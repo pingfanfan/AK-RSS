@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T09:13:14Z",
+  "generated_at": "2026-02-19T09:44:51Z",
   "count": 97,
   "updates": [
     {
@@ -298,19 +298,6 @@
       "tweet": "Anubis v1.25.0 发布，新增 `iplist2rule` 工具助你快速将IP黑名单转为规则集，并修复路径前缀问题。但维护者因健康与倦怠暂停开发，请关注分支更新。开源不易，多些理解。#开源 #安全 #DevOps"
     },
     {
-      "id": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "run_at": "2026-02-19T06:17:59Z",
-      "feed_title": "ericmigi.com",
-      "title": "February Pebble Production and Software Updates",
-      "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-      "published": "2026-02-18T00:00:00Z",
-      "tldr": "Pebble 三款新硬件（Time 2、Round 2、Index 01）生产接近完成，同步发布重要软件更新。",
-      "what": "1. 硬件：Pebble Time 2、Pebble Round 2、Index 01 进入量产尾声，即将发货。2. 软件：发布新版固件与配套手机App，修复漏洞并优化性能。",
-      "why": "对开发者：新硬件带来新API与传感器，需适配；安全更新修复潜在漏洞，保障用户数据与设备稳定，符合基础设施安全趋势。",
-      "action": "1. 立即检查Pebble SDK与模拟器更新，测试新硬件API兼容性。2. 审核现有App在最新固件下的权限与数据访问逻辑。3. 关注官方供应链公告，评估新硬件对产品路线的影响。",
-      "tweet": "【Pebble 重大更新】三款新硬件（Time 2/Round 2/Index 01）量产在即，同步推送安全与性能固件。开发者请立即：1. 更新SDK测试新API 2. 审核App权限适配 3. 关注供应链动态。智能手表生态迎来新变量，抓紧适配！#智能手表 #开发者 #硬件安全 #产品趋势"
-    },
-    {
       "id": "https://nesbitt.io/2026/02/18/what-package-registries-could-borrow-from-oci.html",
       "run_at": "2026-02-18T09:44:49Z",
       "feed_title": "nesbitt.io",
@@ -327,6 +314,19 @@
       "why": "解决npm、RubyGems等包格式碎片化问题；基于内容寻址（SHA-256）增强安全防篡改；分层存储适合大文件（如AI模型）高效分发。",
       "action": "评估将包存储后端迁移至兼容OCI的registry（如Harbor、Docker Hub），利用其签名、分层缓存能力，并测试主流包管理器（如pip、npm）的OCI插件。",
       "tweet": "包格式太乱？容器界的OCI标准已悄悄统一Helm、AI模型存储！其manifest+blob结构能提升安全、支持大文件高效分发。开发者可评估将包仓库迁移至OCI兼容registry，简化基础设施。 #DevOps #AI #云原生"
+    },
+    {
+      "id": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "run_at": "2026-02-19T06:17:59Z",
+      "feed_title": "ericmigi.com",
+      "title": "February Pebble Production and Software Updates",
+      "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "published": "2026-02-18T00:00:00Z",
+      "tldr": "Pebble 三款新硬件（Time 2、Round 2、Index 01）生产接近完成，同步发布重要软件更新。",
+      "what": "1. 硬件：Pebble Time 2、Pebble Round 2、Index 01 进入量产尾声，即将发货。2. 软件：发布新版固件与配套手机App，修复漏洞并优化性能。",
+      "why": "对开发者：新硬件带来新API与传感器，需适配；安全更新修复潜在漏洞，保障用户数据与设备稳定，符合基础设施安全趋势。",
+      "action": "1. 立即检查Pebble SDK与模拟器更新，测试新硬件API兼容性。2. 审核现有App在最新固件下的权限与数据访问逻辑。3. 关注官方供应链公告，评估新硬件对产品路线的影响。",
+      "tweet": "【Pebble 重大更新】三款新硬件（Time 2/Round 2/Index 01）量产在即，同步推送安全与性能固件。开发者请立即：1. 更新SDK测试新API 2. 审核App权限适配 3. 关注供应链动态。智能手表生态迎来新变量，抓紧适配！#智能手表 #开发者 #硬件安全 #产品趋势"
     },
     {
       "id": "https://simonwillison.net/2026/feb/17/claude-sonnet-46/#atom-everything",
@@ -596,19 +596,6 @@
       "tweet": "【免费实战】Sentry 官方 iOS 工作坊上线！手把手教你用崩溃报告+追踪+日志，快速定位性能瓶颈与崩溃根因，还能分析安装包大小。告别无效警报，直接提升用户体验与留存。开发者必看 👇 https://sentry.io/resources/ios-workshop-jan-2026/"
     },
     {
-      "id": "https://seangoedecke.com/generate-skills-afterwards/",
-      "run_at": "2026-02-17T06:16:07Z",
-      "feed_title": "seangoedecke.com",
-      "title": "LLM-generated skills work, if you generate them afterwards",
-      "link": "https://seangoedecke.com/generate-skills-afterwards/",
-      "published": "2026-02-17T00:00:00Z",
-      "tldr": "论文认为LLM自生成技能无效，但作者指出问题在于“事前生成”，正确方法是“事后总结”技能以实现复用。",
-      "what": "博客批判了一篇论文中让LLM在任务前生成技能的方法，主张在任务完成后让LLM将解决过程总结为结构化技能文档，并以SAEs特征钳制实验为例说明其价值。",
-      "why": "事前生成类似冗余的“思考步骤”，当前模型已内置推理；事后生成能捕获实际解决中的隐性知识、陷阱和有效模式，形成可复用的过程性资产。",
-      "action": "对重复性AI辅助任务（如代码编写、数据分析），在LLM输出解决方案后，立即用固定提示词（如“请将上述步骤总结为可复用的技能文档，包含步骤、代码示例和注意事项”）生成技能，并存入团队共享知识库。",
-      "tweet": "【开发技巧】别让LLM事前写技能计划！新研究显示这无效。正确姿势：完成任务后，让它总结成结构化文档。例如在SAEs实验中，事后总结的特征钳制步骤可直接复用。建议开发者建立“技能库”，将LLM解决实际问题的经验沉淀为可调用资产，大幅提升AI协作效率。#AI开发 #机器学习"
-    },
-    {
       "id": "https://martinalderson.com/posts/anthropic-found-500-zero-days/?utm_source=rss",
       "run_at": "2026-02-17T06:16:07Z",
       "feed_title": "martinalderson.com",
@@ -620,6 +607,19 @@
       "why": "AI系统严重依赖第三方库，未维护组件构成无法修补的供应链风险，可能成为针对AI基础设施的持久化攻击入口。",
       "action": "立即扫描项目依赖清单（SBOM），标记所有“未维护/停更”组件，制定迁移至替代库或隔离/降级使用的具体计划。",
       "tweet": "Anthropic红队发现500+漏洞，但警告：真正危险的是“长尾漏洞”——那些无人维护的软件中的缺陷，永远无法修复。AI开发者必须立即行动：扫描依赖，清理停更库，堵住供应链安全最大缺口。#AISecurity #DevSecOps"
+    },
+    {
+      "id": "https://seangoedecke.com/generate-skills-afterwards/",
+      "run_at": "2026-02-17T06:16:07Z",
+      "feed_title": "seangoedecke.com",
+      "title": "LLM-generated skills work, if you generate them afterwards",
+      "link": "https://seangoedecke.com/generate-skills-afterwards/",
+      "published": "2026-02-17T00:00:00Z",
+      "tldr": "论文认为LLM自生成技能无效，但作者指出问题在于“事前生成”，正确方法是“事后总结”技能以实现复用。",
+      "what": "博客批判了一篇论文中让LLM在任务前生成技能的方法，主张在任务完成后让LLM将解决过程总结为结构化技能文档，并以SAEs特征钳制实验为例说明其价值。",
+      "why": "事前生成类似冗余的“思考步骤”，当前模型已内置推理；事后生成能捕获实际解决中的隐性知识、陷阱和有效模式，形成可复用的过程性资产。",
+      "action": "对重复性AI辅助任务（如代码编写、数据分析），在LLM输出解决方案后，立即用固定提示词（如“请将上述步骤总结为可复用的技能文档，包含步骤、代码示例和注意事项”）生成技能，并存入团队共享知识库。",
+      "tweet": "【开发技巧】别让LLM事前写技能计划！新研究显示这无效。正确姿势：完成任务后，让它总结成结构化文档。例如在SAEs实验中，事后总结的特征钳制步骤可直接复用。建议开发者建立“技能库”，将LLM解决实际问题的经验沉淀为可调用资产，大幅提升AI协作效率。#AI开发 #机器学习"
     },
     {
       "id": "https://entropicthoughts.com/learning-keybee",
@@ -1404,6 +1404,19 @@
       "tweet": "Superlinear Returns http://www.paulgraham.com/superlinear.html"
     },
     {
+      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "run_at": "2026-02-15T07:42:18Z",
+      "feed_title": "fabiensanglard.net",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
+      "published": "2026-02-14T00:00:00Z",
+      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
+      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
+      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
+      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
+      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
+    },
+    {
       "id": "https://nesbitt.io/2026/02/14/package-management-namespaces.html",
       "run_at": "2026-02-14T10:41:07Z",
       "feed_title": "nesbitt.io",
@@ -1431,19 +1444,6 @@
       "why": "传统浏览器使用简单贪婪算法导致排版不佳；该属性将Knuth-Plass算法适配到响应式Web环境，是排版技术的重大进步。",
       "action": "立即在Safari中为段落应用`text-wrap: pretty`测试效果；若同时使用`text-align: justify`，需仔细检查并调整词间距，或考虑仅使用`pretty`。",
       "tweet": "Safari 已支持 `text-wrap: pretty`！它用动态规划让网页文本换行更均衡，告别丑陋排版。但注意：与 `text-align: justify` 连用时词间距可能爆炸。开发者速测，并关注其他浏览器跟进情况。 #前端 #CSS"
-    },
-    {
-      "id": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "run_at": "2026-02-15T07:42:18Z",
-      "feed_title": "fabiensanglard.net",
-      "title": "How Michael Abrash doubled Quake framerate",
-      "link": "https://fabiensanglard.net/quake_asm_optimizations/index.html",
-      "published": "2026-02-14T00:00:00Z",
-      "tldr": "Michael Abrash 通过极致汇编优化（内联汇编、循环展开、数据对齐）将 Quake 帧率提升 100%，核心是“用底层硬件控制换取性能”。",
-      "what": "具体操作：1. 用内联汇编重写热点 C 代码；2. 循环展开减少跳转开销；3. 强制数据对齐提升缓存命中；4. 利用 Pentium 流水线特性调度指令。",
-      "why": "90 年代硬件限制严格，每周期指令数敏感。现代虽不同，但原理相通：减少分支预测失败、提升数据局部性、发挥 SIMD/并行能力，对游戏引擎、高频交易等仍关键。",
-      "action": "1. 用 perf/VTune 定位热点；2. 在关键路径尝试内存布局优化或 SIMD 指令；3. 学习 Abrash《Graphics Programming Black Book》案例；4. 权衡可读性与性能，避免过度优化。",
-      "tweet": "重温经典：Michael Abrash 如何用汇编将 Quake 帧率翻倍？核心手段：内联汇编、循环展开、数据对齐。启示：即使现代开发，热点代码仍需关注底层优化（缓存、分支、SIMD）。建议：1. Profiling 找瓶颈 2. 关键路径尝试内存/指令优化 3. 读《Graphics Programming Black Book》。#性能优化 #游戏开发 #底层编程"
     },
     {
       "id": "https://simonwillison.net/2026/feb/13/anthropic-public-benefit-mission/#atom-everything",
