@@ -43,9 +43,14 @@ const I18N = {
     copy_x: "Copy X Post",
     copy_linkedin: "Copy LinkedIn Post",
     copy_threads: "Copy Threads Post",
+    copy_selected: "Copy Selected",
+    option_x: "X (+source)",
+    option_linkedin: "LinkedIn (+source)",
+    option_threads: "Threads (+source)",
     copied: "Copied",
     copy_failed: "Copy failed",
-    day_summary_label: "Daily Summary"
+    day_summary_label: "Daily Summary",
+    preview_label: "Preview"
   },
   zh: {
     page_title: "AK 信号看板",
@@ -86,9 +91,14 @@ const I18N = {
     copy_x: "复制 X 文案",
     copy_linkedin: "复制 LinkedIn 文案",
     copy_threads: "复制 Threads 文案",
+    copy_selected: "复制选中内容",
+    option_x: "X（含来源）",
+    option_linkedin: "LinkedIn（含来源）",
+    option_threads: "Threads（含来源）",
     copied: "已复制",
     copy_failed: "复制失败",
-    day_summary_label: "当日总结"
+    day_summary_label: "当日总结",
+    preview_label: "预览"
   }
 };
 
@@ -281,15 +291,19 @@ function buildEntrySourceSuffix(item) {
   return currentLang === "zh" ? `\n来源: ${link}` : `\nSource: ${link}`;
 }
 
-function buildDaySourceSuffix(day) {
+function buildDaySourceSuffix(day, mode = "short") {
   const links = (day?.sources || [])
     .map((s) => (s?.link || "").trim())
     .filter(Boolean)
     .slice(0, 3);
   if (links.length === 0) return "";
 
+  const limited = mode === "short" ? links.slice(0, 1) : links;
   const header = currentLang === "zh" ? "来源:" : "Sources:";
-  return `\n\n${header}\n${links.map((u) => `- ${u}`).join("\n")}`;
+  if (mode === "short") {
+    return currentLang === "zh" ? `\n来源: ${limited[0]}` : `\nSource: ${limited[0]}`;
+  }
+  return `\n\n${header}\n${limited.map((u) => `- ${u}`).join("\n")}`;
 }
 
 function withRequiredSource(text, sourceSuffix) {
@@ -299,6 +313,12 @@ function withRequiredSource(text, sourceSuffix) {
   if (!base) return suffix;
   if (hasExplicitSourceBlock(base)) return base;
   return `${base}\n${suffix}`;
+}
+
+function shortPreview(text, max = 110) {
+  const normalized = (text || "").replace(/\s+/g, " ").trim();
+  if (normalized.length <= max) return normalized;
+  return `${normalized.slice(0, max - 1)}…`;
 }
 
 function renderTimeline(updates) {
@@ -341,14 +361,47 @@ function renderTimeline(updates) {
     node.querySelector(".entry-why").textContent = `${t("label_why")}: ${why || ""}`;
     node.querySelector(".entry-action").textContent = `${t("label_action")}: ${action || ""}`;
 
-    const xText = pickLocalized(item, "x") || pickLocalized(item, "tweet") || `${item.title || ""} ${item.link || ""}`.trim();
-    const xTextWithSource = withRequiredSource(xText, buildEntrySourceSuffix(item));
-    node.querySelector(".tweet-preview").textContent = xTextWithSource;
+    const postMap = {
+      x: withRequiredSource(
+        pickLocalized(item, "x") || pickLocalized(item, "tweet") || `${item.title || ""} ${item.link || ""}`.trim(),
+        buildEntrySourceSuffix(item)
+      ),
+      linkedin: withRequiredSource(
+        pickLocalized(item, "linkedin") || pickLocalized(item, "x") || pickLocalized(item, "tweet") || item.title || "",
+        buildEntrySourceSuffix(item)
+      ),
+      threads: withRequiredSource(
+        pickLocalized(item, "threads") || pickLocalized(item, "x") || pickLocalized(item, "tweet") || item.title || "",
+        buildEntrySourceSuffix(item)
+      )
+    };
+
+    const options = [
+      { value: "x", label: t("option_x") },
+      { value: "linkedin", label: t("option_linkedin") },
+      { value: "threads", label: t("option_threads") }
+    ];
+
+    const select = node.querySelector(".entry-copy-kind");
+    select.innerHTML = "";
+    options.forEach((opt) => {
+      const o = document.createElement("option");
+      o.value = opt.value;
+      o.textContent = opt.label;
+      select.appendChild(o);
+    });
+
+    const preview = node.querySelector(".tweet-preview");
+    const updatePreview = () => {
+      preview.textContent = shortPreview(postMap[select.value] || "");
+    };
+    updatePreview();
+    select.addEventListener("change", updatePreview);
 
     const btn = node.querySelector(".tweet-btn");
-    const label = t("copy_x");
+    const label = t("copy_selected");
     btn.textContent = label;
-    btn.addEventListener("click", () => copyWithFeedback(btn, xTextWithSource, label));
+    btn.addEventListener("click", () => copyWithFeedback(btn, postMap[select.value] || "", label));
 
     list.appendChild(node);
   });
@@ -395,34 +448,48 @@ function renderDaily(daily) {
     node.querySelector(".day-total").textContent = `${d.total} ${t("updates_unit")}`;
     node.querySelector(".day-feeds").textContent = (d.feeds || []).slice(0, 4).join(" · ");
 
+    const localizedPoints = currentLang === "zh"
+      ? (d.key_points_zh || d.key_points || [])
+      : (d.key_points_en || d.key_points || []);
     const summary = currentLang === "zh" ? (d.summary_zh || "") : (d.summary_en || "");
-    const summaryFallback = (d.key_points || []).slice(0, 3).join(currentLang === "zh" ? "；" : "; ");
+    const summaryFallback = localizedPoints.slice(0, 3).join(currentLang === "zh" ? "；" : "; ");
     node.querySelector(".day-summary-label").textContent = t("day_summary_label");
     node.querySelector(".day-summary").textContent = summary || summaryFallback;
 
     const ul = node.querySelector(".day-points");
-    buildBullets(d.key_points).forEach((li) => ul.appendChild(li));
+    buildBullets(localizedPoints).forEach((li) => ul.appendChild(li));
 
-    const platformMap = [
-      { key: "x", title: "X", copyKey: "copy_x" },
-      { key: "linkedin", title: "LinkedIn", copyKey: "copy_linkedin" },
-      { key: "threads", title: "Threads", copyKey: "copy_threads" }
+    const options = [
+      { value: "x", label: t("option_x") },
+      { value: "linkedin", label: t("option_linkedin") },
+      { value: "threads", label: t("option_threads") }
     ];
-
-    platformMap.forEach((p) => {
-      const block = node.querySelector(`.social-${p.key}`);
-      const textNode = block.querySelector(".social-post");
-      const btn = block.querySelector(".social-copy");
-
-      block.querySelector(".social-platform").textContent = p.title;
-      const content = dailyPlatformText(d, p.key);
-      const contentWithSource = withRequiredSource(content, buildDaySourceSuffix(d));
-      textNode.textContent = contentWithSource;
-
-      const label = t(p.copyKey);
-      btn.textContent = label;
-      btn.addEventListener("click", () => copyWithFeedback(btn, contentWithSource, label));
+    const select = node.querySelector(".day-copy-kind");
+    select.innerHTML = "";
+    options.forEach((opt) => {
+      const o = document.createElement("option");
+      o.value = opt.value;
+      o.textContent = opt.label;
+      select.appendChild(o);
     });
+
+    const contentMap = {
+      x: withRequiredSource(dailyPlatformText(d, "x"), buildDaySourceSuffix(d, "short")),
+      linkedin: withRequiredSource(dailyPlatformText(d, "linkedin"), buildDaySourceSuffix(d, "full")),
+      threads: withRequiredSource(dailyPlatformText(d, "threads"), buildDaySourceSuffix(d, "short"))
+    };
+
+    const previewNode = node.querySelector(".day-copy-preview");
+    const updatePreview = () => {
+      previewNode.textContent = shortPreview(contentMap[select.value] || "", 130);
+    };
+    updatePreview();
+    select.addEventListener("change", updatePreview);
+
+    const btn = node.querySelector(".day-copy-btn");
+    const label = t("copy_selected");
+    btn.textContent = label;
+    btn.addEventListener("click", () => copyWithFeedback(btn, contentMap[select.value] || "", label));
 
     list.appendChild(node);
   });

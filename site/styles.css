@@ -373,19 +373,41 @@ body {
 
 .tweet-row {
   margin-top: 10px;
-  border: 1px solid #d8dbeb;
-  background: #f5f7ff;
+  border: 1px solid #d9dde9;
+  background: #fbfcff;
   border-radius: 12px;
   padding: 10px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.entry-copy-kind,
+.day-copy-kind {
+  border: 1px solid #c0cbed;
+  background: #fff;
+  color: #24345d;
+  border-radius: 10px;
+  padding: 7px 10px;
+  font-size: 12px;
+  min-width: 180px;
 }
 
 .tweet-preview {
   margin: 0;
   color: #2b3e5b;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+.tweet-preview-row {
+  margin-top: 8px;
+  border-left: 3px solid #dce5ff;
+  padding-left: 8px;
 }
 
 .tweet-btn {
-  margin-top: 8px;
   border: 1px solid #b8c5ff;
   background: #fff;
   color: #24345d;
@@ -432,38 +454,15 @@ body {
   font-size: 13px;
 }
 
-.day-social-grid {
+.day-copy-tools {
   margin-top: 12px;
-  display: grid;
+  display: flex;
   gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
-.social-card {
-  border: 1px solid #d9dde9;
-  border-radius: 12px;
-  background: #fbfcff;
-  padding: 10px;
-}
-
-.social-platform {
-  margin: 0;
-  font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: #4d5f8b;
-  font-weight: 700;
-}
-
-.social-post {
-  margin: 8px 0 0;
-  color: #293b5f;
-  line-height: 1.5;
-  white-space: pre-wrap;
-  font-size: 13px;
-}
-
-.social-copy {
-  margin-top: 8px;
+.day-copy-btn {
   border: 1px solid #c0cbed;
   background: #fff;
   color: #24345d;
@@ -471,6 +470,19 @@ body {
   padding: 6px 10px;
   font-size: 12px;
   cursor: pointer;
+}
+
+.day-copy-preview-wrap {
+  margin-top: 8px;
+  border-left: 3px solid #dce5ff;
+  padding-left: 8px;
+}
+
+.day-copy-preview {
+  margin: 0;
+  color: #2b3e5b;
+  font-size: 13px;
+  line-height: 1.45;
 }
 
 .empty {

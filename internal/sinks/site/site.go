@@ -78,6 +78,8 @@ type dailySummary struct {
 	Feeds       []string         `json:"feeds"`
 	Highlights  []string         `json:"highlights"`
 	KeyPoints   []string         `json:"key_points"`
+	KeyPointsZh []string         `json:"key_points_zh,omitempty"`
+	KeyPointsEn []string         `json:"key_points_en,omitempty"`
 	TweetDrafts []string         `json:"tweet_drafts"`
 	Sources     []dailySource    `json:"sources,omitempty"`
 	SummaryZh   string           `json:"summary_zh,omitempty"`
@@ -248,9 +250,8 @@ func (s *Sink) buildDaily(all []updateRecord) dailyFile {
 			if len(highlights) < 6 {
 				highlights = append(highlights, fmt.Sprintf("%s · %s", it.FeedTitle, it.Title))
 			}
-			appendUniqueLimited(&keyPoints, firstNonEmpty(it.TLDRZh, it.TLDR, it.WhatZh, it.What), 4)
-			appendUniqueLimited(&keyPointsZh, firstNonEmpty(it.TLDRZh, it.TLDR, it.WhatZh, it.What, it.TitleZh, it.Title), 4)
-			appendUniqueLimited(&keyPointsEn, firstNonEmpty(it.TLDREn, it.WhatEn, it.TitleEn, it.Title, it.TLDR, it.What), 4)
+			appendUniqueLimited(&keyPointsZh, bestPoint(it, "zh"), 4)
+			appendUniqueLimited(&keyPointsEn, bestPoint(it, "en"), 4)
 			appendUniqueLimited(&tweets, firstNonEmpty(it.XZh, it.TweetZh, it.Tweet, it.XEn, it.TweetEn), 3)
 			if len(sources) < 3 {
 				link := strings.TrimSpace(it.Link)
@@ -266,6 +267,12 @@ func (s *Sink) buildDaily(all []updateRecord) dailyFile {
 				}
 			}
 		}
+		for _, p := range keyPointsZh {
+			appendUniqueLimited(&keyPoints, p, 4)
+		}
+		for _, p := range keyPointsEn {
+			appendUniqueLimited(&keyPoints, p, 4)
+		}
 
 		summaryZh := buildDailySummaryText(day, keyPointsZh, "zh")
 		summaryEn := buildDailySummaryText(day, keyPointsEn, "en")
@@ -277,6 +284,8 @@ func (s *Sink) buildDaily(all []updateRecord) dailyFile {
 			Feeds:       feeds,
 			Highlights:  highlights,
 			KeyPoints:   keyPoints,
+			KeyPointsZh: keyPointsZh,
+			KeyPointsEn: keyPointsEn,
 			TweetDrafts: tweets,
 			Sources:     sources,
 			SummaryZh:   summaryZh,
@@ -370,6 +379,26 @@ func normalizeRecord(u updateRecord) updateRecord {
 	return u
 }
 
+func bestPoint(u updateRecord, lang string) string {
+	var candidates []string
+	if lang == "zh" {
+		candidates = []string{u.TLDRZh, u.WhatZh, u.TLDR, u.What, u.TitleZh, u.Title}
+	} else {
+		candidates = []string{u.TLDREn, u.WhatEn, u.TitleEn, u.Title}
+	}
+	for _, c := range candidates {
+		c = cleanPoint(c)
+		if c == "" {
+			continue
+		}
+		if isLowSignalPoint(c) {
+			continue
+		}
+		return c
+	}
+	return cleanPoint(firstNonEmpty(u.TitleEn, u.TitleZh, u.Title))
+}
+
 func buildDailySummaryText(day string, points []string, lang string) string {
 	use := make([]string, 0, 3)
 	for _, p := range points {
@@ -386,9 +415,9 @@ func buildDailySummaryText(day string, points []string, lang string) string {
 		return ""
 	}
 	if lang == "zh" {
-		return clipRunes(fmt.Sprintf("%s 技术日报：%s。", day, strings.Join(use, "；")), 320)
+		return clipRunes(fmt.Sprintf("%s 技术日报：%s。", day, strings.Join(use, "；")), 260)
 	}
-	return clipRunes(fmt.Sprintf("Daily brief (%s): %s.", day, strings.Join(use, "; ")), 320)
+	return clipRunes(fmt.Sprintf("Daily brief (%s): %s.", day, strings.Join(use, "; ")), 260)
 }
 
 func buildDailySocialPosts(day string, zhPoints, enPoints, highlights []string, sources []dailySource) dailySocialPosts {
@@ -573,7 +602,7 @@ func firstNonEmpty(values ...string) string {
 }
 
 func appendUniqueLimited(dst *[]string, value string, limit int) {
-	value = strings.TrimSpace(value)
+	value = cleanPoint(value)
 	if value == "" || len(*dst) >= limit {
 		return
 	}
@@ -583,6 +612,34 @@ func appendUniqueLimited(dst *[]string, value string, limit int) {
 		}
 	}
 	*dst = append(*dst, value)
+}
+
+func cleanPoint(s string) string {
+	s = strings.TrimSpace(s)
+	if s == "" {
+		return ""
+	}
+	s = strings.Join(strings.Fields(s), " ")
+	return strings.Trim(s, " ;；,.。")
+}
+
+func isLowSignalPoint(s string) bool {
+	if s == "" {
+		return true
+	}
+	l := strings.ToLower(s)
+	lowSignals := []string{
+		"fresh update from monitored feed",
+		"open source link and decide",
+		"a new update",
+		"这条更新可能影响你的技术判断",
+	}
+	for _, v := range lowSignals {
+		if strings.Contains(l, v) {
+			return true
+		}
+	}
+	return utf8.RuneCountInString(s) < 12
 }
 
 func clipRunes(s string, max int) string {

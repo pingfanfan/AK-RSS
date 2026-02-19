@@ -85,8 +85,11 @@
       <p class="entry-why"></p>
       <p class="entry-action"></p>
       <div class="tweet-row">
+        <select class="entry-copy-kind"></select>
+        <button class="tweet-btn" type="button">Copy Selected</button>
+      </div>
+      <div class="tweet-preview-row">
         <p class="tweet-preview"></p>
-        <button class="tweet-btn" type="button">Copy X Post</button>
       </div>
     </article>
   </template>
@@ -104,22 +107,12 @@
 
       <ul class="day-points"></ul>
 
-      <div class="day-social-grid">
-        <article class="social-card social-x">
-          <p class="social-platform">X</p>
-          <p class="social-post"></p>
-          <button class="social-copy" type="button">Copy</button>
-        </article>
-        <article class="social-card social-linkedin">
-          <p class="social-platform">LinkedIn</p>
-          <p class="social-post"></p>
-          <button class="social-copy" type="button">Copy</button>
-        </article>
-        <article class="social-card social-threads">
-          <p class="social-platform">Threads</p>
-          <p class="social-post"></p>
-          <button class="social-copy" type="button">Copy</button>
-        </article>
+      <div class="day-copy-tools">
+        <select class="day-copy-kind"></select>
+        <button class="day-copy-btn" type="button">Copy Selected</button>
+      </div>
+      <div class="day-copy-preview-wrap">
+        <p class="day-copy-preview"></p>
       </div>
     </article>
   </template>
