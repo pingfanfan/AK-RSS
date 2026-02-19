@@ -4,17 +4,20 @@ const LANG_KEY = "akrss_lang";
 
 const I18N = {
   en: {
-    page_title: "AK Feed Briefing",
-    tag: "AK-RSS • Feed Briefing",
-    hero_title: "From Blogs To Actionable Briefings",
-    subtitle: "Track your curated engineering feeds, get frequent high-signal updates, and copy platform-ready daily posts in one click.",
+    page_title: "AK Signal Desk",
+    tag: "AK-RSS • Andrej K Extended Signal Desk",
+    hero_title: "AK Signal Desk",
+    subtitle: "Your OPML-powered engineering radar: fresh blog updates, AI brief analysis, and copy-ready daily posts.",
     refresh: "Refresh Now",
-    open_opml: "Open Source OPML",
+    open_opml: "Open Feed List (OPML)",
     lang_zh: "中文",
     lang_en: "English",
-    curation_title: "Feed Scope",
+    value_pill_1: "2h email alerts",
+    value_pill_2: "AI TLDR + Why + Action",
+    value_pill_3: "X / LinkedIn / Threads ready",
+    curation_title: "Feed DNA",
     curation_text:
-      "Built from your OPML baseline and expanded recommendations, this dashboard prioritizes engineering, AI, security, and infrastructure signals.",
+      "Seeded from your OPML and expanded with Andrej K-style recommendations to keep signal high across engineering, AI, security, and infra.",
     subscribe_title: "2-Hour Email Subscription",
     subscribe_text: "Enter your email to receive new updates every 2 hours.",
     subscribe_placeholder: "you@example.com",
@@ -26,8 +29,8 @@ const I18N = {
     stats_today: "Today",
     stats_feeds: "Active Feeds",
     stats_latest: "Latest Source",
-    panel_daily: "Daily Briefing",
-    panel_live: "Rolling Updates",
+    panel_daily: "Daily Social Summary",
+    panel_live: "Live Update Stream",
     empty_updates: "No fresh updates yet. The next run will append new entries here.",
     empty_daily: "Daily summary will appear after enough updates are collected.",
     last_sync: "Last sync",
@@ -53,16 +56,19 @@ const I18N = {
     preview_label: "Preview"
   },
   zh: {
-    page_title: "AK 信息流简报",
-    tag: "AK-RSS · 信息流简报",
-    hero_title: "从博客更新到可执行简报",
-    subtitle: "追踪你精选的工程博客，持续获取高信号更新，并一键复制可发布的多平台日报文案。",
+    page_title: "AK 信号台",
+    tag: "AK-RSS · Andrej K 补全信号台",
+    hero_title: "AK 信号台",
+    subtitle: "把博客更新变成可执行情报：实时抓新、AI 简析、可直接发布的社媒总结。",
     refresh: "立即刷新",
-    open_opml: "查看开源 OPML",
+    open_opml: "查看信源清单（OPML）",
     lang_zh: "中文",
     lang_en: "English",
-    curation_title: "信源范围",
-    curation_text: "基于你的 OPML 原始订阅并加入补全推荐，重点聚焦工程、AI、安全与基础设施等高价值信息。",
+    value_pill_1: "每 2 小时邮件提醒",
+    value_pill_2: "AI：TLDR + 价值 + 动作",
+    value_pill_3: "X / LinkedIn / Threads 一键复制",
+    curation_title: "信源 DNA",
+    curation_text: "以你的 OPML 为种子，并加入 Andrej K 风格的补全推荐，聚焦工程、AI、安全与基础设施高信号内容。",
     subscribe_title: "每 2 小时邮件订阅",
     subscribe_text: "输入邮箱后，每 2 小时接收一次新增更新。",
     subscribe_placeholder: "you@example.com",
@@ -74,7 +80,7 @@ const I18N = {
     stats_today: "今日条数",
     stats_feeds: "活跃信源",
     stats_latest: "最新来源",
-    panel_daily: "每日简报",
+    panel_daily: "每日社媒总结",
     panel_live: "滚动更新",
     empty_updates: "暂时没有新更新，下一轮任务会自动追加。",
     empty_daily: "积累足够更新后会自动生成每日摘要。",
@@ -186,6 +192,7 @@ function setupStaticText() {
   byId("tagText").textContent = t("tag");
   byId("heroTitle").textContent = t("hero_title");
   byId("subtitleText").textContent = t("subtitle");
+  renderValuePills();
   byId("refreshBtn").textContent = t("refresh");
   byId("openOpmlLink").textContent = t("open_opml");
 
@@ -210,6 +217,18 @@ function setupStaticText() {
 
   byId("langBtnZh").classList.toggle("active", currentLang === "zh");
   byId("langBtnEn").classList.toggle("active", currentLang === "en");
+}
+
+function renderValuePills() {
+  const root = byId("valuePills");
+  if (!root) return;
+  root.innerHTML = "";
+  [t("value_pill_1"), t("value_pill_2"), t("value_pill_3")].forEach((label) => {
+    const item = document.createElement("span");
+    item.className = "value-pill";
+    item.textContent = label;
+    root.appendChild(item);
+  });
 }
 
 function statNode(k, v) {

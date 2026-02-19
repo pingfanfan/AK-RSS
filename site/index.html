@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AK Feed Briefing</title>
+  <title>AK Signal Desk</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -14,7 +14,7 @@
   <main class="shell">
     <header class="hero">
       <div class="hero-top">
-        <span id="tagText" class="tag">AK-RSS • Feed Briefing</span>
+        <span id="tagText" class="tag">AK-RSS • Andrej K Extended Signal Desk</span>
         <div class="hero-controls">
           <div class="lang-toggle" role="tablist" aria-label="language switch">
             <button id="langBtnZh" type="button" class="lang-btn">中文</button>
@@ -24,17 +24,22 @@
         </div>
       </div>
 
-      <h1 id="heroTitle">From Blogs To Actionable Briefings</h1>
-      <p id="subtitleText" class="subtitle">Track your curated engineering feeds, get frequent high-signal updates, and copy platform-ready daily posts in one click.</p>
+      <h1 id="heroTitle">AK Signal Desk</h1>
+      <p id="subtitleText" class="subtitle">Your OPML-powered engineering radar: fresh blog updates, AI brief analysis, and copy-ready daily posts.</p>
+      <div id="valuePills" class="value-pills">
+        <span class="value-pill">2h email alerts</span>
+        <span class="value-pill">AI TLDR + Why + Action</span>
+        <span class="value-pill">X / LinkedIn / Threads ready</span>
+      </div>
 
       <div class="cta-row">
         <button id="refreshBtn" type="button">Refresh Now</button>
-        <a id="openOpmlLink" class="ghost-link" href="https://github.com/pingfanfan/AK-RSS/blob/main/examples/feeds.opml" target="_blank" rel="noopener">Open Source OPML</a>
+        <a id="openOpmlLink" class="ghost-link" href="https://github.com/pingfanfan/AK-RSS/blob/main/examples/feeds.opml" target="_blank" rel="noopener">Open Feed List (OPML)</a>
       </div>
 
       <section class="origin-card">
-        <p id="curationTitle" class="origin-title">Feed Scope</p>
-        <p id="curationText" class="origin-text">Built from your OPML baseline and expanded recommendations, this dashboard prioritizes engineering, AI, security, and infrastructure signals.</p>
+        <p id="curationTitle" class="origin-title">Feed DNA</p>
+        <p id="curationText" class="origin-text">Seeded from your OPML and expanded with Andrej K-style recommendations to keep signal high across engineering, AI, security, and infra.</p>
       </section>
 
       <section class="subscribe-card">
@@ -57,7 +62,7 @@
     <section class="layout">
       <aside class="panel">
         <div class="panel-head">
-          <h2 id="dailyHeading">Daily Briefing</h2>
+          <h2 id="dailyHeading">Daily Social Summary</h2>
           <span id="dayCount" class="small-meta">0 days</span>
         </div>
         <div id="dailyList" class="scroll"></div>
@@ -65,7 +70,7 @@
 
       <section class="panel panel-large">
         <div class="panel-head">
-          <h2 id="liveHeading">Rolling Updates</h2>
+          <h2 id="liveHeading">Live Update Stream</h2>
           <span id="updateCount" class="small-meta">0 updates</span>
         </div>
         <div id="timeline" class="scroll"></div>

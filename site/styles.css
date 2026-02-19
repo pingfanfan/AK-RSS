@@ -116,6 +116,25 @@ body {
   line-height: 1.6;
 }
 
+.value-pills {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.value-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 1px solid #c9d6f0;
+  background: linear-gradient(135deg, #ffffff, #f4f7ff);
+  color: #294074;
+  font-size: 12px;
+  font-weight: 600;
+}
+
 .cta-row {
   margin-top: 14px;
   display: flex;
