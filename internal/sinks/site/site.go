@@ -154,6 +154,9 @@ func (s *Sink) Send(_ context.Context, batch core.Batch) error {
 	if len(merged) > s.maxUpdates {
 		merged = merged[:s.maxUpdates]
 	}
+	for i := range merged {
+		merged[i] = normalizeRecord(merged[i])
+	}
 
 	out := updatesFile{
 		GeneratedAt: time.Now().UTC().Format(time.RFC3339),
@@ -238,7 +241,7 @@ func (s *Sink) buildDaily(all []updateRecord) dailyFile {
 			}
 			appendUniqueLimited(&keyPoints, firstNonEmpty(it.TLDRZh, it.TLDR, it.WhatZh, it.What), 4)
 			appendUniqueLimited(&keyPointsZh, firstNonEmpty(it.TLDRZh, it.TLDR, it.WhatZh, it.What, it.TitleZh, it.Title), 4)
-			appendUniqueLimited(&keyPointsEn, firstNonEmpty(it.TLDREn, it.WhatEn, it.TitleEn, it.TLDR, it.Title), 4)
+			appendUniqueLimited(&keyPointsEn, firstNonEmpty(it.TLDREn, it.WhatEn, it.TitleEn, it.Title, it.TLDR, it.What), 4)
 			appendUniqueLimited(&tweets, firstNonEmpty(it.XZh, it.TweetZh, it.Tweet, it.XEn, it.TweetEn), 3)
 		}
 
@@ -310,6 +313,37 @@ func toRecord(runAt time.Time, e core.Entry) updateRecord {
 		u.TitleZh = e.Title
 		u.TitleEn = e.Title
 	}
+	return normalizeRecord(u)
+}
+
+func normalizeRecord(u updateRecord) updateRecord {
+	u.TitleZh = firstNonEmpty(u.TitleZh, u.Title)
+	u.TitleEn = firstNonEmpty(u.TitleEn, u.Title)
+
+	u.TLDRZh = firstNonEmpty(u.TLDRZh, u.TLDR, u.WhatZh, u.What, u.TitleZh, u.Title)
+	u.TLDREn = firstNonEmpty(u.TLDREn, u.WhatEn, u.TitleEn, u.Title, u.TLDR, u.What)
+	u.WhatZh = firstNonEmpty(u.WhatZh, u.What, u.TLDRZh)
+	u.WhatEn = firstNonEmpty(u.WhatEn, u.TitleEn, u.What, u.TLDREn)
+	u.WhyZh = firstNonEmpty(u.WhyZh, u.Why, "这条更新可能影响你的技术判断。")
+	u.WhyEn = firstNonEmpty(u.WhyEn, u.Why, "This update can affect your technical decisions.")
+	u.ActionZh = firstNonEmpty(u.ActionZh, u.Action, "打开原文并判断是否要进入你的行动清单。")
+	u.ActionEn = firstNonEmpty(u.ActionEn, u.Action, "Open the source and decide whether to add it to your action list.")
+
+	fallbackPost := firstNonEmpty(u.Title, u.Link)
+	u.TweetZh = firstNonEmpty(u.TweetZh, u.XZh, u.Tweet, fallbackPost)
+	u.TweetEn = firstNonEmpty(u.TweetEn, u.XEn, u.Tweet, fallbackPost)
+	u.XZh = firstNonEmpty(u.XZh, u.TweetZh, u.Tweet, fallbackPost)
+	u.XEn = firstNonEmpty(u.XEn, u.TweetEn, fallbackPost, u.Tweet)
+	u.LinkedInZh = firstNonEmpty(u.LinkedInZh, u.XZh, u.TweetZh)
+	u.LinkedInEn = firstNonEmpty(u.LinkedInEn, u.XEn, u.TweetEn)
+	u.ThreadsZh = firstNonEmpty(u.ThreadsZh, u.XZh, u.TweetZh)
+	u.ThreadsEn = firstNonEmpty(u.ThreadsEn, u.XEn, u.TweetEn)
+
+	u.TLDR = firstNonEmpty(u.TLDR, u.TLDRZh, u.TLDREn)
+	u.What = firstNonEmpty(u.What, u.WhatZh, u.WhatEn)
+	u.Why = firstNonEmpty(u.Why, u.WhyZh, u.WhyEn)
+	u.Action = firstNonEmpty(u.Action, u.ActionZh, u.ActionEn)
+	u.Tweet = firstNonEmpty(u.Tweet, u.XZh, u.XEn, u.TweetZh, u.TweetEn)
 	return u
 }
 
