@@ -180,7 +180,13 @@ def main() -> int:
     sent = send_all(subscribers, updates)
     print(f"emails_sent={sent}")
 
-    save_last_sent(state_path, now)
+    # Only advance cursor when at least one email was delivered.
+    # This avoids empty commits and preserves unsent updates for retry.
+    if sent > 0:
+        save_last_sent(state_path, now)
+        print("cursor_updated=1")
+    else:
+        print("cursor_updated=0")
     return 0
 
 
