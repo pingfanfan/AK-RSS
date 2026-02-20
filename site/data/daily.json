@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-20T22:02:12Z",
+  "generated_at": "2026-02-20T22:41:12Z",
   "days": [
     {
       "date": "2026-02-20",
-      "total": 15,
+      "total": 16,
       "feeds": [
+        "simonwillison.net (3)",
         "devblogs.microsoft.com/oldnewthing (2)",
-        "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
         "ericmigi.com (1)",
         "filfre.net (1)",
         "idiallo.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Taalas serves Llama 3.1 8B at 17,000 tokens/second",
         "krebsonsecurity.com · ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "wheresyoured.at · Premium: The Hater's Guide to Anthropic",
         "filfre.net · Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
         "simonwillison.net · ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-        "devblogs.microsoft.com/oldnewthing · The 2026/2027 Seattle Symphony subscription season at a glance",
-        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt"
+        "devblogs.microsoft.com/oldnewthing · The 2026/2027 Seattle Symphony subscription season at a glance"
       ],
       "key_points": [
+        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
         "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资",
-        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大"
-      ],
-      "key_points_zh": [
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资",
-        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大"
-      ],
-      "key_points_en": [
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival",
-        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful"
-      ],
-      "tweet_drafts": [
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic：安全驱动的AI巨头。年收入10倍增长，30亿融资。开发者关注点：对齐技术、基础设施合作。链接：https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/",
         "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
       ],
+      "key_points_zh": [
+        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资",
+        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+      ],
+      "key_points_en": [
+        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+        "Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival",
+        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+      ],
+      "tweet_drafts": [
+        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+        "Anthropic：安全驱动的AI巨头。年收入10倍增长，30亿融资。开发者关注点：对齐技术、基础设施合作。链接：https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+          "link": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything"
+        },
         {
           "feed_title": "krebsonsecurity.com",
           "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
@@ -53,27 +58,22 @@
           "feed_title": "wheresyoured.at",
           "title": "Premium: The Hater's Guide to Anthropic",
           "link": "https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/"
-        },
-        {
-          "feed_title": "filfre.net",
-          "title": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-          "link": "https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/"
         }
       ],
-      "summary_zh": "2026-02-20 技术日报：‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned。",
-      "summary_en": "Daily brief (2026-02-20): ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of th",
+      "summary_zh": "2026-02-20 技术日报：Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资。",
+      "summary_en": "Daily brief (2026-02-20): Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becomi",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-20 日报】‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-20): ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of t"
+          "zh": "【2026-02-20 日报】Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-20): Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becom"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-20）\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-20)\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of the Sacred, Blood of the Damned.\nI turned them"
+          "zh": "今天最值得看的 3 个点：Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival.\nI turned them into an"
         }
       }
     },
