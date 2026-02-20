@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-02-20T17:11:47Z",
+  "generated_at": "2026-02-20T17:44:10Z",
   "days": [
     {
       "date": "2026-02-20",
-      "total": 9,
+      "total": 12,
       "feeds": [
         "devblogs.microsoft.com/oldnewthing (2)",
+        "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "ericmigi.com (1)",
+        "filfre.net (1)",
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "filfre.net · Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+        "simonwillison.net · ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
         "devblogs.microsoft.com/oldnewthing · The 2026/2027 Seattle Symphony subscription season at a glance",
         "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
         "pluralistic.net · Pluralistic: A perforated corporate veil (20 Feb 2026)",
-        "shkspr.mobi · Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
-        "dfarq.homeip.net · On February 20, 2010 a VIC-20 tweeted",
-        "simonwillison.net · Quoting Thariq Shihipar"
+        "shkspr.mobi · Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆"
       ],
       "key_points": [
+        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大",
         "The 2026/2027 Seattle Symphony subscription season at a glance",
-        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
-        "巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例",
-        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆"
+        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt"
       ],
       "key_points_zh": [
+        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大",
         "The 2026/2027 Seattle Symphony subscription season at a glance",
-        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
-        "巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例",
-        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆"
+        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt"
       ],
       "key_points_en": [
+        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+        "Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful",
         "The 2026/2027 Seattle Symphony subscription season at a glance",
-        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
-        "Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink serves as a key test case",
-        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆"
+        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt"
       ],
       "tweet_drafts": [
-        "The 2026/2027 Seattle Symphony subscription season at a glance",
-        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
-        "刺破公司面纱不再只是美国例外。巴西将关联公司视为单一实体，用连带责任遏制权力滥用。Starlink案显示，科技巨头控股架构可能面临根本性挑战。法务与创始人必读：https://pluralistic.net/2026/02/20/karioca-konzernrecht/ #公司治理 #合规"
+        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+        "本地 AI 基础设施迎来里程碑。llama.cpp 的创造者 ggml.ai 加入 Hugging Face，目标直指与 Transformers 库的‘一键式’集成和更好的打包体验。这将极大推动本地模型在生产中的可用性。技术决策者需关注",
+        "The 2026/2027 Seattle Symphony subscription season at a glance"
       ],
       "sources": [
+        {
+          "feed_title": "filfre.net",
+          "title": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+          "link": "https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "ggml.ai Joins Hugging Face to Ensure Long-Term Progress of Local AI",
+          "link": "https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "The 2026/2027 Seattle Symphony subscription season at a glance",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "A Perforated Corporate Veil: Brazil's Governance Experiment",
-          "link": "https://pluralistic.net/2026/02/20/karioca-konzernrecht/"
         }
       ],
-      "summary_zh": "2026-02-20 技术日报：The 2026/2027 Seattle Symphony subscription season at a glance；Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt；巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Sta",
-      "summary_en": "Daily brief (2026-02-20): The 2026/2027 Seattle Symphony subscription season at a glance; Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt; Brazil's legal doctrine of 'joint and several liability' allows c",
+      "summary_zh": "2026-02-20 技术日报：Gabriel Knight 3: Blood of the Sacred, Blood of the Damned；llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大；The 2026/2027 Seattle Symphony subscription season at a glance。",
+      "summary_en": "Daily brief (2026-02-20): Gabriel Knight 3: Blood of the Sacred, Blood of the Damned; Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful; The 2026/2027 Seat",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-20 日报】The 2026/2027 Seattle Symphony subscription season at a glance；Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt；巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Star",
-          "en": "AK-RSS Daily (2026-02-20): The 2026/2027 Seattle Symphony subscription season at a glance; Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt; Brazil's legal doctrine of 'joint and several liability' allows"
+          "zh": "【2026-02-20 日报】Gabriel Knight 3: Blood of the Sacred, Blood of the Damned；llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大；The 2026/2027 Seattle Symphony subscription season at a glance。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-20): Gabriel Knight 3: Blood of the Sacred, Blood of the Damned; Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful; The 2026/2027 Sea"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- The 2026/2027 Seattle Symphony subscription season at a glance\n- Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt\n- 巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076\n- https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074\n- https://pluralistic.net/2026/02/20/karioca-konzernrecht/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- The 2026/2027 Seattle Symphony subscription season at a glance\n- Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt\n- Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink serves as a key test case\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076\n- https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074\n- https://pluralistic.net/2026/02/20/karioca-konzernrecht/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-20）\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n- llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大\n- The 2026/2027 Seattle Symphony subscription season at a glance\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n- https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-20)\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n- Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful\n- The 2026/2027 Seattle Symphony subscription season at a glance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n- https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The 2026/2027 Seattle Symphony subscription season at a glance；Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt；巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The 2026/2027 Seattle Symphony subscription season at a glance; Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt; Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding"
+          "zh": "今天最值得看的 3 个点：Gabriel Knight 3: Blood of the Sacred, Blood of the Damned；llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大；The 2026/2027 Seattle Symphony subscription season at a glance。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Gabriel Knight 3: Blood of the Sacred, Blood of the Damned; Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful; The 2026/2027 Seattle Symphony subscription season at a glance"
         }
       }
     },
