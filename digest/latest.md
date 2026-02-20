@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-20 07:18:09 UTC
+Generated at: 2026-02-20 07:44:53 UTC
 
-- [Parsing hours and minutes into a useful time in basic Python](https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime) (`utcc.utoronto.ca/~cks`)
-  - TLDR: 解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()。
-  - WHAT: Python的time.strptime('%H:%M')返回struct_time的年份固定为1900，无法直接代表‘今天此时’。这导致计算相对时间戳时出错。
-  - WHY: 开发者常需实现‘--at HH:MM’功能（如查看过去某时刻状态）。标准库此行为源于C库历史，但不符合现代应用需求，需手动修正。
-  - ACTION: 1. 用datetime.datetime.combine(datetime.date.today(), parsed_time) 2. 转换为本地时间戳：timestamp = int(combined_dt.timestamp()) 3. 注意时区：若需UTC，用datetime.timezone.utc。
-  - TWEET: Python时间解析陷阱：strptime('%H:%M')返回1900年！要得到‘今天此时’的时间戳，请用datetime.combine(today, parsed_time)修正。这是标准库的C遗留问题，实用方案在此。
+- [Quoting Thariq Shihipar](https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything) (`simonwillison.net`)
+  - TLDR: Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能。
+  - WHAT: Prompt caching是一种技术，允许在AI代理的多次交互中重用之前的提示计算，减少重复处理。Claude Code将其作为核心基础设施，用于优化长运行代理产品的效率。
+  - WHY: 高缓存命中率直接降低运营成本，并允许提供更宽松的速率限制，提升用户体验。监控命中率能快速发现性能问题，避免服务降级。
+  - ACTION: 开发者应评估当前AI系统是否采用prompt caching，实施命中率监控，并设置警报阈值。对于长运行代理，优先集成此技术以优化成本与延迟。
+  - TWEET: Prompt caching让Claude Code成本大降。技术团队必读：如何通过缓存命中率监控保障AI代理性能。 #PromptEngineering #ClaudeCode

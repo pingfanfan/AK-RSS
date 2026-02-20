@@ -1,36 +1,46 @@
 {
-  "generated_at": "2026-02-20T07:18:38Z",
+  "generated_at": "2026-02-20T07:45:23Z",
   "days": [
     {
       "date": "2026-02-20",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Thariq Shihipar",
         "utcc.utoronto.ca/~cks · Parsing hours and minutes into a useful time in basic Python",
         "xeiaso.net · Life Update: On medical leave"
       ],
       "key_points": [
+        "Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能",
         "解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()",
         "技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出",
-        "Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution",
-        "Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as planned. Readers are encouraged to follow and share to support ongoing content"
+        "Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance"
       ],
       "key_points_zh": [
+        "Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能",
         "解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()",
         "技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出"
       ],
       "key_points_en": [
+        "Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance",
         "Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution",
         "Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as planned. Readers are encouraged to follow and share to support ongoing content"
       ],
       "tweet_drafts": [
+        "Prompt caching让Claude Code成本大降。技术团队必读：如何通过缓存命中率监控保障AI代理性能。 #PromptEngineering #ClaudeCode",
         "Python时间解析陷阱：strptime('%H:%M')返回1900年！要得到‘今天此时’的时间戳，请用datetime.combine(today, parsed_time)修正。这是标准库的C遗留问题，实用方案在此",
         "Xe的医疗休假是期待已久的积极步骤。他的Tigris Data工作笔记和博客已排期，请开发者关注并转发高质量技术内容，帮助社区持续学习"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Thariq Shihipar",
+          "link": "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Parsing 'HH:MM' to a Useful Timestamp in Basic Python",
@@ -42,20 +52,20 @@
           "link": "https://xeiaso.net/notes/2026/life-update-medical-leave/"
         }
       ],
-      "summary_zh": "2026-02-20 技术日报：解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。",
-      "summary_en": "Daily brief (2026-02-20): Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution; Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as p",
+      "summary_zh": "2026-02-20 技术日报：Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能；解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。",
+      "summary_en": "Daily brief (2026-02-20): Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance; Parsing 'HH:MM' yields year 1900. Fix by combining with",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-20 日报】解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-20): Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution; Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as"
+          "zh": "【2026-02-20 日报】Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能；解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-20): Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance; Parsing 'HH:MM' yields year 1900. Fix by combining with"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- 解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()\n- 技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime\n- https://xeiaso.net/notes/2026/life-update-medical-leave/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution\n- Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as planned. Readers are encouraged to follow and share to support ongoing content\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime\n- https://xeiaso.net/notes/2026/life-update-medical-leave/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-20）\n- Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能\n- 解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()\n- 技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime\n- https://xeiaso.net/notes/2026/life-update-medical-leave/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-20)\n- Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance\n- Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution\n- Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as planned. Readers are encouraged to follow and share to support ongoing content\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime\n- https://xeiaso.net/notes/2026/life-update-medical-leave/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution; Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as planned. Readers are encouraged to follow and"
+          "zh": "今天最值得看的 3 个点：Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能；解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance; Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a c"
         }
       }
     },
