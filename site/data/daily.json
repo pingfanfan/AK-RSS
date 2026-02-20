@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-02-20T12:04:48Z",
+  "generated_at": "2026-02-20T12:46:01Z",
   "days": [
     {
       "date": "2026-02-20",
-      "total": 4,
+      "total": 6,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
+        "dfarq.homeip.net · On February 20, 2010 a VIC-20 tweeted",
         "simonwillison.net · Quoting Thariq Shihipar",
         "utcc.utoronto.ca/~cks · Parsing hours and minutes into a useful time in basic Python",
         "xeiaso.net · Life Update: On medical leave",
         "nesbitt.io · ActivityPub"
       ],
       "key_points": [
+        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
+        "2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合",
         "Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能",
-        "解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()",
-        "技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出",
-        "本文揭示了一个与联邦化社交协议同名的、真实存在数百年的英国酒吧活动公告系统，每个酒吧作为独立实例通过 chalkboard 发布信息并互联，是去中心化思想的早期物理实践"
+        "解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()"
       ],
       "key_points_zh": [
+        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
+        "2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合",
         "Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能",
-        "解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()",
-        "技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出",
-        "本文揭示了一个与联邦化社交协议同名的、真实存在数百年的英国酒吧活动公告系统，每个酒吧作为独立实例通过 chalkboard 发布信息并互联，是去中心化思想的早期物理实践"
+        "解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()"
       ],
       "key_points_en": [
+        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
+        "In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardware integration with modern web services",
         "Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance",
-        "Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution",
-        "Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as planned. Readers are encouraged to follow and share to support ongoing content",
-        "This article reveals a centuries-old, real-world British pub event announcement system that shares its name with a federated social protocol. Each pub acts as an independent instance, posting info on chalkboards and interconnecting—an early physical practice of decentralization"
+        "Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution"
       ],
       "tweet_drafts": [
-        "Prompt caching让Claude Code成本大降。技术团队必读：如何通过缓存命中率监控保障AI代理性能。 #PromptEngineering #ClaudeCode",
-        "Python时间解析陷阱：strptime('%H:%M')返回1900年！要得到‘今天此时’的时间戳，请用datetime.combine(today, parsed_time)修正。这是标准库的C遗留问题，实用方案在此",
-        "Xe的医疗休假是期待已久的积极步骤。他的Tigris Data工作笔记和博客已排期，请开发者关注并转发高质量技术内容，帮助社区持续学习"
+        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
+        "VIC-20发推纪念：2010年，Syd Bolton让1982年的电脑连上了Twitter。复古计算不止是怀旧，更是对硬件极限的挑战。开发者值得一试！",
+        "Prompt caching让Claude Code成本大降。技术团队必读：如何通过缓存命中率监控保障AI代理性能。 #PromptEngineering #ClaudeCode"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
+          "link": "https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "On February 20, 2010 a VIC-20 tweeted",
+          "link": "https://dfarq.homeip.net/on-february-20-2010-a-vic-20-tweeted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=on-february-20-2010-a-vic-20-tweeted"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Thariq Shihipar",
           "link": "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Parsing 'HH:MM' to a Useful Timestamp in Basic Python",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime"
-        },
-        {
-          "feed_title": "xeiaso.net",
-          "title": "Life Update: On medical leave",
-          "link": "https://xeiaso.net/notes/2026/life-update-medical-leave/"
         }
       ],
-      "summary_zh": "2026-02-20 技术日报：Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能；解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。",
-      "summary_en": "Daily brief (2026-02-20): Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance; Parsing 'HH:MM' yields year 1900. Fix by combining with",
+      "summary_zh": "2026-02-20 技术日报：Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆；2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合；Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能。",
+      "summary_en": "Daily brief (2026-02-20): Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆; In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardware",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-20 日报】Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能；解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-20): Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance; Parsing 'HH:MM' yields year 1900. Fix by combining with"
+          "zh": "【2026-02-20 日报】Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆；2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合；Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能。我把可执行建议整理好了，欢迎转发",
+          "en": "AK-RSS Daily (2026-02-20): Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆; In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardwar"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能\n- 解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()\n- 技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime\n- https://xeiaso.net/notes/2026/life-update-medical-leave/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance\n- Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a clean solution\n- Tech writer Xe is on medical leave until early April. Pre-scheduled work (Tigris Data) and blog posts will publish as planned. Readers are encouraged to follow and share to support ongoing content\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime\n- https://xeiaso.net/notes/2026/life-update-medical-leave/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-20）\n- Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆\n- 2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合\n- Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/\n- https://dfarq.homeip.net/on-february-20-2010-a-vic-20-tweeted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=on-february-20-2010-a-vic-20-tweeted\n- https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-20)\n- Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆\n- In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardware integration with modern web services\n- Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/\n- https://dfarq.homeip.net/on-february-20-2010-a-vic-20-tweeted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=on-february-20-2010-a-vic-20-tweeted\n- https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能；解析‘HH:MM’时，time.strptime()默认年份1900，需结合今日日期修正。推荐用datetime.combine()；技术作者Xe因医疗原因休假至四月初，其工作（Tigris Data）及博客内容已提前安排，将按计划发布，呼吁读者关注与分享以支持持续产出。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance; Parsing 'HH:MM' yields year 1900. Fix by combining with today's date. Use datetime.combine() for a c"
+          "zh": "今天最值得看的 3 个点：Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆；2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合；Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆; In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardware integration with modern web services; Claud"
         }
       }
     },
