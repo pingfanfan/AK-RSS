@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-20T19:41:20Z",
+  "generated_at": "2026-02-20T20:43:14Z",
   "days": [
     {
       "date": "2026-02-20",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "devblogs.microsoft.com/oldnewthing (2)",
         "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
         "ericmigi.com (1)",
         "filfre.net (1)",
-        "nesbitt.io (1)"
+        "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "krebsonsecurity.com · ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "wheresyoured.at · Premium: The Hater's Guide to Anthropic",
         "filfre.net · Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
         "simonwillison.net · ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
         "devblogs.microsoft.com/oldnewthing · The 2026/2027 Seattle Symphony subscription season at a glance",
-        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
-        "pluralistic.net · Pluralistic: A perforated corporate veil (20 Feb 2026)"
+        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt"
       ],
       "key_points": [
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资",
         "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大",
-        "The 2026/2027 Seattle Symphony subscription season at a glance"
+        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大"
       ],
       "key_points_zh": [
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资",
         "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大",
-        "The 2026/2027 Seattle Symphony subscription season at a glance"
+        "llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大"
       ],
       "key_points_en": [
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival",
         "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful",
-        "The 2026/2027 Seattle Symphony subscription season at a glance"
+        "Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful"
       ],
       "tweet_drafts": [
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "Anthropic：安全驱动的AI巨头。年收入10倍增长，30亿融资。开发者关注点：对齐技术、基础设施合作。链接：https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/",
-        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "本地 AI 基础设施迎来里程碑。llama.cpp 的创造者 ggml.ai 加入 Hugging Face，目标直指与 Transformers 库的‘一键式’集成和更好的打包体验。这将极大推动本地模型在生产中的可用性。技术决策者需关注"
+        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
       ],
       "sources": [
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
+          "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "Premium: The Hater's Guide to Anthropic",
@@ -53,27 +58,22 @@
           "feed_title": "filfre.net",
           "title": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
           "link": "https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "ggml.ai Joins Hugging Face to Ensure Long-Term Progress of Local AI",
-          "link": "https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-20 技术日报：Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned；llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大。",
-      "summary_en": "Daily brief (2026-02-20): Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of the Sacred, Blood of the Damned; Core llama.cpp team joins Hugg",
+      "summary_zh": "2026-02-20 技术日报：‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned。",
+      "summary_en": "Daily brief (2026-02-20): ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of th",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-20 日报】Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned；llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-20): Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of the Sacred, Blood of the Damned; Core llama.cpp team joins Hug"
+          "zh": "【2026-02-20 日报】‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-20): ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of t"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n- llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n- https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n- Core llama.cpp team joins Hugging Face to deeply integrate with Transformers and improve packaging, making local AI inference more accessible and powerful\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n- https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-20）\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-20)\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival\n- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n- https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned；llama.cpp 核心团队加入 Hugging Face，旨在通过深度整合 Transformers 库与改善打包体验，让本地 AI 推理更易用、更强大。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of the Sacred, Blood of the Damned; Core llama.cpp team joins Hugging Face to deeply integrate with Transforme"
+          "zh": "今天最值得看的 3 个点：‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资；Gabriel Knight 3: Blood of the Sacred, Blood of the Damned。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival; Gabriel Knight 3: Blood of the Sacred, Blood of the Damned.\nI turned them"
         }
       }
     },
