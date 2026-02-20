@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-20T15:43:17Z",
+  "generated_at": "2026-02-20T16:44:20Z",
   "days": [
     {
       "date": "2026-02-20",
-      "total": 7,
+      "total": 8,
       "feeds": [
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
         "pluralistic.net · Pluralistic: A perforated corporate veil (20 Feb 2026)",
         "shkspr.mobi · Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
         "dfarq.homeip.net · On February 20, 2010 a VIC-20 tweeted",
         "simonwillison.net · Quoting Thariq Shihipar",
-        "utcc.utoronto.ca/~cks · Parsing hours and minutes into a useful time in basic Python",
-        "nesbitt.io · ActivityPub"
+        "utcc.utoronto.ca/~cks · Parsing hours and minutes into a useful time in basic Python"
       ],
       "key_points": [
+        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
         "巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例",
         "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
-        "2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合",
-        "Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能"
+        "2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合"
       ],
       "key_points_zh": [
+        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
         "巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例",
         "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
-        "2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合",
-        "Claude Code通过prompt caching重用计算，显著降低延迟和成本，并以此构建系统，监控命中率以维持性能"
+        "2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合"
       ],
       "key_points_en": [
+        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
         "Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink serves as a key test case",
         "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
-        "In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardware integration with modern web services",
-        "Claude Code leverages prompt caching to reuse computations, drastically cutting latency and cost, and builds its entire system around monitoring cache hit rates for performance"
+        "In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardware integration with modern web services"
       ],
       "tweet_drafts": [
+        "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
         "刺破公司面纱不再只是美国例外。巴西将关联公司视为单一实体，用连带责任遏制权力滥用。Starlink案显示，科技巨头控股架构可能面临根本性挑战。法务与创始人必读：https://pluralistic.net/2026/02/20/karioca-konzernrecht/ #公司治理 #合规",
-        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
-        "VIC-20发推纪念：2010年，Syd Bolton让1982年的电脑连上了Twitter。复古计算不止是怀旧，更是对硬件极限的挑战。开发者值得一试！"
+        "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆"
       ],
       "sources": [
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "A Perforated Corporate Veil: Brazil's Governance Experiment",
@@ -53,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆",
           "link": "https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "On February 20, 2010 a VIC-20 tweeted",
-          "link": "https://dfarq.homeip.net/on-february-20-2010-a-vic-20-tweeted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=on-february-20-2010-a-vic-20-tweeted"
         }
       ],
-      "summary_zh": "2026-02-20 技术日报：巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例；Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆；2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，",
-      "summary_en": "Daily brief (2026-02-20): Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink",
+      "summary_zh": "2026-02-20 技术日报：Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt；巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例；Book Review: Families And How To Survive Them",
+      "summary_en": "Daily brief (2026-02-20): Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt; Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies dir",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-20 日报】巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例；Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆；2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展",
-          "en": "AK-RSS Daily (2026-02-20): Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink"
+          "zh": "【2026-02-20 日报】Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt；巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例；Book Review: Families And How To Survive Them b",
+          "en": "AK-RSS Daily (2026-02-20): Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt; Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies di"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- 巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例\n- Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆\n- 2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/02/20/karioca-konzernrecht/\n- https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/\n- https://dfarq.homeip.net/on-february-20-2010-a-vic-20-tweeted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=on-february-20-2010-a-vic-20-tweeted\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink serves as a key test case\n- Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆\n- In 2010, Syd Bolton of the Canadian Personal Computer Museum got a 1982 Commodore VIC-20 to tweet for the first time, demonstrating vintage hardware integration with modern web services\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/02/20/karioca-konzernrecht/\n- https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/\n- https://dfarq.homeip.net/on-february-20-2010-a-vic-20-tweeted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=on-february-20-2010-a-vic-20-tweeted\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-20）\n- Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt\n- 巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例\n- Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074\n- https://pluralistic.net/2026/02/20/karioca-konzernrecht/\n- https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-20)\n- Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt\n- Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink serves as a key test case\n- Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074\n- https://pluralistic.net/2026/02/20/karioca-konzernrecht/\n- https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例；Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆；2010年，加拿大个人电脑博物馆策展人Syd Bolton成功让1982年的Commodore VIC-20电脑发送了第一条推文，展示了复古硬件与现代网络服务的融合。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb abuse of power by large corporate groups. Elon Musk's Starlink serves as a key test case; Book Review: Fami"
+          "zh": "今天最值得看的 3 个点：Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt；巴西法律通过‘共同及连带责任’原则，允许在特定情况下刺破公司面纱，追究母公司对子公司债务的直接责任，以遏制大型企业集团滥用权力。Elon Musk的Starlink成为该法适用的典型案例；Book Review: Families And How To Survive Them by John Cleese and Robin Skynner ★★⯪☆☆。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt; Brazil's legal doctrine of 'joint and several liability' allows courts to pierce the corporate veil, holding parent companies directly liable for subsidiary debts to curb ab"
         }
       }
     },
