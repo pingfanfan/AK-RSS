@@ -1,33 +1,39 @@
 {
-  "generated_at": "2026-02-21T10:02:12Z",
+  "generated_at": "2026-02-21T10:40:41Z",
   "days": [
     {
       "date": "2026-02-21",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "nesbitt.io (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
         "utcc.utoronto.ca/~cks · Consider mentioning your little personal scripts to your co-workers",
-        "simonwillison.net · Quoting Thibault Sottiaux"
+        "simonwillison.net · Quoting Thibault Sottiaux",
+        "nesbitt.io · Whale Fall"
       ],
       "key_points": [
         "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
         "Quoting Thibault Sottiaux",
+        "开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区",
         "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code"
       ],
       "key_points_zh": [
         "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
-        "Quoting Thibault Sottiaux"
+        "Quoting Thibault Sottiaux",
+        "开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区"
       ],
       "key_points_en": [
         "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code",
-        "Quoting Thibault Sottiaux"
+        "Quoting Thibault Sottiaux",
+        "After an open-source project 'dies', its dependent ecosystem undergoes three whale-fall stages: scavenger forks, module derivatives, and underlying protocol survival, nourishing the community for years"
       ],
       "tweet_drafts": [
         "分享个人脚本是低成本高回报的团队贡献方式。关键：1. 在具体场景中展示 2. 强调解决的实际问题 3. 准备重构为可维护代码。你的‘小工具’可能成为团队标准",
-        "Quoting Thibault Sottiaux"
+        "Quoting Thibault Sottiaux",
+        "鲸落效应：当大型开源项目停止维护，其生态不会立即消失，而是像深海鲸落一样，经历 scavenger fork（如 OpenOffice→LibreOffice）、enrichment（针对数据格式的衍生工具）、chemosynthesis（底层协议如 OCI 长期存续）三阶段，持续滋养社区数十年。你的关键依赖有‘鲸落风险’吗？#开源 #技术趋势"
       ],
       "sources": [
         {
@@ -39,22 +45,27 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Thibault Sottiaux",
           "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "The Whale Fall Effect",
+          "link": "https://nesbitt.io/2026/02/21/whale-fall.html"
         }
       ],
-      "summary_zh": "2026-02-21 技术日报：主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。",
-      "summary_en": "Daily brief (2026-02-21): Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux.",
+      "summary_zh": "2026-02-21 技术日报：主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux；开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区。",
+      "summary_en": "Daily brief (2026-02-21): Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux; After an open-source project 'dies', its dependent ecosystem undergoe",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-21 日报】主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-21): Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux. Actionable takeaways included. What would you ship next? #AI #Engine"
+          "zh": "【2026-02-21 日报】主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux；开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-21): Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux; After an open-source project 'dies', its dependent ecosystem undergo"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-21）\n- 主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码\n- Quoting Thibault Sottiaux\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-21)\n- Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code\n- Quoting Thibault Sottiaux\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-21）\n- 主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码\n- Quoting Thibault Sottiaux\n- 开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n- https://nesbitt.io/2026/02/21/whale-fall.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-21)\n- Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code\n- Quoting Thibault Sottiaux\n- After an open-source project 'dies', its dependent ecosystem undergoes three whale-fall stages: scavenger forks, module derivatives, and underlying protocol survival, nourishing the community for years\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n- https://nesbitt.io/2026/02/21/whale-fall.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux；开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux; After an open-source project 'dies', its dependent ecosystem undergoes three whale-fall stages: scavenger forks,"
         }
       }
     },
