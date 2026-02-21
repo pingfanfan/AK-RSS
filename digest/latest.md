@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-21 12:44:19 UTC
+Generated at: 2026-02-21 13:15:47 UTC
 
-- [Wrapping Code Comments](https://matklad.github.io/2026/02/21/wrapping-code-comments.html) (`matklad.github.io`)
-  - TLDR: 代码与注释应采用不同的换行列宽，且注释宽度应相对于其起始位置，而非绝对列数，以保持嵌套注释的可读性。当前工具支持不足。
-  - WHAT: 本文提出代码注释排版的最佳实践：代码行宽限制在约100列，而注释内容换行在约70列，但整体不超过100列。关键点是注释换行宽度应相对于注释的缩进位置，而非固定列数。
-  - WHY: 因为代码缩进会占用空间，如果使用绝对列宽，嵌套注释会随着缩进增加而越来越窄，导致可读性下降。相对宽度确保所有注释块无论嵌套多深，都保持一致的视觉宽度。
-  - ACTION: 检查并配置你的编辑器：VS Code用户可尝试'Rewrap'扩展并自定义设置；Emacs用户需调整M-q行为或使用其他包。在团队中讨论并统一注释排版规范。
-  - TWEET: 代码注释换行应相对宽度而非固定列，以保持嵌套可读性。但VS Code和Emacs默认不支持。你的编辑器能配置吗？ #开发者工具
+- [OpenBenches at FOSDEM](https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/) (`shkspr.mobi`)
+  - TLDR: 作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版。
+  - WHAT: OpenBenches是一个开放的公共长椅地理空间数据集项目。演讲原为FOSDEM闪电谈，官方录制视频缺失部分内容，作者通过个人录音与照片，使用Flowblade视频编辑器重建了完整视频。
+  - WHY: 对开发者而言，这展示了利用成熟开源工具链（Flowblade）自主解决实际媒体处理问题的能力，同时推广了开放数据在基础设施与地图服务中的应用价值。
+  - ACTION: 1. 观看修复后的完整演讲视频。2. 了解OpenBenches项目及其开放数据应用。3. 尝试使用Flowblade进行本地视频编辑。
+  - TWEET: 在FOSDEM的OpenBenches闪电谈视频出了点问题，官方录制有缺失。我用自己的录音和照片，用Flowblade编辑器重建了完整版。开源工具真香，开放数据项目也值得关注！视频在此：https://tube.tchncs.de/videos/embed/9gdpF7WEV9N1ign6nFFNuw
