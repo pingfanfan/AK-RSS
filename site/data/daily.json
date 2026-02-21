@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-02-21T13:16:17Z",
+  "generated_at": "2026-02-21T13:44:12Z",
   "days": [
     {
       "date": "2026-02-21",
-      "total": 5,
+      "total": 6,
       "feeds": [
+        "construction-physics.com (1)",
         "matklad.github.io (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
@@ -12,36 +13,42 @@
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "construction-physics.com · Reading List 02/21/26",
         "shkspr.mobi · OpenBenches at FOSDEM",
         "utcc.utoronto.ca/~cks · Consider mentioning your little personal scripts to your co-workers",
         "simonwillison.net · Quoting Thibault Sottiaux",
-        "nesbitt.io · Whale Fall",
-        "matklad.github.io · Wrapping Code Comments"
+        "matklad.github.io · Wrapping Code Comments",
+        "nesbitt.io · Whale Fall"
       ],
       "key_points": [
+        "Reading List 02/21/26",
         "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版",
         "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
-        "Quoting Thibault Sottiaux",
-        "开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区"
-      ],
-      "key_points_zh": [
-        "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版",
-        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
-        "Quoting Thibault Sottiaux",
-        "开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区"
-      ],
-      "key_points_en": [
-        "Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version",
-        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code",
-        "Quoting Thibault Sottiaux",
-        "After an open-source project 'dies', its dependent ecosystem undergoes three whale-fall stages: scavenger forks, module derivatives, and underlying protocol survival, nourishing the community for years"
-      ],
-      "tweet_drafts": [
-        "在FOSDEM的OpenBenches闪电谈视频出了点问题，官方录制有缺失。我用自己的录音和照片，用Flowblade编辑器重建了完整版。开源工具真香，开放数据项目也值得关注！视频在此：https://tube.tchncs.de/videos/embed/9gdpF7WEV9N1ign6nFFNuw",
-        "分享个人脚本是低成本高回报的团队贡献方式。关键：1. 在具体场景中展示 2. 强调解决的实际问题 3. 准备重构为可维护代码。你的‘小工具’可能成为团队标准",
         "Quoting Thibault Sottiaux"
       ],
+      "key_points_zh": [
+        "Reading List 02/21/26",
+        "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版",
+        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
+        "Quoting Thibault Sottiaux"
+      ],
+      "key_points_en": [
+        "Reading List 02/21/26",
+        "Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version",
+        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code",
+        "Quoting Thibault Sottiaux"
+      ],
+      "tweet_drafts": [
+        "Reading List 02/21/26",
+        "在FOSDEM的OpenBenches闪电谈视频出了点问题，官方录制有缺失。我用自己的录音和照片，用Flowblade编辑器重建了完整版。开源工具真香，开放数据项目也值得关注！视频在此：https://tube.tchncs.de/videos/embed/9gdpF7WEV9N1ign6nFFNuw",
+        "分享个人脚本是低成本高回报的团队贡献方式。关键：1. 在具体场景中展示 2. 强调解决的实际问题 3. 准备重构为可维护代码。你的‘小工具’可能成为团队标准"
+      ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Reading List 02/21/26",
+          "link": "https://www.construction-physics.com/p/reading-list-022126"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "OpenBenches at FOSDEM",
@@ -51,27 +58,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Consider mentioning your little personal scripts to your co-workers",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Thibault Sottiaux",
-          "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-21 技术日报：作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。",
-      "summary_en": "Daily brief (2026-02-21): Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to",
+      "summary_zh": "2026-02-21 技术日报：Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码。",
+      "summary_en": "Daily brief (2026-02-21): Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as production",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-21 日报】作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-21): Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as production tools, but be ready t"
+          "zh": "【2026-02-21 日报】Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-21): Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as productio"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-21）\n- 作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版\n- 主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码\n- Quoting Thibault Sottiaux\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-21)\n- Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version\n- Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code\n- Quoting Thibault Sottiaux\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-21）\n- Reading List 02/21/26\n- 作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版\n- 主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-21)\n- Reading List 02/21/26\n- Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version\n- Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoti"
+          "zh": "今天最值得看的 3 个点：Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into m"
         }
       }
     },
