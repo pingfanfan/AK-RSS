@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-02-21T12:01:54Z",
+  "generated_at": "2026-02-21T12:44:47Z",
   "days": [
     {
       "date": "2026-02-21",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "matklad.github.io (1)",
         "nesbitt.io (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
@@ -12,23 +13,26 @@
       "highlights": [
         "utcc.utoronto.ca/~cks · Consider mentioning your little personal scripts to your co-workers",
         "simonwillison.net · Quoting Thibault Sottiaux",
-        "nesbitt.io · Whale Fall"
+        "nesbitt.io · Whale Fall",
+        "matklad.github.io · Wrapping Code Comments"
       ],
       "key_points": [
         "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
         "Quoting Thibault Sottiaux",
         "开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区",
-        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code"
+        "代码与注释应采用不同的换行列宽，且注释宽度应相对于其起始位置，而非绝对列数，以保持嵌套注释的可读性。当前工具支持不足"
       ],
       "key_points_zh": [
         "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
         "Quoting Thibault Sottiaux",
-        "开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区"
+        "开源项目‘死亡’后，其依赖生态会像鲸落一样，经历 scavenger fork、模块衍生、底层协议存续三阶段，长期滋养社区",
+        "代码与注释应采用不同的换行列宽，且注释宽度应相对于其起始位置，而非绝对列数，以保持嵌套注释的可读性。当前工具支持不足"
       ],
       "key_points_en": [
         "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code",
         "Quoting Thibault Sottiaux",
-        "After an open-source project 'dies', its dependent ecosystem undergoes three whale-fall stages: scavenger forks, module derivatives, and underlying protocol survival, nourishing the community for years"
+        "After an open-source project 'dies', its dependent ecosystem undergoes three whale-fall stages: scavenger forks, module derivatives, and underlying protocol survival, nourishing the community for years",
+        "Code and comments should wrap at different column widths, with comment width relative to its start, not absolute, to maintain readability of nested comments. Tool support is lacking"
       ],
       "tweet_drafts": [
         "分享个人脚本是低成本高回报的团队贡献方式。关键：1. 在具体场景中展示 2. 强调解决的实际问题 3. 准备重构为可维护代码。你的‘小工具’可能成为团队标准",
