@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-02-21T20:38:29Z",
+  "generated_at": "2026-02-21T21:02:39Z",
   "days": [
     {
       "date": "2026-02-21",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "construction-physics.com (1)",
+        "evanhahn.com (1)",
         "johndcook.com (1)",
         "matklad.github.io (1)",
         "nesbitt.io (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
         "johndcook.com · Computing big, certified Fibonacci numbers",
@@ -18,7 +18,7 @@
         "shkspr.mobi · OpenBenches at FOSDEM",
         "utcc.utoronto.ca/~cks · Consider mentioning your little personal scripts to your co-workers",
         "simonwillison.net · Quoting Thibault Sottiaux",
-        "nesbitt.io · Whale Fall"
+        "matklad.github.io · Wrapping Code Comments"
       ],
       "key_points": [
         "用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销",
