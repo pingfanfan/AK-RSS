@@ -1,9 +1,54 @@
 {
-  "generated_at": "2026-02-20T22:41:12Z",
+  "generated_at": "2026-02-21T06:09:02Z",
   "days": [
     {
+      "date": "2026-02-21",
+      "total": 1,
+      "feeds": [
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Thibault Sottiaux"
+      ],
+      "key_points": [
+        "Quoting Thibault Sottiaux"
+      ],
+      "key_points_zh": [
+        "Quoting Thibault Sottiaux"
+      ],
+      "key_points_en": [
+        "Quoting Thibault Sottiaux"
+      ],
+      "tweet_drafts": [
+        "Quoting Thibault Sottiaux"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Thibault Sottiaux",
+          "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-02-21 技术日报：Quoting Thibault Sottiaux。",
+      "summary_en": "Daily brief (2026-02-21): Quoting Thibault Sottiaux.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-02-21 日报】Quoting Thibault Sottiaux。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-21): Quoting Thibault Sottiaux. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-02-21）\n- Quoting Thibault Sottiaux\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-21)\n- Quoting Thibault Sottiaux\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Quoting Thibault Sottiaux。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Thibault Sottiaux.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-02-20",
-      "total": 16,
+      "total": 17,
       "feeds": [
         "simonwillison.net (3)",
         "devblogs.microsoft.com/oldnewthing (2)",
@@ -13,37 +58,42 @@
         "idiallo.com (1)"
       ],
       "highlights": [
+        "joanwestenberg.com · The unbearable weight of cruft",
         "simonwillison.net · Taalas serves Llama 3.1 8B at 17,000 tokens/second",
         "krebsonsecurity.com · ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
         "wheresyoured.at · Premium: The Hater's Guide to Anthropic",
         "filfre.net · Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "simonwillison.net · ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-        "devblogs.microsoft.com/oldnewthing · The 2026/2027 Seattle Symphony subscription season at a glance"
+        "simonwillison.net · ggml.ai joins Hugging Face to ensure the long-term progress of Local AI"
       ],
       "key_points": [
+        "技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理",
         "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
         "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资",
-        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资"
       ],
       "key_points_zh": [
+        "技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理",
         "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
         "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资",
-        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资"
       ],
       "key_points_en": [
+        "Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential",
         "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
         "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival",
-        "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+        "Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival"
       ],
       "tweet_drafts": [
+        "你的代码库是否被技术债务压得喘不过气？冗余代码、过时依赖不仅拖慢开发，更埋下安全隐患。立即行动：定期审计、自动化检测、制定偿还计划。别让cruft毁掉你的创新速度。#技术债务 #安全 #AI",
         "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic：安全驱动的AI巨头。年收入10倍增长，30亿融资。开发者关注点：对齐技术、基础设施合作。链接：https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/"
+        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA"
       ],
       "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "The Unbearable Weight of Cruft",
+          "link": "https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
@@ -53,27 +103,22 @@
           "feed_title": "krebsonsecurity.com",
           "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
           "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Premium: The Hater's Guide to Anthropic",
-          "link": "https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/"
         }
       ],
-      "summary_zh": "2026-02-20 技术日报：Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资。",
-      "summary_en": "Daily brief (2026-02-20): Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becomi",
+      "summary_zh": "2026-02-20 技术日报：技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理；Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA。",
+      "summary_en": "Daily brief (2026-02-20): Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential; Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ P",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-20 日报】Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-20): Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becom"
+          "zh": "【2026-02-20 日报】技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理；Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-20): Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential; Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n- Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-20）\n- 技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-20)\n- Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA；Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA; Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival.\nI turned them into an"
+          "zh": "今天最值得看的 3 个点：技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理；Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential; Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MF"
         }
       }
     },
