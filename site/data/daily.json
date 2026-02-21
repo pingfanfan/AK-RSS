@@ -1,48 +1,60 @@
 {
-  "generated_at": "2026-02-21T08:02:46Z",
+  "generated_at": "2026-02-21T08:42:36Z",
   "days": [
     {
       "date": "2026-02-21",
-      "total": 1,
+      "total": 2,
       "feeds": [
-        "simonwillison.net (1)"
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · Consider mentioning your little personal scripts to your co-workers",
         "simonwillison.net · Quoting Thibault Sottiaux"
       ],
       "key_points": [
-        "Quoting Thibault Sottiaux"
+        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
+        "Quoting Thibault Sottiaux",
+        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code"
       ],
       "key_points_zh": [
+        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
         "Quoting Thibault Sottiaux"
       ],
       "key_points_en": [
+        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code",
         "Quoting Thibault Sottiaux"
       ],
       "tweet_drafts": [
+        "分享个人脚本是低成本高回报的团队贡献方式。关键：1. 在具体场景中展示 2. 强调解决的实际问题 3. 准备重构为可维护代码。你的‘小工具’可能成为团队标准",
         "Quoting Thibault Sottiaux"
       ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Consider mentioning your little personal scripts to your co-workers",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Thibault Sottiaux",
           "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-21 技术日报：Quoting Thibault Sottiaux。",
-      "summary_en": "Daily brief (2026-02-21): Quoting Thibault Sottiaux.",
+      "summary_zh": "2026-02-21 技术日报：主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。",
+      "summary_en": "Daily brief (2026-02-21): Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-21 日报】Quoting Thibault Sottiaux。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-21): Quoting Thibault Sottiaux. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-21 日报】主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-21): Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux. Actionable takeaways included. What would you ship next? #AI #Engine"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-21）\n- Quoting Thibault Sottiaux\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-21)\n- Quoting Thibault Sottiaux\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-21）\n- 主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码\n- Quoting Thibault Sottiaux\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-21)\n- Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code\n- Quoting Thibault Sottiaux\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n- https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Thibault Sottiaux。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Thibault Sottiaux.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码；Quoting Thibault Sottiaux。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code; Quoting Thibault Sottiaux.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
