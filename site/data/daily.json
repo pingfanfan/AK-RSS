@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-21T18:02:31Z",
+  "generated_at": "2026-02-21T18:43:36Z",
   "days": [
     {
       "date": "2026-02-21",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "construction-physics.com (1)",
+        "johndcook.com (1)",
         "matklad.github.io (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Computing big, certified Fibonacci numbers",
         "construction-physics.com · Reading List 02/21/26",
         "shkspr.mobi · OpenBenches at FOSDEM",
         "utcc.utoronto.ca/~cks · Consider mentioning your little personal scripts to your co-workers",
         "simonwillison.net · Quoting Thibault Sottiaux",
-        "matklad.github.io · Wrapping Code Comments",
         "nesbitt.io · Whale Fall"
       ],
       "key_points": [
+        "用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销",
         "Reading List 02/21/26",
         "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版",
-        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
-        "Quoting Thibault Sottiaux"
+        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码"
       ],
       "key_points_zh": [
+        "用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销",
         "Reading List 02/21/26",
         "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版",
-        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码",
-        "Quoting Thibault Sottiaux"
+        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码"
       ],
       "key_points_en": [
+        "Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead",
         "Reading List 02/21/26",
         "Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version",
-        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code",
-        "Quoting Thibault Sottiaux"
+        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code"
       ],
       "tweet_drafts": [
+        "大斐波那契数计算新思路：Binet公式近似 + 5f²±4平方验证 = 快速且可证书。适合需要可靠大数计算的场景。johndcook.com/blog/2026/02/21/big-certified-fibonacci/ #dev",
         "Reading List 02/21/26",
-        "在FOSDEM的OpenBenches闪电谈视频出了点问题，官方录制有缺失。我用自己的录音和照片，用Flowblade编辑器重建了完整版。开源工具真香，开放数据项目也值得关注！视频在此：https://tube.tchncs.de/videos/embed/9gdpF7WEV9N1ign6nFFNuw",
-        "分享个人脚本是低成本高回报的团队贡献方式。关键：1. 在具体场景中展示 2. 强调解决的实际问题 3. 准备重构为可维护代码。你的‘小工具’可能成为团队标准"
+        "在FOSDEM的OpenBenches闪电谈视频出了点问题，官方录制有缺失。我用自己的录音和照片，用Flowblade编辑器重建了完整版。开源工具真香，开放数据项目也值得关注！视频在此：https://tube.tchncs.de/videos/embed/9gdpF7WEV9N1ign6nFFNuw"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Computing Big, Certified Fibonacci Numbers",
+          "link": "https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Reading List 02/21/26",
@@ -53,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "OpenBenches at FOSDEM",
           "link": "https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Consider mentioning your little personal scripts to your co-workers",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts"
         }
       ],
-      "summary_zh": "2026-02-21 技术日报：Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码。",
-      "summary_en": "Daily brief (2026-02-21): Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as production",
+      "summary_zh": "2026-02-21 技术日报：用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版。",
+      "summary_en": "Daily brief (2026-02-21): Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead; Reading List 02/21/26; Author's FOSDEM talk on OpenBe",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-21 日报】Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-21): Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as productio"
+          "zh": "【2026-02-21 日报】用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-21): Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead; Reading List 02/21/26; Author's FOSDEM talk on OpenB"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-21）\n- Reading List 02/21/26\n- 作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版\n- 主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-21)\n- Reading List 02/21/26\n- Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version\n- Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-21）\n- 用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销\n- Reading List 02/21/26\n- 作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-21)\n- Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead\n- Reading List 02/21/26\n- Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版；主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version; Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into m"
+          "zh": "今天最值得看的 3 个点：用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead; Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it usi"
         }
       }
     },
