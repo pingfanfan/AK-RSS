@@ -1,49 +1,100 @@
 {
-  "generated_at": "2026-02-21T22:39:27Z",
+  "generated_at": "2026-02-22T06:11:56Z",
   "days": [
     {
+      "date": "2026-02-22",
+      "total": 1,
+      "feeds": [
+        "johndcook.com (1)"
+      ],
+      "highlights": [
+        "johndcook.com · 10,000,000th Fibonacci number"
+      ],
+      "key_points": [
+        "计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%",
+        "Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster"
+      ],
+      "key_points_zh": [
+        "计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%"
+      ],
+      "key_points_en": [
+        "Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster"
+      ],
+      "tweet_drafts": [
+        "算大数斐波那契很慢？验证更慢？试试证书！计算F花150秒，但加个r，验证只要3.3秒。原理？5F²±4要是完全平方数。你的项目里，哪些计算值得加个'快速验证包'？"
+      ],
+      "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "10,000,000th Fibonacci number",
+          "link": "https://www.johndcook.com/blog/2026/02/21/f10000000/"
+        }
+      ],
+      "summary_zh": "2026-02-22 技术日报：计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。",
+      "summary_en": "Daily brief (2026-02-22): Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-02-22 日报】计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-22): Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-02-22）\n- 计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/02/21/f10000000/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-22)\n- Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/02/21/f10000000/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-02-21",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "construction-physics.com (1)",
         "evanhahn.com (1)",
+        "idiallo.com (1)",
         "johndcook.com (1)",
         "matklad.github.io (1)",
-        "nesbitt.io (1)",
-        "shkspr.mobi (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "idiallo.com · Nvidia was only invited to invest",
         "johndcook.com · Computing big, certified Fibonacci numbers",
         "construction-physics.com · Reading List 02/21/26",
         "shkspr.mobi · OpenBenches at FOSDEM",
         "utcc.utoronto.ca/~cks · Consider mentioning your little personal scripts to your co-workers",
-        "simonwillison.net · Quoting Thibault Sottiaux",
-        "nesbitt.io · Whale Fall"
+        "simonwillison.net · Quoting Thibault Sottiaux"
       ],
       "key_points": [
+        "英伟达CEO黄仁勋否认曾承诺投资OpenAI百亿美元，称仅为受邀。但OpenAI 2025年新闻稿明确提及该意向，同时OpenAI正测试广告，显示AI巨头在商业化与资本承诺上出现战略摇摆",
         "用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销",
         "Reading List 02/21/26",
-        "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版",
-        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码"
+        "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版"
       ],
       "key_points_zh": [
+        "英伟达CEO黄仁勋否认曾承诺投资OpenAI百亿美元，称仅为受邀。但OpenAI 2025年新闻稿明确提及该意向，同时OpenAI正测试广告，显示AI巨头在商业化与资本承诺上出现战略摇摆",
         "用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销",
         "Reading List 02/21/26",
-        "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版",
-        "主动分享自用脚本可能被团队采纳为生产工具，但需准备将其重构为可维护代码"
+        "作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版"
       ],
       "key_points_en": [
+        "Nvidia CEO Jensen Huang denies a $100B OpenAI investment commitment, calling it an invitation. However, OpenAI's Sept 2025 press release stated the intent. Coupled with OpenAI's ad experiments, this shows strategic wobble on commercialization and capital pledges among AI giants",
         "Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead",
         "Reading List 02/21/26",
-        "Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version",
-        "Proactively sharing personal scripts can lead to team adoption as production tools, but be ready to refactor them into maintainable code"
+        "Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version"
       ],
       "tweet_drafts": [
+        "黄仁勋：‘从未承诺投资OpenAI百亿，仅为受邀。’但OpenAI新闻稿白纸黑字。叠加OpenAI广告实验，AI基础设施合作的不确定性飙升。技术决策者需重新评估供应商风险",
         "大斐波那契数计算新思路：Binet公式近似 + 5f²±4平方验证 = 快速且可证书。适合需要可靠大数计算的场景。johndcook.com/blog/2026/02/21/big-certified-fibonacci/ #dev",
-        "Reading List 02/21/26",
-        "在FOSDEM的OpenBenches闪电谈视频出了点问题，官方录制有缺失。我用自己的录音和照片，用Flowblade编辑器重建了完整版。开源工具真香，开放数据项目也值得关注！视频在此：https://tube.tchncs.de/videos/embed/9gdpF7WEV9N1ign6nFFNuw"
+        "Reading List 02/21/26"
       ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Nvidia Clarifies: $100B OpenAI Investment Was an Invitation, Not a Commitment",
+          "link": "https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Computing Big, Certified Fibonacci Numbers",
@@ -53,27 +104,22 @@
           "feed_title": "construction-physics.com",
           "title": "Reading List 02/21/26",
           "link": "https://www.construction-physics.com/p/reading-list-022126"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "OpenBenches at FOSDEM",
-          "link": "https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/"
         }
       ],
-      "summary_zh": "2026-02-21 技术日报：用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版。",
-      "summary_en": "Daily brief (2026-02-21): Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead; Reading List 02/21/26; Author's FOSDEM talk on OpenBe",
+      "summary_zh": "2026-02-21 技术日报：英伟达CEO黄仁勋否认曾承诺投资OpenAI百亿美元，称仅为受邀。但OpenAI 2025年新闻稿明确提及该意向，同时OpenAI正测试广告，显示AI巨头在商业化与资本承诺上出现战略摇摆；用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26。",
+      "summary_en": "Daily brief (2026-02-21): Nvidia CEO Jensen Huang denies a $100B OpenAI investment commitment, calling it an invitation. However, OpenAI's Sept 2025 press release stated the intent. Coupled with OpenAI's ad experiments, this shows strategic wobble on commercia",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-21 日报】用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-21): Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead; Reading List 02/21/26; Author's FOSDEM talk on OpenB"
+          "zh": "【2026-02-21 日报】英伟达CEO黄仁勋否认曾承诺投资OpenAI百亿美元，称仅为受邀。但OpenAI 2025年新闻稿明确提及该意向，同时OpenAI正测试广告，显示AI巨头在商业化与资本承诺上出现战略摇摆；用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-21): Nvidia CEO Jensen Huang denies a $100B OpenAI investment commitment, calling it an invitation. However, OpenAI's Sept 2025 press release stated the intent. Coupled with OpenAI's ad experiments, this shows strategic wobble on commerci"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-21）\n- 用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销\n- Reading List 02/21/26\n- 作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-21)\n- Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead\n- Reading List 02/21/26\n- Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it using open-source Flowblade and published the complete version\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/\n- https://www.construction-physics.com/p/reading-list-022126\n- https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-21）\n- 英伟达CEO黄仁勋否认曾承诺投资OpenAI百亿美元，称仅为受邀。但OpenAI 2025年新闻稿明确提及该意向，同时OpenAI正测试广告，显示AI巨头在商业化与资本承诺上出现战略摇摆\n- 用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销\n- Reading List 02/21/26\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed\n- https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/\n- https://www.construction-physics.com/p/reading-list-022126\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-21)\n- Nvidia CEO Jensen Huang denies a $100B OpenAI investment commitment, calling it an invitation. However, OpenAI's Sept 2025 press release stated the intent. Coupled with OpenAI's ad experiments, this shows strategic wobble on commercialization and capital pledges among AI giants\n- Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead\n- Reading List 02/21/26\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed\n- https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/\n- https://www.construction-physics.com/p/reading-list-022126\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26；作者在FOSDEM的OpenBenches项目演讲视频损坏，使用开源工具Flowblade自行修复并发布完整版。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Compute large Fibonacci numbers quickly using Binet's formula and generate a certificate via the perfect square test of 5f²±4, ensuring correctness without high-precision overhead; Reading List 02/21/26; Author's FOSDEM talk on OpenBenches had a corrupted video; repaired it usi"
+          "zh": "今天最值得看的 3 个点：英伟达CEO黄仁勋否认曾承诺投资OpenAI百亿美元，称仅为受邀。但OpenAI 2025年新闻稿明确提及该意向，同时OpenAI正测试广告，显示AI巨头在商业化与资本承诺上出现战略摇摆；用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Nvidia CEO Jensen Huang denies a $100B OpenAI investment commitment, calling it an invitation. However, OpenAI's Sept 2025 press release stated the intent. Coupled with OpenAI's ad experiments, this shows strategic wobble on commercialization and capital pledges among AI giants"
         }
       }
     },
