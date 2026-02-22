@@ -1,49 +1,61 @@
 {
-  "generated_at": "2026-02-22T06:11:56Z",
+  "generated_at": "2026-02-22T06:44:57Z",
   "days": [
     {
       "date": "2026-02-22",
-      "total": 1,
+      "total": 2,
       "feeds": [
-        "johndcook.com (1)"
+        "johndcook.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · The importance of limiting syndication feed requests in some way",
         "johndcook.com · 10,000,000th Fibonacci number"
       ],
       "key_points": [
+        "通过HTTP 304和速率限制，每天避免约3.5GB冗余流量，降低服务器负载，是基础设施优化的关键实践",
         "计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%",
+        "Using HTTP 304s and rate limiting avoids ~3.5GB/day of redundant traffic and reduces server load—a critical infrastructure practice",
         "Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster"
       ],
       "key_points_zh": [
+        "通过HTTP 304和速率限制，每天避免约3.5GB冗余流量，降低服务器负载，是基础设施优化的关键实践",
         "计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%"
       ],
       "key_points_en": [
+        "Using HTTP 304s and rate limiting avoids ~3.5GB/day of redundant traffic and reduces server load—a critical infrastructure practice",
         "Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster"
       ],
       "tweet_drafts": [
+        "数据：某博客订阅源，7492次200响应（1.26GB），9419次304，11941次429。若无304和限速，将多产生3.5GB流量。限流不仅是礼貌，更是基础设施必需。 #WebDev #SRE",
         "算大数斐波那契很慢？验证更慢？试试证书！计算F花150秒，但加个r，验证只要3.3秒。原理？5F²±4要是完全平方数。你的项目里，哪些计算值得加个'快速验证包'？"
       ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Why Limiting Syndication Feed Requests Matters",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/FeedLimitingImportance"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "10,000,000th Fibonacci number",
           "link": "https://www.johndcook.com/blog/2026/02/21/f10000000/"
         }
       ],
-      "summary_zh": "2026-02-22 技术日报：计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。",
-      "summary_en": "Daily brief (2026-02-22): Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster.",
+      "summary_zh": "2026-02-22 技术日报：通过HTTP 304和速率限制，每天避免约3.5GB冗余流量，降低服务器负载，是基础设施优化的关键实践；计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。",
+      "summary_en": "Daily brief (2026-02-22): Using HTTP 304s and rate limiting avoids ~3.5GB/day of redundant traffic and reduces server load—a critical infrastructure practice; Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% fast",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-22 日报】计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-22): Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-22 日报】通过HTTP 304和速率限制，每天避免约3.5GB冗余流量，降低服务器负载，是基础设施优化的关键实践；计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-22): Using HTTP 304s and rate limiting avoids ~3.5GB/day of redundant traffic and reduces server load—a critical infrastructure practice; Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% fas"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-22）\n- 计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/02/21/f10000000/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-22)\n- Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/02/21/f10000000/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-22）\n- 通过HTTP 304和速率限制，每天避免约3.5GB冗余流量，降低服务器负载，是基础设施优化的关键实践\n- 计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/FeedLimitingImportance\n- https://www.johndcook.com/blog/2026/02/21/f10000000/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-22)\n- Using HTTP 304s and rate limiting avoids ~3.5GB/day of redundant traffic and reduces server load—a critical infrastructure practice\n- Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/FeedLimitingImportance\n- https://www.johndcook.com/blog/2026/02/21/f10000000/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：通过HTTP 304和速率限制，每天避免约3.5GB冗余流量，降低服务器负载，是基础设施优化的关键实践；计算第1000万个斐波那契数耗时150秒，但通过附加数学证书，验证仅需3.3秒，提速98%。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Using HTTP 304s and rate limiting avoids ~3.5GB/day of redundant traffic and reduces server load—a critical infrastructure practice; Calculating the 10Mth Fibonacci took 150s, but verification with a certificate drops to 3.3s—98% faster.\nI turned them into an action-ready daily"
         }
       }
     },
