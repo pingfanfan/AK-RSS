@@ -1,41 +1,50 @@
 {
-  "generated_at": "2026-02-23T10:15:42Z",
+  "generated_at": "2026-02-23T10:45:36Z",
   "days": [
     {
       "date": "2026-02-23",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "martinalderson.com (1)",
+        "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "nesbitt.io · Where Do Specifications Fit in the Dependency Tree?",
         "simonwillison.net · Red/green TDD",
         "seangoedecke.com · Insider amnesia",
         "martinalderson.com · Which web frameworks are most token-efficient for AI agents?"
       ],
       "key_points": [
+        "语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突",
         "通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件",
         "外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'",
-        "基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本",
-        "Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically"
+        "基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本"
       ],
       "key_points_zh": [
+        "语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突",
         "通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件",
         "外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'",
         "基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本"
       ],
       "key_points_en": [
+        "Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs",
         "Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically",
         "Speculation about other tech companies' issues is often wrong due to lack of insider context. Even experts in their field stumble as outsiders—a phenomenon called 'insider amnesia'",
         "Benchmark shows minimal frameworks (e.g., Sinatra, Flask) cost up to 2.9x fewer tokens than full-featured ones (e.g., Rails, Next.js) due to less code and simpler context, drastically cutting AI agent build/extension costs"
       ],
       "tweet_drafts": [
+        "你的项目有多个地方声明Ruby版本吗？gemspec、Gemfile、.tool-versions 可能冲突！语言规范（RFC/ECMA）甚至不在SBOM里。如何解决？讨论→",
         "红绿TDD是AI编码代理的‘黄金法则’。先写测试并确认失败，再写代码通过测试。这能杜绝AI的幻觉代码，并生成可维护的测试套件。强烈建议在提示词中强制使用此模式。#编程 #人工智能",
-        "内部失忆症：别轻易猜测他公司问题。你看到的只是冰山一角，内部决策可能完全出乎意料。大公司产生坏代码的原因，小团队开发者往往无法理解。保持谦逊，专注自身",
-        "AI写代码，框架选错Token爆表。实测19个框架，Sinatra/Flask这类极简框架比Rails/Next.js省近3倍Token。AI辅助开发，框架的简洁性就是成本"
+        "内部失忆症：别轻易猜测他公司问题。你看到的只是冰山一角，内部决策可能完全出乎意料。大公司产生坏代码的原因，小团队开发者往往无法理解。保持谦逊，专注自身"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Where Do Specifications Fit in the Dependency Tree?",
+          "link": "https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Red/Green Test-Driven Development",
@@ -45,27 +54,22 @@
           "feed_title": "seangoedecke.com",
           "title": "Insider Amnesia",
           "link": "https://seangoedecke.com/insider-amnesia/"
-        },
-        {
-          "feed_title": "martinalderson.com",
-          "title": "Which web frameworks are most token-efficient for AI agents?",
-          "link": "https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/?utm_source=rss"
         }
       ],
-      "summary_zh": "2026-02-23 技术日报：通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'；基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本。",
-      "summary_en": "Daily brief (2026-02-23): Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite auto",
+      "summary_zh": "2026-02-23 技术日报：语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突；通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'。",
+      "summary_en": "Daily brief (2026-02-23): Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs; Guide AI coding agents with 'red/gree",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-23 日报】通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'；基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本。我把可执行建议整理",
-          "en": "AK-RSS Daily (2026-02-23): Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite aut"
+          "zh": "【2026-02-23 日报】语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突；通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-23): Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs; Guide AI coding agents with 'red/gre"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-23）\n- 通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件\n- 外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'\n- 基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything\n- https://seangoedecke.com/insider-amnesia/\n- https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/?utm_source=rss\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-23)\n- Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically\n- Speculation about other tech companies' issues is often wrong due to lack of insider context. Even experts in their field stumble as outsiders—a phenomenon called 'insider amnesia'\n- Benchmark shows minimal frameworks (e.g., Sinatra, Flask) cost up to 2.9x fewer tokens than full-featured ones (e.g., Rails, Next.js) due to less code and simpler context, drastically cutting AI agent build/extension costs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything\n- https://seangoedecke.com/insider-amnesia/\n- https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/?utm_source=rss\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-23）\n- 语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突\n- 通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件\n- 外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything\n- https://seangoedecke.com/insider-amnesia/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-23)\n- Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs\n- Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically\n- Speculation about other tech companies' issues is often wrong due to lack of insider context. Even experts in their field stumble as outsiders—a phenomenon called 'insider amnesia'\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything\n- https://seangoedecke.com/insider-amnesia/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'；基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically; Speculation about other tech comp"
+          "zh": "今天最值得看的 3 个点：语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突；通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs; Guide AI coding agents with 'red/green TDD': write automated tests first and conf"
         }
       }
     },
