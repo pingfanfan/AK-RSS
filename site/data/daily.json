@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-02-23T17:49:15Z",
+  "generated_at": "2026-02-23T18:17:31Z",
   "days": [
     {
       "date": "2026-02-23",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "simonwillison.net (5)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "herman.bearblog.dev (1)",
-        "idiallo.com (1)"
+        "herman.bearblog.dev (1)"
       ],
       "highlights": [
         "blog.jim-nielsen.com · Making Icon Sets Easy With Web Origami",
@@ -18,7 +18,7 @@
         "buttondown.com/hillelwayne · New Blog Post: Some Silly Z3 Scripts I Wrote",
         "simonwillison.net · Writing code is cheap now",
         "simonwillison.net · Quoting Paul Ford",
-        "herman.bearblog.dev · Pockets of Humanity"
+        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, second (failed) attempt"
       ],
       "key_points": [
         "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境",
