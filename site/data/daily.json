@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T21:45:47Z",
+  "generated_at": "2026-02-23T22:12:25Z",
   "days": [
     {
       "date": "2026-02-24",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-02-23",
-      "total": 21,
+      "total": 22,
       "feeds": [
         "simonwillison.net (6)",
+        "joanwestenberg.com (2)",
         "johndcook.com (2)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)"
+        "daringfireball.net (1)"
       ],
       "highlights": [
+        "joanwestenberg.com · Thoughts on Farcaster",
         "daringfireball.net · NetNewsWire 7 for Mac",
         "johndcook.com · Giant Steps",
         "blog.jim-nielsen.com · Making Icon Sets Easy With Web Origami",
         "simonwillison.net · Ladybird adopts Rust, with help from AI",
-        "simonwillison.net · Writing about Agentic Engineering Patterns",
-        "buttondown.com/hillelwayne · New Blog Post: Some Silly Z3 Scripts I Wrote"
+        "simonwillison.net · Writing about Agentic Engineering Patterns"
       ],
       "key_points": [
+        "曾是Web3社交标杆的Farcaster，因社交层增长未达预期，于2025年转向钱包交易，2026年被其核心基础设施商Neynar整体收购。创始人承认失败并务实转型的态度，在加密领域堪称罕见",
         "NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝",
         "《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现",
-        "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境",
-        "Ladybird adopts Rust, with help from AI"
+        "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境"
       ],
       "key_points_zh": [
+        "曾是Web3社交标杆的Farcaster，因社交层增长未达预期，于2025年转向钱包交易，2026年被其核心基础设施商Neynar整体收购。创始人承认失败并务实转型的态度，在加密领域堪称罕见",
         "NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝",
         "《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现",
-        "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境",
-        "Ladybird adopts Rust, with help from AI"
+        "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境"
       ],
       "key_points_en": [
+        "Once a Web3 social benchmark, Farcaster pivoted to wallets/trading in 2025 after social layer growth stalled and was fully acquired by its key infrastructure provider, Neynar, in 2026. The founders' acknowledgment of failure and pragmatic pivot is rare in crypto",
         "NetNewsWire 7 released, requires macOS 26, but users on older systems can continue with 6.x with seamless syncing",
         "The complex chord progression in 'Giant Steps' is underpinned by a simple 3-fold symmetry on a chromatic clock, using just 9 chords with strategic jumps",
-        "Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups",
-        "Ladybird adopts Rust, with help from AI"
+        "Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups"
       ],
       "tweet_drafts": [
+        "Farcaster被Neynar收购，标志着其‘去中心化社交网络’实验的正式转型。创始人Dan Romero在五年后承认‘社交优先’未达预期，转而押注已见成效的钱包工具。这案例提醒我们：加密产品的PMF可能始于实用工具，而非宏大叙事。值得所有Builder深思",
         "RSS阅读器NetNewsWire 7上线，新UI需新系统，但旧版照旧用，同步没问题。开发者注意兼容性！",
-        "《Giant Steps》的数学之美：9个和弦，三重对称，半音阶时钟。复杂艺术的简洁内核",
-        "手动复制SVG图标到项目？Web Origami提供更优雅的解决方案。提升开发效率，减少维护负担"
+        "《Giant Steps》的数学之美：9个和弦，三重对称，半音阶时钟。复杂艺术的简洁内核"
       ],
       "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Farcaster's Pivot and Acquisition: A Pragmatic End for a Decentralized Social Protocol",
+          "link": "https://www.joanwestenberg.com/thoughts-on-farcaster/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "NetNewsWire 7 for Mac Released",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "Giant Steps",
           "link": "https://www.johndcook.com/blog/2026/02/23/giant-steps/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Making Icon Sets Easy With Web Origami",
-          "link": "https://blog.jim-nielsen.com/2026/origami-icons/"
         }
       ],
-      "summary_zh": "2026-02-23 技术日报：NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝；《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现；手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境。",
-      "summary_en": "Daily brief (2026-02-23): NetNewsWire 7 released, requires macOS 26, but users on older systems can continue with 6.x with seamless syncing; The complex chord progression in 'Giant Steps' is underpinned by a simple 3-fold symmetry on a chromatic clock, using j",
+      "summary_zh": "2026-02-23 技术日报：曾是Web3社交标杆的Farcaster，因社交层增长未达预期，于2025年转向钱包交易，2026年被其核心基础设施商Neynar整体收购。创始人承认失败并务实转型的态度，在加密领域堪称罕见；NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝；《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现。",
+      "summary_en": "Daily brief (2026-02-23): Once a Web3 social benchmark, Farcaster pivoted to wallets/trading in 2025 after social layer growth stalled and was fully acquired by its key infrastructure provider, Neynar, in 2026. The founders' acknowledgment of failure and pragm",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-23 日报】NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝；《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现；手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-23): NetNewsWire 7 released, requires macOS 26, but users on older systems can continue with 6.x with seamless syncing; The complex chord progression in 'Giant Steps' is underpinned by a simple 3-fold symmetry on a chromatic clock, using"
+          "zh": "【2026-02-23 日报】曾是Web3社交标杆的Farcaster，因社交层增长未达预期，于2025年转向钱包交易，2026年被其核心基础设施商Neynar整体收购。创始人承认失败并务实转型的态度，在加密领域堪称罕见；NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝；《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-23): Once a Web3 social benchmark, Farcaster pivoted to wallets/trading in 2025 after social layer growth stalled and was fully acquired by its key infrastructure provider, Neynar, in 2026. The founders' acknowledgment of failure and prag"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-23）\n- NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝\n- 《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现\n- 手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html\n- https://www.johndcook.com/blog/2026/02/23/giant-steps/\n- https://blog.jim-nielsen.com/2026/origami-icons/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-23)\n- NetNewsWire 7 released, requires macOS 26, but users on older systems can continue with 6.x with seamless syncing\n- The complex chord progression in 'Giant Steps' is underpinned by a simple 3-fold symmetry on a chromatic clock, using just 9 chords with strategic jumps\n- Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html\n- https://www.johndcook.com/blog/2026/02/23/giant-steps/\n- https://blog.jim-nielsen.com/2026/origami-icons/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-23）\n- 曾是Web3社交标杆的Farcaster，因社交层增长未达预期，于2025年转向钱包交易，2026年被其核心基础设施商Neynar整体收购。创始人承认失败并务实转型的态度，在加密领域堪称罕见\n- NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝\n- 《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/thoughts-on-farcaster/\n- https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html\n- https://www.johndcook.com/blog/2026/02/23/giant-steps/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-23)\n- Once a Web3 social benchmark, Farcaster pivoted to wallets/trading in 2025 after social layer growth stalled and was fully acquired by its key infrastructure provider, Neynar, in 2026. The founders' acknowledgment of failure and pragmatic pivot is rare in crypto\n- NetNewsWire 7 released, requires macOS 26, but users on older systems can continue with 6.x with seamless syncing\n- The complex chord progression in 'Giant Steps' is underpinned by a simple 3-fold symmetry on a chromatic clock, using just 9 chords with strategic jumps\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/thoughts-on-farcaster/\n- https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html\n- https://www.johndcook.com/blog/2026/02/23/giant-steps/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝；《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现；手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: NetNewsWire 7 released, requires macOS 26, but users on older systems can continue with 6.x with seamless syncing; The complex chord progression in 'Giant Steps' is underpinned by a simple 3-fold symmetry on a chromatic clock, using just 9 chords with strategic jumps; Manually"
+          "zh": "今天最值得看的 3 个点：曾是Web3社交标杆的Farcaster，因社交层增长未达预期，于2025年转向钱包交易，2026年被其核心基础设施商Neynar整体收购。创始人承认失败并务实转型的态度，在加密领域堪称罕见；NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝；《Giant Steps》的和弦进行看似复杂，实则基于半音阶时钟的三重对称模式，仅用9个和弦通过‘跳跃’实现。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Once a Web3 social benchmark, Farcaster pivoted to wallets/trading in 2025 after social layer growth stalled and was fully acquired by its key infrastructure provider, Neynar, in 2026. The founders' acknowledgment of failure and pragmatic pivot is rare in crypto; NetNewsWire 7"
         }
       }
     },
