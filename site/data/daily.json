@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-02-23T16:46:58Z",
+  "generated_at": "2026-02-23T17:22:01Z",
   "days": [
     {
       "date": "2026-02-23",
-      "total": 14,
+      "total": 16,
       "feeds": [
         "simonwillison.net (4)",
+        "blog.jim-nielsen.com (1)",
+        "buttondown.com/hillelwayne (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
-        "idiallo.com (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · Making Icon Sets Easy With Web Origami",
+        "buttondown.com/hillelwayne · New Blog Post: Some Silly Z3 Scripts I Wrote",
         "simonwillison.net · Writing code is cheap now",
         "simonwillison.net · Quoting Paul Ford",
         "herman.bearblog.dev · Pockets of Humanity",
-        "simonwillison.net · Reply guy",
-        "johndcook.com · Tritone substitution",
-        "shkspr.mobi · Book Review: A Geography of Time by Robert V. Levine ★★★☆☆"
+        "simonwillison.net · Reply guy"
       ],
       "key_points": [
+        "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境",
+        "New Blog Post: Some Silly Z3 Scripts I Wrote",
         "Writing code is cheap now",
-        "Quoting Paul Ford",
-        "Pockets of Humanity",
-        "Reply guy"
+        "Quoting Paul Ford"
       ],
       "key_points_zh": [
+        "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境",
+        "New Blog Post: Some Silly Z3 Scripts I Wrote",
         "Writing code is cheap now",
-        "Quoting Paul Ford",
-        "Pockets of Humanity",
-        "Reply guy"
+        "Quoting Paul Ford"
       ],
       "key_points_en": [
+        "Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups",
+        "New Blog Post: Some Silly Z3 Scripts I Wrote",
         "Writing code is cheap now",
-        "Quoting Paul Ford",
-        "Pockets of Humanity",
-        "Reply guy"
+        "Quoting Paul Ford"
       ],
       "tweet_drafts": [
-        "Writing code is cheap now",
-        "Quoting Paul Ford",
-        "Pockets of Humanity"
+        "手动复制SVG图标到项目？Web Origami提供更优雅的解决方案。提升开发效率，减少维护负担",
+        "New Blog Post: Some Silly Z3 Scripts I Wrote",
+        "Writing code is cheap now"
       ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Making Icon Sets Easy With Web Origami",
+          "link": "https://blog.jim-nielsen.com/2026/origami-icons/"
+        },
+        {
+          "feed_title": "buttondown.com/hillelwayne",
+          "title": "New Blog Post: Some Silly Z3 Scripts I Wrote",
+          "link": "https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Writing code is cheap now",
           "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Paul Ford",
-          "link": "https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything"
-        },
-        {
-          "feed_title": "herman.bearblog.dev",
-          "title": "Pockets of Humanity",
-          "link": "https://herman.bearblog.dev/pockets-of-humanity/"
         }
       ],
-      "summary_zh": "2026-02-23 技术日报：Writing code is cheap now；Quoting Paul Ford；Pockets of Humanity。",
-      "summary_en": "Daily brief (2026-02-23): Writing code is cheap now; Quoting Paul Ford; Pockets of Humanity.",
+      "summary_zh": "2026-02-23 技术日报：手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；New Blog Post: Some Silly Z3 Scripts I Wrote；Writing code is cheap now。",
+      "summary_en": "Daily brief (2026-02-23): Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; New Blog Post: Some Silly Z3 Scripts I Wrote; Writing code is cheap now.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-23 日报】Writing code is cheap now；Quoting Paul Ford；Pockets of Humanity。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-23): Writing code is cheap now; Quoting Paul Ford; Pockets of Humanity. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-23 日报】手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；New Blog Post: Some Silly Z3 Scripts I Wrote；Writing code is cheap now。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-23): Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; New Blog Post: Some Silly Z3 Scripts I Wrote; Writing code is cheap now. Action"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-23）\n- Writing code is cheap now\n- Quoting Paul Ford\n- Pockets of Humanity\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-23)\n- Writing code is cheap now\n- Quoting Paul Ford\n- Pockets of Humanity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-23）\n- 手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境\n- New Blog Post: Some Silly Z3 Scripts I Wrote\n- Writing code is cheap now\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/origami-icons/\n- https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/\n- https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-23)\n- Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups\n- New Blog Post: Some Silly Z3 Scripts I Wrote\n- Writing code is cheap now\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/origami-icons/\n- https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/\n- https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Writing code is cheap now；Quoting Paul Ford；Pockets of Humanity。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Writing code is cheap now; Quoting Paul Ford; Pockets of Humanity.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；New Blog Post: Some Silly Z3 Scripts I Wrote；Writing code is cheap now。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; New Blog Post: Some Silly Z3 Scripts I Wrote; Writing code is cheap now.\nI turned them into an action-ready daily brief you"
         }
       }
     },
