@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:47:19Z",
+  "generated_at": "2026-02-23T19:23:15Z",
   "days": [
     {
       "date": "2026-02-23",
-      "total": 18,
+      "total": 19,
       "feeds": [
-        "simonwillison.net (5)",
+        "simonwillison.net (6)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -14,34 +14,34 @@
       ],
       "highlights": [
         "blog.jim-nielsen.com · Making Icon Sets Easy With Web Origami",
+        "simonwillison.net · Ladybird adopts Rust, with help from AI",
         "simonwillison.net · Writing about Agentic Engineering Patterns",
         "buttondown.com/hillelwayne · New Blog Post: Some Silly Z3 Scripts I Wrote",
         "simonwillison.net · Writing code is cheap now",
-        "simonwillison.net · Quoting Paul Ford",
-        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, second (failed) attempt"
+        "simonwillison.net · Quoting Paul Ford"
       ],
       "key_points": [
         "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境",
+        "Ladybird adopts Rust, with help from AI",
         "Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理",
-        "New Blog Post: Some Silly Z3 Scripts I Wrote",
-        "Writing code is cheap now"
+        "New Blog Post: Some Silly Z3 Scripts I Wrote"
       ],
       "key_points_zh": [
         "手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境",
+        "Ladybird adopts Rust, with help from AI",
         "Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理",
-        "New Blog Post: Some Silly Z3 Scripts I Wrote",
-        "Writing code is cheap now"
+        "New Blog Post: Some Silly Z3 Scripts I Wrote"
       ],
       "key_points_en": [
         "Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups",
+        "Ladybird adopts Rust, with help from AI",
         "Simon Willison launches a new project to document 'Agentic Engineering Patterns', with initial chapters on 'Code is Cheap' and 'Red/Green TDD', helping developers leverage AI coding agents effectively",
-        "New Blog Post: Some Silly Z3 Scripts I Wrote",
-        "Writing code is cheap now"
+        "New Blog Post: Some Silly Z3 Scripts I Wrote"
       ],
       "tweet_drafts": [
         "手动复制SVG图标到项目？Web Origami提供更优雅的解决方案。提升开发效率，减少维护负担",
-        "探索AI编码代理新模式！Simon Willison新项目《代理工程模式》已发布，首章‘代码成本趋零’与‘红绿TDD’，助你成为AI时代高效开发者。https://simonwillison.net/guides/agentic-engineering-patterns/",
-        "New Blog Post: Some Silly Z3 Scripts I Wrote"
+        "Ladybird adopts Rust, with help from AI",
+        "探索AI编码代理新模式！Simon Willison新项目《代理工程模式》已发布，首章‘代码成本趋零’与‘红绿TDD’，助你成为AI时代高效开发者。https://simonwillison.net/guides/agentic-engineering-patterns/"
       ],
       "sources": [
         {
@@ -51,29 +51,29 @@
         },
         {
           "feed_title": "simonwillison.net",
-          "title": "Agentic Engineering Patterns: A Practical Guide for Modern Developers",
-          "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything"
+          "title": "Ladybird adopts Rust, with help from AI",
+          "link": "https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything"
         },
         {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "New Blog Post: Some Silly Z3 Scripts I Wrote",
-          "link": "https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/"
+          "feed_title": "simonwillison.net",
+          "title": "Agentic Engineering Patterns: A Practical Guide for Modern Developers",
+          "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-23 技术日报：手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理；New Blog Post: Some Silly Z3 Scripts I Wrote。",
-      "summary_en": "Daily brief (2026-02-23): Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; Simon Willison launches a new project to document 'Agentic Engineering Patterns'",
+      "summary_zh": "2026-02-23 技术日报：手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；Ladybird adopts Rust, with help from AI；Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理。",
+      "summary_en": "Daily brief (2026-02-23): Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; Ladybird adopts Rust, with help from AI; Simon Willison launches a new project t",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-23 日报】手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理；New Blog Post: Some Silly Z3 Scripts I Wrote。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-23): Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; Simon Willison launches a new project to document 'Agentic Engineering Patterns"
+          "zh": "【2026-02-23 日报】手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；Ladybird adopts Rust, with help from AI；Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-23): Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; Ladybird adopts Rust, with help from AI; Simon Willison launches a new project"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-23）\n- 手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境\n- Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理\n- New Blog Post: Some Silly Z3 Scripts I Wrote\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/origami-icons/\n- https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything\n- https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-23)\n- Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups\n- Simon Willison launches a new project to document 'Agentic Engineering Patterns', with initial chapters on 'Code is Cheap' and 'Red/Green TDD', helping developers leverage AI coding agents effectively\n- New Blog Post: Some Silly Z3 Scripts I Wrote\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/origami-icons/\n- https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything\n- https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-23）\n- 手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境\n- Ladybird adopts Rust, with help from AI\n- Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/origami-icons/\n- https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything\n- https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-23)\n- Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups\n- Ladybird adopts Rust, with help from AI\n- Simon Willison launches a new project to document 'Agentic Engineering Patterns', with initial chapters on 'Code is Cheap' and 'Red/Green TDD', helping developers leverage AI coding agents effectively\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/origami-icons/\n- https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything\n- https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理；New Blog Post: Some Silly Z3 Scripts I Wrote。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; Simon Willison launches a new project to document 'Agentic Engineering Patterns', with initial chapters on 'Code is Cheap' a"
+          "zh": "今天最值得看的 3 个点：手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境；Ladybird adopts Rust, with help from AI；Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Manually managing SVG icon sets is inefficient; Web Origami offers a declarative approach to streamline the process, especially for non-framework setups; Ladybird adopts Rust, with help from AI; Simon Willison launches a new project to document 'Agentic Engineering Patterns', w"
         }
       }
     },
