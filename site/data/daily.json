@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-02-23T10:45:36Z",
+  "generated_at": "2026-02-23T11:14:32Z",
   "days": [
     {
       "date": "2026-02-23",
-      "total": 4,
+      "total": 6,
       "feeds": [
+        "joanwestenberg.com (1)",
         "martinalderson.com (1)",
         "nesbitt.io (1)",
+        "pluralistic.net (1)",
         "seangoedecke.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "joanwestenberg.com · Everyone in AI is building the wrong thing for the same reason",
+        "pluralistic.net · Pluralistic: Deplatform yourself (23 Feb 2026)",
         "nesbitt.io · Where Do Specifications Fit in the Dependency Tree?",
         "simonwillison.net · Red/green TDD",
-        "seangoedecke.com · Insider amnesia",
-        "martinalderson.com · Which web frameworks are most token-efficient for AI agents?"
+        "martinalderson.com · Which web frameworks are most token-efficient for AI agents?",
+        "seangoedecke.com · Insider amnesia"
       ],
       "key_points": [
+        "AI行业陷入“Moloch”竞争陷阱：公司为追赶模型更新耗尽工程资源，忽视真实用户价值，导致产品严重同质化，仅剩聊天框界面差异",
+        "主动脱离中心化平台，通过自托管与去中心化工具夺回内容控制权与数据主权",
         "语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突",
-        "通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件",
-        "外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'",
-        "基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本"
+        "通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件"
       ],
       "key_points_zh": [
+        "AI行业陷入“Moloch”竞争陷阱：公司为追赶模型更新耗尽工程资源，忽视真实用户价值，导致产品严重同质化，仅剩聊天框界面差异",
+        "主动脱离中心化平台，通过自托管与去中心化工具夺回内容控制权与数据主权",
         "语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突",
-        "通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件",
-        "外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'",
-        "基准测试显示，最小化框架（如Sinatra、Flask）比全功能框架（如Rails、Next.js）节省高达2.9倍的Token，因其代码量少、上下文简单，显著降低AI代理的构建与扩展成本"
+        "通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件"
       ],
       "key_points_en": [
+        "AI industry trapped in 'Moloch': Companies drain engineering resources chasing model updates, neglect real user value, leading to severe product homogenization into mere chat interfaces",
+        "Proactively脱离中心化平台 by adopting self-hosting and decentralized tools to regain content control and data sovereignty",
         "Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs",
-        "Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically",
-        "Speculation about other tech companies' issues is often wrong due to lack of insider context. Even experts in their field stumble as outsiders—a phenomenon called 'insider amnesia'",
-        "Benchmark shows minimal frameworks (e.g., Sinatra, Flask) cost up to 2.9x fewer tokens than full-featured ones (e.g., Rails, Next.js) due to less code and simpler context, drastically cutting AI agent build/extension costs"
+        "Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically"
       ],
       "tweet_drafts": [
-        "你的项目有多个地方声明Ruby版本吗？gemspec、Gemfile、.tool-versions 可能冲突！语言规范（RFC/ECMA）甚至不在SBOM里。如何解决？讨论→",
-        "红绿TDD是AI编码代理的‘黄金法则’。先写测试并确认失败，再写代码通过测试。这能杜绝AI的幻觉代码，并生成可维护的测试套件。强烈建议在提示词中强制使用此模式。#编程 #人工智能",
-        "内部失忆症：别轻易猜测他公司问题。你看到的只是冰山一角，内部决策可能完全出乎意料。大公司产生坏代码的原因，小团队开发者往往无法理解。保持谦逊，专注自身"
+        "AI行业正陷入“Moloch”竞争：个体理性（追新求生）导致集体非理性（产品同质化）。所有公司都在更新模型，却无人创造新价值。你的工程时间正在被偷走。是时候投资真正的产品差异化了",
+        "你的内容不属于平台。用自托管和去中心化工具保护数据主权。推荐：独立博客 + RSS + Mastodon。技术人的自由之路。 #IndieWeb # decentralization",
+        "你的项目有多个地方声明Ruby版本吗？gemspec、Gemfile、.tool-versions 可能冲突！语言规范（RFC/ECMA）甚至不在SBOM里。如何解决？讨论→"
       ],
       "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Everyone in AI is building the wrong thing for the same reason",
+          "link": "https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Deplatform yourself",
+          "link": "https://pluralistic.net/2026/02/23/goodharts-lawbreaker/"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Where Do Specifications Fit in the Dependency Tree?",
           "link": "https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Red/Green Test-Driven Development",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything"
-        },
-        {
-          "feed_title": "seangoedecke.com",
-          "title": "Insider Amnesia",
-          "link": "https://seangoedecke.com/insider-amnesia/"
         }
       ],
-      "summary_zh": "2026-02-23 技术日报：语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突；通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'。",
-      "summary_en": "Daily brief (2026-02-23): Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs; Guide AI coding agents with 'red/gree",
+      "summary_zh": "2026-02-23 技术日报：AI行业陷入“Moloch”竞争陷阱：公司为追赶模型更新耗尽工程资源，忽视真实用户价值，导致产品严重同质化，仅剩聊天框界面差异；主动脱离中心化平台，通过自托管与去中心化工具夺回内容控制权与数据主权；语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突。",
+      "summary_en": "Daily brief (2026-02-23): AI industry trapped in 'Moloch': Companies drain engineering resources chasing model updates, neglect real user value, leading to severe product homogenization into mere chat interfaces; Proactively脱离中心化平台 by adopting self-hosting and",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-23 日报】语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突；通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-23): Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs; Guide AI coding agents with 'red/gre"
+          "zh": "【2026-02-23 日报】AI行业陷入“Moloch”竞争陷阱：公司为追赶模型更新耗尽工程资源，忽视真实用户价值，导致产品严重同质化，仅剩聊天框界面差异；主动脱离中心化平台，通过自托管与去中心化工具夺回内容控制权与数据主权；语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-23): AI industry trapped in 'Moloch': Companies drain engineering resources chasing model updates, neglect real user value, leading to severe product homogenization into mere chat interfaces; Proactively脱离中心化平台 by adopting self-hosting an"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-23）\n- 语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突\n- 通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件\n- 外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything\n- https://seangoedecke.com/insider-amnesia/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-23)\n- Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs\n- Guide AI coding agents with 'red/green TDD': write automated tests first and confirm they fail (red), then implement code to make them pass (green). This prevents non-working or unnecessary code and builds a regression test suite automatically\n- Speculation about other tech companies' issues is often wrong due to lack of insider context. Even experts in their field stumble as outsiders—a phenomenon called 'insider amnesia'\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything\n- https://seangoedecke.com/insider-amnesia/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-23）\n- AI行业陷入“Moloch”竞争陷阱：公司为追赶模型更新耗尽工程资源，忽视真实用户价值，导致产品严重同质化，仅剩聊天框界面差异\n- 主动脱离中心化平台，通过自托管与去中心化工具夺回内容控制权与数据主权\n- 语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/\n- https://pluralistic.net/2026/02/23/goodharts-lawbreaker/\n- https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-23)\n- AI industry trapped in 'Moloch': Companies drain engineering resources chasing model updates, neglect real user value, leading to severe product homogenization into mere chat interfaces\n- Proactively脱离中心化平台 by adopting self-hosting and decentralized tools to regain content control and data sovereignty\n- Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/\n- https://pluralistic.net/2026/02/23/goodharts-lawbreaker/\n- https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突；通过‘红绿TDD’模式指导AI编码代理：先写自动化测试并确认其失败（红），再编写代码使测试通过（绿）。这能有效防止AI生成无效或冗余代码，并自动构建回归测试套件；外界对科技公司内部问题的猜测往往错误，因为缺乏内部视角。即使专家在自己领域，作为局外人也易误判，这被称为'内部失忆症'。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Language specs (e.g., Ruby 3.0) are missing from dependency management. Runtime version declarations are fragmented and inconsistently enforced, causing duplicate and conflicting dependency specs; Guide AI coding agents with 'red/green TDD': write automated tests first and conf"
+          "zh": "今天最值得看的 3 个点：AI行业陷入“Moloch”竞争陷阱：公司为追赶模型更新耗尽工程资源，忽视真实用户价值，导致产品严重同质化，仅剩聊天框界面差异；主动脱离中心化平台，通过自托管与去中心化工具夺回内容控制权与数据主权；语言规范（如Ruby 3.0）未被纳入依赖管理，运行时版本声明碎片化且 enforcement 不一致，导致依赖重复声明与冲突。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: AI industry trapped in 'Moloch': Companies drain engineering resources chasing model updates, neglect real user value, leading to severe product homogenization into mere chat interfaces; Proactively脱离中心化平台 by adopting self-hosting and decentralized tools to regain content contr"
         }
       }
     },
