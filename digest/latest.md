@@ -1,11 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-23 17:21:14 UTC
+Generated at: 2026-02-23 17:48:42 UTC
 
-- [New Blog Post: Some Silly Z3 Scripts I Wrote](https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/) (`buttondown.com/hillelwayne`)
-- [Making Icon Sets Easy With Web Origami](https://blog.jim-nielsen.com/2026/origami-icons/) (`blog.jim-nielsen.com`)
-  - TLDR: 手动管理SVG图标集效率低下，Web Origami提供声明式方法简化流程，适合非框架环境。
-  - WHAT: 文章描述了在无框架环境下使用Heroicons等图标集的常见痛点：需手动复制SVG、维护文件系统、编写读取组件，导致迭代困难。Web Origami被提出作为更优雅的解决方案。
-  - WHY: 对于关注基础设施的开发者，优化前端资源管理能提升构建效率和可维护性。手动图标管理增加技术债务，影响团队协作和部署流程。
-  - ACTION: 评估当前图标集成方式，考虑采用构建时优化或声明式导入。关注Web Origami等新兴模式，减少运行时文件I/O。
-  - TWEET: 手动复制SVG图标到项目？Web Origami提供更优雅的解决方案。提升开发效率，减少维护负担。
+- [Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything) (`simonwillison.net`)
+  - TLDR: Simon Willison 启动新项目，系统整理‘代理工程模式’，已发布《代码成本已趋近于零》和《红绿测试驱动开发》两章，旨在帮助开发者高效利用AI编码代理。
+  - WHAT: 代理工程模式指使用AI编码代理（如Claude Code）进行软件开发的最佳实践，代理能自主生成、执行并迭代代码，区别于非程序员‘氛围编码’，是专业工程师提升效率的新范式。
+  - WHY: AI编码代理使初始代码生成成本几乎为零，挑战传统开发直觉；模式如红绿TDD能引导代理产出更简洁可靠的代码，帮助团队适应新时代。
+  - ACTION: 立即访问项目主页，阅读已发布的模式章节；在项目中使用测试驱动开发以提升AI代理输出质量；订阅博客获取每周更新。
+  - TWEET: 探索AI编码代理新模式！Simon Willison新项目《代理工程模式》已发布，首章‘代码成本趋零’与‘红绿TDD’，助你成为AI时代高效开发者。https://simonwillison.net/guides/agentic-engineering-patterns/
