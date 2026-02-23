@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T15:44:43Z",
+  "generated_at": "2026-02-23T16:15:17Z",
   "days": [
     {
       "date": "2026-02-23",
-      "total": 12,
+      "total": 13,
       "feeds": [
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
         "idiallo.com (1)",
@@ -13,37 +13,42 @@
         "johndcook.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Paul Ford",
         "herman.bearblog.dev · Pockets of Humanity",
         "simonwillison.net · Reply guy",
         "johndcook.com · Tritone substitution",
         "shkspr.mobi · Book Review: A Geography of Time by Robert V. Levine ★★★☆☆",
-        "dfarq.homeip.net · History of Dell computers",
-        "idiallo.com · The Little Red Dot"
+        "dfarq.homeip.net · History of Dell computers"
       ],
       "key_points": [
-        "Pockets of Humanity",
-        "Reply guy",
-        "Tritone substitution",
-        "一本探讨文化时间观差异的混合型著作，数据与轶事并存，虽显陈旧但启发思考"
-      ],
-      "key_points_zh": [
-        "Pockets of Humanity",
-        "Reply guy",
-        "Tritone substitution",
-        "一本探讨文化时间观差异的混合型著作，数据与轶事并存，虽显陈旧但启发思考"
-      ],
-      "key_points_en": [
-        "Pockets of Humanity",
-        "Reply guy",
-        "Tritone substitution",
-        "A hybrid work on cultural differences in time perception, blending data with anecdotes. Dated but thought-provoking"
-      ],
-      "tweet_drafts": [
+        "Quoting Paul Ford",
         "Pockets of Humanity",
         "Reply guy",
         "Tritone substitution"
       ],
+      "key_points_zh": [
+        "Quoting Paul Ford",
+        "Pockets of Humanity",
+        "Reply guy",
+        "Tritone substitution"
+      ],
+      "key_points_en": [
+        "Quoting Paul Ford",
+        "Pockets of Humanity",
+        "Reply guy",
+        "Tritone substitution"
+      ],
+      "tweet_drafts": [
+        "Quoting Paul Ford",
+        "Pockets of Humanity",
+        "Reply guy"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Paul Ford",
+          "link": "https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything"
+        },
         {
           "feed_title": "herman.bearblog.dev",
           "title": "Pockets of Humanity",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Reply guy",
           "link": "https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Tritone substitution",
-          "link": "https://www.johndcook.com/blog/2026/02/23/tritone-sub/"
         }
       ],
-      "summary_zh": "2026-02-23 技术日报：Pockets of Humanity；Reply guy；Tritone substitution。",
-      "summary_en": "Daily brief (2026-02-23): Pockets of Humanity; Reply guy; Tritone substitution.",
+      "summary_zh": "2026-02-23 技术日报：Quoting Paul Ford；Pockets of Humanity；Reply guy。",
+      "summary_en": "Daily brief (2026-02-23): Quoting Paul Ford; Pockets of Humanity; Reply guy.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-23 日报】Pockets of Humanity；Reply guy；Tritone substitution。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-23): Pockets of Humanity; Reply guy; Tritone substitution. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-23 日报】Quoting Paul Ford；Pockets of Humanity；Reply guy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-23): Quoting Paul Ford; Pockets of Humanity; Reply guy. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-23）\n- Pockets of Humanity\n- Reply guy\n- Tritone substitution\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://herman.bearblog.dev/pockets-of-humanity/\n- https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything\n- https://www.johndcook.com/blog/2026/02/23/tritone-sub/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-23)\n- Pockets of Humanity\n- Reply guy\n- Tritone substitution\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://herman.bearblog.dev/pockets-of-humanity/\n- https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything\n- https://www.johndcook.com/blog/2026/02/23/tritone-sub/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-23）\n- Quoting Paul Ford\n- Pockets of Humanity\n- Reply guy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n- https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-23)\n- Quoting Paul Ford\n- Pockets of Humanity\n- Reply guy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n- https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pockets of Humanity；Reply guy；Tritone substitution。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pockets of Humanity; Reply guy; Tritone substitution.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Paul Ford；Pockets of Humanity；Reply guy。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Paul Ford; Pockets of Humanity; Reply guy.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
