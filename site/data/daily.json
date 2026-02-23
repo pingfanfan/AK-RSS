@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T16:15:17Z",
+  "generated_at": "2026-02-23T16:46:58Z",
   "days": [
     {
       "date": "2026-02-23",
-      "total": 13,
+      "total": 14,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
         "idiallo.com (1)",
@@ -13,37 +13,42 @@
         "johndcook.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Writing code is cheap now",
         "simonwillison.net · Quoting Paul Ford",
         "herman.bearblog.dev · Pockets of Humanity",
         "simonwillison.net · Reply guy",
         "johndcook.com · Tritone substitution",
-        "shkspr.mobi · Book Review: A Geography of Time by Robert V. Levine ★★★☆☆",
-        "dfarq.homeip.net · History of Dell computers"
+        "shkspr.mobi · Book Review: A Geography of Time by Robert V. Levine ★★★☆☆"
       ],
       "key_points": [
-        "Quoting Paul Ford",
-        "Pockets of Humanity",
-        "Reply guy",
-        "Tritone substitution"
-      ],
-      "key_points_zh": [
-        "Quoting Paul Ford",
-        "Pockets of Humanity",
-        "Reply guy",
-        "Tritone substitution"
-      ],
-      "key_points_en": [
-        "Quoting Paul Ford",
-        "Pockets of Humanity",
-        "Reply guy",
-        "Tritone substitution"
-      ],
-      "tweet_drafts": [
+        "Writing code is cheap now",
         "Quoting Paul Ford",
         "Pockets of Humanity",
         "Reply guy"
       ],
+      "key_points_zh": [
+        "Writing code is cheap now",
+        "Quoting Paul Ford",
+        "Pockets of Humanity",
+        "Reply guy"
+      ],
+      "key_points_en": [
+        "Writing code is cheap now",
+        "Quoting Paul Ford",
+        "Pockets of Humanity",
+        "Reply guy"
+      ],
+      "tweet_drafts": [
+        "Writing code is cheap now",
+        "Quoting Paul Ford",
+        "Pockets of Humanity"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Writing code is cheap now",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Paul Ford",
@@ -53,27 +58,22 @@
           "feed_title": "herman.bearblog.dev",
           "title": "Pockets of Humanity",
           "link": "https://herman.bearblog.dev/pockets-of-humanity/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Reply guy",
-          "link": "https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-23 技术日报：Quoting Paul Ford；Pockets of Humanity；Reply guy。",
-      "summary_en": "Daily brief (2026-02-23): Quoting Paul Ford; Pockets of Humanity; Reply guy.",
+      "summary_zh": "2026-02-23 技术日报：Writing code is cheap now；Quoting Paul Ford；Pockets of Humanity。",
+      "summary_en": "Daily brief (2026-02-23): Writing code is cheap now; Quoting Paul Ford; Pockets of Humanity.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-23 日报】Quoting Paul Ford；Pockets of Humanity；Reply guy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-23): Quoting Paul Ford; Pockets of Humanity; Reply guy. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-23 日报】Writing code is cheap now；Quoting Paul Ford；Pockets of Humanity。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-23): Writing code is cheap now; Quoting Paul Ford; Pockets of Humanity. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-23）\n- Quoting Paul Ford\n- Pockets of Humanity\n- Reply guy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n- https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-23)\n- Quoting Paul Ford\n- Pockets of Humanity\n- Reply guy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n- https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-23）\n- Writing code is cheap now\n- Quoting Paul Ford\n- Pockets of Humanity\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-23)\n- Writing code is cheap now\n- Quoting Paul Ford\n- Pockets of Humanity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything\n- https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything\n- https://herman.bearblog.dev/pockets-of-humanity/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Paul Ford；Pockets of Humanity；Reply guy。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Paul Ford; Pockets of Humanity; Reply guy.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Writing code is cheap now；Quoting Paul Ford；Pockets of Humanity。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Writing code is cheap now; Quoting Paul Ford; Pockets of Humanity.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
