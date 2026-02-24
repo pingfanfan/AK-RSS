@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:24:50Z",
+  "generated_at": "2026-02-24T19:45:48Z",
   "days": [
     {
       "date": "2026-02-24",
-      "total": 20,
+      "total": 21,
       "feeds": [
-        "daringfireball.net (5)",
+        "daringfireball.net (6)",
         "simonwillison.net (2)",
         "antirez.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "herman.bearblog.dev (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
         "daringfireball.net · FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News",
         "daringfireball.net · An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
         "antirez.com · Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
         "daringfireball.net · How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
-        "daringfireball.net · Times New Resistance",
-        "simonwillison.net · go-size-analyzer"
+        "daringfireball.net · Times New Resistance"
       ],
       "key_points": [
+        "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
         "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-        "爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞"
-      ],
-      "key_points_zh": [
-        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-        "爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞"
-      ],
-      "key_points_en": [
-        "US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-        "Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan Myhrvold, to access top executives like Bill Gates, exposing critical security flaws in executive vetting and social engineering defense at major tech firms"
-      ],
-      "tweet_drafts": [
-        "监管大棒挥向内容算法。FTC信函揭示：平台内容选择不再是纯商业决策，而是公共政策议题。开发者必须将公平性、可解释性嵌入系统设计，否则下一个被点名的可能就是你的产品。 #TechPolicy #AI伦理",
         "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
         "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
       ],
+      "key_points_zh": [
+        "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
+        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
+      ],
+      "key_points_en": [
+        "Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure",
+        "US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance",
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
+      ],
+      "tweet_drafts": [
+        "苹果休斯顿工厂将生产Mac mini和AI服务器，并设培训中心。这标志着美国本土高科技制造与AI基础设施的强化。开发者可关注相关招聘及AI服务器硬件趋势",
+        "监管大棒挥向内容算法。FTC信函揭示：平台内容选择不再是纯商业决策，而是公共政策议题。开发者必须将公平性、可解释性嵌入系统设计，否则下一个被点名的可能就是你的产品。 #TechPolicy #AI伦理",
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
+          "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
           "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/"
-        },
-        {
-          "feed_title": "antirez.com",
-          "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-          "link": "http://antirez.com/news/160"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission；Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code。",
-      "summary_en": "Daily brief (2026-02-24): US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance; An OpenClaw AI Agent Wrote and Published a Hit Piece on a S",
+      "summary_zh": "2026-02-24 技术日报：苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission。",
+      "summary_en": "Daily brief (2026-02-24): Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulator",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission；Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code。我把可执行建",
-          "en": "AK-RSS Daily (2026-02-24): US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance; An OpenClaw AI Agent Wrote and Published a Hit Piece on a"
+          "zh": "【2026-02-24 日报】苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission。我把可执行",
+          "en": "AK-RSS Daily (2026-02-24): Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulato"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- 美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n- Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n- http://antirez.com/news/160\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n- Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n- http://antirez.com/news/160\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- 苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施\n- 美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure\n- US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission；Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance; An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its"
+          "zh": "今天最值得看的 3 个点：苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulator intervenes, alleging Apple News algorithm b"
         }
       }
     },
