@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:43:05Z",
+  "generated_at": "2026-02-24T22:06:06Z",
   "days": [
     {
       "date": "2026-02-24",
-      "total": 21,
+      "total": 22,
       "feeds": [
-        "daringfireball.net (6)",
+        "daringfireball.net (7)",
         "simonwillison.net (2)",
         "antirez.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "herman.bearblog.dev (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple in 2025: The Six Colors Report Card",
         "daringfireball.net · Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
         "daringfireball.net · FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News",
         "daringfireball.net · An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
         "antirez.com · Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-        "daringfireball.net · How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
-        "daringfireball.net · Times New Resistance"
+        "daringfireball.net · How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives"
       ],
       "key_points": [
+        "Apple in 2025: The Six Colors Report Card",
         "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
         "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
-      ],
-      "key_points_zh": [
-        "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
-        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
-      ],
-      "key_points_en": [
-        "Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure",
-        "US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
-      ],
-      "tweet_drafts": [
-        "苹果休斯顿工厂将生产Mac mini和AI服务器，并设培训中心。这标志着美国本土高科技制造与AI基础设施的强化。开发者可关注相关招聘及AI服务器硬件趋势",
-        "监管大棒挥向内容算法。FTC信函揭示：平台内容选择不再是纯商业决策，而是公共政策议题。开发者必须将公平性、可解释性嵌入系统设计，否则下一个被点名的可能就是你的产品。 #TechPolicy #AI伦理",
         "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission"
       ],
+      "key_points_zh": [
+        "Apple in 2025: The Six Colors Report Card",
+        "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
+        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission"
+      ],
+      "key_points_en": [
+        "Apple in 2025: The Six Colors Report Card",
+        "Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure",
+        "US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance",
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission"
+      ],
+      "tweet_drafts": [
+        "Apple in 2025: The Six Colors Report Card",
+        "苹果休斯顿工厂将生产Mac mini和AI服务器，并设培训中心。这标志着美国本土高科技制造与AI基础设施的强化。开发者可关注相关招聘及AI服务器硬件趋势",
+        "监管大棒挥向内容算法。FTC信函揭示：平台内容选择不再是纯商业决策，而是公共政策议题。开发者必须将公平性、可解释性嵌入系统设计，否则下一个被点名的可能就是你的产品。 #TechPolicy #AI伦理"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple in 2025: The Six Colors Report Card",
+          "link": "https://sixcolors.com/post/2026/02/2025reportcard/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News",
           "link": "https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-          "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission。",
-      "summary_en": "Daily brief (2026-02-24): Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulator",
+      "summary_zh": "2026-02-24 技术日报：Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论。",
+      "summary_en": "Daily brief (2026-02-24): Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission。我把可执行",
-          "en": "AK-RSS Daily (2026-02-24): Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulato"
+          "zh": "【2026-02-24 日报】Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-24): Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic suppl"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- 苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施\n- 美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure\n- US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- Apple in 2025: The Six Colors Report Card\n- 苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施\n- 美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- Apple in 2025: The Six Colors Report Card\n- Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure\n- US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论；An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulator intervenes, alleging Apple News algorithm b"
+          "zh": "今天最值得看的 3 个点：Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulator"
         }
       }
     },
