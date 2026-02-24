@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-02-24T11:43:51Z",
+  "generated_at": "2026-02-24T12:08:29Z",
   "days": [
     {
       "date": "2026-02-24",
-      "total": 8,
+      "total": 10,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
+        "herman.bearblog.dev (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "troyhunt.com (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · What happened to Fry’s Electronics",
+        "herman.bearblog.dev · Vulnerability as a Service",
         "nesbitt.io · Reproducible Builds in Language Package Managers",
         "pluralistic.net · Pluralistic: Socialist excellence in New York City (24 Feb 2026)",
         "utcc.utoronto.ca/~cks · Gnome, GSettings, gconf, and which one you want",
-        "johndcook.com · Copy and paste law",
-        "joanwestenberg.com · Agentic swarms are an org-chart delusion",
-        "troyhunt.com · Weekly Update 492"
+        "johndcook.com · Copy and paste law"
       ],
       "key_points": [
+        "What happened to Fry’s Electronics",
+        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限",
         "Reproducible Builds in Language Package Managers",
-        "纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇",
-        "现代GNOME程序使用GSettings/dconf（工具：dconf-editor/gsettings），旧程序使用GConf（工具：gconf-editor/gconftool-2）。选错工具将无法修改配置",
-        "Copy and paste law"
+        "纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇"
       ],
       "key_points_zh": [
+        "What happened to Fry’s Electronics",
+        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限",
         "Reproducible Builds in Language Package Managers",
-        "纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇",
-        "现代GNOME程序使用GSettings/dconf（工具：dconf-editor/gsettings），旧程序使用GConf（工具：gconf-editor/gconftool-2）。选错工具将无法修改配置",
-        "Copy and paste law"
+        "纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇"
       ],
       "key_points_en": [
+        "What happened to Fry’s Electronics",
+        "AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege",
         "Reproducible Builds in Language Package Managers",
-        "NYC replaces outsourcing/PPPs with 'insourcing' via in-house tech teams and AI-driven predictive maintenance, boosting municipal infrastructure efficiency and creating public-sector tech opportunities for developers",
-        "Modern GNOME apps use GSettings/dconf (tools: dconf-editor/gsettings), legacy ones use GConf (tools: gconf-editor/gconftool-2). Using the wrong tool means settings won't change",
-        "Copy and paste law"
+        "NYC replaces outsourcing/PPPs with 'insourcing' via in-house tech teams and AI-driven predictive maintenance, boosting municipal infrastructure efficiency and creating public-sector tech opportunities for developers"
       ],
       "tweet_drafts": [
-        "Reproducible Builds in Language Package Managers",
-        "当城市自己写代码：纽约市终止PPP，用内部团队+AI模型管理路灯水管。效率真相不在外包，而在技术主权。开发者，你们的市政机会来了。#内包革命",
-        "GNOME配置系统演进：GSettings/dconf vs GConf。用错工具=白忙活。现代程序（如gnome-terminal）走新系统，Thunderbird等老程序仍用GConf。命令行工具更高效，修改前记得备份。#开发者 #系统管理"
+        "What happened to Fry’s Electronics",
+        "惊险案例：自动化AI代理被钓鱼，几乎交出OpenAI密钥。根源在于过度信任与配合。立即行动：强制验证、最小权限、监控异常。 #信息安全 #AI",
+        "Reproducible Builds in Language Package Managers"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "What happened to Fry’s Electronics",
+          "link": "https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics"
+        },
+        {
+          "feed_title": "herman.bearblog.dev",
+          "title": "Vulnerability as a Service",
+          "link": "https://herman.bearblog.dev/vulnerability-as-a-service/"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Reproducible Builds in Language Package Managers",
           "link": "https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Socialist excellence in New York City",
-          "link": "https://pluralistic.net/2026/02/24/mamdani-thought/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "GNOME Configuration Systems: GSettings/dconf vs GConf, Which One to Use",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/DconfVsGconfInGnome"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：Reproducible Builds in Language Package Managers；纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇；现代GNOME程序使用GSettings/dconf（工具：dconf-editor/gsettings），旧程序使用GConf（工具：gconf-editor/gconftool-2）。选错工具将无法修改配置。",
-      "summary_en": "Daily brief (2026-02-24): Reproducible Builds in Language Package Managers; NYC replaces outsourcing/PPPs with 'insourcing' via in-house tech teams and AI-driven predictive maintenance, boosting municipal infrastructure efficiency and creating public-sector te",
+      "summary_zh": "2026-02-24 技术日报：What happened to Fry’s Electronics；AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限；Reproducible Builds in Language Package Managers。",
+      "summary_en": "Daily brief (2026-02-24): What happened to Fry’s Electronics; AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege; Reproducible Builds in Language Package Managers.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】Reproducible Builds in Language Package Managers；纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇；现代GNOME程序使用GSettings/dconf（工具：dconf-editor/gsettings），旧程序使用GConf（工具：gconf-editor/gconftool-2）。选错工具将无法修改配置。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI",
-          "en": "AK-RSS Daily (2026-02-24): Reproducible Builds in Language Package Managers; NYC replaces outsourcing/PPPs with 'insourcing' via in-house tech teams and AI-driven predictive maintenance, boosting municipal infrastructure efficiency and creating public-sector t"
+          "zh": "【2026-02-24 日报】What happened to Fry’s Electronics；AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限；Reproducible Builds in Language Package Managers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-24): What happened to Fry’s Electronics; AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege; Reproducible Builds in Language Package Managers. Actio"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- Reproducible Builds in Language Package Managers\n- 纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇\n- 现代GNOME程序使用GSettings/dconf（工具：dconf-editor/gsettings），旧程序使用GConf（工具：gconf-editor/gconftool-2）。选错工具将无法修改配置\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html\n- https://pluralistic.net/2026/02/24/mamdani-thought/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DconfVsGconfInGnome\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- Reproducible Builds in Language Package Managers\n- NYC replaces outsourcing/PPPs with 'insourcing' via in-house tech teams and AI-driven predictive maintenance, boosting municipal infrastructure efficiency and creating public-sector tech opportunities for developers\n- Modern GNOME apps use GSettings/dconf (tools: dconf-editor/gsettings), legacy ones use GConf (tools: gconf-editor/gconftool-2). Using the wrong tool means settings won't change\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html\n- https://pluralistic.net/2026/02/24/mamdani-thought/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DconfVsGconfInGnome\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- What happened to Fry’s Electronics\n- AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限\n- Reproducible Builds in Language Package Managers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n- https://herman.bearblog.dev/vulnerability-as-a-service/\n- https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- What happened to Fry’s Electronics\n- AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege\n- Reproducible Builds in Language Package Managers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n- https://herman.bearblog.dev/vulnerability-as-a-service/\n- https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reproducible Builds in Language Package Managers；纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇；现代GNOME程序使用GSettings/dconf（工具：dconf-editor/gsettings），旧程序使用GConf（工具：gconf-editor/gconftool-2）。选错工具将无法修改配置。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reproducible Builds in Language Package Managers; NYC replaces outsourcing/PPPs with 'insourcing' via in-house tech teams and AI-driven predictive maintenance, boosting municipal infrastructure efficiency and creating public-sector tech opportunities for developers; Modern GNOM"
+          "zh": "今天最值得看的 3 个点：What happened to Fry’s Electronics；AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限；Reproducible Builds in Language Package Managers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What happened to Fry’s Electronics; AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege; Reproducible Builds in Language Package Managers.\nI turned them into an action-ready daily brief you"
         }
       }
     },
