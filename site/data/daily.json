@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-24T13:56:52Z",
+  "generated_at": "2026-02-24T14:22:50Z",
   "days": [
     {
       "date": "2026-02-24",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
@@ -13,37 +13,42 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "steveblank.com · Time to Move On – The Reason Relationships End",
         "shkspr.mobi · Adding OpenStreetMap login to Auth0",
         "simonwillison.net · First run the tests",
         "dfarq.homeip.net · What happened to Fry’s Electronics",
         "herman.bearblog.dev · Vulnerability as a Service",
-        "nesbitt.io · Reproducible Builds in Language Package Managers",
-        "pluralistic.net · Pluralistic: Socialist excellence in New York City (24 Feb 2026)"
+        "nesbitt.io · Reproducible Builds in Language Package Managers"
       ],
       "key_points": [
-        "Adding OpenStreetMap login to Auth0",
-        "First run the tests",
-        "What happened to Fry’s Electronics",
-        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限"
-      ],
-      "key_points_zh": [
-        "Adding OpenStreetMap login to Auth0",
-        "First run the tests",
-        "What happened to Fry’s Electronics",
-        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限"
-      ],
-      "key_points_en": [
-        "Adding OpenStreetMap login to Auth0",
-        "First run the tests",
-        "What happened to Fry’s Electronics",
-        "AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege"
-      ],
-      "tweet_drafts": [
+        "Time to Move On – The Reason Relationships End",
         "Adding OpenStreetMap login to Auth0",
         "First run the tests",
         "What happened to Fry’s Electronics"
       ],
+      "key_points_zh": [
+        "Time to Move On – The Reason Relationships End",
+        "Adding OpenStreetMap login to Auth0",
+        "First run the tests",
+        "What happened to Fry’s Electronics"
+      ],
+      "key_points_en": [
+        "Time to Move On – The Reason Relationships End",
+        "Adding OpenStreetMap login to Auth0",
+        "First run the tests",
+        "What happened to Fry’s Electronics"
+      ],
+      "tweet_drafts": [
+        "Time to Move On – The Reason Relationships End",
+        "Adding OpenStreetMap login to Auth0",
+        "First run the tests"
+      ],
       "sources": [
+        {
+          "feed_title": "steveblank.com",
+          "title": "Time to Move On – The Reason Relationships End",
+          "link": "https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Adding OpenStreetMap login to Auth0",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "First run the tests",
           "link": "https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "What happened to Fry’s Electronics",
-          "link": "https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：Adding OpenStreetMap login to Auth0；First run the tests；What happened to Fry’s Electronics。",
-      "summary_en": "Daily brief (2026-02-24): Adding OpenStreetMap login to Auth0; First run the tests; What happened to Fry’s Electronics.",
+      "summary_zh": "2026-02-24 技术日报：Time to Move On – The Reason Relationships End；Adding OpenStreetMap login to Auth0；First run the tests。",
+      "summary_en": "Daily brief (2026-02-24): Time to Move On – The Reason Relationships End; Adding OpenStreetMap login to Auth0; First run the tests.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】Adding OpenStreetMap login to Auth0；First run the tests；What happened to Fry’s Electronics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-24): Adding OpenStreetMap login to Auth0; First run the tests; What happened to Fry’s Electronics. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-24 日报】Time to Move On – The Reason Relationships End；Adding OpenStreetMap login to Auth0；First run the tests。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-24): Time to Move On – The Reason Relationships End; Adding OpenStreetMap login to Auth0; First run the tests. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- Adding OpenStreetMap login to Auth0\n- First run the tests\n- What happened to Fry’s Electronics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n- https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- Adding OpenStreetMap login to Auth0\n- First run the tests\n- What happened to Fry’s Electronics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n- https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- Time to Move On – The Reason Relationships End\n- Adding OpenStreetMap login to Auth0\n- First run the tests\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n- https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- Time to Move On – The Reason Relationships End\n- Adding OpenStreetMap login to Auth0\n- First run the tests\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n- https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Adding OpenStreetMap login to Auth0；First run the tests；What happened to Fry’s Electronics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Adding OpenStreetMap login to Auth0; First run the tests; What happened to Fry’s Electronics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Time to Move On – The Reason Relationships End；Adding OpenStreetMap login to Auth0；First run the tests。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Time to Move On – The Reason Relationships End; Adding OpenStreetMap login to Auth0; First run the tests.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
