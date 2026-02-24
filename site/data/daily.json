@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-24T12:08:29Z",
+  "generated_at": "2026-02-24T12:46:42Z",
   "days": [
     {
       "date": "2026-02-24",
-      "total": 10,
+      "total": 12,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
@@ -13,67 +13,67 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Adding OpenStreetMap login to Auth0",
+        "simonwillison.net · First run the tests",
         "dfarq.homeip.net · What happened to Fry’s Electronics",
         "herman.bearblog.dev · Vulnerability as a Service",
         "nesbitt.io · Reproducible Builds in Language Package Managers",
-        "pluralistic.net · Pluralistic: Socialist excellence in New York City (24 Feb 2026)",
-        "utcc.utoronto.ca/~cks · Gnome, GSettings, gconf, and which one you want",
-        "johndcook.com · Copy and paste law"
+        "pluralistic.net · Pluralistic: Socialist excellence in New York City (24 Feb 2026)"
       ],
       "key_points": [
+        "Adding OpenStreetMap login to Auth0",
+        "First run the tests",
         "What happened to Fry’s Electronics",
-        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限",
-        "Reproducible Builds in Language Package Managers",
-        "纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇"
+        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限"
       ],
       "key_points_zh": [
+        "Adding OpenStreetMap login to Auth0",
+        "First run the tests",
         "What happened to Fry’s Electronics",
-        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限",
-        "Reproducible Builds in Language Package Managers",
-        "纽约市通过‘内包’取代外包与公私合作，利用内部技术团队和AI预测性维护，提升市政基础设施效率，为开发者提供公共部门技术机遇"
+        "AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限"
       ],
       "key_points_en": [
+        "Adding OpenStreetMap login to Auth0",
+        "First run the tests",
         "What happened to Fry’s Electronics",
-        "AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege",
-        "Reproducible Builds in Language Package Managers",
-        "NYC replaces outsourcing/PPPs with 'insourcing' via in-house tech teams and AI-driven predictive maintenance, boosting municipal infrastructure efficiency and creating public-sector tech opportunities for developers"
+        "AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege"
       ],
       "tweet_drafts": [
-        "What happened to Fry’s Electronics",
-        "惊险案例：自动化AI代理被钓鱼，几乎交出OpenAI密钥。根源在于过度信任与配合。立即行动：强制验证、最小权限、监控异常。 #信息安全 #AI",
-        "Reproducible Builds in Language Package Managers"
+        "Adding OpenStreetMap login to Auth0",
+        "First run the tests",
+        "What happened to Fry’s Electronics"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Adding OpenStreetMap login to Auth0",
+          "link": "https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "First run the tests",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "What happened to Fry’s Electronics",
           "link": "https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics"
-        },
-        {
-          "feed_title": "herman.bearblog.dev",
-          "title": "Vulnerability as a Service",
-          "link": "https://herman.bearblog.dev/vulnerability-as-a-service/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Reproducible Builds in Language Package Managers",
-          "link": "https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：What happened to Fry’s Electronics；AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限；Reproducible Builds in Language Package Managers。",
-      "summary_en": "Daily brief (2026-02-24): What happened to Fry’s Electronics; AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege; Reproducible Builds in Language Package Managers.",
+      "summary_zh": "2026-02-24 技术日报：Adding OpenStreetMap login to Auth0；First run the tests；What happened to Fry’s Electronics。",
+      "summary_en": "Daily brief (2026-02-24): Adding OpenStreetMap login to Auth0; First run the tests; What happened to Fry’s Electronics.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】What happened to Fry’s Electronics；AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限；Reproducible Builds in Language Package Managers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-24): What happened to Fry’s Electronics; AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege; Reproducible Builds in Language Package Managers. Actio"
+          "zh": "【2026-02-24 日报】Adding OpenStreetMap login to Auth0；First run the tests；What happened to Fry’s Electronics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-24): Adding OpenStreetMap login to Auth0; First run the tests; What happened to Fry’s Electronics. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- What happened to Fry’s Electronics\n- AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限\n- Reproducible Builds in Language Package Managers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n- https://herman.bearblog.dev/vulnerability-as-a-service/\n- https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- What happened to Fry’s Electronics\n- AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege\n- Reproducible Builds in Language Package Managers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n- https://herman.bearblog.dev/vulnerability-as-a-service/\n- https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- Adding OpenStreetMap login to Auth0\n- First run the tests\n- What happened to Fry’s Electronics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n- https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- Adding OpenStreetMap login to Auth0\n- First run the tests\n- What happened to Fry’s Electronics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n- https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything\n- https://dfarq.homeip.net/what-happened-to-frys-electronics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-frys-electronics\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What happened to Fry’s Electronics；AI代理因过度信任与配合，易受钓鱼攻击，差点泄露OpenAI等API密钥，需强制验证与最小权限；Reproducible Builds in Language Package Managers。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What happened to Fry’s Electronics; AI agents' over-trust and over-helpfulness make them vulnerable to phishing, risking API key leaks; enforce verification and least privilege; Reproducible Builds in Language Package Managers.\nI turned them into an action-ready daily brief you"
+          "zh": "今天最值得看的 3 个点：Adding OpenStreetMap login to Auth0；First run the tests；What happened to Fry’s Electronics。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Adding OpenStreetMap login to Auth0; First run the tests; What happened to Fry’s Electronics.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
