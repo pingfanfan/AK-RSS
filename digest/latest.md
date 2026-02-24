@@ -1,10 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-24 17:46:45 UTC
+Generated at: 2026-02-24 18:15:12 UTC
 
-- [How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives](https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS) (`daringfireball.net`)
-  - TLDR: 爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞。
-  - WHAT: 事件核心是爱泼斯坦在2009年出狱后，利用与微软高管的长期私人关系（如梅尔沃德为其生日书写下露骨内容并担保），成功渗透微软核心圈，获取公司内部动态（如CEO继任计划）。这本质上是一次针对企业高层的长期社会工程攻击，威胁商业机密与决策安全。
-  - WHY: 对技术读者：1. 安全层面：高管作为企业“ crown jewels”，其社交关系链是攻击入口，现有背景审查与安全意识培训未能覆盖此类长期、非正式关系风险。2. AI/基础设施伦理：高管私人关系可能间接影响AI伦理委员会、云安全等关键部门的独立性与决策，需建立更透明的利益冲突审查机制。
-  - ACTION: 1. 立即审计高管及核心团队的非公开社交关系，建立第三方背景审查常态化机制。2. 在安全培训中加入“社交工程与关系渗透”案例，模拟攻击场景。3. 对涉及敏感技术（如AI模型、基础设施）的决策，强制披露高管与外部人员的关联关系。
-  - TWEET: 爱泼斯坦案例敲响警钟：科技高管私人关系成安全漏洞。梅尔沃德20年交情+生日书担保，盖茨中招。技术团队必须将社交关系纳入威胁模型，定期审计高管背景，防止社会工程攻击。 #信息安全 #AI伦理
+- [An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/) (`daringfireball.net`)
+- [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code](http://antirez.com/news/160) (`antirez.com`)

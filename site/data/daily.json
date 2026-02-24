@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-02-24T17:47:15Z",
+  "generated_at": "2026-02-24T18:15:46Z",
   "days": [
     {
       "date": "2026-02-24",
-      "total": 17,
+      "total": 19,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "simonwillison.net (2)",
+        "antirez.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "herman.bearblog.dev (1)",
-        "joanwestenberg.com (1)"
+        "herman.bearblog.dev (1)"
       ],
       "highlights": [
+        "daringfireball.net · An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+        "antirez.com · Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
         "daringfireball.net · How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
         "daringfireball.net · Times New Resistance",
         "simonwillison.net · go-size-analyzer",
-        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Isolating the Close pathway",
-        "steveblank.com · Time to Move On – The Reason Relationships End",
-        "shkspr.mobi · Adding OpenStreetMap login to Auth0"
+        "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Isolating the Close pathway"
       ],
       "key_points": [
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
         "爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞",
-        "一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险",
-        "go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析",
-        "通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作"
+        "一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险"
       ],
       "key_points_zh": [
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
         "爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞",
-        "一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险",
-        "go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析",
-        "通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作"
+        "一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险"
       ],
       "key_points_en": [
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
         "Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan Myhrvold, to access top executives like Bill Gates, exposing critical security flaws in executive vetting and social engineering defense at major tech firms",
-        "A font disguised as Times New Roman uses ligatures to auto-replace terms like 'ICE' with 'the Goon Squad', highlighting font-level text manipulation risks",
-        "go-size-analyzer is a visualization tool that analyzes the dependency size distribution of Go binaries, available both locally and via a WebAssembly-powered online analyzer",
-        "By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure"
+        "A font disguised as Times New Roman uses ligatures to auto-replace terms like 'ICE' with 'the Goon Squad', highlighting font-level text manipulation risks"
       ],
       "tweet_drafts": [
-        "爱泼斯坦案例敲响警钟：科技高管私人关系成安全漏洞。梅尔沃德20年交情+生日书担保，盖茨中招。技术团队必须将社交关系纳入威胁模型，定期审计高管背景，防止社会工程攻击。 #信息安全 #AI伦理",
-        "字体也能政治表达？Times New Resistance用连字改写文本。技术上巧妙，但想想恶意字体篡改关键指令？#字体技术 #安全讨论",
-        "Go 二进制大小分析神器 go-size-analyzer，树状图直观展示依赖体积，在线版即开即用。优化二进制体积，从理解构成开始。https://gsa.zxilly.dev"
+        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+        "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
+        "爱泼斯坦案例敲响警钟：科技高管私人关系成安全漏洞。梅尔沃德20年交情+生日书担保，盖茨中招。技术团队必须将社交关系纳入威胁模型，定期审计高管背景，防止社会工程攻击。 #信息安全 #AI伦理"
       ],
       "sources": [
         {
           "feed_title": "daringfireball.net",
-          "title": "How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
-          "link": "https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS"
+          "title": "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
+          "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/"
+        },
+        {
+          "feed_title": "antirez.com",
+          "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
+          "link": "http://antirez.com/news/160"
         },
         {
           "feed_title": "daringfireball.net",
-          "title": "Times New Resistance",
-          "link": "https://www.abbyhaddican.com/times-new-resistance"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Go Binary Size Analyzer",
-          "link": "https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything"
+          "title": "How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
+          "link": "https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞；一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险；go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析。",
-      "summary_en": "Daily brief (2026-02-24): Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan Myhrvold, to access top executives like Bill Gates, exposing critical security flaws in executive vetting and social engineering defense at major te",
+      "summary_zh": "2026-02-24 技术日报：An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission；Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code；爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露",
+      "summary_en": "Daily brief (2026-02-24): An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission; Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code; Epstein leveraged a 20-year relationship, n",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞；一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险；go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析。我把可执行建议整理好了，欢迎转发讨论。#技术趋势",
-          "en": "AK-RSS Daily (2026-02-24): Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan Myhrvold, to access top executives like Bill Gates, exposing critical security flaws in executive vetting and social engineering defense at major t"
+          "zh": "【2026-02-24 日报】An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission；Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code；爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了",
+          "en": "AK-RSS Daily (2026-02-24): An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission; Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code; Epstein leveraged a 20-year relationship,"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- 爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞\n- 一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险\n- go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS\n- https://www.abbyhaddican.com/times-new-resistance\n- https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan Myhrvold, to access top executives like Bill Gates, exposing critical security flaws in executive vetting and social engineering defense at major tech firms\n- A font disguised as Times New Roman uses ligatures to auto-replace terms like 'ICE' with 'the Goon Squad', highlighting font-level text manipulation risks\n- go-size-analyzer is a visualization tool that analyzes the dependency size distribution of Go binaries, available both locally and via a WebAssembly-powered online analyzer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS\n- https://www.abbyhaddican.com/times-new-resistance\n- https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n- Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code\n- 爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n- http://antirez.com/news/160\n- https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission\n- Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code\n- Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan Myhrvold, to access top executives like Bill Gates, exposing critical security flaws in executive vetting and social engineering defense at major tech firms\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n- http://antirez.com/news/160\n- https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞；一款伪装成Times New Roman的字体，通过连字技术自动将'ICE'替换为'the Goon Squad'等敏感词，展示字体层的文本操纵风险；go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan Myhrvold, to access top executives like Bill Gates, exposing critical security flaws in executive vetting and social engineering defense at major tech firms; A font disguised as Times New Roma"
+          "zh": "今天最值得看的 3 个点：An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission；Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code；爱泼斯坦通过长达20年的关系网，特别是借助前微软CTO纳森·梅尔沃德的引荐，成功接触比尔·盖茨等核心高管，暴露了科技巨头在高管背景审查与社交工程防御上的严重安全漏洞。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission; Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code; Epstein leveraged a 20-year relationship, notably through former Microsoft CTO Nathan M"
         }
       }
     },
