@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-24T15:46:48Z",
+  "generated_at": "2026-02-24T16:18:49Z",
   "days": [
     {
       "date": "2026-02-24",
-      "total": 14,
+      "total": 15,
       "feeds": [
+        "simonwillison.net (2)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · go-size-analyzer",
         "devblogs.microsoft.com/oldnewthing · Customizing the ways the dialog manager dismisses itself: Isolating the Close pathway",
         "steveblank.com · Time to Move On – The Reason Relationships End",
         "shkspr.mobi · Adding OpenStreetMap login to Auth0",
         "simonwillison.net · First run the tests",
-        "dfarq.homeip.net · What happened to Fry’s Electronics",
-        "herman.bearblog.dev · Vulnerability as a Service"
+        "dfarq.homeip.net · What happened to Fry’s Electronics"
       ],
       "key_points": [
+        "go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析",
         "通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作",
-        "Time to Move On – The Reason Relationships End",
-        "Adding OpenStreetMap login to Auth0",
-        "First run the tests"
-      ],
-      "key_points_zh": [
-        "通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作",
-        "Time to Move On – The Reason Relationships End",
-        "Adding OpenStreetMap login to Auth0",
-        "First run the tests"
-      ],
-      "key_points_en": [
-        "By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure",
-        "Time to Move On – The Reason Relationships End",
-        "Adding OpenStreetMap login to Auth0",
-        "First run the tests"
-      ],
-      "tweet_drafts": [
-        "对话框关闭不再失控：利用WM_COMMAND/IDCANCEL拦截，自定义Windows应用关闭逻辑。安全、灵活，提升用户体验。#编程 #Windows",
         "Time to Move On – The Reason Relationships End",
         "Adding OpenStreetMap login to Auth0"
       ],
+      "key_points_zh": [
+        "go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析",
+        "通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作",
+        "Time to Move On – The Reason Relationships End",
+        "Adding OpenStreetMap login to Auth0"
+      ],
+      "key_points_en": [
+        "go-size-analyzer is a visualization tool that analyzes the dependency size distribution of Go binaries, available both locally and via a WebAssembly-powered online analyzer",
+        "By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure",
+        "Time to Move On – The Reason Relationships End",
+        "Adding OpenStreetMap login to Auth0"
+      ],
+      "tweet_drafts": [
+        "Go 二进制大小分析神器 go-size-analyzer，树状图直观展示依赖体积，在线版即开即用。优化二进制体积，从理解构成开始。https://gsa.zxilly.dev",
+        "对话框关闭不再失控：利用WM_COMMAND/IDCANCEL拦截，自定义Windows应用关闭逻辑。安全、灵活，提升用户体验。#编程 #Windows",
+        "Time to Move On – The Reason Relationships End"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Go Binary Size Analyzer",
+          "link": "https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "Customizing Dialog Manager Dismissal: Isolating the Close Pathway",
@@ -53,27 +58,22 @@
           "feed_title": "steveblank.com",
           "title": "Time to Move On – The Reason Relationships End",
           "link": "https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Adding OpenStreetMap login to Auth0",
-          "link": "https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作；Time to Move On – The Reason Relationships End；Adding OpenStreetMap login to Auth0。",
-      "summary_en": "Daily brief (2026-02-24): By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure; Time to Move On – The Reason Relationships End; Adding OpenStreetMap login to Aut",
+      "summary_zh": "2026-02-24 技术日报：go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析；通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作；Time to Move On – The Reason Relationships End。",
+      "summary_en": "Daily brief (2026-02-24): go-size-analyzer is a visualization tool that analyzes the dependency size distribution of Go binaries, available both locally and via a WebAssembly-powered online analyzer; By handling WM_COMMAND/IDCANCEL, developers can precisely co",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作；Time to Move On – The Reason Relationships End；Adding OpenStreetMap login to Auth0。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-24): By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure; Time to Move On – The Reason Relationships End; Adding OpenStreetMap login to Au"
+          "zh": "【2026-02-24 日报】go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析；通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作；Time to Move On – The Reason Relationships End。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-24): go-size-analyzer is a visualization tool that analyzes the dependency size distribution of Go binaries, available both locally and via a WebAssembly-powered online analyzer; By handling WM_COMMAND/IDCANCEL, developers can precisely c"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- 通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作\n- Time to Move On – The Reason Relationships End\n- Adding OpenStreetMap login to Auth0\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082\n- https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure\n- Time to Move On – The Reason Relationships End\n- Adding OpenStreetMap login to Auth0\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082\n- https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/\n- https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析\n- 通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作\n- Time to Move On – The Reason Relationships End\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082\n- https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- go-size-analyzer is a visualization tool that analyzes the dependency size distribution of Go binaries, available both locally and via a WebAssembly-powered online analyzer\n- By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure\n- Time to Move On – The Reason Relationships End\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082\n- https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作；Time to Move On – The Reason Relationships End；Adding OpenStreetMap login to Auth0。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable ESC/Close button to prevent accidental closure; Time to Move On – The Reason Relationships End; Adding OpenStreetMap login to Auth0.\nI turned them into an action-ready daily"
+          "zh": "今天最值得看的 3 个点：go-size-analyzer 是一个可视化工具，用于分析 Go 二进制文件的依赖大小分布，支持本地运行和浏览器在线分析；通过处理WM_COMMAND/IDCANCEL消息，开发者可精确控制Windows对话框的关闭行为，例如禁用ESC键或关闭按钮，防止误操作；Time to Move On – The Reason Relationships End。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: go-size-analyzer is a visualization tool that analyzes the dependency size distribution of Go binaries, available both locally and via a WebAssembly-powered online analyzer; By handling WM_COMMAND/IDCANCEL, developers can precisely control Windows dialog dismissal—e.g., disable"
         }
       }
     },
