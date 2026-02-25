@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T22:04:37Z",
+  "generated_at": "2026-02-25T22:43:17Z",
   "days": [
     {
       "date": "2026-02-25",
-      "total": 18,
+      "total": 19,
       "feeds": [
-        "daringfireball.net (4)",
+        "daringfireball.net (5)",
         "simonwillison.net (4)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
@@ -13,37 +13,42 @@
         "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · The Talk Show: ‘Serious Opinionators’",
         "simonwillison.net · tldraw issue: Move tests to closed source repo",
         "daringfireball.net · Samsung Galaxy S26 Ultra’s Privacy Display",
         "simonwillison.net · Claude Code Remote Control",
         "daringfireball.net · ★ My 2025 Apple Report Card",
-        "simonwillison.net · I vibe coded my dream macOS presentation app",
-        "daringfireball.net · Major Candy Brands Are Switching From Actual Chocolate to ‘Chocolately Candy’ (Read: Brown Candle Wax)"
+        "simonwillison.net · I vibe coded my dream macOS presentation app"
       ],
       "key_points": [
+        "The Talk Show: ‘Serious Opinionators’",
         "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
-        "Samsung Galaxy S26 Ultra’s Privacy Display",
-        "Claude Code Remote Control",
-        "★ My 2025 Apple Report Card"
-      ],
-      "key_points_zh": [
-        "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
-        "Samsung Galaxy S26 Ultra’s Privacy Display",
-        "Claude Code Remote Control",
-        "★ My 2025 Apple Report Card"
-      ],
-      "key_points_en": [
-        "Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models",
-        "Samsung Galaxy S26 Ultra’s Privacy Display",
-        "Claude Code Remote Control",
-        "★ My 2025 Apple Report Card"
-      ],
-      "tweet_drafts": [
-        "AI通过测试复现代码的能力，正在重塑开源规则。tldraw的应对：隐藏测试套件。这引发深层问题：当‘可复现性’成为威胁，开源该开放到什么程度？技术社区需共同定义新边界",
         "Samsung Galaxy S26 Ultra’s Privacy Display",
         "Claude Code Remote Control"
       ],
+      "key_points_zh": [
+        "The Talk Show: ‘Serious Opinionators’",
+        "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
+        "Samsung Galaxy S26 Ultra’s Privacy Display",
+        "Claude Code Remote Control"
+      ],
+      "key_points_en": [
+        "The Talk Show: ‘Serious Opinionators’",
+        "Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models",
+        "Samsung Galaxy S26 Ultra’s Privacy Display",
+        "Claude Code Remote Control"
+      ],
+      "tweet_drafts": [
+        "The Talk Show: ‘Serious Opinionators’",
+        "AI通过测试复现代码的能力，正在重塑开源规则。tldraw的应对：隐藏测试套件。这引发深层问题：当‘可复现性’成为威胁，开源该开放到什么程度？技术社区需共同定义新边界",
+        "Samsung Galaxy S26 Ultra’s Privacy Display"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "The Talk Show: ‘Serious Opinionators’",
+          "link": "https://daringfireball.net/thetalkshow/2026/02/25/ep-441"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "New Open Source Challenge in AI Era: tldraw Moves Tests Private Over Replication Risk",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Samsung Galaxy S26 Ultra’s Privacy Display",
           "link": "https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Claude Code Remote Control",
-          "link": "https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-25 技术日报：知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display；Claude Code Remote Control。",
-      "summary_en": "Daily brief (2026-02-25): Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business m",
+      "summary_zh": "2026-02-25 技术日报：The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display。",
+      "summary_en": "Daily brief (2026-02-25): The Talk Show: ‘Serious Opinionators’; Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-25 日报】知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display；Claude Code Remote Control。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-25): Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business"
+          "zh": "【2026-02-25 日报】The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-25): The Talk Show: ‘Serious Opinionators’; Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-25）\n- 知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击\n- Samsung Galaxy S26 Ultra’s Privacy Display\n- Claude Code Remote Control\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n- https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/\n- https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-25)\n- Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models\n- Samsung Galaxy S26 Ultra’s Privacy Display\n- Claude Code Remote Control\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n- https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/\n- https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-25）\n- The Talk Show: ‘Serious Opinionators’\n- 知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击\n- Samsung Galaxy S26 Ultra’s Privacy Display\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n- https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-25)\n- The Talk Show: ‘Serious Opinionators’\n- Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models\n- Samsung Galaxy S26 Ultra’s Privacy Display\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n- https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display；Claude Code Remote Control。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models; Samsung Galaxy S26 Ultra’s Privacy Di"
+          "zh": "今天最值得看的 3 个点：The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Talk Show: ‘Serious Opinionators’; Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models"
         }
       }
     },
