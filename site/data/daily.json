@@ -1,49 +1,110 @@
 {
-  "generated_at": "2026-02-24T22:42:47Z",
+  "generated_at": "2026-02-25T06:20:28Z",
   "days": [
     {
+      "date": "2026-02-25",
+      "total": 2,
+      "feeds": [
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Kellan Elliott-McCrea",
+        "joanwestenberg.com · Everything is awesome (why I'm an optimist)"
+      ],
+      "key_points": [
+        "Quoting Kellan Elliott-McCrea",
+        "Everything is awesome (why I'm an optimist)"
+      ],
+      "key_points_zh": [
+        "Quoting Kellan Elliott-McCrea",
+        "Everything is awesome (why I'm an optimist)"
+      ],
+      "key_points_en": [
+        "Quoting Kellan Elliott-McCrea",
+        "Everything is awesome (why I'm an optimist)"
+      ],
+      "tweet_drafts": [
+        "Quoting Kellan Elliott-McCrea",
+        "Everything is awesome (why I'm an optimist)"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Kellan Elliott-McCrea",
+          "link": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Everything is awesome (why I'm an optimist)",
+          "link": "https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/"
+        }
+      ],
+      "summary_zh": "2026-02-25 技术日报：Quoting Kellan Elliott-McCrea；Everything is awesome (why I'm an optimist)。",
+      "summary_en": "Daily brief (2026-02-25): Quoting Kellan Elliott-McCrea; Everything is awesome (why I'm an optimist).",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-02-25 日报】Quoting Kellan Elliott-McCrea；Everything is awesome (why I'm an optimist)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-25): Quoting Kellan Elliott-McCrea; Everything is awesome (why I'm an optimist). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-02-25）\n- Quoting Kellan Elliott-McCrea\n- Everything is awesome (why I'm an optimist)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything\n- https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-25)\n- Quoting Kellan Elliott-McCrea\n- Everything is awesome (why I'm an optimist)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything\n- https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Quoting Kellan Elliott-McCrea；Everything is awesome (why I'm an optimist)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Kellan Elliott-McCrea; Everything is awesome (why I'm an optimist).\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-02-24",
-      "total": 22,
+      "total": 23,
       "feeds": [
         "daringfireball.net (7)",
+        "johndcook.com (2)",
         "simonwillison.net (2)",
         "antirez.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "herman.bearblog.dev (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "johndcook.com · A curious trig identity",
         "daringfireball.net · Apple in 2025: The Six Colors Report Card",
         "daringfireball.net · Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
         "daringfireball.net · FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News",
         "daringfireball.net · An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "antirez.com · Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-        "daringfireball.net · How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives"
+        "antirez.com · Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
       ],
       "key_points": [
+        "A curious trig identity",
         "Apple in 2025: The Six Colors Report Card",
         "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
-        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission"
+        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论"
       ],
       "key_points_zh": [
+        "A curious trig identity",
         "Apple in 2025: The Six Colors Report Card",
         "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
-        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission"
+        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论"
       ],
       "key_points_en": [
+        "A curious trig identity",
         "Apple in 2025: The Six Colors Report Card",
         "Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure",
-        "US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance",
-        "An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission"
+        "US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance"
       ],
       "tweet_drafts": [
+        "A curious trig identity",
         "Apple in 2025: The Six Colors Report Card",
-        "苹果休斯顿工厂将生产Mac mini和AI服务器，并设培训中心。这标志着美国本土高科技制造与AI基础设施的强化。开发者可关注相关招聘及AI服务器硬件趋势",
-        "监管大棒挥向内容算法。FTC信函揭示：平台内容选择不再是纯商业决策，而是公共政策议题。开发者必须将公平性、可解释性嵌入系统设计，否则下一个被点名的可能就是你的产品。 #TechPolicy #AI伦理"
+        "苹果休斯顿工厂将生产Mac mini和AI服务器，并设培训中心。这标志着美国本土高科技制造与AI基础设施的强化。开发者可关注相关招聘及AI服务器硬件趋势"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "A curious trig identity",
+          "link": "https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Apple in 2025: The Six Colors Report Card",
@@ -53,27 +114,22 @@
           "feed_title": "daringfireball.net",
           "title": "Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
           "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News",
-          "link": "https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/"
         }
       ],
-      "summary_zh": "2026-02-24 技术日报：Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论。",
-      "summary_en": "Daily brief (2026-02-24): Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply",
+      "summary_zh": "2026-02-24 技术日报：A curious trig identity；Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施。",
+      "summary_en": "Daily brief (2026-02-24): A curious trig identity; Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center t",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-24 日报】Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-24): Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic suppl"
+          "zh": "【2026-02-24 日报】A curious trig identity；Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-24): A curious trig identity; Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- Apple in 2025: The Six Colors Report Card\n- 苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施\n- 美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- Apple in 2025: The Six Colors Report Card\n- Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure\n- US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n- https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-24）\n- A curious trig identity\n- Apple in 2025: The Six Colors Report Card\n- 苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-24)\n- A curious trig identity\n- Apple in 2025: The Six Colors Report Card\n- Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施；美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure; US regulator"
+          "zh": "今天最值得看的 3 个点：A curious trig identity；Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A curious trig identity; Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infr"
         }
       }
     },
