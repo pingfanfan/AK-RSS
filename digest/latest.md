@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-25 17:20:35 UTC
+Generated at: 2026-02-25 17:47:09 UTC
 
-- [I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything) (`simonwillison.net`)
+- [Claude Code Remote Control](https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything) (`simonwillison.net`)
