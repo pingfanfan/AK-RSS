@@ -1,5 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-25 21:07:31 UTC
+Generated at: 2026-02-25 21:42:54 UTC
 
-- [Samsung Galaxy S26 Ultra’s Privacy Display](https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/) (`daringfireball.net`)
+- [tldraw issue: Move tests to closed source repo](https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything) (`simonwillison.net`)
+  - TLDR: 知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。
+  - WHAT: 事件：tldraw项目将其测试代码从公开GitHub仓库迁移至私有仓库。背景：Cloudflare曾用AI在一周内基于Next.js测试复现了Vite移植版本，证明测试集是项目的完整“蓝图”。tldraw虽使用自定义许可证（生产环境需商业许可），但此举仍引发关于开源定义的讨论。
+  - WHY: 核心原因：AI能通过测试用例反推实现逻辑，使测试套件成为比源码更危险的“泄露物”。对依赖“开放核心”或商业许可的开源项目（如tldraw），测试集公开等于免费提供竞争对手的复现指南。这动摇了“源码公开即透明”的传统假设，迫使项目重新评估开放边界。
+  - ACTION: 行动建议：1. 评估测试集是否包含核心算法逻辑，考虑分层开源（仅公开部分测试）。2. 对关键测试添加模糊化或使用合成数据。3. 在许可证中明确测试代码的归属与使用限制。4. 监控AI复现技术进展，定期审查开放策略。5. 社区讨论：你的项目会如何应对？
+  - TWEET: AI通过测试复现代码的能力，正在重塑开源规则。tldraw的应对：隐藏测试套件。这引发深层问题：当‘可复现性’成为威胁，开源该开放到什么程度？技术社区需共同定义新边界。
