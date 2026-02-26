@@ -1,49 +1,126 @@
 {
-  "generated_at": "2026-02-25T22:43:17Z",
+  "generated_at": "2026-02-26T06:18:44Z",
   "days": [
     {
-      "date": "2026-02-25",
-      "total": 19,
+      "date": "2026-02-26",
+      "total": 4,
       "feeds": [
-        "daringfireball.net (5)",
+        "eli.thegreenplace.net (1)",
+        "joanwestenberg.com (1)",
+        "johndcook.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
+        "eli.thegreenplace.net · Notes on Linear Algebra for Polynomials",
+        "joanwestenberg.com · Members Only: Your anonymity set has collapsed and you don't know it yet",
+        "johndcook.com · Hyperbolic versions of latest posts"
+      ],
+      "key_points": [
+        "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+        "Notes on Linear Algebra for Polynomials",
+        "Members Only: Your anonymity set has collapsed and you don't know it yet",
+        "通过双曲函数类比三角恒等式，并用Python代码验证，快速掌握数学转换规律"
+      ],
+      "key_points_zh": [
+        "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+        "Notes on Linear Algebra for Polynomials",
+        "Members Only: Your anonymity set has collapsed and you don't know it yet",
+        "通过双曲函数类比三角恒等式，并用Python代码验证，快速掌握数学转换规律"
+      ],
+      "key_points_en": [
+        "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+        "Notes on Linear Algebra for Polynomials",
+        "Members Only: Your anonymity set has collapsed and you don't know it yet",
+        "Analogize trig identities to hyperbolic ones with Python validation for quick math pattern mastery"
+      ],
+      "tweet_drafts": [
+        "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+        "Notes on Linear Algebra for Polynomials",
+        "Members Only: Your anonymity set has collapsed and you don't know it yet"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
+          "link": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything"
+        },
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Notes on Linear Algebra for Polynomials",
+          "link": "https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Members Only: Your anonymity set has collapsed and you don't know it yet",
+          "link": "https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/"
+        }
+      ],
+      "summary_zh": "2026-02-26 技术日报：Google API Keys Weren't Secrets. But then Gemini Changed the Rules；Notes on Linear Algebra for Polynomials；Members Only: Your anonymity set has collapsed and you don't know it yet。",
+      "summary_en": "Daily brief (2026-02-26): Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Notes on Linear Algebra for Polynomials; Members Only: Your anonymity set has collapsed and you don't know it yet.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-02-26 日报】Google API Keys Weren't Secrets. But then Gemini Changed the Rules；Notes on Linear Algebra for Polynomials；Members Only: Your anonymity set has collapsed and you don't know it yet。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-26): Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Notes on Linear Algebra for Polynomials; Members Only: Your anonymity set has collapsed and you don't know it yet. Actionable takeaways included. What would you ship"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-02-26）\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- Notes on Linear Algebra for Polynomials\n- Members Only: Your anonymity set has collapsed and you don't know it yet\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/\n- https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-26)\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- Notes on Linear Algebra for Polynomials\n- Members Only: Your anonymity set has collapsed and you don't know it yet\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/\n- https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Google API Keys Weren't Secrets. But then Gemini Changed the Rules；Notes on Linear Algebra for Polynomials；Members Only: Your anonymity set has collapsed and you don't know it yet。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Notes on Linear Algebra for Polynomials; Members Only: Your anonymity set has collapsed and you don't know it yet.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-02-25",
+      "total": 22,
+      "feeds": [
+        "daringfireball.net (6)",
         "simonwillison.net (4)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "joanwestenberg.com (1)"
+        "geohot.github.io (1)",
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · ‘H-Bomb: A Frank Lloyd Wright Typographic Mystery’",
         "daringfireball.net · The Talk Show: ‘Serious Opinionators’",
         "simonwillison.net · tldraw issue: Move tests to closed source repo",
         "daringfireball.net · Samsung Galaxy S26 Ultra’s Privacy Display",
         "simonwillison.net · Claude Code Remote Control",
-        "daringfireball.net · ★ My 2025 Apple Report Card",
-        "simonwillison.net · I vibe coded my dream macOS presentation app"
+        "daringfireball.net · ★ My 2025 Apple Report Card"
       ],
       "key_points": [
+        "文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误",
         "The Talk Show: ‘Serious Opinionators’",
         "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
-        "Samsung Galaxy S26 Ultra’s Privacy Display",
-        "Claude Code Remote Control"
-      ],
-      "key_points_zh": [
-        "The Talk Show: ‘Serious Opinionators’",
-        "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
-        "Samsung Galaxy S26 Ultra’s Privacy Display",
-        "Claude Code Remote Control"
-      ],
-      "key_points_en": [
-        "The Talk Show: ‘Serious Opinionators’",
-        "Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models",
-        "Samsung Galaxy S26 Ultra’s Privacy Display",
-        "Claude Code Remote Control"
-      ],
-      "tweet_drafts": [
-        "The Talk Show: ‘Serious Opinionators’",
-        "AI通过测试复现代码的能力，正在重塑开源规则。tldraw的应对：隐藏测试套件。这引发深层问题：当‘可复现性’成为威胁，开源该开放到什么程度？技术社区需共同定义新边界",
         "Samsung Galaxy S26 Ultra’s Privacy Display"
       ],
+      "key_points_zh": [
+        "文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误",
+        "The Talk Show: ‘Serious Opinionators’",
+        "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
+        "Samsung Galaxy S26 Ultra’s Privacy Display"
+      ],
+      "key_points_en": [
+        "Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar glyphs",
+        "The Talk Show: ‘Serious Opinionators’",
+        "Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models",
+        "Samsung Galaxy S26 Ultra’s Privacy Display"
+      ],
+      "tweet_drafts": [
+        "你遇到过字形混淆导致的UI问题吗？比如把‘H’看成‘P’？赖特这个案例提醒我们：字体渲染的细节绝不能马虎。分享你的经历👇 #开发者 #排版",
+        "The Talk Show: ‘Serious Opinionators’",
+        "AI通过测试复现代码的能力，正在重塑开源规则。tldraw的应对：隐藏测试套件。这引发深层问题：当‘可复现性’成为威胁，开源该开放到什么程度？技术社区需共同定义新边界"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+          "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The Talk Show: ‘Serious Opinionators’",
@@ -53,27 +130,22 @@
           "feed_title": "simonwillison.net",
           "title": "New Open Source Challenge in AI Era: tldraw Moves Tests Private Over Replication Risk",
           "link": "https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Samsung Galaxy S26 Ultra’s Privacy Display",
-          "link": "https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/"
         }
       ],
-      "summary_zh": "2026-02-25 技术日报：The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display。",
-      "summary_en": "Daily brief (2026-02-25): The Talk Show: ‘Serious Opinionators’; Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-",
+      "summary_zh": "2026-02-25 技术日报：文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误；The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。",
+      "summary_en": "Daily brief (2026-02-25): Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-25 日报】The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-25): The Talk Show: ‘Serious Opinionators’; Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI"
+          "zh": "【2026-02-25 日报】文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误；The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-25): Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-25）\n- The Talk Show: ‘Serious Opinionators’\n- 知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击\n- Samsung Galaxy S26 Ultra’s Privacy Display\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n- https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-25)\n- The Talk Show: ‘Serious Opinionators’\n- Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models\n- Samsung Galaxy S26 Ultra’s Privacy Display\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n- https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-25）\n- 文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误\n- The Talk Show: ‘Serious Opinionators’\n- 知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-25)\n- Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar glyphs\n- The Talk Show: ‘Serious Opinionators’\n- Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击；Samsung Galaxy S26 Ultra’s Privacy Display。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Talk Show: ‘Serious Opinionators’; Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models"
+          "zh": "今天最值得看的 3 个点：文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误；The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar glyphs; The Talk Show: ‘Serious Opinionators"
         }
       }
     },
