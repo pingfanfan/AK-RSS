@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-02-26T16:46:26Z",
+  "generated_at": "2026-02-26T17:22:09Z",
   "days": [
     {
       "date": "2026-02-26",
-      "total": 10,
+      "total": 13,
       "feeds": [
         "berthub.eu (1)",
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling",
+        "wheresyoured.at · On NVIDIA and Analyslop",
         "berthub.eu · Amerika runt binnenkort onze BTW",
         "shkspr.mobi · This time is different",
         "dfarq.homeip.net · Pentium III launched Feb 28, 1999",
-        "pluralistic.net · Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
-        "nesbitt.io · Git in Postgres",
-        "simonwillison.net · Google API Keys Weren't Secrets. But then Gemini Changed the Rules."
+        "pluralistic.net · Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)"
       ],
       "key_points": [
+        "纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律",
+        "On NVIDIA and Analyslop",
         "荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机",
-        "This time is different",
-        "Pentium III launched Feb 28, 1999",
-        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)"
+        "This time is different"
       ],
       "key_points_zh": [
+        "纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律",
+        "On NVIDIA and Analyslop",
         "荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机",
-        "This time is different",
-        "Pentium III launched Feb 28, 1999",
-        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)"
+        "This time is different"
       ],
       "key_points_en": [
+        "NY AG sues Valve, alleging its loot boxes are illegal gambling that addicts children, violating state law",
+        "On NVIDIA and Analyslop",
         "Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis",
-        "This time is different",
-        "Pentium III launched Feb 28, 1999",
-        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)"
+        "This time is different"
       ],
       "tweet_drafts": [
-        "当国家核心税务系统外包给美国企业，数据主权何在？GDPR跨境限制如何绕过？开发者需在架构设计阶段嵌入合规与主权要求，而非事后补救",
-        "This time is different",
-        "Pentium III launched Feb 28, 1999"
+        "战利品箱再引法律风暴。纽约指控Valve：随机开箱=赌博，危害未成年人。技术团队需紧急评估：概率公示是否充分？防沉迷是否到位？盈利设计能否剥离赌博属性？#游戏开发 #合规",
+        "On NVIDIA and Analyslop",
+        "当国家核心税务系统外包给美国企业，数据主权何在？GDPR跨境限制如何绕过？开发者需在架构设计阶段嵌入合规与主权要求，而非事后补救"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling",
+          "link": "https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/"
+        },
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "On NVIDIA and Analyslop",
+          "link": "https://www.wheresyoured.at/on-nvidia-and-analyslop/"
+        },
         {
           "feed_title": "berthub.eu",
           "title": "America to Soon Manage Our VAT System",
           "link": "https://berthub.eu/articles/posts/btw-as-an-american-service/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "This time is different",
-          "link": "https://shkspr.mobi/blog/2026/02/this-time-is-different/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Pentium III launched Feb 28, 1999",
-          "link": "https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999"
         }
       ],
-      "summary_zh": "2026-02-26 技术日报：荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机；This time is different；Pentium III launched Feb 28, 1999。",
-      "summary_en": "Daily brief (2026-02-26): Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis; This time is different; Pentium III launched Feb 28, 1999.",
+      "summary_zh": "2026-02-26 技术日报：纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律；On NVIDIA and Analyslop；荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机。",
+      "summary_en": "Daily brief (2026-02-26): NY AG sues Valve, alleging its loot boxes are illegal gambling that addicts children, violating state law; On NVIDIA and Analyslop; Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sov",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-26 日报】荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机；This time is different；Pentium III launched Feb 28, 1999。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-26): Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis; This time is different; Pentium III launched Feb 28, 1999. Actionable takeaways included. What w"
+          "zh": "【2026-02-26 日报】纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律；On NVIDIA and Analyslop；荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-26): NY AG sues Valve, alleging its loot boxes are illegal gambling that addicts children, violating state law; On NVIDIA and Analyslop; Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data so"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-26）\n- 荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机\n- This time is different\n- Pentium III launched Feb 28, 1999\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/btw-as-an-american-service/\n- https://shkspr.mobi/blog/2026/02/this-time-is-different/\n- https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-26)\n- Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis\n- This time is different\n- Pentium III launched Feb 28, 1999\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/btw-as-an-american-service/\n- https://shkspr.mobi/blog/2026/02/this-time-is-different/\n- https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-26）\n- 纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律\n- On NVIDIA and Analyslop\n- 荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/\n- https://www.wheresyoured.at/on-nvidia-and-analyslop/\n- https://berthub.eu/articles/posts/btw-as-an-american-service/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-26)\n- NY AG sues Valve, alleging its loot boxes are illegal gambling that addicts children, violating state law\n- On NVIDIA and Analyslop\n- Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/\n- https://www.wheresyoured.at/on-nvidia-and-analyslop/\n- https://berthub.eu/articles/posts/btw-as-an-american-service/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机；This time is different；Pentium III launched Feb 28, 1999。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis; This time is different; Pentium III launched Feb 28, 1999.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律；On NVIDIA and Analyslop；荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: NY AG sues Valve, alleging its loot boxes are illegal gambling that addicts children, violating state law; On NVIDIA and Analyslop; Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis.\nI turned"
         }
       }
     },
