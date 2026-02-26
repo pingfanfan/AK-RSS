@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T21:41:19Z",
+  "generated_at": "2026-02-26T22:43:19Z",
   "days": [
     {
       "date": "2026-02-26",
-      "total": 19,
+      "total": 21,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "simonwillison.net (3)",
         "berthub.eu (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "eli.thegreenplace.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · iPhone and iPad Approved to Handle Classified NATO Information",
         "simonwillison.net · Hoard things you know how to do",
         "jeffgeerling.com · How to Securely Erase an old Hard Drive on macOS Tahoe",
         "simonwillison.net · Quoting Andrej Karpathy",
         "daringfireball.net · ‘Steve Jobs in Exile’",
-        "daringfireball.net · Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading",
-        "daringfireball.net · New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling"
+        "daringfireball.net · Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading"
       ],
       "key_points": [
+        "苹果设备成首个符合北约信息保障标准的消费产品，无需特殊配置即可处理受限级机密，标志移动安全新里程碑",
         "主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新",
         "在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除",
-        "Quoting Andrej Karpathy",
-        "新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维"
-      ],
-      "key_points_zh": [
-        "主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新",
-        "在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除",
-        "Quoting Andrej Karpathy",
-        "新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维"
-      ],
-      "key_points_en": [
-        "Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation",
-        "In macOS Tahoe's Disk Utility, Apple removed the secure erase option for HDDs. Developers must use command-line tools like diskutil for secure erasure",
-        "Quoting Andrej Karpathy",
-        "New book reveals how Jobs' 12-year failure at NeXT forged the mindset behind iPod, iPhone, and iPad"
-      ],
-      "tweet_drafts": [
-        "Simon Willison 的核心建议：把‘我知道怎么做到X’变成可运行的代码存档。这既是个人知识资产，也是喂给AI代理的优质数据。你的技术‘囤积’越丰富，AI帮你组合创新的空间就越大",
-        "【macOS Tahoe 安全擦除陷阱】磁盘工具不再提供机械硬盘安全擦除选项！改用命令行：diskutil secureErase。开发者注意数据残留风险。 #macOS #安全擦除 #开发者",
         "Quoting Andrej Karpathy"
       ],
+      "key_points_zh": [
+        "苹果设备成首个符合北约信息保障标准的消费产品，无需特殊配置即可处理受限级机密，标志移动安全新里程碑",
+        "主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新",
+        "在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除",
+        "Quoting Andrej Karpathy"
+      ],
+      "key_points_en": [
+        "Apple devices become the first consumer products to meet NATO's information assurance standards, enabling handling of restricted-level classified data without special configuration—a mobile security milestone",
+        "Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation",
+        "In macOS Tahoe's Disk Utility, Apple removed the secure erase option for HDDs. Developers must use command-line tools like diskutil for secure erasure",
+        "Quoting Andrej Karpathy"
+      ],
+      "tweet_drafts": [
+        "苹果再创安全里程碑：iPhone与iPad获北约机密处理认证，无需MDM或定制系统。硬件级加密与Common Criteria EAL4+认证，为政府移动化铺路。开发者需关注Device Management API的合规集成",
+        "Simon Willison 的核心建议：把‘我知道怎么做到X’变成可运行的代码存档。这既是个人知识资产，也是喂给AI代理的优质数据。你的技术‘囤积’越丰富，AI帮你组合创新的空间就越大",
+        "【macOS Tahoe 安全擦除陷阱】磁盘工具不再提供机械硬盘安全擦除选项！改用命令行：diskutil secureErase。开发者注意数据残留风险。 #macOS #安全擦除 #开发者"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "iPhone and iPad Approved to Handle Classified NATO Information",
+          "link": "https://nr.apple.com/Do0I6B8WX0"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Hoard things you know how to do",
@@ -53,27 +58,22 @@
           "feed_title": "jeffgeerling.com",
           "title": "How to Securely Erase an Old Hard Drive on macOS Tahoe",
           "link": "https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Andrej Karpathy",
-          "link": "https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-26 技术日报：主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除；Quoting Andrej Karpathy。",
-      "summary_en": "Daily brief (2026-02-26): Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation; In macOS Tahoe's",
+      "summary_zh": "2026-02-26 技术日报：苹果设备成首个符合北约信息保障标准的消费产品，无需特殊配置即可处理受限级机密，标志移动安全新里程碑；主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除。",
+      "summary_en": "Daily brief (2026-02-26): Apple devices become the first consumer products to meet NATO's information assurance standards, enabling handling of restricted-level classified data without special configuration—a mobile security milestone; Actively accumulate prov",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-26 日报】主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除；Quoting Andrej Karpathy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-26): Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation; In macOS Tahoe's"
+          "zh": "【2026-02-26 日报】苹果设备成首个符合北约信息保障标准的消费产品，无需特殊配置即可处理受限级机密，标志移动安全新里程碑；主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-26): Apple devices become the first consumer products to meet NATO's information assurance standards, enabling handling of restricted-level classified data without special configuration—a mobile security milestone; Actively accumulate pro"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-26）\n- 主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新\n- 在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除\n- Quoting Andrej Karpathy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/\n- https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-26)\n- Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation\n- In macOS Tahoe's Disk Utility, Apple removed the secure erase option for HDDs. Developers must use command-line tools like diskutil for secure erasure\n- Quoting Andrej Karpathy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/\n- https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-26）\n- 苹果设备成首个符合北约信息保障标准的消费产品，无需特殊配置即可处理受限级机密，标志移动安全新里程碑\n- 主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新\n- 在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nr.apple.com/Do0I6B8WX0\n- https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-26)\n- Apple devices become the first consumer products to meet NATO's information assurance standards, enabling handling of restricted-level classified data without special configuration—a mobile security milestone\n- Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation\n- In macOS Tahoe's Disk Utility, Apple removed the secure erase option for HDDs. Developers must use command-line tools like diskutil for secure erasure\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nr.apple.com/Do0I6B8WX0\n- https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除；Quoting Andrej Karpathy。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation; In macOS Tahoe's Disk Utility, Apple removed the secure erase"
+          "zh": "今天最值得看的 3 个点：苹果设备成首个符合北约信息保障标准的消费产品，无需特殊配置即可处理受限级机密，标志移动安全新里程碑；主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple devices become the first consumer products to meet NATO's information assurance standards, enabling handling of restricted-level classified data without special configuration—a mobile security milestone; Actively accumulate proven technical solutions (code, tools, reports"
         }
       }
     },
