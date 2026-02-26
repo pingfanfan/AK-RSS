@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-02-26T19:44:44Z",
+  "generated_at": "2026-02-26T20:44:15Z",
   "days": [
     {
       "date": "2026-02-26",
-      "total": 17,
+      "total": 19,
       "feeds": [
         "daringfireball.net (3)",
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "berthub.eu (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Hoard things you know how to do",
+        "jeffgeerling.com · How to Securely Erase an old Hard Drive on macOS Tahoe",
         "simonwillison.net · Quoting Andrej Karpathy",
         "daringfireball.net · ‘Steve Jobs in Exile’",
         "daringfireball.net · Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading",
-        "daringfireball.net · New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling",
-        "wheresyoured.at · On NVIDIA and Analyslop",
-        "devblogs.microsoft.com/oldnewthing · Intercepting messages inside Is­Dialog­Message, installing the message filter"
+        "daringfireball.net · New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling"
       ],
       "key_points": [
+        "主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新",
+        "在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除",
         "Quoting Andrej Karpathy",
-        "新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维",
-        "Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading",
-        "纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律"
+        "新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维"
       ],
       "key_points_zh": [
+        "主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新",
+        "在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除",
         "Quoting Andrej Karpathy",
-        "新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维",
-        "Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading",
-        "纽约总检察长起诉Valve，指控其游戏中的‘战利品箱’机制构成非法赌博，易导致儿童成瘾，违反州法律"
+        "新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维"
       ],
       "key_points_en": [
+        "Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation",
+        "In macOS Tahoe's Disk Utility, Apple removed the secure erase option for HDDs. Developers must use command-line tools like diskutil for secure erasure",
         "Quoting Andrej Karpathy",
-        "New book reveals how Jobs' 12-year failure at NeXT forged the mindset behind iPod, iPhone, and iPad",
-        "Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading",
-        "NY AG sues Valve, alleging its loot boxes are illegal gambling that addicts children, violating state law"
+        "New book reveals how Jobs' 12-year failure at NeXT forged the mindset behind iPod, iPhone, and iPad"
       ],
       "tweet_drafts": [
-        "Quoting Andrej Karpathy",
-        "乔布斯在NeXT的12年“迷失十年”如何孕育iPhone？新书基于未公开资料深度揭秘。5月19日发行，必读！#开发者 #创新",
-        "Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading"
+        "Simon Willison 的核心建议：把‘我知道怎么做到X’变成可运行的代码存档。这既是个人知识资产，也是喂给AI代理的优质数据。你的技术‘囤积’越丰富，AI帮你组合创新的空间就越大",
+        "【macOS Tahoe 安全擦除陷阱】磁盘工具不再提供机械硬盘安全擦除选项！改用命令行：diskutil secureErase。开发者注意数据残留风险。 #macOS #安全擦除 #开发者",
+        "Quoting Andrej Karpathy"
       ],
       "sources": [
         {
           "feed_title": "simonwillison.net",
+          "title": "Hoard things you know how to do",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "How to Securely Erase an Old Hard Drive on macOS Tahoe",
+          "link": "https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/"
+        },
+        {
+          "feed_title": "simonwillison.net",
           "title": "Quoting Andrej Karpathy",
           "link": "https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Steve Jobs in Exile",
-          "link": "https://geoffreycain.net/steve-jobs-in-exile/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading",
-          "link": "https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions"
         }
       ],
-      "summary_zh": "2026-02-26 技术日报：Quoting Andrej Karpathy；新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维；Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading。",
-      "summary_en": "Daily brief (2026-02-26): Quoting Andrej Karpathy; New book reveals how Jobs' 12-year failure at NeXT forged the mindset behind iPod, iPhone, and iPad; Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading.",
+      "summary_zh": "2026-02-26 技术日报：主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除；Quoting Andrej Karpathy。",
+      "summary_en": "Daily brief (2026-02-26): Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation; In macOS Tahoe's",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-26 日报】Quoting Andrej Karpathy；新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维；Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-26): Quoting Andrej Karpathy; New book reveals how Jobs' 12-year failure at NeXT forged the mindset behind iPod, iPhone, and iPad; Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading. Actionable takeaways included. What wou"
+          "zh": "【2026-02-26 日报】主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除；Quoting Andrej Karpathy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-26): Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation; In macOS Tahoe's"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-26）\n- Quoting Andrej Karpathy\n- 新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维\n- Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything\n- https://geoffreycain.net/steve-jobs-in-exile/\n- https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-26)\n- Quoting Andrej Karpathy\n- New book reveals how Jobs' 12-year failure at NeXT forged the mindset behind iPod, iPhone, and iPad\n- Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything\n- https://geoffreycain.net/steve-jobs-in-exile/\n- https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-26）\n- 主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新\n- 在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除\n- Quoting Andrej Karpathy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/\n- https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-26)\n- Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation\n- In macOS Tahoe's Disk Utility, Apple removed the secure erase option for HDDs. Developers must use command-line tools like diskutil for secure erasure\n- Quoting Andrej Karpathy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/\n- https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Andrej Karpathy；新书揭露乔布斯在NeXT的12年失败经历，如何塑造其后续颠覆性产品思维；Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Andrej Karpathy; New book reveals how Jobs' 12-year failure at NeXT forged the mindset behind iPod, iPhone, and iPad; Prediction Market Kalshi Accuses MrBeast Editor of Insider Trading.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除；Quoting Andrej Karpathy。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Actively accumulate proven technical solutions (code, tools, reports). This not only sharpens your ability to solve complex problems but also provides high-quality 'building blocks' for AI agents to drive innovation; In macOS Tahoe's Disk Utility, Apple removed the secure erase"
         }
       }
     },
