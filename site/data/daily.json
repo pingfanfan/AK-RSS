@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-26T13:27:53Z",
+  "generated_at": "2026-02-26T13:56:59Z",
   "days": [
     {
       "date": "2026-02-26",
-      "total": 9,
+      "total": 10,
       "feeds": [
+        "berthub.eu (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "berthub.eu · Amerika runt binnenkort onze BTW",
         "shkspr.mobi · This time is different",
         "dfarq.homeip.net · Pentium III launched Feb 28, 1999",
         "pluralistic.net · Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
         "nesbitt.io · Git in Postgres",
-        "simonwillison.net · Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
-        "utcc.utoronto.ca/~cks · With disk caches, you want to be able to attribute hits and misses"
+        "simonwillison.net · Google API Keys Weren't Secrets. But then Gemini Changed the Rules."
       ],
       "key_points": [
-        "This time is different",
-        "Pentium III launched Feb 28, 1999",
-        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
-        "本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作"
-      ],
-      "key_points_zh": [
-        "This time is different",
-        "Pentium III launched Feb 28, 1999",
-        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
-        "本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作"
-      ],
-      "key_points_en": [
-        "This time is different",
-        "Pentium III launched Feb 28, 1999",
-        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
-        "Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers"
-      ],
-      "tweet_drafts": [
+        "荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机",
         "This time is different",
         "Pentium III launched Feb 28, 1999",
         "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)"
       ],
+      "key_points_zh": [
+        "荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机",
+        "This time is different",
+        "Pentium III launched Feb 28, 1999",
+        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)"
+      ],
+      "key_points_en": [
+        "Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis",
+        "This time is different",
+        "Pentium III launched Feb 28, 1999",
+        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)"
+      ],
+      "tweet_drafts": [
+        "当国家核心税务系统外包给美国企业，数据主权何在？GDPR跨境限制如何绕过？开发者需在架构设计阶段嵌入合规与主权要求，而非事后补救",
+        "This time is different",
+        "Pentium III launched Feb 28, 1999"
+      ],
       "sources": [
+        {
+          "feed_title": "berthub.eu",
+          "title": "America to Soon Manage Our VAT System",
+          "link": "https://berthub.eu/articles/posts/btw-as-an-american-service/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "This time is different",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Pentium III launched Feb 28, 1999",
           "link": "https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
-          "link": "https://pluralistic.net/2026/02/26/hanged-for-a-sheep/"
         }
       ],
-      "summary_zh": "2026-02-26 技术日报：This time is different；Pentium III launched Feb 28, 1999；Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)。",
-      "summary_en": "Daily brief (2026-02-26): This time is different; Pentium III launched Feb 28, 1999; Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026).",
+      "summary_zh": "2026-02-26 技术日报：荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机；This time is different；Pentium III launched Feb 28, 1999。",
+      "summary_en": "Daily brief (2026-02-26): Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis; This time is different; Pentium III launched Feb 28, 1999.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-26 日报】This time is different；Pentium III launched Feb 28, 1999；Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-26): This time is different; Pentium III launched Feb 28, 1999; Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
+          "zh": "【2026-02-26 日报】荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机；This time is different；Pentium III launched Feb 28, 1999。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-26): Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis; This time is different; Pentium III launched Feb 28, 1999. Actionable takeaways included. What w"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-26）\n- This time is different\n- Pentium III launched Feb 28, 1999\n- Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/02/this-time-is-different/\n- https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999\n- https://pluralistic.net/2026/02/26/hanged-for-a-sheep/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-26)\n- This time is different\n- Pentium III launched Feb 28, 1999\n- Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/02/this-time-is-different/\n- https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999\n- https://pluralistic.net/2026/02/26/hanged-for-a-sheep/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-26）\n- 荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机\n- This time is different\n- Pentium III launched Feb 28, 1999\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/btw-as-an-american-service/\n- https://shkspr.mobi/blog/2026/02/this-time-is-different/\n- https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-26)\n- Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis\n- This time is different\n- Pentium III launched Feb 28, 1999\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/btw-as-an-american-service/\n- https://shkspr.mobi/blog/2026/02/this-time-is-different/\n- https://dfarq.homeip.net/pentium-iii-launched-feb-28-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=pentium-iii-launched-feb-28-1999\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：This time is different；Pentium III launched Feb 28, 1999；Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: This time is different; Pentium III launched Feb 28, 1999; Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：荷兰税务部门计划将增值税申报与处理系统外包给美国云服务商，引发数据主权与GDPR合规危机；This time is different；Pentium III launched Feb 28, 1999。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Dutch tax authorities plan to outsource VAT filing/processing to US cloud providers, sparking data sovereignty \u0026 GDPR compliance crisis; This time is different; Pentium III launched Feb 28, 1999.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
