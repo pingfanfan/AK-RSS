@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-02-26T06:46:20Z",
+  "generated_at": "2026-02-26T07:19:52Z",
   "days": [
     {
       "date": "2026-02-26",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
-        "simonwillison.net (1)"
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
         "simonwillison.net · Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
+        "utcc.utoronto.ca/~cks · With disk caches, you want to be able to attribute hits and misses",
         "eli.thegreenplace.net · Notes on Linear Algebra for Polynomials",
         "joanwestenberg.com · Members Only: Your anonymity set has collapsed and you don't know it yet",
         "johndcook.com · Hyperbolic versions of latest posts"
       ],
       "key_points": [
         "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+        "仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节",
         "Notes on Linear Algebra for Polynomials",
-        "Members Only: Your anonymity set has collapsed and you don't know it yet",
-        "通过双曲函数类比三角恒等式，并用Python代码验证，快速掌握数学转换规律"
+        "Members Only: Your anonymity set has collapsed and you don't know it yet"
       ],
       "key_points_zh": [
         "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+        "仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节",
         "Notes on Linear Algebra for Polynomials",
-        "Members Only: Your anonymity set has collapsed and you don't know it yet",
-        "通过双曲函数类比三角恒等式，并用Python代码验证，快速掌握数学转换规律"
+        "Members Only: Your anonymity set has collapsed and you don't know it yet"
       ],
       "key_points_en": [
         "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+        "Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization, but OS layers often lack this detail",
         "Notes on Linear Algebra for Polynomials",
-        "Members Only: Your anonymity set has collapsed and you don't know it yet",
-        "Analogize trig identities to hyperbolic ones with Python validation for quick math pattern mastery"
+        "Members Only: Your anonymity set has collapsed and you don't know it yet"
       ],
       "tweet_drafts": [
         "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
-        "Notes on Linear Algebra for Polynomials",
-        "Members Only: Your anonymity set has collapsed and you don't know it yet"
+        "别被整体缓存命中率欺骗。元数据访问可能近乎100%命中，但文件I/O可能频繁未命中。性能瓶颈常藏在细分数据里。检查你的指标能否归因I/O类型",
+        "Notes on Linear Algebra for Polynomials"
       ],
       "sources": [
         {
@@ -46,30 +48,30 @@
           "link": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything"
         },
         {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Disk Caches: You Need to Attribute Hits and Misses",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/DiskCacheHitMissWantDetails"
+        },
+        {
           "feed_title": "eli.thegreenplace.net",
           "title": "Notes on Linear Algebra for Polynomials",
           "link": "https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "Members Only: Your anonymity set has collapsed and you don't know it yet",
-          "link": "https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/"
         }
       ],
-      "summary_zh": "2026-02-26 技术日报：Google API Keys Weren't Secrets. But then Gemini Changed the Rules；Notes on Linear Algebra for Polynomials；Members Only: Your anonymity set has collapsed and you don't know it yet。",
-      "summary_en": "Daily brief (2026-02-26): Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Notes on Linear Algebra for Polynomials; Members Only: Your anonymity set has collapsed and you don't know it yet.",
+      "summary_zh": "2026-02-26 技术日报：Google API Keys Weren't Secrets. But then Gemini Changed the Rules；仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节；Notes on Linear Algebra for Polynomials。",
+      "summary_en": "Daily brief (2026-02-26): Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization,",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-26 日报】Google API Keys Weren't Secrets. But then Gemini Changed the Rules；Notes on Linear Algebra for Polynomials；Members Only: Your anonymity set has collapsed and you don't know it yet。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-26): Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Notes on Linear Algebra for Polynomials; Members Only: Your anonymity set has collapsed and you don't know it yet. Actionable takeaways included. What would you ship"
+          "zh": "【2026-02-26 日报】Google API Keys Weren't Secrets. But then Gemini Changed the Rules；仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节；Notes on Linear Algebra for Polynomials。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-26): Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-26）\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- Notes on Linear Algebra for Polynomials\n- Members Only: Your anonymity set has collapsed and you don't know it yet\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/\n- https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-26)\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- Notes on Linear Algebra for Polynomials\n- Members Only: Your anonymity set has collapsed and you don't know it yet\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/\n- https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-26）\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- 仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节\n- Notes on Linear Algebra for Polynomials\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskCacheHitMissWantDetails\n- https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-26)\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization, but OS layers often lack this detail\n- Notes on Linear Algebra for Polynomials\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskCacheHitMissWantDetails\n- https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Google API Keys Weren't Secrets. But then Gemini Changed the Rules；Notes on Linear Algebra for Polynomials；Members Only: Your anonymity set has collapsed and you don't know it yet。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Notes on Linear Algebra for Polynomials; Members Only: Your anonymity set has collapsed and you don't know it yet.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Google API Keys Weren't Secrets. But then Gemini Changed the Rules；仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节；Notes on Linear Algebra for Polynomials。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization, but OS layers often lack this detail; Notes"
         }
       }
     },
