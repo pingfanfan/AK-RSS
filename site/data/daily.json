@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-26T10:44:57Z",
+  "generated_at": "2026-02-26T11:14:25Z",
   "days": [
     {
       "date": "2026-02-26",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "pluralistic.net (1)",
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
         "nesbitt.io · Git in Postgres",
         "simonwillison.net · Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
         "utcc.utoronto.ca/~cks · With disk caches, you want to be able to attribute hits and misses",
         "eli.thegreenplace.net · Notes on Linear Algebra for Polynomials",
-        "joanwestenberg.com · Members Only: Your anonymity set has collapsed and you don't know it yet",
-        "johndcook.com · Hyperbolic versions of latest posts"
+        "joanwestenberg.com · Members Only: Your anonymity set has collapsed and you don't know it yet"
       ],
       "key_points": [
+        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
         "本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作",
         "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
-        "仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节",
-        "Notes on Linear Algebra for Polynomials"
+        "仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节"
       ],
       "key_points_zh": [
+        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
         "本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作",
         "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
-        "仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节",
-        "Notes on Linear Algebra for Polynomials"
+        "仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节"
       ],
       "key_points_en": [
+        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
         "Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers",
         "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
-        "Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization, but OS layers often lack this detail",
-        "Notes on Linear Algebra for Polynomials"
+        "Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization, but OS layers often lack this detail"
       ],
       "tweet_drafts": [
+        "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
         "Git存储瓶颈如何破？用Postgres做后端，两张表搞定Git数据模型。Homebrew案例启示：别再用Git当数据库了。技术前沿探讨",
-        "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
-        "别被整体缓存命中率欺骗。元数据访问可能近乎100%命中，但文件I/O可能频繁未命中。性能瓶颈常藏在细分数据里。检查你的指标能否归因I/O类型"
+        "Google API Keys Weren't Secrets. But then Gemini Changed the Rules"
       ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)",
+          "link": "https://pluralistic.net/2026/02/26/hanged-for-a-sheep/"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Git in Postgres",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
           "link": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Disk Caches: You Need to Attribute Hits and Misses",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/DiskCacheHitMissWantDetails"
         }
       ],
-      "summary_zh": "2026-02-26 技术日报：本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作；Google API Keys Weren't Secrets. But then Gemini Changed the Rules；仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节。",
-      "summary_en": "Daily brief (2026-02-26): Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers; Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Aggregate cache hit rates mask critical",
+      "summary_zh": "2026-02-26 技术日报：Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)；本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作；Google API Keys Weren't Secrets. But then Gemini Changed the Rules。",
+      "summary_en": "Daily brief (2026-02-26): Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026); Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers; Google API Keys W",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-26 日报】本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作；Google API Keys Weren't Secrets. But then Gemini Changed the Rules；仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-26): Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers; Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Aggregate cache hit rates mask critica"
+          "zh": "【2026-02-26 日报】Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)；本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作；Google API Keys Weren't Secrets. But then Gemini Changed the Rules。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-26): Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026); Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers; Google API Keys"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-26）\n- 本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- 仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/02/26/git-in-postgres.html\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskCacheHitMissWantDetails\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-26)\n- Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n- Aggregate cache hit rates mask critical performance differences. Granular I/O type attribution (data vs. metadata, sync vs. async) is essential for true optimization, but OS layers often lack this detail\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/02/26/git-in-postgres.html\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskCacheHitMissWantDetails\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-26）\n- Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)\n- 本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/02/26/hanged-for-a-sheep/\n- https://nesbitt.io/2026/02/26/git-in-postgres.html\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-26)\n- Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)\n- Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers\n- Google API Keys Weren't Secrets. But then Gemini Changed the Rules\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/02/26/hanged-for-a-sheep/\n- https://nesbitt.io/2026/02/26/git-in-postgres.html\n- https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作；Google API Keys Weren't Secrets. But then Gemini Changed the Rules；仅看整体缓存命中率会掩盖关键性能差异。必须细分I/O类型（如数据/元数据、同步/异步）才能精准优化，但OS层常缺乏此细节。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers; Google API Keys Weren't Secrets. But then Gemini Changed the Rules; Aggregate cache hit rates mask critical performance differences. Granular I/O type"
+          "zh": "今天最值得看的 3 个点：Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026)；本文探讨用Postgres替代Git传统存储，解决包管理器扩展性问题，实现更高效协作；Google API Keys Weren't Secrets. But then Gemini Changed the Rules。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: If you build it (and it works), Trump will come (and take it) (26 Feb 2026); Proposes using Postgres as a Git storage backend to overcome scalability limits of traditional Git repos for package managers; Google API Keys Weren't Secrets. But then Gemini Changed the"
         }
       }
     },
