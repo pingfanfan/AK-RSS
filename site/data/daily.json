@@ -1,49 +1,71 @@
 {
-  "generated_at": "2026-02-27T10:09:59Z",
+  "generated_at": "2026-02-27T10:43:52Z",
   "days": [
     {
       "date": "2026-02-27",
-      "total": 1,
+      "total": 3,
       "feeds": [
-        "daringfireball.net (1)"
+        "daringfireball.net (1)",
+        "nesbitt.io (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · xkcd 2347",
+        "utcc.utoronto.ca/~cks · How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop",
         "daringfireball.net · Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership"
       ],
       "key_points": [
+        "xkcd 2347",
+        "How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop",
         "苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛",
         "Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix broadcast rights"
       ],
       "key_points_zh": [
+        "xkcd 2347",
+        "How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop",
         "苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛"
       ],
       "key_points_en": [
+        "xkcd 2347",
+        "How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop",
         "Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix broadcast rights"
       ],
       "tweet_drafts": [
+        "xkcd 2347",
+        "How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop",
         "苹果与Netflix达成意外合作：内容交换+同步首播。这不仅是营销联动，更是对DRM壁垒和平台互操作性的技术试探。开发者需关注API变化与用户账户体系融合可能性。体育流媒体或成下一战场"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "xkcd 2347",
+          "link": "https://nesbitt.io/2026/02/27/xkcd-2347.html"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashWhileWithProcessSubstitution"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership",
           "link": "https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/"
         }
       ],
-      "summary_zh": "2026-02-27 技术日报：苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛。",
-      "summary_en": "Daily brief (2026-02-27): Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix broadcast rights.",
+      "summary_zh": "2026-02-27 技术日报：xkcd 2347；How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop；苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛。",
+      "summary_en": "Daily brief (2026-02-27): xkcd 2347; How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop; Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, a",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-27 日报】苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-27): Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix broadcast rights. Actionable takeaways inc"
+          "zh": "【2026-02-27 日报】xkcd 2347；How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop；苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-27): xkcd 2347; How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop; Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+,"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-27）\n- 苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-27)\n- Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix broadcast rights\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-27）\n- xkcd 2347\n- How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop\n- 苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/02/27/xkcd-2347.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/BashWhileWithProcessSubstitution\n- https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-27)\n- xkcd 2347\n- How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop\n- Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix broadcast rights\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/02/27/xkcd-2347.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/BashWhileWithProcessSubstitution\n- https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix broadcast rights.\nI turned them into an action-ready daily brief you can use right away"
+          "zh": "今天最值得看的 3 个点：xkcd 2347；How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop；苹果与Netflix打破僵局，达成非独家内容交换：Netflix《Drive to Survive》新季在Apple TV+同步首播，苹果允许Netflix转播加拿大大奖赛。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: xkcd 2347; How to redirect a Bash process substitution into a \u003ccode\u003ewhile\u003c/code\u003e loop; Apple and Netflix break the ice with a non-exclusive content swap: Netflix's new 'Drive to Survive' season premieres simultaneously on Apple TV+, and Apple grants Netflix Canadian Grand Prix"
         }
       }
     },
