@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-27 21:39:49 UTC
+Generated at: 2026-02-27 22:39:19 UTC
 
-- [Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter](https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094) (`devblogs.microsoft.com/oldnewthing`)
+- [We Need Process, But Process Gets in the Way](https://idiallo.com/blog/when-process-get-in-the-way?src=feed) (`idiallo.com`)
