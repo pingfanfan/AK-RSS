@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-27 21:04:28 UTC
+Generated at: 2026-02-27 21:39:49 UTC
 
-- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) (`simonwillison.net`)
+- [Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter](https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094) (`devblogs.microsoft.com/oldnewthing`)
