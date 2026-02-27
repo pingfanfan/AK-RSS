@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-27 15:11:28 UTC
+Generated at: 2026-02-27 15:42:51 UTC
 
-- [Upgrading my Open Source Pi Surveillance Server with Frigate](https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/) (`jeffgeerling.com`)
+- [Block Lays Off 4,000 (of 10,000) Employees](https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html) (`daringfireball.net`)
