@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:12:35Z",
+  "generated_at": "2026-02-27T19:41:32Z",
   "days": [
     {
       "date": "2026-02-27",
-      "total": 13,
+      "total": 14,
       "feeds": [
-        "daringfireball.net (5)",
+        "daringfireball.net (6)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "minimaxir.com (1)",
@@ -13,37 +13,42 @@
         "shkspr.mobi (1)"
       ],
       "highlights": [
+        "daringfireball.net · West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
         "daringfireball.net · How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator",
         "daringfireball.net · ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
         "simonwillison.net · Free Claude Max for (large project) open source maintainers",
         "minimaxir.com · An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "wheresyoured.at · Premium: The Hater's Guide to Private Equity",
-        "daringfireball.net · TUDUMB"
+        "wheresyoured.at · Premium: The Hater's Guide to Private Equity"
       ],
       "key_points": [
+        "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
         "通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新",
-        "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
-        "Free Claude Max for (large project) open source maintainers",
-        "作者通过用最新大模型审查自己发布的Python包代码，发现LLM在代码质量提升（如添加文档、类型提示、优化实现）上非常有效，但这仍是‘辅助’而非‘自主代理’，且成本与可靠性仍需考量"
-      ],
-      "key_points_zh": [
-        "通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新",
-        "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
-        "Free Claude Max for (large project) open source maintainers",
-        "作者通过用最新大模型审查自己发布的Python包代码，发现LLM在代码质量提升（如添加文档、类型提示、优化实现）上非常有效，但这仍是‘辅助’而非‘自主代理’，且成本与可靠性仍需考量"
-      ],
-      "key_points_en": [
-        "Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates",
-        "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
-        "Free Claude Max for (large project) open source maintainers",
-        "By tasking cutting-edge LLMs to review his own published Python package, the author found them highly effective at code quality improvements (docs, typing, Pythonic refactors). This is powerful 'assistance,' not autonomous 'agency,' with cost/reliability trade-offs still present"
-      ],
-      "tweet_drafts": [
-        "macOS开发者注意：通过设备管理配置文件可屏蔽Tahoe升级提醒90天，不影响其他更新。避免误操作，保持Sequoia环境稳定。教程链接：https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/ #安全 #基础设施",
         "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
         "Free Claude Max for (large project) open source maintainers"
       ],
+      "key_points_zh": [
+        "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
+        "通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新",
+        "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
+        "Free Claude Max for (large project) open source maintainers"
+      ],
+      "key_points_en": [
+        "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
+        "Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates",
+        "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
+        "Free Claude Max for (large project) open source maintainers"
+      ],
+      "tweet_drafts": [
+        "新条目更新",
+        "macOS开发者注意：通过设备管理配置文件可屏蔽Tahoe升级提醒90天，不影响其他更新。避免误操作，保持Sequoia环境稳定。教程链接：https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/ #安全 #基础设施",
+        "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
+          "link": "https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App",
           "link": "https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Free Claude Max for (large project) open source maintainers",
-          "link": "https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything"
         }
       ],
-      "summary_zh": "2026-02-27 技术日报：通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新；★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App；Free Claude Max for (large project) open source maintainers。",
-      "summary_en": "Daily brief (2026-02-27): Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates; ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App; Free Claude Max for (larg",
+      "summary_zh": "2026-02-27 技术日报：West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free；通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新；★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App。",
+      "summary_en": "Daily brief (2026-02-27): West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free; Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates; ★ A Sometimes-Hidden Setting Controls What",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-27 日报】通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新；★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App；Free Claude Max for (large project) open source maintainers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-27): Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates; ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App; Free Claude Max for (lar"
+          "zh": "【2026-02-27 日报】West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free；通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新；★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实",
+          "en": "AK-RSS Daily (2026-02-27): West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free; Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates; ★ A Sometimes-Hidden Setting Controls What"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-27）\n- 通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新\n- ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App\n- Free Claude Max for (large project) open source maintainers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/\n- https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app\n- https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-27)\n- Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates\n- ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App\n- Free Claude Max for (large project) open source maintainers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/\n- https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app\n- https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-27）\n- West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free\n- 通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新\n- ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/\n- https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/\n- https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-27)\n- West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free\n- Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates\n- ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/\n- https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/\n- https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新；★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App；Free Claude Max for (large project) open source maintainers。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates; ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App; Free Claude Max for (large project) open source maintainers.\nI turned"
+          "zh": "今天最值得看的 3 个点：West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free；通过macOS设备管理配置文件，可屏蔽Tahoe升级提示90天，不影响其他更新；★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free; Use a macOS device management profile to block Tahoe upgrade alerts for 90 days without affecting other updates; ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Ph"
         }
       }
     },
