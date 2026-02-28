@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-02-28T18:02:04Z",
+  "generated_at": "2026-02-28T18:43:32Z",
   "days": [
     {
       "date": "2026-02-28",
-      "total": 10,
+      "total": 12,
       "feeds": [
+        "abortretry.fail (1)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "evanhahn.com (1)",
         "idiallo.com (1)",
-        "krebsonsecurity.com (1)",
-        "miguelgrinberg.com (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "abortretry.fail · The Most Important Micros",
+        "johndcook.com · Working with file extensions in bash scripts",
         "idiallo.com · That's it, I'm cancelling my ChatGPT",
         "daringfireball.net · Trump’s Enormous Gamble on Regime Change in Iran",
         "miguelgrinberg.com · LLM Use in the Python Source Code",
-        "construction-physics.com · Reading List 02/28/26",
-        "shkspr.mobi · 30 months to 3MWh - some more home battery stats",
-        "krebsonsecurity.com · Who is the Kimwolf Botmaster “Dort”?"
+        "construction-physics.com · Reading List 02/28/26"
       ],
       "key_points": [
+        "The Most Important Micros",
+        "Working with file extensions in bash scripts",
         "That's it, I'm cancelling my ChatGPT",
-        "Trump’s Enormous Gamble on Regime Change in Iran",
-        "LLM Use in the Python Source Code",
-        "Reading List 02/28/26"
+        "Trump’s Enormous Gamble on Regime Change in Iran"
       ],
       "key_points_zh": [
+        "The Most Important Micros",
+        "Working with file extensions in bash scripts",
         "That's it, I'm cancelling my ChatGPT",
-        "Trump’s Enormous Gamble on Regime Change in Iran",
-        "LLM Use in the Python Source Code",
-        "Reading List 02/28/26"
+        "Trump’s Enormous Gamble on Regime Change in Iran"
       ],
       "key_points_en": [
+        "The Most Important Micros",
+        "Working with file extensions in bash scripts",
         "That's it, I'm cancelling my ChatGPT",
-        "Trump’s Enormous Gamble on Regime Change in Iran",
-        "LLM Use in the Python Source Code",
-        "Reading List 02/28/26"
+        "Trump’s Enormous Gamble on Regime Change in Iran"
       ],
       "tweet_drafts": [
-        "That's it, I'm cancelling my ChatGPT",
-        "Trump’s Enormous Gamble on Regime Change in Iran",
-        "LLM Use in the Python Source Code"
+        "The Most Important Micros",
+        "Working with file extensions in bash scripts",
+        "That's it, I'm cancelling my ChatGPT"
       ],
       "sources": [
+        {
+          "feed_title": "abortretry.fail",
+          "title": "The Most Important Micros",
+          "link": "https://www.abortretry.fail/p/the-most-important-micros"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Working with file extensions in bash scripts",
+          "link": "https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "That's it, I'm cancelling my ChatGPT",
           "link": "https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Trump’s Enormous Gamble on Regime Change in Iran",
-          "link": "https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY"
-        },
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "LLM Use in the Python Source Code",
-          "link": "https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code"
         }
       ],
-      "summary_zh": "2026-02-28 技术日报：That's it, I'm cancelling my ChatGPT；Trump’s Enormous Gamble on Regime Change in Iran；LLM Use in the Python Source Code。",
-      "summary_en": "Daily brief (2026-02-28): That's it, I'm cancelling my ChatGPT; Trump’s Enormous Gamble on Regime Change in Iran; LLM Use in the Python Source Code.",
+      "summary_zh": "2026-02-28 技术日报：The Most Important Micros；Working with file extensions in bash scripts；That's it, I'm cancelling my ChatGPT。",
+      "summary_en": "Daily brief (2026-02-28): The Most Important Micros; Working with file extensions in bash scripts; That's it, I'm cancelling my ChatGPT.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-28 日报】That's it, I'm cancelling my ChatGPT；Trump’s Enormous Gamble on Regime Change in Iran；LLM Use in the Python Source Code。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-28): That's it, I'm cancelling my ChatGPT; Trump’s Enormous Gamble on Regime Change in Iran; LLM Use in the Python Source Code. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-28 日报】The Most Important Micros；Working with file extensions in bash scripts；That's it, I'm cancelling my ChatGPT。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-28): The Most Important Micros; Working with file extensions in bash scripts; That's it, I'm cancelling my ChatGPT. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-28）\n- That's it, I'm cancelling my ChatGPT\n- Trump’s Enormous Gamble on Regime Change in Iran\n- LLM Use in the Python Source Code\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed\n- https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY\n- https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-28)\n- That's it, I'm cancelling my ChatGPT\n- Trump’s Enormous Gamble on Regime Change in Iran\n- LLM Use in the Python Source Code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed\n- https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY\n- https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-28）\n- The Most Important Micros\n- Working with file extensions in bash scripts\n- That's it, I'm cancelling my ChatGPT\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.abortretry.fail/p/the-most-important-micros\n- https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/\n- https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-28)\n- The Most Important Micros\n- Working with file extensions in bash scripts\n- That's it, I'm cancelling my ChatGPT\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.abortretry.fail/p/the-most-important-micros\n- https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/\n- https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：That's it, I'm cancelling my ChatGPT；Trump’s Enormous Gamble on Regime Change in Iran；LLM Use in the Python Source Code。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: That's it, I'm cancelling my ChatGPT; Trump’s Enormous Gamble on Regime Change in Iran; LLM Use in the Python Source Code.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Most Important Micros；Working with file extensions in bash scripts；That's it, I'm cancelling my ChatGPT。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Most Important Micros; Working with file extensions in bash scripts; That's it, I'm cancelling my ChatGPT.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

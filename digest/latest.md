@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-02-28 18:01:30 UTC
+Generated at: 2026-02-28 18:42:38 UTC
 
-- [That's it, I'm cancelling my ChatGPT](https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed) (`idiallo.com`)
+- [Working with file extensions in bash scripts](https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/) (`johndcook.com`)
+- [The Most Important Micros](https://www.abortretry.fail/p/the-most-important-micros) (`abortretry.fail`)
