@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-02-28T16:01:36Z",
+  "generated_at": "2026-02-28T16:39:55Z",
   "days": [
     {
       "date": "2026-02-28",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "construction-physics.com (1)",
+        "daringfireball.net (1)",
         "evanhahn.com (1)",
         "krebsonsecurity.com (1)",
         "miguelgrinberg.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "daringfireball.net · Trump’s Enormous Gamble on Regime Change in Iran",
         "miguelgrinberg.com · LLM Use in the Python Source Code",
         "construction-physics.com · Reading List 02/28/26",
         "shkspr.mobi · 30 months to 3MWh - some more home battery stats",
         "krebsonsecurity.com · Who is the Kimwolf Botmaster “Dort”?",
-        "pluralistic.net · Pluralistic: California can stop Larry Ellison from buying Warners (28 Feb 2026)",
-        "nesbitt.io · npm Data Subject Access Request"
+        "pluralistic.net · Pluralistic: California can stop Larry Ellison from buying Warners (28 Feb 2026)"
       ],
       "key_points": [
-        "LLM Use in the Python Source Code",
-        "Reading List 02/28/26",
-        "30 months to 3MWh - some more home battery stats",
-        "Who is the Kimwolf Botmaster “Dort”?"
-      ],
-      "key_points_zh": [
-        "LLM Use in the Python Source Code",
-        "Reading List 02/28/26",
-        "30 months to 3MWh - some more home battery stats",
-        "Who is the Kimwolf Botmaster “Dort”?"
-      ],
-      "key_points_en": [
-        "LLM Use in the Python Source Code",
-        "Reading List 02/28/26",
-        "30 months to 3MWh - some more home battery stats",
-        "Who is the Kimwolf Botmaster “Dort”?"
-      ],
-      "tweet_drafts": [
+        "Trump’s Enormous Gamble on Regime Change in Iran",
         "LLM Use in the Python Source Code",
         "Reading List 02/28/26",
         "30 months to 3MWh - some more home battery stats"
       ],
+      "key_points_zh": [
+        "Trump’s Enormous Gamble on Regime Change in Iran",
+        "LLM Use in the Python Source Code",
+        "Reading List 02/28/26",
+        "30 months to 3MWh - some more home battery stats"
+      ],
+      "key_points_en": [
+        "Trump’s Enormous Gamble on Regime Change in Iran",
+        "LLM Use in the Python Source Code",
+        "Reading List 02/28/26",
+        "30 months to 3MWh - some more home battery stats"
+      ],
+      "tweet_drafts": [
+        "Trump’s Enormous Gamble on Regime Change in Iran",
+        "LLM Use in the Python Source Code",
+        "Reading List 02/28/26"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Trump’s Enormous Gamble on Regime Change in Iran",
+          "link": "https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY"
+        },
         {
           "feed_title": "miguelgrinberg.com",
           "title": "LLM Use in the Python Source Code",
@@ -53,27 +58,22 @@
           "feed_title": "construction-physics.com",
           "title": "Reading List 02/28/26",
           "link": "https://www.construction-physics.com/p/reading-list-022826"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "30 months to 3MWh - some more home battery stats",
-          "link": "https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/"
         }
       ],
-      "summary_zh": "2026-02-28 技术日报：LLM Use in the Python Source Code；Reading List 02/28/26；30 months to 3MWh - some more home battery stats。",
-      "summary_en": "Daily brief (2026-02-28): LLM Use in the Python Source Code; Reading List 02/28/26; 30 months to 3MWh - some more home battery stats.",
+      "summary_zh": "2026-02-28 技术日报：Trump’s Enormous Gamble on Regime Change in Iran；LLM Use in the Python Source Code；Reading List 02/28/26。",
+      "summary_en": "Daily brief (2026-02-28): Trump’s Enormous Gamble on Regime Change in Iran; LLM Use in the Python Source Code; Reading List 02/28/26.",
       "social_posts": {
         "x": {
-          "zh": "【2026-02-28 日报】LLM Use in the Python Source Code；Reading List 02/28/26；30 months to 3MWh - some more home battery stats。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-28): LLM Use in the Python Source Code; Reading List 02/28/26; 30 months to 3MWh - some more home battery stats. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-02-28 日报】Trump’s Enormous Gamble on Regime Change in Iran；LLM Use in the Python Source Code；Reading List 02/28/26。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-02-28): Trump’s Enormous Gamble on Regime Change in Iran; LLM Use in the Python Source Code; Reading List 02/28/26. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-02-28）\n- LLM Use in the Python Source Code\n- Reading List 02/28/26\n- 30 months to 3MWh - some more home battery stats\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code\n- https://www.construction-physics.com/p/reading-list-022826\n- https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-28)\n- LLM Use in the Python Source Code\n- Reading List 02/28/26\n- 30 months to 3MWh - some more home battery stats\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code\n- https://www.construction-physics.com/p/reading-list-022826\n- https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-02-28）\n- Trump’s Enormous Gamble on Regime Change in Iran\n- LLM Use in the Python Source Code\n- Reading List 02/28/26\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY\n- https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code\n- https://www.construction-physics.com/p/reading-list-022826\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-02-28)\n- Trump’s Enormous Gamble on Regime Change in Iran\n- LLM Use in the Python Source Code\n- Reading List 02/28/26\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY\n- https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code\n- https://www.construction-physics.com/p/reading-list-022826\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：LLM Use in the Python Source Code；Reading List 02/28/26；30 months to 3MWh - some more home battery stats。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: LLM Use in the Python Source Code; Reading List 02/28/26; 30 months to 3MWh - some more home battery stats.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Trump’s Enormous Gamble on Regime Change in Iran；LLM Use in the Python Source Code；Reading List 02/28/26。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Trump’s Enormous Gamble on Regime Change in Iran; LLM Use in the Python Source Code; Reading List 02/28/26.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
