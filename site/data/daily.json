@@ -1,41 +1,50 @@
 {
-  "generated_at": "2026-03-01T09:40:40Z",
+  "generated_at": "2026-03-01T10:02:26Z",
   "days": [
     {
       "date": "2026-03-01",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "antirez.com (1)",
         "eli.thegreenplace.net (1)",
         "idiallo.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "antirez.com · Redis patterns for coding",
         "utcc.utoronto.ca/~cks · Sometimes the simplest version of a text table is printed from a command",
         "eli.thegreenplace.net · Notes on Lagrange Interpolating Polynomials",
         "idiallo.com · \u0026ldquo;How old are you?\u0026rdquo; Asked the OS"
       ],
       "key_points": [
+        "Redis patterns for coding",
         "停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作",
         "Notes on Lagrange Interpolating Polynomials",
-        "\u0026ldquo;How old are you?\u0026rdquo; Asked the OS",
-        "After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting"
+        "\u0026ldquo;How old are you?\u0026rdquo; Asked the OS"
       ],
       "key_points_zh": [
+        "Redis patterns for coding",
         "停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作",
         "Notes on Lagrange Interpolating Polynomials",
         "\u0026ldquo;How old are you?\u0026rdquo; Asked the OS"
       ],
       "key_points_en": [
+        "Redis patterns for coding",
         "After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting",
         "Notes on Lagrange Interpolating Polynomials",
         "\u0026ldquo;How old are you?\u0026rdquo; Asked the OS"
       ],
       "tweet_drafts": [
+        "Redis patterns for coding",
         "紧急运维中，命令行脚本的价值凸显：无需浏览器，直接查询Prometheus并输出宕机列表，速度与灵活性完胜网页仪表盘。你的团队有类似的‘急救’脚本吗？",
-        "Notes on Lagrange Interpolating Polynomials",
-        "\u0026ldquo;How old are you?\u0026rdquo; Asked the OS"
+        "Notes on Lagrange Interpolating Polynomials"
       ],
       "sources": [
+        {
+          "feed_title": "antirez.com",
+          "title": "Redis patterns for coding",
+          "link": "http://antirez.com/news/161"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "The simplest text table is sometimes just a printed command",
@@ -45,27 +54,22 @@
           "feed_title": "eli.thegreenplace.net",
           "title": "Notes on Lagrange Interpolating Polynomials",
           "link": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "\u0026ldquo;How old are you?\u0026rdquo; Asked the OS",
-          "link": "https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed"
         }
       ],
-      "summary_zh": "2026-03-01 技术日报：停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作；Notes on Lagrange Interpolating Polynomials；\u0026ldquo;How old are you?\u0026rdquo; Asked the OS。",
-      "summary_en": "Daily brief (2026-03-01): After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting; Notes on Lagrange Interpolating Polynomials; \u0026ldquo;How old are you?\u0026rdquo; A",
+      "summary_zh": "2026-03-01 技术日报：Redis patterns for coding；停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作；Notes on Lagrange Interpolating Polynomials。",
+      "summary_en": "Daily brief (2026-03-01): Redis patterns for coding; After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting; Notes on Lagrange Interpolating Polynomials.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-01 日报】停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作；Notes on Lagrange Interpolating Polynomials；\u0026ldquo;How old are you?\u0026rdquo; Asked the OS。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-01): After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting; Notes on Lagrange Interpolating Polynomials; \u0026ldquo;How old are you?\u0026rdquo;"
+          "zh": "【2026-03-01 日报】Redis patterns for coding；停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作；Notes on Lagrange Interpolating Polynomials。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-01): Redis patterns for coding; After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting; Notes on Lagrange Interpolating Polynomials. Acti"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-01）\n- 停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作\n- Notes on Lagrange Interpolating Polynomials\n- \u0026ldquo;How old are you?\u0026rdquo; Asked the OS\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands\n- https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/\n- https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-01)\n- After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting\n- Notes on Lagrange Interpolating Polynomials\n- \u0026ldquo;How old are you?\u0026rdquo; Asked the OS\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands\n- https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/\n- https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-01）\n- Redis patterns for coding\n- 停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作\n- Notes on Lagrange Interpolating Polynomials\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/161\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands\n- https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-01)\n- Redis patterns for coding\n- After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting\n- Notes on Lagrange Interpolating Polynomials\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/161\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands\n- https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作；Notes on Lagrange Interpolating Polynomials；\u0026ldquo;How old are you?\u0026rdquo; Asked the OS。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting; Notes on Lagrange Interpolating Polynomials; \u0026ldquo;How old are you?\u0026rdquo; Asked the OS.\nI turned them into an action-re"
+          "zh": "今天最值得看的 3 个点：Redis patterns for coding；停电故障后，用命令行脚本直接查询Prometheus获取宕机主机列表，比在Grafana网页中查看表格更快速、更适合服务器console操作；Notes on Lagrange Interpolating Polynomials。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Redis patterns for coding; After a power outage, a CLI script querying Prometheus for down hosts proved faster and more console-friendly than Grafana's web tables for troubleshooting; Notes on Lagrange Interpolating Polynomials.\nI turned them into an action-ready daily brief yo"
         }
       }
     },
