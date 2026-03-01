@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-01T21:36:53Z",
+  "generated_at": "2026-03-01T22:39:17Z",
   "days": [
     {
       "date": "2026-03-01",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "antirez.com (1)",
         "berthub.eu (1)",
         "eli.thegreenplace.net (1)",
         "evanhahn.com (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)"
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "jeffgeerling.com · Expert Beginners and Lone Wolves will dominate this early LLM era",
         "micahflee.com · \"Why hack the DHS? I can think of a couple Pretti Good reasons!\"",
         "johndcook.com · Shell variable ~-",
         "shkspr.mobi · Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
         "simonwillison.net · Quoting claude.com/import-memory",
-        "berthub.eu · Praatjes",
-        "antirez.com · Redis patterns for coding"
+        "berthub.eu · Praatjes"
       ],
       "key_points": [
+        "Expert Beginners and Lone Wolves will dominate this early LLM era",
         "DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联",
         "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作",
-        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
-        "Quoting claude.com/import-memory"
-      ],
-      "key_points_zh": [
-        "DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联",
-        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作",
-        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
-        "Quoting claude.com/import-memory"
-      ],
-      "key_points_en": [
-        "DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems",
-        "`~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories",
-        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
-        "Quoting claude.com/import-memory"
-      ],
-      "tweet_drafts": [
-        "ICE合同数据遭黑客公开，揭示DHS承包商网络。我用静态网站可视化JSON，发现7000万大单。技术人可下载分析：https://micahflee.github.io/ice-contracts/ #信息安全 #开源工具",
-        "你知道吗？Bash里有个隐藏变量`~-`，等于`$OLDPWD`。在来回切换的两个目录间对比文件？`diff file ~-/file` 一键搞定。功能老但实用，你们平时还用过哪些冷门但好用的Shell技巧？求分享！",
         "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆"
       ],
+      "key_points_zh": [
+        "Expert Beginners and Lone Wolves will dominate this early LLM era",
+        "DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联",
+        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作",
+        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆"
+      ],
+      "key_points_en": [
+        "Expert Beginners and Lone Wolves will dominate this early LLM era",
+        "DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems",
+        "`~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories",
+        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆"
+      ],
+      "tweet_drafts": [
+        "Expert Beginners and Lone Wolves will dominate this early LLM era",
+        "ICE合同数据遭黑客公开，揭示DHS承包商网络。我用静态网站可视化JSON，发现7000万大单。技术人可下载分析：https://micahflee.github.io/ice-contracts/ #信息安全 #开源工具",
+        "你知道吗？Bash里有个隐藏变量`~-`，等于`$OLDPWD`。在来回切换的两个目录间对比文件？`diff file ~-/file` 一键搞定。功能老但实用，你们平时还用过哪些冷门但好用的Shell技巧？求分享！"
+      ],
       "sources": [
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Expert Beginners and Lone Wolves will dominate this early LLM era",
+          "link": "https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/"
+        },
         {
           "feed_title": "micahflee.com",
           "title": "Why Hack the DHS? I Can Think of a Couple Pretti Good Reasons!",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "The Utility of the Shell Variable ~-",
           "link": "https://www.johndcook.com/blog/2026/03/01/tilde-dash/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
-          "link": "https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/"
         }
       ],
-      "summary_zh": "2026-03-01 技术日报：DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作；Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆。",
-      "summary_en": "Daily brief (2026-03-01): DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems; `~-` is a shor",
+      "summary_zh": "2026-03-01 技术日报：Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作。",
+      "summary_en": "Daily brief (2026-03-01): Expert Beginners and Lone Wolves will dominate this early LLM era; DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties be",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-01 日报】DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作；Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-01): DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems; `~-` is a sho"
+          "zh": "【2026-03-01 日报】Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-01): Expert Beginners and Lone Wolves will dominate this early LLM era; DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties b"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-01）\n- DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联\n- `~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作\n- Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n- https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-01)\n- DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems\n- `~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories\n- Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n- https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-01）\n- Expert Beginners and Lone Wolves will dominate this early LLM era\n- DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联\n- `~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-01)\n- Expert Beginners and Lone Wolves will dominate this early LLM era\n- DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems\n- `~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作；Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems; `~-` is a shortcut for `$OLDPWD`, allowing quick reference"
+          "zh": "今天最值得看的 3 个点：Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Expert Beginners and Lone Wolves will dominate this early LLM era; DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance"
         }
       }
     },
