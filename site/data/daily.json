@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-03-01T11:35:16Z",
+  "generated_at": "2026-03-01T12:01:53Z",
   "days": [
     {
       "date": "2026-03-01",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "antirez.com (1)",
         "eli.thegreenplace.net (1)",
         "idiallo.com (1)",
+        "nesbitt.io (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
@@ -16,7 +17,8 @@
         "antirez.com · Redis patterns for coding",
         "utcc.utoronto.ca/~cks · Sometimes the simplest version of a text table is printed from a command",
         "eli.thegreenplace.net · Notes on Lagrange Interpolating Polynomials",
-        "idiallo.com · \u0026ldquo;How old are you?\u0026rdquo; Asked the OS"
+        "idiallo.com · \u0026ldquo;How old are you?\u0026rdquo; Asked the OS",
+        "nesbitt.io · Downstream Testing"
       ],
       "key_points": [
         "Quoting claude.com/import-memory",
