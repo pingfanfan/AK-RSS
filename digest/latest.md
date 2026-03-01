@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-01 19:35:43 UTC
+Generated at: 2026-03-01 20:01:26 UTC
 
-- [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/) (`evanhahn.com`)
+- [Why on-device agentic AI can't keep up](https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss) (`martinalderson.com`)
