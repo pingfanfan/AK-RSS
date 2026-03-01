@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-01T18:01:39Z",
+  "generated_at": "2026-03-01T18:43:15Z",
   "days": [
     {
       "date": "2026-03-01",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "antirez.com (1)",
         "berthub.eu (1)",
         "eli.thegreenplace.net (1)",
         "idiallo.com (1)",
-        "nesbitt.io (1)",
-        "shkspr.mobi (1)"
+        "johndcook.com (1)",
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "johndcook.com · Shell variable ~-",
         "shkspr.mobi · Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
         "simonwillison.net · Quoting claude.com/import-memory",
         "berthub.eu · Praatjes",
         "antirez.com · Redis patterns for coding",
-        "utcc.utoronto.ca/~cks · Sometimes the simplest version of a text table is printed from a command",
-        "eli.thegreenplace.net · Notes on Lagrange Interpolating Polynomials"
+        "utcc.utoronto.ca/~cks · Sometimes the simplest version of a text table is printed from a command"
       ],
       "key_points": [
+        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作",
         "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
         "Quoting claude.com/import-memory",
-        "一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力",
-        "Redis patterns for coding"
+        "一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力"
       ],
       "key_points_zh": [
+        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作",
         "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
         "Quoting claude.com/import-memory",
-        "一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力",
-        "Redis patterns for coding"
+        "一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力"
       ],
       "key_points_en": [
+        "`~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories",
         "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
         "Quoting claude.com/import-memory",
-        "A chronological list of the author's public talks on digital autonomy, sovereignty, and cloud dependency, spanning government, finance, academia, etc., demonstrating ongoing influence in the field",
-        "Redis patterns for coding"
+        "A chronological list of the author's public talks on digital autonomy, sovereignty, and cloud dependency, spanning government, finance, academia, etc., demonstrating ongoing influence in the field"
       ],
       "tweet_drafts": [
+        "你知道吗？Bash里有个隐藏变量`~-`，等于`$OLDPWD`。在来回切换的两个目录间对比文件？`diff file ~-/file` 一键搞定。功能老但实用，你们平时还用过哪些冷门但好用的Shell技巧？求分享！",
         "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
-        "Quoting claude.com/import-memory",
-        "数字自主不是空谈。这份跨越2024-2026年的演讲列表，对象包括AFM、CBS、TenneT、各大学及议会，证明该议题已深入基础设施与政策核心。开发者需关注其技术影响"
+        "Quoting claude.com/import-memory"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "The Utility of the Shell Variable ~-",
+          "link": "https://www.johndcook.com/blog/2026/03/01/tilde-dash/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
@@ -53,40 +58,35 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting claude.com/import-memory",
           "link": "https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "Public Talks List",
-          "link": "https://berthub.eu/articles/praatjes/"
         }
       ],
-      "summary_zh": "2026-03-01 技术日报：Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆；Quoting claude.com/import-memory；一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力。",
-      "summary_en": "Daily brief (2026-03-01): Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆; Quoting claude.com/import-memory; A chronological list of the author's public talks on digital autonomy, sovereignty, and cloud dependency, spanning governmen",
+      "summary_zh": "2026-03-01 技术日报：`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作；Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆；Quoting claude.com/import-memory。",
+      "summary_en": "Daily brief (2026-03-01): `~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories; Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆;",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-01 日报】Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆；Quoting claude.com/import-memory；一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-01): Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆; Quoting claude.com/import-memory; A chronological list of the author's public talks on digital autonomy, sovereignty, and cloud dependency, spanning governme"
+          "zh": "【2026-03-01 日报】`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作；Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆；Quoting claude.com/import-memory。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-01): `~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories; Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-01）\n- Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆\n- Quoting claude.com/import-memory\n- 一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/\n- https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything\n- https://berthub.eu/articles/praatjes/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-01)\n- Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆\n- Quoting claude.com/import-memory\n- A chronological list of the author's public talks on digital autonomy, sovereignty, and cloud dependency, spanning government, finance, academia, etc., demonstrating ongoing influence in the field\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/\n- https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything\n- https://berthub.eu/articles/praatjes/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-01）\n- `~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作\n- Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆\n- Quoting claude.com/import-memory\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n- https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/\n- https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-01)\n- `~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories\n- Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆\n- Quoting claude.com/import-memory\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n- https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/\n- https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆；Quoting claude.com/import-memory；一份作者关于数字自主、主权与云依赖的公开演讲时间表，覆盖政府、金融、学术等多领域，展示其在该议题上的持续影响力。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆; Quoting claude.com/import-memory; A chronological list of the author's public talks on digital autonomy, sovereignty, and cloud dependency, spanning government, finance, academia, etc., demonstrating on"
+          "zh": "今天最值得看的 3 个点：`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作；Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆；Quoting claude.com/import-memory。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: `~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories; Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆; Quoting claude.com/import-memory.\nI turned"
         }
       }
     },
     {
       "date": "2026-02-28",
-      "total": 15,
+      "total": 16,
       "feeds": [
+        "susam.net (2)",
         "abortretry.fail (1)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "evanhahn.com (1)",
-        "idiallo.com (1)",
-        "johndcook.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
         "simonwillison.net · Interactive explanations",
