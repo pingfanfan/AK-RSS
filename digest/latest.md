@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-01 12:01:39 UTC
+Generated at: 2026-03-01 12:44:20 UTC
 
-- [Downstream Testing](https://nesbitt.io/2026/03/01/downstream-testing.html) (`nesbitt.io`)
+- [Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆](https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/) (`shkspr.mobi`)
