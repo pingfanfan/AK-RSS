@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-02 20:05:10 UTC
+Generated at: 2026-03-02 20:43:21 UTC
 
-- [SerpApi Filed Motion to Dismiss Google’s Lawsuit](https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/) (`daringfireball.net`)
+- [Welcome (Back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh) (`daringfireball.net`)
