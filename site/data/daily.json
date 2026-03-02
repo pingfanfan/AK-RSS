@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-03-02T10:13:28Z",
+  "generated_at": "2026-03-02T10:44:32Z",
   "days": [
     {
       "date": "2026-03-02",
-      "total": 4,
+      "total": 5,
       "feeds": [
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "nesbitt.io · Transitive Trust",
         "pluralistic.net · Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
         "troyhunt.com · Weekly Update 493",
         "utcc.utoronto.ca/~cks · The things that make me so attached to xterm as my terminal program",
         "xeiaso.net · The Unbound Scepter"
       ],
       "key_points": [
-        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-        "Weekly Update 493",
-        "The things that make me so attached to xterm as my terminal program",
-        "The Unbound Scepter"
-      ],
-      "key_points_zh": [
-        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-        "Weekly Update 493",
-        "The things that make me so attached to xterm as my terminal program",
-        "The Unbound Scepter"
-      ],
-      "key_points_en": [
-        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-        "Weekly Update 493",
-        "The things that make me so attached to xterm as my terminal program",
-        "The Unbound Scepter"
-      ],
-      "tweet_drafts": [
+        "开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视",
         "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
         "Weekly Update 493",
         "The things that make me so attached to xterm as my terminal program"
       ],
+      "key_points_zh": [
+        "开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视",
+        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
+        "Weekly Update 493",
+        "The things that make me so attached to xterm as my terminal program"
+      ],
+      "key_points_en": [
+        "The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked",
+        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
+        "Weekly Update 493",
+        "The things that make me so attached to xterm as my terminal program"
+      ],
+      "tweet_drafts": [
+        "开源依赖的传递信任：你不仅信任直接依赖，还信任其维护者及其所有选择。一个疏忽的devDependency就可能污染整个链。立即行动：生成SBOM，审计完整树。#安全 #基础设施",
+        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
+        "Weekly Update 493"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Transitive Trust: The Invisible Risk in Open Source Dependency Chains",
+          "link": "https://nesbitt.io/2026/03/02/transitive-trust.html"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
@@ -49,27 +56,22 @@
           "feed_title": "troyhunt.com",
           "title": "Weekly Update 493",
           "link": "https://www.troyhunt.com/weekly-update-493/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "The things that make me so attached to xterm as my terminal program",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached"
         }
       ],
-      "summary_zh": "2026-03-02 技术日报：Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493；The things that make me so attached to xterm as my terminal program。",
-      "summary_en": "Daily brief (2026-03-02): Pluralistic: No one wants to read your AI slop (02 Mar 2026); Weekly Update 493; The things that make me so attached to xterm as my terminal program.",
+      "summary_zh": "2026-03-02 技术日报：开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493。",
+      "summary_en": "Daily brief (2026-03-02): The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked;",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-02 日报】Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493；The things that make me so attached to xterm as my terminal program。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-02): Pluralistic: No one wants to read your AI slop (02 Mar 2026); Weekly Update 493; The things that make me so attached to xterm as my terminal program. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
+          "zh": "【2026-03-02 日报】开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-02): The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n- Weekly Update 493\n- The things that make me so attached to xterm as my terminal program\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n- https://www.troyhunt.com/weekly-update-493/\n- https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n- Weekly Update 493\n- The things that make me so attached to xterm as my terminal program\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n- https://www.troyhunt.com/weekly-update-493/\n- https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-02）\n- 开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n- Weekly Update 493\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/02/transitive-trust.html\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n- https://www.troyhunt.com/weekly-update-493/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-02)\n- The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n- Weekly Update 493\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/02/transitive-trust.html\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n- https://www.troyhunt.com/weekly-update-493/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493；The things that make me so attached to xterm as my terminal program。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: No one wants to read your AI slop (02 Mar 2026); Weekly Update 493; The things that make me so attached to xterm as my terminal program.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked; Pluralistic: No one wants to read your AI s"
         }
       }
     },
