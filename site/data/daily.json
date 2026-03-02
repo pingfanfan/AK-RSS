@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-03-02T11:39:58Z",
+  "generated_at": "2026-03-02T12:04:48Z",
   "days": [
     {
       "date": "2026-03-02",
-      "total": 5,
+      "total": 6,
       "feeds": [
+        "idiallo.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
         "troyhunt.com (1)",
@@ -12,6 +13,7 @@
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "idiallo.com · Why we feel an aversion towards LLM articles",
         "nesbitt.io · Transitive Trust",
         "pluralistic.net · Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
         "troyhunt.com · Weekly Update 493",
@@ -19,29 +21,34 @@
         "xeiaso.net · The Unbound Scepter"
       ],
       "key_points": [
+        "Why we feel an aversion towards LLM articles",
         "开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视",
-        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-        "Weekly Update 493",
-        "The things that make me so attached to xterm as my terminal program"
-      ],
-      "key_points_zh": [
-        "开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视",
-        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-        "Weekly Update 493",
-        "The things that make me so attached to xterm as my terminal program"
-      ],
-      "key_points_en": [
-        "The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked",
-        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-        "Weekly Update 493",
-        "The things that make me so attached to xterm as my terminal program"
-      ],
-      "tweet_drafts": [
-        "开源依赖的传递信任：你不仅信任直接依赖，还信任其维护者及其所有选择。一个疏忽的devDependency就可能污染整个链。立即行动：生成SBOM，审计完整树。#安全 #基础设施",
         "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
         "Weekly Update 493"
       ],
+      "key_points_zh": [
+        "Why we feel an aversion towards LLM articles",
+        "开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视",
+        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
+        "Weekly Update 493"
+      ],
+      "key_points_en": [
+        "Why we feel an aversion towards LLM articles",
+        "The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked",
+        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
+        "Weekly Update 493"
+      ],
+      "tweet_drafts": [
+        "Why we feel an aversion towards LLM articles",
+        "开源依赖的传递信任：你不仅信任直接依赖，还信任其维护者及其所有选择。一个疏忽的devDependency就可能污染整个链。立即行动：生成SBOM，审计完整树。#安全 #基础设施",
+        "Pluralistic: No one wants to read your AI slop (02 Mar 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Why we feel an aversion towards LLM articles",
+          "link": "https://idiallo.com/blog/why-we-hate-llm-articles?src=feed"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Transitive Trust: The Invisible Risk in Open Source Dependency Chains",
@@ -51,27 +58,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
           "link": "https://pluralistic.net/2026/03/02/nonconsensual-slopping/"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 493",
-          "link": "https://www.troyhunt.com/weekly-update-493/"
         }
       ],
-      "summary_zh": "2026-03-02 技术日报：开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493。",
-      "summary_en": "Daily brief (2026-03-02): The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked;",
+      "summary_zh": "2026-03-02 技术日报：Why we feel an aversion towards LLM articles；开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)。",
+      "summary_en": "Daily brief (2026-03-02): Why we feel an aversion towards LLM articles; The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface;",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-02 日报】开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-02): The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked"
+          "zh": "【2026-03-02 日报】Why we feel an aversion towards LLM articles；开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-02): Why we feel an aversion towards LLM articles; The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- 开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n- Weekly Update 493\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/02/transitive-trust.html\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n- https://www.troyhunt.com/weekly-update-493/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n- Weekly Update 493\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/02/transitive-trust.html\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n- https://www.troyhunt.com/weekly-update-493/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-02）\n- Why we feel an aversion towards LLM articles\n- 开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/why-we-hate-llm-articles?src=feed\n- https://nesbitt.io/2026/03/02/transitive-trust.html\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-02)\n- Why we feel an aversion towards LLM articles\n- The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked\n- Pluralistic: No one wants to read your AI slop (02 Mar 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/why-we-hate-llm-articles?src=feed\n- https://nesbitt.io/2026/03/02/transitive-trust.html\n- https://pluralistic.net/2026/03/02/nonconsensual-slopping/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)；Weekly Update 493。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked; Pluralistic: No one wants to read your AI s"
+          "zh": "今天最值得看的 3 个点：Why we feel an aversion towards LLM articles；开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视；Pluralistic: No one wants to read your AI slop (02 Mar 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Why we feel an aversion towards LLM articles; The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooke"
         }
       }
     },
