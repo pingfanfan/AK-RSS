@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-02T21:07:36Z",
+  "generated_at": "2026-03-02T21:43:14Z",
   "days": [
     {
       "date": "2026-03-02",
-      "total": 18,
+      "total": 20,
       "feeds": [
-        "daringfireball.net (6)",
+        "daringfireball.net (7)",
         "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)"
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "jeffgeerling.com · I built a pint-sized Macintosh",
+        "daringfireball.net · ChangeTheHeaders",
         "devblogs.microsoft.com/oldnewthing · What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
         "daringfireball.net · Welcome (Back) to Macintosh",
         "daringfireball.net · SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "daringfireball.net · ‘Anthropic and Alignment’",
-        "daringfireball.net · WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’",
-        "daringfireball.net · Apple Introduces New iPad Air With M4"
+        "daringfireball.net · ‘Anthropic and Alignment’"
       ],
       "key_points": [
+        "使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%",
+        "Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性",
         "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "Welcome (Back) to Macintosh",
-        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "‘Anthropic and Alignment’"
+        "Welcome (Back) to Macintosh"
       ],
       "key_points_zh": [
+        "使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%",
+        "Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性",
         "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "Welcome (Back) to Macintosh",
-        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "‘Anthropic and Alignment’"
+        "Welcome (Back) to Macintosh"
       ],
       "key_points_en": [
+        "A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original",
+        "Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility",
         "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "Welcome (Back) to Macintosh",
-        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "‘Anthropic and Alignment’"
+        "Welcome (Back) to Macintosh"
       ],
       "tweet_drafts": [
-        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "Welcome (Back) to Macintosh",
-        "SerpApi Filed Motion to Dismiss Google’s Lawsuit"
+        "袖珍Macintosh诞生！基于Pico，运行System 5.3，外设全兼容。硬件限制下的创新案例，开发者快来尝试。#嵌入式开发",
+        "Safari拖拽图片得WebP的坑，原来是Accept头里WebP和PNG优先级相同。ChangeTheHeaders扩展能修改请求头，强制返回所需格式，推荐开发者试试",
+        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?"
       ],
       "sources": [
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "I built a pint-sized Macintosh",
+          "link": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "ChangeTheHeaders: Fixing Image Format Issues by Modifying Request Headers",
+          "link": "https://underpassapp.com/news/2025/3/4.html"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Welcome (Back) to Macintosh",
-          "link": "https://take.surf/2026/03/01/welcome-back-to-macintosh"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-          "link": "https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/"
         }
       ],
-      "summary_zh": "2026-03-02 技术日报：What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?；Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit。",
-      "summary_en": "Daily brief (2026-03-02): What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?; Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit.",
+      "summary_zh": "2026-03-02 技术日报：使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性；What sort of horrible things happen if my dialog has a non-button with the control ID",
+      "summary_en": "Daily brief (2026-03-02): A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original; Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-02 日报】What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?；Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-02): What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?; Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit. Actionable takeaways included. What would you ship nex"
+          "zh": "【2026-03-02 日报】使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性；What sort of horrible things happen if my dialog has a non-button with the control ID",
+          "en": "AK-RSS Daily (2026-03-02): A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original; Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n- Welcome (Back) to Macintosh\n- SerpApi Filed Motion to Dismiss Google’s Lawsuit\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n- https://take.surf/2026/03/01/welcome-back-to-macintosh\n- https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n- Welcome (Back) to Macintosh\n- SerpApi Filed Motion to Dismiss Google’s Lawsuit\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n- https://take.surf/2026/03/01/welcome-back-to-macintosh\n- https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-02）\n- 使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%\n- Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-02)\n- A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original\n- Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?；Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?; Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性；What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original; Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The Change"
         }
       }
     },
