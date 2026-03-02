@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-02T20:43:56Z",
+  "generated_at": "2026-03-02T21:07:36Z",
   "days": [
     {
       "date": "2026-03-02",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "daringfireball.net (6)",
         "simonwillison.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "devblogs.microsoft.com/oldnewthing · What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
         "daringfireball.net · Welcome (Back) to Macintosh",
         "daringfireball.net · SerpApi Filed Motion to Dismiss Google’s Lawsuit",
         "daringfireball.net · ‘Anthropic and Alignment’",
         "daringfireball.net · WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’",
-        "daringfireball.net · Apple Introduces New iPad Air With M4",
-        "simonwillison.net · GIF optimization tool using WebAssembly and Gifsicle"
+        "daringfireball.net · Apple Introduces New iPad Air With M4"
       ],
       "key_points": [
-        "Welcome (Back) to Macintosh",
-        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "‘Anthropic and Alignment’",
-        "WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’"
-      ],
-      "key_points_zh": [
-        "Welcome (Back) to Macintosh",
-        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "‘Anthropic and Alignment’",
-        "WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’"
-      ],
-      "key_points_en": [
-        "Welcome (Back) to Macintosh",
-        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "‘Anthropic and Alignment’",
-        "WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’"
-      ],
-      "tweet_drafts": [
+        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
         "Welcome (Back) to Macintosh",
         "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
         "‘Anthropic and Alignment’"
       ],
+      "key_points_zh": [
+        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
+        "Welcome (Back) to Macintosh",
+        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
+        "‘Anthropic and Alignment’"
+      ],
+      "key_points_en": [
+        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
+        "Welcome (Back) to Macintosh",
+        "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
+        "‘Anthropic and Alignment’"
+      ],
+      "tweet_drafts": [
+        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
+        "Welcome (Back) to Macintosh",
+        "SerpApi Filed Motion to Dismiss Google’s Lawsuit"
+      ],
       "sources": [
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Welcome (Back) to Macintosh",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "SerpApi Filed Motion to Dismiss Google’s Lawsuit",
           "link": "https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘Anthropic and Alignment’",
-          "link": "https://stratechery.com/2026/anthropic-and-alignment/"
         }
       ],
-      "summary_zh": "2026-03-02 技术日报：Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit；‘Anthropic and Alignment’。",
-      "summary_en": "Daily brief (2026-03-02): Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit; ‘Anthropic and Alignment’.",
+      "summary_zh": "2026-03-02 技术日报：What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?；Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit。",
+      "summary_en": "Daily brief (2026-03-02): What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?; Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-02 日报】Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit；‘Anthropic and Alignment’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-02): Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit; ‘Anthropic and Alignment’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-02 日报】What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?；Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-02): What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?; Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit. Actionable takeaways included. What would you ship nex"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- Welcome (Back) to Macintosh\n- SerpApi Filed Motion to Dismiss Google’s Lawsuit\n- ‘Anthropic and Alignment’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://take.surf/2026/03/01/welcome-back-to-macintosh\n- https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/\n- https://stratechery.com/2026/anthropic-and-alignment/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- Welcome (Back) to Macintosh\n- SerpApi Filed Motion to Dismiss Google’s Lawsuit\n- ‘Anthropic and Alignment’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://take.surf/2026/03/01/welcome-back-to-macintosh\n- https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/\n- https://stratechery.com/2026/anthropic-and-alignment/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-02）\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n- Welcome (Back) to Macintosh\n- SerpApi Filed Motion to Dismiss Google’s Lawsuit\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n- https://take.surf/2026/03/01/welcome-back-to-macintosh\n- https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-02)\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n- Welcome (Back) to Macintosh\n- SerpApi Filed Motion to Dismiss Google’s Lawsuit\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n- https://take.surf/2026/03/01/welcome-back-to-macintosh\n- https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit；‘Anthropic and Alignment’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit; ‘Anthropic and Alignment’.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?；Welcome (Back) to Macintosh；SerpApi Filed Motion to Dismiss Google’s Lawsuit。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?; Welcome (Back) to Macintosh; SerpApi Filed Motion to Dismiss Google’s Lawsuit.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
