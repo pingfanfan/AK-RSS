@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-02T17:14:11Z",
+  "generated_at": "2026-03-02T17:44:55Z",
   "days": [
     {
       "date": "2026-03-02",
-      "total": 12,
+      "total": 13,
       "feeds": [
+        "daringfireball.net (2)",
         "simonwillison.net (2)",
-        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple Introduces New iPad Air With M4",
         "simonwillison.net · GIF optimization tool using WebAssembly and Gifsicle",
         "johndcook.com · Differential equation with a small delay",
         "daringfireball.net · Apple Introduces iPhone 17e",
         "simonwillison.net · February sponsors-only newsletter",
-        "shkspr.mobi · Adding \"Log In With Mastodon\" to Auth0",
-        "dfarq.homeip.net · AMD Am386 released March 2, 1991"
+        "shkspr.mobi · Adding \"Log In With Mastodon\" to Auth0"
       ],
       "key_points": [
+        "新款iPad Air搭载M4芯片，CPU/GPU及神经引擎显著提速，内存增至12GB，支持Wi-Fi 7，起售价维持$599",
         "使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载",
-        "Differential equation with a small delay",
-        "Apple Introduces iPhone 17e",
-        "February sponsors-only newsletter"
-      ],
-      "key_points_zh": [
-        "使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载",
-        "Differential equation with a small delay",
-        "Apple Introduces iPhone 17e",
-        "February sponsors-only newsletter"
-      ],
-      "key_points_en": [
-        "Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and downloads",
-        "Differential equation with a small delay",
-        "Apple Introduces iPhone 17e",
-        "February sponsors-only newsletter"
-      ],
-      "tweet_drafts": [
-        "用Claude Code + WebAssembly把经典GIF工具Gifsicle搬进浏览器！拖放GIF即可实时预览压缩效果，调整参数一键下载。代码开源，看如何用AI加速WASM工程化：https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/ #WebDev #WASM",
         "Differential equation with a small delay",
         "Apple Introduces iPhone 17e"
       ],
+      "key_points_zh": [
+        "新款iPad Air搭载M4芯片，CPU/GPU及神经引擎显著提速，内存增至12GB，支持Wi-Fi 7，起售价维持$599",
+        "使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载",
+        "Differential equation with a small delay",
+        "Apple Introduces iPhone 17e"
+      ],
+      "key_points_en": [
+        "New iPad Air features M4 chip with major CPU/GPU/Neural Engine boosts, 12GB RAM, Wi-Fi 7 support, starting at same $599 price",
+        "Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and downloads",
+        "Differential equation with a small delay",
+        "Apple Introduces iPhone 17e"
+      ],
+      "tweet_drafts": [
+        "iPad Air换装M4，性能对标Pro系列？12GB内存+神经引擎升级，让移动开发与AI原型更高效。价格未涨，教育优惠再加码。你的下一台主力开发设备会是iPad吗？ #科技快讯 #苹果新品",
+        "用Claude Code + WebAssembly把经典GIF工具Gifsicle搬进浏览器！拖放GIF即可实时预览压缩效果，调整参数一键下载。代码开源，看如何用AI加速WASM工程化：https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/ #WebDev #WASM",
+        "Differential equation with a small delay"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Unveils New iPad Air: M4-Powered, Performance Leap",
+          "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "GIF Optimization Tool Using WebAssembly and Gifsicle",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "Differential equation with a small delay",
           "link": "https://www.johndcook.com/blog/2026/03/02/small-delay/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Apple Introduces iPhone 17e",
-          "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/"
         }
       ],
-      "summary_zh": "2026-03-02 技术日报：使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载；Differential equation with a small delay；Apple Introduces iPhone 17e。",
-      "summary_en": "Daily brief (2026-03-02): Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and downloads; Differential equation with a small delay; Apple Introduces iPhone 17e.",
+      "summary_zh": "2026-03-02 技术日报：新款iPad Air搭载M4芯片，CPU/GPU及神经引擎显著提速，内存增至12GB，支持Wi-Fi 7，起售价维持$599；使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载；Differential equation with a small delay。",
+      "summary_en": "Daily brief (2026-03-02): New iPad Air features M4 chip with major CPU/GPU/Neural Engine boosts, 12GB RAM, Wi-Fi 7 support, starting at same $599 price; Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop,",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-02 日报】使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载；Differential equation with a small delay；Apple Introduces iPhone 17e。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-02): Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and downloads; Differential equation with a small delay; Apple Introduces iPhone 17e."
+          "zh": "【2026-03-02 日报】新款iPad Air搭载M4芯片，CPU/GPU及神经引擎显著提速，内存增至12GB，支持Wi-Fi 7，起售价维持$599；使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载；Differential equation with a small delay。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-02): New iPad Air features M4 chip with major CPU/GPU/Neural Engine boosts, 12GB RAM, Wi-Fi 7 support, starting at same $599 price; Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- 使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载\n- Differential equation with a small delay\n- Apple Introduces iPhone 17e\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything\n- https://www.johndcook.com/blog/2026/03/02/small-delay/\n- https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and downloads\n- Differential equation with a small delay\n- Apple Introduces iPhone 17e\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything\n- https://www.johndcook.com/blog/2026/03/02/small-delay/\n- https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-02）\n- 新款iPad Air搭载M4芯片，CPU/GPU及神经引擎显著提速，内存增至12GB，支持Wi-Fi 7，起售价维持$599\n- 使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载\n- Differential equation with a small delay\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/\n- https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything\n- https://www.johndcook.com/blog/2026/03/02/small-delay/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-02)\n- New iPad Air features M4 chip with major CPU/GPU/Neural Engine boosts, 12GB RAM, Wi-Fi 7 support, starting at same $599 price\n- Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and downloads\n- Differential equation with a small delay\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/\n- https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything\n- https://www.johndcook.com/blog/2026/03/02/small-delay/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载；Differential equation with a small delay；Apple Introduces iPhone 17e。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and downloads; Differential equation with a small delay; Apple Introduces iPhone 17e.\nI turned them into an action-ready daily brie"
+          "zh": "今天最值得看的 3 个点：新款iPad Air搭载M4芯片，CPU/GPU及神经引擎显著提速，内存增至12GB，支持Wi-Fi 7，起售价维持$599；使用Claude Code将Gifsicle编译为WASM，构建浏览器内GIF优化工具，支持拖放、实时预览多种压缩设置并下载；Differential equation with a small delay。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: New iPad Air features M4 chip with major CPU/GPU/Neural Engine boosts, 12GB RAM, Wi-Fi 7 support, starting at same $599 price; Built a browser-based GIF optimizer by compiling Gifsicle to WASM with Claude Code. Features drag-and-drop, live previews of compression settings, and"
         }
       }
     },
