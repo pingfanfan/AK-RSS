@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-03-01T22:39:17Z",
+  "generated_at": "2026-03-02T06:13:13Z",
   "days": [
     {
       "date": "2026-03-01",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "antirez.com (1)",
         "berthub.eu (1)",
+        "blog.jim-nielsen.com (1)",
         "eli.thegreenplace.net (1)",
         "evanhahn.com (1)",
-        "idiallo.com (1)",
-        "jeffgeerling.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
         "jeffgeerling.com · Expert Beginners and Lone Wolves will dominate this early LLM era",
         "micahflee.com · \"Why hack the DHS? I can think of a couple Pretti Good reasons!\"",
+        "blog.jim-nielsen.com · Book Notes: “Blood In The Machine” by Brian Merchant",
         "johndcook.com · Shell variable ~-",
         "shkspr.mobi · Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
-        "simonwillison.net · Quoting claude.com/import-memory",
-        "berthub.eu · Praatjes"
+        "simonwillison.net · Quoting claude.com/import-memory"
       ],
       "key_points": [
         "Expert Beginners and Lone Wolves will dominate this early LLM era",
         "DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联",
-        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作",
-        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆"
+        "AI本身不是威胁，威胁在于它被用于剥削劳动力、集中财富，如同工业革命时期的工厂系统",
+        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作"
       ],
       "key_points_zh": [
         "Expert Beginners and Lone Wolves will dominate this early LLM era",
         "DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联",
-        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作",
-        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆"
+        "AI本身不是威胁，威胁在于它被用于剥削劳动力、集中财富，如同工业革命时期的工厂系统",
+        "`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作"
       ],
       "key_points_en": [
         "Expert Beginners and Lone Wolves will dominate this early LLM era",
         "DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems",
-        "`~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories",
-        "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆"
+        "AI isn't the threat; it's the exploitation. Like the Luddites, we must challenge how tech consolidates power, not the tech itself",
+        "`~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories"
       ],
       "tweet_drafts": [
         "Expert Beginners and Lone Wolves will dominate this early LLM era",
         "ICE合同数据遭黑客公开，揭示DHS承包商网络。我用静态网站可视化JSON，发现7000万大单。技术人可下载分析：https://micahflee.github.io/ice-contracts/ #信息安全 #开源工具",
-        "你知道吗？Bash里有个隐藏变量`~-`，等于`$OLDPWD`。在来回切换的两个目录间对比文件？`diff file ~-/file` 一键搞定。功能老但实用，你们平时还用过哪些冷门但好用的Shell技巧？求分享！"
+        "AI焦虑常聚焦于AGI，但真正危险是它被用于剥削。《机器中的血》提醒：卢德运动反抗的是“伤害共同体的机器”，而非机器本身。警惕AI成为资本集中工具。#AI #劳工权利"
       ],
       "sources": [
         {
@@ -55,24 +55,24 @@
           "link": "https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/"
         },
         {
-          "feed_title": "johndcook.com",
-          "title": "The Utility of the Shell Variable ~-",
-          "link": "https://www.johndcook.com/blog/2026/03/01/tilde-dash/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Book Notes: 'Blood In The Machine' - Lessons for the AI Age",
+          "link": "https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/"
         }
       ],
-      "summary_zh": "2026-03-01 技术日报：Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作。",
+      "summary_zh": "2026-03-01 技术日报：Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；AI本身不是威胁，威胁在于它被用于剥削劳动力、集中财富，如同工业革命时期的工厂系统。",
       "summary_en": "Daily brief (2026-03-01): Expert Beginners and Lone Wolves will dominate this early LLM era; DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties be",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-01 日报】Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "zh": "【2026-03-01 日报】Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；AI本身不是威胁，威胁在于它被用于剥削劳动力、集中财富，如同工业革命时期的工厂系统。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
           "en": "AK-RSS Daily (2026-03-01): Expert Beginners and Lone Wolves will dominate this early LLM era; DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties b"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-01）\n- Expert Beginners and Lone Wolves will dominate this early LLM era\n- DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联\n- `~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-01)\n- Expert Beginners and Lone Wolves will dominate this early LLM era\n- DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems\n- `~-` is a shortcut for `$OLDPWD`, allowing quick reference to the previous working directory to simplify operations like file comparisons between directories\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://www.johndcook.com/blog/2026/03/01/tilde-dash/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-01）\n- Expert Beginners and Lone Wolves will dominate this early LLM era\n- DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联\n- AI本身不是威胁，威胁在于它被用于剥削劳动力、集中财富，如同工业革命时期的工厂系统\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-01)\n- Expert Beginners and Lone Wolves will dominate this early LLM era\n- DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance systems\n- AI isn't the threat; it's the exploitation. Like the Luddites, we must challenge how tech consolidates power, not the tech itself\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/\n- https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/\n- https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；`~-`是`$OLDPWD`的快捷方式，可快速引用上一个工作目录，简化目录间文件比较等操作。\n我把行动建议做成日报了，可以直接拿去用。",
+          "zh": "今天最值得看的 3 个点：Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；AI本身不是威胁，威胁在于它被用于剥削劳动力、集中财富，如同工业革命时期的工厂系统。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Expert Beginners and Lone Wolves will dominate this early LLM era; DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance"
         }
       }
