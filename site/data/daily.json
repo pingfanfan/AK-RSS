@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-02T14:44:11Z",
+  "generated_at": "2026-03-02T15:12:43Z",
   "days": [
     {
       "date": "2026-03-02",
-      "total": 8,
+      "total": 10,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "shkspr.mobi (1)",
-        "troyhunt.com (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple Introduces iPhone 17e",
+        "simonwillison.net · February sponsors-only newsletter",
         "shkspr.mobi · Adding \"Log In With Mastodon\" to Auth0",
         "dfarq.homeip.net · AMD Am386 released March 2, 1991",
         "idiallo.com · Why we feel an aversion towards LLM articles",
-        "nesbitt.io · Transitive Trust",
-        "pluralistic.net · Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-        "troyhunt.com · Weekly Update 493"
+        "nesbitt.io · Transitive Trust"
       ],
       "key_points": [
+        "Apple Introduces iPhone 17e",
+        "February sponsors-only newsletter",
         "Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商",
-        "AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致",
-        "Why we feel an aversion towards LLM articles",
-        "开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视"
+        "AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致"
       ],
       "key_points_zh": [
+        "Apple Introduces iPhone 17e",
+        "February sponsors-only newsletter",
         "Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商",
-        "AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致",
-        "Why we feel an aversion towards LLM articles",
-        "开源依赖的信任链脆弱：你不仅信任直接依赖，还信任其维护者及其所有依赖的维护者，形成无限传递。工具只能扫描表层，深层构建依赖常被忽视"
+        "AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致"
       ],
       "key_points_en": [
+        "Apple Introduces iPhone 17e",
+        "February sponsors-only newsletter",
         "Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse instance",
-        "AMD's Am386 arrived nearly six years after Intel's 386, a delay due to strategic choices and market positioning, not a lack of cloning capability",
-        "Why we feel an aversion towards LLM articles",
-        "The trust chain in open source is fragile: you trust not just your direct dependencies, but their maintainers and their maintainers' dependencies ad infinitum. Tools only scan the surface; deep build dependencies are often overlooked"
+        "AMD's Am386 arrived nearly six years after Intel's 386, a delay due to strategic choices and market positioning, not a lack of cloning capability"
       ],
       "tweet_drafts": [
-        "技术挑战：如何在中心化身份平台（Auth0）上支持去中心化社交网络（Fediverse）的登录？答案是自定义 OIDC 连接 + 动态客户端注册。详细解析与开源代码：",
-        "AMD Am386的发布常被误读为技术落后。实则是战略选择：专注闪存、应对法律战、等待市场窗口。技术竞争不仅是工程，更是商业与法律的综合博弈。回顾历史，对理解当今芯片战仍有启示",
-        "Why we feel an aversion towards LLM articles"
+        "Apple Introduces iPhone 17e",
+        "February sponsors-only newsletter",
+        "技术挑战：如何在中心化身份平台（Auth0）上支持去中心化社交网络（Fediverse）的登录？答案是自定义 OIDC 连接 + 动态客户端注册。详细解析与开源代码："
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Introduces iPhone 17e",
+          "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "February sponsors-only newsletter",
+          "link": "https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Adding \"Log In With Mastodon\" to Auth0",
           "link": "https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "AMD Am386 Released March 2, 1991",
-          "link": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=amd-am386-released-march-2-1991"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Why we feel an aversion towards LLM articles",
-          "link": "https://idiallo.com/blog/why-we-hate-llm-articles?src=feed"
         }
       ],
-      "summary_zh": "2026-03-02 技术日报：Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商；AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致；Why we feel an aversion towards LLM articles。",
-      "summary_en": "Daily brief (2026-03-02): Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse instance; AMD's Am386 arrived nearly six years after Intel's 386,",
+      "summary_zh": "2026-03-02 技术日报：Apple Introduces iPhone 17e；February sponsors-only newsletter；Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商。",
+      "summary_en": "Daily brief (2026-03-02): Apple Introduces iPhone 17e; February sponsors-only newsletter; Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse i",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-02 日报】Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商；AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致；Why we feel an aversion towards LLM articles。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-02): Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse instance; AMD's Am386 arrived nearly six years after Intel's 386"
+          "zh": "【2026-03-02 日报】Apple Introduces iPhone 17e；February sponsors-only newsletter；Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-02): Apple Introduces iPhone 17e; February sponsors-only newsletter; Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商\n- AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致\n- Why we feel an aversion towards LLM articles\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/\n- https://dfarq.homeip.net/amd-am386-released-march-2-1991/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=amd-am386-released-march-2-1991\n- https://idiallo.com/blog/why-we-hate-llm-articles?src=feed\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse instance\n- AMD's Am386 arrived nearly six years after Intel's 386, a delay due to strategic choices and market positioning, not a lack of cloning capability\n- Why we feel an aversion towards LLM articles\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/\n- https://dfarq.homeip.net/amd-am386-released-march-2-1991/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=amd-am386-released-march-2-1991\n- https://idiallo.com/blog/why-we-hate-llm-articles?src=feed\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-02）\n- Apple Introduces iPhone 17e\n- February sponsors-only newsletter\n- Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/\n- https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything\n- https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-02)\n- Apple Introduces iPhone 17e\n- February sponsors-only newsletter\n- Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse instance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/\n- https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything\n- https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商；AMD Am386的发布比Intel 386晚了近6年，但这并非技术能力不足，而是其当时的战略选择与市场定位所致；Why we feel an aversion towards LLM articles。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse instance; AMD's Am386 arrived nearly six years after Intel's 386, a delay due to strategic choices and market"
+          "zh": "今天最值得看的 3 个点：Apple Introduces iPhone 17e；February sponsors-only newsletter；Auth0 官方不支持 Mastodon 登录，但可通过其 Connections API 结合 Mastodon 的动态应用注册功能，实现适配任意联邦宇宙实例的自定义 OIDC 身份提供商。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple Introduces iPhone 17e; February sponsors-only newsletter; Auth0 lacks native Mastodon login, but you can use its Connections API with Mastodon's dynamic app registration to build a custom OIDC IdP that works with any Fediverse instance.\nI turned them into an action-ready"
         }
       }
     },
