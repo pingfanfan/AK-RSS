@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-03-03T11:41:50Z",
+  "generated_at": "2026-03-03T12:05:05Z",
   "days": [
     {
       "date": "2026-03-03",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "tedium.co (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Intel 486DX2 CPU",
         "nesbitt.io · Package Management is Naming All the Way Down",
         "tedium.co · Betting Against Substack",
         "johndcook.com · An AI Odyssey, Part 1: Correctness Conundrum",
@@ -19,29 +21,34 @@
         "seangoedecke.com · Giving LLMs a personality is just good engineering"
       ],
       "key_points": [
+        "Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能",
         "包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险",
         "作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权",
-        "An AI Odyssey, Part 1: Correctness Conundrum",
-        "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase"
-      ],
-      "key_points_zh": [
-        "包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险",
-        "作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权",
-        "An AI Odyssey, Part 1: Correctness Conundrum",
-        "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase"
-      ],
-      "key_points_en": [
-        "The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion",
-        "Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control",
-        "An AI Odyssey, Part 1: Correctness Conundrum",
-        "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase"
-      ],
-      "tweet_drafts": [
-        "包管理系统的安全常被忽视，但其核心是命名问题。注册表选择与命名空间隔离直接影响依赖安全。立即审查你的配置，防止依赖混淆！ #开发者 #安全",
-        "拒绝Substack的设计限制！用MJML和CSS Grid构建现代邮件布局，掌握控制权。技术分析：https://feed.tedium.co/link/15204/17288375/betting-against-substack",
         "An AI Odyssey, Part 1: Correctness Conundrum"
       ],
+      "key_points_zh": [
+        "Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能",
+        "包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险",
+        "作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权",
+        "An AI Odyssey, Part 1: Correctness Conundrum"
+      ],
+      "key_points_en": [
+        "The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance",
+        "The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion",
+        "Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control",
+        "An AI Odyssey, Part 1: Correctness Conundrum"
+      ],
+      "tweet_drafts": [
+        "Intel 486DX2：1992年首款时钟倍增x86 CPU，FSB倍频至50/66MHz。经典创新，影响深远。#技术回顾",
+        "包管理系统的安全常被忽视，但其核心是命名问题。注册表选择与命名空间隔离直接影响依赖安全。立即审查你的配置，防止依赖混淆！ #开发者 #安全",
+        "拒绝Substack的设计限制！用MJML和CSS Grid构建现代邮件布局，掌握控制权。技术分析：https://feed.tedium.co/link/15204/17288375/betting-against-substack"
+      ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Intel 486DX2 CPU",
+          "link": "https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Package Management is Naming All the Way Down",
@@ -51,27 +58,22 @@
           "feed_title": "tedium.co",
           "title": "Betting Against Substack",
           "link": "https://feed.tedium.co/link/15204/17288375/betting-against-substack"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "An AI Odyssey, Part 1: Correctness Conundrum",
-          "link": "https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/"
         }
       ],
-      "summary_zh": "2026-03-03 技术日报：包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权；An AI Odyssey, Part 1: Correctness Conundrum。",
-      "summary_en": "Daily brief (2026-03-03): The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion; Author rejects Substack due to design constraints, demonstrates modern email layout ad",
+      "summary_zh": "2026-03-03 技术日报：Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能；包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权。",
+      "summary_en": "Daily brief (2026-03-03): The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance; The core of package management is a naming problem; difference",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-03 日报】包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权；An AI Odyssey, Part 1: Correctness Conundrum。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-03): The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion; Author rejects Substack due to design constraints, demonstrates modern email layout a"
+          "zh": "【2026-03-03 日报】Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能；包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-03): The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance; The core of package management is a naming problem; differenc"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-03）\n- 包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险\n- 作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权\n- An AI Odyssey, Part 1: Correctness Conundrum\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n- https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-03)\n- The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion\n- Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control\n- An AI Odyssey, Part 1: Correctness Conundrum\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n- https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-03）\n- Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能\n- 包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险\n- 作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu\n- https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-03)\n- The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance\n- The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion\n- Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu\n- https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权；An AI Odyssey, Part 1: Correctness Conundrum。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion; Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creato"
+          "zh": "今天最值得看的 3 个点：Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能；包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance; The core of package management is a naming problem; differences in registry and namespace designs lead to"
         }
       }
     },
