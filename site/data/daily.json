@@ -1,125 +1,130 @@
 {
-  "generated_at": "2026-03-03T12:05:05Z",
+  "generated_at": "2026-03-03T12:46:08Z",
   "days": [
     {
       "date": "2026-03-03",
-      "total": 6,
+      "total": 8,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
-        "tedium.co (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Game Review: Unravel Two ★★★⯪☆",
+        "terriblesoftware.org · Nobody Gets Promoted for Simplicity",
         "dfarq.homeip.net · Intel 486DX2 CPU",
         "nesbitt.io · Package Management is Naming All the Way Down",
         "tedium.co · Betting Against Substack",
-        "johndcook.com · An AI Odyssey, Part 1: Correctness Conundrum",
-        "daringfireball.net · [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
-        "seangoedecke.com · Giving LLMs a personality is just good engineering"
+        "johndcook.com · An AI Odyssey, Part 1: Correctness Conundrum"
       ],
       "key_points": [
+        "一款物理协作解谜游戏，机制有趣但被无谓的沉重叙事拖累",
+        "晋升体系错奖过度工程，忽视简洁工作",
         "Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能",
-        "包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险",
-        "作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权",
-        "An AI Odyssey, Part 1: Correctness Conundrum"
+        "包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险"
       ],
       "key_points_zh": [
+        "一款物理协作解谜游戏，机制有趣但被无谓的沉重叙事拖累",
+        "晋升体系错奖过度工程，忽视简洁工作",
         "Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能",
-        "包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险",
-        "作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权",
-        "An AI Odyssey, Part 1: Correctness Conundrum"
+        "包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险"
       ],
       "key_points_en": [
+        "A physics-based co-op puzzler with fun mechanics marred by unnecessary grim storytelling",
+        "Promotion systems reward over-engineering, not the simplicity that avoids it",
         "The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance",
-        "The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion",
-        "Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control",
-        "An AI Odyssey, Part 1: Correctness Conundrum"
+        "The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion"
       ],
       "tweet_drafts": [
-        "Intel 486DX2：1992年首款时钟倍增x86 CPU，FSB倍频至50/66MHz。经典创新，影响深远。#技术回顾",
-        "包管理系统的安全常被忽视，但其核心是命名问题。注册表选择与命名空间隔离直接影响依赖安全。立即审查你的配置，防止依赖混淆！ #开发者 #安全",
-        "拒绝Substack的设计限制！用MJML和CSS Grid构建现代邮件布局，掌握控制权。技术分析：https://feed.tedium.co/link/15204/17288375/betting-against-substack"
+        "独立游戏《Unravel Two》评测：物理协作机制设计巧妙，成本低廉。但矫揉造作的关卡标题与背景故事与玩法脱节，是典型的产品设计失误。核心体验至上，冗余叙事当断",
+        "工程师A用50行代码快速交付，工程师B花三周构建‘可扩展’架构。晋升时，B的复杂设计成了亮点，A的简洁工作却‘无话可说’。问题出在：我们奖励可见的复杂，而非看不见的简洁",
+        "Intel 486DX2：1992年首款时钟倍增x86 CPU，FSB倍频至50/66MHz。经典创新，影响深远。#技术回顾"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Game Review: Unravel Two",
+          "link": "https://shkspr.mobi/blog/2026/03/game-review-unravel-two/"
+        },
+        {
+          "feed_title": "terriblesoftware.org",
+          "title": "Nobody Gets Promoted for Simplicity",
+          "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Intel 486DX2 CPU",
           "link": "https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Package Management is Naming All the Way Down",
-          "link": "https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Betting Against Substack",
-          "link": "https://feed.tedium.co/link/15204/17288375/betting-against-substack"
         }
       ],
-      "summary_zh": "2026-03-03 技术日报：Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能；包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权。",
-      "summary_en": "Daily brief (2026-03-03): The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance; The core of package management is a naming problem; difference",
+      "summary_zh": "2026-03-03 技术日报：一款物理协作解谜游戏，机制有趣但被无谓的沉重叙事拖累；晋升体系错奖过度工程，忽视简洁工作；Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能。",
+      "summary_en": "Daily brief (2026-03-03): A physics-based co-op puzzler with fun mechanics marred by unnecessary grim storytelling; Promotion systems reward over-engineering, not the simplicity that avoids it; The Intel 486DX2, launched in 1992, was the first clock-multiplied",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-03 日报】Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能；包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-03): The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance; The core of package management is a naming problem; differenc"
+          "zh": "【2026-03-03 日报】一款物理协作解谜游戏，机制有趣但被无谓的沉重叙事拖累；晋升体系错奖过度工程，忽视简洁工作；Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-03): A physics-based co-op puzzler with fun mechanics marred by unnecessary grim storytelling; Promotion systems reward over-engineering, not the simplicity that avoids it; The Intel 486DX2, launched in 1992, was the first clock-multiplie"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-03）\n- Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能\n- 包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险\n- 作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu\n- https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-03)\n- The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance\n- The core of package management is a naming problem; differences in registry and namespace designs lead to security risks like dependency confusion\n- Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu\n- https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-03）\n- 一款物理协作解谜游戏，机制有趣但被无谓的沉重叙事拖累\n- 晋升体系错奖过度工程，忽视简洁工作\n- Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/game-review-unravel-two/\n- https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/\n- https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-03)\n- A physics-based co-op puzzler with fun mechanics marred by unnecessary grim storytelling\n- Promotion systems reward over-engineering, not the simplicity that avoids it\n- The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/game-review-unravel-two/\n- https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/\n- https://dfarq.homeip.net/intel-486dx2-cpu/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486dx2-cpu\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能；包管理系统的核心是命名问题，注册表和命名空间的设计差异直接导致依赖混淆等安全风险；作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus frequency to achieve 50/66 MHz, significantly boosting performance; The core of package management is a naming problem; differences in registry and namespace designs lead to"
+          "zh": "今天最值得看的 3 个点：一款物理协作解谜游戏，机制有趣但被无谓的沉重叙事拖累；晋升体系错奖过度工程，忽视简洁工作；Intel 486DX2是1992年推出的首款时钟倍增x86 CPU，通过倍频技术将前端总线频率加倍，达到50/66 MHz，显著提升性能。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A physics-based co-op puzzler with fun mechanics marred by unnecessary grim storytelling; Promotion systems reward over-engineering, not the simplicity that avoids it; The Intel 486DX2, launched in 1992, was the first clock-multiplied x86 CPU, doubling the front-side bus freque"
         }
       }
     },
     {
       "date": "2026-03-02",
-      "total": 20,
+      "total": 21,
       "feeds": [
         "daringfireball.net (7)",
         "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "jeffgeerling.com (1)"
+        "entropicthoughts.com (1)",
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Teaching Children to Bicycle",
         "jeffgeerling.com · I built a pint-sized Macintosh",
         "daringfireball.net · ChangeTheHeaders",
         "devblogs.microsoft.com/oldnewthing · What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
         "daringfireball.net · Welcome (Back) to Macintosh",
-        "daringfireball.net · SerpApi Filed Motion to Dismiss Google’s Lawsuit",
-        "daringfireball.net · ‘Anthropic and Alignment’"
+        "daringfireball.net · SerpApi Filed Motion to Dismiss Google’s Lawsuit"
       ],
       "key_points": [
+        "从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代",
         "使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%",
         "Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性",
-        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "Welcome (Back) to Macintosh"
-      ],
-      "key_points_zh": [
-        "使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%",
-        "Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性",
-        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "Welcome (Back) to Macintosh"
-      ],
-      "key_points_en": [
-        "A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original",
-        "Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility",
-        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "Welcome (Back) to Macintosh"
-      ],
-      "tweet_drafts": [
-        "袖珍Macintosh诞生！基于Pico，运行System 5.3，外设全兼容。硬件限制下的创新案例，开发者快来尝试。#嵌入式开发",
-        "Safari拖拽图片得WebP的坑，原来是Accept头里WebP和PNG优先级相同。ChangeTheHeaders扩展能修改请求头，强制返回所需格式，推荐开发者试试",
         "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?"
       ],
+      "key_points_zh": [
+        "从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代",
+        "使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%",
+        "Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性",
+        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?"
+      ],
+      "key_points_en": [
+        "Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration",
+        "A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original",
+        "Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility",
+        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?"
+      ],
+      "tweet_drafts": [
+        "教孩子骑车隐喻技术演进：平衡训练如系统调优，辅助轮如CI/CD，独立骑行如灰度发布。安全与渐进是核心。链接：https://entropicthoughts.com/teaching-children-to-bicycle #DevOps #产品思维",
+        "袖珍Macintosh诞生！基于Pico，运行System 5.3，外设全兼容。硬件限制下的创新案例，开发者快来尝试。#嵌入式开发",
+        "Safari拖拽图片得WebP的坑，原来是Accept头里WebP和PNG优先级相同。ChangeTheHeaders扩展能修改请求头，强制返回所需格式，推荐开发者试试"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Teaching Children to Bicycle",
+          "link": "https://entropicthoughts.com/teaching-children-to-bicycle"
+        },
         {
           "feed_title": "jeffgeerling.com",
           "title": "I built a pint-sized Macintosh",
@@ -129,27 +134,22 @@
           "feed_title": "daringfireball.net",
           "title": "ChangeTheHeaders: Fixing Image Format Issues by Modifying Request Headers",
           "link": "https://underpassapp.com/news/2025/3/4.html"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098"
         }
       ],
-      "summary_zh": "2026-03-02 技术日报：使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性；What sort of horrible things happen if my dialog has a non-button with the control ID",
-      "summary_en": "Daily brief (2026-03-02): A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original; Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality",
+      "summary_zh": "2026-03-02 技术日报：从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代；使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性。",
+      "summary_en": "Daily brief (2026-03-02): Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration; A Raspberry Pi Pico-based Macintosh r",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-02 日报】使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性；What sort of horrible things happen if my dialog has a non-button with the control ID",
-          "en": "AK-RSS Daily (2026-03-02): A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original; Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality"
+          "zh": "【2026-03-02 日报】从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代；使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工",
+          "en": "AK-RSS Daily (2026-03-02): Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration; A Raspberry Pi Pico-based Macintosh"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- 使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%\n- Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original\n- Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility\n- What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n- https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-02）\n- 从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代\n- 使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%\n- Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/teaching-children-to-bicycle\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-02)\n- Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration\n- A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original\n- Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/teaching-children-to-bicycle\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性；What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original; Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The Change"
+          "zh": "今天最值得看的 3 个点：从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代；使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration; A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse s"
         }
       }
     },
