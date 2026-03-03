@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-03-02T22:40:54Z",
+  "generated_at": "2026-03-03T06:12:10Z",
   "days": [
+    {
+      "date": "2026-03-03",
+      "total": 4,
+      "feeds": [
+        "daringfireball.net (1)",
+        "johndcook.com (1)",
+        "seangoedecke.com (1)",
+        "tedium.co (1)"
+      ],
+      "highlights": [
+        "tedium.co · Betting Against Substack",
+        "johndcook.com · An AI Odyssey, Part 1: Correctness Conundrum",
+        "daringfireball.net · [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
+        "seangoedecke.com · Giving LLMs a personality is just good engineering"
+      ],
+      "key_points": [
+        "作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权",
+        "An AI Odyssey, Part 1: Correctness Conundrum",
+        "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
+        "Giving LLMs a personality is just good engineering"
+      ],
+      "key_points_zh": [
+        "作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权",
+        "An AI Odyssey, Part 1: Correctness Conundrum",
+        "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
+        "Giving LLMs a personality is just good engineering"
+      ],
+      "key_points_en": [
+        "Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control",
+        "An AI Odyssey, Part 1: Correctness Conundrum",
+        "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
+        "Giving LLMs a personality is just good engineering"
+      ],
+      "tweet_drafts": [
+        "拒绝Substack的设计限制！用MJML和CSS Grid构建现代邮件布局，掌握控制权。技术分析：https://feed.tedium.co/link/15204/17288375/betting-against-substack",
+        "An AI Odyssey, Part 1: Correctness Conundrum",
+        "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase"
+      ],
+      "sources": [
+        {
+          "feed_title": "tedium.co",
+          "title": "Betting Against Substack",
+          "link": "https://feed.tedium.co/link/15204/17288375/betting-against-substack"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "An AI Odyssey, Part 1: Correctness Conundrum",
+          "link": "https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase",
+          "link": "https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev\u0026utm_medium=newsletter\u0026utm_campaign=q12026"
+        }
+      ],
+      "summary_zh": "2026-03-03 技术日报：作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权；An AI Odyssey, Part 1: Correctness Conundrum；[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase。",
+      "summary_en": "Daily brief (2026-03-03): Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control; An AI Odyssey, Part 1: Correctness Conundrum; [Sponsor] npx workos: A",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-03 日报】作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权；An AI Odyssey, Part 1: Correctness Conundrum；[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-03): Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control; An AI Odyssey, Part 1: Correctness Conundrum; [Sponsor] npx workos:"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-03）\n- 作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权\n- An AI Odyssey, Part 1: Correctness Conundrum\n- [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n- https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/\n- https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev\u0026utm_medium=newsletter\u0026utm_campaign=q12026\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-03)\n- Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control\n- An AI Odyssey, Part 1: Correctness Conundrum\n- [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17288375/betting-against-substack\n- https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/\n- https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev\u0026utm_medium=newsletter\u0026utm_campaign=q12026\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：作者因设计限制拒绝Substack，用MJML实验展示现代邮件布局优势，呼吁创作者关注平台控制权；An AI Odyssey, Part 1: Correctness Conundrum；[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Author rejects Substack due to design constraints, demonstrates modern email layout advantages with MJML experiment, urging creators to prioritize platform control; An AI Odyssey, Part 1: Correctness Conundrum; [Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Yo"
+        }
+      }
+    },
     {
       "date": "2026-03-02",
       "total": 20,
