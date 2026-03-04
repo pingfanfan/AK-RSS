@@ -1,9 +1,55 @@
 {
-  "generated_at": "2026-03-04T06:10:03Z",
+  "generated_at": "2026-03-04T06:45:00Z",
   "days": [
     {
+      "date": "2026-03-04",
+      "total": 1,
+      "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · A taxonomy of text output (from tools that want to be too clever)"
+      ],
+      "key_points": [
+        "文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画",
+        "Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's"
+      ],
+      "key_points_zh": [
+        "文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画"
+      ],
+      "key_points_en": [
+        "Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's"
+      ],
+      "tweet_drafts": [
+        "apt-get的进度条动画真的有必要吗？它让日志难以解析，干扰脚本处理。作者将文本输出分级：纯文本最优，动画最差。作为开发者，我们应倡导工具输出对机器友好。点击阅读全文：https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "A taxonomy of text output (from tools that want to be too clever)",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy"
+        }
+      ],
+      "summary_zh": "2026-03-04 技术日报：文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。",
+      "summary_en": "Daily brief (2026-03-04): Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-04 日报】文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-04): Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's. Actionable takeaways included. What would"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-04）\n- 文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-04)\n- Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-03",
-      "total": 23,
+      "total": 24,
       "feeds": [
         "daringfireball.net (5)",
         "simonwillison.net (2)",
