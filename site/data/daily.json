@@ -1,71 +1,77 @@
 {
-  "generated_at": "2026-03-04T12:04:20Z",
+  "generated_at": "2026-03-04T12:45:43Z",
   "days": [
     {
       "date": "2026-03-04",
-      "total": 3,
+      "total": 5,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
+        "shkspr.mobi (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · How many hours do you need to work to afford a pint of beer?",
+        "dfarq.homeip.net · Homebrew Computer Club in Menlo Park",
         "idiallo.com · Interruption-Driven Development",
         "nesbitt.io · Package Managers Need to Cool Down",
         "utcc.utoronto.ca/~cks · A taxonomy of text output (from tools that want to be too clever)"
       ],
       "key_points": [
+        "基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨",
+        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本",
         "频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长",
-        "依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置",
-        "文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画",
-        "Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration"
+        "依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置"
       ],
       "key_points_zh": [
+        "基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨",
+        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本",
         "频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长",
-        "依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置",
-        "文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画"
+        "依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置"
       ],
       "key_points_en": [
+        "Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices",
+        "Silicon Valley legend: How the Homebrew Computer Club's open collaboration sparked the PC revolution, directly influenced Apple's birth, and offers a historical blueprint for today's AI and infrastructure open-source movements",
         "Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration",
-        "Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately",
-        "Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's"
+        "Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately"
       ],
       "tweet_drafts": [
-        "中断驱动开发：当管理者为‘提升效率’缩短会议，却忽略次数未减，开发者仍在不断重置思维状态。真正的效率是保护深度工作，而非优化中断",
-        "你的CI/CD是否在自动引入风险？依赖冷却（Dependency Cooldown）是防御供应链攻击的隐藏王牌。通过强制等待新包版本（如7天），为安全响应争取时间。主流工具已支持，配置指南见原文。安全左移，从依赖管理开始",
-        "apt-get的进度条动画真的有必要吗？它让日志难以解析，干扰脚本处理。作者将文本输出分级：纯文本最优，动画最差。作为开发者，我们应倡导工具输出对机器友好。点击阅读全文：https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy"
+        "你以为啤酒变贵了？历史数据对比显示，按最低工资算，现在买一品脱啤酒只需约半小时，是20年来最‘划算’的时候。绝对价格涨了，但工资涨得更快。用数据看世界。#开发者 #趋势",
+        "家酿计算机俱乐部证明：伟大产品始于草根社区。今天，AI与基础设施开源运动正重写规则。你准备好参与下一个革命了吗？#技术社区 #创新",
+        "中断驱动开发：当管理者为‘提升效率’缩短会议，却忽略次数未减，开发者仍在不断重置思维状态。真正的效率是保护深度工作，而非优化中断"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "How many hours do you need to work to afford a pint of beer?",
+          "link": "https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Homebrew Computer Club in Menlo Park",
+          "link": "https://dfarq.homeip.net/homebrew-computer-club-in-menlo-park/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=homebrew-computer-club-in-menlo-park"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "Interruption-Driven Development",
           "link": "https://idiallo.com/blog/interruption-driven-development?src=feed"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Package Managers Need to Cool Down: An Effective Defense Against Supply Chain Attacks",
-          "link": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "A taxonomy of text output (from tools that want to be too clever)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy"
         }
       ],
-      "summary_zh": "2026-03-04 技术日报：频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长；依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。",
-      "summary_en": "Daily brief (2026-03-04): Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration; Dependency cooldowns (e.g.,",
+      "summary_zh": "2026-03-04 技术日报：基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨；揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本；频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长。",
+      "summary_en": "Daily brief (2026-03-04): Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices; Silicon Valley legend: How the Homebrew Com",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-04 日报】频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长；依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-04): Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration; Dependency cooldowns (e.g."
+          "zh": "【2026-03-04 日报】基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨；揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本；频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-04): Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices; Silicon Valley legend: How the Homebrew Co"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-04）\n- 频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长\n- 依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置\n- 文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/interruption-driven-development?src=feed\n- https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-04)\n- Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration\n- Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately\n- Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/interruption-driven-development?src=feed\n- https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-04）\n- 基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨\n- 揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本\n- 频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n- https://dfarq.homeip.net/homebrew-computer-club-in-menlo-park/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=homebrew-computer-club-in-menlo-park\n- https://idiallo.com/blog/interruption-driven-development?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-04)\n- Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices\n- Silicon Valley legend: How the Homebrew Computer Club's open collaboration sparked the PC revolution, directly influenced Apple's birth, and offers a historical blueprint for today's AI and infrastructure open-source movements\n- Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n- https://dfarq.homeip.net/homebrew-computer-club-in-menlo-park/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=homebrew-computer-club-in-menlo-park\n- https://idiallo.com/blog/interruption-driven-development?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长；依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration; Dependency cooldowns (e.g., a 7-day wait) effectively block automated s"
+          "zh": "今天最值得看的 3 个点：基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨；揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本；频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices; Silicon Valley legend: How the Homebrew Computer Club's open collaboration sparked the"
         }
       }
     },
