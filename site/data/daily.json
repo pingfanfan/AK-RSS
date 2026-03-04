@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-04T17:43:44Z",
+  "generated_at": "2026-03-04T18:09:12Z",
   "days": [
     {
       "date": "2026-03-04",
-      "total": 10,
+      "total": 12,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
+        "dynomight.net (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Studio Display vs. Studio Display XDR",
         "simonwillison.net · Anti-patterns: things to avoid",
         "daringfireball.net · Compatibility Notes on the New Studio Displays",
         "simonwillison.net · Something is afoot in the land of Qwen",
         "johndcook.com · From logistic regression to AI",
-        "daringfireball.net · ‘In Other Words, Batman Has Become Superman and Robin Has Become Batman’",
-        "shkspr.mobi · How many hours do you need to work to afford a pint of beer?"
+        "daringfireball.net · ‘In Other Words, Batman Has Become Superman and Robin Has Become Batman’"
       ],
       "key_points": [
+        "Studio Display vs. Studio Display XDR",
         "在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事",
         "新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz",
-        "Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发",
-        "逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力"
+        "Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发"
       ],
       "key_points_zh": [
+        "Studio Display vs. Studio Display XDR",
         "在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事",
         "新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz",
-        "Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发",
-        "逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力"
+        "Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发"
       ],
       "key_points_en": [
+        "Studio Display vs. Studio Display XDR",
         "In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues",
         "New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz",
-        "Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by an internal re-org",
-        "Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities"
+        "Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by an internal re-org"
       ],
       "tweet_drafts": [
+        "Studio Display vs. Studio Display XDR",
         "用AI写代码后，自己先跑通再提PR。把未验证的代码扔给同事审查，是最低效且不负责任的协作方式。 #开发者 #AI辅助",
-        "Studio Display XDR 120Hz仅限M2 Pro/M3 Pro及以上芯片。Intel Mac无法使用新款显示器。检查你的Mac型号！",
-        "Qwen核心团队突发离职潮，技术负责人林俊阳走人。36氪称或因Google Gemini成员空降引发。资源有限，林是开源成功关键。Qwen 3.5会是绝唱吗？开发者需警惕依赖风险，速备Llama/DeepSeek等方案。#AI安全 #开源模型"
+        "Studio Display XDR 120Hz仅限M2 Pro/M3 Pro及以上芯片。Intel Mac无法使用新款显示器。检查你的Mac型号！"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Studio Display vs. Studio Display XDR",
+          "link": "https://www.apple.com/displays/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Anti-patterns: Things to Avoid",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Compatibility Notes on the New Studio Displays",
           "link": "https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Qwen in Turmoil: Core Team Exodus Sparks Industry Speculation",
-          "link": "https://simonwillison.net/2026/Mar/4/qwen/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-04 技术日报：在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事；新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz；Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发。",
-      "summary_en": "Daily brief (2026-03-04): In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues; New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or",
+      "summary_zh": "2026-03-04 技术日报：Studio Display vs. Studio Display XDR；在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事；新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz。",
+      "summary_en": "Daily brief (2026-03-04): Studio Display vs. Studio Display XDR; In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues; New Studio Displays only support Apple Silicon Mac",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-04 日报】在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事；新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz；Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-04): In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues; New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or"
+          "zh": "【2026-03-04 日报】Studio Display vs. Studio Display XDR；在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事；新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-04): Studio Display vs. Studio Display XDR; In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues; New Studio Displays only support Apple Silicon Ma"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-04）\n- 在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事\n- 新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz\n- Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything\n- https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/\n- https://simonwillison.net/2026/Mar/4/qwen/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-04)\n- In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues\n- New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz\n- Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by an internal re-org\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything\n- https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/\n- https://simonwillison.net/2026/Mar/4/qwen/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-04）\n- Studio Display vs. Studio Display XDR\n- 在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事\n- 新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/displays/\n- https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything\n- https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-04)\n- Studio Display vs. Studio Display XDR\n- In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues\n- New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/displays/\n- https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything\n- https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事；新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz；Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues; New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz; Key Qwen open-weight"
+          "zh": "今天最值得看的 3 个点：Studio Display vs. Studio Display XDR；在AI辅助编程中，提交PR前必须亲自验证代码功能，避免将未审查的代码负担转嫁给同事；新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Studio Display vs. Studio Display XDR; In AI-assisted programming, you must personally verify code functionality before submitting a PR. Never offload unreviewed code onto colleagues; New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5"
         }
       }
     },
