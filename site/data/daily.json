@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-03T22:42:11Z",
+  "generated_at": "2026-03-04T06:10:03Z",
   "days": [
     {
       "date": "2026-03-03",
-      "total": 22,
+      "total": 23,
       "feeds": [
         "daringfireball.net (5)",
+        "simonwillison.net (2)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "experimental-history.com (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Donald Knuth",
         "simonwillison.net · Gemini 3.1 Flash-Lite",
         "daringfireball.net · Apple Announces Updated Studio Display and All-New Studio Display XDR",
         "joanwestenberg.com · A soft-landing manual for the second gilded age",
         "daringfireball.net · Apple Might Have Prematurely Leaked the Name ‘MacBook Neo’",
-        "daringfireball.net · Apple Introduces MacBook Pro Models With M5 Pro and M5 Max Chips",
-        "blog.jim-nielsen.com · w0rdz aRe 1mpoRtAnt"
+        "daringfireball.net · Apple Introduces MacBook Pro Models With M5 Pro and M5 Max Chips"
       ],
       "key_points": [
+        "Quoting Donald Knuth",
         "Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用",
         "Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299",
-        "柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒绝宿命论，塑造软着陆",
-        "苹果欧盟合规网站短暂出现‘MacBook Neo’（型号A3404）链接，暗示新笔记本产品线，但无具体细节或图片"
+        "柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒绝宿命论，塑造软着陆"
       ],
       "key_points_zh": [
+        "Quoting Donald Knuth",
         "Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用",
         "Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299",
-        "柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒绝宿命论，塑造软着陆",
-        "苹果欧盟合规网站短暂出现‘MacBook Neo’（型号A3404）链接，暗示新笔记本产品线，但无具体细节或图片"
+        "柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒绝宿命论，塑造软着陆"
       ],
       "key_points_en": [
+        "Quoting Donald Knuth",
         "Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI",
         "Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship Studio Display XDR with mini-LED backlight, 2000-nit HDR, 120Hz refresh rate, starting at $3,299",
-        "Berlin's rebuild proves destruction isn't permanent. Facing AI-driven economic disruption, tech must proactively design safety frameworks, infrastructure, and inclusive products—reject determinism to shape a soft landing",
-        "Apple's EU compliance site briefly showed a link for 'MacBook Neo' (Model A3404), hinting at a new laptop line, but no details or images yet"
+        "Berlin's rebuild proves destruction isn't permanent. Facing AI-driven economic disruption, tech must proactively design safety frameworks, infrastructure, and inclusive products—reject determinism to shape a soft landing"
       ],
       "tweet_drafts": [
+        "Quoting Donald Knuth",
         "Gemini 3.1 Flash-Lite：成本仅为Pro版1/8，支持四种思考级别。用鹈鹕骑行图测试，从极简线条到精细细节，灵活适应不同需求。立即体验，优化你的AI应用成本结构",
-        "Apple更新Studio Display：12MP摄像头+Thunderbolt 5；全新Studio Display XDR：mini-LED、2000尼特HDR、120Hz，$3,299起。专业创作者值得升级吗？#Apple #显示器",
-        "历史提醒我们：破坏非永久。面对AI颠覆，技术社区的选择决定软着陆还是硬着陆。立即行动：参与安全框架、弹性基建、包容设计。未来由我们塑造"
+        "Apple更新Studio Display：12MP摄像头+Thunderbolt 5；全新Studio Display XDR：mini-LED、2000尼特HDR、120Hz，$3,299起。专业创作者值得升级吗？#Apple #显示器"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Donald Knuth",
+          "link": "https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Gemini 3.1 Flash-Lite: Ultra-Lightweight AI Model at 1/8th the Cost of Pro",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Apple Announces Updated Studio Display and All-New Studio Display XDR",
           "link": "https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "A Soft-Landing Manual for the Second Gilded Age",
-          "link": "https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/"
         }
       ],
-      "summary_zh": "2026-03-03 技术日报：Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用；Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299；柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒",
-      "summary_en": "Daily brief (2026-03-03): Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI; Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship St",
+      "summary_zh": "2026-03-03 技术日报：Quoting Donald Knuth；Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用；Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299。",
+      "summary_en": "Daily brief (2026-03-03): Quoting Donald Knuth; Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI; Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-03 日报】Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用；Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299；柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒绝",
-          "en": "AK-RSS Daily (2026-03-03): Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI; Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship S"
+          "zh": "【2026-03-03 日报】Quoting Donald Knuth；Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用；Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实",
+          "en": "AK-RSS Daily (2026-03-03): Quoting Donald Knuth; Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI; Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-03）\n- Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用\n- Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299\n- 柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒绝宿命论，塑造软着陆\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/\n- https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-03)\n- Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI\n- Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship Studio Display XDR with mini-LED backlight, 2000-nit HDR, 120Hz refresh rate, starting at $3,299\n- Berlin's rebuild proves destruction isn't permanent. Facing AI-driven economic disruption, tech must proactively design safety frameworks, infrastructure, and inclusive products—reject determinism to shape a soft landing\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/\n- https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-03）\n- Quoting Donald Knuth\n- Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用\n- Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything\n- https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-03)\n- Quoting Donald Knuth\n- Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI\n- Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship Studio Display XDR with mini-LED backlight, 2000-nit HDR, 120Hz refresh rate, starting at $3,299\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything\n- https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用；Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299；柏林重建证明大规模破坏可逆。面对AI驱动的经济颠覆，技术社区必须主动设计安全框架、基础设施与包容性产品，拒绝宿命论，塑造软着陆。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI; Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship Studio Display XDR with mini-LED backlight, 20"
+          "zh": "今天最值得看的 3 个点：Quoting Donald Knuth；Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用；Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Donald Knuth; Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI; Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship Studio Display XDR with"
         }
       }
     },
