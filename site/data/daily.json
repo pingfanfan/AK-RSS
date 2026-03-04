@@ -1,36 +1,46 @@
 {
-  "generated_at": "2026-03-04T11:40:34Z",
+  "generated_at": "2026-03-04T12:04:20Z",
   "days": [
     {
       "date": "2026-03-04",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "idiallo.com (1)",
         "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · Interruption-Driven Development",
         "nesbitt.io · Package Managers Need to Cool Down",
         "utcc.utoronto.ca/~cks · A taxonomy of text output (from tools that want to be too clever)"
       ],
       "key_points": [
+        "频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长",
         "依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置",
         "文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画",
-        "Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately",
-        "Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's"
+        "Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration"
       ],
       "key_points_zh": [
+        "频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长",
         "依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置",
         "文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画"
       ],
       "key_points_en": [
+        "Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration",
         "Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately",
         "Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's"
       ],
       "tweet_drafts": [
+        "中断驱动开发：当管理者为‘提升效率’缩短会议，却忽略次数未减，开发者仍在不断重置思维状态。真正的效率是保护深度工作，而非优化中断",
         "你的CI/CD是否在自动引入风险？依赖冷却（Dependency Cooldown）是防御供应链攻击的隐藏王牌。通过强制等待新包版本（如7天），为安全响应争取时间。主流工具已支持，配置指南见原文。安全左移，从依赖管理开始",
         "apt-get的进度条动画真的有必要吗？它让日志难以解析，干扰脚本处理。作者将文本输出分级：纯文本最优，动画最差。作为开发者，我们应倡导工具输出对机器友好。点击阅读全文：https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy"
       ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Interruption-Driven Development",
+          "link": "https://idiallo.com/blog/interruption-driven-development?src=feed"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Package Managers Need to Cool Down: An Effective Defense Against Supply Chain Attacks",
@@ -42,20 +52,20 @@
           "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy"
         }
       ],
-      "summary_zh": "2026-03-04 技术日报：依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。",
-      "summary_en": "Daily brief (2026-03-04): Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately; Article c",
+      "summary_zh": "2026-03-04 技术日报：频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长；依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。",
+      "summary_en": "Daily brief (2026-03-04): Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration; Dependency cooldowns (e.g.,",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-04 日报】依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-04): Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately; Article"
+          "zh": "【2026-03-04 日报】频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长；依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-04): Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration; Dependency cooldowns (e.g."
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-04）\n- 依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置\n- 文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-04)\n- Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately\n- Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-04）\n- 频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长\n- 依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置\n- 文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/interruption-driven-development?src=feed\n- https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-04)\n- Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration\n- Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately\n- Article categorizes CLI tool output from best to worst, emphasizing simple, control-character-free output for automation and log analysis, criticizing progress bar animations like apt-get's\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/interruption-driven-development?src=feed\n- https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Dependency cooldowns (e.g., a 7-day wait) effectively block automated supply chain attacks. Major package managers (pnpm, Yarn, Bun, Go, Rust, Python) now support it; developers should configure this in projects immediately; Article categorizes CLI tool output from best to wors"
+          "zh": "今天最值得看的 3 个点：频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长；依赖冷却（如设置7天等待期）能有效阻断自动化供应链攻击。主流包管理器（pnpm、Yarn、Bun、Go、Rust、Python）已支持该功能，开发者应立即在项目中配置；文章将命令行工具的输出方式从优到劣分类，强调简单、无控制字符的输出更利于自动化处理和日志分析，批评了apt-get等工具的进度条动画。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration; Dependency cooldowns (e.g., a 7-day wait) effectively block automated s"
         }
       }
     },
