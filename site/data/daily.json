@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:44:03Z",
+  "generated_at": "2026-03-04T16:44:56Z",
   "days": [
     {
       "date": "2026-03-04",
-      "total": 7,
+      "total": 9,
       "feeds": [
-        "daringfireball.net (1)",
+        "daringfireball.net (2)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
@@ -13,67 +13,67 @@
         "shkspr.mobi (1)"
       ],
       "highlights": [
+        "daringfireball.net · Compatibility Notes on the New Studio Displays",
+        "simonwillison.net · Something is afoot in the land of Qwen",
         "johndcook.com · From logistic regression to AI",
         "daringfireball.net · ‘In Other Words, Batman Has Become Superman and Robin Has Become Batman’",
         "shkspr.mobi · How many hours do you need to work to afford a pint of beer?",
-        "dfarq.homeip.net · Homebrew Computer Club in Menlo Park",
-        "idiallo.com · Interruption-Driven Development",
-        "nesbitt.io · Package Managers Need to Cool Down"
+        "dfarq.homeip.net · Homebrew Computer Club in Menlo Park"
       ],
       "key_points": [
+        "新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz",
+        "Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发",
         "逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力",
-        "苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化",
-        "基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨",
-        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本"
+        "苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化"
       ],
       "key_points_zh": [
+        "新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz",
+        "Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发",
         "逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力",
-        "苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化",
-        "基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨",
-        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本"
+        "苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化"
       ],
       "key_points_en": [
+        "New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz",
+        "Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by an internal re-org",
         "Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities",
-        "Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot",
-        "Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices",
-        "Silicon Valley legend: How the Homebrew Computer Club's open collaboration sparked the PC revolution, directly influenced Apple's birth, and offers a historical blueprint for today's AI and infrastructure open-source movements"
+        "Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot"
       ],
       "tweet_drafts": [
-        "从逻辑回归到LLM，真的是‘更多参数=更强能力’吗？其实小数据下参数越多越容易过拟合（EVP法则很重要！）。但到了千亿参数规模，‘涌现’又成了新故事。你怎么看规模与数据的关系？#开发者讨论",
-        "苹果M系列芯片核心更名：效率核心→性能核心。市场认知与技术成熟双重驱动。开发者需关注调度变化与功耗测试。#TechNews",
-        "你以为啤酒变贵了？历史数据对比显示，按最低工资算，现在买一品脱啤酒只需约半小时，是20年来最‘划算’的时候。绝对价格涨了，但工资涨得更快。用数据看世界。#开发者 #趋势"
+        "Studio Display XDR 120Hz仅限M2 Pro/M3 Pro及以上芯片。Intel Mac无法使用新款显示器。检查你的Mac型号！",
+        "Qwen核心团队突发离职潮，技术负责人林俊阳走人。36氪称或因Google Gemini成员空降引发。资源有限，林是开源成功关键。Qwen 3.5会是绝唱吗？开发者需警惕依赖风险，速备Llama/DeepSeek等方案。#AI安全 #开源模型",
+        "从逻辑回归到LLM，真的是‘更多参数=更强能力’吗？其实小数据下参数越多越容易过拟合（EVP法则很重要！）。但到了千亿参数规模，‘涌现’又成了新故事。你怎么看规模与数据的关系？#开发者讨论"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Compatibility Notes on the New Studio Displays",
+          "link": "https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Qwen in Turmoil: Core Team Exodus Sparks Industry Speculation",
+          "link": "https://simonwillison.net/2026/Mar/4/qwen/#atom-everything"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "From Logistic Regression to AI",
           "link": "https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "In Other Words, Batman Has Become Superman and Robin Has Become Batman",
-          "link": "https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "How many hours do you need to work to afford a pint of beer?",
-          "link": "https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/"
         }
       ],
-      "summary_zh": "2026-03-04 技术日报：逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力；苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨。",
-      "summary_en": "Daily brief (2026-03-04): Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities; Apple rebrands M-series cores: shifts from 'efficiency' to 'perf",
+      "summary_zh": "2026-03-04 技术日报：新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz；Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发；逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力。",
+      "summary_en": "Daily brief (2026-03-04): New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz; Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by a",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-04 日报】逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力；苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-04): Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities; Apple rebrands M-series cores: shifts from 'efficiency' to 'per"
+          "zh": "【2026-03-04 日报】新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz；Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发；逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-04): New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz; Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-04）\n- 逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力\n- 苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化\n- 基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/\n- https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-04)\n- Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities\n- Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot\n- Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/\n- https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-04）\n- 新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz\n- Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发\n- 逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/\n- https://simonwillison.net/2026/Mar/4/qwen/#atom-everything\n- https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-04)\n- New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz\n- Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by an internal re-org\n- Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/\n- https://simonwillison.net/2026/Mar/4/qwen/#atom-everything\n- https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力；苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities; Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance g"
+          "zh": "今天最值得看的 3 个点：新款Studio Display仅支持Apple Silicon Mac，XDR版需M2 Pro/M3 Pro或M4/M5芯片才能驱动120Hz；Qwen开源AI模型核心团队突发大规模离职，包括技术负责人林俊阳，疑似因内部重组引发；逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: New Studio Displays only support Apple Silicon Macs; XDR model requires M2 Pro/M3 Pro or M4/M5 chips for 120Hz; Key Qwen open-weight AI team members, including lead researcher Junyang Lin, have abruptly resigned, likely triggered by an internal re-org; Logistic regression is a"
         }
       }
     },
