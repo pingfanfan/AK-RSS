@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-04T14:12:07Z",
+  "generated_at": "2026-03-04T14:43:46Z",
   "days": [
     {
       "date": "2026-03-04",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
+        "johndcook.com (1)",
         "nesbitt.io (1)",
-        "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "johndcook.com · From logistic regression to AI",
         "daringfireball.net · ‘In Other Words, Batman Has Become Superman and Robin Has Become Batman’",
         "shkspr.mobi · How many hours do you need to work to afford a pint of beer?",
         "dfarq.homeip.net · Homebrew Computer Club in Menlo Park",
         "idiallo.com · Interruption-Driven Development",
-        "nesbitt.io · Package Managers Need to Cool Down",
-        "utcc.utoronto.ca/~cks · A taxonomy of text output (from tools that want to be too clever)"
+        "nesbitt.io · Package Managers Need to Cool Down"
       ],
       "key_points": [
+        "逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力",
         "苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化",
         "基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨",
-        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本",
-        "频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长"
+        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本"
       ],
       "key_points_zh": [
+        "逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力",
         "苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化",
         "基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨",
-        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本",
-        "频繁工作中断迫使开发者重置思维状态，大幅降低效率；管理者缩短会议时长却未减少次数，问题本质在于中断频率而非单次时长"
+        "揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本"
       ],
       "key_points_en": [
+        "Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities",
         "Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot",
         "Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices",
-        "Silicon Valley legend: How the Homebrew Computer Club's open collaboration sparked the PC revolution, directly influenced Apple's birth, and offers a historical blueprint for today's AI and infrastructure open-source movements",
-        "Frequent work interruptions force developers to rebuild mental context, drastically reducing efficiency; managers shorten meetings but not their frequency, the core issue is interruption rate, not duration"
+        "Silicon Valley legend: How the Homebrew Computer Club's open collaboration sparked the PC revolution, directly influenced Apple's birth, and offers a historical blueprint for today's AI and infrastructure open-source movements"
       ],
       "tweet_drafts": [
+        "从逻辑回归到LLM，真的是‘更多参数=更强能力’吗？其实小数据下参数越多越容易过拟合（EVP法则很重要！）。但到了千亿参数规模，‘涌现’又成了新故事。你怎么看规模与数据的关系？#开发者讨论",
         "苹果M系列芯片核心更名：效率核心→性能核心。市场认知与技术成熟双重驱动。开发者需关注调度变化与功耗测试。#TechNews",
-        "你以为啤酒变贵了？历史数据对比显示，按最低工资算，现在买一品脱啤酒只需约半小时，是20年来最‘划算’的时候。绝对价格涨了，但工资涨得更快。用数据看世界。#开发者 #趋势",
-        "家酿计算机俱乐部证明：伟大产品始于草根社区。今天，AI与基础设施开源运动正重写规则。你准备好参与下一个革命了吗？#技术社区 #创新"
+        "你以为啤酒变贵了？历史数据对比显示，按最低工资算，现在买一品脱啤酒只需约半小时，是20年来最‘划算’的时候。绝对价格涨了，但工资涨得更快。用数据看世界。#开发者 #趋势"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "From Logistic Regression to AI",
+          "link": "https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "In Other Words, Batman Has Become Superman and Robin Has Become Batman",
@@ -53,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "How many hours do you need to work to afford a pint of beer?",
           "link": "https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Homebrew Computer Club in Menlo Park",
-          "link": "https://dfarq.homeip.net/homebrew-computer-club-in-menlo-park/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=homebrew-computer-club-in-menlo-park"
         }
       ],
-      "summary_zh": "2026-03-04 技术日报：苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨；揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本。",
-      "summary_en": "Daily brief (2026-03-04): Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot; Analysis of UK official historical data shows that, relative to minimum wage, the work time needed t",
+      "summary_zh": "2026-03-04 技术日报：逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力；苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨。",
+      "summary_en": "Daily brief (2026-03-04): Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities; Apple rebrands M-series cores: shifts from 'efficiency' to 'perf",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-04 日报】苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨；揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-04): Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot; Analysis of UK official historical data shows that, relative to minimum wage, the work time needed"
+          "zh": "【2026-03-04 日报】逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力；苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-04): Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities; Apple rebrands M-series cores: shifts from 'efficiency' to 'per"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-04）\n- 苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化\n- 基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨\n- 揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n- https://dfarq.homeip.net/homebrew-computer-club-in-menlo-park/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=homebrew-computer-club-in-menlo-park\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-04)\n- Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot\n- Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices\n- Silicon Valley legend: How the Homebrew Computer Club's open collaboration sparked the PC revolution, directly influenced Apple's birth, and offers a historical blueprint for today's AI and infrastructure open-source movements\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n- https://dfarq.homeip.net/homebrew-computer-club-in-menlo-park/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=homebrew-computer-club-in-menlo-park\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-04）\n- 逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力\n- 苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化\n- 基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/\n- https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-04)\n- Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities\n- Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot\n- Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at its lowest ever, despite rising absolute prices\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/\n- https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/\n- https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨；揭秘硅谷传奇：家酿计算机俱乐部如何通过开源协作点燃个人电脑革命，直接影响苹果诞生，并为今日AI与基础设施开源运动提供历史范本。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance gains and strategic pivot; Analysis of UK official historical data shows that, relative to minimum wage, the work time needed to afford a pint of lager (~30 mins) is at it"
+          "zh": "今天最值得看的 3 个点：逻辑回归是小数据场景的稳健基石，而LLM通过海量参数与数据实现质变，规模本身催生新能力；苹果重命名M系列芯片核心：从‘效率核心’转向‘性能核心’营销，反映性能提升与市场策略变化；基于英国官方历史数据分析，按最低工资计算，如今购买一品脱啤酒所需的工作时间（约半小时）处于历史最低水平，尽管绝对价格在上涨。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Logistic regression is a robust cornerstone for small data, while LLMs achieve qualitative leaps via massive scale—more parameters and data create emergent capabilities; Apple rebrands M-series cores: shifts from 'efficiency' to 'performance' marketing, reflecting performance g"
         }
       }
     },
@@ -231,14 +231,14 @@
     },
     {
       "date": "2026-03-01",
-      "total": 15,
+      "total": 16,
       "feeds": [
+        "martinalderson.com (2)",
         "antirez.com (1)",
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)",
         "eli.thegreenplace.net (1)",
-        "evanhahn.com (1)",
-        "idiallo.com (1)"
+        "evanhahn.com (1)"
       ],
       "highlights": [
         "jeffgeerling.com · Expert Beginners and Lone Wolves will dominate this early LLM era",
