@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-05T15:45:42Z",
+  "generated_at": "2026-03-05T18:32:17Z",
   "days": [
     {
       "date": "2026-03-05",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "dfarq.homeip.net (1)",
         "lucumr.pocoo.org (1)",
         "matklad.github.io (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Can coding agents relicense open source through a “clean room” implementation of code?",
         "shkspr.mobi · Book Review: Katabasis by R. F. Kuang ★★★★⯪",
         "dfarq.homeip.net · Remembering the Michelangelo virus",
         "nesbitt.io · Package Manager Magic Files",
         "utcc.utoronto.ca/~cks · Sometimes, non-general solutions are the right answer",
-        "matklad.github.io · JJ LSP Follow Up",
-        "lucumr.pocoo.org · AI And The Ship of Theseus"
+        "matklad.github.io · JJ LSP Follow Up"
       ],
       "key_points": [
+        "Can coding agents relicense open source through a “clean room” implementation of code?",
         "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像",
         "1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化",
-        "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险",
-        "在开发cgroups内存监控工具时，作者放弃复杂的通用设计，采用硬编码三字段方案，快速满足当前需求"
+        "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险"
       ],
       "key_points_zh": [
+        "Can coding agents relicense open source through a “clean room” implementation of code?",
         "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像",
         "1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化",
-        "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险",
-        "在开发cgroups内存监控工具时，作者放弃复杂的通用设计，采用硬编码三字段方案，快速满足当前需求"
+        "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险"
       ],
       "key_points_en": [
+        "Can coding agents relicense open source through a “clean room” implementation of code?",
         "A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics",
         "On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting",
-        "Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk",
-        "When developing a cgroups memory monitoring tool, the author abandoned a complex general design for a hardcoded three-field solution, quickly meeting current needs"
+        "Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk"
       ],
       "tweet_drafts": [
+        "Can coding agents relicense open source through a “clean room” implementation of code?",
         "下地狱救导师？R.F. Kuang新作把学术焦虑写成奇幻冒险。技术人秒懂：我们每天不都在“ essay crisis ”式的代码地狱里打转吗？笑中带刺，推荐",
-        "1992年米开朗基罗病毒在3月6日触发，覆盖硬盘前100扇区。历史表明，基础安全如备份和防病毒永不过时。 #安全 #Dev",
-        "包管理器的隐藏配置：.npmrc的script-shell设置可指定任意shell执行脚本，风险极高。确保不将其提交至仓库，并定期审计配置。安全无小事。 #DevOps #Infosec"
+        "1992年米开朗基罗病毒在3月6日触发，覆盖硬盘前100扇区。历史表明，基础安全如备份和防病毒永不过时。 #安全 #Dev"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Can coding agents relicense open source through a “clean room” implementation of code?",
+          "link": "https://simonwillison.net/2026/Mar/5/chardet/#atom-everything"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Book Review: Katabasis by R. F. Kuang ★★★★⯪",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Remembering the Michelangelo virus",
           "link": "https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Package Manager Magic Files",
-          "link": "https://nesbitt.io/2026/03/05/package-manager-magic-files.html"
         }
       ],
-      "summary_zh": "2026-03-05 技术日报：一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化；除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。",
-      "summary_en": "Daily brief (2026-03-05): A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics; On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 secto",
+      "summary_zh": "2026-03-05 技术日报：Can coding agents relicense open source through a “clean room” implementation of code?；一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化。",
+      "summary_en": "Daily brief (2026-03-05): Can coding agents relicense open source through a “clean room” implementation of code?; A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI eth",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-05 日报】一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化；除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-05): A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics; On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sect"
+          "zh": "【2026-03-05 日报】Can coding agents relicense open source through a “clean room” implementation of code?；一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-05): Can coding agents relicense open source through a “clean room” implementation of code?; A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI et"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-05）\n- 一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像\n- 1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化\n- 除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n- https://nesbitt.io/2026/03/05/package-manager-magic-files.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-05)\n- A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics\n- On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting\n- Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n- https://nesbitt.io/2026/03/05/package-manager-magic-files.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-05）\n- Can coding agents relicense open source through a “clean room” implementation of code?\n- 一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像\n- 1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n- https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-05)\n- Can coding agents relicense open source through a “clean room” implementation of code?\n- A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics\n- On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n- https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化；除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics; On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar"
+          "zh": "今天最值得看的 3 个点：Can coding agents relicense open source through a “clean room” implementation of code?；一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Can coding agents relicense open source through a “clean room” implementation of code?; A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics; On March 6, 1992, the Michelangelo viru"
         }
       }
     },
