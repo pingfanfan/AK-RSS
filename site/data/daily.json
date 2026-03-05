@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-05T19:25:40Z",
+  "generated_at": "2026-03-05T19:48:30Z",
   "days": [
     {
       "date": "2026-03-05",
-      "total": 7,
+      "total": 9,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "lucumr.pocoo.org (1)",
         "matklad.github.io (1)",
         "nesbitt.io (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’",
+        "pluralistic.net · Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction",
         "simonwillison.net · Can coding agents relicense open source through a “clean room” implementation of code?",
         "shkspr.mobi · Book Review: Katabasis by R. F. Kuang ★★★★⯪",
         "dfarq.homeip.net · Remembering the Michelangelo virus",
-        "nesbitt.io · Package Manager Magic Files",
-        "utcc.utoronto.ca/~cks · Sometimes, non-general solutions are the right answer",
-        "lucumr.pocoo.org · AI And The Ship of Theseus"
+        "nesbitt.io · Package Manager Magic Files"
       ],
       "key_points": [
+        "乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验",
+        "本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会",
         "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像",
-        "1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化",
-        "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险"
+        "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像"
       ],
       "key_points_zh": [
+        "乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验",
+        "本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会",
         "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像",
-        "1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化",
-        "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险"
+        "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像"
       ],
       "key_points_en": [
+        "Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume",
+        "Using Twitter/X's turmoil as a case study, this article explains how crises force systemic change, urging developers to mitigate platform risks and seize decentralized opportunities",
         "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics",
-        "On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting",
-        "Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk"
+        "A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics"
       ],
       "tweet_drafts": [
-        "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "下地狱救导师？R.F. Kuang新作把学术焦虑写成奇幻冒险。技术人秒懂：我们每天不都在“ essay crisis ”式的代码地狱里打转吗？笑中带刺，推荐",
-        "1992年米开朗基罗病毒在3月6日触发，覆盖硬盘前100扇区。历史表明，基础安全如备份和防病毒永不过时。 #安全 #Dev"
+        "“我们绝不能推出垃圾产品。”——乔布斯2007年。苹果用20年证明：坚持质量底线，才能赢得长期忠诚。对技术团队的启示：拒绝低质交付，哪怕会慢一点。#工程文化",
+        "平台动荡即变革信号。Musk的X被'炙烤'后，欧盟DSA与Fediverse崛起。开发者：立即 diversify 依赖，实验去中心化协议，避免成为下一个温水青蛙。#平台风险 #开发者",
+        "Can coding agents relicense open source through a “clean room” implementation of code?"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Steve Jobs in 2007 on PC Market Share: 'We Just Can't Ship Junk'",
+          "link": "https://www.youtube.com/watch?v=U37Ds3RvyoM"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Blowtorching the Frog: How Crises Drive Tech Transformation",
+          "link": "https://pluralistic.net/2026/03/05/executive-dysfunction/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Can coding agents relicense open source through a “clean room” implementation of code?",
           "link": "https://simonwillison.net/2026/Mar/5/chardet/#atom-everything"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Book Review: Katabasis by R. F. Kuang ★★★★⯪",
-          "link": "https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Remembering the Michelangelo virus",
-          "link": "https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo"
         }
       ],
-      "summary_zh": "2026-03-05 技术日报：Can coding agents relicense open source through a “clean room” implementation of code?；一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化。",
-      "summary_en": "Daily brief (2026-03-05): Can coding agents relicense open source through a “clean room” implementation of code?; A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI eth",
+      "summary_zh": "2026-03-05 技术日报：乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验；本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会；Can coding agents relicense open source through a “clean room” implementation of code?。",
+      "summary_en": "Daily brief (2026-03-05): Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume; Using Twitter/X's turmoi",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-05 日报】Can coding agents relicense open source through a “clean room” implementation of code?；一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-05): Can coding agents relicense open source through a “clean room” implementation of code?; A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI et"
+          "zh": "【2026-03-05 日报】乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验；本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会；Can coding agents relicense open source through a “clean room” implementation of code?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI",
+          "en": "AK-RSS Daily (2026-03-05): Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume; Using Twitter/X's turmo"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-05）\n- Can coding agents relicense open source through a “clean room” implementation of code?\n- 一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像\n- 1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n- https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-05)\n- Can coding agents relicense open source through a “clean room” implementation of code?\n- A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics\n- On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n- https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-05）\n- 乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验\n- 本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会\n- Can coding agents relicense open source through a “clean room” implementation of code?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.youtube.com/watch?v=U37Ds3RvyoM\n- https://pluralistic.net/2026/03/05/executive-dysfunction/\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-05)\n- Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume\n- Using Twitter/X's turmoil as a case study, this article explains how crises force systemic change, urging developers to mitigate platform risks and seize decentralized opportunities\n- Can coding agents relicense open source through a “clean room” implementation of code?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.youtube.com/watch?v=U37Ds3RvyoM\n- https://pluralistic.net/2026/03/05/executive-dysfunction/\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Can coding agents relicense open source through a “clean room” implementation of code?；一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像；1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Can coding agents relicense open source through a “clean room” implementation of code?; A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics; On March 6, 1992, the Michelangelo viru"
+          "zh": "今天最值得看的 3 个点：乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验；本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会；Can coding agents relicense open source through a “clean room” implementation of code?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume; Using Twitter/X's turmoil as a case study, this article explains how"
         }
       }
     },
