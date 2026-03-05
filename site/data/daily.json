@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-03-05T20:08:53Z",
+  "generated_at": "2026-03-05T20:43:42Z",
   "days": [
     {
       "date": "2026-03-05",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "lucumr.pocoo.org (1)",
         "matklad.github.io (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
         "daringfireball.net · Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’",
         "pluralistic.net · Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction",
         "simonwillison.net · Can coding agents relicense open source through a “clean room” implementation of code?",
+        "devblogs.microsoft.com/oldnewthing · The mystery of the posted message that was dispatched before reaching the main message loop",
         "shkspr.mobi · Book Review: Katabasis by R. F. Kuang ★★★★⯪",
-        "dfarq.homeip.net · Remembering the Michelangelo virus",
-        "nesbitt.io · Package Manager Magic Files"
+        "dfarq.homeip.net · Remembering the Michelangelo virus"
       ],
       "key_points": [
         "乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验",
         "本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会",
         "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像"
+        "发布的消息可能在主消息循环启动前就被处理，通常因准备工作中的隐式消息泵（如DDE/COM调用）触发。解决方案：推迟PostMessage，确保所有初始化完成后再发送"
       ],
       "key_points_zh": [
         "乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验",
         "本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会",
         "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "一部用幽默地狱隐喻学术与技术债务的奇幻小说，开发者能从中看到复杂系统、逻辑陷阱与AI伦理的镜像"
+        "发布的消息可能在主消息循环启动前就被处理，通常因准备工作中的隐式消息泵（如DDE/COM调用）触发。解决方案：推迟PostMessage，确保所有初始化完成后再发送"
       ],
       "key_points_en": [
         "Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume",
         "Using Twitter/X's turmoil as a case study, this article explains how crises force systemic change, urging developers to mitigate platform risks and seize decentralized opportunities",
         "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "A darkly funny fantasy using Hell as a metaphor for academic \u0026 tech debt—devs will see parallels in complex systems, logical fallacies, and AI ethics"
+        "Posted messages can be dispatched before the main message loop starts, often triggered by implicit message pumps in preparatory work (e.g., DDE/COM calls). Fix: Delay PostMessage until all initialization is complete"
       ],
       "tweet_drafts": [
         "“我们绝不能推出垃圾产品。”——乔布斯2007年。苹果用20年证明：坚持质量底线，才能赢得长期忠诚。对技术团队的启示：拒绝低质交付，哪怕会慢一点。#工程文化",
