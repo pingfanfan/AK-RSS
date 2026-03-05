@@ -1,49 +1,61 @@
 {
-  "generated_at": "2026-03-05T11:42:07Z",
+  "generated_at": "2026-03-05T12:05:42Z",
   "days": [
     {
       "date": "2026-03-05",
-      "total": 1,
+      "total": 2,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Remembering the Michelangelo virus",
         "nesbitt.io · Package Manager Magic Files"
       ],
       "key_points": [
+        "1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化",
         "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险",
+        "On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting",
         "Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk"
       ],
       "key_points_zh": [
+        "1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化",
         "除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险"
       ],
       "key_points_en": [
+        "On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting",
         "Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk"
       ],
       "tweet_drafts": [
+        "1992年米开朗基罗病毒在3月6日触发，覆盖硬盘前100扇区。历史表明，基础安全如备份和防病毒永不过时。 #安全 #Dev",
         "包管理器的隐藏配置：.npmrc的script-shell设置可指定任意shell执行脚本，风险极高。确保不将其提交至仓库，并定期审计配置。安全无小事。 #DevOps #Infosec"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Remembering the Michelangelo virus",
+          "link": "https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Package Manager Magic Files",
           "link": "https://nesbitt.io/2026/03/05/package-manager-magic-files.html"
         }
       ],
-      "summary_zh": "2026-03-05 技术日报：除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。",
-      "summary_en": "Daily brief (2026-03-05): Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk.",
+      "summary_zh": "2026-03-05 技术日报：1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化；除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。",
+      "summary_en": "Daily brief (2026-03-05): On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting; Beyond manifests and lockfiles, package managers use numerous hidden config files controlli",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-05 日报】除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-05): Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk. A"
+          "zh": "【2026-03-05 日报】1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化；除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-05): On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting; Beyond manifests and lockfiles, package managers use numerous hidden config files controll"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-05）\n- 除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/05/package-manager-magic-files.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-05)\n- Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/05/package-manager-magic-files.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-05）\n- 1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化\n- 除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n- https://nesbitt.io/2026/03/05/package-manager-magic-files.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-05)\n- On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting\n- Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=remembering-michelangelo\n- https://nesbitt.io/2026/03/05/package-manager-magic-files.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. The .npmrc script-shell setting can hijack script execution, posing a supply chain security risk.\nI turned them into an action-ready daily brief"
+          "zh": "今天最值得看的 3 个点：1992年3月6日，米开朗基罗病毒激活，覆盖硬盘前100扇区，导致数据丢失，效果类似格式化；除manifest和lockfile外，包管理器还有大量隐藏配置文件控制注册表、认证和安装行为。其中.npmrc的script-shell设置可被利用劫持脚本执行，构成供应链安全风险。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: On March 6, 1992, the Michelangelo virus activated, overwriting the first 100 sectors of hard drives, causing data loss similar to formatting; Beyond manifests and lockfiles, package managers use numerous hidden config files controlling registries, auth, and install behavior. T"
         }
       }
     },
