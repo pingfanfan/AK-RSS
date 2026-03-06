@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-03-06T12:03:48Z",
+  "generated_at": "2026-03-06T12:45:47Z",
   "days": [
     {
       "date": "2026-03-06",
-      "total": 4,
+      "total": 7,
       "feeds": [
+        "dfarq.homeip.net (1)",
+        "matduggan.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)",
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Firmware Update for the Treedix TRX5-0816 Cable Tester",
+        "matduggan.com · Boy I was wrong about the Fediverse",
+        "dfarq.homeip.net · Blue Monday by New Order released, 1983",
         "nesbitt.io · .gitlocal",
         "simonwillison.net · Agentic manual testing",
-        "utcc.utoronto.ca/~cks · How I think systemd IP address restrictions on socket units works",
-        "seangoedecke.com · I don't know if my job will still exist in ten years"
+        "utcc.utoronto.ca/~cks · How I think systemd IP address restrictions on socket units works"
       ],
       "key_points": [
-        "gitlocal",
-        "编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整",
-        "在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）",
-        "AI代理将重塑软件工程：资深工程师或转型为监督者，初级岗位首当其冲；未来十年取决于行业对AI能力的判断是保守还是激进"
+        "Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级",
+        "作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键",
+        "1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河",
+        "gitlocal"
       ],
       "key_points_zh": [
-        "gitlocal",
-        "编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整",
-        "在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）",
-        "AI代理将重塑软件工程：资深工程师或转型为监督者，初级岗位首当其冲；未来十年取决于行业对AI能力的判断是保守还是激进"
+        "Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级",
+        "作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键",
+        "1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河",
+        "gitlocal"
       ],
       "key_points_en": [
-        "gitlocal",
-        "Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation",
-        "Setting IPAddressAllow/Deny on a systemd .socket unit restricts only inbound access to that socket, not the outbound connections made by the activated service (e.g., DNS lookups)",
-        "AI agents will reshape software engineering: seniors may become supervisors, junior roles hit first; the next decade hinges on whether the industry under- or over-estimates AI capabilities"
+        "Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units",
+        "The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algorithms. He later realized its decentralized, ownerless infrastructure is actually critical for preserving a free flow of information when capital and power erode traditional media",
+        "In 1983, New Order released the New Wave classic 'Blue Monday,' pioneering physical media design with its floppy disk-shaped sleeve",
+        "gitlocal"
       ],
       "tweet_drafts": [
-        "gitlocal",
-        "AI编码代理能写代码，但别信它自动通过测试就完事。手动测试才是王道：用`python -c`或`/tmp`临时跑一跑，揪出自动化测试漏掉的坑。安全、质量双保障。#AI开发 #工程实践",
-        "在systemd .socket单元设置IP限制，竟只影响入站？是的！这通过eBPF直接附着在socket上实现，服务进程的出站连接（如DNS、API调用）完全自由。这是为socket激活服务设计入站防火墙的优雅方案。验证：bpftool cgroup list | grep sd_fw"
+        "Treedix TRX5-0816固件更新至v2.4.06，解决eMarker识别bug。重要：v4.0需新硬件，旧设备勿刷。更新需Windows，步骤详见原文。 #开发者工具 #硬件测试",
+        "联邦宇宙不是理想主义者的玩具。它是当中心化平台被资本侵蚀时，为数不多的、能保持信息流通韧性的去中心化基础设施。开发者应关注ActivityPub，评估自建实例的可能性",
+        "《Blue Monday》软盘封套：1983年音乐与科技设计的跨界经典。对现代产品包装的启示？#NewOrder #设计思维"
       ],
       "sources": [
         {
-          "feed_title": "nesbitt.io",
-          "title": ".gitlocal",
-          "link": "https://nesbitt.io/2026/03/06/gitlocal.html"
+          "feed_title": "shkspr.mobi",
+          "title": "Firmware Update for the Treedix TRX5-0816 Cable Tester",
+          "link": "https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "Agentic Manual Testing",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything"
+          "feed_title": "matduggan.com",
+          "title": "Boy I was wrong about the Fediverse",
+          "link": "https://matduggan.com/boy-i-was-wrong-about-the-fediverse/"
         },
         {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Systemd Socket IP Restrictions: Inbound-Only Filtering",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions"
+          "feed_title": "dfarq.homeip.net",
+          "title": "New Order's 'Blue Monday' Released, 1983",
+          "link": "https://dfarq.homeip.net/blue-monday-by-new-order-released-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=blue-monday-by-new-order-released-1983"
         }
       ],
-      "summary_zh": "2026-03-06 技术日报：gitlocal；编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整；在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）。",
-      "summary_en": "Daily brief (2026-03-06): gitlocal; Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation; Setting IPAddressAllow/Deny on a systemd .socket unit restricts on",
+      "summary_zh": "2026-03-06 技术日报：Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级；作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键；1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河。",
+      "summary_en": "Daily brief (2026-03-06): Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units; The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algor",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-06 日报】gitlocal；编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整；在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-06): gitlocal; Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation; Setting IPAddressAllow/Deny on a systemd .socket unit restricts o"
+          "zh": "【2026-03-06 日报】Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级；作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键；1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河。我把可执行建议整理好",
+          "en": "AK-RSS Daily (2026-03-06): Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units; The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algo"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-06）\n- gitlocal\n- 编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整\n- 在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/06/gitlocal.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-06)\n- gitlocal\n- Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation\n- Setting IPAddressAllow/Deny on a systemd .socket unit restricts only inbound access to that socket, not the outbound connections made by the activated service (e.g., DNS lookups)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/06/gitlocal.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-06）\n- Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级\n- 作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键\n- 1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/\n- https://matduggan.com/boy-i-was-wrong-about-the-fediverse/\n- https://dfarq.homeip.net/blue-monday-by-new-order-released-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=blue-monday-by-new-order-released-1983\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-06)\n- Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units\n- The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algorithms. He later realized its decentralized, ownerless infrastructure is actually critical for preserving a free flow of information when capital and power erode traditional media\n- In 1983, New Order released the New Wave classic 'Blue Monday,' pioneering physical media design with its floppy disk-shaped sleeve\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/\n- https://matduggan.com/boy-i-was-wrong-about-the-fediverse/\n- https://dfarq.homeip.net/blue-monday-by-new-order-released-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=blue-monday-by-new-order-released-1983\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：gitlocal；编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整；在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: gitlocal; Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation; Setting IPAddressAllow/Deny on a systemd .socket unit restricts only inbound access to that socket, not the ou"
+          "zh": "今天最值得看的 3 个点：Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级；作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键；1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units; The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algorithms. He later realized its decentralized,"
         }
       }
     },
