@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-03-05T23:14:02Z",
+  "generated_at": "2026-03-06T06:10:17Z",
   "days": [
+    {
+      "date": "2026-03-06",
+      "total": 1,
+      "feeds": [
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Agentic manual testing"
+      ],
+      "key_points": [
+        "编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整",
+        "Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation"
+      ],
+      "key_points_zh": [
+        "编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整"
+      ],
+      "key_points_en": [
+        "Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation"
+      ],
+      "tweet_drafts": [
+        "AI编码代理能写代码，但别信它自动通过测试就完事。手动测试才是王道：用`python -c`或`/tmp`临时跑一跑，揪出自动化测试漏掉的坑。安全、质量双保障。#AI开发 #工程实践"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Agentic Manual Testing",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-03-06 技术日报：编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整。",
+      "summary_en": "Daily brief (2026-03-06): Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-06 日报】编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-06): Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-06）\n- 编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-06)\n- Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-03-05",
       "total": 10,
