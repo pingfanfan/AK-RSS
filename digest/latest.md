@@ -1,11 +1,11 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-06 15:43:30 UTC
+Generated at: 2026-03-06 16:44:16 UTC
 
-- [A PTP Wall Clock is impractical and a little too precise](https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/) (`jeffgeerling.com`)
-- [Another Steve Jobs Quote on Lower-Priced Macs](https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html) (`daringfireball.net`)
-  - TLDR: 乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变。
-  - WHAT: 本文回顾乔布斯2008年关于低价Mac的评论，分析Apple如何通过iPad覆盖低价市场，并探讨MacBook Neo作为潜在低价PC的可能性。
-  - WHY: Apple此前拒绝低价Mac因品质与品牌DNA；但iPad证明低价设备可行，而部分用户仍需传统PC功能，驱动Apple重新考虑低价Mac。
-  - ACTION: 开发者应关注Apple硬件策略变化，评估应用对Mac/iPad的适配差异，并思考如何服务不同设备用户群。
-  - TWEET: 2008年乔布斯拒绝500美元Mac，称会毁掉DNA。如今iPad覆盖低价，但MacBook Neo或回应PC需求。Apple如何在不牺牲品质下拓展市场？技术策略深度解析。
+- [The MacBook Neo’s Price, Looking to the Past and Future](https://x.com/ethan_is_online/status/2029331836137291941?s=42) (`daringfireball.net`)
+- [How to Host your Own Email Server](https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server) (`miguelgrinberg.com`)
+  - TLDR: 作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案。
+  - WHAT: 本文具体指导如何配置邮件发送（Postfix SMTP、DNS记录、SSL证书）及接收（使用域名别名转发至Gmail等），解决发信信誉与反垃圾邮件机制问题。
+  - WHY: 避免依赖Mailgun/SendGrid等大厂服务，降低长期成本与隐私风险；证明自建虽需技术投入但完全可行，且能掌握基础设施控制权。
+  - ACTION: 开发者可参考本文在测试域名上实践，重点配置DNS记录与SMTP认证，使用邮件测试工具验证 deliverability，再逐步迁移至生产环境。
+  - TWEET: 自建邮件服务器真的难吗？看这位开发者如何从零配置，让邮件通过Gmail等大厂反垃圾检查。核心是DNS记录与SMTP安全配置，接收邮件竟可用别名转发这么简单。技术自主，拒绝绑架。
