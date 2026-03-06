@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T20:04:06Z",
+  "generated_at": "2026-03-06T20:42:49Z",
   "days": [
     {
       "date": "2026-03-06",
-      "total": 20,
+      "total": 21,
       "feeds": [
-        "daringfireball.net (4)",
+        "daringfireball.net (5)",
         "simonwillison.net (2)",
         "berthub.eu (1)",
         "construction-physics.com (1)",
@@ -13,37 +13,42 @@
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin",
         "daringfireball.net · The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’",
         "daringfireball.net · Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032",
         "simonwillison.net · Anthropic and the Pentagon",
         "dwarkesh.com · How cosplaying Ancient Rome led to the scientific revolution",
-        "filfre.net · The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure",
-        "miguelgrinberg.com · How to Host your Own Email Server"
+        "filfre.net · The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure"
       ],
       "key_points": [
+        "名为 Coruna 的 iOS 漏洞利用工具包包含 23 个漏洞利用，影响 iOS 13-17.2.1，已被监控软件商、俄间谍组织及中国黑客多次使用，揭示活跃的零日漏洞二手市场",
         "Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本",
         "在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果",
-        "AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值",
-        "How cosplaying Ancient Rome led to the scientific revolution"
+        "AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值"
       ],
       "key_points_zh": [
+        "名为 Coruna 的 iOS 漏洞利用工具包包含 23 个漏洞利用，影响 iOS 13-17.2.1，已被监控软件商、俄间谍组织及中国黑客多次使用，揭示活跃的零日漏洞二手市场",
         "Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本",
         "在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果",
-        "AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值",
-        "How cosplaying Ancient Rome led to the scientific revolution"
+        "AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值"
       ],
       "key_points_en": [
+        "The 'Coruna' iOS exploit kit, with 23 exploits affecting iOS 13-17.2.1, has been used by surveillance vendors, Russian espionage groups, and Chinese financially motivated actors, revealing an active market for 'second-hand' zero-days",
         "Sweeney says Apple’s antitrust tactics are covert (ice), while Google’s are documented (fire). However, Google’s new fee structure splitting ‘existing/new installs’ is confusing—developers must watch real costs",
         "In Epic's settlement with Google, Tim Sweeney personally agreed not to criticize Google's app store policies until 2032 and must praise them, while the 'Coalition for App Fairness' he funded is restricted to targeting only Apple",
-        "With AI models becoming commodities, Anthropic's 'ethical AI' branding secured a Pentagon contract, highlighting the commercial value of trust in a crowded market",
-        "How cosplaying Ancient Rome led to the scientific revolution"
+        "With AI models becoming commodities, Anthropic's 'ethical AI' branding secured a Pentagon contract, highlighting the commercial value of trust in a crowded market"
       ],
       "tweet_drafts": [
+        "Coruna 工具包证明，顶级漏洞利用技术会像商品一样在暗网流通。你的应用是否依赖的某个 SDK 可能已内置了未公开的利用链？立即行动：1. 强制设备更新 2. 实施运行时保护 3. 订阅 GTIG 情报。安全不是功能，是基础设施",
         "Sweeney对比苹果（隐蔽）与谷歌（留证）反垄断手段，但谷歌新费率结构复杂。开发者需仔细评估‘现有/新安装’分档对业务的影响，并考虑分发渠道多元化",
-        "Google让Epic CEO封口至2032年，还逼他夸自己。所谓的‘应用公平联盟’只剩攻击苹果。这揭示平台权力如何通过协议限制行业批评。开发者：你的合同里也有沉默条款吗？",
-        "Anthropic与五角大楼合同揭示：AI商品化时代，'道德AI'品牌成关键差异点。对开发者：伦理合规、安全技能、可审计架构是未来重点。 #AI安全 #基础设施"
+        "Google让Epic CEO封口至2032年，还逼他夸自己。所谓的‘应用公平联盟’只剩攻击苹果。这揭示平台权力如何通过协议限制行业批评。开发者：你的合同里也有沉默条款吗？"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Google’s Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin",
+          "link": "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Epic CEO Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032",
           "link": "https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Anthropic and the Pentagon: The Commercial Value of AI Ethics",
-          "link": "https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-06 技术日报：Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本；在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果；AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值。",
-      "summary_en": "Daily brief (2026-03-06): Sweeney says Apple’s antitrust tactics are covert (ice), while Google’s are documented (fire). However, Google’s new fee structure splitting ‘existing/new installs’ is confusing—developers must watch real costs; In Epic's settlement w",
+      "summary_zh": "2026-03-06 技术日报：名为 Coruna 的 iOS 漏洞利用工具包包含 23 个漏洞利用，影响 iOS 13-17.2.1，已被监控软件商、俄间谍组织及中国黑客多次使用，揭示活跃的零日漏洞二手市场；Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本；在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果",
+      "summary_en": "Daily brief (2026-03-06): The 'Coruna' iOS exploit kit, with 23 exploits affecting iOS 13-17.2.1, has been used by surveillance vendors, Russian espionage groups, and Chinese financially motivated actors, revealing an active market for 'second-hand' zero-days;",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-06 日报】Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本；在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果；AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-06): Sweeney says Apple’s antitrust tactics are covert (ice), while Google’s are documented (fire). However, Google’s new fee structure splitting ‘existing/new installs’ is confusing—developers must watch real costs; In Epic's settlement"
+          "zh": "【2026-03-06 日报】名为 Coruna 的 iOS 漏洞利用工具包包含 23 个漏洞利用，影响 iOS 13-17.2.1，已被监控软件商、俄间谍组织及中国黑客多次使用，揭示活跃的零日漏洞二手市场；Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本；在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果。",
+          "en": "AK-RSS Daily (2026-03-06): The 'Coruna' iOS exploit kit, with 23 exploits affecting iOS 13-17.2.1, has been used by surveillance vendors, Russian espionage groups, and Chinese financially motivated actors, revealing an active market for 'second-hand' zero-days"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-06）\n- Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本\n- 在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果\n- AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court\n- https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032\n- https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-06)\n- Sweeney says Apple’s antitrust tactics are covert (ice), while Google’s are documented (fire). However, Google’s new fee structure splitting ‘existing/new installs’ is confusing—developers must watch real costs\n- In Epic's settlement with Google, Tim Sweeney personally agreed not to criticize Google's app store policies until 2032 and must praise them, while the 'Coalition for App Fairness' he funded is restricted to targeting only Apple\n- With AI models becoming commodities, Anthropic's 'ethical AI' branding secured a Pentagon contract, highlighting the commercial value of trust in a crowded market\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court\n- https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032\n- https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-06）\n- 名为 Coruna 的 iOS 漏洞利用工具包包含 23 个漏洞利用，影响 iOS 13-17.2.1，已被监控软件商、俄间谍组织及中国黑客多次使用，揭示活跃的零日漏洞二手市场\n- Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本\n- 在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit\n- https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court\n- https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-06)\n- The 'Coruna' iOS exploit kit, with 23 exploits affecting iOS 13-17.2.1, has been used by surveillance vendors, Russian espionage groups, and Chinese financially motivated actors, revealing an active market for 'second-hand' zero-days\n- Sweeney says Apple’s antitrust tactics are covert (ice), while Google’s are documented (fire). However, Google’s new fee structure splitting ‘existing/new installs’ is confusing—developers must watch real costs\n- In Epic's settlement with Google, Tim Sweeney personally agreed not to criticize Google's app store policies until 2032 and must praise them, while the 'Coalition for App Fairness' he funded is restricted to targeting only Apple\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit\n- https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court\n- https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本；在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果；AI模型性能趋同，Anthropic以'道德AI'品牌赢得五角大楼合同，凸显伦理定位在商品化市场中的商业价值。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Sweeney says Apple’s antitrust tactics are covert (ice), while Google’s are documented (fire). However, Google’s new fee structure splitting ‘existing/new installs’ is confusing—developers must watch real costs; In Epic's settlement with Google, Tim Sweeney personally agreed no"
+          "zh": "今天最值得看的 3 个点：名为 Coruna 的 iOS 漏洞利用工具包包含 23 个漏洞利用，影响 iOS 13-17.2.1，已被监控软件商、俄间谍组织及中国黑客多次使用，揭示活跃的零日漏洞二手市场；Sweeney称苹果反垄断手段隐蔽（ice），谷歌则留下书面证据（fire）。但谷歌新费率分‘现有/新安装’复杂难懂，开发者需警惕实际成本；在Epic与Google的和解中，Tim Sweeney个人承诺至2032年不批评Google应用商店政策，甚至需公开赞扬，同时其资助的‘应用公平联盟’被限制仅可针对苹果。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The 'Coruna' iOS exploit kit, with 23 exploits affecting iOS 13-17.2.1, has been used by surveillance vendors, Russian espionage groups, and Chinese financially motivated actors, revealing an active market for 'second-hand' zero-days; Sweeney says Apple’s antitrust tactics are"
         }
       }
     },
