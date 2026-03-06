@@ -1,49 +1,75 @@
 {
-  "generated_at": "2026-03-06T10:07:21Z",
+  "generated_at": "2026-03-06T10:44:06Z",
   "days": [
     {
       "date": "2026-03-06",
-      "total": 1,
+      "total": 4,
       "feeds": [
-        "simonwillison.net (1)"
+        "nesbitt.io (1)",
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
-        "simonwillison.net · Agentic manual testing"
+        "nesbitt.io · .gitlocal",
+        "simonwillison.net · Agentic manual testing",
+        "utcc.utoronto.ca/~cks · How I think systemd IP address restrictions on socket units works",
+        "seangoedecke.com · I don't know if my job will still exist in ten years"
       ],
       "key_points": [
+        "gitlocal",
         "编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整",
-        "Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation"
+        "在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）",
+        "AI代理将重塑软件工程：资深工程师或转型为监督者，初级岗位首当其冲；未来十年取决于行业对AI能力的判断是保守还是激进"
       ],
       "key_points_zh": [
-        "编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整"
+        "gitlocal",
+        "编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整",
+        "在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）",
+        "AI代理将重塑软件工程：资深工程师或转型为监督者，初级岗位首当其冲；未来十年取决于行业对AI能力的判断是保守还是激进"
       ],
       "key_points_en": [
-        "Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation"
+        "gitlocal",
+        "Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation",
+        "Setting IPAddressAllow/Deny on a systemd .socket unit restricts only inbound access to that socket, not the outbound connections made by the activated service (e.g., DNS lookups)",
+        "AI agents will reshape software engineering: seniors may become supervisors, junior roles hit first; the next decade hinges on whether the industry under- or over-estimates AI capabilities"
       ],
       "tweet_drafts": [
-        "AI编码代理能写代码，但别信它自动通过测试就完事。手动测试才是王道：用`python -c`或`/tmp`临时跑一跑，揪出自动化测试漏掉的坑。安全、质量双保障。#AI开发 #工程实践"
+        "gitlocal",
+        "AI编码代理能写代码，但别信它自动通过测试就完事。手动测试才是王道：用`python -c`或`/tmp`临时跑一跑，揪出自动化测试漏掉的坑。安全、质量双保障。#AI开发 #工程实践",
+        "在systemd .socket单元设置IP限制，竟只影响入站？是的！这通过eBPF直接附着在socket上实现，服务进程的出站连接（如DNS、API调用）完全自由。这是为socket激活服务设计入站防火墙的优雅方案。验证：bpftool cgroup list | grep sd_fw"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": ".gitlocal",
+          "link": "https://nesbitt.io/2026/03/06/gitlocal.html"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Agentic Manual Testing",
           "link": "https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Systemd Socket IP Restrictions: Inbound-Only Filtering",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions"
         }
       ],
-      "summary_zh": "2026-03-06 技术日报：编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整。",
-      "summary_en": "Daily brief (2026-03-06): Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation.",
+      "summary_zh": "2026-03-06 技术日报：gitlocal；编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整；在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）。",
+      "summary_en": "Daily brief (2026-03-06): gitlocal; Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation; Setting IPAddressAllow/Deny on a systemd .socket unit restricts on",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-06 日报】编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-06): Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+          "zh": "【2026-03-06 日报】gitlocal；编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整；在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-06): gitlocal; Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation; Setting IPAddressAllow/Deny on a systemd .socket unit restricts o"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-06）\n- 编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-06)\n- Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-06）\n- gitlocal\n- 编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整\n- 在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/06/gitlocal.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-06)\n- gitlocal\n- Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation\n- Setting IPAddressAllow/Deny on a systemd .socket unit restricts only inbound access to that socket, not the outbound connections made by the activated service (e.g., DNS lookups)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/06/gitlocal.html\n- https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：gitlocal；编码代理虽能自执行代码，但自动化测试仍有盲区，必须结合手动测试（如python -c或/tmp临时文件）确保功能完整；在systemd .socket单元设置IPAddressAllow/Deny，仅限制对该socket的入站访问，不影响服务自身出站连接（如DNS查询）。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: gitlocal; Coding agents can execute code, but automated tests have blind spots. Combine with manual testing (e.g., `python -c`, `/tmp` temp files) for full validation; Setting IPAddressAllow/Deny on a systemd .socket unit restricts only inbound access to that socket, not the ou"
         }
       }
     },
