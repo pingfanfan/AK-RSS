@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-06T16:45:05Z",
+  "generated_at": "2026-03-06T17:10:38Z",
   "days": [
     {
       "date": "2026-03-06",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "daringfireball.net (2)",
         "berthub.eu (1)",
         "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
-        "jeffgeerling.com (1)",
-        "matduggan.com (1)"
+        "filfre.net (1)",
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "filfre.net · The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure",
         "miguelgrinberg.com · How to Host your Own Email Server",
         "daringfireball.net · The MacBook Neo’s Price, Looking to the Past and Future",
         "daringfireball.net · Another Steve Jobs Quote on Lower-Priced Macs",
         "jeffgeerling.com · A PTP Wall Clock is impractical and a little too precise",
-        "berthub.eu · Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer",
-        "construction-physics.com · A History of Operation Breakthrough"
+        "berthub.eu · Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer"
       ],
       "key_points": [
+        "The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure",
         "作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案",
         "The MacBook Neo’s Price, Looking to the Past and Future",
-        "乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变",
-        "A PTP Wall Clock is impractical and a little too precise"
+        "乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变"
       ],
       "key_points_zh": [
+        "The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure",
         "作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案",
         "The MacBook Neo’s Price, Looking to the Past and Future",
-        "乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变",
-        "A PTP Wall Clock is impractical and a little too precise"
+        "乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变"
       ],
       "key_points_en": [
+        "The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure",
         "Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP with SSL/TLS, plus a simple inbound mail solution",
         "The MacBook Neo’s Price, Looking to the Past and Future",
-        "Jobs once refused $500 \"junk\" Macs, but post-iPad, MacBook Neo may serve PC-demanding users, reflecting Apple's evolving product strategy",
-        "A PTP Wall Clock is impractical and a little too precise"
+        "Jobs once refused $500 \"junk\" Macs, but post-iPad, MacBook Neo may serve PC-demanding users, reflecting Apple's evolving product strategy"
       ],
       "tweet_drafts": [
+        "The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure",
         "自建邮件服务器真的难吗？看这位开发者如何从零配置，让邮件通过Gmail等大厂反垃圾检查。核心是DNS记录与SMTP安全配置，接收邮件竟可用别名转发这么简单。技术自主，拒绝绑架",
-        "The MacBook Neo’s Price, Looking to the Past and Future",
-        "2008年乔布斯拒绝500美元Mac，称会毁掉DNA。如今iPad覆盖低价，但MacBook Neo或回应PC需求。Apple如何在不牺牲品质下拓展市场？技术策略深度解析"
+        "The MacBook Neo’s Price, Looking to the Past and Future"
       ],
       "sources": [
+        {
+          "feed_title": "filfre.net",
+          "title": "The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure",
+          "link": "https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/"
+        },
         {
           "feed_title": "miguelgrinberg.com",
           "title": "How to Host Your Own Email Server",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "The MacBook Neo’s Price, Looking to the Past and Future",
           "link": "https://x.com/ethan_is_online/status/2029331836137291941?s=42"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Another Steve Jobs Quote on Lower-Priced Macs: The $500 Computer DNA Dilemma",
-          "link": "https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html"
         }
       ],
-      "summary_zh": "2026-03-06 技术日报：作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案；The MacBook Neo’s Price, Looking to the Past and Future；乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变。",
-      "summary_en": "Daily brief (2026-03-06): Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP with SSL/TLS, plus a simple inbound mail solution; The MacBook Ne",
+      "summary_zh": "2026-03-06 技术日报：The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure；作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案；The MacBook Neo’s Price, Looking to the Past and Future。",
+      "summary_en": "Daily brief (2026-03-06): The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure; Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-06 日报】作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案；The MacBook Neo’s Price, Looking to the Past and Future；乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #",
-          "en": "AK-RSS Daily (2026-03-06): Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP with SSL/TLS, plus a simple inbound mail solution; The MacBook N"
+          "zh": "【2026-03-06 日报】The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure；作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案；The MacBook Neo’s Price, Looking to the Past and Future。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #",
+          "en": "AK-RSS Daily (2026-03-06): The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure; Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-06）\n- 作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案\n- The MacBook Neo’s Price, Looking to the Past and Future\n- 乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server\n- https://x.com/ethan_is_online/status/2029331836137291941?s=42\n- https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-06)\n- Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP with SSL/TLS, plus a simple inbound mail solution\n- The MacBook Neo’s Price, Looking to the Past and Future\n- Jobs once refused $500 \"junk\" Macs, but post-iPad, MacBook Neo may serve PC-demanding users, reflecting Apple's evolving product strategy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server\n- https://x.com/ethan_is_online/status/2029331836137291941?s=42\n- https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-06）\n- The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure\n- 作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案\n- The MacBook Neo’s Price, Looking to the Past and Future\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/\n- https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server\n- https://x.com/ethan_is_online/status/2029331836137291941?s=42\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-06)\n- The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure\n- Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP with SSL/TLS, plus a simple inbound mail solution\n- The MacBook Neo’s Price, Looking to the Past and Future\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/\n- https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server\n- https://x.com/ethan_is_online/status/2029331836137291941?s=42\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案；The MacBook Neo’s Price, Looking to the Past and Future；乔布斯2008年宣称不做500美元“垃圾”Mac，但iPad后，MacBook Neo或为满足PC需求而生，反映Apple产品策略演变。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP with SSL/TLS, plus a simple inbound mail solution; The MacBook Neo’s Price, Looking to the Past and Future; J"
+          "zh": "今天最值得看的 3 个点：The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure；作者实践自建邮件服务器，分享从零配置到邮件被Gmail等主流服务商接受的完整步骤，涵盖SPF/DKIM/DMARC DNS设置、SMTP服务器与SSL/TLS配置，并提供接收邮件的简单方案；The MacBook Neo’s Price, Looking to the Past and Future。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure; Author documents building a private email server from scratch, detailing steps to achieve deliverability with major providers (Gmail, etc.) via SPF/DKIM/DMARC DNS, SMTP with SSL/TLS, plus a simple inbound mail sol"
         }
       }
     },
