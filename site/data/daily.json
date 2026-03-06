@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-06T12:45:47Z",
+  "generated_at": "2026-03-06T13:22:02Z",
   "days": [
     {
       "date": "2026-03-06",
-      "total": 7,
+      "total": 9,
       "feeds": [
+        "berthub.eu (1)",
+        "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "matduggan.com (1)",
         "nesbitt.io (1)",
-        "seangoedecke.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "seangoedecke.com (1)"
       ],
       "highlights": [
+        "berthub.eu · Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer",
+        "construction-physics.com · A History of Operation Breakthrough",
         "shkspr.mobi · Firmware Update for the Treedix TRX5-0816 Cable Tester",
         "matduggan.com · Boy I was wrong about the Fediverse",
         "dfarq.homeip.net · Blue Monday by New Order released, 1983",
-        "nesbitt.io · .gitlocal",
-        "simonwillison.net · Agentic manual testing",
-        "utcc.utoronto.ca/~cks · How I think systemd IP address restrictions on socket units works"
+        "nesbitt.io · .gitlocal"
       ],
       "key_points": [
+        "Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer",
+        "回顾冷战时期大型国防科技项目，分析其系统工程、跨领域协作与风险管理，为现代AI与基础设施开发提供历史镜鉴",
         "Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级",
-        "作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键",
-        "1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河",
-        "gitlocal"
+        "作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键"
       ],
       "key_points_zh": [
+        "Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer",
+        "回顾冷战时期大型国防科技项目，分析其系统工程、跨领域协作与风险管理，为现代AI与基础设施开发提供历史镜鉴",
         "Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级",
-        "作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键",
-        "1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河",
-        "gitlocal"
+        "作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键"
       ],
       "key_points_en": [
+        "Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer",
+        "A review of a Cold War-era large-scale defense tech project, analyzing its systems engineering, cross-disciplinary collaboration, and risk management for modern AI and infrastructure development",
         "Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units",
-        "The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algorithms. He later realized its decentralized, ownerless infrastructure is actually critical for preserving a free flow of information when capital and power erode traditional media",
-        "In 1983, New Order released the New Wave classic 'Blue Monday,' pioneering physical media design with its floppy disk-shaped sleeve",
-        "gitlocal"
+        "The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algorithms. He later realized its decentralized, ownerless infrastructure is actually critical for preserving a free flow of information when capital and power erode traditional media"
       ],
       "tweet_drafts": [
-        "Treedix TRX5-0816固件更新至v2.4.06，解决eMarker识别bug。重要：v4.0需新硬件，旧设备勿刷。更新需Windows，步骤详见原文。 #开发者工具 #硬件测试",
-        "联邦宇宙不是理想主义者的玩具。它是当中心化平台被资本侵蚀时，为数不多的、能保持信息流通韧性的去中心化基础设施。开发者应关注ActivityPub，评估自建实例的可能性",
-        "《Blue Monday》软盘封套：1983年音乐与科技设计的跨界经典。对现代产品包装的启示？#NewOrder #设计思维"
+        "Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer",
+        "大型项目失败常因组织与流程，而非技术。回顾1950年代'突破行动'，看早期系统工程如何应对复杂集成。对构建安全AI与基础设施的启示：历史是最好的压力测试。原文链接⬇️",
+        "Treedix TRX5-0816固件更新至v2.4.06，解决eMarker识别bug。重要：v4.0需新硬件，旧设备勿刷。更新需Windows，步骤详见原文。 #开发者工具 #硬件测试"
       ],
       "sources": [
+        {
+          "feed_title": "berthub.eu",
+          "title": "Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer",
+          "link": "https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/"
+        },
+        {
+          "feed_title": "construction-physics.com",
+          "title": "A History of Operation Breakthrough",
+          "link": "https://www.construction-physics.com/p/a-history-of-operation-breakthrough"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Firmware Update for the Treedix TRX5-0816 Cable Tester",
           "link": "https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/"
-        },
-        {
-          "feed_title": "matduggan.com",
-          "title": "Boy I was wrong about the Fediverse",
-          "link": "https://matduggan.com/boy-i-was-wrong-about-the-fediverse/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "New Order's 'Blue Monday' Released, 1983",
-          "link": "https://dfarq.homeip.net/blue-monday-by-new-order-released-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=blue-monday-by-new-order-released-1983"
         }
       ],
-      "summary_zh": "2026-03-06 技术日报：Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级；作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键；1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河。",
-      "summary_en": "Daily brief (2026-03-06): Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units; The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algor",
+      "summary_zh": "2026-03-06 技术日报：Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer；回顾冷战时期大型国防科技项目，分析其系统工程、跨领域协作与风险管理，为现代AI与基础设施开发提供历史镜鉴；Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级。",
+      "summary_en": "Daily brief (2026-03-06): Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer; A review of a Cold War-era large-scale defense tech project, analyzing its systems engineering, cross-disciplinary collaboration, and risk management for modern AI and infrast",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-06 日报】Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级；作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键；1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河。我把可执行建议整理好",
-          "en": "AK-RSS Daily (2026-03-06): Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units; The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algo"
+          "zh": "【2026-03-06 日报】Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer；回顾冷战时期大型国防科技项目，分析其系统工程、跨领域协作与风险管理，为现代AI与基础设施开发提供历史镜鉴；Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-06): Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer; A review of a Cold War-era large-scale defense tech project, analyzing its systems engineering, cross-disciplinary collaboration, and risk management for modern AI and infras"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-06）\n- Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级\n- 作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键\n- 1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/\n- https://matduggan.com/boy-i-was-wrong-about-the-fediverse/\n- https://dfarq.homeip.net/blue-monday-by-new-order-released-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=blue-monday-by-new-order-released-1983\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-06)\n- Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units\n- The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algorithms. He later realized its decentralized, ownerless infrastructure is actually critical for preserving a free flow of information when capital and power erode traditional media\n- In 1983, New Order released the New Wave classic 'Blue Monday,' pioneering physical media design with its floppy disk-shaped sleeve\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/\n- https://matduggan.com/boy-i-was-wrong-about-the-fediverse/\n- https://dfarq.homeip.net/blue-monday-by-new-order-released-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=blue-monday-by-new-order-released-1983\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-06）\n- Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer\n- 回顾冷战时期大型国防科技项目，分析其系统工程、跨领域协作与风险管理，为现代AI与基础设施开发提供历史镜鉴\n- Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/\n- https://www.construction-physics.com/p/a-history-of-operation-breakthrough\n- https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-06)\n- Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer\n- A review of a Cold War-era large-scale defense tech project, analyzing its systems engineering, cross-disciplinary collaboration, and risk management for modern AI and infrastructure development\n- Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/\n- https://www.construction-physics.com/p/a-history-of-operation-breakthrough\n- https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级；作者原以为联邦宇宙（如Mastodon）仅是逃离Twitter广告与算法的避世所，后意识到在资本与权力侵蚀传统媒体时，其去中心化、无单一所有者的基础设施特性，反而成为保障信息自由流通的关键；1983年New Order发行New Wave经典《Blue Monday》，其软盘造型唱片封套开创了实体媒介设计先河。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Treedix TRX5-0816 gets v2.4.06 firmware fix for eMarker reading, Windows-only .exe. v4.0 is hardware-only, incompatible with existing units; The author initially saw the Fediverse (e.g., Mastodon) as an escape from Twitter's ads/algorithms. He later realized its decentralized,"
+          "zh": "今天最值得看的 3 个点：Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer；回顾冷战时期大型国防科技项目，分析其系统工程、跨领域协作与风险管理，为现代AI与基础设施开发提供历史镜鉴；Treedix TRX5-0816发布v2.4.06固件更新，修复eMarker读取问题，但仅限Windows工具。注意：v4.0为硬件更新，旧设备无法升级。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer; A review of a Cold War-era large-scale defense tech project, analyzing its systems engineering, cross-disciplinary collaboration, and risk management for modern AI and infrastructure development; Treedix TRX5-0816 gets"
         }
       }
     },
