@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-03-07T06:43:55Z",
+  "generated_at": "2026-03-07T07:08:04Z",
   "days": [
+    {
+      "date": "2026-03-07",
+      "total": 1,
+      "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Your terminal program has to be where xterm's ziconbeep feature is handled"
+      ],
+      "key_points": [
+        "窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现",
+        "A window manager cannot reliably replace xterm's ziconbeep because it cannot accurately detect new window output or understand semantic changes. The logic must reside within the terminal program itself"
+      ],
+      "key_points_zh": [
+        "窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现"
+      ],
+      "key_points_en": [
+        "A window manager cannot reliably replace xterm's ziconbeep because it cannot accurately detect new window output or understand semantic changes. The logic must reside within the terminal program itself"
+      ],
+      "tweet_drafts": [
+        "窗口管理器能响应窗口标题变化并播放声音，但无法判断‘变化是否由新输出引起’。xterm 的 ziconbeep 依赖终端自身对输出和最小化状态的感知。将此类逻辑上移给 WM 在技术上不可行。讨论：https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Your terminal program has to be where xterm's ziconbeep feature is handled",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep"
+        }
+      ],
+      "summary_zh": "2026-03-07 技术日报：窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现。",
+      "summary_en": "Daily brief (2026-03-07): A window manager cannot reliably replace xterm's ziconbeep because it cannot accurately detect new window output or understand semantic changes. The logic must reside within the terminal program itself.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-07 日报】窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-07): A window manager cannot reliably replace xterm's ziconbeep because it cannot accurately detect new window output or understand semantic changes. The logic must reside within the terminal program itself. Actionable takeaways included."
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-07）\n- 窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-07)\n- A window manager cannot reliably replace xterm's ziconbeep because it cannot accurately detect new window output or understand semantic changes. The logic must reside within the terminal program itself\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A window manager cannot reliably replace xterm's ziconbeep because it cannot accurately detect new window output or understand semantic changes. The logic must reside within the terminal program itself.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-03-06",
       "total": 24,
