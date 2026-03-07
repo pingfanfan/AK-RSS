@@ -1,77 +1,79 @@
 {
-  "generated_at": "2026-03-07T18:01:50Z",
+  "generated_at": "2026-03-07T18:43:27Z",
   "days": [
     {
       "date": "2026-03-07",
-      "total": 5,
+      "total": 7,
       "feeds": [
         "construction-physics.com (1)",
         "nesbitt.io (1)",
+        "pluralistic.net (1)",
         "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)",
-        "xeiaso.net (1)"
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "simonwillison.net · Codex for Open Source",
+        "pluralistic.net · Pluralistic: The web is bearable with RSS (07 Mar 2026)",
         "construction-physics.com · Reading List 03/07/2026",
         "shkspr.mobi · Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆",
         "nesbitt.io · Announcing New Working Groups",
-        "utcc.utoronto.ca/~cks · Your terminal program has to be where xterm's ziconbeep feature is handled",
-        "xeiaso.net · Using Clankers to Help Me Process Surgery"
+        "utcc.utoronto.ca/~cks · Your terminal program has to be where xterm's ziconbeep feature is handled"
       ],
       "key_points": [
+        "OpenAI推出针对开源项目核心维护者的福利计划，提供六个月ChatGPT Pro订阅，包含Codex及有条件的安全访问权限，跟进Anthropic类似举措但未明确具体指标",
+        "对抗网站‘恶化’(enshittification)，RSS与浏览器阅读模式是两大核心去中心化工具，能帮你绕过广告、追踪与低质内容，重掌阅读控制权",
         "Reading List 03/07/2026",
-        "1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心",
-        "OSFC成立SHAME工作组，用0-850分评估项目健康并标记低分包；成立PANIC工作组协调维护者失联事件，但24/7热线暂未公开",
-        "窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现"
+        "1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心"
       ],
       "key_points_zh": [
+        "OpenAI推出针对开源项目核心维护者的福利计划，提供六个月ChatGPT Pro订阅，包含Codex及有条件的安全访问权限，跟进Anthropic类似举措但未明确具体指标",
+        "对抗网站‘恶化’(enshittification)，RSS与浏览器阅读模式是两大核心去中心化工具，能帮你绕过广告、追踪与低质内容，重掌阅读控制权",
         "Reading List 03/07/2026",
-        "1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心",
-        "OSFC成立SHAME工作组，用0-850分评估项目健康并标记低分包；成立PANIC工作组协调维护者失联事件，但24/7热线暂未公开",
-        "窗口管理器无法可靠替代 xterm 的 ziconbeep 功能，因为无法准确检测窗口是否有新输出，且不理解变化的语义意义。该逻辑必须由终端程序自身实现"
+        "1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心"
       ],
       "key_points_en": [
+        "OpenAI launches a benefit program for core open source maintainers, offering six months of ChatGPT Pro with Codex and conditional security access, following Anthropic's similar move but without clear metrics",
+        "Fighting 'enshittification', RSS and browser Reader Mode are key decentralized tools to bypass ads, tracking, and low-quality content, regaining control over your reading",
         "Reading List 03/07/2026",
-        "The 1975 book 'The Electronic Criminals' reveals early computer crime cases, highlighting legal lag and physical security flaws—issues still central to modern security practices",
-        "OSFC forms SHAME WG to score project health (0-850) and flag low-scoring packages; forms PANIC WG for maintainer disappearance, but its 24/7 hotline is not yet public",
-        "A window manager cannot reliably replace xterm's ziconbeep because it cannot accurately detect new window output or understand semantic changes. The logic must reside within the terminal program itself"
+        "The 1975 book 'The Electronic Criminals' reveals early computer crime cases, highlighting legal lag and physical security flaws—issues still central to modern security practices"
       ],
       "tweet_drafts": [
-        "Reading List 03/07/2026",
-        "读1975年《电子罪犯》书评：早期黑客用程序藏欺诈、换数据编码，法律却跟不上。物理门未锁导致泄密——50年后，我们解决了这些问题吗？ #网络安全 #技术历史",
-        "OSFC成立SHAME与PANIC工作组。SHAME：每周更新项目健康分，\u003c300黄标，\u003c150红标并建议换包。PANIC：定义L1-L5失联事件，但热线未公开，目前仅通过GitHub Issue报告。评分权重争议待议"
+        "OpenAI跟进Anthropic，推出Codex开源福利：核心维护者可获6个月ChatGPT Pro（含Codex及有条件安全访问）。申请需展示项目影响力（如Stars/下载量），但未设硬性门槛。开发者如何看这场AI公司的开源争夺战？https://openai.com/form/codex-for-oss/",
+        "网络‘恶化’无解？不。RSS与阅读模式是开发者对抗广告追踪、重掌阅读体验的利器。技术自主，从信息流开始。配置指南：https://pluralistic.net/2026/03/07/reader-mode/ #开发者工具 #隐私",
+        "Reading List 03/07/2026"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Codex for Open Source",
+          "link": "https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: The web is bearable with RSS",
+          "link": "https://pluralistic.net/2026/03/07/reader-mode/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Reading List 03/07/2026",
           "link": "https://www.construction-physics.com/p/reading-list-03072026"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆",
-          "link": "https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "OSFC Announces Seven New Working Groups on Open Source Governance and Security",
-          "link": "https://nesbitt.io/2026/03/07/announcing-new-working-groups.html"
         }
       ],
-      "summary_zh": "2026-03-07 技术日报：Reading List 03/07/2026；1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心；OSFC成立SHAME工作组，用0-850分评估项目健康并标记低分包；成立PANIC工作组协调维护者失联事件，但24/7热线暂未公开。",
-      "summary_en": "Daily brief (2026-03-07): Reading List 03/07/2026; The 1975 book 'The Electronic Criminals' reveals early computer crime cases, highlighting legal lag and physical security flaws—issues still central to modern security practices; OSFC forms SHAME WG to score p",
+      "summary_zh": "2026-03-07 技术日报：OpenAI推出针对开源项目核心维护者的福利计划，提供六个月ChatGPT Pro订阅，包含Codex及有条件的安全访问权限，跟进Anthropic类似举措但未明确具体指标；对抗网站‘恶化’(enshittification)，RSS与浏览器阅读模式是两大核心去中心化工具，能帮你绕过广告、追踪与低质内容，重掌阅读控制权；Reading List 03/07/2026。",
+      "summary_en": "Daily brief (2026-03-07): OpenAI launches a benefit program for core open source maintainers, offering six months of ChatGPT Pro with Codex and conditional security access, following Anthropic's similar move but without clear metrics; Fighting 'enshittificatio",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-07 日报】Reading List 03/07/2026；1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心；OSFC成立SHAME工作组，用0-850分评估项目健康并标记低分包；成立PANIC工作组协调维护者失联事件，但24/7热线暂未公开。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-07): Reading List 03/07/2026; The 1975 book 'The Electronic Criminals' reveals early computer crime cases, highlighting legal lag and physical security flaws—issues still central to modern security practices; OSFC forms SHAME WG to score"
+          "zh": "【2026-03-07 日报】OpenAI推出针对开源项目核心维护者的福利计划，提供六个月ChatGPT Pro订阅，包含Codex及有条件的安全访问权限，跟进Anthropic类似举措但未明确具体指标；对抗网站‘恶化’(enshittification)，RSS与浏览器阅读模式是两大核心去中心化工具，能帮你绕过广告、追踪与低质内容，重掌阅读控制权；Reading List 03/07/2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-07): OpenAI launches a benefit program for core open source maintainers, offering six months of ChatGPT Pro with Codex and conditional security access, following Anthropic's similar move but without clear metrics; Fighting 'enshittificati"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-07）\n- Reading List 03/07/2026\n- 1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心\n- OSFC成立SHAME工作组，用0-850分评估项目健康并标记低分包；成立PANIC工作组协调维护者失联事件，但24/7热线暂未公开\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-03072026\n- https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/\n- https://nesbitt.io/2026/03/07/announcing-new-working-groups.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-07)\n- Reading List 03/07/2026\n- The 1975 book 'The Electronic Criminals' reveals early computer crime cases, highlighting legal lag and physical security flaws—issues still central to modern security practices\n- OSFC forms SHAME WG to score project health (0-850) and flag low-scoring packages; forms PANIC WG for maintainer disappearance, but its 24/7 hotline is not yet public\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-03072026\n- https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/\n- https://nesbitt.io/2026/03/07/announcing-new-working-groups.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-07）\n- OpenAI推出针对开源项目核心维护者的福利计划，提供六个月ChatGPT Pro订阅，包含Codex及有条件的安全访问权限，跟进Anthropic类似举措但未明确具体指标\n- 对抗网站‘恶化’(enshittification)，RSS与浏览器阅读模式是两大核心去中心化工具，能帮你绕过广告、追踪与低质内容，重掌阅读控制权\n- Reading List 03/07/2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything\n- https://pluralistic.net/2026/03/07/reader-mode/\n- https://www.construction-physics.com/p/reading-list-03072026\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-07)\n- OpenAI launches a benefit program for core open source maintainers, offering six months of ChatGPT Pro with Codex and conditional security access, following Anthropic's similar move but without clear metrics\n- Fighting 'enshittification', RSS and browser Reader Mode are key decentralized tools to bypass ads, tracking, and low-quality content, regaining control over your reading\n- Reading List 03/07/2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything\n- https://pluralistic.net/2026/03/07/reader-mode/\n- https://www.construction-physics.com/p/reading-list-03072026\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reading List 03/07/2026；1975年出版的《电子罪犯》揭示早期计算机犯罪案例，突显法律滞后与物理安全漏洞，这些议题在当今安全实践中依然核心；OSFC成立SHAME工作组，用0-850分评估项目健康并标记低分包；成立PANIC工作组协调维护者失联事件，但24/7热线暂未公开。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reading List 03/07/2026; The 1975 book 'The Electronic Criminals' reveals early computer crime cases, highlighting legal lag and physical security flaws—issues still central to modern security practices; OSFC forms SHAME WG to score project health (0-850) and flag low-scoring p"
+          "zh": "今天最值得看的 3 个点：OpenAI推出针对开源项目核心维护者的福利计划，提供六个月ChatGPT Pro订阅，包含Codex及有条件的安全访问权限，跟进Anthropic类似举措但未明确具体指标；对抗网站‘恶化’(enshittification)，RSS与浏览器阅读模式是两大核心去中心化工具，能帮你绕过广告、追踪与低质内容，重掌阅读控制权；Reading List 03/07/2026。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: OpenAI launches a benefit program for core open source maintainers, offering six months of ChatGPT Pro with Codex and conditional security access, following Anthropic's similar move but without clear metrics; Fighting 'enshittification', RSS and browser Reader Mode are key dece"
         }
       }
     },
