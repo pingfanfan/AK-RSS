@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-08T17:37:35Z",
+  "generated_at": "2026-03-08T18:02:14Z",
   "days": [
     {
       "date": "2026-03-08",
-      "total": 8,
+      "total": 9,
       "feeds": [
+        "daringfireball.net (2)",
         "antirez.com (1)",
-        "daringfireball.net (1)",
         "evanhahn.com (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
         "antirez.com · GNU and the AI reimplementations",
         "daringfireball.net · Steve Lemay Hits Apple’s Leadership Page",
         "simonwillison.net · Quoting Joseph Weizenbaum",
         "tedium.co · Paywalls For Minimalists",
-        "shkspr.mobi · What's the source of Einstein's \"citizen of the world\" quip?",
-        "nesbitt.io · If It Quacks Like a Package Manager"
+        "shkspr.mobi · What's the source of Einstein's \"citizen of the world\" quip?"
       ],
       "key_points": [
+        "chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议",
         "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
         "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整",
-        "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示",
-        "本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现"
+        "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示"
       ],
       "key_points_zh": [
+        "chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议",
         "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
         "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整",
-        "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示",
-        "本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现"
+        "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示"
       ],
       "key_points_en": [
+        "Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics",
         "By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development",
         "Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI",
-        "ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's AI ethics",
-        "Explores a minimalist, open-source approach to creator paywalls: using Ko-fi for payments/membership to avoid complex logins and password management, enabling easy monetization even for static sites"
+        "ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's AI ethics"
       ],
       "tweet_drafts": [
+        "chardet重写许可争议：净室实现能绕过LGPL吗？原作者发声反对，开源法律边界何在？开发者必读",
         "GNU重写UNIX时，Stallman要求每个工具都必须更快/更强/更可脚本，并基于行为规格而非源码重写。这不仅是工程选择，更是法律防御层。AI时代重写，这策略依然关键：创新要可见，重写要独立",
-        "苹果官网领导层页迎来 Steve Lemay，同时 Eddy Cue 头像更新。这通常意味着业务架构调整，开发者应密切关注其负责领域，尤其是 AI 与服务方向的后续动作",
-        "魏岑鲍姆的ELIZA实验早揭示了AI的心理影响。如今大模型时代，我们是否重蹈覆辙？开发者需警惕：技术越强大，伦理责任越重。 #AI安全"
+        "苹果官网领导层页迎来 Steve Lemay，同时 Eddy Cue 头像更新。这通常意味着业务架构调整，开发者应密切关注其负责领域，尤其是 AI 与服务方向的后续动作"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
+          "link": "https://simonwillison.net/2026/Mar/5/chardet/"
+        },
         {
           "feed_title": "antirez.com",
           "title": "GNU and AI Reimplementations: History Repeating?",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Steve Lemay Hits Apple’s Leadership Page",
           "link": "https://www.apple.com/leadership/steve-lemay/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Joseph Weizenbaum's Warning",
-          "link": "https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-08 技术日报：文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示。",
-      "summary_en": "Daily brief (2026-03-08): By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avo",
+      "summary_zh": "2026-03-08 技术日报：chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整。",
+      "summary_en": "Daily brief (2026-03-08): Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics; By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-08 日报】文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-08): By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to av"
+          "zh": "【2026-03-08 日报】chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-08): Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics; By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-08）\n- 文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义\n- 苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整\n- ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n- https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-08)\n- By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development\n- Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI\n- ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's AI ethics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n- https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-08）\n- chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议\n- 文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义\n- 苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-08)\n- Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics\n- By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development\n- Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons"
+          "zh": "今天最值得看的 3 个点：chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics; By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically success"
         }
       }
     },
