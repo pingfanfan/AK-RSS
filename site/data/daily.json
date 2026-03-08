@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-08T18:02:14Z",
+  "generated_at": "2026-03-08T18:43:36Z",
   "days": [
     {
       "date": "2026-03-08",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "daringfireball.net (2)",
         "antirez.com (1)",
         "evanhahn.com (1)",
+        "johndcook.com (1)",
         "nesbitt.io (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "johndcook.com · How much certainty is worthwhile?",
         "daringfireball.net · Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
         "antirez.com · GNU and the AI reimplementations",
         "daringfireball.net · Steve Lemay Hits Apple’s Leadership Page",
         "simonwillison.net · Quoting Joseph Weizenbaum",
-        "tedium.co · Paywalls For Minimalists",
-        "shkspr.mobi · What's the source of Einstein's \"citizen of the world\" quip?"
+        "tedium.co · Paywalls For Minimalists"
       ],
       "key_points": [
+        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理",
         "chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议",
         "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
-        "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整",
-        "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示"
+        "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整"
       ],
       "key_points_zh": [
+        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理",
         "chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议",
         "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
-        "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整",
-        "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示"
+        "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整"
       ],
       "key_points_en": [
+        "Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs",
         "Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics",
         "By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development",
-        "Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI",
-        "ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's AI ethics"
+        "Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI"
       ],
       "tweet_drafts": [
+        "三角函数的逆运算组合表怎么验证？作者用Python测了几个点就搞定，这方法在零知识证明里有严格理论支撑。省时省力的好技巧",
         "chardet重写许可争议：净室实现能绕过LGPL吗？原作者发声反对，开源法律边界何在？开发者必读",
-        "GNU重写UNIX时，Stallman要求每个工具都必须更快/更强/更可脚本，并基于行为规格而非源码重写。这不仅是工程选择，更是法律防御层。AI时代重写，这策略依然关键：创新要可见，重写要独立",
-        "苹果官网领导层页迎来 Steve Lemay，同时 Eddy Cue 头像更新。这通常意味着业务架构调整，开发者应密切关注其负责领域，尤其是 AI 与服务方向的后续动作"
+        "GNU重写UNIX时，Stallman要求每个工具都必须更快/更强/更可脚本，并基于行为规格而非源码重写。这不仅是工程选择，更是法律防御层。AI时代重写，这策略依然关键：创新要可见，重写要独立"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "How much certainty is worthwhile?",
+          "link": "https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
@@ -53,27 +58,22 @@
           "feed_title": "antirez.com",
           "title": "GNU and AI Reimplementations: History Repeating?",
           "link": "http://antirez.com/news/162"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Steve Lemay Hits Apple’s Leadership Page",
-          "link": "https://www.apple.com/leadership/steve-lemay/"
         }
       ],
-      "summary_zh": "2026-03-08 技术日报：chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整。",
-      "summary_en": "Daily brief (2026-03-08): Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics; By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the",
+      "summary_zh": "2026-03-08 技术日报：本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理；chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义。",
+      "summary_en": "Daily brief (2026-03-08): Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs; Maintainer's MIT-licensed rewrite of chardet sparks dispute with original",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-08 日报】chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-08): Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics; By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the"
+          "zh": "【2026-03-08 日报】本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理；chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-08): Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs; Maintainer's MIT-licensed rewrite of chardet sparks dispute with origina"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-08）\n- chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议\n- 文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义\n- 苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-08)\n- Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics\n- By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development\n- Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-08）\n- 本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理\n- chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议\n- 文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-08)\n- Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs\n- Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics\n- By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics; By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically success"
+          "zh": "今天最值得看的 3 个点：本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理；chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs; Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlightin"
         }
       }
     },
