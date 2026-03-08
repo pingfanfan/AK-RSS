@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-08T16:01:50Z",
+  "generated_at": "2026-03-08T16:41:46Z",
   "days": [
     {
       "date": "2026-03-08",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "antirez.com (1)",
         "daringfireball.net (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)",
-        "tedium.co (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "tedium.co (1)"
       ],
       "highlights": [
+        "antirez.com · GNU and the AI reimplementations",
         "daringfireball.net · Steve Lemay Hits Apple’s Leadership Page",
         "simonwillison.net · Quoting Joseph Weizenbaum",
         "tedium.co · Paywalls For Minimalists",
         "shkspr.mobi · What's the source of Einstein's \"citizen of the world\" quip?",
-        "nesbitt.io · If It Quacks Like a Package Manager",
-        "utcc.utoronto.ca/~cks · Restricting IP address access to specific ports in eBPF: a sketch"
+        "nesbitt.io · If It Quacks Like a Package Manager"
       ],
       "key_points": [
+        "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
         "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整",
         "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示",
-        "本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现",
-        "最早见于1929年犹太电讯社对爱因斯坦索邦演讲的报道，非网络杜撰"
+        "本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现"
       ],
       "key_points_zh": [
+        "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
         "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整",
         "ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示",
-        "本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现",
-        "最早见于1929年犹太电讯社对爱因斯坦索邦演讲的报道，非网络杜撰"
+        "本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现"
       ],
       "key_points_en": [
+        "By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development",
         "Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI",
         "ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's AI ethics",
-        "Explores a minimalist, open-source approach to creator paywalls: using Ko-fi for payments/membership to avoid complex logins and password management, enabling easy monetization even for static sites",
-        "The quote first appeared in a 1929 JTA report on Einstein's Sorbonne speech, not an internet fabrication"
+        "Explores a minimalist, open-source approach to creator paywalls: using Ko-fi for payments/membership to avoid complex logins and password management, enabling easy monetization even for static sites"
       ],
       "tweet_drafts": [
+        "GNU重写UNIX时，Stallman要求每个工具都必须更快/更强/更可脚本，并基于行为规格而非源码重写。这不仅是工程选择，更是法律防御层。AI时代重写，这策略依然关键：创新要可见，重写要独立",
         "苹果官网领导层页迎来 Steve Lemay，同时 Eddy Cue 头像更新。这通常意味着业务架构调整，开发者应密切关注其负责领域，尤其是 AI 与服务方向的后续动作",
-        "魏岑鲍姆的ELIZA实验早揭示了AI的心理影响。如今大模型时代，我们是否重蹈覆辙？开发者需警惕：技术越强大，伦理责任越重。 #AI安全",
-        "厌倦了Substack的锁定？试试极简付费墙方案：用Ko-Fi处理支付，你的静态站点就能安全变现，无需自建认证系统。开源工具链正在让独立创作者更自由。 #技术趋势"
+        "魏岑鲍姆的ELIZA实验早揭示了AI的心理影响。如今大模型时代，我们是否重蹈覆辙？开发者需警惕：技术越强大，伦理责任越重。 #AI安全"
       ],
       "sources": [
+        {
+          "feed_title": "antirez.com",
+          "title": "GNU and AI Reimplementations: History Repeating?",
+          "link": "http://antirez.com/news/162"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Steve Lemay Hits Apple’s Leadership Page",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Joseph Weizenbaum's Warning",
           "link": "https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Paywalls For Minimalists",
-          "link": "https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea"
         }
       ],
-      "summary_zh": "2026-03-08 技术日报：苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示；本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现。",
-      "summary_en": "Daily brief (2026-03-08): Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI; ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in",
+      "summary_zh": "2026-03-08 技术日报：文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示。",
+      "summary_en": "Daily brief (2026-03-08): By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avo",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-08 日报】苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示；本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-08): Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI; ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in"
+          "zh": "【2026-03-08 日报】文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-08): By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to av"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-08）\n- 苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整\n- ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示\n- 本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/leadership/steve-lemay/\n- https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything\n- https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-08)\n- Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI\n- ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's AI ethics\n- Explores a minimalist, open-source approach to creator paywalls: using Ko-fi for payments/membership to avoid complex logins and password management, enabling easy monetization even for static sites\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/leadership/steve-lemay/\n- https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything\n- https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-08）\n- 文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义\n- 苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整\n- ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n- https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-08)\n- By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development\n- Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI\n- ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's AI ethics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/162\n- https://www.apple.com/leadership/steve-lemay/\n- https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示；本文探讨如何用最小化、开源组件构建创作者付费墙，核心方案是集成Ko-Fi处理支付与会员，避免复杂登录和密码管理，让静态网站也能轻松变现。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI; ELIZA's creator warned in 1976: even simple AI programs can induce delusional thinking in normal people. A timeless lesson for today's"
+          "zh": "今天最值得看的 3 个点：文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义；苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整；ELIZA创造者早在1976年就警告：简单AI程序可能让普通人陷入妄想。这对当前AI伦理仍有深刻启示。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons"
         }
       }
     },
