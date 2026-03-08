@@ -1,49 +1,61 @@
 {
-  "generated_at": "2026-03-08T10:02:23Z",
+  "generated_at": "2026-03-08T10:40:00Z",
   "days": [
     {
       "date": "2026-03-08",
-      "total": 1,
+      "total": 2,
       "feeds": [
+        "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · If It Quacks Like a Package Manager",
         "utcc.utoronto.ca/~cks · Restricting IP address access to specific ports in eBPF: a sketch"
       ],
       "key_points": [
+        "本文揭示GitHub Actions等工具已演变为隐性包管理器，存在传递依赖风险却缺乏锁文件等防护，开发者需警惕供应链安全",
         "通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求",
+        "This article reveals that tools like GitHub Actions have evolved into implicit package managers, facing transitive dependency risks without protections like lockfiles. Developers must beware of supply chain security",
         "By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd"
       ],
       "key_points_zh": [
+        "本文揭示GitHub Actions等工具已演变为隐性包管理器，存在传递依赖风险却缺乏锁文件等防护，开发者需警惕供应链安全",
         "通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求"
       ],
       "key_points_en": [
+        "This article reveals that tools like GitHub Actions have evolved into implicit package managers, facing transitive dependency risks without protections like lockfiles. Developers must beware of supply chain security",
         "By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd"
       ],
       "tweet_drafts": [
+        "GitHub Actions实为‘不完整包管理器’：递归下载动作却无锁文件，传递依赖风险高。立即SHA固定并审计依赖树，守护CI/CD安全",
         "在eBPF里做端口级IP限制，不想写复杂程序？试试把端口号塞进LPM map的键里。这样程序逻辑极简，map负责复杂匹配，完美适配systemd这类需要动态生成ebpf程序的工具。技术细节：https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions #基础设施 #开发者"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "If It Quacks Like a Package Manager",
+          "link": "https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Restricting IP address access to specific ports in eBPF: a sketch",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions"
         }
       ],
-      "summary_zh": "2026-03-08 技术日报：通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。",
-      "summary_en": "Daily brief (2026-03-08): By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd.",
+      "summary_zh": "2026-03-08 技术日报：本文揭示GitHub Actions等工具已演变为隐性包管理器，存在传递依赖风险却缺乏锁文件等防护，开发者需警惕供应链安全；通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。",
+      "summary_en": "Daily brief (2026-03-08): This article reveals that tools like GitHub Actions have evolved into implicit package managers, facing transitive dependency risks without protections like lockfiles. Developers must beware of supply chain security; By extending the",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-08 日报】通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-08): By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd. Actionable takeaways"
+          "zh": "【2026-03-08 日报】本文揭示GitHub Actions等工具已演变为隐性包管理器，存在传递依赖风险却缺乏锁文件等防护，开发者需警惕供应链安全；通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-08): This article reveals that tools like GitHub Actions have evolved into implicit package managers, facing transitive dependency risks without protections like lockfiles. Developers must beware of supply chain security; By extending the"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-08）\n- 通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-08)\n- By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-08）\n- 本文揭示GitHub Actions等工具已演变为隐性包管理器，存在传递依赖风险却缺乏锁文件等防护，开发者需警惕供应链安全\n- 通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html\n- https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-08)\n- This article reveals that tools like GitHub Actions have evolved into implicit package managers, facing transitive dependency risks without protections like lockfiles. Developers must beware of supply chain security\n- By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html\n- https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd.\nI turned them into an action-ready daily brief you can use right"
+          "zh": "今天最值得看的 3 个点：本文揭示GitHub Actions等工具已演变为隐性包管理器，存在传递依赖风险却缺乏锁文件等防护，开发者需警惕供应链安全；通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: This article reveals that tools like GitHub Actions have evolved into implicit package managers, facing transitive dependency risks without protections like lockfiles. Developers must beware of supply chain security; By extending the LPM map key to include port numbers, a simpl"
         }
       }
     },
