@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-03-07T22:38:15Z",
+  "generated_at": "2026-03-08T06:08:49Z",
   "days": [
+    {
+      "date": "2026-03-08",
+      "total": 1,
+      "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Restricting IP address access to specific ports in eBPF: a sketch"
+      ],
+      "key_points": [
+        "通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求",
+        "By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd"
+      ],
+      "key_points_zh": [
+        "通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求"
+      ],
+      "key_points_en": [
+        "By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd"
+      ],
+      "tweet_drafts": [
+        "在eBPF里做端口级IP限制，不想写复杂程序？试试把端口号塞进LPM map的键里。这样程序逻辑极简，map负责复杂匹配，完美适配systemd这类需要动态生成ebpf程序的工具。技术细节：https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions #基础设施 #开发者"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Restricting IP address access to specific ports in eBPF: a sketch",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions"
+        }
+      ],
+      "summary_zh": "2026-03-08 技术日报：通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。",
+      "summary_en": "Daily brief (2026-03-08): By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-08 日报】通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-08): By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd. Actionable takeaways"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-08）\n- 通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-08)\n- By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：通过扩展LPM map的键以包含端口号，实现一个简单的eBPF程序，从而在cgroup层面进行跨端口的IP访问控制，满足systemd等工具动态生成程序的需求。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: By extending the LPM map key to include port numbers, a simple eBPF program can perform cross-port IP access control at the cgroup level, meeting the need for dynamically generated programs by tools like systemd.\nI turned them into an action-ready daily brief you can use right"
+        }
+      }
+    },
     {
       "date": "2026-03-07",
       "total": 9,
