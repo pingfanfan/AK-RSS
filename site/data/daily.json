@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-09T22:04:15Z",
+  "generated_at": "2026-03-09T22:41:40Z",
   "days": [
     {
       "date": "2026-03-09",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (3)",
         "devblogs.microsoft.com/oldnewthing (2)",
@@ -13,37 +13,42 @@
         "idiallo.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Trig composition table",
         "daringfireball.net · ★ The iPhone 17e",
         "daringfireball.net · MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe 26.4 Beta",
         "pluralistic.net · Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)",
         "aresluna.org · Fav tech museums",
-        "simonwillison.net · Production query plans without production data",
-        "daringfireball.net · Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses"
+        "simonwillison.net · Production query plans without production data"
       ],
       "key_points": [
+        "本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式",
         "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位",
         "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮",
-        "亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新",
-        "Fav tech museums"
+        "亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新"
       ],
       "key_points_zh": [
+        "本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式",
         "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位",
         "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮",
-        "亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新",
-        "Fav tech museums"
+        "亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新"
       ],
       "key_points_en": [
+        "Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios",
         "The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning",
         "macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorful gradients spelling 'Mac', sparking user upgrades",
-        "Billionaires' concentrated wealth creates systemic policy failures, especially in critical sectors like AI and infrastructure, lacking accountability and threatening global security and innovation",
-        "Fav tech museums"
+        "Billionaires' concentrated wealth creates systemic policy failures, especially in critical sectors like AI and infrastructure, lacking accountability and threatening global security and innovation"
       ],
       "tweet_drafts": [
+        "三角恒等式不再需要死记硬背。这篇文展示了一个核心复合表，并证明：所有表达式都可归结为14种基于直角三角形边长比的形式，因此验证只需随机点测试一次。对实现数学库的开发者极有价值",
         "iPhone 17e 来了：性能小升，但 MagSafe 和取消摄像头凸起才是真·升级。你觉得 MagSafe 是入门机的必备功能吗？无凸起设计会回归吗？",
-        "新壁纸已上线！MacOS Tahoe 26.4 Beta 的 Neo 系列用气泡线条和四色渐变拼出 'Mac'，连 Daring Fireball 都推荐升级。你的 Mac 更新了吗？→ https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/",
-        "亿万富翁控制AI和基础设施？危险！政策失败频发，开发者需警惕权力集中，推动透明治理。 #安全 #AI"
+        "新壁纸已上线！MacOS Tahoe 26.4 Beta 的 Neo 系列用气泡线条和四色渐变拼出 'Mac'，连 Daring Fireball 都推荐升级。你的 Mac 更新了吗？→ https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Trig composition table",
+          "link": "https://www.johndcook.com/blog/2026/03/09/trig-composition-table/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The iPhone 17e",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe 26.4 Beta",
           "link": "https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Billionaires are a danger to themselves and (especially) us",
-          "link": "https://pluralistic.net/2026/03/09/autocrats-of-trade-2/"
         }
       ],
-      "summary_zh": "2026-03-09 技术日报：iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮；亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新。",
-      "summary_en": "Daily brief (2026-03-09): The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning; macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Mac",
+      "summary_zh": "2026-03-09 技术日报：本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮。",
+      "summary_en": "Daily brief (2026-03-09): Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms base",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-09 日报】iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮；亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-09): The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning; macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Ma"
+          "zh": "【2026-03-09 日报】本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮。我把可执行建议整",
+          "en": "AK-RSS Daily (2026-03-09): Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms bas"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-09）\n- iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位\n- macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮\n- 亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/03/the_iphone_17e\n- https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/\n- https://pluralistic.net/2026/03/09/autocrats-of-trade-2/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-09)\n- The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning\n- macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorful gradients spelling 'Mac', sparking user upgrades\n- Billionaires' concentrated wealth creates systemic policy failures, especially in critical sectors like AI and infrastructure, lacking accountability and threatening global security and innovation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/03/the_iphone_17e\n- https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/\n- https://pluralistic.net/2026/03/09/autocrats-of-trade-2/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-09）\n- 本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式\n- iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位\n- macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n- https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-09)\n- Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios\n- The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning\n- macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorful gradients spelling 'Mac', sparking user upgrades\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n- https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮；亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning; macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorfu"
+          "zh": "今天最值得看的 3 个点：本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios; The iPhone"
         }
       }
     },
