@@ -1,49 +1,61 @@
 {
-  "generated_at": "2026-03-09T09:45:08Z",
+  "generated_at": "2026-03-09T10:14:07Z",
   "days": [
     {
       "date": "2026-03-09",
-      "total": 1,
+      "total": 2,
       "feeds": [
+        "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · If there are URLs in your HTTP User-Agent, they should exist and work",
         "xeiaso.net · Vibe Coding Trip Report: Making a sponsor panel"
       ],
       "key_points": [
+        "在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效",
         "作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板",
+        "Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates",
         "Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery"
       ],
       "key_points_zh": [
+        "在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效",
         "作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板"
       ],
       "key_points_en": [
+        "Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates",
         "Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery"
       ],
       "tweet_drafts": [
+        "User-Agent中的URL失效？这比没有URL更可疑。服务器会将其视为伪装，直接封锁。确保URL真实有效，内容清晰，TLS证书合法。#WebDev #运维",
         "氛围编码成功案例：AI代理生成复杂GraphQL查询的Go代码，解决生态不兼容问题。准备上下文是关键。#开发者工具"
       ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "If there are URLs in your HTTP User-Agent, they should exist and work",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist"
+        },
         {
           "feed_title": "xeiaso.net",
           "title": "Vibe Coding Trip Report: Making a sponsor panel",
           "link": "https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/"
         }
       ],
-      "summary_zh": "2026-03-09 技术日报：作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。",
-      "summary_en": "Daily brief (2026-03-09): Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery.",
+      "summary_zh": "2026-03-09 技术日报：在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效；作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。",
+      "summary_en": "Daily brief (2026-03-09): Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates; Author used 'vibe coding' with AI agent team",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-09 日报】作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-09): Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-09 日报】在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效；作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-09): Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates; Author used 'vibe coding' with AI agent tea"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-09）\n- 作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-09)\n- Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-09）\n- 在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效\n- 作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist\n- https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-09)\n- Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates\n- Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist\n- https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效；作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates; Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integrat"
         }
       }
     },
