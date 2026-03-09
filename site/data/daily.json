@@ -1,41 +1,50 @@
 {
-  "generated_at": "2026-03-09T10:44:41Z",
+  "generated_at": "2026-03-09T11:12:28Z",
   "days": [
     {
       "date": "2026-03-09",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · IBM PC/XT Model 5160",
         "nesbitt.io · 100 Posts",
         "utcc.utoronto.ca/~cks · If there are URLs in your HTTP User-Agent, they should exist and work",
         "xeiaso.net · Vibe Coding Trip Report: Making a sponsor panel"
       ],
       "key_points": [
+        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础",
         "100 Posts",
         "在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效",
-        "作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板",
-        "Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates"
+        "作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板"
       ],
       "key_points_zh": [
+        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础",
         "100 Posts",
         "在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效",
         "作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板"
       ],
       "key_points_en": [
+        "IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture",
         "100 Posts",
         "Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates",
         "Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery"
       ],
       "tweet_drafts": [
+        "IBM PC/XT (5160) 发布于1983年3月8日。它不只是另一台电脑，更是‘可扩展性’作为核心设计原则的早期宣言。其 ISA 插槽和更多驱动器仓位的设计，为整个兼容机产业埋下种子。思考：今天的‘扩展’是API、容器还是无服务器？",
         "100 Posts",
-        "User-Agent中的URL失效？这比没有URL更可疑。服务器会将其视为伪装，直接封锁。确保URL真实有效，内容清晰，TLS证书合法。#WebDev #运维",
-        "氛围编码成功案例：AI代理生成复杂GraphQL查询的Go代码，解决生态不兼容问题。准备上下文是关键。#开发者工具"
+        "User-Agent中的URL失效？这比没有URL更可疑。服务器会将其视为伪装，直接封锁。确保URL真实有效，内容清晰，TLS证书合法。#WebDev #运维"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "IBM PC/XT Model 5160",
+          "link": "https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "100 Posts",
@@ -45,27 +54,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "If there are URLs in your HTTP User-Agent, they should exist and work",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist"
-        },
-        {
-          "feed_title": "xeiaso.net",
-          "title": "Vibe Coding Trip Report: Making a sponsor panel",
-          "link": "https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/"
         }
       ],
-      "summary_zh": "2026-03-09 技术日报：100 Posts；在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效；作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。",
-      "summary_en": "Daily brief (2026-03-09): 100 Posts; Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates; Author used 'vibe coding' with AI",
+      "summary_zh": "2026-03-09 技术日报：1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础；100 Posts；在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效。",
+      "summary_en": "Daily brief (2026-03-09): IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture; 100 Posts; Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers securi",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-09 日报】100 Posts；在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效；作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-09): 100 Posts; Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates; Author used 'vibe coding' with A"
+          "zh": "【2026-03-09 日报】1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础；100 Posts；在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-09): IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture; 100 Posts; Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers secur"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-09）\n- 100 Posts\n- 在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效\n- 作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/09/100-posts.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist\n- https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-09)\n- 100 Posts\n- Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates\n- Author used 'vibe coding' with AI agent teams to solve long-standing Go+GraphQL integration pain and shipped a sponsor panel before surgery\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/09/100-posts.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist\n- https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-09）\n- 1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础\n- 100 Posts\n- 在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n- https://nesbitt.io/2026/03/09/100-posts.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-09)\n- IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture\n- 100 Posts\n- Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n- https://nesbitt.io/2026/03/09/100-posts.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：100 Posts；在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效；作者在手术前通过“氛围编码”方式，成功用AI代理团队解决了长期困扰的Go+GraphQL集成问题，并上线了赞助商面板。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: 100 Posts; Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates; Author used 'vibe coding' with AI agent teams to solve long-standing Go+Graph"
+          "zh": "今天最值得看的 3 个点：1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础；100 Posts；在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture; 100 Posts; Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs"
         }
       }
     },
