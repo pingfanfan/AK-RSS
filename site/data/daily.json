@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-09T13:26:29Z",
+  "generated_at": "2026-03-09T13:53:15Z",
   "days": [
     {
       "date": "2026-03-09",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)",
-        "xeiaso.net (1)"
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "simonwillison.net · Perhaps not Boring Technology after all",
         "shkspr.mobi · Book Review: There Is No Antimemetics Division by qntm ★★★★★",
         "idiallo.com · Why Am I Paranoid, You Say?",
         "dfarq.homeip.net · IBM PC/XT Model 5160",
         "nesbitt.io · 100 Posts",
-        "utcc.utoronto.ca/~cks · If there are URLs in your HTTP User-Agent, they should exist and work",
-        "xeiaso.net · Vibe Coding Trip Report: Making a sponsor panel"
+        "utcc.utoronto.ca/~cks · If there are URLs in your HTTP User-Agent, they should exist and work"
       ],
       "key_points": [
+        "最新LLM编码代理能有效使用全新/私有工具，挑战了“LLM会固化技术栈”的担忧，与“选择无聊技术”理念相悖",
         "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
         "在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理",
-        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础",
-        "100 Posts"
+        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础"
       ],
       "key_points_zh": [
+        "最新LLM编码代理能有效使用全新/私有工具，挑战了“LLM会固化技术栈”的担忧，与“选择无聊技术”理念相悖",
         "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
         "在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理",
-        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础",
-        "100 Posts"
+        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础"
       ],
       "key_points_en": [
+        "Latest LLM coding agents effectively use brand-new/private tools, challenging the fear that LLMs lock in tech stacks and contradicting the 'Choose Boring Technology' mantra",
         "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
         "While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design",
-        "IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture",
-        "100 Posts"
+        "IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture"
       ],
       "tweet_drafts": [
+        "新发现：最新LLM编码代理能轻松驾驭全新/私有工具，挑战了“LLM会固化技术栈”的担忧。#AI #编程 #技术选型",
         "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
-        "你的‘智能’设备真的属于你吗？作者拒绝所有便利功能，因为背后是公司对数据的疯狂渴求。开发者：是时候设计尊重用户控制权的产品了。#数据伦理 #科技反思",
-        "IBM PC/XT (5160) 发布于1983年3月8日。它不只是另一台电脑，更是‘可扩展性’作为核心设计原则的早期宣言。其 ISA 插槽和更多驱动器仓位的设计，为整个兼容机产业埋下种子。思考：今天的‘扩展’是API、容器还是无服务器？"
+        "你的‘智能’设备真的属于你吗？作者拒绝所有便利功能，因为背后是公司对数据的疯狂渴求。开发者：是时候设计尊重用户控制权的产品了。#数据伦理 #科技反思"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Perhaps not Boring Technology after all",
+          "link": "https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
@@ -53,27 +58,22 @@
           "feed_title": "idiallo.com",
           "title": "Why Am I Paranoid, You Say?",
           "link": "https://idiallo.com/blog/why-am-i-paranoid?src=feed"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "IBM PC/XT Model 5160",
-          "link": "https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160"
         }
       ],
-      "summary_zh": "2026-03-09 技术日报：Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础。",
-      "summary_en": "Daily brief (2026-03-09): Book Review: There Is No Antimemetics Division by qntm ★★★★★; While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced",
+      "summary_zh": "2026-03-09 技术日报：最新LLM编码代理能有效使用全新/私有工具，挑战了“LLM会固化技术栈”的担忧，与“选择无聊技术”理念相悖；Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理。",
+      "summary_en": "Daily brief (2026-03-09): Latest LLM coding agents effectively use brand-new/private tools, challenging the fear that LLMs lock in tech stacks and contradicting the 'Choose Boring Technology' mantra; Book Review: There Is No Antimemetics Division by qntm ★★★★★",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-09 日报】Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-09): Book Review: There Is No Antimemetics Division by qntm ★★★★★; While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced"
+          "zh": "【2026-03-09 日报】最新LLM编码代理能有效使用全新/私有工具，挑战了“LLM会固化技术栈”的担忧，与“选择无聊技术”理念相悖；Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-09): Latest LLM coding agents effectively use brand-new/private tools, challenging the fear that LLMs lock in tech stacks and contradicting the 'Choose Boring Technology' mantra; Book Review: There Is No Antimemetics Division by qntm ★★★★"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-09）\n- Book Review: There Is No Antimemetics Division by qntm ★★★★★\n- 在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理\n- 1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-09)\n- Book Review: There Is No Antimemetics Division by qntm ★★★★★\n- While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design\n- IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-09）\n- 最新LLM编码代理能有效使用全新/私有工具，挑战了“LLM会固化技术栈”的担忧，与“选择无聊技术”理念相悖\n- Book Review: There Is No Antimemetics Division by qntm ★★★★★\n- 在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything\n- https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-09)\n- Latest LLM coding agents effectively use brand-new/private tools, challenging the fear that LLMs lock in tech stacks and contradicting the 'Choose Boring Technology' mantra\n- Book Review: There Is No Antimemetics Division by qntm ★★★★★\n- While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything\n- https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Book Review: There Is No Antimemetics Division by qntm ★★★★★; While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware e"
+          "zh": "今天最值得看的 3 个点：最新LLM编码代理能有效使用全新/私有工具，挑战了“LLM会固化技术栈”的担忧，与“选择无聊技术”理念相悖；Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Latest LLM coding agents effectively use brand-new/private tools, challenging the fear that LLMs lock in tech stacks and contradicting the 'Choose Boring Technology' mantra; Book Review: There Is No Antimemetics Division by qntm ★★★★★; While enjoying tech convenience, users are"
         }
       }
     },
