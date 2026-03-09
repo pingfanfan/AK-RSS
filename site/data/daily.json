@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-03-09T12:05:06Z",
+  "generated_at": "2026-03-09T12:45:56Z",
   "days": [
     {
       "date": "2026-03-09",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
+        "shkspr.mobi (1)",
         "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Book Review: There Is No Antimemetics Division by qntm ★★★★★",
         "idiallo.com · Why Am I Paranoid, You Say?",
         "dfarq.homeip.net · IBM PC/XT Model 5160",
         "nesbitt.io · 100 Posts",
@@ -19,29 +21,34 @@
         "xeiaso.net · Vibe Coding Trip Report: Making a sponsor panel"
       ],
       "key_points": [
+        "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
         "在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理",
         "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础",
-        "100 Posts",
-        "在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效"
-      ],
-      "key_points_zh": [
-        "在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理",
-        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础",
-        "100 Posts",
-        "在User-Agent中嵌入无效URL（如示例域名、本地地址）会引发安全怀疑，导致被服务器屏蔽。确保URL可访问、内容清晰且TLS证书有效"
-      ],
-      "key_points_en": [
-        "While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design",
-        "IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture",
-        "100 Posts",
-        "Embedding invalid URLs (e.g., example domains, .local) in User-Agent triggers security suspicion and server blocks. Ensure URLs are accessible, descriptive, and have valid TLS certificates"
-      ],
-      "tweet_drafts": [
-        "你的‘智能’设备真的属于你吗？作者拒绝所有便利功能，因为背后是公司对数据的疯狂渴求。开发者：是时候设计尊重用户控制权的产品了。#数据伦理 #科技反思",
-        "IBM PC/XT (5160) 发布于1983年3月8日。它不只是另一台电脑，更是‘可扩展性’作为核心设计原则的早期宣言。其 ISA 插槽和更多驱动器仓位的设计，为整个兼容机产业埋下种子。思考：今天的‘扩展’是API、容器还是无服务器？",
         "100 Posts"
       ],
+      "key_points_zh": [
+        "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
+        "在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理",
+        "1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础",
+        "100 Posts"
+      ],
+      "key_points_en": [
+        "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
+        "While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design",
+        "IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture",
+        "100 Posts"
+      ],
+      "tweet_drafts": [
+        "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
+        "你的‘智能’设备真的属于你吗？作者拒绝所有便利功能，因为背后是公司对数据的疯狂渴求。开发者：是时候设计尊重用户控制权的产品了。#数据伦理 #科技反思",
+        "IBM PC/XT (5160) 发布于1983年3月8日。它不只是另一台电脑，更是‘可扩展性’作为核心设计原则的早期宣言。其 ISA 插槽和更多驱动器仓位的设计，为整个兼容机产业埋下种子。思考：今天的‘扩展’是API、容器还是无服务器？"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Book Review: There Is No Antimemetics Division by qntm ★★★★★",
+          "link": "https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "Why Am I Paranoid, You Say?",
@@ -51,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "IBM PC/XT Model 5160",
           "link": "https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "100 Posts",
-          "link": "https://nesbitt.io/2026/03/09/100-posts.html"
         }
       ],
-      "summary_zh": "2026-03-09 技术日报：在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础；100 Posts。",
-      "summary_en": "Daily brief (2026-03-09): While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, layi",
+      "summary_zh": "2026-03-09 技术日报：Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础。",
+      "summary_en": "Daily brief (2026-03-09): Book Review: There Is No Antimemetics Division by qntm ★★★★★; While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-09 日报】在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础；100 Posts。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-09): While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, lay"
+          "zh": "【2026-03-09 日报】Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-09): Book Review: There Is No Antimemetics Division by qntm ★★★★★; While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-09）\n- 在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理\n- 1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础\n- 100 Posts\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n- https://nesbitt.io/2026/03/09/100-posts.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-09)\n- While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design\n- IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture\n- 100 Posts\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n- https://nesbitt.io/2026/03/09/100-posts.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-09）\n- Book Review: There Is No Antimemetics Division by qntm ★★★★★\n- 在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理\n- 1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-09)\n- Book Review: There Is No Antimemetics Division by qntm ★★★★★\n- While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design\n- IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/\n- https://idiallo.com/blog/why-am-i-paranoid?src=feed\n- https://dfarq.homeip.net/ibm-pc-xt-model-5160/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-pc-xt-model-5160\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础；100 Posts。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware expandability, laying groundwork for modern PC architecture; 10"
+          "zh": "今天最值得看的 3 个点：Book Review: There Is No Antimemetics Division by qntm ★★★★★；在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理；1983年IBM发布PC/XT (5160)，以“扩展技术”提升硬件可扩展性，奠定现代PC架构基础。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Book Review: There Is No Antimemetics Division by qntm ★★★★★; While enjoying tech convenience, users are losing control of their personal data; developers must rethink data ethics in product design; IBM's 1983 PC/XT (5160) introduced 'eXtended Technology' for greater hardware e"
         }
       }
     },

@@ -1,10 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-09 12:04:32 UTC
+Generated at: 2026-03-09 12:45:22 UTC
 
-- [Why Am I Paranoid, You Say?](https://idiallo.com/blog/why-am-i-paranoid?src=feed) (`idiallo.com`)
-  - TLDR: 在享受科技便利时，用户正失去对个人数据的控制权；开发者需重新思考产品设计中的数据伦理。
-  - WHAT: 作者通过个人经历，揭示科技公司以功能便利为诱饵，实则疯狂收集用户数据，导致用户丧失对设备和数据的控制权，并质疑现代‘拥有’概念的虚伪性。
-  - WHY: 数据是新时代的石油，其滥用不仅导致隐私泄露，还可能引发算法歧视、监控资本主义等系统性风险。开发者作为构建者，有伦理责任设计尊重用户数据主权的产品。
-  - ACTION: 1. 实施数据最小化原则，仅收集必要数据；2. 提供透明的数据控制面板，让用户随时查看、导出、删除数据；3. 默认开启隐私保护，而非强迫用户同意冗长条款；4. 在团队内推动数据伦理讨论，教育用户数字权利。
-  - TWEET: 你的‘智能’设备真的属于你吗？作者拒绝所有便利功能，因为背后是公司对数据的疯狂渴求。开发者：是时候设计尊重用户控制权的产品了。#数据伦理 #科技反思
+- [Book Review: There Is No Antimemetics Division by qntm ★★★★★](https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/) (`shkspr.mobi`)
