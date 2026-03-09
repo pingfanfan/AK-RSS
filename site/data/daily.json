@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T22:38:53Z",
+  "generated_at": "2026-03-09T06:17:00Z",
   "days": [
     {
       "date": "2026-03-09",
@@ -49,77 +49,77 @@
     },
     {
       "date": "2026-03-08",
-      "total": 10,
+      "total": 13,
       "feeds": [
         "daringfireball.net (2)",
         "antirez.com (1)",
+        "blog.jim-nielsen.com (1)",
         "evanhahn.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "shkspr.mobi (1)"
+        "joanwestenberg.com (1)",
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "joanwestenberg.com · The Noble Path",
+        "krebsonsecurity.com · How AI Assistants are Moving the Security Goalposts",
+        "blog.jim-nielsen.com · Two of My Favorite Things Together at Last: Pies and Subdomains",
         "johndcook.com · How much certainty is worthwhile?",
         "daringfireball.net · Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
-        "antirez.com · GNU and the AI reimplementations",
-        "daringfireball.net · Steve Lemay Hits Apple’s Leadership Page",
-        "simonwillison.net · Quoting Joseph Weizenbaum",
-        "tedium.co · Paywalls For Minimalists"
+        "antirez.com · GNU and the AI reimplementations"
       ],
       "key_points": [
-        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理",
-        "chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议",
-        "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
-        "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整"
+        "The Noble Path",
+        "OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型",
+        "通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档",
+        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理"
       ],
       "key_points_zh": [
-        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理",
-        "chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议",
-        "文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义",
-        "苹果官方领导层页面新增高管 Steve Lemay，同时 Eddy Cue 更新头像，可能预示服务与 AI 业务架构调整"
+        "The Noble Path",
+        "OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型",
+        "通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档",
+        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理"
       ],
       "key_points_en": [
-        "Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs",
-        "Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics",
-        "By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development",
-        "Apple's official leadership page adds exec Steve Lemay and updates Eddy Cue's headshot, hinting at potential reorganization in services and AI"
+        "The Noble Path",
+        "Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift",
+        "Automate Instagram data export to archive photos and captions on a personal subdomain, ensuring content ownership",
+        "Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs"
       ],
       "tweet_drafts": [
-        "三角函数的逆运算组合表怎么验证？作者用Python测了几个点就搞定，这方法在零知识证明里有严格理论支撑。省时省力的好技巧",
-        "chardet重写许可争议：净室实现能绕过LGPL吗？原作者发声反对，开源法律边界何在？开发者必读",
-        "GNU重写UNIX时，Stallman要求每个工具都必须更快/更强/更可脚本，并基于行为规格而非源码重写。这不仅是工程选择，更是法律防御层。AI时代重写，这策略依然关键：创新要可见，重写要独立"
+        "The Noble Path",
+        "AI助手OpenClaw的兴起凸显新风险：自主代理拥有系统完全权限，内部威胁自动化。安全团队需紧急行动：审计权限、最小权限、实时监控",
+        "用脚本把Instagram照片归档到个人子域名，夺回数据控制权。教程：https://blog.jim-nielsen.com/2026/pies-and-subdomains/"
       ],
       "sources": [
         {
-          "feed_title": "johndcook.com",
-          "title": "How much certainty is worthwhile?",
-          "link": "https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/"
+          "feed_title": "joanwestenberg.com",
+          "title": "The Noble Path",
+          "link": "https://www.joanwestenberg.com/the-noble-path/"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
-          "link": "https://simonwillison.net/2026/Mar/5/chardet/"
+          "feed_title": "krebsonsecurity.com",
+          "title": "How AI Assistants are Moving the Security Goalposts",
+          "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/"
         },
         {
-          "feed_title": "antirez.com",
-          "title": "GNU and AI Reimplementations: History Repeating?",
-          "link": "http://antirez.com/news/162"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Two of My Favorite Things Together at Last: Pies and Subdomains",
+          "link": "https://blog.jim-nielsen.com/2026/pies-and-subdomains/"
         }
       ],
-      "summary_zh": "2026-03-08 技术日报：本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理；chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义。",
-      "summary_en": "Daily brief (2026-03-08): Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs; Maintainer's MIT-licensed rewrite of chardet sparks dispute with original",
+      "summary_zh": "2026-03-08 技术日报：The Noble Path；OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型；通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档。",
+      "summary_en": "Daily brief (2026-03-08): The Noble Path; Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift; Automate Instagram data export to archive phot",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-08 日报】本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理；chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-08): Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs; Maintainer's MIT-licensed rewrite of chardet sparks dispute with origina"
+          "zh": "【2026-03-08 日报】The Noble Path；OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型；通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-08): The Noble Path; Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift; Automate Instagram data export to archive pho"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-08）\n- 本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理\n- chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议\n- 文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-08)\n- Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs\n- Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlighting clean-room implementation ethics\n- By comparing GNU's UNIX reimplementations with today's AI-assisted rewrites, the article highlights that historically successful strategies—like adding unique features and reimplementing based on specs, not source code—were key to avoiding legal risks, offering crucial lessons for modern AI development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/\n- https://simonwillison.net/2026/Mar/5/chardet/\n- http://antirez.com/news/162\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-08）\n- The Noble Path\n- OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型\n- 通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-noble-path/\n- https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/\n- https://blog.jim-nielsen.com/2026/pies-and-subdomains/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-08)\n- The Noble Path\n- Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift\n- Automate Instagram data export to archive photos and captions on a personal subdomain, ensuring content ownership\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-noble-path/\n- https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/\n- https://blog.jim-nielsen.com/2026/pies-and-subdomains/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理；chardet库维护者以MIT许可重写发布，原作者公开反对，引发开源重写与 relicensing 的伦理法律争议；文章通过对比GNU重写UNIX工具与当前AI辅助重写现象，指出历史上成功的重写策略（如添加独特功能、基于规格而非源码）是规避法律风险的关键，这对当今AI开发具有重要借鉴意义。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs; Maintainer's MIT-licensed rewrite of chardet sparks dispute with original author over relicensing rights, highlightin"
+          "zh": "今天最值得看的 3 个点：The Noble Path；OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型；通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Noble Path; Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift; Automate Instagram data export to archive photos and captions on a personal subdomain, ens"
         }
       }
     },
