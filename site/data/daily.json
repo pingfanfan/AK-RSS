@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T07:43:48Z",
+  "generated_at": "2026-03-10T08:06:40Z",
   "days": [
     {
       "date": "2026-03-10",
@@ -60,47 +60,52 @@
     },
     {
       "date": "2026-03-09",
-      "total": 18,
+      "total": 19,
       "feeds": [
         "daringfireball.net (4)",
         "devblogs.microsoft.com/oldnewthing (2)",
         "simonwillison.net (2)",
         "aresluna.org (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Rebasing in Magit",
         "daringfireball.net · [Sponsor] Finalist",
         "johndcook.com · Trig composition table",
         "daringfireball.net · ★ The iPhone 17e",
         "daringfireball.net · MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe 26.4 Beta",
-        "pluralistic.net · Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)",
-        "aresluna.org · Fav tech museums"
+        "pluralistic.net · Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)"
       ],
       "key_points": [
+        "Rebasing in Magit",
         "[Sponsor] Finalist",
         "本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式",
-        "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位",
-        "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮"
+        "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位"
       ],
       "key_points_zh": [
+        "Rebasing in Magit",
         "[Sponsor] Finalist",
         "本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式",
-        "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位",
-        "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮"
+        "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位"
       ],
       "key_points_en": [
+        "Rebasing in Magit",
         "[Sponsor] Finalist",
         "Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios",
-        "The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning",
-        "macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorful gradients spelling 'Mac', sparking user upgrades"
+        "The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning"
       ],
       "tweet_drafts": [
+        "Rebasing in Magit",
         "[Sponsor] Finalist",
-        "三角恒等式不再需要死记硬背。这篇文展示了一个核心复合表，并证明：所有表达式都可归结为14种基于直角三角形边长比的形式，因此验证只需随机点测试一次。对实现数学库的开发者极有价值",
-        "iPhone 17e 来了：性能小升，但 MagSafe 和取消摄像头凸起才是真·升级。你觉得 MagSafe 是入门机的必备功能吗？无凸起设计会回归吗？"
+        "三角恒等式不再需要死记硬背。这篇文展示了一个核心复合表，并证明：所有表达式都可归结为14种基于直角三角形边长比的形式，因此验证只需随机点测试一次。对实现数学库的开发者极有价值"
       ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Rebasing in Magit",
+          "link": "https://entropicthoughts.com/rebasing-in-magit"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "[Sponsor] Finalist",
@@ -110,27 +115,22 @@
           "feed_title": "johndcook.com",
           "title": "Trig composition table",
           "link": "https://www.johndcook.com/blog/2026/03/09/trig-composition-table/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The iPhone 17e",
-          "link": "https://daringfireball.net/2026/03/the_iphone_17e"
         }
       ],
-      "summary_zh": "2026-03-09 技术日报：[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位。",
-      "summary_en": "Daily brief (2026-03-09): [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions red",
+      "summary_zh": "2026-03-09 技术日报：Rebasing in Magit；[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式。",
+      "summary_en": "Daily brief (2026-03-09): Rebasing in Magit; [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle:",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-09 日报】[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-09): [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions re"
+          "zh": "【2026-03-09 日报】Rebasing in Magit；[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-09): Rebasing in Magit; [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle:"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-09）\n- [Sponsor] Finalist\n- 本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式\n- iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.finalist.works/finalist-36/\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-09)\n- [Sponsor] Finalist\n- Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios\n- The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.finalist.works/finalist-36/\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-09）\n- Rebasing in Magit\n- [Sponsor] Finalist\n- 本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/rebasing-in-magit\n- https://www.finalist.works/finalist-36/\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-09)\n- Rebasing in Magit\n- [Sponsor] Finalist\n- Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/rebasing-in-magit\n- https://www.finalist.works/finalist-36/\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side"
+          "zh": "今天最值得看的 3 个点：Rebasing in Magit；[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Rebasing in Magit; [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on"
         }
       }
     },
