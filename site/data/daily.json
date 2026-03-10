@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-10T15:47:33Z",
+  "generated_at": "2026-03-10T16:18:34Z",
   "days": [
     {
       "date": "2026-03-10",
-      "total": 8,
+      "total": 9,
       "feeds": [
+        "johndcook.com (2)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
         "matduggan.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
         "shkspr.mobi (1)"
       ],
       "highlights": [
+        "johndcook.com · Simplifying expressions in SymPy",
         "pluralistic.net · Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
         "johndcook.com · sinh( arccosh(x) )",
         "shkspr.mobi · Unstructured Data and the Joy of having Something Else think for you",
         "dfarq.homeip.net · When the dotcom bubble burst",
-        "nesbitt.io · Just Use Postgres",
-        "matduggan.com · Update to the Ghost theme that powers this site"
+        "nesbitt.io · Just Use Postgres"
       ],
       "key_points": [
+        "SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果",
         "广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与",
         "sinh( arccosh(x) )",
-        "Unstructured Data and the Joy of having Something Else think for you",
-        "2000年3月10日，纳斯达克达峰值5048.62后崩盘，标志dotcom泡沫破裂，科技股暴跌"
+        "Unstructured Data and the Joy of having Something Else think for you"
       ],
       "key_points_zh": [
+        "SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果",
         "广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与",
         "sinh( arccosh(x) )",
-        "Unstructured Data and the Joy of having Something Else think for you",
-        "2000年3月10日，纳斯达克达峰值5048.62后崩盘，标志dotcom泡沫破裂，科技股暴跌"
+        "Unstructured Data and the Joy of having Something Else think for you"
       ],
       "key_points_en": [
+        "SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result",
         "Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate",
         "sinh( arccosh(x) )",
-        "Unstructured Data and the Joy of having Something Else think for you",
-        "On March 10, 2000, NASDAQ peaked at 5,048.62 before crashing, marking the burst of the dotcom bubble and a tech stock collapse"
+        "Unstructured Data and the Joy of having Something Else think for you"
       ],
       "tweet_drafts": [
+        "用SymPy做数学简化？注意：sqrt(x-1)*sqrt(x+1) ≠ sqrt(x**2-1) 对所有x成立。指定x≥0即可解决。技术细节与Mathematica行为一致",
         "Cory Doctorow 新文：广告技术即法西斯技术。其商业模式注定与ICE等威权机构合作，将商业监控转化为社会压迫。技术人必须觉醒，拒绝为监控资本主义写一行代码。https://pluralistic.net/2026/03/10/ice-tech/ #adtech #surveillance",
-        "sinh( arccosh(x) )",
-        "新条目更新"
+        "sinh( arccosh(x) )"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Simplifying Expressions in SymPy: Hyperbolic Functions and Radical Handling",
+          "link": "https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Ad-tech is fascist tech",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "sinh( arccosh(x) )",
           "link": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Unstructured Data and the Joy of having Something Else think for you",
-          "link": "https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/"
         }
       ],
-      "summary_zh": "2026-03-10 技术日报：广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )；Unstructured Data and the Joy of having Something Else think for you。",
-      "summary_en": "Daily brief (2026-03-10): Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate; sinh( arccosh(x) )",
+      "summary_zh": "2026-03-10 技术日报：SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )。",
+      "summary_en": "Daily brief (2026-03-10): SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result; Ad-tech is inherently surveillance tech; its business model necessitates",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-10 日报】广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )；Unstructured Data and the Joy of having Something Else think for you。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-10): Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate; sinh( arccosh(x)"
+          "zh": "【2026-03-10 日报】SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-10): SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result; Ad-tech is inherently surveillance tech; its business model necessitate"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-10）\n- 广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与\n- sinh( arccosh(x) )\n- Unstructured Data and the Joy of having Something Else think for you\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/03/10/ice-tech/\n- https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/\n- https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-10)\n- Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate\n- sinh( arccosh(x) )\n- Unstructured Data and the Joy of having Something Else think for you\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/03/10/ice-tech/\n- https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/\n- https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-10）\n- SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果\n- 广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与\n- sinh( arccosh(x) )\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/\n- https://pluralistic.net/2026/03/10/ice-tech/\n- https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-10)\n- SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result\n- Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate\n- sinh( arccosh(x) )\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/\n- https://pluralistic.net/2026/03/10/ice-tech/\n- https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )；Unstructured Data and the Joy of having Something Else think for you。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate; sinh( arccosh(x) ); Unstructured Data and the Joy of having So"
+          "zh": "今天最值得看的 3 个点：SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result; Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies ("
         }
       }
     },
