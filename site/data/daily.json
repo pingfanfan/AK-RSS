@@ -1,48 +1,60 @@
 {
-  "generated_at": "2026-03-10T06:10:31Z",
+  "generated_at": "2026-03-10T06:44:55Z",
   "days": [
     {
       "date": "2026-03-10",
-      "total": 1,
+      "total": 2,
       "feeds": [
-        "troyhunt.com (1)"
+        "troyhunt.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · Power glitches can leave computer hardware in weird states",
         "troyhunt.com · Weekly Update 494"
       ],
       "key_points": [
-        "Weekly Update 494"
+        "短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性",
+        "Weekly Update 494",
+        "Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems"
       ],
       "key_points_zh": [
+        "短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性",
         "Weekly Update 494"
       ],
       "key_points_en": [
+        "Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems",
         "Weekly Update 494"
       ],
       "tweet_drafts": [
+        "电力瞬变可能让硬件陷入无法自愈的异常状态，即使通电也无效。关键：1. UPS监控 2. 带外管理强制断电 3. 制定断电重启SOP。你的数据中心遇到过吗？ #DevOps #SRE",
         "Weekly Update 494"
       ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Power glitches can leave computer hardware in weird states",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates"
+        },
         {
           "feed_title": "troyhunt.com",
           "title": "Weekly Update 494",
           "link": "https://www.troyhunt.com/weekly-update-494/"
         }
       ],
-      "summary_zh": "2026-03-10 技术日报：Weekly Update 494。",
-      "summary_en": "Daily brief (2026-03-10): Weekly Update 494.",
+      "summary_zh": "2026-03-10 技术日报：短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性；Weekly Update 494。",
+      "summary_en": "Daily brief (2026-03-10): Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems; Weekly Update 494.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-10 日报】Weekly Update 494。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-10): Weekly Update 494. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-10 日报】短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性；Weekly Update 494。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-10): Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems; Weekly Update 494. Actionable takeawa"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-10）\n- Weekly Update 494\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/weekly-update-494/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-10)\n- Weekly Update 494\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/weekly-update-494/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-10）\n- 短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性\n- Weekly Update 494\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates\n- https://www.troyhunt.com/weekly-update-494/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-10)\n- Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems\n- Weekly Update 494\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates\n- https://www.troyhunt.com/weekly-update-494/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Weekly Update 494。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Weekly Update 494.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性；Weekly Update 494。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems; Weekly Update 494.\nI turned them into an action-ready daily brief you can use righ"
         }
       }
     },
