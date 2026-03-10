@@ -1,41 +1,50 @@
 {
-  "generated_at": "2026-03-10T10:10:35Z",
+  "generated_at": "2026-03-10T10:44:24Z",
   "days": [
     {
       "date": "2026-03-10",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "matduggan.com (1)",
+        "nesbitt.io (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Just Use Postgres",
         "matduggan.com · Update to the Ghost theme that powers this site",
         "utcc.utoronto.ca/~cks · Power glitches can leave computer hardware in weird states",
         "troyhunt.com · Weekly Update 494"
       ],
       "key_points": [
+        "通过 Postgres 扩展 omni_git 实现 git 智能 HTTP 协议，使数据库直接成为 git 主机、构建系统和运行时，无需反向代理、容器或独立应用服务器",
         "开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因",
         "短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性",
-        "Weekly Update 494",
-        "Open-source Ghost theme adds image caption support and Mastodon integration for better content accessibility and social attribution"
+        "Weekly Update 494"
       ],
       "key_points_zh": [
+        "通过 Postgres 扩展 omni_git 实现 git 智能 HTTP 协议，使数据库直接成为 git 主机、构建系统和运行时，无需反向代理、容器或独立应用服务器",
         "开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因",
         "短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性",
         "Weekly Update 494"
       ],
       "key_points_en": [
+        "The omni_git Postgres extension implements the git smart HTTP protocol, turning the database into the git host, build system, and runtime—no reverse proxy, containers, or separate app server needed",
         "Open-source Ghost theme adds image caption support and Mastodon integration for better content accessibility and social attribution",
         "Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems",
         "Weekly Update 494"
       ],
       "tweet_drafts": [
+        "刚看到一个疯狂的项目：用 Postgres 扩展让数据库直接支持 git push 部署！整个平台就一个进程，没有那些烦人的中间件。这可能是简化基础设施的未来方向。 #Postgres #Git",
         "开源Ghost主题更新：强化图片标题支持 + Mastodon自动归因。提升内容可访问性与去中心化社交整合。欢迎定制与反馈：https://gitlab.com/matdevdug/minimal-ghost-theme",
-        "电力瞬变可能让硬件陷入无法自愈的异常状态，即使通电也无效。关键：1. UPS监控 2. 带外管理强制断电 3. 制定断电重启SOP。你的数据中心遇到过吗？ #DevOps #SRE",
-        "Weekly Update 494"
+        "电力瞬变可能让硬件陷入无法自愈的异常状态，即使通电也无效。关键：1. UPS监控 2. 带外管理强制断电 3. 制定断电重启SOP。你的数据中心遇到过吗？ #DevOps #SRE"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Just Use Postgres",
+          "link": "https://nesbitt.io/2026/03/10/just-use-postgres.html"
+        },
         {
           "feed_title": "matduggan.com",
           "title": "Update to the Ghost Theme Powering This Site",
@@ -45,27 +54,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Power glitches can leave computer hardware in weird states",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 494",
-          "link": "https://www.troyhunt.com/weekly-update-494/"
         }
       ],
-      "summary_zh": "2026-03-10 技术日报：开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因；短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性；Weekly Update 494。",
-      "summary_en": "Daily brief (2026-03-10): Open-source Ghost theme adds image caption support and Mastodon integration for better content accessibility and social attribution; Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, req",
+      "summary_zh": "2026-03-10 技术日报：通过 Postgres 扩展 omni_git 实现 git 智能 HTTP 协议，使数据库直接成为 git 主机、构建系统和运行时，无需反向代理、容器或独立应用服务器；开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因；短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性。",
+      "summary_en": "Daily brief (2026-03-10): The omni_git Postgres extension implements the git smart HTTP protocol, turning the database into the git host, build system, and runtime—no reverse proxy, containers, or separate app server needed; Open-source Ghost theme adds image",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-10 日报】开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因；短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性；Weekly Update 494。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-10): Open-source Ghost theme adds image caption support and Mastodon integration for better content accessibility and social attribution; Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, re"
+          "zh": "【2026-03-10 日报】通过 Postgres 扩展 omni_git 实现 git 智能 HTTP 协议，使数据库直接成为 git 主机、构建系统和运行时，无需反向代理、容器或独立应用服务器；开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因；短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-10): The omni_git Postgres extension implements the git smart HTTP protocol, turning the database into the git host, build system, and runtime—no reverse proxy, containers, or separate app server needed; Open-source Ghost theme adds image"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-10）\n- 开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因\n- 短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性\n- Weekly Update 494\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates\n- https://www.troyhunt.com/weekly-update-494/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-10)\n- Open-source Ghost theme adds image caption support and Mastodon integration for better content accessibility and social attribution\n- Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems\n- Weekly Update 494\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates\n- https://www.troyhunt.com/weekly-update-494/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-10）\n- 通过 Postgres 扩展 omni_git 实现 git 智能 HTTP 协议，使数据库直接成为 git 主机、构建系统和运行时，无需反向代理、容器或独立应用服务器\n- 开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因\n- 短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/10/just-use-postgres.html\n- https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-10)\n- The omni_git Postgres extension implements the git smart HTTP protocol, turning the database into the git host, build system, and runtime—no reverse proxy, containers, or separate app server needed\n- Open-source Ghost theme adds image caption support and Mastodon integration for better content accessibility and social attribution\n- Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposing analog vulnerabilities beneath digital systems\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/10/just-use-postgres.html\n- https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因；短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性；Weekly Update 494。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Open-source Ghost theme adds image caption support and Mastodon integration for better content accessibility and social attribution; Brief power glitches can leave servers, switches, etc., in a powered-on but non-functional state, requiring a full power cycle to recover, exposi"
+          "zh": "今天最值得看的 3 个点：通过 Postgres 扩展 omni_git 实现 git 智能 HTTP 协议，使数据库直接成为 git 主机、构建系统和运行时，无需反向代理、容器或独立应用服务器；开源Ghost主题新增图片标题支持和Mastodon集成，提升内容可访问性与社交归因；短暂电力故障可能使服务器、交换机等硬件进入通电但功能异常的状态，需完全断电才能恢复，这暴露了数字系统底层模拟电路的脆弱性。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The omni_git Postgres extension implements the git smart HTTP protocol, turning the database into the git host, build system, and runtime—no reverse proxy, containers, or separate app server needed; Open-source Ghost theme adds image caption support and Mastodon integration for"
         }
       }
     },
