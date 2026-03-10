@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-10 17:14:35 UTC
+Generated at: 2026-03-10 17:44:26 UTC
 
-- [Writing an LLM from scratch, part 28 -- training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch) (`gilesthomas.com`)
-  - TLDR: 个人开发者用单张RTX 3090成功训练163M参数GPT-2级模型，使用FineWeb数据集，验证了低成本训练基础模型的可行性。
-  - WHAT: 训练了一个163M参数的GPT-2小型基础模型，使用Hugging Face FineWeb数据集，在RTX 3090上完成完整训练，验证损失值接近原始GPT-2论文报告。
-  - WHY: 受Andrej Karpathy的nanochat项目启发，结合Sebastian Raschka书籍方法，验证消费级GPU训练基础模型的实际可行性，挑战‘必须依赖大集群’的假设。
-  - ACTION: 使用RTX 3090或同级别GPU，下载FineWeb数据集，参考开源代码（如nanochat或本系列），尝试训练小型模型（<200M参数），监控损失曲线并调整超参数。
-  - TWEET: 个人开发者福音：RTX 3090训练163M参数LLM成功！成本可控，性能接近GPT-2。技术细节与数据集见链接。
+- [LLMs are bad at vibing specifications](https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/) (`buttondown.com/hillelwayne`)
+  - TLDR: AI能辅助形式化方法，但初学者直接生成 specs 常犯基础错误（如编译问题、错误抽象），需专家指导与严格验证。
+  - WHAT: 本文通过分析一个由AI生成的Alloy规格案例，指出其在基础语法（缺失模块导入）和设计模式（误用布尔值而非子类型）上的错误，说明LLM缺乏对形式化规范深层语义的“直觉”。
+  - WHY: 形式化方法的核心在于严谨的数学抽象，LLM基于统计模式生成代码，易产生表面正确但本质错误的spec，这可能导致安全关键系统的验证失效，阻碍形式化方法的可靠应用。
+  - ACTION: 开发者应系统学习TLA+/Alloy基础，将AI视为辅助工具而非替代；生成spec后必须手动验证逻辑正确性、编译通过性，并参考权威模式；积极参与社区审查。
+  - TWEET: 别让LLM的‘感觉’毁了你的形式化验证。分析一个AI生成的Alloy项目：基础语法错误+错误抽象设计。形式规格无容错空间，AI输出必须逐行审查。工具是助手，你才是专家。

@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-10T17:15:06Z",
+  "generated_at": "2026-03-10T17:44:54Z",
   "days": [
     {
       "date": "2026-03-10",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "johndcook.com (2)",
+        "buttondown.com/hillelwayne (1)",
         "dfarq.homeip.net (1)",
         "matduggan.com (1)",
         "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "buttondown.com/hillelwayne · LLMs are bad at vibing specifications",
         "johndcook.com · Simplifying expressions in SymPy",
         "pluralistic.net · Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
         "johndcook.com · sinh( arccosh(x) )",
         "shkspr.mobi · Unstructured Data and the Joy of having Something Else think for you",
-        "dfarq.homeip.net · When the dotcom bubble burst",
-        "nesbitt.io · Just Use Postgres"
+        "dfarq.homeip.net · When the dotcom bubble burst"
       ],
       "key_points": [
+        "AI能辅助形式化方法，但初学者直接生成 specs 常犯基础错误（如编译问题、错误抽象），需专家指导与严格验证",
         "SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果",
         "广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与",
-        "sinh( arccosh(x) )",
-        "Unstructured Data and the Joy of having Something Else think for you"
-      ],
-      "key_points_zh": [
-        "SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果",
-        "广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与",
-        "sinh( arccosh(x) )",
-        "Unstructured Data and the Joy of having Something Else think for you"
-      ],
-      "key_points_en": [
-        "SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result",
-        "Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate",
-        "sinh( arccosh(x) )",
-        "Unstructured Data and the Joy of having Something Else think for you"
-      ],
-      "tweet_drafts": [
-        "用SymPy做数学简化？注意：sqrt(x-1)*sqrt(x+1) ≠ sqrt(x**2-1) 对所有x成立。指定x≥0即可解决。技术细节与Mathematica行为一致",
-        "Cory Doctorow 新文：广告技术即法西斯技术。其商业模式注定与ICE等威权机构合作，将商业监控转化为社会压迫。技术人必须觉醒，拒绝为监控资本主义写一行代码。https://pluralistic.net/2026/03/10/ice-tech/ #adtech #surveillance",
         "sinh( arccosh(x) )"
       ],
+      "key_points_zh": [
+        "AI能辅助形式化方法，但初学者直接生成 specs 常犯基础错误（如编译问题、错误抽象），需专家指导与严格验证",
+        "SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果",
+        "广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与",
+        "sinh( arccosh(x) )"
+      ],
+      "key_points_en": [
+        "AI can assist formal methods, but beginners directly generating specs often make fundamental errors (compilation issues, wrong abstractions), requiring expert guidance and rigorous validation",
+        "SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result",
+        "Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate",
+        "sinh( arccosh(x) )"
+      ],
+      "tweet_drafts": [
+        "别让LLM的‘感觉’毁了你的形式化验证。分析一个AI生成的Alloy项目：基础语法错误+错误抽象设计。形式规格无容错空间，AI输出必须逐行审查。工具是助手，你才是专家",
+        "用SymPy做数学简化？注意：sqrt(x-1)*sqrt(x+1) ≠ sqrt(x**2-1) 对所有x成立。指定x≥0即可解决。技术细节与Mathematica行为一致",
+        "Cory Doctorow 新文：广告技术即法西斯技术。其商业模式注定与ICE等威权机构合作，将商业监控转化为社会压迫。技术人必须觉醒，拒绝为监控资本主义写一行代码。https://pluralistic.net/2026/03/10/ice-tech/ #adtech #surveillance"
+      ],
       "sources": [
+        {
+          "feed_title": "buttondown.com/hillelwayne",
+          "title": "LLMs are bad at vibing specifications",
+          "link": "https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Simplifying Expressions in SymPy: Hyperbolic Functions and Radical Handling",
@@ -53,27 +58,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Ad-tech is fascist tech",
           "link": "https://pluralistic.net/2026/03/10/ice-tech/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "sinh( arccosh(x) )",
-          "link": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
         }
       ],
-      "summary_zh": "2026-03-10 技术日报：SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )。",
-      "summary_en": "Daily brief (2026-03-10): SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result; Ad-tech is inherently surveillance tech; its business model necessitates",
+      "summary_zh": "2026-03-10 技术日报：AI能辅助形式化方法，但初学者直接生成 specs 常犯基础错误（如编译问题、错误抽象），需专家指导与严格验证；SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与。",
+      "summary_en": "Daily brief (2026-03-10): AI can assist formal methods, but beginners directly generating specs often make fundamental errors (compilation issues, wrong abstractions), requiring expert guidance and rigorous validation; SymPy simplifies expressions like sinh(ac",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-10 日报】SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-10): SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result; Ad-tech is inherently surveillance tech; its business model necessitate"
+          "zh": "【2026-03-10 日报】AI能辅助形式化方法，但初学者直接生成 specs 常犯基础错误（如编译问题、错误抽象），需专家指导与严格验证；SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-10): AI can assist formal methods, but beginners directly generating specs often make fundamental errors (compilation issues, wrong abstractions), requiring expert guidance and rigorous validation; SymPy simplifies expressions like sinh(a"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-10）\n- SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果\n- 广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与\n- sinh( arccosh(x) )\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/\n- https://pluralistic.net/2026/03/10/ice-tech/\n- https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-10)\n- SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result\n- Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate\n- sinh( arccosh(x) )\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/\n- https://pluralistic.net/2026/03/10/ice-tech/\n- https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-10）\n- AI能辅助形式化方法，但初学者直接生成 specs 常犯基础错误（如编译问题、错误抽象），需专家指导与严格验证\n- SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果\n- 广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/\n- https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/\n- https://pluralistic.net/2026/03/10/ice-tech/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-10)\n- AI can assist formal methods, but beginners directly generating specs often make fundamental errors (compilation issues, wrong abstractions), requiring expert guidance and rigorous validation\n- SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result\n- Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies (like ICE), building oppressive infrastructure. Developers must recognize and refuse to participate\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/\n- https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/\n- https://pluralistic.net/2026/03/10/ice-tech/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与；sinh( arccosh(x) )。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, not sqrt(x**2-1). Declare x as a nonnegative real to get the expected result; Ad-tech is inherently surveillance tech; its business model necessitates collaboration with authoritarian agencies ("
+          "zh": "今天最值得看的 3 个点：AI能辅助形式化方法，但初学者直接生成 specs 常犯基础错误（如编译问题、错误抽象），需专家指导与严格验证；SymPy简化sinh(acosh(x))等表达式时，默认返回sqrt(x-1)*sqrt(x+1)而非sqrt(x**2-1)。需通过symbols声明x为非负实数才能获得预期简化结果；广告技术本质是监控技术，其商业模式必然与威权机构（如ICE）合作，构建压迫性基础设施，开发者需警惕并拒绝参与。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: AI can assist formal methods, but beginners directly generating specs often make fundamental errors (compilation issues, wrong abstractions), requiring expert guidance and rigorous validation; SymPy simplifies expressions like sinh(acosh(x)) to sqrt(x-1)*sqrt(x+1) by default, n"
         }
       }
     },
