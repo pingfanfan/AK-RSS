@@ -1,10 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-09 22:41:06 UTC
+Generated at: 2026-03-10 06:09:18 UTC
 
-- [Trig composition table](https://www.johndcook.com/blog/2026/03/09/trig-composition-table/) (`johndcook.com`)
-  - TLDR: 本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式。
-  - WHAT: 文章展示了一个核心的3×3复合表（sin, cos, tan 与 arcsin, arccos, arctan），并提及可扩展至包含sec, csc, cot及其反函数的6×6表。重点解释了如何通过构建直角三形模型（边长分别为1, x, √(1±x²)等）来推导和验证表中每一个表达式。
-  - WHY: 对开发者而言，这代表了数学工具库的优化思维：将看似复杂的三角恒等式统一到一个简单的几何模型（直角三角形边长比例）下，从而将记忆负担降至14种基本形式。在代码中实现数学函数时，这提供了可靠的验证策略——随机点测试即可保证全局正确性，提升代码健壮性。
-  - ACTION: 1. 收藏并理解文中3×3核心表及其14种形式的几何来源。2. 运行提供的Python代码，在随机点验证表中所有恒等式。3. 在涉及三角计算的工程代码（如图形学、物理模拟）中，应用此几何直觉进行推导与测试。
-  - TWEET: 三角恒等式不再需要死记硬背。这篇文展示了一个核心复合表，并证明：所有表达式都可归结为14种基于直角三角形边长比的形式，因此验证只需随机点测试一次。对实现数学库的开发者极有价值。
+- [[Sponsor] Finalist](https://www.finalist.works/finalist-36/) (`daringfireball.net`)
+- [Weekly Update 494](https://www.troyhunt.com/weekly-update-494/) (`troyhunt.com`)
+- [No, it doesn't cost Anthropic $5k per Claude Code user](https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)

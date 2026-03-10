@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-03-09T22:41:40Z",
+  "generated_at": "2026-03-10T06:10:31Z",
   "days": [
     {
-      "date": "2026-03-09",
-      "total": 16,
+      "date": "2026-03-10",
+      "total": 1,
       "feeds": [
-        "daringfireball.net (3)",
+        "troyhunt.com (1)"
+      ],
+      "highlights": [
+        "troyhunt.com · Weekly Update 494"
+      ],
+      "key_points": [
+        "Weekly Update 494"
+      ],
+      "key_points_zh": [
+        "Weekly Update 494"
+      ],
+      "key_points_en": [
+        "Weekly Update 494"
+      ],
+      "tweet_drafts": [
+        "Weekly Update 494"
+      ],
+      "sources": [
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 494",
+          "link": "https://www.troyhunt.com/weekly-update-494/"
+        }
+      ],
+      "summary_zh": "2026-03-10 技术日报：Weekly Update 494。",
+      "summary_en": "Daily brief (2026-03-10): Weekly Update 494.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-10 日报】Weekly Update 494。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-10): Weekly Update 494. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-10）\n- Weekly Update 494\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/weekly-update-494/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-10)\n- Weekly Update 494\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/weekly-update-494/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Weekly Update 494。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Weekly Update 494.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-09",
+      "total": 18,
+      "feeds": [
+        "daringfireball.net (4)",
         "devblogs.microsoft.com/oldnewthing (2)",
         "simonwillison.net (2)",
         "aresluna.org (1)",
@@ -13,37 +58,42 @@
         "idiallo.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · [Sponsor] Finalist",
         "johndcook.com · Trig composition table",
         "daringfireball.net · ★ The iPhone 17e",
         "daringfireball.net · MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe 26.4 Beta",
         "pluralistic.net · Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)",
-        "aresluna.org · Fav tech museums",
-        "simonwillison.net · Production query plans without production data"
+        "aresluna.org · Fav tech museums"
       ],
       "key_points": [
+        "[Sponsor] Finalist",
         "本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式",
         "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位",
-        "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮",
-        "亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新"
+        "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮"
       ],
       "key_points_zh": [
+        "[Sponsor] Finalist",
         "本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式",
         "iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位",
-        "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮",
-        "亿万富翁通过财富集中制造系统性政策失败，尤其在AI、基础设施等关键领域缺乏问责，威胁全球安全与创新"
+        "macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮"
       ],
       "key_points_en": [
+        "[Sponsor] Finalist",
         "Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios",
         "The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning",
-        "macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorful gradients spelling 'Mac', sparking user upgrades",
-        "Billionaires' concentrated wealth creates systemic policy failures, especially in critical sectors like AI and infrastructure, lacking accountability and threatening global security and innovation"
+        "macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorful gradients spelling 'Mac', sparking user upgrades"
       ],
       "tweet_drafts": [
+        "[Sponsor] Finalist",
         "三角恒等式不再需要死记硬背。这篇文展示了一个核心复合表，并证明：所有表达式都可归结为14种基于直角三角形边长比的形式，因此验证只需随机点测试一次。对实现数学库的开发者极有价值",
-        "iPhone 17e 来了：性能小升，但 MagSafe 和取消摄像头凸起才是真·升级。你觉得 MagSafe 是入门机的必备功能吗？无凸起设计会回归吗？",
-        "新壁纸已上线！MacOS Tahoe 26.4 Beta 的 Neo 系列用气泡线条和四色渐变拼出 'Mac'，连 Daring Fireball 都推荐升级。你的 Mac 更新了吗？→ https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/"
+        "iPhone 17e 来了：性能小升，但 MagSafe 和取消摄像头凸起才是真·升级。你觉得 MagSafe 是入门机的必备功能吗？无凸起设计会回归吗？"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] Finalist",
+          "link": "https://www.finalist.works/finalist-36/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Trig composition table",
@@ -53,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "The iPhone 17e",
           "link": "https://daringfireball.net/2026/03/the_iphone_17e"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe 26.4 Beta",
-          "link": "https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/"
         }
       ],
-      "summary_zh": "2026-03-09 技术日报：本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮。",
-      "summary_en": "Daily brief (2026-03-09): Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms base",
+      "summary_zh": "2026-03-09 技术日报：[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位。",
+      "summary_en": "Daily brief (2026-03-09): [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions red",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-09 日报】本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮。我把可执行建议整",
-          "en": "AK-RSS Daily (2026-03-09): Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms bas"
+          "zh": "【2026-03-09 日报】[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-09): [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions re"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-09）\n- 本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式\n- iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位\n- macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n- https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-09)\n- Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios\n- The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning\n- macOS Tahoe 26.4 Beta introduces Neo wallpapers for all Macs, featuring bubble-style lines with colorful gradients spelling 'Mac', sparking user upgrades\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n- https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-09）\n- [Sponsor] Finalist\n- 本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式\n- iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.finalist.works/finalist-36/\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-09)\n- [Sponsor] Finalist\n- Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios\n- The iPhone 17e is a classic ‘speed bump’ update: it adds MagSafe and removes the camera bump, addressing the 16e’s biggest flaw while maintaining its entry-level positioning\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.finalist.works/finalist-36/\n- https://www.johndcook.com/blog/2026/03/09/trig-composition-table/\n- https://daringfireball.net/2026/03/the_iphone_17e\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位；macOS Tahoe 26.4 Beta 为所有 Mac 新增 Neo 系列壁纸，采用气泡线条与四色渐变设计，拼出 'Mac' 字样，已引发用户升级热潮。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side ratios; The iPhone"
+          "zh": "今天最值得看的 3 个点：[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式；iPhone 17e 作为典型的‘速度 bumps’更新，核心升级在于加入 MagSafe 并移除摄像头凸起，解决了前代最大痛点，同时保持入门定位。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on right triangle side"
         }
       }
     },
@@ -2075,51 +2120,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：How to know if that job will crush your soul。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: How to know if that job will crush your soul.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-01-09",
-      "total": 1,
-      "feeds": [
-        "anildash.com (1)"
-      ],
-      "highlights": [
-        "anildash.com · How Markdown took over the world"
-      ],
-      "key_points": [
-        "How Markdown took over the world"
-      ],
-      "key_points_zh": [
-        "How Markdown took over the world"
-      ],
-      "key_points_en": [
-        "How Markdown took over the world"
-      ],
-      "tweet_drafts": [
-        "How Markdown took over the world"
-      ],
-      "sources": [
-        {
-          "feed_title": "anildash.com",
-          "title": "How Markdown took over the world",
-          "link": "https://anildash.com/2026/01/09/how-markdown-took-over-the-world/"
-        }
-      ],
-      "summary_zh": "2026-01-09 技术日报：How Markdown took over the world。",
-      "summary_en": "Daily brief (2026-01-09): How Markdown took over the world.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-01-09 日报】How Markdown took over the world。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-01-09): How Markdown took over the world. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-01-09）\n- How Markdown took over the world\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://anildash.com/2026/01/09/how-markdown-took-over-the-world/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-01-09)\n- How Markdown took over the world\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://anildash.com/2026/01/09/how-markdown-took-over-the-world/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：How Markdown took over the world。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How Markdown took over the world.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
