@@ -1,10 +1,13 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-10 22:40:54 UTC
+Generated at: 2026-03-11 06:11:04 UTC
 
-- [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything) (`simonwillison.net`)
-  - TLDR: 利用AI编码代理自动化简单但耗时的重构任务，主动避免技术债务，从而提升代码质量与开发效率。
-  - WHAT: 文章探讨如何将AI编码代理（如Gemini Jules、Claude Code）应用于重构工作，解决那些概念简单但耗时、常因时间压力被推迟的任务，从而避免技术债务累积。
-  - WHY: 技术债务会拖慢开发速度、增加维护成本。手动重构常被搁置，而AI代理能以低成本高效完成这些任务，使“避免债务”成为可行选择，而非理想化目标。
-  - ACTION: 立即选择一个已知的重构任务（如拆分大文件、统一命名），使用异步AI代理（推荐Gemini Jules或Claude Code）在分支中自动执行，评估其效果与时间节省。
-  - TWEET: 用AI写代码不一定会降质——关键在用它做对的事。让AI代理处理耗时重构，避免技术债务，团队专注核心功能。选择权在你。
+- [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) (`krebsonsecurity.com`)
+- [★ The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo) (`daringfireball.net`)
+- [The Server Older than my Kids!](https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed) (`idiallo.com`)
+- [Every minute you aren’t running 69 agents, you are falling behind](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html) (`geohot.github.io`)
+  - TLDR: 本文批判AI领域的焦虑营销与炒作，指出AI本质是搜索与优化的延续，呼吁技术人远离零和博弈，专注创造真实价值。
+  - WHAT: 文章驳斥了“不使用AI即落后”的恐慌叙事，澄清AI并非魔法，而是长期技术进步的延续。它指出，真正的威胁来自从事“食利”工作（创造复杂性而非价值）的人，大公司正借AI名义 consolidating 这类岗位。
+  - WHY: 技术社区易受社交媒体焦虑影响，盲目追逐工具而忽视本质。本文提供理性视角，帮助开发者识别自身工作是否创造净价值，避免在虚假竞赛中内耗，从而在行业变革中定位自身。
+  - ACTION: 1. 评估当前工作：你创造的价值是否大于消耗？2. 学习AI基础原理（如搜索、优化），而非盲目套用流行框架。3. 警惕任何制造比较焦虑的言论，关注自身价值创造路径。
+  - TWEET: AI恐慌是社交媒体制造的焦虑陷阱。技术人应冷静：AI是工具，不是救世主。你的工作是在创造价值，还是仅仅增加复杂性？后者将被淘汰。专注前者，世界不是红皇后竞赛。
