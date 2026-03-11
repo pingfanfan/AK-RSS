@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-03-11T11:42:09Z",
+  "generated_at": "2026-03-11T12:05:29Z",
   "days": [
     {
       "date": "2026-03-11",
-      "total": 5,
+      "total": 6,
       "feeds": [
+        "idiallo.com (2)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
         "krebsonsecurity.com (1)",
         "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · Where did you think the training data was coming from?",
         "dfarq.homeip.net · Amiga 600: The Amiga no one wanted",
         "nesbitt.io · git-pkgs/actions",
         "utcc.utoronto.ca/~cks · The story of one of my worst programming failures",
@@ -19,29 +20,34 @@
         "krebsonsecurity.com · Microsoft Patch Tuesday, March 2026 Edition"
       ],
       "key_points": [
+        "Where did you think the training data was coming from?",
         "Amiga 600: The Amiga no one wanted",
         "git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证",
-        "The story of one of my worst programming failures",
-        "The Server Older than my Kids!"
-      ],
-      "key_points_zh": [
-        "Amiga 600: The Amiga no one wanted",
-        "git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证",
-        "The story of one of my worst programming failures",
-        "The Server Older than my Kids!"
-      ],
-      "key_points_en": [
-        "Amiga 600: The Amiga no one wanted",
-        "git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML",
-        "The story of one of my worst programming failures",
-        "The Server Older than my Kids!"
-      ],
-      "tweet_drafts": [
-        "Amiga 600: The Amiga no one wanted",
-        "git-pkgs/actions 上线：用 GitHub Actions 自动化依赖安全与合规检查。setup + diff + vulns + licenses，PR 集成超简单。https://nesbitt.io/2026/03/11/git-pkgs-actions.html",
         "The story of one of my worst programming failures"
       ],
+      "key_points_zh": [
+        "Where did you think the training data was coming from?",
+        "Amiga 600: The Amiga no one wanted",
+        "git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证",
+        "The story of one of my worst programming failures"
+      ],
+      "key_points_en": [
+        "Where did you think the training data was coming from?",
+        "Amiga 600: The Amiga no one wanted",
+        "git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML",
+        "The story of one of my worst programming failures"
+      ],
+      "tweet_drafts": [
+        "Where did you think the training data was coming from?",
+        "Amiga 600: The Amiga no one wanted",
+        "git-pkgs/actions 上线：用 GitHub Actions 自动化依赖安全与合规检查。setup + diff + vulns + licenses，PR 集成超简单。https://nesbitt.io/2026/03/11/git-pkgs-actions.html"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Where did you think the training data was coming from?",
+          "link": "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Amiga 600: The Amiga no one wanted",
@@ -51,27 +57,22 @@
           "feed_title": "nesbitt.io",
           "title": "git-pkgs/actions: GitHub Actions Integration",
           "link": "https://nesbitt.io/2026/03/11/git-pkgs-actions.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "The story of one of my worst programming failures",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure"
         }
       ],
-      "summary_zh": "2026-03-11 技术日报：Amiga 600: The Amiga no one wanted；git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证；The story of one of my worst programming failures。",
-      "summary_en": "Daily brief (2026-03-11): Amiga 600: The Amiga no one wanted; git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML; The story of one of my worst programming failures.",
+      "summary_zh": "2026-03-11 技术日报：Where did you think the training data was coming from?；Amiga 600: The Amiga no one wanted；git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证。",
+      "summary_en": "Daily brief (2026-03-11): Where did you think the training data was coming from?; Amiga 600: The Amiga no one wanted; git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-11 日报】Amiga 600: The Amiga no one wanted；git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证；The story of one of my worst programming failures。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-11): Amiga 600: The Amiga no one wanted; git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML; The story of one of my worst programming failures. Ac"
+          "zh": "【2026-03-11 日报】Where did you think the training data was coming from?；Amiga 600: The Amiga no one wanted；git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-11): Where did you think the training data was coming from?; Amiga 600: The Amiga no one wanted; git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAM"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-11）\n- Amiga 600: The Amiga no one wanted\n- git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证\n- The story of one of my worst programming failures\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=amiga-600-the-amiga-no-one-wanted\n- https://nesbitt.io/2026/03/11/git-pkgs-actions.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-11)\n- Amiga 600: The Amiga no one wanted\n- git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML\n- The story of one of my worst programming failures\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=amiga-600-the-amiga-no-one-wanted\n- https://nesbitt.io/2026/03/11/git-pkgs-actions.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-11）\n- Where did you think the training data was coming from?\n- Amiga 600: The Amiga no one wanted\n- git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed\n- https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=amiga-600-the-amiga-no-one-wanted\n- https://nesbitt.io/2026/03/11/git-pkgs-actions.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-11)\n- Where did you think the training data was coming from?\n- Amiga 600: The Amiga no one wanted\n- git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed\n- https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=amiga-600-the-amiga-no-one-wanted\n- https://nesbitt.io/2026/03/11/git-pkgs-actions.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Amiga 600: The Amiga no one wanted；git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证；The story of one of my worst programming failures。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Amiga 600: The Amiga no one wanted; git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML; The story of one of my worst programming failures.\nI turned them into an action-ready daily brief"
+          "zh": "今天最值得看的 3 个点：Where did you think the training data was coming from?；Amiga 600: The Amiga no one wanted；git-pkgs推出官方GitHub Actions，三行YAML即可在PR中自动展示依赖变更、扫描漏洞和检查许可证。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Where did you think the training data was coming from?; Amiga 600: The Amiga no one wanted; git-pkgs launches official GitHub Actions: automate dependency diffs, vulnerability scans, and license checks in PRs with just 3 lines of YAML.\nI turned them into an action-ready daily b"
         }
       }
     },
