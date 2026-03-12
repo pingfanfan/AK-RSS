@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-03-12T09:12:06Z",
+  "generated_at": "2026-03-12T09:44:19Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "daringfireball.net (1)",
+        "miguelgrinberg.com (1)",
         "susam.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "miguelgrinberg.com · Introduction to SQLAlchemy 2 In Practice",
         "utcc.utoronto.ca/~cks · UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "daringfireball.net · Jason Snell Is on Jeopardy Next Week",
         "susam.net · Git Checkout, Reset and Restore"
       ],
       "key_points": [
+        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
         "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week",
         "Git Checkout, Reset and Restore"
       ],
       "key_points_zh": [
+        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
         "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week",
         "Git Checkout, Reset and Restore"
       ],
       "key_points_en": [
+        "Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options",
         "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week",
         "Git Checkout, Reset and Restore"
       ],
       "tweet_drafts": [
+        "SQLAlchemy 2.0实战指南免费连载开始！作者将分8周发布全书，涵盖核心概念与迁移。关注博客或直接购买支持",
         "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "Jason Snell Is on Jeopardy Next Week",
-        "Git Checkout, Reset and Restore"
+        "Jason Snell Is on Jeopardy Next Week"
       ],
       "sources": [
+        {
+          "feed_title": "miguelgrinberg.com",
+          "title": "Introduction to SQLAlchemy 2 In Practice",
+          "link": "https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
@@ -44,27 +54,22 @@
           "feed_title": "daringfireball.net",
           "title": "Jason Snell Is on Jeopardy Next Week",
           "link": "https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/"
-        },
-        {
-          "feed_title": "susam.net",
-          "title": "Git Checkout, Reset and Restore",
-          "link": "https://susam.net/git-checkout-reset-restore.html"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。",
-      "summary_en": "Daily brief (2026-03-12): UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.",
+      "summary_zh": "2026-03-12 技术日报：作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week。",
+      "summary_en": "Daily brief (2026-03-12): Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options; UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04)",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-12 日报】作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options; UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- 作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options; UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next We"
         }
       }
     },
