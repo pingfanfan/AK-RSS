@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-12T15:15:24Z",
+  "generated_at": "2026-03-12T15:46:52Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 10,
+      "total": 11,
       "feeds": [
+        "daringfireball.net (2)",
         "construction-physics.com (1)",
-        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "evanhahn.com (1)",
         "miguelgrinberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Software Proprioception",
         "shkspr.mobi · Historic Energy Price Cap Data (FOI success!)",
         "construction-physics.com · The Elusive Cost Savings of the Prefabricated Home",
         "dfarq.homeip.net · The 1989 proposal that led to the World Wide Web",
         "nesbitt.io · Reviewing ENISA’s Package Manager Advisory",
-        "miguelgrinberg.com · Introduction to SQLAlchemy 2 In Practice",
-        "utcc.utoronto.ca/~cks · UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
+        "miguelgrinberg.com · Introduction to SQLAlchemy 2 In Practice"
       ],
       "key_points": [
+        "让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷",
         "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享",
         "The Elusive Cost Savings of the Prefabricated Home",
-        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网",
-        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷"
+        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网"
       ],
       "key_points_zh": [
+        "让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷",
         "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享",
         "The Elusive Cost Savings of the Prefabricated Home",
-        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网",
-        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷"
+        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网"
       ],
       "key_points_en": [
+        "Software aware of its hardware; 'point to, don't describe' to reduce cognitive load",
         "Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced",
         "The Elusive Cost Savings of the Prefabricated Home",
-        "Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web",
-        "EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed"
+        "Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web"
       ],
       "tweet_drafts": [
+        "你的软件知道它在什么设备上运行吗？试试“指向而非描述”原则：用硬件感知（如屏幕尺寸、输入方式）和视觉引导，让交互瞬间明了。提升体验，减少说明",
         "开发者如何获取政府历史数据？案例：向英国能源监管机构Ofgem发送FOI邮件，一个月后收到原始Excel，但数据有13位小数、日期格式不统一。作者用R清洗后发布合规CSV（OGL 3.0）。实践要点：1.善用FOI 2.掌握数据清洗 3.确认开源许可。下载：shkspr.mobi/blog/2026/03/",
-        "The Elusive Cost Savings of the Prefabricated Home",
-        "万维网诞生于一份1989年的提案。Tim Berners-Lee用超文本、HTTP和HTML打破CERN的信息孤岛，奠定现代Web基础。技术创新的本质：用简单方案解决复杂问题。阅读原文，思考今日挑战"
+        "The Elusive Cost Savings of the Prefabricated Home"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Software Proprioception",
+          "link": "https://unsung.aresluna.org/software-proprioception/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "FOI Success: Historic UK Energy Price Cap Data",
@@ -53,27 +58,22 @@
           "feed_title": "construction-physics.com",
           "title": "The Elusive Cost Savings of the Prefabricated Home",
           "link": "https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "The 1989 proposal that led to the World Wide Web",
-          "link": "https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home；Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网。",
-      "summary_en": "Daily brief (2026-03-12): Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home; Tim Berners-Lee at CERN proposed a distributed information s",
+      "summary_zh": "2026-03-12 技术日报：让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷；作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home。",
+      "summary_en": "Daily brief (2026-03-12): Software aware of its hardware; 'point to, don't describe' to reduce cognitive load; Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home；Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home; Tim Berners-Lee at CERN proposed a distributed information"
+          "zh": "【2026-03-12 日报】让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷；作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): Software aware of its hardware; 'point to, don't describe' to reduce cognitive load; Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings o"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- 作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享\n- The Elusive Cost Savings of the Prefabricated Home\n- Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced\n- The Elusive Cost Savings of the Prefabricated Home\n- Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- 让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷\n- 作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享\n- The Elusive Cost Savings of the Prefabricated Home\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://unsung.aresluna.org/software-proprioception/\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- Software aware of its hardware; 'point to, don't describe' to reduce cognitive load\n- Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced\n- The Elusive Cost Savings of the Prefabricated Home\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://unsung.aresluna.org/software-proprioception/\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home；Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home; Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to"
+          "zh": "今天最值得看的 3 个点：让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷；作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Software aware of its hardware; 'point to, don't describe' to reduce cognitive load; Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home.\nI turned them into"
         }
       }
     },
