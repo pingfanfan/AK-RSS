@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-03-12T10:11:08Z",
+  "generated_at": "2026-03-12T10:44:19Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "daringfireball.net (1)",
         "miguelgrinberg.com (1)",
+        "nesbitt.io (1)",
         "susam.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Reviewing ENISA’s Package Manager Advisory",
         "miguelgrinberg.com · Introduction to SQLAlchemy 2 In Practice",
         "utcc.utoronto.ca/~cks · UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "daringfireball.net · Jason Snell Is on Jeopardy Next Week",
         "susam.net · Git Checkout, Reset and Restore"
       ],
       "key_points": [
+        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷",
         "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "Jason Snell Is on Jeopardy Next Week",
-        "Git Checkout, Reset and Restore"
-      ],
-      "key_points_zh": [
-        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "Jason Snell Is on Jeopardy Next Week",
-        "Git Checkout, Reset and Restore"
-      ],
-      "key_points_en": [
-        "Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "Jason Snell Is on Jeopardy Next Week",
-        "Git Checkout, Reset and Restore"
-      ],
-      "tweet_drafts": [
-        "SQLAlchemy 2.0实战指南免费连载开始！作者将分8周发布全书，涵盖核心概念与迁移。关注博客或直接购买支持",
         "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week"
       ],
+      "key_points_zh": [
+        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷",
+        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
+        "Jason Snell Is on Jeopardy Next Week"
+      ],
+      "key_points_en": [
+        "EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed",
+        "Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options",
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
+        "Jason Snell Is on Jeopardy Next Week"
+      ],
+      "tweet_drafts": [
+        "欧盟官方包管理器安全指南来了。亮点：区分安装代码与可达代码，避免修复无用依赖。槽点：仍推荐用星标/下载量评估包质量，这指标极易操纵。开发者更应看‘被依赖数’。全文分析：",
+        "SQLAlchemy 2.0实战指南免费连载开始！作者将分8周发布全书，涵盖核心概念与迁移。关注博客或直接购买支持",
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Reviewing ENISA's Package Manager Advisory",
+          "link": "https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html"
+        },
         {
           "feed_title": "miguelgrinberg.com",
           "title": "Introduction to SQLAlchemy 2 In Practice",
@@ -49,33 +56,28 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Jason Snell Is on Jeopardy Next Week",
-          "link": "https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week。",
-      "summary_en": "Daily brief (2026-03-12): Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options; UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04)",
+      "summary_zh": "2026-03-12 技术日报：欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers。",
+      "summary_en": "Daily brief (2026-03-12): EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed; Author Miguel Grinberg is serializing all 8 ch",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options; UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04"
+          "zh": "【2026-03-12 日报】欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed; Author Miguel Grinberg is serializing all 8 c"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- 作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- 欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷\n- 作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed\n- Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options; UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next We"
+          "zh": "今天最值得看的 3 个点：欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed; Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' boo"
         }
       }
     },
     {
       "date": "2026-03-11",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "idiallo.com (2)",
         "krebsonsecurity.com (2)",
@@ -85,37 +87,42 @@
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Are LLMs not getting better?",
         "simonwillison.net · Sorting algorithms",
         "joanwestenberg.com · Members Only: We desperately need a Reality Literacy",
         "pluralistic.net · Pluralistic: AI \"journalists\" prove that media bosses don't give a shit (11 Mar 2026)",
         "daringfireball.net · From the DF Archive: ‘And Oranges’",
-        "dwarkesh.com · I’m glad the Anthropic fight is happening now",
-        "krebsonsecurity.com · Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker"
+        "dwarkesh.com · I’m glad the Anthropic fight is happening now"
       ],
       "key_points": [
+        "核心发现：在衡量实际软件工程能力的SWE-bench基准上，顶级LLM的性能近年出现停滞，提示单纯扩大规模可能遇到瓶颈",
         "作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能",
         "在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策",
-        "媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例",
-        "From the DF Archive: ‘And Oranges’"
+        "媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例"
       ],
       "key_points_zh": [
+        "核心发现：在衡量实际软件工程能力的SWE-bench基准上，顶级LLM的性能近年出现停滞，提示单纯扩大规模可能遇到瓶颈",
         "作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能",
         "在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策",
-        "媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例",
-        "From the DF Archive: ‘And Oranges’"
+        "媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例"
       ],
       "key_points_en": [
+        "Key finding: Top LLMs show performance stagnation on SWE-bench, a benchmark measuring practical software engineering ability, suggesting scaling alone may face diminishing returns",
         "Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature",
         "Developers in AI and security must cultivate reality literacy to discern truth from misinformation and avoid flawed decision-making",
-        "Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse",
-        "From the DF Archive: ‘And Oranges’"
+        "Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse"
       ],
       "tweet_drafts": [
+        "SWE-bench高分停滞揭示LLM工程能力瓶颈？文章分析可能因数据饱和与评估偏差。对开发者：别只看排行榜，场景实测才是王道。AI产品选型需更谨慎",
         "刚看到一个超酷的排序算法动画，作者用Claude Artifacts做的！最赞的是能同时跑所有算法对比，Timsort果然快。你们觉得AI工具会怎么改变算法教学？",
-        "我们迫切需要现实素养！在信息爆炸时代，开发者必须能辨别真伪，否则AI模型会学坏，安全防线会失守。从今天起，对每个数据源提问：这真实吗？ #技术趋势",
-        "“模态对话框大杂烩”：当媒体老板把AI当廉价劳动力，连基本用户体验（如自动播放）都懒得管，就证明他们根本不在乎读者，只在乎流量变现。技术人，你的代码在助纣为虐吗？"
+        "我们迫切需要现实素养！在信息爆炸时代，开发者必须能辨别真伪，否则AI模型会学坏，安全防线会失守。从今天起，对每个数据源提问：这真实吗？ #技术趋势"
       ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Are LLMs not getting better?",
+          "link": "https://entropicthoughts.com/no-swe-bench-improvement"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Sorting Algorithms Visualized: Interactive Demos Built with Claude Artifacts",
@@ -125,27 +132,22 @@
           "feed_title": "joanwestenberg.com",
           "title": "Members Only: We Desperately Need a Reality Literacy",
           "link": "https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "AI 'journalists' prove that media bosses don't give a shit",
-          "link": "https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/"
         }
       ],
-      "summary_zh": "2026-03-11 技术日报：作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策；媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例。",
-      "summary_en": "Daily brief (2026-03-11): Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature; Developers in AI and security must cultivate reality literacy to discern truth fro",
+      "summary_zh": "2026-03-11 技术日报：核心发现：在衡量实际软件工程能力的SWE-bench基准上，顶级LLM的性能近年出现停滞，提示单纯扩大规模可能遇到瓶颈；作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策。",
+      "summary_en": "Daily brief (2026-03-11): Key finding: Top LLMs show performance stagnation on SWE-bench, a benchmark measuring practical software engineering ability, suggesting scaling alone may face diminishing returns; Author quickly built interactive animations for 7 sor",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-11 日报】作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策；媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-11): Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature; Developers in AI and security must cultivate reality literacy to discern truth fr"
+          "zh": "【2026-03-11 日报】核心发现：在衡量实际软件工程能力的SWE-bench基准上，顶级LLM的性能近年出现停滞，提示单纯扩大规模可能遇到瓶颈；作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-11): Key finding: Top LLMs show performance stagnation on SWE-bench, a benchmark measuring practical software engineering ability, suggesting scaling alone may face diminishing returns; Author quickly built interactive animations for 7 so"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-11）\n- 作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能\n- 在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策\n- 媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything\n- https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/\n- https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-11)\n- Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature\n- Developers in AI and security must cultivate reality literacy to discern truth from misinformation and avoid flawed decision-making\n- Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything\n- https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/\n- https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-11）\n- 核心发现：在衡量实际软件工程能力的SWE-bench基准上，顶级LLM的性能近年出现停滞，提示单纯扩大规模可能遇到瓶颈\n- 作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能\n- 在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/no-swe-bench-improvement\n- https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything\n- https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-11)\n- Key finding: Top LLMs show performance stagnation on SWE-bench, a benchmark measuring practical software engineering ability, suggesting scaling alone may face diminishing returns\n- Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature\n- Developers in AI and security must cultivate reality literacy to discern truth from misinformation and avoid flawed decision-making\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/no-swe-bench-improvement\n- https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything\n- https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策；媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature; Developers in AI and security must cultivate reality literacy to discern truth from misinformation and avoid flawed decision-m"
+          "zh": "今天最值得看的 3 个点：核心发现：在衡量实际软件工程能力的SWE-bench基准上，顶级LLM的性能近年出现停滞，提示单纯扩大规模可能遇到瓶颈；作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Key finding: Top LLMs show performance stagnation on SWE-bench, a benchmark measuring practical software engineering ability, suggesting scaling alone may face diminishing returns; Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, addi"
         }
       }
     },
