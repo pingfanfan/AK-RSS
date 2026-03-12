@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-12T12:03:33Z",
+  "generated_at": "2026-03-12T12:45:52Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 7,
+      "total": 9,
       "feeds": [
+        "construction-physics.com (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "miguelgrinberg.com (1)",
-        "nesbitt.io (1)",
-        "susam.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Historic Energy Price Cap Data (FOI success!)",
+        "construction-physics.com · The Elusive Cost Savings of the Prefabricated Home",
         "dfarq.homeip.net · The 1989 proposal that led to the World Wide Web",
         "nesbitt.io · Reviewing ENISA’s Package Manager Advisory",
         "miguelgrinberg.com · Introduction to SQLAlchemy 2 In Practice",
-        "utcc.utoronto.ca/~cks · UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "daringfireball.net · Jason Snell Is on Jeopardy Next Week",
-        "susam.net · Git Checkout, Reset and Restore"
+        "utcc.utoronto.ca/~cks · UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
       ],
       "key_points": [
+        "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享",
+        "The Elusive Cost Savings of the Prefabricated Home",
         "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网",
-        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷",
-        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
+        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷"
       ],
       "key_points_zh": [
+        "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享",
+        "The Elusive Cost Savings of the Prefabricated Home",
         "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网",
-        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷",
-        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
+        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷"
       ],
       "key_points_en": [
+        "Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced",
+        "The Elusive Cost Savings of the Prefabricated Home",
         "Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web",
-        "EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed",
-        "Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
+        "EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed"
       ],
       "tweet_drafts": [
-        "万维网诞生于一份1989年的提案。Tim Berners-Lee用超文本、HTTP和HTML打破CERN的信息孤岛，奠定现代Web基础。技术创新的本质：用简单方案解决复杂问题。阅读原文，思考今日挑战",
-        "欧盟官方包管理器安全指南来了。亮点：区分安装代码与可达代码，避免修复无用依赖。槽点：仍推荐用星标/下载量评估包质量，这指标极易操纵。开发者更应看‘被依赖数’。全文分析：",
-        "SQLAlchemy 2.0实战指南免费连载开始！作者将分8周发布全书，涵盖核心概念与迁移。关注博客或直接购买支持"
+        "开发者如何获取政府历史数据？案例：向英国能源监管机构Ofgem发送FOI邮件，一个月后收到原始Excel，但数据有13位小数、日期格式不统一。作者用R清洗后发布合规CSV（OGL 3.0）。实践要点：1.善用FOI 2.掌握数据清洗 3.确认开源许可。下载：shkspr.mobi/blog/2026/03/",
+        "The Elusive Cost Savings of the Prefabricated Home",
+        "万维网诞生于一份1989年的提案。Tim Berners-Lee用超文本、HTTP和HTML打破CERN的信息孤岛，奠定现代Web基础。技术创新的本质：用简单方案解决复杂问题。阅读原文，思考今日挑战"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "FOI Success: Historic UK Energy Price Cap Data",
+          "link": "https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/"
+        },
+        {
+          "feed_title": "construction-physics.com",
+          "title": "The Elusive Cost Savings of the Prefabricated Home",
+          "link": "https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "The 1989 proposal that led to the World Wide Web",
           "link": "https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Reviewing ENISA's Package Manager Advisory",
-          "link": "https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html"
-        },
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "Introduction to SQLAlchemy 2 In Practice",
-          "link": "https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网；欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买。",
-      "summary_en": "Daily brief (2026-03-12): Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web; EU's cybersecurity agency released a secure package manager guide",
+      "summary_zh": "2026-03-12 技术日报：作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home；Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网。",
+      "summary_en": "Daily brief (2026-03-12): Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home; Tim Berners-Lee at CERN proposed a distributed information s",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网；欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web; EU's cybersecurity agency released a secure package manager guid"
+          "zh": "【2026-03-12 日报】作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home；Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home; Tim Berners-Lee at CERN proposed a distributed information"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网\n- 欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷\n- 作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web\n- EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed\n- Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- 作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享\n- The Elusive Cost Savings of the Prefabricated Home\n- Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced\n- The Elusive Cost Savings of the Prefabricated Home\n- Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网；欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web; EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analy"
+          "zh": "今天最值得看的 3 个点：作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home；Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home; Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to"
         }
       }
     },
