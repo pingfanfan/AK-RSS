@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-12T16:18:49Z",
+  "generated_at": "2026-03-12T16:47:25Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 11,
+      "total": 13,
       "feeds": [
         "daringfireball.net (2)",
         "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "evanhahn.com (1)",
-        "miguelgrinberg.com (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Inverse cosine",
+        "simonwillison.net · Quoting Les Orchard",
         "daringfireball.net · Software Proprioception",
         "shkspr.mobi · Historic Energy Price Cap Data (FOI success!)",
         "construction-physics.com · The Elusive Cost Savings of the Prefabricated Home",
-        "dfarq.homeip.net · The 1989 proposal that led to the World Wide Web",
-        "nesbitt.io · Reviewing ENISA’s Package Manager Advisory",
-        "miguelgrinberg.com · Introduction to SQLAlchemy 2 In Practice"
+        "dfarq.homeip.net · The 1989 proposal that led to the World Wide Web"
       ],
       "key_points": [
+        "Inverse cosine",
+        "AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付",
         "让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷",
-        "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享",
-        "The Elusive Cost Savings of the Prefabricated Home",
-        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网"
+        "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享"
       ],
       "key_points_zh": [
+        "Inverse cosine",
+        "AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付",
         "让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷",
-        "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享",
-        "The Elusive Cost Savings of the Prefabricated Home",
-        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网"
+        "作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享"
       ],
       "key_points_en": [
+        "Inverse cosine",
+        "AI-assisted programming is exposing a hidden divide: craft-focused devs vs. efficiency-driven builders",
         "Software aware of its hardware; 'point to, don't describe' to reduce cognitive load",
-        "Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced",
-        "The Elusive Cost Savings of the Prefabricated Home",
-        "Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web"
+        "Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced"
       ],
       "tweet_drafts": [
-        "你的软件知道它在什么设备上运行吗？试试“指向而非描述”原则：用硬件感知（如屏幕尺寸、输入方式）和视觉引导，让交互瞬间明了。提升体验，减少说明",
-        "开发者如何获取政府历史数据？案例：向英国能源监管机构Ofgem发送FOI邮件，一个月后收到原始Excel，但数据有13位小数、日期格式不统一。作者用R清洗后发布合规CSV（OGL 3.0）。实践要点：1.善用FOI 2.掌握数据清洗 3.确认开源许可。下载：shkspr.mobi/blog/2026/03/",
-        "The Elusive Cost Savings of the Prefabricated Home"
+        "Inverse cosine",
+        "AI辅助编程暴露了开发者内部分歧：工艺派 vs. 效率派。你的选择是什么？#AI编程 #开发者分歧",
+        "你的软件知道它在什么设备上运行吗？试试“指向而非描述”原则：用硬件感知（如屏幕尺寸、输入方式）和视觉引导，让交互瞬间明了。提升体验，减少说明"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Inverse cosine",
+          "link": "https://www.johndcook.com/blog/2026/03/12/arccos/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "How AI Reveals the Developer Divide",
+          "link": "https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Software Proprioception",
           "link": "https://unsung.aresluna.org/software-proprioception/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "FOI Success: Historic UK Energy Price Cap Data",
-          "link": "https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/"
-        },
-        {
-          "feed_title": "construction-physics.com",
-          "title": "The Elusive Cost Savings of the Prefabricated Home",
-          "link": "https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷；作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home。",
-      "summary_en": "Daily brief (2026-03-12): Software aware of its hardware; 'point to, don't describe' to reduce cognitive load; Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of",
+      "summary_zh": "2026-03-12 技术日报：Inverse cosine；AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付；让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷。",
+      "summary_en": "Daily brief (2026-03-12): Inverse cosine; AI-assisted programming is exposing a hidden divide: craft-focused devs vs. efficiency-driven builders; Software aware of its hardware; 'point to, don't describe' to reduce cognitive load.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷；作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): Software aware of its hardware; 'point to, don't describe' to reduce cognitive load; Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings o"
+          "zh": "【2026-03-12 日报】Inverse cosine；AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付；让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): Inverse cosine; AI-assisted programming is exposing a hidden divide: craft-focused devs vs. efficiency-driven builders; Software aware of its hardware; 'point to, don't describe' to reduce cognitive load. Actionable takeaways include"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- 让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷\n- 作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享\n- The Elusive Cost Savings of the Prefabricated Home\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://unsung.aresluna.org/software-proprioception/\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- Software aware of its hardware; 'point to, don't describe' to reduce cognitive load\n- Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced\n- The Elusive Cost Savings of the Prefabricated Home\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://unsung.aresluna.org/software-proprioception/\n- https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/\n- https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- Inverse cosine\n- AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付\n- 让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/12/arccos/\n- https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything\n- https://unsung.aresluna.org/software-proprioception/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- Inverse cosine\n- AI-assisted programming is exposing a hidden divide: craft-focused devs vs. efficiency-driven builders\n- Software aware of its hardware; 'point to, don't describe' to reduce cognitive load\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/12/arccos/\n- https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything\n- https://unsung.aresluna.org/software-proprioception/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷；作者通过信息自由请求从Ofgem获取完整历史电价数据，发现原始数据格式混乱，已用R语言清理并开源分享；The Elusive Cost Savings of the Prefabricated Home。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Software aware of its hardware; 'point to, don't describe' to reduce cognitive load; Author obtained complete historical energy price cap data via FOI, found raw data messy, cleaned with R and open-sourced; The Elusive Cost Savings of the Prefabricated Home.\nI turned them into"
+          "zh": "今天最值得看的 3 个点：Inverse cosine；AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付；让软件感知自身硬件特性，采用“指向而非描述”原则，显著降低用户认知负荷。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Inverse cosine; AI-assisted programming is exposing a hidden divide: craft-focused devs vs. efficiency-driven builders; Software aware of its hardware; 'point to, don't describe' to reduce cognitive load.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
