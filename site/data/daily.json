@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-03-12T11:09:56Z",
+  "generated_at": "2026-03-12T11:40:38Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 5,
+      "total": 7,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
+        "dynomight.net (1)",
         "miguelgrinberg.com (1)",
         "nesbitt.io (1)",
-        "susam.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "susam.net (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · The 1989 proposal that led to the World Wide Web",
         "nesbitt.io · Reviewing ENISA’s Package Manager Advisory",
         "miguelgrinberg.com · Introduction to SQLAlchemy 2 In Practice",
         "utcc.utoronto.ca/~cks · UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
@@ -19,29 +21,34 @@
         "susam.net · Git Checkout, Reset and Restore"
       ],
       "key_points": [
+        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网",
         "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷",
         "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "Jason Snell Is on Jeopardy Next Week"
-      ],
-      "key_points_zh": [
-        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷",
-        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "Jason Snell Is on Jeopardy Next Week"
-      ],
-      "key_points_en": [
-        "EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed",
-        "Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options",
-        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-        "Jason Snell Is on Jeopardy Next Week"
-      ],
-      "tweet_drafts": [
-        "欧盟官方包管理器安全指南来了。亮点：区分安装代码与可达代码，避免修复无用依赖。槽点：仍推荐用星标/下载量评估包质量，这指标极易操纵。开发者更应看‘被依赖数’。全文分析：",
-        "SQLAlchemy 2.0实战指南免费连载开始！作者将分8周发布全书，涵盖核心概念与迁移。关注博客或直接购买支持",
         "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
       ],
+      "key_points_zh": [
+        "Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网",
+        "欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷",
+        "作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买",
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
+      ],
+      "key_points_en": [
+        "Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web",
+        "EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed",
+        "Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options",
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers"
+      ],
+      "tweet_drafts": [
+        "万维网诞生于一份1989年的提案。Tim Berners-Lee用超文本、HTTP和HTML打破CERN的信息孤岛，奠定现代Web基础。技术创新的本质：用简单方案解决复杂问题。阅读原文，思考今日挑战",
+        "欧盟官方包管理器安全指南来了。亮点：区分安装代码与可达代码，避免修复无用依赖。槽点：仍推荐用星标/下载量评估包质量，这指标极易操纵。开发者更应看‘被依赖数’。全文分析：",
+        "SQLAlchemy 2.0实战指南免费连载开始！作者将分8周发布全书，涵盖核心概念与迁移。关注博客或直接购买支持"
+      ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "The 1989 proposal that led to the World Wide Web",
+          "link": "https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Reviewing ENISA's Package Manager Advisory",
@@ -51,27 +58,22 @@
           "feed_title": "miguelgrinberg.com",
           "title": "Introduction to SQLAlchemy 2 In Practice",
           "link": "https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers。",
-      "summary_en": "Daily brief (2026-03-12): EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed; Author Miguel Grinberg is serializing all 8 ch",
+      "summary_zh": "2026-03-12 技术日报：Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网；欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买。",
+      "summary_en": "Daily brief (2026-03-12): Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web; EU's cybersecurity agency released a secure package manager guide",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed; Author Miguel Grinberg is serializing all 8 c"
+          "zh": "【2026-03-12 日报】Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网；欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web; EU's cybersecurity agency released a secure package manager guid"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- 欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷\n- 作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed\n- Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网\n- 欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷\n- 作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web\n- EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed\n- Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' book for free, covering ORM core and best practices, with paid ebook/print options\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-1989-proposal-that-led-to-the-world-wide-web/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-1989-proposal-that-led-to-the-world-wide-web\n- https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html\n- https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买；UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analysis are valuable, but recommendations on package selection metrics are flawed; Author Miguel Grinberg is serializing all 8 chapters of his 'SQLAlchemy 2 In Practice' boo"
+          "zh": "今天最值得看的 3 个点：Tim Berners-Lee在CERN为解决信息孤岛问题，提出基于超文本、HTTP和HTML的分布式信息系统提案，直接催生了万维网；欧盟网络安全局发布包管理器安全指南，其风险分类与可达性分析框架具有参考价值，但包选择阶段的流行度指标建议存在明显缺陷；作者Miguel Grinberg将免费连载其SQLAlchemy 2书籍全部8章，涵盖ORM核心与最佳实践，同时提供电子/纸质版购买。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tim Berners-Lee at CERN proposed a distributed information system based on hypertext, HTTP, and HTML to solve information silos, directly leading to the World Wide Web; EU's cybersecurity agency released a secure package manager guide. Its threat taxonomy and reachability analy"
         }
       }
     },
