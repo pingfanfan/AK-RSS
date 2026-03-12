@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-12T19:15:54Z",
+  "generated_at": "2026-03-12T19:43:55Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "daringfireball.net (3)",
+        "simonwillison.net (2)",
         "beej.us (1)",
         "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
-        "dynomight.net (1)",
-        "evanhahn.com (1)"
+        "dynomight.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Coding After Coders: The End of Computer Programming as We Know It",
         "daringfireball.net · MacBook Neo Teardown",
         "jeffgeerling.com · Can the MacBook Neo replace my M4 Air?",
         "johndcook.com · Inverse cosine",
         "simonwillison.net · Quoting Les Orchard",
-        "daringfireball.net · Software Proprioception",
-        "shkspr.mobi · Historic Energy Price Cap Data (FOI success!)"
+        "daringfireball.net · Software Proprioception"
       ],
       "key_points": [
+        "AI辅助编程正在重塑开发工作流，但开发者可通过自动化测试验证代码，这是区别于律师等职业的独特优势。行业整体乐观，但需警惕创意乐趣的流失与 corporate 压力",
         "MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简",
         "对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势",
-        "Inverse cosine",
-        "AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付"
-      ],
-      "key_points_zh": [
-        "MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简",
-        "对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势",
-        "Inverse cosine",
-        "AI辅助编程正暴露开发者内部分歧：一类人享受手写代码的工艺，另一类人专注用AI高效交付"
-      ],
-      "key_points_en": [
-        "MacBook Neo teardown takes under 10 minutes; modular, tape-free design enables effortless repairs",
-        "For developers with a powerful desktop who prioritize portability, the MacBook Neo may not be the ideal travel companion; the M4 Air's lightness remains key",
-        "Inverse cosine",
-        "AI-assisted programming is exposing a hidden divide: craft-focused devs vs. efficiency-driven builders"
-      ],
-      "tweet_drafts": [
-        "苹果设备维修难？看这款 MacBook Neo：10分钟全拆，无胶水模块化。设计取舍：便携 vs 可维修。#科技 #环保",
-        "当你的 Mac Studio 已经榨干本地算力，笔记本的唯一任务就是「轻到忘记」。MacBook Neo 的升级对旅行开发者有意义吗？还是 Air 的极致便携无可替代？聊聊你的移动工作流",
         "Inverse cosine"
       ],
+      "key_points_zh": [
+        "AI辅助编程正在重塑开发工作流，但开发者可通过自动化测试验证代码，这是区别于律师等职业的独特优势。行业整体乐观，但需警惕创意乐趣的流失与 corporate 压力",
+        "MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简",
+        "对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势",
+        "Inverse cosine"
+      ],
+      "key_points_en": [
+        "AI-assisted programming is reshaping development workflows, but developers can verify code via automated testing—a unique advantage over professions like law. The industry is cautiously optimistic, though concerns about lost craft joy and corporate pressure remain",
+        "MacBook Neo teardown takes under 10 minutes; modular, tape-free design enables effortless repairs",
+        "For developers with a powerful desktop who prioritize portability, the MacBook Neo may not be the ideal travel companion; the M4 Air's lightness remains key",
+        "Inverse cosine"
+      ],
+      "tweet_drafts": [
+        "当AI能自主写代码，开发者的核心价值转向‘验证与架构’。纽约时报采访70+专家：测试是防幻觉的关键，Jevons悖论可能扩大需求。但匿名苹果工程师的担忧值得深思：手工编程的乐趣正在流失",
+        "苹果设备维修难？看这款 MacBook Neo：10分钟全拆，无胶水模块化。设计取舍：便携 vs 可维修。#科技 #环保",
+        "当你的 Mac Studio 已经榨干本地算力，笔记本的唯一任务就是「轻到忘记」。MacBook Neo 的升级对旅行开发者有意义吗？还是 Air 的极致便携无可替代？聊聊你的移动工作流"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Coding After Coders: The End of Computer Programming as We Know It",
+          "link": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "MacBook Neo Teardown Analysis",
@@ -53,27 +58,22 @@
           "feed_title": "jeffgeerling.com",
           "title": "Can the MacBook Neo replace my M4 Air?",
           "link": "https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Inverse cosine",
-          "link": "https://www.johndcook.com/blog/2026/03/12/arccos/"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简；对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势；Inverse cosine。",
-      "summary_en": "Daily brief (2026-03-12): MacBook Neo teardown takes under 10 minutes; modular, tape-free design enables effortless repairs; For developers with a powerful desktop who prioritize portability, the MacBook Neo may not be the ideal travel companion; the M4 Air's",
+      "summary_zh": "2026-03-12 技术日报：AI辅助编程正在重塑开发工作流，但开发者可通过自动化测试验证代码，这是区别于律师等职业的独特优势。行业整体乐观，但需警惕创意乐趣的流失与 corporate 压力；MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简；对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势。",
+      "summary_en": "Daily brief (2026-03-12): AI-assisted programming is reshaping development workflows, but developers can verify code via automated testing—a unique advantage over professions like law. The industry is cautiously optimistic, though concerns about lost craft joy",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简；对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势；Inverse cosine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): MacBook Neo teardown takes under 10 minutes; modular, tape-free design enables effortless repairs; For developers with a powerful desktop who prioritize portability, the MacBook Neo may not be the ideal travel companion; the M4 Air's"
+          "zh": "【2026-03-12 日报】AI辅助编程正在重塑开发工作流，但开发者可通过自动化测试验证代码，这是区别于律师等职业的独特优势。行业整体乐观，但需警惕创意乐趣的流失与 corporate 压力；MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简；对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): AI-assisted programming is reshaping development workflows, but developers can verify code via automated testing—a unique advantage over professions like law. The industry is cautiously optimistic, though concerns about lost craft jo"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简\n- 对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势\n- Inverse cosine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.youtube.com/watch?v=5k7Lv7f-5CQ\n- https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/\n- https://www.johndcook.com/blog/2026/03/12/arccos/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- MacBook Neo teardown takes under 10 minutes; modular, tape-free design enables effortless repairs\n- For developers with a powerful desktop who prioritize portability, the MacBook Neo may not be the ideal travel companion; the M4 Air's lightness remains key\n- Inverse cosine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.youtube.com/watch?v=5k7Lv7f-5CQ\n- https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/\n- https://www.johndcook.com/blog/2026/03/12/arccos/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- AI辅助编程正在重塑开发工作流，但开发者可通过自动化测试验证代码，这是区别于律师等职业的独特优势。行业整体乐观，但需警惕创意乐趣的流失与 corporate 压力\n- MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简\n- 对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything\n- https://www.youtube.com/watch?v=5k7Lv7f-5CQ\n- https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- AI-assisted programming is reshaping development workflows, but developers can verify code via automated testing—a unique advantage over professions like law. The industry is cautiously optimistic, though concerns about lost craft joy and corporate pressure remain\n- MacBook Neo teardown takes under 10 minutes; modular, tape-free design enables effortless repairs\n- For developers with a powerful desktop who prioritize portability, the MacBook Neo may not be the ideal travel companion; the M4 Air's lightness remains key\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything\n- https://www.youtube.com/watch?v=5k7Lv7f-5CQ\n- https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简；对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势；Inverse cosine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: MacBook Neo teardown takes under 10 minutes; modular, tape-free design enables effortless repairs; For developers with a powerful desktop who prioritize portability, the MacBook Neo may not be the ideal travel companion; the M4 Air's lightness remains key; Inverse cosine.\nI tur"
+          "zh": "今天最值得看的 3 个点：AI辅助编程正在重塑开发工作流，但开发者可通过自动化测试验证代码，这是区别于律师等职业的独特优势。行业整体乐观，但需警惕创意乐趣的流失与 corporate 压力；MacBook Neo 拆解仅需10分钟，模块化设计无胶带，维修极简；对于已有高性能台式机、极度看重便携性的开发者，MacBook Neo 可能并非理想旅行伴侣，M4 Air 的轻巧仍是核心优势。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: AI-assisted programming is reshaping development workflows, but developers can verify code via automated testing—a unique advantage over professions like law. The industry is cautiously optimistic, though concerns about lost craft joy and corporate pressure remain; MacBook Neo"
         }
       }
     },
