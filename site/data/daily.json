@@ -1,79 +1,135 @@
 {
-  "generated_at": "2026-03-11T22:39:37Z",
+  "generated_at": "2026-03-12T06:13:48Z",
   "days": [
     {
+      "date": "2026-03-12",
+      "total": 2,
+      "feeds": [
+        "daringfireball.net (1)",
+        "susam.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Jason Snell Is on Jeopardy Next Week",
+        "susam.net · Git Checkout, Reset and Restore"
+      ],
+      "key_points": [
+        "Jason Snell Is on Jeopardy Next Week",
+        "Git Checkout, Reset and Restore"
+      ],
+      "key_points_zh": [
+        "Jason Snell Is on Jeopardy Next Week",
+        "Git Checkout, Reset and Restore"
+      ],
+      "key_points_en": [
+        "Jason Snell Is on Jeopardy Next Week",
+        "Git Checkout, Reset and Restore"
+      ],
+      "tweet_drafts": [
+        "Jason Snell Is on Jeopardy Next Week",
+        "Git Checkout, Reset and Restore"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Jason Snell Is on Jeopardy Next Week",
+          "link": "https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/"
+        },
+        {
+          "feed_title": "susam.net",
+          "title": "Git Checkout, Reset and Restore",
+          "link": "https://susam.net/git-checkout-reset-restore.html"
+        }
+      ],
+      "summary_zh": "2026-03-12 技术日报：Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。",
+      "summary_en": "Daily brief (2026-03-12): Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-12 日报】Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-12）\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-11",
-      "total": 14,
+      "total": 17,
       "feeds": [
         "idiallo.com (2)",
         "krebsonsecurity.com (2)",
+        "simonwillison.net (2)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Sorting algorithms",
+        "joanwestenberg.com · Members Only: We desperately need a Reality Literacy",
         "pluralistic.net · Pluralistic: AI \"journalists\" prove that media bosses don't give a shit (11 Mar 2026)",
         "daringfireball.net · From the DF Archive: ‘And Oranges’",
         "dwarkesh.com · I’m glad the Anthropic fight is happening now",
-        "krebsonsecurity.com · Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-        "simonwillison.net · Quoting John Carmack",
-        "devblogs.microsoft.com/oldnewthing · How do compilers ensure that large stack allocations do not skip over the guard page?"
+        "krebsonsecurity.com · Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker"
       ],
       "key_points": [
+        "作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能",
+        "在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策",
         "媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例",
-        "From the DF Archive: ‘And Oranges’",
-        "美防部因Anthropic拒绝移除AI武器/监控限制而将其列为供应链风险，此举暴露了AI在关键基础设施中的控制权与问责危机，未来 workforce 的AI对齐标准将决定文明走向",
-        "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker"
+        "From the DF Archive: ‘And Oranges’"
       ],
       "key_points_zh": [
+        "作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能",
+        "在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策",
         "媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例",
-        "From the DF Archive: ‘And Oranges’",
-        "美防部因Anthropic拒绝移除AI武器/监控限制而将其列为供应链风险，此举暴露了AI在关键基础设施中的控制权与问责危机，未来 workforce 的AI对齐标准将决定文明走向",
-        "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker"
+        "From the DF Archive: ‘And Oranges’"
       ],
       "key_points_en": [
+        "Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature",
+        "Developers in AI and security must cultivate reality literacy to discern truth from misinformation and avoid flawed decision-making",
         "Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse",
-        "From the DF Archive: ‘And Oranges’",
-        "DoD's 'supply chain risk' label on Anthropic for refusing AI weapon/surveillance limits exposes a control \u0026 accountability crisis. Who sets alignment standards for the AI workforce that will run future civilization?",
-        "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker"
+        "From the DF Archive: ‘And Oranges’"
       ],
       "tweet_drafts": [
-        "“模态对话框大杂烩”：当媒体老板把AI当廉价劳动力，连基本用户体验（如自动播放）都懒得管，就证明他们根本不在乎读者，只在乎流量变现。技术人，你的代码在助纣为虐吗？",
-        "From the DF Archive: ‘And Oranges’",
-        "🔥 美防部vs Anthropic：AI伦理红线触碰国家安全神经。未来军队由AI士兵构成，谁掌握‘ kill switch ’？技术自主权 vs 政府强制，供应链风险已升级为文明架构之争。开发者如何应对？"
+        "刚看到一个超酷的排序算法动画，作者用Claude Artifacts做的！最赞的是能同时跑所有算法对比，Timsort果然快。你们觉得AI工具会怎么改变算法教学？",
+        "我们迫切需要现实素养！在信息爆炸时代，开发者必须能辨别真伪，否则AI模型会学坏，安全防线会失守。从今天起，对每个数据源提问：这真实吗？ #技术趋势",
+        "“模态对话框大杂烩”：当媒体老板把AI当廉价劳动力，连基本用户体验（如自动播放）都懒得管，就证明他们根本不在乎读者，只在乎流量变现。技术人，你的代码在助纣为虐吗？"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Sorting Algorithms Visualized: Interactive Demos Built with Claude Artifacts",
+          "link": "https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Members Only: We Desperately Need a Reality Literacy",
+          "link": "https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "AI 'journalists' prove that media bosses don't give a shit",
           "link": "https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "From the DF Archive: ‘And Oranges’",
-          "link": "https://daringfireball.net/2006/06/and_oranges"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "I’m glad the Anthropic fight is happening now",
-          "link": "https://www.dwarkesh.com/p/dow-anthropic"
         }
       ],
-      "summary_zh": "2026-03-11 技术日报：媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例；From the DF Archive: ‘And Oranges’；美防部因Anthropic拒绝移除AI武器/监控限制而将其列为供应链风险，此举暴露了AI在关键基础设施中的控制权与问责危机，未来 workforce 的AI对齐标准将决定文明走向。",
-      "summary_en": "Daily brief (2026-03-11): Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse; From the DF Archive: ‘And Oranges’; DoD's 'supply cha",
+      "summary_zh": "2026-03-11 技术日报：作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策；媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例。",
+      "summary_en": "Daily brief (2026-03-11): Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature; Developers in AI and security must cultivate reality literacy to discern truth fro",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-11 日报】媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例；From the DF Archive: ‘And Oranges’；美防部因Anthropic拒绝移除AI武器/监控限制而将其列为供应链风险，此举暴露了AI在关键基础设施中的控制权与问责危机，未来 workforce 的AI对齐标准将决定文明走向。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-11): Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse; From the DF Archive: ‘And Oranges’; DoD's 'supply ch"
+          "zh": "【2026-03-11 日报】作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策；媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-11): Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature; Developers in AI and security must cultivate reality literacy to discern truth fr"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-11）\n- 媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例\n- From the DF Archive: ‘And Oranges’\n- 美防部因Anthropic拒绝移除AI武器/监控限制而将其列为供应链风险，此举暴露了AI在关键基础设施中的控制权与问责危机，未来 workforce 的AI对齐标准将决定文明走向\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/\n- https://daringfireball.net/2006/06/and_oranges\n- https://www.dwarkesh.com/p/dow-anthropic\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-11)\n- Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse\n- From the DF Archive: ‘And Oranges’\n- DoD's 'supply chain risk' label on Anthropic for refusing AI weapon/surveillance limits exposes a control \u0026 accountability crisis. Who sets alignment standards for the AI workforce that will run future civilization?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/\n- https://daringfireball.net/2006/06/and_oranges\n- https://www.dwarkesh.com/p/dow-anthropic\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-11）\n- 作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能\n- 在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策\n- 媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything\n- https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/\n- https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-11)\n- Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature\n- Developers in AI and security must cultivate reality literacy to discern truth from misinformation and avoid flawed decision-making\n- Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything\n- https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/\n- https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例；From the DF Archive: ‘And Oranges’；美防部因Anthropic拒绝移除AI武器/监控限制而将其列为供应链风险，此举暴露了AI在关键基础设施中的控制权与问责危机，未来 workforce 的AI对齐标准将决定文明走向。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Media firms use AI to churn out low-quality content and force autoplay videos, exposing a profit-over-user-experience-and-journalistic-ethics mindset—a classic case of tech misuse; From the DF Archive: ‘And Oranges’; DoD's 'supply chain risk' label on Anthropic for refusing AI"
+          "zh": "今天最值得看的 3 个点：作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策；媒体公司用AI生成低质内容并强推自动播放视频，暴露其追求利润而牺牲用户体验与新闻伦理的本质，是技术滥用的典型案例。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, adding Python's Timsort and a parallel comparison feature; Developers in AI and security must cultivate reality literacy to discern truth from misinformation and avoid flawed decision-m"
         }
       }
     },
@@ -2137,51 +2193,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：AI编码新范式：通过编排多AI代理集群与韧性设计，开发者仅用自然语言描述战略目标，即可自动生成完整功能集。系统开源、非商业、可替换，解决了代码质量与供应商伦理两大痛点。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: New AI coding paradigm: Orchestrate swarms of coding bots with resilience design. Developers describe strategic goals in plain English to auto-generate entire feature sets. Open-source, non-commercial, and stack-swappable, solving code quality and vendor ethics.\nI turned them i"
-        }
-      }
-    },
-    {
-      "date": "2026-01-15",
-      "total": 1,
-      "feeds": [
-        "anildash.com (1)"
-      ],
-      "highlights": [
-        "anildash.com · Wikipedia at 25: What the web can be"
-      ],
-      "key_points": [
-        "Wikipedia at 25: What the web can be"
-      ],
-      "key_points_zh": [
-        "Wikipedia at 25: What the web can be"
-      ],
-      "key_points_en": [
-        "Wikipedia at 25: What the web can be"
-      ],
-      "tweet_drafts": [
-        "Wikipedia at 25: What the web can be"
-      ],
-      "sources": [
-        {
-          "feed_title": "anildash.com",
-          "title": "Wikipedia at 25: What the web can be",
-          "link": "https://anildash.com/2026/01/15/wikipedia-at-25/"
-        }
-      ],
-      "summary_zh": "2026-01-15 技术日报：Wikipedia at 25: What the web can be。",
-      "summary_en": "Daily brief (2026-01-15): Wikipedia at 25: What the web can be.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-01-15 日报】Wikipedia at 25: What the web can be。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-01-15): Wikipedia at 25: What the web can be. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-01-15）\n- Wikipedia at 25: What the web can be\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://anildash.com/2026/01/15/wikipedia-at-25/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-01-15)\n- Wikipedia at 25: What the web can be\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://anildash.com/2026/01/15/wikipedia-at-25/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Wikipedia at 25: What the web can be。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Wikipedia at 25: What the web can be.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
