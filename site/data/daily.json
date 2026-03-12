@@ -1,34 +1,45 @@
 {
-  "generated_at": "2026-03-12T08:08:10Z",
+  "generated_at": "2026-03-12T08:44:38Z",
   "days": [
     {
       "date": "2026-03-12",
-      "total": 2,
+      "total": 3,
       "feeds": [
         "daringfireball.net (1)",
-        "susam.net (1)"
+        "susam.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "daringfireball.net · Jason Snell Is on Jeopardy Next Week",
         "susam.net · Git Checkout, Reset and Restore"
       ],
       "key_points": [
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week",
         "Git Checkout, Reset and Restore"
       ],
       "key_points_zh": [
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week",
         "Git Checkout, Reset and Restore"
       ],
       "key_points_en": [
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week",
         "Git Checkout, Reset and Restore"
       ],
       "tweet_drafts": [
+        "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
         "Jason Snell Is on Jeopardy Next Week",
         "Git Checkout, Reset and Restore"
       ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Jason Snell Is on Jeopardy Next Week",
@@ -40,20 +51,20 @@
           "link": "https://susam.net/git-checkout-reset-restore.html"
         }
       ],
-      "summary_zh": "2026-03-12 技术日报：Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。",
-      "summary_en": "Daily brief (2026-03-12): Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.",
+      "summary_zh": "2026-03-12 技术日报：UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。",
+      "summary_en": "Daily brief (2026-03-12): UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-12 日报】Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-12): Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-12 日报】UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-12): UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-12）\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-12)\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-12）\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-12)\n- UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers\n- Jason Snell Is on Jeopardy Next Week\n- Git Checkout, Reset and Restore\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay\n- https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/\n- https://susam.net/git-checkout-reset-restore.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers；Jason Snell Is on Jeopardy Next Week；Git Checkout, Reset and Restore。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers; Jason Snell Is on Jeopardy Next Week; Git Checkout, Reset and Restore.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
