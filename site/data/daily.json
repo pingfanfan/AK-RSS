@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-13T15:13:15Z",
+  "generated_at": "2026-03-13T15:44:25Z",
   "days": [
     {
       "date": "2026-03-13",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "daringfireball.net (3)",
         "berthub.eu (1)",
@@ -13,37 +13,42 @@
         "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Typesetting sheet music with AI",
         "daringfireball.net · ‘Software Bonkers’",
         "daringfireball.net · ‘Grief and the AI Split’",
-        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: MIPS",
         "jeffgeerling.com · Restoring an Xserve G5: When Apple built real servers",
-        "shkspr.mobi · An odd font rendering bug in Firefox and Safari",
-        "idiallo.com · It's Work that taught me how to think"
+        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: MIPS",
+        "shkspr.mobi · An odd font rendering bug in Firefox and Safari"
       ],
       "key_points": [
+        "测试AI将乐谱图片转为Lilypond代码：生成的乐谱完全错误，但AI成功识别了曲作者、风格甚至标题，凸显其模式识别能力远超精确代码生成",
         "‘Software Bonkers’",
         "‘Grief and the AI Split’",
-        "Windows stack limit checking retrospective: MIPS",
         "修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战"
       ],
       "key_points_zh": [
+        "测试AI将乐谱图片转为Lilypond代码：生成的乐谱完全错误，但AI成功识别了曲作者、风格甚至标题，凸显其模式识别能力远超精确代码生成",
         "‘Software Bonkers’",
         "‘Grief and the AI Split’",
-        "Windows stack limit checking retrospective: MIPS",
         "修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战"
       ],
       "key_points_en": [
+        "Test: AI converts sheet music images to Lilypond code. Generated music is hilariously wrong, but AI correctly identifies composer, style, and title—highlighting pattern recognition over precise generation",
         "‘Software Bonkers’",
         "‘Grief and the AI Split’",
-        "Windows stack limit checking retrospective: MIPS",
         "Restoring a 2004 Xserve G5 server reveals the 'capacitor plague' PSU failure, highlighting legacy hardware maintenance challenges"
       ],
       "tweet_drafts": [
+        "AI 排版乐谱测试：输入乐谱图，输出代码完全错误，但AI猜出了曲作者和风格。这暴露了其在低资源语言中的根本局限——模式匹配强，精确生成弱。安全关键代码？务必人工复核",
         "‘Software Bonkers’",
-        "‘Grief and the AI Split’",
-        "Windows stack limit checking retrospective: MIPS"
+        "‘Grief and the AI Split’"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "AI Sheet Music Typesetting: When Code Generation Meets Obscure Languages",
+          "link": "https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "‘Software Bonkers’",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "‘Grief and the AI Split’",
           "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Windows stack limit checking retrospective: MIPS",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138"
         }
       ],
-      "summary_zh": "2026-03-13 技术日报：‘Software Bonkers’；‘Grief and the AI Split’；Windows stack limit checking retrospective: MIPS。",
-      "summary_en": "Daily brief (2026-03-13): ‘Software Bonkers’; ‘Grief and the AI Split’; Windows stack limit checking retrospective: MIPS.",
+      "summary_zh": "2026-03-13 技术日报：测试AI将乐谱图片转为Lilypond代码：生成的乐谱完全错误，但AI成功识别了曲作者、风格甚至标题，凸显其模式识别能力远超精确代码生成；‘Software Bonkers’；‘Grief and the AI Split’。",
+      "summary_en": "Daily brief (2026-03-13): Test: AI converts sheet music images to Lilypond code. Generated music is hilariously wrong, but AI correctly identifies composer, style, and title—highlighting pattern recognition over precise generation; ‘Software Bonkers’; ‘Grief a",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-13 日报】‘Software Bonkers’；‘Grief and the AI Split’；Windows stack limit checking retrospective: MIPS。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-13): ‘Software Bonkers’; ‘Grief and the AI Split’; Windows stack limit checking retrospective: MIPS. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-13 日报】测试AI将乐谱图片转为Lilypond代码：生成的乐谱完全错误，但AI成功识别了曲作者、风格甚至标题，凸显其模式识别能力远超精确代码生成；‘Software Bonkers’；‘Grief and the AI Split’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-13): Test: AI converts sheet music images to Lilypond code. Generated music is hilariously wrong, but AI correctly identifies composer, style, and title—highlighting pattern recognition over precise generation; ‘Software Bonkers’; ‘Grief"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-13）\n- ‘Software Bonkers’\n- ‘Grief and the AI Split’\n- Windows stack limit checking retrospective: MIPS\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://craigmod.com/essays/software_bonkers/\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n- https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-13)\n- ‘Software Bonkers’\n- ‘Grief and the AI Split’\n- Windows stack limit checking retrospective: MIPS\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://craigmod.com/essays/software_bonkers/\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n- https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-13）\n- 测试AI将乐谱图片转为Lilypond代码：生成的乐谱完全错误，但AI成功识别了曲作者、风格甚至标题，凸显其模式识别能力远超精确代码生成\n- ‘Software Bonkers’\n- ‘Grief and the AI Split’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/\n- https://craigmod.com/essays/software_bonkers/\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-13)\n- Test: AI converts sheet music images to Lilypond code. Generated music is hilariously wrong, but AI correctly identifies composer, style, and title—highlighting pattern recognition over precise generation\n- ‘Software Bonkers’\n- ‘Grief and the AI Split’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/\n- https://craigmod.com/essays/software_bonkers/\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘Software Bonkers’；‘Grief and the AI Split’；Windows stack limit checking retrospective: MIPS。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘Software Bonkers’; ‘Grief and the AI Split’; Windows stack limit checking retrospective: MIPS.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：测试AI将乐谱图片转为Lilypond代码：生成的乐谱完全错误，但AI成功识别了曲作者、风格甚至标题，凸显其模式识别能力远超精确代码生成；‘Software Bonkers’；‘Grief and the AI Split’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Test: AI converts sheet music images to Lilypond code. Generated music is hilariously wrong, but AI correctly identifies composer, style, and title—highlighting pattern recognition over precise generation; ‘Software Bonkers’; ‘Grief and the AI Split’.\nI turned them into an acti"
         }
       }
     },
