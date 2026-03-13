@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-13 15:43:54 UTC
+Generated at: 2026-03-13 16:07:51 UTC
 
-- [Typesetting sheet music with AI](https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/) (`johndcook.com`)
-  - TLDR: 测试AI将乐谱图片转为Lilypond代码：生成的乐谱完全错误，但AI成功识别了曲作者、风格甚至标题，凸显其模式识别能力远超精确代码生成。
-  - WHAT: 一项实证测试：评估大语言模型在罕见领域（Lilypond音乐排版语言）的代码生成能力。
-  - WHY: Lilypond公开代码极少，测试AI在低资源领域的表现；结果揭示AI依赖统计模式识别，而非对符号的精确理解，这对安全关键型代码生成有警示意义。
-  - ACTION: 开发者：勿依赖AI生成小众语言精确代码（如硬件描述、形式化验证），但可尝试用于灵感或识别；务必人工审查输出，尤其在安全关键场景。
-  - TWEET: AI 排版乐谱测试：输入乐谱图，输出代码完全错误，但AI猜出了曲作者和风格。这暴露了其在低资源语言中的根本局限——模式匹配强，精确生成弱。安全关键代码？务必人工复核。
+- [Dylan Patel — Deep Dive on the 3 Big Bottlenecks to Scaling AI Compute](https://www.dwarkesh.com/p/dylan-patel) (`dwarkesh.com`)
+  - TLDR: AI算力扩展受制于逻辑、内存、电力三大瓶颈，且供应链竞争白热化。
+  - WHAT: 访谈深入探讨AI算力扩展的三大物理瓶颈（逻辑、内存、电力），并分析从芯片设计到制造的经济学链条，涵盖实验室、云厂商、晶圆厂和设备商。
+  - WHY: 理解这些瓶颈能帮助开发者在硬件选型、架构设计和成本预估上做出更优决策，避免在不可扩展的路径上投入。
+  - ACTION: 关注ASML光刻机产能、HBM内存进展和液冷技术；评估自身项目对三大瓶颈的敏感度，并据此规划硬件采购与架构。
+  - TWEET: AI算力扩展的三大物理瓶颈：逻辑、内存、电力。最关键的约束可能来自ASML的光刻机产能。理解供应链经济学对技术决策至关重要。推荐深度访谈。
