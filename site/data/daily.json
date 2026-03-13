@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-03-13T10:07:40Z",
+  "generated_at": "2026-03-13T10:43:35Z",
   "days": [
     {
       "date": "2026-03-13",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "daringfireball.net (1)",
         "joanwestenberg.com (1)",
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Forge",
         "simonwillison.net · Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
         "utcc.utoronto.ca/~cks · You (I) should document the forms of your Django web application",
         "joanwestenberg.com · Everything's Casino",
@@ -19,29 +21,34 @@
         "daringfireball.net · Accents"
       ],
       "key_points": [
+        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持",
         "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
-        "You (I) should document the forms of your Django web application",
-        "Everything's Casino",
-        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向"
-      ],
-      "key_points_zh": [
-        "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
-        "You (I) should document the forms of your Django web application",
-        "Everything's Casino",
-        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向"
-      ],
-      "key_points_en": [
-        "Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching",
-        "You (I) should document the forms of your Django web application",
-        "Everything's Casino",
-        "The article critiques three prevailing irrational frenzies in AI: technological determinism, billionaire solipsism, and purity culture, warning these 'psychoses' are creating a tech bubble and distorting investment and development"
-      ],
-      "tweet_drafts": [
-        "Shopify Liquid 性能优化 PR 解析：53% 速度提升来自字节扫描(String#byteindex)替代 StringScanner，纯字节 parse_tag_token 避免重置，以及 0-999 整数 to_s 缓存。120 次自动化实验证明：健壮测试套件 + AI 代理 = 高效微调。 #Ruby #Performance",
         "You (I) should document the forms of your Django web application",
         "Everything's Casino"
       ],
+      "key_points_zh": [
+        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持",
+        "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
+        "You (I) should document the forms of your Django web application",
+        "Everything's Casino"
+      ],
+      "key_points_en": [
+        "Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more",
+        "Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching",
+        "You (I) should document the forms of your Django web application",
+        "Everything's Casino"
+      ],
+      "tweet_drafts": [
+        "厌倦了在gh/glab/tea之间切换？新工具Forge统一了GitHub/GitLab/Gitea的CLI，自动识别平台，命令一致，还支持CI/密钥等高级功能。开发者与AI代理的救星！#Git #DevOps #AI",
+        "Shopify Liquid 性能优化 PR 解析：53% 速度提升来自字节扫描(String#byteindex)替代 StringScanner，纯字节 parse_tag_token 避免重置，以及 0-999 整数 to_s 缓存。120 次自动化实验证明：健壮测试套件 + AI 代理 = 高效微调。 #Ruby #Performance",
+        "You (I) should document the forms of your Django web application"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Forge",
+          "link": "https://nesbitt.io/2026/03/13/forge.html"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
@@ -51,27 +58,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "You (I) should document the forms of your Django web application",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "Everything's Casino",
-          "link": "https://www.joanwestenberg.com/everythings-casino/"
         }
       ],
-      "summary_zh": "2026-03-13 技术日报：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application；Everything's Casino。",
-      "summary_en": "Daily brief (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; You (I) should document",
+      "summary_zh": "2026-03-13 技术日报：针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持；Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application。",
+      "summary_en": "Daily brief (2026-03-13): Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more; Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, ac",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-13 日报】Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application；Everything's Casino。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; You (I) should documen"
+          "zh": "【2026-03-13 日报】针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持；Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application。我把可执行建议整理好了，欢迎转发讨论。#技术趋",
+          "en": "AK-RSS Daily (2026-03-13): Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more; Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, a"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-13）\n- Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存\n- You (I) should document the forms of your Django web application\n- Everything's Casino\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms\n- https://www.joanwestenberg.com/everythings-casino/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-13)\n- Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching\n- You (I) should document the forms of your Django web application\n- Everything's Casino\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms\n- https://www.joanwestenberg.com/everythings-casino/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-13）\n- 针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持\n- Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存\n- You (I) should document the forms of your Django web application\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/13/forge.html\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-13)\n- Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more\n- Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching\n- You (I) should document the forms of your Django web application\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/13/forge.html\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application；Everything's Casino。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; You (I) should document the forms of your Django web application; E"
+          "zh": "今天最值得看的 3 个点：针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持；Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more; Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% f"
         }
       }
     },
