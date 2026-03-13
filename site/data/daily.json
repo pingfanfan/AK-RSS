@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-03-13T09:10:09Z",
+  "generated_at": "2026-03-13T09:43:54Z",
   "days": [
     {
       "date": "2026-03-13",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "daringfireball.net (1)",
         "joanwestenberg.com (1)",
         "pluralistic.net (1)",
-        "simonwillison.net (1)"
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
         "simonwillison.net · Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+        "utcc.utoronto.ca/~cks · You (I) should document the forms of your Django web application",
         "joanwestenberg.com · Everything's Casino",
         "pluralistic.net · Pluralistic: Three more AI psychoses (12 Mar 2026)",
         "daringfireball.net · Accents"
       ],
       "key_points": [
         "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
+        "You (I) should document the forms of your Django web application",
         "Everything's Casino",
-        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向",
-        "Accents"
+        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向"
       ],
       "key_points_zh": [
         "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
+        "You (I) should document the forms of your Django web application",
         "Everything's Casino",
-        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向",
-        "Accents"
+        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向"
       ],
       "key_points_en": [
         "Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching",
+        "You (I) should document the forms of your Django web application",
         "Everything's Casino",
-        "The article critiques three prevailing irrational frenzies in AI: technological determinism, billionaire solipsism, and purity culture, warning these 'psychoses' are creating a tech bubble and distorting investment and development",
-        "Accents"
+        "The article critiques three prevailing irrational frenzies in AI: technological determinism, billionaire solipsism, and purity culture, warning these 'psychoses' are creating a tech bubble and distorting investment and development"
       ],
       "tweet_drafts": [
         "Shopify Liquid 性能优化 PR 解析：53% 速度提升来自字节扫描(String#byteindex)替代 StringScanner，纯字节 parse_tag_token 避免重置，以及 0-999 整数 to_s 缓存。120 次自动化实验证明：健壮测试套件 + AI 代理 = 高效微调。 #Ruby #Performance",
-        "Everything's Casino",
-        "AI炒作新高峰？三种‘精神病’正在主导行业：1. 技术宿命论 2. 富豪幻想工程 3. 技术栈纯粹主义。结果？资本错配，基础安全被忽视。开发者该如何应对？保持清醒，用代码解决真问题，而非追逐泡沫"
+        "You (I) should document the forms of your Django web application",
+        "Everything's Casino"
       ],
       "sources": [
         {
@@ -46,30 +48,30 @@
           "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything"
         },
         {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "You (I) should document the forms of your Django web application",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms"
+        },
+        {
           "feed_title": "joanwestenberg.com",
           "title": "Everything's Casino",
           "link": "https://www.joanwestenberg.com/everythings-casino/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Three more AI psychoses (12 Mar 2026)",
-          "link": "https://pluralistic.net/2026/03/12/normal-technology/"
         }
       ],
-      "summary_zh": "2026-03-13 技术日报：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；Everything's Casino；文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向。",
-      "summary_en": "Daily brief (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; Everything's Casino; Th",
+      "summary_zh": "2026-03-13 技术日报：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application；Everything's Casino。",
+      "summary_en": "Daily brief (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; You (I) should document",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-13 日报】Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；Everything's Casino；文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; Everything's Casino; T"
+          "zh": "【2026-03-13 日报】Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application；Everything's Casino。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; You (I) should documen"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-13）\n- Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存\n- Everything's Casino\n- 文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://www.joanwestenberg.com/everythings-casino/\n- https://pluralistic.net/2026/03/12/normal-technology/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-13)\n- Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching\n- Everything's Casino\n- The article critiques three prevailing irrational frenzies in AI: technological determinism, billionaire solipsism, and purity culture, warning these 'psychoses' are creating a tech bubble and distorting investment and development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://www.joanwestenberg.com/everythings-casino/\n- https://pluralistic.net/2026/03/12/normal-technology/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-13）\n- Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存\n- You (I) should document the forms of your Django web application\n- Everything's Casino\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms\n- https://www.joanwestenberg.com/everythings-casino/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-13)\n- Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching\n- You (I) should document the forms of your Django web application\n- Everything's Casino\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms\n- https://www.joanwestenberg.com/everythings-casino/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；Everything's Casino；文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; Everything's Casino; The article critiques three prevailing irratio"
+          "zh": "今天最值得看的 3 个点：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；You (I) should document the forms of your Django web application；Everything's Casino。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; You (I) should document the forms of your Django web application; E"
         }
       }
     },
