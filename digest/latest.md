@@ -1,11 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-13 12:04:09 UTC
+Generated at: 2026-03-13 12:44:58 UTC
 
-- [It's Work that taught me how to think](https://idiallo.com/blog/work-taught-me-how-to-think?src=feed) (`idiallo.com`)
-- [Btw: Software, turnkey, beheerd, as a service](https://berthub.eu/articles/posts/software-turnkey-as-a-service/) (`berthub.eu`)
-  - TLDR: 荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机。
-  - WHAT: 荷兰税务局计划将增值税（BTW）的征收、管理及IT系统整体外包给一家美国服务商。该模式不仅是采购软件，更是将核心税务数据的处理、存储及基础设施运维完全交由第三方（且为外国实体）控制。
-  - WHY: 1. 数据主权丧失：关键国家财政数据存储于他国，受美国法律（如CLOUD法案）管辖，可能被迫向美国政府披露。2. 供应链攻击面扩大：核心税务系统依赖单一外国供应商，成为国家级网络攻击目标。3. 合规与审计黑洞：美方完全托管意味着荷兰当局可能失去实时审计与数据可移植能力，违反欧盟数据治理原则。
-  - ACTION: 开发者与架构师应：1. 在关键系统中强制实施数据本地化与主权设计。2. 对SaaS/托管服务进行第三方风险评估，明确数据物理位置、管辖权及应急迁移方案。3. 推动内部政策，要求对涉及国家基础设施的外包合同进行安全与合规前置审查。
-  - TWEET: 当税务局把增值税系统‘全托管’给美国公司，问题远不止软件。数据物理位置在哪？受哪国法律管辖？发生故障或政治冲突时能否快速迁移？这案例是给所有技术决策者的警钟：评估SaaS时，必须追问底层基础设施的控制权与数据主权。别让‘便捷’成为国家安全漏洞。
+- [An odd font rendering bug in Firefox and Safari](https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/) (`shkspr.mobi`)
+  - TLDR: Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常。
+  - WHAT: 问题源于字体文件缺失预组合字符（如U+1EB9 ẹ）。当CSS设置font-weight: normal时，Firefox/Safari无法正确合成组合字符（e + ◌́），导致部分字形（如加粗的带点e）回退到系统字体。Chrome的合成引擎更稳健。
+  - WHY: 这直接影响国际化网站的可访问性与品牌一致性。姓名是核心身份标识，渲染错误可能冒犯用户、损害专业形象，且问题隐蔽，仅影响特定浏览器组合。
+  - ACTION: 1. 审计Web字体，确保覆盖所有需要的组合字符（U+1EB9, U+1ECD等）。2. 测试font-weight对组合字符的影响，必要时为特定元素指定font-weight: bold。3. 使用font-display: swap避免不可见文本，但注意可能加剧回退。4. 考虑使用polyfill（如fonttools子集化）或提供备选字体栈。
+  - TWEET: 发现一个隐蔽的跨浏览器字体问题：当使用Helvetica Now等字体且CSS为font-weight: normal时，Firefox/Safari无法正确渲染带组合点的字符（如Ronkẹ），部分字母会回退到系统字体。Chrome无此问题。这暴露了字体子集化与合成引擎的兼容性陷阱。你的网站是否测试过组合字符？#Web开发 #字体 #可访问性

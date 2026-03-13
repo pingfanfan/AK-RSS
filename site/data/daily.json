@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-13T12:05:02Z",
+  "generated_at": "2026-03-13T12:45:27Z",
   "days": [
     {
       "date": "2026-03-13",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "berthub.eu (1)",
         "daringfireball.net (1)",
@@ -13,37 +13,42 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "shkspr.mobi · An odd font rendering bug in Firefox and Safari",
         "idiallo.com · It's Work that taught me how to think",
         "berthub.eu · Btw: Software, turnkey, beheerd, as a service",
         "dfarq.homeip.net · Microsoft’s 1986 IPO",
         "nesbitt.io · Forge",
-        "simonwillison.net · Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
-        "utcc.utoronto.ca/~cks · You (I) should document the forms of your Django web application"
+        "simonwillison.net · Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations"
       ],
       "key_points": [
+        "Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常",
         "It's Work that taught me how to think",
         "荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机",
-        "Microsoft’s 1986 IPO",
-        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持"
-      ],
-      "key_points_zh": [
-        "It's Work that taught me how to think",
-        "荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机",
-        "Microsoft’s 1986 IPO",
-        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持"
-      ],
-      "key_points_en": [
-        "It's Work that taught me how to think",
-        "The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns",
-        "Microsoft’s 1986 IPO",
-        "Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more"
-      ],
-      "tweet_drafts": [
-        "It's Work that taught me how to think",
-        "当税务局把增值税系统‘全托管’给美国公司，问题远不止软件。数据物理位置在哪？受哪国法律管辖？发生故障或政治冲突时能否快速迁移？这案例是给所有技术决策者的警钟：评估SaaS时，必须追问底层基础设施的控制权与数据主权。别让‘便捷’成为国家安全漏洞",
         "Microsoft’s 1986 IPO"
       ],
+      "key_points_zh": [
+        "Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常",
+        "It's Work that taught me how to think",
+        "荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机",
+        "Microsoft’s 1986 IPO"
+      ],
+      "key_points_en": [
+        "Firefox and Safari misrender names with combining characters (like ọ́) by falling back to a default font under specific CSS, while Chrome displays correctly",
+        "It's Work that taught me how to think",
+        "The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns",
+        "Microsoft’s 1986 IPO"
+      ],
+      "tweet_drafts": [
+        "发现一个隐蔽的跨浏览器字体问题：当使用Helvetica Now等字体且CSS为font-weight: normal时，Firefox/Safari无法正确渲染带组合点的字符（如Ronkẹ），部分字母会回退到系统字体。Chrome无此问题。这暴露了字体子集化与合成引擎的兼容性陷阱。你的网站是否测试过组合字符？#Web开发 #字体 #可访问性",
+        "It's Work that taught me how to think",
+        "当税务局把增值税系统‘全托管’给美国公司，问题远不止软件。数据物理位置在哪？受哪国法律管辖？发生故障或政治冲突时能否快速迁移？这案例是给所有技术决策者的警钟：评估SaaS时，必须追问底层基础设施的控制权与数据主权。别让‘便捷’成为国家安全漏洞"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "An odd font rendering bug in Firefox and Safari",
+          "link": "https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "It's Work that taught me how to think",
@@ -53,27 +58,22 @@
           "feed_title": "berthub.eu",
           "title": "VAT Outsourcing: The Full-Management Risk Behind Software-as-a-Service",
           "link": "https://berthub.eu/articles/posts/software-turnkey-as-a-service/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Microsoft’s 1986 IPO",
-          "link": "https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo"
         }
       ],
-      "summary_zh": "2026-03-13 技术日报：It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机；Microsoft’s 1986 IPO。",
-      "summary_en": "Daily brief (2026-03-13): It's Work that taught me how to think; The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concer",
+      "summary_zh": "2026-03-13 技术日报：Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常；It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机。",
+      "summary_en": "Daily brief (2026-03-13): Firefox and Safari misrender names with combining characters (like ọ́) by falling back to a default font under specific CSS, while Chrome displays correctly; It's Work that taught me how to think; The Dutch Tax Authority outsourced it",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-13 日报】It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机；Microsoft’s 1986 IPO。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-13): It's Work that taught me how to think; The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security conce"
+          "zh": "【2026-03-13 日报】Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常；It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-13): Firefox and Safari misrender names with combining characters (like ọ́) by falling back to a default font under specific CSS, while Chrome displays correctly; It's Work that taught me how to think; The Dutch Tax Authority outsourced i"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-13）\n- It's Work that taught me how to think\n- 荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机\n- Microsoft’s 1986 IPO\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/work-taught-me-how-to-think?src=feed\n- https://berthub.eu/articles/posts/software-turnkey-as-a-service/\n- https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-13)\n- It's Work that taught me how to think\n- The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns\n- Microsoft’s 1986 IPO\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/work-taught-me-how-to-think?src=feed\n- https://berthub.eu/articles/posts/software-turnkey-as-a-service/\n- https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-13）\n- Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常\n- It's Work that taught me how to think\n- 荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/\n- https://idiallo.com/blog/work-taught-me-how-to-think?src=feed\n- https://berthub.eu/articles/posts/software-turnkey-as-a-service/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-13)\n- Firefox and Safari misrender names with combining characters (like ọ́) by falling back to a default font under specific CSS, while Chrome displays correctly\n- It's Work that taught me how to think\n- The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/\n- https://idiallo.com/blog/work-taught-me-how-to-think?src=feed\n- https://berthub.eu/articles/posts/software-turnkey-as-a-service/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机；Microsoft’s 1986 IPO。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: It's Work that taught me how to think; The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns; Microsoft’s 1986 IPO.\nI turned them into"
+          "zh": "今天最值得看的 3 个点：Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常；It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Firefox and Safari misrender names with combining characters (like ọ́) by falling back to a default font under specific CSS, while Chrome displays correctly; It's Work that taught me how to think; The Dutch Tax Authority outsourced its VAT system to a US firm, with software and"
         }
       }
     },
