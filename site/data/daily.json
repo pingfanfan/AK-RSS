@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-13T11:40:40Z",
+  "generated_at": "2026-03-13T12:05:02Z",
   "days": [
     {
       "date": "2026-03-13",
-      "total": 7,
+      "total": 9,
       "feeds": [
+        "berthub.eu (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
+        "idiallo.com (1)",
         "joanwestenberg.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "simonwillison.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "idiallo.com · It's Work that taught me how to think",
+        "berthub.eu · Btw: Software, turnkey, beheerd, as a service",
         "dfarq.homeip.net · Microsoft’s 1986 IPO",
         "nesbitt.io · Forge",
         "simonwillison.net · Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
-        "utcc.utoronto.ca/~cks · You (I) should document the forms of your Django web application",
-        "joanwestenberg.com · Everything's Casino",
-        "pluralistic.net · Pluralistic: Three more AI psychoses (12 Mar 2026)"
+        "utcc.utoronto.ca/~cks · You (I) should document the forms of your Django web application"
       ],
       "key_points": [
+        "It's Work that taught me how to think",
+        "荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机",
         "Microsoft’s 1986 IPO",
-        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持",
-        "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
-        "You (I) should document the forms of your Django web application"
+        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持"
       ],
       "key_points_zh": [
+        "It's Work that taught me how to think",
+        "荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机",
         "Microsoft’s 1986 IPO",
-        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持",
-        "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
-        "You (I) should document the forms of your Django web application"
+        "针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持"
       ],
       "key_points_en": [
+        "It's Work that taught me how to think",
+        "The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns",
         "Microsoft’s 1986 IPO",
-        "Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more",
-        "Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching",
-        "You (I) should document the forms of your Django web application"
+        "Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more"
       ],
       "tweet_drafts": [
-        "Microsoft’s 1986 IPO",
-        "厌倦了在gh/glab/tea之间切换？新工具Forge统一了GitHub/GitLab/Gitea的CLI，自动识别平台，命令一致，还支持CI/密钥等高级功能。开发者与AI代理的救星！#Git #DevOps #AI",
-        "Shopify Liquid 性能优化 PR 解析：53% 速度提升来自字节扫描(String#byteindex)替代 StringScanner，纯字节 parse_tag_token 避免重置，以及 0-999 整数 to_s 缓存。120 次自动化实验证明：健壮测试套件 + AI 代理 = 高效微调。 #Ruby #Performance"
+        "It's Work that taught me how to think",
+        "当税务局把增值税系统‘全托管’给美国公司，问题远不止软件。数据物理位置在哪？受哪国法律管辖？发生故障或政治冲突时能否快速迁移？这案例是给所有技术决策者的警钟：评估SaaS时，必须追问底层基础设施的控制权与数据主权。别让‘便捷’成为国家安全漏洞",
+        "Microsoft’s 1986 IPO"
       ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "It's Work that taught me how to think",
+          "link": "https://idiallo.com/blog/work-taught-me-how-to-think?src=feed"
+        },
+        {
+          "feed_title": "berthub.eu",
+          "title": "VAT Outsourcing: The Full-Management Risk Behind Software-as-a-Service",
+          "link": "https://berthub.eu/articles/posts/software-turnkey-as-a-service/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Microsoft’s 1986 IPO",
           "link": "https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Forge",
-          "link": "https://nesbitt.io/2026/03/13/forge.html"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
-          "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-13 技术日报：Microsoft’s 1986 IPO；针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持；Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存。",
-      "summary_en": "Daily brief (2026-03-13): Microsoft’s 1986 IPO; Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more; Shopify's CEO used an AI agent to run 120 experiments on the Liquid",
+      "summary_zh": "2026-03-13 技术日报：It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机；Microsoft’s 1986 IPO。",
+      "summary_en": "Daily brief (2026-03-13): It's Work that taught me how to think; The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concer",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-13 日报】Microsoft’s 1986 IPO；针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持；Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-13): Microsoft’s 1986 IPO; Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more; Shopify's CEO used an AI agent to run 120 experiments on the Liqui"
+          "zh": "【2026-03-13 日报】It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机；Microsoft’s 1986 IPO。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-13): It's Work that taught me how to think; The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security conce"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-13）\n- Microsoft’s 1986 IPO\n- 针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持\n- Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo\n- https://nesbitt.io/2026/03/13/forge.html\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-13)\n- Microsoft’s 1986 IPO\n- Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more\n- Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo\n- https://nesbitt.io/2026/03/13/forge.html\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-13）\n- It's Work that taught me how to think\n- 荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机\n- Microsoft’s 1986 IPO\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/work-taught-me-how-to-think?src=feed\n- https://berthub.eu/articles/posts/software-turnkey-as-a-service/\n- https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-13)\n- It's Work that taught me how to think\n- The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns\n- Microsoft’s 1986 IPO\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/work-taught-me-how-to-think?src=feed\n- https://berthub.eu/articles/posts/software-turnkey-as-a-service/\n- https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-1986-ipo\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Microsoft’s 1986 IPO；针对GitHub、GitLab、Gitea等平台CLI碎片化问题，推出统一命令行工具Forge，提供一致接口并增强CI、密钥等高级功能支持；Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Microsoft’s 1986 IPO; Unified CLI tool Forge solves GitHub/GitLab/Gitea CLI fragmentation with consistent commands and broader API coverage for CI, secrets, and more; Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+re"
+          "zh": "今天最值得看的 3 个点：It's Work that taught me how to think；荷兰税务局将增值税系统外包给美国公司，软件及底层服务器均由美方完全托管，引发关键数据主权与供应链安全危机；Microsoft’s 1986 IPO。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: It's Work that taught me how to think; The Dutch Tax Authority outsourced its VAT system to a US firm, with software and underlying servers fully managed by Americans, raising critical data sovereignty and supply chain security concerns; Microsoft’s 1986 IPO.\nI turned them into"
         }
       }
     },
