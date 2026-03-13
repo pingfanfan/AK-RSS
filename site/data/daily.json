@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T14:44:10Z",
+  "generated_at": "2026-03-13T15:13:15Z",
   "days": [
     {
       "date": "2026-03-13",
-      "total": 13,
+      "total": 14,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "berthub.eu (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
@@ -13,46 +13,46 @@
         "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · ‘Software Bonkers’",
         "daringfireball.net · ‘Grief and the AI Split’",
-        "jeffgeerling.com · Restoring an Xserve G5: When Apple built real servers",
         "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: MIPS",
+        "jeffgeerling.com · Restoring an Xserve G5: When Apple built real servers",
         "shkspr.mobi · An odd font rendering bug in Firefox and Safari",
-        "idiallo.com · It's Work that taught me how to think",
-        "berthub.eu · Btw: Software, turnkey, beheerd, as a service"
+        "idiallo.com · It's Work that taught me how to think"
       ],
       "key_points": [
+        "‘Software Bonkers’",
         "‘Grief and the AI Split’",
-        "修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战",
         "Windows stack limit checking retrospective: MIPS",
-        "Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常"
+        "修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战"
       ],
       "key_points_zh": [
+        "‘Software Bonkers’",
         "‘Grief and the AI Split’",
-        "修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战",
         "Windows stack limit checking retrospective: MIPS",
-        "Firefox和Safari在特定CSS设置下，对使用组合字符（如ọ́）的姓名渲染异常，会错误回退到默认字体，而Chrome正常"
+        "修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战"
       ],
       "key_points_en": [
+        "‘Software Bonkers’",
         "‘Grief and the AI Split’",
-        "Restoring a 2004 Xserve G5 server reveals the 'capacitor plague' PSU failure, highlighting legacy hardware maintenance challenges",
         "Windows stack limit checking retrospective: MIPS",
-        "Firefox and Safari misrender names with combining characters (like ọ́) by falling back to a default font under specific CSS, while Chrome displays correctly"
+        "Restoring a 2004 Xserve G5 server reveals the 'capacitor plague' PSU failure, highlighting legacy hardware maintenance challenges"
       ],
       "tweet_drafts": [
+        "‘Software Bonkers’",
         "‘Grief and the AI Split’",
-        "Xserve G5：苹果服务器史上一款有趣产品，但‘电容病’电源问题凸显老设备维护难度。技术债需正视",
         "Windows stack limit checking retrospective: MIPS"
       ],
       "sources": [
         {
           "feed_title": "daringfireball.net",
-          "title": "‘Grief and the AI Split’",
-          "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
+          "title": "‘Software Bonkers’",
+          "link": "https://craigmod.com/essays/software_bonkers/"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Restoring an Xserve G5: When Apple built real servers",
-          "link": "https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/"
+          "feed_title": "daringfireball.net",
+          "title": "‘Grief and the AI Split’",
+          "link": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
         },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
@@ -60,20 +60,20 @@
           "link": "https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138"
         }
       ],
-      "summary_zh": "2026-03-13 技术日报：‘Grief and the AI Split’；修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战；Windows stack limit checking retrospective: MIPS。",
-      "summary_en": "Daily brief (2026-03-13): ‘Grief and the AI Split’; Restoring a 2004 Xserve G5 server reveals the 'capacitor plague' PSU failure, highlighting legacy hardware maintenance challenges; Windows stack limit checking retrospective: MIPS.",
+      "summary_zh": "2026-03-13 技术日报：‘Software Bonkers’；‘Grief and the AI Split’；Windows stack limit checking retrospective: MIPS。",
+      "summary_en": "Daily brief (2026-03-13): ‘Software Bonkers’; ‘Grief and the AI Split’; Windows stack limit checking retrospective: MIPS.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-13 日报】‘Grief and the AI Split’；修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战；Windows stack limit checking retrospective: MIPS。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-13): ‘Grief and the AI Split’; Restoring a 2004 Xserve G5 server reveals the 'capacitor plague' PSU failure, highlighting legacy hardware maintenance challenges; Windows stack limit checking retrospective: MIPS. Actionable takeaways inclu"
+          "zh": "【2026-03-13 日报】‘Software Bonkers’；‘Grief and the AI Split’；Windows stack limit checking retrospective: MIPS。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-13): ‘Software Bonkers’; ‘Grief and the AI Split’; Windows stack limit checking retrospective: MIPS. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-13）\n- ‘Grief and the AI Split’\n- 修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战\n- Windows stack limit checking retrospective: MIPS\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n- https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/\n- https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-13)\n- ‘Grief and the AI Split’\n- Restoring a 2004 Xserve G5 server reveals the 'capacitor plague' PSU failure, highlighting legacy hardware maintenance challenges\n- Windows stack limit checking retrospective: MIPS\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n- https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/\n- https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-13）\n- ‘Software Bonkers’\n- ‘Grief and the AI Split’\n- Windows stack limit checking retrospective: MIPS\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://craigmod.com/essays/software_bonkers/\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n- https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-13)\n- ‘Software Bonkers’\n- ‘Grief and the AI Split’\n- Windows stack limit checking retrospective: MIPS\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://craigmod.com/essays/software_bonkers/\n- https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/\n- https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘Grief and the AI Split’；修复2004年款Xserve G5服务器，遭遇‘电容病’电源故障，揭示老硬件维护挑战；Windows stack limit checking retrospective: MIPS。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘Grief and the AI Split’; Restoring a 2004 Xserve G5 server reveals the 'capacitor plague' PSU failure, highlighting legacy hardware maintenance challenges; Windows stack limit checking retrospective: MIPS.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：‘Software Bonkers’；‘Grief and the AI Split’；Windows stack limit checking retrospective: MIPS。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ‘Software Bonkers’; ‘Grief and the AI Split’; Windows stack limit checking retrospective: MIPS.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

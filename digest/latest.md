@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-13 14:43:35 UTC
+Generated at: 2026-03-13 15:12:40 UTC
 
-- [‘Grief and the AI Split’](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/) (`daringfireball.net`)
+- [‘Software Bonkers’](https://craigmod.com/essays/software_bonkers/) (`daringfireball.net`)
