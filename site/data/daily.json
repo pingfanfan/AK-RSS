@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-03-12T22:40:25Z",
+  "generated_at": "2026-03-13T06:13:26Z",
   "days": [
     {
+      "date": "2026-03-13",
+      "total": 4,
+      "feeds": [
+        "daringfireball.net (1)",
+        "joanwestenberg.com (1)",
+        "pluralistic.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+        "joanwestenberg.com · Everything's Casino",
+        "pluralistic.net · Pluralistic: Three more AI psychoses (12 Mar 2026)",
+        "daringfireball.net · Accents"
+      ],
+      "key_points": [
+        "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
+        "Everything's Casino",
+        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向",
+        "Accents"
+      ],
+      "key_points_zh": [
+        "Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存",
+        "Everything's Casino",
+        "文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向",
+        "Accents"
+      ],
+      "key_points_en": [
+        "Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching",
+        "Everything's Casino",
+        "The article critiques three prevailing irrational frenzies in AI: technological determinism, billionaire solipsism, and purity culture, warning these 'psychoses' are creating a tech bubble and distorting investment and development",
+        "Accents"
+      ],
+      "tweet_drafts": [
+        "Shopify Liquid 性能优化 PR 解析：53% 速度提升来自字节扫描(String#byteindex)替代 StringScanner，纯字节 parse_tag_token 避免重置，以及 0-999 整数 to_s 缓存。120 次自动化实验证明：健壮测试套件 + AI 代理 = 高效微调。 #Ruby #Performance",
+        "Everything's Casino",
+        "AI炒作新高峰？三种‘精神病’正在主导行业：1. 技术宿命论 2. 富豪幻想工程 3. 技术栈纯粹主义。结果？资本错配，基础安全被忽视。开发者该如何应对？保持清醒，用代码解决真问题，而非追逐泡沫"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+          "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Everything's Casino",
+          "link": "https://www.joanwestenberg.com/everythings-casino/"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Three more AI psychoses (12 Mar 2026)",
+          "link": "https://pluralistic.net/2026/03/12/normal-technology/"
+        }
+      ],
+      "summary_zh": "2026-03-13 技术日报：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；Everything's Casino；文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向。",
+      "summary_en": "Daily brief (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; Everything's Casino; Th",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-13 日报】Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；Everything's Casino；文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-13): Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; Everything's Casino; T"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-13）\n- Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存\n- Everything's Casino\n- 文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://www.joanwestenberg.com/everythings-casino/\n- https://pluralistic.net/2026/03/12/normal-technology/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-13)\n- Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching\n- Everything's Casino\n- The article critiques three prevailing irrational frenzies in AI: technological determinism, billionaire solipsism, and purity culture, warning these 'psychoses' are creating a tech bubble and distorting investment and development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/13/liquid/#atom-everything\n- https://www.joanwestenberg.com/everythings-casino/\n- https://pluralistic.net/2026/03/12/normal-technology/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Shopify CEO 使用 AI 代理对 Liquid 模板引擎进行 120 次实验，实现解析渲染性能提升 53%，内存分配减少 61%。关键优化包括字节级扫描和整数缓存；Everything's Casino；文章批判当前AI领域盛行的三种非理性狂热：技术决定论、亿万富翁唯我论和纯粹主义文化，警告这些‘精神病’正在制造技术泡沫并扭曲投资与开发方向。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Shopify's CEO used an AI agent to run 120 experiments on the Liquid templating engine, achieving a 53% parse+render speedup and 61% fewer allocations. Key optimizations: byte-level scanning and integer caching; Everything's Casino; The article critiques three prevailing irratio"
+        }
+      }
+    },
+    {
       "date": "2026-03-12",
-      "total": 20,
+      "total": 21,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (3)",
@@ -2167,52 +2239,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：在科技行业获得影响力后，指出问题、发声讨论道德议题是应尽的责任。沉默的代价远高于发声的实际风险，行业需要更多建设性的批评来推动安全、AI伦理与产品责任的进步。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: With influence in tech comes the responsibility to speak up on moral issues. The cost of silence outweighs the manageable risks of speaking. Constructive criticism is essential for advancing security, AI ethics, and product accountability.\nI turned them into an action-ready dai"
-        }
-      }
-    },
-    {
-      "date": "2026-01-22",
-      "total": 1,
-      "feeds": [
-        "anildash.com (1)"
-      ],
-      "highlights": [
-        "anildash.com · Codeless: From idea to software"
-      ],
-      "key_points": [
-        "AI编码新范式：通过编排多AI代理集群与韧性设计，开发者仅用自然语言描述战略目标，即可自动生成完整功能集。系统开源、非商业、可替换，解决了代码质量与供应商伦理两大痛点",
-        "New AI coding paradigm: Orchestrate swarms of coding bots with resilience design. Developers describe strategic goals in plain English to auto-generate entire feature sets. Open-source, non-commercial, and stack-swappable, solving code quality and vendor ethics"
-      ],
-      "key_points_zh": [
-        "AI编码新范式：通过编排多AI代理集群与韧性设计，开发者仅用自然语言描述战略目标，即可自动生成完整功能集。系统开源、非商业、可替换，解决了代码质量与供应商伦理两大痛点"
-      ],
-      "key_points_en": [
-        "New AI coding paradigm: Orchestrate swarms of coding bots with resilience design. Developers describe strategic goals in plain English to auto-generate entire feature sets. Open-source, non-commercial, and stack-swappable, solving code quality and vendor ethics"
-      ],
-      "tweet_drafts": [
-        "从“帮我写代码”到“我要这个功能”——AI编码已进化。编排+韧性设计，让机器人集群交付生产级代码。开源栈，自由切换模型。无码时代已来"
-      ],
-      "sources": [
-        {
-          "feed_title": "anildash.com",
-          "title": "Codeless: From Idea to Software",
-          "link": "https://anildash.com/2026/01/22/codeless/"
-        }
-      ],
-      "summary_zh": "2026-01-22 技术日报：AI编码新范式：通过编排多AI代理集群与韧性设计，开发者仅用自然语言描述战略目标，即可自动生成完整功能集。系统开源、非商业、可替换，解决了代码质量与供应商伦理两大痛点。",
-      "summary_en": "Daily brief (2026-01-22): New AI coding paradigm: Orchestrate swarms of coding bots with resilience design. Developers describe strategic goals in plain English to auto-generate entire feature sets. Open-source, non-commercial, and stack-swappable, solving cod",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-01-22 日报】AI编码新范式：通过编排多AI代理集群与韧性设计，开发者仅用自然语言描述战略目标，即可自动生成完整功能集。系统开源、非商业、可替换，解决了代码质量与供应商伦理两大痛点。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-01-22): New AI coding paradigm: Orchestrate swarms of coding bots with resilience design. Developers describe strategic goals in plain English to auto-generate entire feature sets. Open-source, non-commercial, and stack-swappable, solving co"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-01-22）\n- AI编码新范式：通过编排多AI代理集群与韧性设计，开发者仅用自然语言描述战略目标，即可自动生成完整功能集。系统开源、非商业、可替换，解决了代码质量与供应商伦理两大痛点\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://anildash.com/2026/01/22/codeless/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-01-22)\n- New AI coding paradigm: Orchestrate swarms of coding bots with resilience design. Developers describe strategic goals in plain English to auto-generate entire feature sets. Open-source, non-commercial, and stack-swappable, solving code quality and vendor ethics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://anildash.com/2026/01/22/codeless/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：AI编码新范式：通过编排多AI代理集群与韧性设计，开发者仅用自然语言描述战略目标，即可自动生成完整功能集。系统开源、非商业、可替换，解决了代码质量与供应商伦理两大痛点。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: New AI coding paradigm: Orchestrate swarms of coding bots with resilience design. Developers describe strategic goals in plain English to auto-generate entire feature sets. Open-source, non-commercial, and stack-swappable, solving code quality and vendor ethics.\nI turned them i"
         }
       }
     }
