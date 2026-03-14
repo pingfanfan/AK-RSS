@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-14T18:03:53Z",
+  "generated_at": "2026-03-14T18:44:15Z",
   "days": [
     {
       "date": "2026-03-14",
-      "total": 10,
+      "total": 12,
       "feeds": [
         "daringfireball.net (2)",
         "construction-physics.com (1)",
+        "evanhahn.com (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "seangoedecke.com (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Jannis Leidel",
         "daringfireball.net · Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes",
         "daringfireball.net · Lil Finder Guy",
         "pluralistic.net · Pluralistic: Corrupt anticorruption (14 Mar 2026)",
         "shkspr.mobi · How Can Governments Pay Open Source Maintainers?",
-        "construction-physics.com · Reading List 03/14/26",
-        "nesbitt.io · What’s Going On with FAIR Package Manager"
+        "construction-physics.com · Reading List 03/14/26"
       ],
       "key_points": [
+        "Quoting Jannis Leidel",
         "科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险",
         "Lil Finder Guy",
-        "本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险",
-        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍"
+        "本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险"
       ],
       "key_points_zh": [
+        "Quoting Jannis Leidel",
         "科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险",
         "Lil Finder Guy",
-        "本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险",
-        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍"
+        "本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险"
       ],
       "key_points_en": [
+        "Quoting Jannis Leidel",
         "Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure",
         "Lil Finder Guy",
-        "Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance",
-        "Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes"
+        "Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance"
       ],
       "tweet_drafts": [
+        "Quoting Jannis Leidel",
         "当记者用AI生成虚假引语，解雇是必然结果。这不仅是个人失误，更是编辑流程对AI风险认知不足的体现。技术团队必须建立：1. AI内容强制验证 2. 流程内置检测 3. 持续风险培训。否则，下一个事故就在路上",
-        "Lil Finder Guy",
-        "警惕‘腐败的反腐’：权力游戏侵蚀治理根基。技术社区需行动：开源审计、透明算法、政策参与。全文：https://pluralistic.net/2026/03/14/ill-have-what-xis-having/"
+        "Lil Finder Guy"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Jannis Leidel",
+          "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "AI Hallucination Causes News Incident: Ars Technica Fires Involved Reporter",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Lil Finder Guy",
           "link": "https://basicappleguy.com/basicappleblog/lil-finder-guy"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Corrupt Anticorruption: The Paradox of Power and Governance",
-          "link": "https://pluralistic.net/2026/03/14/ill-have-what-xis-having/"
         }
       ],
-      "summary_zh": "2026-03-14 技术日报：科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险。",
-      "summary_en": "Daily brief (2026-03-14): Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy; Exposes systemic corruption",
+      "summary_zh": "2026-03-14 技术日报：Quoting Jannis Leidel；科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy。",
+      "summary_en": "Daily brief (2026-03-14): Quoting Jannis Leidel; Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-14 日报】科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-14): Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy; Exposes systemic corruption"
+          "zh": "【2026-03-14 日报】Quoting Jannis Leidel；科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-14): Quoting Jannis Leidel; Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy. Acti"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-14）\n- 科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险\n- Lil Finder Guy\n- 本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n- https://pluralistic.net/2026/03/14/ill-have-what-xis-having/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-14)\n- Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure\n- Lil Finder Guy\n- Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n- https://pluralistic.net/2026/03/14/ill-have-what-xis-having/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-14）\n- Quoting Jannis Leidel\n- 科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险\n- Lil Finder Guy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything\n- https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-14)\n- Quoting Jannis Leidel\n- Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure\n- Lil Finder Guy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything\n- https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy; Exposes systemic corruption disguised as anticorruption, warning of powe"
+          "zh": "今天最值得看的 3 个点：Quoting Jannis Leidel；科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Jannis Leidel; Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy.\nI turned them into an action-ready daily brief yo"
         }
       }
     },
