@@ -1,34 +1,46 @@
 {
-  "generated_at": "2026-03-14T07:41:59Z",
+  "generated_at": "2026-03-14T08:04:35Z",
   "days": [
     {
       "date": "2026-03-14",
-      "total": 2,
+      "total": 3,
       "feeds": [
         "seangoedecke.com (1)",
-        "tedium.co (1)"
+        "tedium.co (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · On today's web, HTTP results depend on the HTTP User-Agent you use",
         "tedium.co · Last-Run Syndication",
         "seangoedecke.com · Big tech engineers need big egos"
       ],
       "key_points": [
+        "同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个",
         "Last-Run Syndication",
-        "Big tech engineers need big egos"
+        "Big tech engineers need big egos",
+        "The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another"
       ],
       "key_points_zh": [
+        "同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个",
         "Last-Run Syndication",
         "Big tech engineers need big egos"
       ],
       "key_points_en": [
+        "The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another",
         "Last-Run Syndication",
         "Big tech engineers need big egos"
       ],
       "tweet_drafts": [
+        "你的爬虫看到的页面和用户看到的可能不是同一个。现代Web通过User-Agent差异化服务已成常态，导致调试和监控失效。关键：用浏览器、爬虫、工具UA多角度验证同一URL。别让单一UA欺骗了你",
         "Last-Run Syndication",
         "Big tech engineers need big egos"
       ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Web Content Now Varies by User-Agent: An Overlooked Infrastructure Risk",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents"
+        },
         {
           "feed_title": "tedium.co",
           "title": "Last-Run Syndication",
@@ -40,20 +52,20 @@
           "link": "https://seangoedecke.com/big-tech-needs-big-egos/"
         }
       ],
-      "summary_zh": "2026-03-14 技术日报：Last-Run Syndication；Big tech engineers need big egos。",
-      "summary_en": "Daily brief (2026-03-14): Last-Run Syndication; Big tech engineers need big egos.",
+      "summary_zh": "2026-03-14 技术日报：同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个；Last-Run Syndication；Big tech engineers need big egos。",
+      "summary_en": "Daily brief (2026-03-14): The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another; Last-Run Syndication; Big tech engineers need bi",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-14 日报】Last-Run Syndication；Big tech engineers need big egos。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-14): Last-Run Syndication; Big tech engineers need big egos. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-14 日报】同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个；Last-Run Syndication；Big tech engineers need big egos。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-14): The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another; Last-Run Syndication; Big tech engineers need b"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-14）\n- Last-Run Syndication\n- Big tech engineers need big egos\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline\n- https://seangoedecke.com/big-tech-needs-big-egos/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-14)\n- Last-Run Syndication\n- Big tech engineers need big egos\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline\n- https://seangoedecke.com/big-tech-needs-big-egos/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-14）\n- 同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个\n- Last-Run Syndication\n- Big tech engineers need big egos\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n- https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline\n- https://seangoedecke.com/big-tech-needs-big-egos/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-14)\n- The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another\n- Last-Run Syndication\n- Big tech engineers need big egos\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n- https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline\n- https://seangoedecke.com/big-tech-needs-big-egos/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Last-Run Syndication；Big tech engineers need big egos。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Last-Run Syndication; Big tech engineers need big egos.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个；Last-Run Syndication；Big tech engineers need big egos。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another; Last-Run Syndication; Big tech engineers need big egos.\nI turned them into an action-ready d"
         }
       }
     },
