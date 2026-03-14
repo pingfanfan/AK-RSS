@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-03-14T10:03:54Z",
+  "generated_at": "2026-03-14T10:41:39Z",
   "days": [
     {
       "date": "2026-03-14",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "idiallo.com (1)",
+        "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · What’s Going On with FAIR Package Manager",
         "idiallo.com · You Digg?",
         "utcc.utoronto.ca/~cks · On today's web, HTTP results depend on the HTTP User-Agent you use",
         "tedium.co · Last-Run Syndication",
         "seangoedecke.com · Big tech engineers need big egos"
       ],
       "key_points": [
+        "What’s Going On with FAIR Package Manager",
         "Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压",
         "同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个",
-        "Last-Run Syndication",
-        "Big tech engineers need big egos"
-      ],
-      "key_points_zh": [
-        "Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压",
-        "同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个",
-        "Last-Run Syndication",
-        "Big tech engineers need big egos"
-      ],
-      "key_points_en": [
-        "Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community",
-        "The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another",
-        "Last-Run Syndication",
-        "Big tech engineers need big egos"
-      ],
-      "tweet_drafts": [
-        "Digg二次关闭，主因AI机器人泛滥。真实社区死于AI垃圾信息。开发者需加强反AI滥用设计。#安全 #AI",
-        "你的爬虫看到的页面和用户看到的可能不是同一个。现代Web通过User-Agent差异化服务已成常态，导致调试和监控失效。关键：用浏览器、爬虫、工具UA多角度验证同一URL。别让单一UA欺骗了你",
         "Last-Run Syndication"
       ],
+      "key_points_zh": [
+        "What’s Going On with FAIR Package Manager",
+        "Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压",
+        "同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个",
+        "Last-Run Syndication"
+      ],
+      "key_points_en": [
+        "What’s Going On with FAIR Package Manager",
+        "Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community",
+        "The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another",
+        "Last-Run Syndication"
+      ],
+      "tweet_drafts": [
+        "What’s Going On with FAIR Package Manager",
+        "Digg二次关闭，主因AI机器人泛滥。真实社区死于AI垃圾信息。开发者需加强反AI滥用设计。#安全 #AI",
+        "你的爬虫看到的页面和用户看到的可能不是同一个。现代Web通过User-Agent差异化服务已成常态，导致调试和监控失效。关键：用浏览器、爬虫、工具UA多角度验证同一URL。别让单一UA欺骗了你"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "What’s Going On with FAIR Package Manager",
+          "link": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "You Digg?",
@@ -49,27 +56,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Web Content Now Varies by User-Agent: An Overlooked Infrastructure Risk",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Last-Run Syndication",
-          "link": "https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline"
         }
       ],
-      "summary_zh": "2026-03-14 技术日报：Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个；Last-Run Syndication。",
-      "summary_en": "Daily brief (2026-03-14): Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unrel",
+      "summary_zh": "2026-03-14 技术日报：What’s Going On with FAIR Package Manager；Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个。",
+      "summary_en": "Daily brief (2026-03-14): What’s Going On with FAIR Package Manager; Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making c",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-14 日报】Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个；Last-Run Syndication。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-14): Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unre"
+          "zh": "【2026-03-14 日报】What’s Going On with FAIR Package Manager；Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-14): What’s Going On with FAIR Package Manager; Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-14）\n- Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压\n- 同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个\n- Last-Run Syndication\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/digg-is-gone-again?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n- https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-14)\n- Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community\n- The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another\n- Last-Run Syndication\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/digg-is-gone-again?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n- https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-14）\n- What’s Going On with FAIR Package Manager\n- Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压\n- 同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html\n- https://idiallo.com/byte-size/digg-is-gone-again?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-14)\n- What’s Going On with FAIR Package Manager\n- Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community\n- The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html\n- https://idiallo.com/byte-size/digg-is-gone-again?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个；Last-Run Syndication。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA"
+          "zh": "今天最值得看的 3 个点：What’s Going On with FAIR Package Manager；Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What’s Going On with FAIR Package Manager; Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreli"
         }
       }
     },
