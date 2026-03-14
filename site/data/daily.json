@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-14T17:04:54Z",
+  "generated_at": "2026-03-14T17:39:57Z",
   "days": [
     {
       "date": "2026-03-14",
-      "total": 9,
+      "total": 10,
       "feeds": [
+        "daringfireball.net (2)",
         "construction-physics.com (1)",
-        "daringfireball.net (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
         "seangoedecke.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes",
         "daringfireball.net · Lil Finder Guy",
         "pluralistic.net · Pluralistic: Corrupt anticorruption (14 Mar 2026)",
         "shkspr.mobi · How Can Governments Pay Open Source Maintainers?",
         "construction-physics.com · Reading List 03/14/26",
-        "nesbitt.io · What’s Going On with FAIR Package Manager",
-        "idiallo.com · You Digg?"
+        "nesbitt.io · What’s Going On with FAIR Package Manager"
       ],
       "key_points": [
+        "科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险",
         "Lil Finder Guy",
         "本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险",
-        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍",
-        "本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者"
+        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍"
       ],
       "key_points_zh": [
+        "科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险",
         "Lil Finder Guy",
         "本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险",
-        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍",
-        "本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者"
+        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍"
       ],
       "key_points_en": [
+        "Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure",
         "Lil Finder Guy",
         "Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance",
-        "Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes",
-        "This reading list curates cutting-edge articles on construction physics and engineering innovation, covering materials science, structural analysis, and sustainable infrastructure tech for developers focused on digitization"
+        "Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes"
       ],
       "tweet_drafts": [
+        "当记者用AI生成虚假引语，解雇是必然结果。这不仅是个人失误，更是编辑流程对AI风险认知不足的体现。技术团队必须建立：1. AI内容强制验证 2. 流程内置检测 3. 持续风险培训。否则，下一个事故就在路上",
         "Lil Finder Guy",
-        "警惕‘腐败的反腐’：权力游戏侵蚀治理根基。技术社区需行动：开源审计、透明算法、政策参与。全文：https://pluralistic.net/2026/03/14/ill-have-what-xis-having/",
-        "政府想付钱给开源维护者，却卡在‘不知道付给谁’和‘怕违反制裁’。维护者主动提供清晰支付路径，是破局关键。 #开源可持续"
+        "警惕‘腐败的反腐’：权力游戏侵蚀治理根基。技术社区需行动：开源审计、透明算法、政策参与。全文：https://pluralistic.net/2026/03/14/ill-have-what-xis-having/"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "AI Hallucination Causes News Incident: Ars Technica Fires Involved Reporter",
+          "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Lil Finder Guy",
@@ -53,27 +58,22 @@
           "feed_title": "pluralistic.net",
           "title": "Corrupt Anticorruption: The Paradox of Power and Governance",
           "link": "https://pluralistic.net/2026/03/14/ill-have-what-xis-having/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "How Can Governments Pay Open Source Maintainers?",
-          "link": "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/"
         }
       ],
-      "summary_zh": "2026-03-14 技术日报：Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险；政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍。",
-      "summary_en": "Daily brief (2026-03-14): Lil Finder Guy; Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance; Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, complianc",
+      "summary_zh": "2026-03-14 技术日报：科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险。",
+      "summary_en": "Daily brief (2026-03-14): Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy; Exposes systemic corruption",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-14 日报】Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险；政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-14): Lil Finder Guy; Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance; Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, complian"
+          "zh": "【2026-03-14 日报】科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-14): Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy; Exposes systemic corruption"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-14）\n- Lil Finder Guy\n- 本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险\n- 政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n- https://pluralistic.net/2026/03/14/ill-have-what-xis-having/\n- https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-14)\n- Lil Finder Guy\n- Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance\n- Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n- https://pluralistic.net/2026/03/14/ill-have-what-xis-having/\n- https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-14）\n- 科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险\n- Lil Finder Guy\n- 本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n- https://pluralistic.net/2026/03/14/ill-have-what-xis-having/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-14)\n- Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure\n- Lil Finder Guy\n- Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\n- https://basicappleguy.com/basicappleblog/lil-finder-guy\n- https://pluralistic.net/2026/03/14/ill-have-what-xis-having/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险；政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Lil Finder Guy; Exposes systemic corruption disguised as anticorruption, warning of power abuse and trust collapse in tech governance; Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex paym"
+          "zh": "今天最值得看的 3 个点：科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险；Lil Finder Guy；本文揭露以反腐为名的系统性腐败，警示技术治理中的权力滥用与信任崩塌风险。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure; Lil Finder Guy; Exposes systemic corruption disguised as anticorruption, warning of powe"
         }
       }
     },
