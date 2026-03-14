@@ -1,77 +1,79 @@
 {
-  "generated_at": "2026-03-14T12:02:10Z",
+  "generated_at": "2026-03-14T12:45:22Z",
   "days": [
     {
       "date": "2026-03-14",
-      "total": 5,
+      "total": 7,
       "feeds": [
+        "construction-physics.com (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
-        "tedium.co (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)",
+        "tedium.co (1)"
       ],
       "highlights": [
+        "shkspr.mobi · How Can Governments Pay Open Source Maintainers?",
+        "construction-physics.com · Reading List 03/14/26",
         "nesbitt.io · What’s Going On with FAIR Package Manager",
         "idiallo.com · You Digg?",
         "utcc.utoronto.ca/~cks · On today's web, HTTP results depend on the HTTP User-Agent you use",
-        "tedium.co · Last-Run Syndication",
-        "seangoedecke.com · Big tech engineers need big egos"
+        "tedium.co · Last-Run Syndication"
       ],
       "key_points": [
+        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍",
+        "本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者",
         "What’s Going On with FAIR Package Manager",
-        "Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压",
-        "同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个",
-        "Last-Run Syndication"
+        "Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压"
       ],
       "key_points_zh": [
+        "政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍",
+        "本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者",
         "What’s Going On with FAIR Package Manager",
-        "Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压",
-        "同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个",
-        "Last-Run Syndication"
+        "Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压"
       ],
       "key_points_en": [
+        "Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes",
+        "This reading list curates cutting-edge articles on construction physics and engineering innovation, covering materials science, structural analysis, and sustainable infrastructure tech for developers focused on digitization",
         "What’s Going On with FAIR Package Manager",
-        "Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community",
-        "The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another",
-        "Last-Run Syndication"
+        "Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community"
       ],
       "tweet_drafts": [
-        "What’s Going On with FAIR Package Manager",
-        "Digg二次关闭，主因AI机器人泛滥。真实社区死于AI垃圾信息。开发者需加强反AI滥用设计。#安全 #AI",
-        "你的爬虫看到的页面和用户看到的可能不是同一个。现代Web通过User-Agent差异化服务已成常态，导致调试和监控失效。关键：用浏览器、爬虫、工具UA多角度验证同一URL。别让单一UA欺骗了你"
+        "政府想付钱给开源维护者，却卡在‘不知道付给谁’和‘怕违反制裁’。维护者主动提供清晰支付路径，是破局关键。 #开源可持续",
+        "建筑物理阅读列表更新！材料、结构、可持续技术精选。开发者看基础设施趋势：https://www.construction-physics.com/p/reading-list-031426",
+        "What’s Going On with FAIR Package Manager"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "How Can Governments Pay Open Source Maintainers?",
+          "link": "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/"
+        },
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Reading List 03/14/26",
+          "link": "https://www.construction-physics.com/p/reading-list-031426"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "What’s Going On with FAIR Package Manager",
           "link": "https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "You Digg?",
-          "link": "https://idiallo.com/byte-size/digg-is-gone-again?src=feed"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Web Content Now Varies by User-Agent: An Overlooked Infrastructure Risk",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents"
         }
       ],
-      "summary_zh": "2026-03-14 技术日报：What’s Going On with FAIR Package Manager；Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个。",
-      "summary_en": "Daily brief (2026-03-14): What’s Going On with FAIR Package Manager; Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making c",
+      "summary_zh": "2026-03-14 技术日报：政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍；本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者；What’s Going On with FAIR Package Manager。",
+      "summary_en": "Daily brief (2026-03-14): Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes; This reading list curates cutting-edge articles on construction physics and",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-14 日报】What’s Going On with FAIR Package Manager；Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-14): What’s Going On with FAIR Package Manager; Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making"
+          "zh": "【2026-03-14 日报】政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍；本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者；What’s Going On with FAIR Package Manager。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-14): Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes; This reading list curates cutting-edge articles on construction physics and"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-14）\n- What’s Going On with FAIR Package Manager\n- Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压\n- 同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html\n- https://idiallo.com/byte-size/digg-is-gone-again?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-14)\n- What’s Going On with FAIR Package Manager\n- Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community\n- The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreliable. You cannot assume results from one UA apply to another\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html\n- https://idiallo.com/byte-size/digg-is-gone-again?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-14）\n- 政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍\n- 本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者\n- What’s Going On with FAIR Package Manager\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\n- https://www.construction-physics.com/p/reading-list-031426\n- https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-14)\n- Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes\n- This reading list curates cutting-edge articles on construction physics and engineering innovation, covering materials science, structural analysis, and sustainable infrastructure tech for developers focused on digitization\n- What’s Going On with FAIR Package Manager\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/\n- https://www.construction-physics.com/p/reading-list-031426\n- https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What’s Going On with FAIR Package Manager；Digg二次关闭，CEO归因于AI驱动的机器人泛滥，真实社区对话空间被挤压；同一URL返回的内容因HTTP User-Agent不同而不同，导致爬虫、链接预览和调试结果不可靠。不能假设一个UA的结果适用于另一个。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What’s Going On with FAIR Package Manager; Digg shuts down again, CEO cites AI-powered bot epidemic flooding conversations and killing genuine community; The same URL can return different content based on the HTTP User-Agent, making crawlers, link previews, and debugging unreli"
+          "zh": "今天最值得看的 3 个点：政府大量使用开源软件，但支付维护者面临所有权不明、合规审查（如制裁名单）和支付流程复杂等核心障碍；本期阅读列表聚焦建筑物理与工程创新，推荐材料科学、结构分析及可持续基础设施技术的前沿文章，适合关注基础设施数字化的开发者；What’s Going On with FAIR Package Manager。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Governments heavily rely on OSS but struggle to pay maintainers due to unclear ownership, compliance checks (sanctions lists), and complex payment processes; This reading list curates cutting-edge articles on construction physics and engineering innovation, covering materials s"
         }
       }
     },
