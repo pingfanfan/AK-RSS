@@ -1,16 +1,61 @@
 {
-  "generated_at": "2026-03-14T22:40:58Z",
+  "generated_at": "2026-03-15T06:16:20Z",
   "days": [
     {
+      "date": "2026-03-15",
+      "total": 1,
+      "feeds": [
+        "daringfireball.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam"
+      ],
+      "key_points": [
+        "Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam"
+      ],
+      "key_points_zh": [
+        "Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam"
+      ],
+      "key_points_en": [
+        "Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam"
+      ],
+      "tweet_drafts": [
+        "Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam",
+          "link": "https://ma.tt/2026/03/gone-almost-phishin/"
+        }
+      ],
+      "summary_zh": "2026-03-15 技术日报：Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam。",
+      "summary_en": "Daily brief (2026-03-15): Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-15 日报】Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-15): Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-15）\n- Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://ma.tt/2026/03/gone-almost-phishin/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-15)\n- Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://ma.tt/2026/03/gone-almost-phishin/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-14",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "daringfireball.net (4)",
+        "computer.rip (1)",
         "construction-physics.com (1)",
         "evanhahn.com (1)",
         "idiallo.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
         "daringfireball.net · iFixit’s MacBook Neo Teardown",
@@ -2202,77 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：本文完整实现了Wagon算法，用数论方法高效求解奇素数p = a² + b²，核心是找二次非剩余、计算-1的平方根，并用修改版欧几里得算法，关键是用`isqrt`避免大数浮点精度问题；当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到；Finding a non-square mod p。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Wagon’s algorithm in Python; Finding a square root of -1 mod p; Finding a non-square mod p.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-02-13",
-      "total": 4,
-      "feeds": [
-        "simonwillison.net (2)",
-        "garymarcus.substack.com (1)",
-        "wheresyoured.at (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Anthropic's public benefit mission",
-        "simonwillison.net · The evolution of OpenAI's mission statement",
-        "garymarcus.substack.com · Irony, Irony laced with Karma, and Terror",
-        "wheresyoured.at · Premium: The AI Data Center Financial Crisis"
-      ],
-      "key_points": [
-        "Anthropic的公益使命表述从2021年的“文化、社会和技术进步”简化为2024年的“人类长期利益”，反映其安全优先策略",
-        "The evolution of OpenAI's mission statement",
-        "Irony, Irony laced with Karma, and Terror",
-        "Premium: The AI Data Center Financial Crisis"
-      ],
-      "key_points_zh": [
-        "Anthropic的公益使命表述从2021年的“文化、社会和技术进步”简化为2024年的“人类长期利益”，反映其安全优先策略",
-        "The evolution of OpenAI's mission statement",
-        "Irony, Irony laced with Karma, and Terror",
-        "Premium: The AI Data Center Financial Crisis"
-      ],
-      "key_points_en": [
-        "Anthropic's public benefit mission",
-        "The evolution of OpenAI's mission statement",
-        "Irony, Irony laced with Karma, and Terror",
-        "Premium: The AI Data Center Financial Crisis"
-      ],
-      "tweet_drafts": [
-        "Anthropic公益使命从“文化/社会/技术”调整为“人类长期利益”，安全优先策略明确。开发者应核查其安全实践是否匹配此理念，并关注公开文件。 #AI安全 #Anthropic",
-        "The evolution of OpenAI's mission statement https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
-        "Irony, Irony laced with Karma, and Terror https://garymarcus.substack.com/p/irony-irony-laced-with-karma-and"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Anthropic's public benefit mission",
-          "link": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The evolution of OpenAI's mission statement",
-          "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything"
-        },
-        {
-          "feed_title": "garymarcus.substack.com",
-          "title": "Irony, Irony laced with Karma, and Terror",
-          "link": "https://garymarcus.substack.com/p/irony-irony-laced-with-karma-and"
-        }
-      ],
-      "summary_zh": "2026-02-13 技术日报：Anthropic的公益使命表述从2021年的“文化、社会和技术进步”简化为2024年的“人类长期利益”，反映其安全优先策略；The evolution of OpenAI's mission statement；Irony, Irony laced with Karma, and Terror。",
-      "summary_en": "Daily brief (2026-02-13): Anthropic's public benefit mission; The evolution of OpenAI's mission statement; Irony, Irony laced with Karma, and Terror.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-13 日报】Anthropic的公益使命表述从2021年的“文化、社会和技术进步”简化为2024年的“人类长期利益”，反映其安全优先策略；The evolution of OpenAI's mission statement；Irony, Irony laced with Karma, and Terror。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-13): Anthropic's public benefit mission; The evolution of OpenAI's mission statement; Irony, Irony laced with Karma, and Terror. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-13）\n- Anthropic的公益使命表述从2021年的“文化、社会和技术进步”简化为2024年的“人类长期利益”，反映其安全优先策略\n- The evolution of OpenAI's mission statement\n- Irony, Irony laced with Karma, and Terror\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything\n- https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything\n- https://garymarcus.substack.com/p/irony-irony-laced-with-karma-and\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-13)\n- Anthropic's public benefit mission\n- The evolution of OpenAI's mission statement\n- Irony, Irony laced with Karma, and Terror\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything\n- https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything\n- https://garymarcus.substack.com/p/irony-irony-laced-with-karma-and\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic的公益使命表述从2021年的“文化、社会和技术进步”简化为2024年的“人类长期利益”，反映其安全优先策略；The evolution of OpenAI's mission statement；Irony, Irony laced with Karma, and Terror。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Anthropic's public benefit mission; The evolution of OpenAI's mission statement; Irony, Irony laced with Karma, and Terror.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
