@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T15:41:09Z",
+  "generated_at": "2026-03-15T16:04:17Z",
   "days": [
     {
       "date": "2026-03-15",
@@ -76,45 +76,45 @@
     },
     {
       "date": "2026-03-14",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (4)",
+        "utcc.utoronto.ca/~cks (2)",
         "computer.rip (1)",
         "construction-physics.com (1)",
         "evanhahn.com (1)",
-        "idiallo.com (1)",
-        "nesbitt.io (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
         "daringfireball.net · iFixit’s MacBook Neo Teardown",
+        "utcc.utoronto.ca/~cks · I think dependency cooldowns would be a good idea for Go",
         "daringfireball.net · PC Makers Are Not Ready for the MacBook Neo",
         "simonwillison.net · Quoting Jannis Leidel",
         "daringfireball.net · Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes",
-        "daringfireball.net · Lil Finder Guy",
-        "pluralistic.net · Pluralistic: Corrupt anticorruption (14 Mar 2026)"
+        "daringfireball.net · Lil Finder Guy"
       ],
       "key_points": [
         "iFixit’s MacBook Neo Teardown",
+        "Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险",
         "华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后",
-        "Quoting Jannis Leidel",
-        "科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险"
+        "Quoting Jannis Leidel"
       ],
       "key_points_zh": [
         "iFixit’s MacBook Neo Teardown",
+        "Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险",
         "华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后",
-        "Quoting Jannis Leidel",
-        "科技媒体Ars Technica因记者使用AI工具生成虚假引语发布报道，在撤回文章后将其解雇。事件暴露了AI工具滥用与编辑审核流程失效的双重风险"
+        "Quoting Jannis Leidel"
       ],
       "key_points_en": [
         "iFixit’s MacBook Neo Teardown",
+        "Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks",
         "Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' understanding of Apple Silicon is dangerously outdated",
-        "Quoting Jannis Leidel",
-        "Tech publication Ars Technica fired a reporter after he published a story containing AI-generated fake quotes. The incident highlights risks of AI tool misuse and editorial process failure"
+        "Quoting Jannis Leidel"
       ],
       "tweet_drafts": [
         "iFixit’s MacBook Neo Teardown",
-        "华硕高管：MacBook Neo 8GB RAM只配刷视频？实测A18 Pro单核性能碾压其旗舰，价格1/4。PC厂商对Apple Silicon的认知该更新了。开发者：你选设备看新闻稿还是跑分？",
-        "Quoting Jannis Leidel"
+        "Go的依赖冷却期提案：新版本发布后强制等待一段时间再更新，避免因Dependabot等自动化工具瞬间拉取而引发连锁故障。工具链该原生支持吗？",
+        "华硕高管：MacBook Neo 8GB RAM只配刷视频？实测A18 Pro单核性能碾压其旗舰，价格1/4。PC厂商对Apple Silicon的认知该更新了。开发者：你选设备看新闻稿还是跑分？"
       ],
       "sources": [
         {
@@ -123,30 +123,30 @@
           "link": "https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years"
         },
         {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "I think dependency cooldowns would be a good idea for Go",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood"
+        },
+        {
           "feed_title": "daringfireball.net",
           "title": "PC Makers Are Not Ready for the MacBook Neo",
           "link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Jannis Leidel",
-          "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-14 技术日报：iFixit’s MacBook Neo Teardown；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后；Quoting Jannis Leidel。",
-      "summary_en": "Daily brief (2026-03-14): iFixit’s MacBook Neo Teardown; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' unde",
+      "summary_zh": "2026-03-14 技术日报：iFixit’s MacBook Neo Teardown；Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后。",
+      "summary_en": "Daily brief (2026-03-14): iFixit’s MacBook Neo Teardown; Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove i",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-14 日报】iFixit’s MacBook Neo Teardown；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后；Quoting Jannis Leidel。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-14): iFixit’s MacBook Neo Teardown; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' und"
+          "zh": "【2026-03-14 日报】iFixit’s MacBook Neo Teardown；Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-14): iFixit’s MacBook Neo Teardown; Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-14）\n- iFixit’s MacBook Neo Teardown\n- 华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后\n- Quoting Jannis Leidel\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years\n- https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth\n- https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-14)\n- iFixit’s MacBook Neo Teardown\n- Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' understanding of Apple Silicon is dangerously outdated\n- Quoting Jannis Leidel\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years\n- https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth\n- https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-14）\n- iFixit’s MacBook Neo Teardown\n- Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险\n- 华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood\n- https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-14)\n- iFixit’s MacBook Neo Teardown\n- Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks\n- Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' understanding of Apple Silicon is dangerously outdated\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood\n- https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：iFixit’s MacBook Neo Teardown；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后；Quoting Jannis Leidel。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: iFixit’s MacBook Neo Teardown; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' understanding of Apple Silicon is dangerously ou"
+          "zh": "今天最值得看的 3 个点：iFixit’s MacBook Neo Teardown；Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: iFixit’s MacBook Neo Teardown; Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400"
         }
       }
     },
