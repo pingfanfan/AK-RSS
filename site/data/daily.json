@@ -1,48 +1,54 @@
 {
-  "generated_at": "2026-03-15T19:38:53Z",
+  "generated_at": "2026-03-15T20:02:42Z",
   "days": [
     {
       "date": "2026-03-15",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "daringfireball.net (2)",
         "berthub.eu (1)",
+        "johndcook.com (1)",
         "martinalderson.com (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)"
       ],
       "highlights": [
+        "johndcook.com · Langford series",
         "daringfireball.net · ‘This Is Not the Computer for You’",
         "shkspr.mobi · Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆",
         "berthub.eu · BertVote Gemeenteraadsverkiezingen 2026",
         "nesbitt.io · Guided Meditation for Developers",
-        "daringfireball.net · Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam",
-        "martinalderson.com · Why Claude's new 1M context length is a big deal"
+        "daringfireball.net · Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam"
       ],
       "key_points": [
+        "Langford series",
         "‘This Is Not the Computer for You’",
         "本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值",
-        "BertVote Gemeenteraadsverkiezingen 2026",
-        "Guided Meditation for Developers"
-      ],
-      "key_points_zh": [
-        "‘This Is Not the Computer for You’",
-        "本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值",
-        "BertVote Gemeenteraadsverkiezingen 2026",
-        "Guided Meditation for Developers"
-      ],
-      "key_points_en": [
-        "‘This Is Not the Computer for You’",
-        "This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses caused by trivial coding errors",
-        "BertVote Gemeenteraadsverkiezingen 2026",
-        "Guided Meditation for Developers"
-      ],
-      "tweet_drafts": [
-        "‘This Is Not the Computer for You’",
-        "书评：太空机器人探索史中，一个缺失的连字符让Phobos 1永久失联。技术失误是太空任务最大弱点，开发者必读警示案例。 #DevOps #安全",
         "BertVote Gemeenteraadsverkiezingen 2026"
       ],
+      "key_points_zh": [
+        "Langford series",
+        "‘This Is Not the Computer for You’",
+        "本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值",
+        "BertVote Gemeenteraadsverkiezingen 2026"
+      ],
+      "key_points_en": [
+        "Langford series",
+        "‘This Is Not the Computer for You’",
+        "This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses caused by trivial coding errors",
+        "BertVote Gemeenteraadsverkiezingen 2026"
+      ],
+      "tweet_drafts": [
+        "Langford series",
+        "‘This Is Not the Computer for You’",
+        "书评：太空机器人探索史中，一个缺失的连字符让Phobos 1永久失联。技术失误是太空任务最大弱点，开发者必读警示案例。 #DevOps #安全"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Langford series",
+          "link": "https://www.johndcook.com/blog/2026/03/15/langford-series/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "‘This Is Not the Computer for You’",
@@ -52,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers ★★★⯪☆",
           "link": "https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "BertVote Gemeenteraadsverkiezingen 2026",
-          "link": "https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/"
         }
       ],
-      "summary_zh": "2026-03-15 技术日报：‘This Is Not the Computer for You’；本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值；BertVote Gemeenteraadsverkiezingen 2026。",
-      "summary_en": "Daily brief (2026-03-15): ‘This Is Not the Computer for You’; This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses",
+      "summary_zh": "2026-03-15 技术日报：Langford series；‘This Is Not the Computer for You’；本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值。",
+      "summary_en": "Daily brief (2026-03-15): Langford series; ‘This Is Not the Computer for You’; This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastroph",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-15 日报】‘This Is Not the Computer for You’；本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值；BertVote Gemeenteraadsverkiezingen 2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-15): ‘This Is Not the Computer for You’; This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losse"
+          "zh": "【2026-03-15 日报】Langford series；‘This Is Not the Computer for You’；本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-15): Langford series; ‘This Is Not the Computer for You’; This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrop"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-15）\n- ‘This Is Not the Computer for You’\n- 本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值\n- BertVote Gemeenteraadsverkiezingen 2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me\n- https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/\n- https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-15)\n- ‘This Is Not the Computer for You’\n- This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses caused by trivial coding errors\n- BertVote Gemeenteraadsverkiezingen 2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me\n- https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/\n- https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-15）\n- Langford series\n- ‘This Is Not the Computer for You’\n- 本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/15/langford-series/\n- https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me\n- https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-15)\n- Langford series\n- ‘This Is Not the Computer for You’\n- This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses caused by trivial coding errors\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/15/langford-series/\n- https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me\n- https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘This Is Not the Computer for You’；本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值；BertVote Gemeenteraadsverkiezingen 2026。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘This Is Not the Computer for You’; This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses caused by trivial coding errors; BertVote G"
+          "zh": "今天最值得看的 3 个点：Langford series；‘This Is Not the Computer for You’；本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Langford series; ‘This Is Not the Computer for You’; This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses caused by trivial coding e"
         }
       }
     },
