@@ -1,10 +1,19 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-15 22:41:16 UTC
+Generated at: 2026-03-16 06:25:32 UTC
 
-- [The optimized self and the life that got away](https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/) (`joanwestenberg.com`)
-  - TLDR: 文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀。
-  - WHAT: 核心分析自我优化范式的历史迁移：从Samuel Smiles倡导的通过阅读、 civic participation 等内在品德建设，演变为当今互联网对身体进行 managerial 式监控（睡眠、营养、运动数据化），将人视为可无限优化的系统，导致生活体验被单一目标光束穿透。
-  - WHY: 对开发者至关重要：我们习惯将系统、代码、流程极致优化，但此逻辑若套用于自身与生活，易陷入‘优化暴政’——产生技术债务式身心疲惫、忽略非量化价值（如灵感、松弛、偶然性），最终‘优化’了指标却‘错失’了生活本身。
-  - ACTION: 1. 审视个人健康/效率追踪：识别哪些数据收集已从工具变为目的。2. 设定‘无监控时段’：每天/周保留不记录、不评估的纯粹体验时间。3. 定期评估优化目标：问自己‘我在优化什么？为何优化？这让我更接近想要的生活吗？’
-  - TWEET: 从Samuel Smiles的《Self-Help》到今天的‘身体项目管理’，自我优化已从内在品德建设异化为外在指标暴政。对开发者而言，这是深刻警示：我们擅长优化系统，但勿将人系统化。警惕‘优化’成瘾，留白才是真正的架构艺术。
+- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything) (`simonwillison.net`)
+- [CHM Live: Apple at 50](https://www.youtube.com/live/eCSNJgI2LFI) (`daringfireball.net`)
+- [Twelve-tone composition](https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/) (`johndcook.com`)
+  - TLDR: 十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作。
+  - WHAT: 一种无调性作曲方法：作曲家创建一个12个半音的序列（音列），并严格按此顺序使用音符（可移调、变节奏）。通过逆行（R）、倒置（I）等操作生成变体，形成4种基本形式（P, R, I, RI）。
+  - WHY: 对开发者而言，这是算法约束创造力的典型案例：用有限规则（12音序列+群操作）避免模式化，类似密码学置换或程序化生成。作者认为数学应用于节奏比旋律更易听，提示规则需适配人类感知。
+  - ACTION: 尝试用代码生成12音序列（如随机排列），并实现R/I/RI操作；探索其他音乐数学结构（如节奏的欧几里得算法）；思考如何将此类约束系统应用于UI设计或安全协议。
+  - TWEET: 十二音序列的数学：12!种可能，循环等价下剩11!种。逆行/倒置生成阿贝尔群Z₂×Z₂。规则越严，越需创造力——这对算法设计有何启示？
+- [Shower Thought: Git Teleportation](https://idiallo.com/byte-size/git-teleportation?src=feed) (`idiallo.com`)
+- [Food, Software, and Trade-offs](https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/) (`blog.jim-nielsen.com`)
+  - TLDR: 用食物类比阐述软件选择本质是权衡：AI生成代码与人工代码有根本区别，不存在普适“最佳”，需根据场景评估得失。
+  - WHAT: 通过麦当劳派、市售派和自制派的例子，讨论软件中“最佳”定义的多样性，强调所有方案都有权衡，AI生成软件与人工软件不可简单等同。
+  - WHY: 帮助开发者在AI时代避免非黑即白思维，理性评估技术选型，理解不同方案的适用场景与代价，做出更明智的架构与产品决策。
+  - ACTION: 在技术决策中明确核心指标（如性能、安全、成本），为每个选项列出“得”与“失”，避免追求“全能”方案，定期复盘权衡是否仍符合目标。
+  - TWEET: 软件选型如同选食物：AI生成快但可能牺牲可审计性，人工编写慢但更可控。关键不是谁更好，而是你的场景需要放弃什么。 #技术权衡

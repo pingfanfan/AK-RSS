@@ -1,79 +1,124 @@
 {
-  "generated_at": "2026-03-15T22:41:45Z",
+  "generated_at": "2026-03-16T06:27:18Z",
   "days": [
     {
-      "date": "2026-03-15",
-      "total": 8,
+      "date": "2026-03-16",
+      "total": 1,
       "feeds": [
-        "daringfireball.net (2)",
-        "berthub.eu (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)",
-        "martinalderson.com (1)",
-        "nesbitt.io (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
-        "joanwestenberg.com · The optimized self and the life that got away",
-        "johndcook.com · Langford series",
-        "daringfireball.net · ‘This Is Not the Computer for You’",
-        "shkspr.mobi · Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆",
-        "berthub.eu · BertVote Gemeenteraadsverkiezingen 2026",
-        "nesbitt.io · Guided Meditation for Developers"
+        "idiallo.com · Shower Thought: Git Teleportation"
       ],
       "key_points": [
-        "文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀",
-        "Langford series",
-        "‘This Is Not the Computer for You’",
-        "本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值"
+        "Shower Thought: Git Teleportation"
       ],
       "key_points_zh": [
-        "文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀",
-        "Langford series",
-        "‘This Is Not the Computer for You’",
-        "本书回顾太空机器人探索史，揭示政治博弈与技术失误，但对计算机从业者而言，那些因微小代码错误导致任务失败的案例更具警示价值"
+        "Shower Thought: Git Teleportation"
       ],
       "key_points_en": [
-        "The article traces the alienation of self-optimization culture from 19th-century moral cultivation to contemporary body-as-a-project management, critiquing the over-tracking of metrics and habit-stacking that neglects life's holistic texture, warning against the erosion of human experience by technical thinking",
-        "Langford series",
-        "‘This Is Not the Computer for You’",
-        "This book catalogs robotic space exploration history, highlighting political maneuvering and technical failures. For tech professionals, the most valuable lessons are the catastrophic mission losses caused by trivial coding errors"
+        "Shower Thought: Git Teleportation"
       ],
       "tweet_drafts": [
-        "从Samuel Smiles的《Self-Help》到今天的‘身体项目管理’，自我优化已从内在品德建设异化为外在指标暴政。对开发者而言，这是深刻警示：我们擅长优化系统，但勿将人系统化。警惕‘优化’成瘾，留白才是真正的架构艺术",
-        "Langford series",
-        "‘This Is Not the Computer for You’"
+        "Shower Thought: Git Teleportation"
       ],
       "sources": [
         {
-          "feed_title": "joanwestenberg.com",
-          "title": "The optimized self and the life that got away",
-          "link": "https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/"
+          "feed_title": "idiallo.com",
+          "title": "Shower Thought: Git Teleportation",
+          "link": "https://idiallo.com/byte-size/git-teleportation?src=feed"
+        }
+      ],
+      "summary_zh": "2026-03-16 技术日报：Shower Thought: Git Teleportation。",
+      "summary_en": "Daily brief (2026-03-16): Shower Thought: Git Teleportation.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-16 日报】Shower Thought: Git Teleportation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-16): Shower Thought: Git Teleportation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-16）\n- Shower Thought: Git Teleportation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/git-teleportation?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-16)\n- Shower Thought: Git Teleportation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/git-teleportation?src=feed\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Shower Thought: Git Teleportation。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Shower Thought: Git Teleportation.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "total": 12,
+      "feeds": [
+        "daringfireball.net (3)",
+        "johndcook.com (2)",
+        "berthub.eu (1)",
+        "blog.jim-nielsen.com (1)",
+        "joanwestenberg.com (1)",
+        "martinalderson.com (1)"
+      ],
+      "highlights": [
+        "johndcook.com · Twelve-tone composition",
+        "daringfireball.net · CHM Live: Apple at 50",
+        "simonwillison.net · What is agentic engineering?",
+        "joanwestenberg.com · The optimized self and the life that got away",
+        "johndcook.com · Langford series",
+        "blog.jim-nielsen.com · Food, Software, and Trade-offs"
+      ],
+      "key_points": [
+        "十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作",
+        "CHM Live: Apple at 50",
+        "What is agentic engineering?",
+        "文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀"
+      ],
+      "key_points_zh": [
+        "十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作",
+        "CHM Live: Apple at 50",
+        "What is agentic engineering?",
+        "文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀"
+      ],
+      "key_points_en": [
+        "Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation",
+        "CHM Live: Apple at 50",
+        "What is agentic engineering?",
+        "The article traces the alienation of self-optimization culture from 19th-century moral cultivation to contemporary body-as-a-project management, critiquing the over-tracking of metrics and habit-stacking that neglects life's holistic texture, warning against the erosion of human experience by technical thinking"
+      ],
+      "tweet_drafts": [
+        "十二音序列的数学：12!种可能，循环等价下剩11!种。逆行/倒置生成阿贝尔群Z₂×Z₂。规则越严，越需创造力——这对算法设计有何启示？",
+        "CHM Live: Apple at 50",
+        "What is agentic engineering?"
+      ],
+      "sources": [
         {
           "feed_title": "johndcook.com",
-          "title": "Langford series",
-          "link": "https://www.johndcook.com/blog/2026/03/15/langford-series/"
+          "title": "Twelve-tone composition",
+          "link": "https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/"
         },
         {
           "feed_title": "daringfireball.net",
-          "title": "‘This Is Not the Computer for You’",
-          "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me"
+          "title": "CHM Live: Apple at 50",
+          "link": "https://www.youtube.com/live/eCSNJgI2LFI"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "What is agentic engineering?",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-15 技术日报：文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀；Langford series；‘This Is Not the Computer for You’。",
-      "summary_en": "Daily brief (2026-03-15): The article traces the alienation of self-optimization culture from 19th-century moral cultivation to contemporary body-as-a-project management, critiquing the over-tracking of metrics and habit-stacking that neglects life's holistic",
+      "summary_zh": "2026-03-15 技术日报：十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作；CHM Live: Apple at 50；What is agentic engineering?。",
+      "summary_en": "Daily brief (2026-03-15): Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation; CHM Live: Apple at 50; What is agentic engineering?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-15 日报】文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀；Langford series；‘This Is Not the Computer for You’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-15): The article traces the alienation of self-optimization culture from 19th-century moral cultivation to contemporary body-as-a-project management, critiquing the over-tracking of metrics and habit-stacking that neglects life's holistic"
+          "zh": "【2026-03-15 日报】十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作；CHM Live: Apple at 50；What is agentic engineering?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-15): Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation; CHM Live: Apple at 50; What is agentic engineering?."
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-15）\n- 文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀\n- Langford series\n- ‘This Is Not the Computer for You’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/\n- https://www.johndcook.com/blog/2026/03/15/langford-series/\n- https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-15)\n- The article traces the alienation of self-optimization culture from 19th-century moral cultivation to contemporary body-as-a-project management, critiquing the over-tracking of metrics and habit-stacking that neglects life's holistic texture, warning against the erosion of human experience by technical thinking\n- Langford series\n- ‘This Is Not the Computer for You’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/\n- https://www.johndcook.com/blog/2026/03/15/langford-series/\n- https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-15）\n- 十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作\n- CHM Live: Apple at 50\n- What is agentic engineering?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/\n- https://www.youtube.com/live/eCSNJgI2LFI\n- https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-15)\n- Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation\n- CHM Live: Apple at 50\n- What is agentic engineering?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/\n- https://www.youtube.com/live/eCSNJgI2LFI\n- https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀；Langford series；‘This Is Not the Computer for You’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The article traces the alienation of self-optimization culture from 19th-century moral cultivation to contemporary body-as-a-project management, critiquing the over-tracking of metrics and habit-stacking that neglects life's holistic texture, warning against the erosion of huma"
+          "zh": "今天最值得看的 3 个点：十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作；CHM Live: Apple at 50；What is agentic engineering?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation; CHM Live: Apple at 50; What is agentic engineering?.\nI turned them into an action-ready daily brie"
         }
       }
     },
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报；WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子；Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: The AI Vampire; WorkOS Pipes; Em dash.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-02-14",
-      "total": 17,
-      "feeds": [
-        "johndcook.com (3)",
-        "chadnauseam.com (1)",
-        "construction-physics.com (1)",
-        "fabiensanglard.net (1)",
-        "geohot.github.io (1)",
-        "jayd.ml (1)"
-      ],
-      "highlights": [
-        "johndcook.com · Wagon’s algorithm in Python",
-        "johndcook.com · Finding a square root of -1 mod p",
-        "johndcook.com · Finding a non-square mod p",
-        "righto.com · Instruction decoding in the Intel 8087 floating-point chip",
-        "tedium.co · Design Deconstruction",
-        "geohot.github.io · tiny corp’s product – a training box"
-      ],
-      "key_points": [
-        "本文完整实现了Wagon算法，用数论方法高效求解奇素数p = a² + b²，核心是找二次非剩余、计算-1的平方根，并用修改版欧几里得算法，关键是用`isqrt`避免大数浮点精度问题",
-        "当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到",
-        "Finding a non-square mod p",
-        "博客通过芯片逆向工程，详解1980年代Intel 8087浮点协处理器如何用多级电路解码其62条专用指令"
-      ],
-      "key_points_zh": [
-        "本文完整实现了Wagon算法，用数论方法高效求解奇素数p = a² + b²，核心是找二次非剩余、计算-1的平方根，并用修改版欧几里得算法，关键是用`isqrt`避免大数浮点精度问题",
-        "当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到",
-        "Finding a non-square mod p",
-        "博客通过芯片逆向工程，详解1980年代Intel 8087浮点协处理器如何用多级电路解码其62条专用指令"
-      ],
-      "key_points_en": [
-        "Wagon’s algorithm in Python",
-        "Finding a square root of -1 mod p",
-        "Finding a non-square mod p",
-        "Instruction decoding in the Intel 8087 floating-point chip"
-      ],
-      "tweet_drafts": [
-        "如何用Python将大奇素数p拆成两个平方数之和？John Cook博客详解Wagon算法：1. 找二次非剩余；2. 计算-1模p的平方根；3. 对(p, x)运行修改版欧几里得算法，停止条件为`isqrt(p)`。代码已给出，完美解决大数浮点精度问题，适用于密码学等场景。 #Python #数论 #密码学 #算法",
-        "如何在模素数下求 -1 的平方根？条件：p ≡ 1 mod 4。方法：先找非二次剩余 c（如 2），计算 x = c^((p-1)/4) mod p。例如 p=2^255-19，x=pow(2, (p-1)//4, p) 即满足 x² ≡ -1。代码验证秒出结果！#密码学 #Python #数论",
-        "Finding a non-square mod p"
-      ],
-      "sources": [
-        {
-          "feed_title": "johndcook.com",
-          "title": "Wagon’s algorithm in Python",
-          "link": "https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Finding a square root of -1 mod p",
-          "link": "https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Finding a non-square mod p",
-          "link": "https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/"
-        }
-      ],
-      "summary_zh": "2026-02-14 技术日报：本文完整实现了Wagon算法，用数论方法高效求解奇素数p = a² + b²，核心是找二次非剩余、计算-1的平方根，并用修改版欧几里得算法，关键是用`isqrt`避免大数浮点精度问题；当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到；Finding a non-square mod p。",
-      "summary_en": "Daily brief (2026-02-14): Wagon’s algorithm in Python; Finding a square root of -1 mod p; Finding a non-square mod p.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-14 日报】本文完整实现了Wagon算法，用数论方法高效求解奇素数p = a² + b²，核心是找二次非剩余、计算-1的平方根，并用修改版欧几里得算法，关键是用`isqrt`避免大数浮点精度问题；当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到；Finding a non-square mod p。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-14): Wagon’s algorithm in Python; Finding a square root of -1 mod p; Finding a non-square mod p. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-14）\n- 本文完整实现了Wagon算法，用数论方法高效求解奇素数p = a² + b²，核心是找二次非剩余、计算-1的平方根，并用修改版欧几里得算法，关键是用`isqrt`避免大数浮点精度问题\n- 当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到\n- Finding a non-square mod p\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/\n- https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/\n- https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-14)\n- Wagon’s algorithm in Python\n- Finding a square root of -1 mod p\n- Finding a non-square mod p\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/\n- https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/\n- https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：本文完整实现了Wagon算法，用数论方法高效求解奇素数p = a² + b²，核心是找二次非剩余、计算-1的平方根，并用修改版欧几里得算法，关键是用`isqrt`避免大数浮点精度问题；当奇素数 p ≡ 1 mod 4 时，-1 在模 p 下有平方根，可通过先找非二次剩余 c，再计算 c^((p-1)/4) mod p 得到；Finding a non-square mod p。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Wagon’s algorithm in Python; Finding a square root of -1 mod p; Finding a non-square mod p.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
