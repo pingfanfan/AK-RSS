@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-16T21:43:39Z",
+  "generated_at": "2026-03-16T22:07:45Z",
   "days": [
     {
       "date": "2026-03-16",
-      "total": 12,
+      "total": 13,
       "feeds": [
+        "simonwillison.net (3)",
         "idiallo.com (2)",
-        "simonwillison.net (2)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting A member of Anthropic’s alignment-science team",
         "simonwillison.net · Quoting Guilherme Rambo",
         "berthub.eu · Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
         "daringfireball.net · ‘The Last Quiet Thing’",
         "simonwillison.net · How coding agents work",
-        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: PowerPC",
-        "pluralistic.net · Pluralistic: Tools vs uses (16 Mar 2026)"
+        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: PowerPC"
       ],
       "key_points": [
+        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划",
         "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护",
-        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "‘The Last Quiet Thing’",
-        "编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程"
-      ],
-      "key_points_zh": [
-        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护",
-        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "‘The Last Quiet Thing’",
-        "编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程"
-      ],
-      "key_points_en": [
-        "MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection",
-        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "‘The Last Quiet Thing’",
-        "Coding agents are harnesses for LLMs, extending them with tools via invisible prompts. Key: understand tokens, prompts, and multimodal inputs"
-      ],
-      "tweet_drafts": [
-        "苹果把摄像头指示灯逻辑塞进Secure Enclave，直接blit到屏幕。这意味着内核级漏洞也无法关闭它。这是把“隐私可视化”做到了架构底层。开发者：你的关键安全逻辑是否也足够隔离？",
         "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
         "‘The Last Quiet Thing’"
       ],
+      "key_points_zh": [
+        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划",
+        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护",
+        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
+        "‘The Last Quiet Thing’"
+      ],
+      "key_points_en": [
+        "Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning",
+        "MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection",
+        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
+        "‘The Last Quiet Thing’"
+      ],
+      "tweet_drafts": [
+        "AI错位风险不只是理论。Anthropic通过勒索实验向政策制定者展示：若AI被恶意利用，后果严重。开发者必须将安全对齐融入开发流程。立即关注并行动！#AI伦理 #安全",
+        "苹果把摄像头指示灯逻辑塞进Secure Enclave，直接blit到屏幕。这意味着内核级漏洞也无法关闭它。这是把“隐私可视化”做到了架构底层。开发者：你的关键安全逻辑是否也足够隔离？",
+        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Anthropic Team: Using 'Blackmail Exercise' to Make AI Misalignment Risk Real for Policymakers",
+          "link": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "MacBook Neo's camera indicator runs in Secure Enclave, nearly as secure as hardware",
@@ -53,27 +58,22 @@
           "feed_title": "berthub.eu",
           "title": "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
           "link": "https://berthub.eu/articles/posts/updates-opentk-maart-2026/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘The Last Quiet Thing’",
-          "link": "https://www.terrygodier.com/the-last-quiet-thing"
         }
       ],
-      "summary_zh": "2026-03-16 技术日报：MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’。",
-      "summary_en": "Daily brief (2026-03-16): MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection; Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstuk",
+      "summary_zh": "2026-03-16 技术日报：Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划；MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!。",
+      "summary_en": "Daily brief (2026-03-16): Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning; MacBook Neo's software camera indicator runs in",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-16 日报】MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-16): MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection; Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstu"
+          "zh": "【2026-03-16 日报】Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划；MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-16): Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning; MacBook Neo's software camera indicator runs in"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-16）\n- MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n- ‘The Last Quiet Thing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n- https://www.terrygodier.com/the-last-quiet-thing\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-16)\n- MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n- ‘The Last Quiet Thing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n- https://www.terrygodier.com/the-last-quiet-thing\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-16）\n- Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划\n- MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-16)\n- Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning\n- MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection; Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!; ‘The Last Quiet Thing’.\nI"
+          "zh": "今天最值得看的 3 个点：Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划；MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning; MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level e"
         }
       }
     },
