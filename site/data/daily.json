@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-03-16T20:07:42Z",
+  "generated_at": "2026-03-16T20:43:51Z",
   "days": [
     {
       "date": "2026-03-16",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "idiallo.com (2)",
+        "simonwillison.net (2)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "it-notes.dragas.net (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Guilherme Rambo",
         "berthub.eu · Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
         "daringfireball.net · ‘The Last Quiet Thing’",
         "simonwillison.net · How coding agents work",
         "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: PowerPC",
-        "pluralistic.net · Pluralistic: Tools vs uses (16 Mar 2026)",
-        "shkspr.mobi · Some updates to ActivityBot"
+        "pluralistic.net · Pluralistic: Tools vs uses (16 Mar 2026)"
       ],
       "key_points": [
+        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护",
         "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
         "‘The Last Quiet Thing’",
-        "编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程",
-        "PowerPC的Windows栈检查函数chkstk接受负的栈帧大小，是为了让调用者能使用原子指令stwxu高效创建栈帧。这体现了ISA特性对底层系统设计的直接影响"
+        "编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程"
       ],
       "key_points_zh": [
+        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护",
         "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
         "‘The Last Quiet Thing’",
-        "编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程",
-        "PowerPC的Windows栈检查函数chkstk接受负的栈帧大小，是为了让调用者能使用原子指令stwxu高效创建栈帧。这体现了ISA特性对底层系统设计的直接影响"
+        "编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程"
       ],
       "key_points_en": [
+        "MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection",
         "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
         "‘The Last Quiet Thing’",
-        "Coding agents are harnesses for LLMs, extending them with tools via invisible prompts. Key: understand tokens, prompts, and multimodal inputs",
-        "The Windows chkstk function on PowerPC accepts a negative stack frame size to let callers use the atomic stwxu instruction for efficient frame creation. This shows how ISA features directly influence low-level system design"
+        "Coding agents are harnesses for LLMs, extending them with tools via invisible prompts. Key: understand tokens, prompts, and multimodal inputs"
       ],
       "tweet_drafts": [
+        "苹果把摄像头指示灯逻辑塞进Secure Enclave，直接blit到屏幕。这意味着内核级漏洞也无法关闭它。这是把“隐私可视化”做到了架构底层。开发者：你的关键安全逻辑是否也足够隔离？",
         "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "‘The Last Quiet Thing’",
-        "想用好AI编码代理？先搞懂LLM的token机制：1. 所有输入（文本/图片）都转成token计费 2. 上下文长度有限 3. 代理行为由系统提示词驱动。试试OpenAI tokenizer，你会对成本有新认识"
+        "‘The Last Quiet Thing’"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "MacBook Neo's camera indicator runs in Secure Enclave, nearly as secure as hardware",
+          "link": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything"
+        },
         {
           "feed_title": "berthub.eu",
           "title": "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "‘The Last Quiet Thing’",
           "link": "https://www.terrygodier.com/the-last-quiet-thing"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "How Coding Agents Work",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-16 技术日报：Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’；编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程。",
-      "summary_en": "Daily brief (2026-03-16): Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!; ‘The Last Quiet Thing’; Coding agents are harnesses for LLMs, extending them with tools via invisible prompts. Key: understand tokens, prompts,",
+      "summary_zh": "2026-03-16 技术日报：MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’。",
+      "summary_en": "Daily brief (2026-03-16): MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection; Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstuk",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-16 日报】Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’；编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-16): Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!; ‘The Last Quiet Thing’; Coding agents are harnesses for LLMs, extending them with tools via invisible prompts. Key: understand tokens, prompts,"
+          "zh": "【2026-03-16 日报】MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-16): MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection; Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-16）\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n- ‘The Last Quiet Thing’\n- 编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n- https://www.terrygodier.com/the-last-quiet-thing\n- https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-16)\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n- ‘The Last Quiet Thing’\n- Coding agents are harnesses for LLMs, extending them with tools via invisible prompts. Key: understand tokens, prompts, and multimodal inputs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n- https://www.terrygodier.com/the-last-quiet-thing\n- https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-16）\n- MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n- ‘The Last Quiet Thing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n- https://www.terrygodier.com/the-last-quiet-thing\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-16)\n- MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n- ‘The Last Quiet Thing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n- https://www.terrygodier.com/the-last-quiet-thing\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’；编码代理是LLM的封装，通过隐藏提示和可调用工具扩展其能力，核心在于理解LLM的token机制和提示工程。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!; ‘The Last Quiet Thing’; Coding agents are harnesses for LLMs, extending them with tools via invisible prompts. Key: understand tokens, prompts, and multimodal inputs.\nI turned them into an"
+          "zh": "今天最值得看的 3 个点：MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!；‘The Last Quiet Thing’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection; Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!; ‘The Last Quiet Thing’.\nI"
         }
       }
     },
