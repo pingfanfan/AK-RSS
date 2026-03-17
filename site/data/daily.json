@@ -1,83 +1,85 @@
 {
-  "generated_at": "2026-03-17T12:46:54Z",
+  "generated_at": "2026-03-17T13:29:35Z",
   "days": [
     {
       "date": "2026-03-17",
-      "total": 5,
+      "total": 7,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
         "oldvcr.blogspot.com (1)",
         "simonwillison.net (1)",
-        "troyhunt.com (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "steveblank.com (1)",
+        "troyhunt.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Tone row operations",
+        "steveblank.com · Your Startup Is Probably Dead On Arrival",
         "simonwillison.net · Subagents",
         "dfarq.homeip.net · Toshiba’s Soviet nuclear submarine scandal",
         "oldvcr.blogspot.com · Hedley Davis has died",
-        "troyhunt.com · Weekly Update 495",
-        "utcc.utoronto.ca/~cks · Cleaning old GPG RPM keys that your Fedora install is keeping around"
+        "troyhunt.com · Weekly Update 495"
       ],
       "key_points": [
+        "Tone row operations",
+        "成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰",
         "Subagents",
-        "1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思",
-        "Hedley Davis has died",
-        "Weekly Update 495"
+        "1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思"
       ],
       "key_points_zh": [
+        "Tone row operations",
+        "成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰",
         "Subagents",
-        "1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思",
-        "Hedley Davis has died",
-        "Weekly Update 495"
+        "1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思"
       ],
       "key_points_en": [
+        "Tone row operations",
+        "Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance",
         "Subagents",
-        "In 1987, Toshiba Machine exported high-precision 5-axis CNC machine tools to the USSR for machining nuclear sub propellers, drastically reducing noise. This exposed export control loopholes, triggered international sanctions, and sparked security reflections",
-        "Hedley Davis has died",
-        "Weekly Update 495"
+        "In 1987, Toshiba Machine exported high-precision 5-axis CNC machine tools to the USSR for machining nuclear sub propellers, drastically reducing noise. This exposed export control loopholes, triggered international sanctions, and sparked security reflections"
       ],
       "tweet_drafts": [
-        "Subagents",
-        "冷战技术泄露经典案例：东芝机械向苏联出口五轴机床，加工低噪音潜艇螺旋桨，直接威胁北约反潜体系。历史提醒我们，代码与机床 alike，皆需合规审查",
-        "Hedley Davis has died"
+        "Tone row operations",
+        "成立超2年的初创公司，90%的业务计划已过时。原因？VC资金正从传统赛道疯狂涌入AI与国防（年投200亿）。你的‘独特’技术护城河，可能已被乌克兰战场上的无人机公司快速复制。现在不是继续编码的时候，是彻底重估假设的生死时刻",
+        "Subagents"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Tone row operations",
+          "link": "https://www.johndcook.com/blog/2026/03/17/tone-row-operations/"
+        },
+        {
+          "feed_title": "steveblank.com",
+          "title": "Your Startup Is Probably Dead On Arrival",
+          "link": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Subagents",
           "link": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Toshiba’s Soviet nuclear submarine scandal",
-          "link": "https://dfarq.homeip.net/toshibas-soviet-nuclear-submarine-scandal/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=toshibas-soviet-nuclear-submarine-scandal"
-        },
-        {
-          "feed_title": "oldvcr.blogspot.com",
-          "title": "Hedley Davis has died",
-          "link": "https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html"
         }
       ],
-      "summary_zh": "2026-03-17 技术日报：Subagents；1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思；Hedley Davis has died。",
-      "summary_en": "Daily brief (2026-03-17): Subagents; In 1987, Toshiba Machine exported high-precision 5-axis CNC machine tools to the USSR for machining nuclear sub propellers, drastically reducing noise. This exposed export control loopholes, triggered international sanction",
+      "summary_zh": "2026-03-17 技术日报：Tone row operations；成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰；Subagents。",
+      "summary_en": "Daily brief (2026-03-17): Tone row operations; Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance; Subagents.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-17 日报】Subagents；1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思；Hedley Davis has died。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-17): Subagents; In 1987, Toshiba Machine exported high-precision 5-axis CNC machine tools to the USSR for machining nuclear sub propellers, drastically reducing noise. This exposed export control loopholes, triggered international sanctio"
+          "zh": "【2026-03-17 日报】Tone row operations；成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰；Subagents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-17): Tone row operations; Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance; Subagents. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- Subagents\n- 1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思\n- Hedley Davis has died\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything\n- https://dfarq.homeip.net/toshibas-soviet-nuclear-submarine-scandal/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=toshibas-soviet-nuclear-submarine-scandal\n- https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- Subagents\n- In 1987, Toshiba Machine exported high-precision 5-axis CNC machine tools to the USSR for machining nuclear sub propellers, drastically reducing noise. This exposed export control loopholes, triggered international sanctions, and sparked security reflections\n- Hedley Davis has died\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything\n- https://dfarq.homeip.net/toshibas-soviet-nuclear-submarine-scandal/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=toshibas-soviet-nuclear-submarine-scandal\n- https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-17）\n- Tone row operations\n- 成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰\n- Subagents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/17/tone-row-operations/\n- https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/\n- https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- Tone row operations\n- Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance\n- Subagents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/17/tone-row-operations/\n- https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/\n- https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Subagents；1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思；Hedley Davis has died。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Subagents; In 1987, Toshiba Machine exported high-precision 5-axis CNC machine tools to the USSR for machining nuclear sub propellers, drastically reducing noise. This exposed export control loopholes, triggered international sanctions, and sparked security reflections; Hedley"
+          "zh": "今天最值得看的 3 个点：Tone row operations；成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰；Subagents。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tone row operations; Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance; Subagents.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-03-16",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "simonwillison.net (4)",
         "daringfireball.net (2)",
@@ -89,33 +91,33 @@
       "highlights": [
         "daringfireball.net · [Sponsor] Mux — Video API for Developers",
         "simonwillison.net · Introducing Mistral Small 4",
+        "entropicthoughts.com · Esqueleto Tutorial",
         "simonwillison.net · Quoting A member of Anthropic’s alignment-science team",
         "simonwillison.net · Quoting Guilherme Rambo",
-        "berthub.eu · Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "daringfireball.net · ‘The Last Quiet Thing’"
+        "berthub.eu · Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!"
       ],
       "key_points": [
         "[Sponsor] Mux — Video API for Developers",
         "Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式",
-        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划",
-        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护"
+        "Esqueleto Tutorial",
+        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划"
       ],
       "key_points_zh": [
         "[Sponsor] Mux — Video API for Developers",
         "Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式",
-        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划",
-        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护"
+        "Esqueleto Tutorial",
+        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划"
       ],
       "key_points_en": [
         "[Sponsor] Mux — Video API for Developers",
         "Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode",
-        "Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning",
-        "MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection"
+        "Esqueleto Tutorial",
+        "Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning"
       ],
       "tweet_drafts": [
         "[Sponsor] Mux — Video API for Developers",
         "Mistral Small 4发布：119B参数混合专家模型，Apache 2许可，一站式解决推理、图像理解和编码任务。高推理模式值得尝试，但242GB体积需权衡本地部署。技术决策者关注",
-        "AI错位风险不只是理论。Anthropic通过勒索实验向政策制定者展示：若AI被恶意利用，后果严重。开发者必须将安全对齐融入开发流程。立即关注并行动！#AI伦理 #安全"
+        "Esqueleto Tutorial"
       ],
       "sources": [
         {
@@ -129,25 +131,25 @@
           "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "Anthropic Team: Using 'Blackmail Exercise' to Make AI Misalignment Risk Real for Policymakers",
-          "link": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything"
+          "feed_title": "entropicthoughts.com",
+          "title": "Esqueleto Tutorial",
+          "link": "https://entropicthoughts.com/esqueleto-tutorial"
         }
       ],
-      "summary_zh": "2026-03-16 技术日报：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划。",
-      "summary_en": "Daily brief (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Anthropic's alignment science team used a simulated AI b",
+      "summary_zh": "2026-03-16 技术日报：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Esqueleto Tutorial。",
+      "summary_en": "Daily brief (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Esqueleto Tutorial.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-16 日报】[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Anthropic's alignment science team used a simulated AI"
+          "zh": "【2026-03-16 日报】[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Esqueleto Tutorial。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Esqueleto Tutorial. Actionable takeaways included. What"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-16）\n- [Sponsor] Mux — Video API for Developers\n- Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式\n- Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-16)\n- [Sponsor] Mux — Video API for Developers\n- Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode\n- Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-16）\n- [Sponsor] Mux — Video API for Developers\n- Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式\n- Esqueleto Tutorial\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://entropicthoughts.com/esqueleto-tutorial\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-16)\n- [Sponsor] Mux — Video API for Developers\n- Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode\n- Esqueleto Tutorial\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://entropicthoughts.com/esqueleto-tutorial\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate"
+          "zh": "今天最值得看的 3 个点：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Esqueleto Tutorial。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Esqueleto Tutorial.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
