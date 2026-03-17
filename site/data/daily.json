@@ -1,79 +1,135 @@
 {
-  "generated_at": "2026-03-16T22:43:00Z",
+  "generated_at": "2026-03-17T06:18:48Z",
   "days": [
     {
-      "date": "2026-03-16",
-      "total": 13,
+      "date": "2026-03-17",
+      "total": 2,
       "feeds": [
-        "simonwillison.net (3)",
+        "oldvcr.blogspot.com (1)",
+        "troyhunt.com (1)"
+      ],
+      "highlights": [
+        "oldvcr.blogspot.com · Hedley Davis has died",
+        "troyhunt.com · Weekly Update 495"
+      ],
+      "key_points": [
+        "Hedley Davis has died",
+        "Weekly Update 495"
+      ],
+      "key_points_zh": [
+        "Hedley Davis has died",
+        "Weekly Update 495"
+      ],
+      "key_points_en": [
+        "Hedley Davis has died",
+        "Weekly Update 495"
+      ],
+      "tweet_drafts": [
+        "Hedley Davis has died",
+        "Weekly Update 495"
+      ],
+      "sources": [
+        {
+          "feed_title": "oldvcr.blogspot.com",
+          "title": "Hedley Davis has died",
+          "link": "https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html"
+        },
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 495",
+          "link": "https://www.troyhunt.com/weekly-update-495/"
+        }
+      ],
+      "summary_zh": "2026-03-17 技术日报：Hedley Davis has died；Weekly Update 495。",
+      "summary_en": "Daily brief (2026-03-17): Hedley Davis has died; Weekly Update 495.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-17 日报】Hedley Davis has died；Weekly Update 495。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-17): Hedley Davis has died; Weekly Update 495. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-17）\n- Hedley Davis has died\n- Weekly Update 495\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html\n- https://www.troyhunt.com/weekly-update-495/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- Hedley Davis has died\n- Weekly Update 495\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html\n- https://www.troyhunt.com/weekly-update-495/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Hedley Davis has died；Weekly Update 495。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Hedley Davis has died; Weekly Update 495.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-16",
+      "total": 15,
+      "feeds": [
+        "simonwillison.net (4)",
+        "daringfireball.net (2)",
         "idiallo.com (2)",
         "berthub.eu (1)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · [Sponsor] Mux — Video API for Developers",
+        "simonwillison.net · Introducing Mistral Small 4",
         "simonwillison.net · Quoting A member of Anthropic’s alignment-science team",
         "simonwillison.net · Quoting Guilherme Rambo",
         "berthub.eu · Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "daringfireball.net · ‘The Last Quiet Thing’",
-        "simonwillison.net · How coding agents work",
-        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: PowerPC"
+        "daringfireball.net · ‘The Last Quiet Thing’"
       ],
       "key_points": [
+        "[Sponsor] Mux — Video API for Developers",
+        "Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式",
         "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划",
-        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护",
-        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "‘The Last Quiet Thing’"
+        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护"
       ],
       "key_points_zh": [
+        "[Sponsor] Mux — Video API for Developers",
+        "Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式",
         "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划",
-        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护",
-        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "‘The Last Quiet Thing’"
+        "MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护"
       ],
       "key_points_en": [
+        "[Sponsor] Mux — Video API for Developers",
+        "Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode",
         "Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning",
-        "MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection",
-        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-        "‘The Last Quiet Thing’"
+        "MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection"
       ],
       "tweet_drafts": [
-        "AI错位风险不只是理论。Anthropic通过勒索实验向政策制定者展示：若AI被恶意利用，后果严重。开发者必须将安全对齐融入开发流程。立即关注并行动！#AI伦理 #安全",
-        "苹果把摄像头指示灯逻辑塞进Secure Enclave，直接blit到屏幕。这意味着内核级漏洞也无法关闭它。这是把“隐私可视化”做到了架构底层。开发者：你的关键安全逻辑是否也足够隔离？",
-        "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!"
+        "[Sponsor] Mux — Video API for Developers",
+        "Mistral Small 4发布：119B参数混合专家模型，Apache 2许可，一站式解决推理、图像理解和编码任务。高推理模式值得尝试，但242GB体积需权衡本地部署。技术决策者关注",
+        "AI错位风险不只是理论。Anthropic通过勒索实验向政策制定者展示：若AI被恶意利用，后果严重。开发者必须将安全对齐融入开发流程。立即关注并行动！#AI伦理 #安全"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] Mux — Video API for Developers",
+          "link": "https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Mistral Releases Small 4: A 119B Open-Source Model Unifying Reasoning, Multimodal, and Coding",
+          "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Anthropic Team: Using 'Blackmail Exercise' to Make AI Misalignment Risk Real for Policymakers",
           "link": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "MacBook Neo's camera indicator runs in Secure Enclave, nearly as secure as hardware",
-          "link": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
-          "link": "https://berthub.eu/articles/posts/updates-opentk-maart-2026/"
         }
       ],
-      "summary_zh": "2026-03-16 技术日报：Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划；MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!。",
-      "summary_en": "Daily brief (2026-03-16): Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning; MacBook Neo's software camera indicator runs in",
+      "summary_zh": "2026-03-16 技术日报：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划。",
+      "summary_en": "Daily brief (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Anthropic's alignment science team used a simulated AI b",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-16 日报】Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划；MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-16): Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning; MacBook Neo's software camera indicator runs in"
+          "zh": "【2026-03-16 日报】[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Anthropic's alignment science team used a simulated AI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-16）\n- Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划\n- MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-16)\n- Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning\n- MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level exploit cannot turn it off, providing near-hardware privacy protection\n- Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n- https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything\n- https://berthub.eu/articles/posts/updates-opentk-maart-2026/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-16）\n- [Sponsor] Mux — Video API for Developers\n- Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式\n- Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-16)\n- [Sponsor] Mux — Video API for Developers\n- Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode\n- Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划；MacBook Neo的软件摄像头指示灯运行在Secure Enclave安全隔离区，即使内核被攻破也无法关闭，提供近乎硬件的隐私保护；Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning; MacBook Neo's software camera indicator runs in the Secure Enclave, so even a kernel-level e"
+          "zh": "今天最值得看的 3 个点：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate"
         }
       }
     },
@@ -2202,82 +2258,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Learning KeyBee；AI代理因低质量输出骚扰开源维护者，正实质性破坏开源协作基础；轨道速度矢量图（hodograph）恒为圆形，其中心偏移量与轨道离心率成正比。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Learning KeyBee; AI is destroying Open Source, and it's not even good yet; Visualizing orbital velocity.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-02-15",
-      "total": 18,
-      "feeds": [
-        "simonwillison.net (7)",
-        "daringfireball.net (1)",
-        "geohot.github.io (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)",
-        "miguelgrinberg.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · The AI Vampire",
-        "daringfireball.net · WorkOS Pipes",
-        "simonwillison.net · Em dash",
-        "simonwillison.net · Deep Blue",
-        "johndcook.com · Race between primes of the forms 4k + 1 and 4k + 3",
-        "simonwillison.net · Gwtar: a static efficient single-file HTML format"
-      ],
-      "key_points": [
-        "AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报",
-        "WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子",
-        "Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合",
-        "“Deep Blue”指开发者因AI快速替代其核心技能而产生的职业倦怠与存在焦虑，需正视此心理现象"
-      ],
-      "key_points_zh": [
-        "AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报",
-        "WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子",
-        "Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合",
-        "“Deep Blue”指开发者因AI快速替代其核心技能而产生的职业倦怠与存在焦虑，需正视此心理现象"
-      ],
-      "key_points_en": [
-        "The AI Vampire",
-        "WorkOS Pipes",
-        "Em dash",
-        "Deep Blue"
-      ],
-      "tweet_drafts": [
-        "【AI吸血鬼警告】Steve Yegge指出：若你是公司唯一重度AI用户，10倍效率可能换来burnout和同事敌意。AI自动化简单任务，却留下艰难决策，每日代理工作应限4小时。开发者需主动设限、同步策略、谈判价值，别让企业吸干你的血！#AI #开发者健康 #效率陷阱",
-        "还在为每个第三方 API 手写 OAuth 和令牌刷新逻辑？WorkOS Pipes 用一个嵌入式小组件搞定用户授权，后端直接取令牌，安全存储与刷新全托管。支持 GitHub、Slack、Google 等主流服务，极大简化集成。推荐给所有需要连接外部 API 的团队。 #开发者工具 #SaaS #基础设施",
-        "Simon Willison 晒出2015年代码：s.replace(' - ', '\\u2014') 自动转短横线为em dash，坚称非LLM所写却打#generative-ai 标签。启示：老工具+AI标签=高效引流。行动：给你的博客加标点优化脚本；翻翻旧代码库；发文章混合传统/AI标签。#开发者技巧"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The AI Vampire",
-          "link": "https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "WorkOS Pipes",
-          "link": "https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q12026\u0026utm_content=no_rebuild"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Em dash",
-          "link": "https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-02-15 技术日报：AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报；WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子；Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合。",
-      "summary_en": "Daily brief (2026-02-15): The AI Vampire; WorkOS Pipes; Em dash.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-15 日报】AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报；WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子；Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-15): The AI Vampire; WorkOS Pipes; Em dash. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-15）\n- AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报\n- WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子\n- Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q12026\u0026utm_content=no_rebuild\n- https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-15)\n- The AI Vampire\n- WorkOS Pipes\n- Em dash\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q12026\u0026utm_content=no_rebuild\n- https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：AI代理引发认知过载与职业倦怠，个人效率提升易被企业剥削，需严格限制每日使用时间并争取合理回报；WorkOS Pipes 是一个嵌入式集成工具，通过小组件让用户连接 GitHub/Slack 等第三方服务，并自动处理 OAuth 与令牌刷新，免去开发者重复造轮子；Simon Willison分享一段2015年Python代码自动替换短横线为em dash，强调非LLM生成但标注AI标签，体现传统工具与AI话题的结合。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The AI Vampire; WorkOS Pipes; Em dash.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
