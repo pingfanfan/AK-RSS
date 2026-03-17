@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-03-17T13:29:35Z",
+  "generated_at": "2026-03-17T14:02:31Z",
   "days": [
     {
       "date": "2026-03-17",
-      "total": 7,
+      "total": 11,
       "feeds": [
+        "johndcook.com (2)",
+        "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
-        "oldvcr.blogspot.com (1)",
-        "simonwillison.net (1)",
-        "steveblank.com (1)",
-        "troyhunt.com (1)"
+        "experimental-history.com (1)",
+        "oldvcr.blogspot.com (1)"
       ],
       "highlights": [
+        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: x86-32 also known as i386, second try",
+        "daringfireball.net · Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "experimental-history.com · Help I'm being persecuted",
+        "johndcook.com · Powers don’t clear fractions",
         "johndcook.com · Tone row operations",
-        "steveblank.com · Your Startup Is Probably Dead On Arrival",
-        "simonwillison.net · Subagents",
-        "dfarq.homeip.net · Toshiba’s Soviet nuclear submarine scandal",
-        "oldvcr.blogspot.com · Hedley Davis has died",
-        "troyhunt.com · Weekly Update 495"
+        "steveblank.com · Your Startup Is Probably Dead On Arrival"
       ],
       "key_points": [
-        "Tone row operations",
-        "成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰",
-        "Subagents",
-        "1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思"
+        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "Help I'm being persecuted",
+        "Powers don’t clear fractions"
       ],
       "key_points_zh": [
-        "Tone row operations",
-        "成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰",
-        "Subagents",
-        "1987年，东芝机械向苏联出口高精度五轴联动数控机床，用于加工核潜艇螺旋桨，显著降低噪音，暴露技术出口管制漏洞，引发国际制裁与安全反思"
+        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "Help I'm being persecuted",
+        "Powers don’t clear fractions"
       ],
       "key_points_en": [
-        "Tone row operations",
-        "Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance",
-        "Subagents",
-        "In 1987, Toshiba Machine exported high-precision 5-axis CNC machine tools to the USSR for machining nuclear sub propellers, drastically reducing noise. This exposed export control loopholes, triggered international sanctions, and sparked security reflections"
+        "The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "Help I'm being persecuted",
+        "Powers don’t clear fractions"
       ],
       "tweet_drafts": [
-        "Tone row operations",
-        "成立超2年的初创公司，90%的业务计划已过时。原因？VC资金正从传统赛道疯狂涌入AI与国防（年投200亿）。你的‘独特’技术护城河，可能已被乌克兰战场上的无人机公司快速复制。现在不是继续编码的时候，是彻底重估假设的生死时刻",
-        "Subagents"
+        "Windows栈检查新方案：ret指令提升性能，但牺牲CET影子栈兼容。ABI变更已固化，开发者需警惕混合编译风险。详情：https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "Help I'm being persecuted"
       ],
       "sources": [
         {
-          "feed_title": "johndcook.com",
-          "title": "Tone row operations",
-          "link": "https://www.johndcook.com/blog/2026/03/17/tone-row-operations/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Windows stack limit checking retrospective: x86-32 also known as i386, second try",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144"
         },
         {
-          "feed_title": "steveblank.com",
-          "title": "Your Startup Is Probably Dead On Arrival",
-          "link": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/"
+          "feed_title": "daringfireball.net",
+          "title": "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+          "link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "Subagents",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything"
+          "feed_title": "experimental-history.com",
+          "title": "Help I'm being persecuted",
+          "link": "https://www.experimental-history.com/p/help-im-being-persecuted"
         }
       ],
-      "summary_zh": "2026-03-17 技术日报：Tone row operations；成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰；Subagents。",
-      "summary_en": "Daily brief (2026-03-17): Tone row operations; Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance; Subagents.",
+      "summary_zh": "2026-03-17 技术日报：新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months；Help I'm being persecuted。",
+      "summary_en": "Daily brief (2026-03-17): The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention; Samsung Discontinues Its Galaxy Z TriFold After Just Thr",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-17 日报】Tone row operations；成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰；Subagents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-17): Tone row operations; Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance; Subagents. Actionable takeaways included. What would you ship next?"
+          "zh": "【2026-03-17 日报】新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months；Help I'm being persecuted。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-17): The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention; Samsung Discontinues Its Galaxy Z TriFold After Just Th"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- Tone row operations\n- 成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰\n- Subagents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/17/tone-row-operations/\n- https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/\n- https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- Tone row operations\n- Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance\n- Subagents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/17/tone-row-operations/\n- https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/\n- https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-17）\n- 新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n- Help I'm being persecuted\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n- https://www.experimental-history.com/p/help-im-being-persecuted\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n- Help I'm being persecuted\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n- https://www.experimental-history.com/p/help-im-being-persecuted\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Tone row operations；成立超过两年的初创公司，其核心假设与技术栈很可能已过时。必须立即暂停开发，重新评估市场变化，否则将被淘汰；Subagents。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Tone row operations; Startups older than 2 years likely have obsolete assumptions and tech stacks. Stop building and reassess market shifts now, or risk irrelevance; Subagents.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months；Help I'm being persecuted。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention; Samsung Discontinues Its Galaxy Z TriFold After Just Three Months; Help I'm being persecuted.\nI turn"
         }
       }
     },
