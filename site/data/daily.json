@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T21:43:24Z",
+  "generated_at": "2026-03-17T22:07:22Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-03-17",
-      "total": 17,
+      "total": 18,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "daringfireball.net (2)",
         "johndcook.com (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -58,37 +58,42 @@
         "experimental-history.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Ken Jin",
         "simonwillison.net · GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
         "daringfireball.net · Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
         "wheresyoured.at · Why Are We Still Doing This?",
         "simonwillison.net · Quoting Tim Schilling",
-        "pluralistic.net · Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)",
-        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: x86-32 also known as i386, second try"
+        "pluralistic.net · Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)"
       ],
       "key_points": [
+        "CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成",
         "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
         "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒",
-        "Why Are We Still Doing This?",
-        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断"
-      ],
-      "key_points_zh": [
-        "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
-        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒",
-        "Why Are We Still Doing This?",
-        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断"
-      ],
-      "key_points_en": [
-        "OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing",
-        "Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers",
-        "Why Are We Still Doing This?",
-        "Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment"
-      ],
-      "tweet_drafts": [
-        "GPT-5.4 nano输入$0.20/百万token，比Gemini 3.1 Flash-Lite还低。实测描述照片成本不到0.1美分，大规模图像处理成本骤降。 #OpenAI #LLM",
-        "Fox Sports的沉浸式3D棒球决赛直播仅通过Android XR应用提供，Vision Pro用户被排除在外。这清晰地展示了内容分发中的平台政治。技术决策必须考虑生态位",
         "Why Are We Still Doing This?"
       ],
+      "key_points_zh": [
+        "CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成",
+        "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
+        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒",
+        "Why Are We Still Doing This?"
+      ],
+      "key_points_en": [
+        "CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule",
+        "OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing",
+        "Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers",
+        "Why Are We Still Doing This?"
+      ],
+      "tweet_drafts": [
+        "🚀 Python 3.15 JIT性能提前达标！macOS ARM快11-12%，Linux x86快5-6%。开发者们，是时候测试你的代码了！#Python #Performance",
+        "GPT-5.4 nano输入$0.20/百万token，比Gemini 3.1 Flash-Lite还低。实测描述照片成本不到0.1美分，大规模图像处理成本骤降。 #OpenAI #LLM",
+        "Fox Sports的沉浸式3D棒球决赛直播仅通过Android XR应用提供，Vision Pro用户被排除在外。这清晰地展示了内容分发中的平台政治。技术决策必须考虑生态位"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Python 3.15 JIT Performance Meets Goals Early",
+          "link": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "GPT-5.4 mini \u0026 nano launched: Describe 76k photos for $52",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
           "link": "https://x.com/mlbonfox/status/2033902946174271992?s=46"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Why Are We Still Doing This?",
-          "link": "https://www.wheresyoured.at/why-are-we-still-doing-this/"
         }
       ],
-      "summary_zh": "2026-03-17 技术日报：OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒；Why Are We Still Doing This?。",
-      "summary_en": "Daily brief (2026-03-17): OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing; Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its nativ",
+      "summary_zh": "2026-03-17 技术日报：CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒。",
+      "summary_en": "Daily brief (2026-03-17): CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-17 日报】OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒；Why Are We Still Doing This?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-17): OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing; Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its nati"
+          "zh": "【2026-03-17 日报】CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒。我把可执行建议整理好了，欢迎转发讨论。#技术趋",
+          "en": "AK-RSS Daily (2026-03-17): CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比\n- Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒\n- Why Are We Still Doing This?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n- https://www.wheresyoured.at/why-are-we-still-doing-this/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing\n- Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers\n- Why Are We Still Doing This?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n- https://www.wheresyoured.at/why-are-we-still-doing-this/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-17）\n- CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成\n- OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比\n- Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule\n- OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing\n- Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒；Why Are We Still Doing This?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing; Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highl"
+          "zh": "今天最值得看的 3 个点：CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test"
         }
       }
     },
