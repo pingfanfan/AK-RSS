@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T19:21:32Z",
+  "generated_at": "2026-03-17T19:47:31Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-03-17",
-      "total": 15,
+      "total": 17,
       "feeds": [
+        "simonwillison.net (3)",
+        "daringfireball.net (2)",
         "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+        "daringfireball.net · Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
         "wheresyoured.at · Why Are We Still Doing This?",
         "simonwillison.net · Quoting Tim Schilling",
         "pluralistic.net · Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)",
-        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: x86-32 also known as i386, second try",
-        "daringfireball.net · Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-        "experimental-history.com · Help I'm being persecuted"
+        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: x86-32 also known as i386, second try"
       ],
       "key_points": [
+        "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
+        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒",
         "Why Are We Still Doing This?",
-        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断",
-        "技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度",
-        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定"
+        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断"
       ],
       "key_points_zh": [
+        "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
+        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒",
         "Why Are We Still Doing This?",
-        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断",
-        "技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度",
-        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定"
+        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断"
       ],
       "key_points_en": [
+        "OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing",
+        "Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers",
         "Why Are We Still Doing This?",
-        "Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment",
-        "Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work",
-        "The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention"
+        "Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment"
       ],
       "tweet_drafts": [
-        "Why Are We Still Doing This?",
-        "在开源贡献中，LLM是工具，不是替身。理解你的代码，尊重社区。Tim Schilling的观点值得每个开发者深思。 #Django #LLM",
-        "你的代码有政治立场。撒切尔说‘没有替代方案’，吉布森说‘街道自有其用’。技术决定论是谎言——历史充满偶然。作为开发者，我们选择架构、依赖和默认值，就是在选择世界。拒绝TINA，主动设计"
+        "GPT-5.4 nano输入$0.20/百万token，比Gemini 3.1 Flash-Lite还低。实测描述照片成本不到0.1美分，大规模图像处理成本骤降。 #OpenAI #LLM",
+        "Fox Sports的沉浸式3D棒球决赛直播仅通过Android XR应用提供，Vision Pro用户被排除在外。这清晰地展示了内容分发中的平台政治。技术决策必须考虑生态位",
+        "Why Are We Still Doing This?"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "GPT-5.4 mini \u0026 nano launched: Describe 76k photos for $52",
+          "link": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
+          "link": "https://x.com/mlbonfox/status/2033902946174271992?s=46"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "Why Are We Still Doing This?",
           "link": "https://www.wheresyoured.at/why-are-we-still-doing-this/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Tim Schilling",
-          "link": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: William Gibson vs Margaret Thatcher",
-          "link": "https://pluralistic.net/2026/03/17/technopolitics/"
         }
       ],
-      "summary_zh": "2026-03-17 技术日报：Why Are We Still Doing This?；在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断；技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度。",
-      "summary_en": "Daily brief (2026-03-17): Why Are We Still Doing This?; Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment; Tech trajectories aren't 'inevitable'—they're shaped by p",
+      "summary_zh": "2026-03-17 技术日报：OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒；Why Are We Still Doing This?。",
+      "summary_en": "Daily brief (2026-03-17): OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing; Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its nativ",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-17 日报】Why Are We Still Doing This?；在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断；技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-17): Why Are We Still Doing This?; Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment; Tech trajectories aren't 'inevitable'—they're shaped by"
+          "zh": "【2026-03-17 日报】OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒；Why Are We Still Doing This?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-17): OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing; Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its nati"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- Why Are We Still Doing This?\n- 在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断\n- 技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/why-are-we-still-doing-this/\n- https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything\n- https://pluralistic.net/2026/03/17/technopolitics/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- Why Are We Still Doing This?\n- Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment\n- Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/why-are-we-still-doing-this/\n- https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything\n- https://pluralistic.net/2026/03/17/technopolitics/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-17）\n- OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比\n- Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒\n- Why Are We Still Doing This?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n- https://www.wheresyoured.at/why-are-we-still-doing-this/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing\n- Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers\n- Why Are We Still Doing This?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n- https://www.wheresyoured.at/why-are-we-still-doing-this/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Why Are We Still Doing This?；在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断；技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Why Are We Still Doing This?; Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment; Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There"
+          "zh": "今天最值得看的 3 个点：OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒；Why Are We Still Doing This?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing; Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highl"
         }
       }
     },
