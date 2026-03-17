@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-17T14:47:06Z",
+  "generated_at": "2026-03-17T15:23:59Z",
   "days": [
     {
       "date": "2026-03-17",
-      "total": 11,
+      "total": 13,
       "feeds": [
         "johndcook.com (2)",
         "daringfireball.net (1)",
@@ -13,37 +13,42 @@
         "oldvcr.blogspot.com (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)",
         "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: x86-32 also known as i386, second try",
         "daringfireball.net · Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
         "experimental-history.com · Help I'm being persecuted",
         "johndcook.com · Powers don’t clear fractions",
-        "johndcook.com · Tone row operations",
-        "steveblank.com · Your Startup Is Probably Dead On Arrival"
+        "johndcook.com · Tone row operations"
       ],
       "key_points": [
+        "技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度",
         "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
-        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-        "Help I'm being persecuted",
-        "Powers don’t clear fractions"
-      ],
-      "key_points_zh": [
-        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
-        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-        "Help I'm being persecuted",
-        "Powers don’t clear fractions"
-      ],
-      "key_points_en": [
-        "The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention",
-        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-        "Help I'm being persecuted",
-        "Powers don’t clear fractions"
-      ],
-      "tweet_drafts": [
-        "Windows栈检查新方案：ret指令提升性能，但牺牲CET影子栈兼容。ABI变更已固化，开发者需警惕混合编译风险。详情：https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144",
         "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
         "Help I'm being persecuted"
       ],
+      "key_points_zh": [
+        "技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度",
+        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "Help I'm being persecuted"
+      ],
+      "key_points_en": [
+        "Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work",
+        "The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "Help I'm being persecuted"
+      ],
+      "tweet_drafts": [
+        "你的代码有政治立场。撒切尔说‘没有替代方案’，吉布森说‘街道自有其用’。技术决定论是谎言——历史充满偶然。作为开发者，我们选择架构、依赖和默认值，就是在选择世界。拒绝TINA，主动设计",
+        "Windows栈检查新方案：ret指令提升性能，但牺牲CET影子栈兼容。ABI变更已固化，开发者需警惕混合编译风险。详情：https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months"
+      ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: William Gibson vs Margaret Thatcher",
+          "link": "https://pluralistic.net/2026/03/17/technopolitics/"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "Windows stack limit checking retrospective: x86-32 also known as i386, second try",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
           "link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out"
-        },
-        {
-          "feed_title": "experimental-history.com",
-          "title": "Help I'm being persecuted",
-          "link": "https://www.experimental-history.com/p/help-im-being-persecuted"
         }
       ],
-      "summary_zh": "2026-03-17 技术日报：新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months；Help I'm being persecuted。",
-      "summary_en": "Daily brief (2026-03-17): The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention; Samsung Discontinues Its Galaxy Z TriFold After Just Thr",
+      "summary_zh": "2026-03-17 技术日报：技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months。",
+      "summary_en": "Daily brief (2026-03-17): Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work; The new _chkstk uses a 'ret' to avoid return addre",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-17 日报】新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months；Help I'm being persecuted。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-17): The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention; Samsung Discontinues Its Galaxy Z TriFold After Just Th"
+          "zh": "【2026-03-17 日报】技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-17): Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work; The new _chkstk uses a 'ret' to avoid return addr"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- 新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n- Help I'm being persecuted\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n- https://www.experimental-history.com/p/help-im-being-persecuted\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n- Help I'm being persecuted\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n- https://www.experimental-history.com/p/help-im-being-persecuted\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-17）\n- 技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度\n- 新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/03/17/technopolitics/\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work\n- The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/03/17/technopolitics/\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months；Help I'm being persecuted。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention; Samsung Discontinues Its Galaxy Z TriFold After Just Three Months; Help I'm being persecuted.\nI turn"
+          "zh": "今天最值得看的 3 个点：技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work; The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this bre"
         }
       }
     },
