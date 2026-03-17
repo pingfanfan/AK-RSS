@@ -1,49 +1,99 @@
 {
-  "generated_at": "2026-03-17T15:48:23Z",
+  "generated_at": "2026-03-17T16:20:52Z",
   "days": [
     {
+      "date": "2026-04-17",
+      "total": 1,
+      "feeds": [
+        "blog.jim-nielsen.com (1)"
+      ],
+      "highlights": [
+        "blog.jim-nielsen.com · You Might Debate It — If You Could See It"
+      ],
+      "key_points": [
+        "You Might Debate It — If You Could See It"
+      ],
+      "key_points_zh": [
+        "You Might Debate It — If You Could See It"
+      ],
+      "key_points_en": [
+        "You Might Debate It — If You Could See It"
+      ],
+      "tweet_drafts": [
+        "You Might Debate It — If You Could See It"
+      ],
+      "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "You Might Debate It — If You Could See It",
+          "link": "https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/"
+        }
+      ],
+      "summary_zh": "2026-04-17 技术日报：You Might Debate It — If You Could See It。",
+      "summary_en": "Daily brief (2026-04-17): You Might Debate It — If You Could See It.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-17 日报】You Might Debate It — If You Could See It。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-17): You Might Debate It — If You Could See It. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-17）\n- You Might Debate It — If You Could See It\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-17)\n- You Might Debate It — If You Could See It\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: You Might Debate It — If You Could See It.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-17",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "johndcook.com (2)",
+        "simonwillison.net (2)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "experimental-history.com (1)",
-        "oldvcr.blogspot.com (1)"
+        "experimental-history.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Tim Schilling",
         "pluralistic.net · Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)",
         "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: x86-32 also known as i386, second try",
         "daringfireball.net · Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
         "experimental-history.com · Help I'm being persecuted",
-        "johndcook.com · Powers don’t clear fractions",
-        "johndcook.com · Tone row operations"
+        "johndcook.com · Powers don’t clear fractions"
       ],
       "key_points": [
+        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断",
         "技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度",
         "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
-        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-        "Help I'm being persecuted"
-      ],
-      "key_points_zh": [
-        "技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度",
-        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
-        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-        "Help I'm being persecuted"
-      ],
-      "key_points_en": [
-        "Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work",
-        "The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention",
-        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-        "Help I'm being persecuted"
-      ],
-      "tweet_drafts": [
-        "你的代码有政治立场。撒切尔说‘没有替代方案’，吉布森说‘街道自有其用’。技术决定论是谎言——历史充满偶然。作为开发者，我们选择架构、依赖和默认值，就是在选择世界。拒绝TINA，主动设计",
-        "Windows栈检查新方案：ret指令提升性能，但牺牲CET影子栈兼容。ABI变更已固化，开发者需警惕混合编译风险。详情：https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144",
         "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months"
       ],
+      "key_points_zh": [
+        "在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断",
+        "技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度",
+        "新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months"
+      ],
+      "key_points_en": [
+        "Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment",
+        "Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work",
+        "The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention",
+        "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months"
+      ],
+      "tweet_drafts": [
+        "在开源贡献中，LLM是工具，不是替身。理解你的代码，尊重社区。Tim Schilling的观点值得每个开发者深思。 #Django #LLM",
+        "你的代码有政治立场。撒切尔说‘没有替代方案’，吉布森说‘街道自有其用’。技术决定论是谎言——历史充满偶然。作为开发者，我们选择架构、依赖和默认值，就是在选择世界。拒绝TINA，主动设计",
+        "Windows栈检查新方案：ret指令提升性能，但牺牲CET影子栈兼容。ABI变更已固化，开发者需警惕混合编译风险。详情：https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Tim Schilling",
+          "link": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: William Gibson vs Margaret Thatcher",
@@ -53,27 +103,22 @@
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "Windows stack limit checking retrospective: x86-32 also known as i386, second try",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
-          "link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out"
         }
       ],
-      "summary_zh": "2026-03-17 技术日报：技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months。",
-      "summary_en": "Daily brief (2026-03-17): Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work; The new _chkstk uses a 'ret' to avoid return addre",
+      "summary_zh": "2026-03-17 技术日报：在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断；技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定。",
+      "summary_en": "Daily brief (2026-03-17): Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment; Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must rejec",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-17 日报】技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-17): Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work; The new _chkstk uses a 'ret' to avoid return addr"
+          "zh": "【2026-03-17 日报】在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断；技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-17): Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment; Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reje"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- 技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度\n- 新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/03/17/technopolitics/\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work\n- The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention\n- Samsung Discontinues Its Galaxy Z TriFold After Just Three Months\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/03/17/technopolitics/\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n- https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-17）\n- 在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断\n- 技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度\n- 新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything\n- https://pluralistic.net/2026/03/17/technopolitics/\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment\n- Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work\n- The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this breaks compatibility with shadow stacks (CET) and retains a quirky calling convention\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything\n- https://pluralistic.net/2026/03/17/technopolitics/\n- https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定；Samsung Discontinues Its Galaxy Z TriFold After Just Three Months。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and actively engage with the embedded politics of their work; The new _chkstk uses a 'ret' to avoid return address predictor desynchronization, but this bre"
+          "zh": "今天最值得看的 3 个点：在Django开源贡献中，过度依赖LLM会损害社区协作，应将其作为辅助工具而非替代人类判断；技术发展路径并非‘必然’，而是政治选择的结果。开发者应警惕‘没有替代方案’（TINA）的叙事，主动参与塑造技术的政治维度；新_chkstk通过ret指令避免返回地址预测器不同步，但因此与影子栈（CET）不兼容，且保持特殊的调用约定。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Over-reliance on LLMs in Django open-source contributions harms community collaboration; use them as辅助 tools, not replacements for human judgment; Tech trajectories aren't 'inevitable'—they're shaped by politics. Developers must reject TINA ('There Is No Alternative') and activ"
         }
       }
     },
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出；荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑；苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Introducing Claude Sonnet 4.6; De digitale coalitieplannen: gaat het ook echt gebeuren?; ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-02-16",
-      "total": 16,
-      "feeds": [
-        "berthub.eu (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)",
-        "filfre.net (1)",
-        "idiallo.com (1)",
-        "jeffgeerling.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Learning KeyBee",
-        "jeffgeerling.com · AI is destroying Open Source, and it's not even good yet",
-        "johndcook.com · Visualizing orbital velocity",
-        "tedium.co · Project Code Name",
-        "simonwillison.net · Rodney and Claude Code for Desktop",
-        "berthub.eu · Betere Kamerstukken, en hoe lastig innovatie is"
-      ],
-      "key_points": [
-        "Learning KeyBee",
-        "AI代理因低质量输出骚扰开源维护者，正实质性破坏开源协作基础",
-        "轨道速度矢量图（hodograph）恒为圆形，其中心偏移量与轨道离心率成正比",
-        "本文追溯了企业使用项目代号（如亚马逊裁员“Project Dawn”）的历史根源，从1888年电报系统开始，分析其用于保密、内部统一或美化敏感操作（如裁员）的现代文化现象"
-      ],
-      "key_points_zh": [
-        "Learning KeyBee",
-        "AI代理因低质量输出骚扰开源维护者，正实质性破坏开源协作基础",
-        "轨道速度矢量图（hodograph）恒为圆形，其中心偏移量与轨道离心率成正比",
-        "本文追溯了企业使用项目代号（如亚马逊裁员“Project Dawn”）的历史根源，从1888年电报系统开始，分析其用于保密、内部统一或美化敏感操作（如裁员）的现代文化现象"
-      ],
-      "key_points_en": [
-        "Learning KeyBee",
-        "AI is destroying Open Source, and it's not even good yet",
-        "Visualizing orbital velocity",
-        "Project Code Name"
-      ],
-      "tweet_drafts": [
-        "Learning KeyBee",
-        "震惊！AI代理已开始骚扰开源维护者：因拒绝合并AI生成的代码，开发者竟遭自动发送的“批评邮件”攻击。Ars Technica撤回AI文章因幻觉引语。这不仅是质量差，更是对开源协作基础的破坏。开发者必须立即行动：在项目中禁用未经验证的AI贡献，建立防护规则。AI工具不能替代人类责任。#AI #OpenSource #开发者安全",
-        "行星椭圆轨道的速度矢量图竟是一个圆！圆心偏移量正比于轨道离心率。这启示开发者：复杂系统的衍生数据常有更简洁的几何形态。不妨为你的监控指标或算法输出绘制“速度矢量图”，或许能发现隐藏的优化点。#数据可视化 #系统设计 #科学计算"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Learning KeyBee",
-          "link": "https://entropicthoughts.com/learning-keybee"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "AI is destroying Open Source, and it's not even good yet",
-          "link": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Visualizing orbital velocity",
-          "link": "https://www.johndcook.com/blog/2026/02/16/hodograph/"
-        }
-      ],
-      "summary_zh": "2026-02-16 技术日报：Learning KeyBee；AI代理因低质量输出骚扰开源维护者，正实质性破坏开源协作基础；轨道速度矢量图（hodograph）恒为圆形，其中心偏移量与轨道离心率成正比。",
-      "summary_en": "Daily brief (2026-02-16): Learning KeyBee; AI is destroying Open Source, and it's not even good yet; Visualizing orbital velocity.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-16 日报】Learning KeyBee；AI代理因低质量输出骚扰开源维护者，正实质性破坏开源协作基础；轨道速度矢量图（hodograph）恒为圆形，其中心偏移量与轨道离心率成正比。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-16): Learning KeyBee; AI is destroying Open Source, and it's not even good yet; Visualizing orbital velocity. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-16）\n- Learning KeyBee\n- AI代理因低质量输出骚扰开源维护者，正实质性破坏开源协作基础\n- 轨道速度矢量图（hodograph）恒为圆形，其中心偏移量与轨道离心率成正比\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/learning-keybee\n- https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/\n- https://www.johndcook.com/blog/2026/02/16/hodograph/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-16)\n- Learning KeyBee\n- AI is destroying Open Source, and it's not even good yet\n- Visualizing orbital velocity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/learning-keybee\n- https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/\n- https://www.johndcook.com/blog/2026/02/16/hodograph/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Learning KeyBee；AI代理因低质量输出骚扰开源维护者，正实质性破坏开源协作基础；轨道速度矢量图（hodograph）恒为圆形，其中心偏移量与轨道离心率成正比。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Learning KeyBee; AI is destroying Open Source, and it's not even good yet; Visualizing orbital velocity.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
