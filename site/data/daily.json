@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T21:09:13Z",
+  "generated_at": "2026-03-18T21:43:06Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-03-18",
-      "total": 14,
+      "total": 15,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
@@ -58,37 +58,42 @@
         "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · How to Identify Your Apple Keyboard Layout by Country or Region",
         "daringfireball.net · Meta Is Dropping VR Support From Horizon Worlds",
         "daringfireball.net · David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes",
         "simonwillison.net · Snowflake Cortex AI Escapes Sandbox and Executes Malware",
         "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: Alpha AXP",
-        "shkspr.mobi · Finding the right Bottom Hole paper",
-        "idiallo.com · Communication Is Surveillance by Design"
+        "shkspr.mobi · Finding the right Bottom Hole paper"
       ],
       "key_points": [
+        "Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误",
         "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验",
         "华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议",
-        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "Windows stack limit checking retrospective: Alpha AXP"
-      ],
-      "key_points_zh": [
-        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验",
-        "华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议",
-        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "Windows stack limit checking retrospective: Alpha AXP"
-      ],
-      "key_points_en": [
-        "Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience",
-        "WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance",
-        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "Windows stack limit checking retrospective: Alpha AXP"
-      ],
-      "tweet_drafts": [
-        "Meta 终止 Horizon Worlds 的VR支持，是“元宇宙”叙事冷却的明确信号。从硬件到内容全面收缩，全力押注AI。对开发者而言，这意味着基于Quest的VR创业窗口已大幅收窄，需转向AI应用或跨平台方案",
-        "当公司价值归零，CEO却因出售获利近9亿——扎斯拉夫的华纳案例揭示了媒体并购的扭曲激励。技术团队需警惕：并购后整合常以牺牲技术债清理和AI创新为代价。你的技术栈是否经得起并购考验？",
         "Snowflake Cortex AI Escapes Sandbox and Executes Malware"
       ],
+      "key_points_zh": [
+        "Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误",
+        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验",
+        "华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议",
+        "Snowflake Cortex AI Escapes Sandbox and Executes Malware"
+      ],
+      "key_points_en": [
+        "Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development",
+        "Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience",
+        "WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance",
+        "Snowflake Cortex AI Escapes Sandbox and Executes Malware"
+      ],
+      "tweet_drafts": [
+        "Apple键盘布局地域差异大，美版改符号标签。开发中若忽略，快捷键和字符输入易出错。建议团队统一布局或提供多布局测试环境",
+        "Meta 终止 Horizon Worlds 的VR支持，是“元宇宙”叙事冷却的明确信号。从硬件到内容全面收缩，全力押注AI。对开发者而言，这意味着基于Quest的VR创业窗口已大幅收窄，需转向AI应用或跨平台方案",
+        "当公司价值归零，CEO却因出售获利近9亿——扎斯拉夫的华纳案例揭示了媒体并购的扭曲激励。技术团队需警惕：并购后整合常以牺牲技术债清理和AI创新为代价。你的技术栈是否经得起并购考验？"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "How to Identify Your Apple Keyboard Layout by Country or Region",
+          "link": "https://support.apple.com/en-us/102743"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Meta Ending VR Support",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "David Zaslav Set to Receive Up to $887 Million if Warner Bros. Acquisition Closes",
           "link": "https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-          "link": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-18 技术日报：Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验；华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议；Snowflake Cortex AI Escapes Sandbox and Executes Malware。",
-      "summary_en": "Daily brief (2026-03-18): Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience; WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $11",
+      "summary_zh": "2026-03-18 技术日报：Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误；Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验；华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议。",
+      "summary_en": "Daily brief (2026-03-18): Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development; Meta announces its metaverse platform Horizon Worlds will ful",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-18 日报】Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验；华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议；Snowflake Cortex AI Escapes Sandbox and Executes Malware。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-18): Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience; WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $1"
+          "zh": "【2026-03-18 日报】Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误；Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验；华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-18): Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development; Meta announces its metaverse platform Horizon Worlds will fu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-18）\n- Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验\n- 华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议\n- Snowflake Cortex AI Escapes Sandbox and Executes Malware\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/\n- https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html\n- https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-18)\n- Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience\n- WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance\n- Snowflake Cortex AI Escapes Sandbox and Executes Malware\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/\n- https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html\n- https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-18）\n- Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误\n- Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验\n- 华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://support.apple.com/en-us/102743\n- https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/\n- https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-18)\n- Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development\n- Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience\n- WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://support.apple.com/en-us/102743\n- https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/\n- https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验；华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议；Snowflake Cortex AI Escapes Sandbox and Executes Malware。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience; WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50"
+          "zh": "今天最值得看的 3 个点：Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误；Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验；华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development; Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a fl"
         }
       }
     },
