@@ -1,10 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-18 12:09:42 UTC
+Generated at: 2026-03-18 12:45:58 UTC
 
-- [Communication Is Surveillance by Design](https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed) (`idiallo.com`)
-  - TLDR: 电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程。
-  - WHAT: 通话详单（CDR）在通话开始时自动生成，包含被叫号码、时长、所用基站及扇区信息。手机通常连接多个基站，通过多基站测量可将位置精度缩小至数十米。
-  - WHY: 这揭示了通信协议底层本质是监控基础设施——元数据自动收集。开发者需意识到，任何通信功能都隐含位置追踪，必须在产品设计中主动考虑隐私保护。
-  - ACTION: 1. 审查产品中通话/消息日志的生成策略与保留期限。2. 对非必要场景实施数据最小化与匿名化。3. 了解业务所在地区的通信数据留存法律合规要求。
-  - TWEET: 《谍影重重》的经典桥段是假的。真实情况：通话开始时，通话详单（CDR）已自动生成，包含精确位置。执法部门无法实时定位，必须走法律程序。这提醒我们：通信系统天生就是监控工具。
+- [Finding the right Bottom Hole paper](https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/) (`shkspr.mobi`)
