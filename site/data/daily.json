@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T15:52:26Z",
+  "generated_at": "2026-03-18T16:21:14Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-18",
-      "total": 9,
+      "total": 11,
       "feeds": [
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: Alpha AXP",
         "shkspr.mobi · Finding the right Bottom Hole paper",
         "idiallo.com · Communication Is Surveillance by Design",
         "dfarq.homeip.net · AOL history",
         "nesbitt.io · Git Remote Helpers",
-        "joanwestenberg.com · Marc Andreessen is wrong about introspection",
-        "johndcook.com · Tighter bounds on alternating series remainder"
+        "joanwestenberg.com · Marc Andreessen is wrong about introspection"
       ],
       "key_points": [
+        "Windows stack limit checking retrospective: Alpha AXP",
         "Finding the right Bottom Hole paper",
         "电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程",
-        "AOL history",
-        "Git Remote Helpers"
-      ],
-      "key_points_zh": [
-        "Finding the right Bottom Hole paper",
-        "电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程",
-        "AOL history",
-        "Git Remote Helpers"
-      ],
-      "key_points_en": [
-        "Finding the right Bottom Hole paper",
-        "Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location; it takes days of legal process",
-        "AOL history",
-        "Git Remote Helpers"
-      ],
-      "tweet_drafts": [
-        "Finding the right Bottom Hole paper",
-        "《谍影重重》的经典桥段是假的。真实情况：通话开始时，通话详单（CDR）已自动生成，包含精确位置。执法部门无法实时定位，必须走法律程序。这提醒我们：通信系统天生就是监控工具",
         "AOL history"
       ],
+      "key_points_zh": [
+        "Windows stack limit checking retrospective: Alpha AXP",
+        "Finding the right Bottom Hole paper",
+        "电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程",
+        "AOL history"
+      ],
+      "key_points_en": [
+        "Windows stack limit checking retrospective: Alpha AXP",
+        "Finding the right Bottom Hole paper",
+        "Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location; it takes days of legal process",
+        "AOL history"
+      ],
+      "tweet_drafts": [
+        "Windows stack limit checking retrospective: Alpha AXP",
+        "Finding the right Bottom Hole paper",
+        "《谍影重重》的经典桥段是假的。真实情况：通话开始时，通话详单（CDR）已自动生成，包含精确位置。执法部门无法实时定位，必须走法律程序。这提醒我们：通信系统天生就是监控工具"
+      ],
       "sources": [
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Windows stack limit checking retrospective: Alpha AXP",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Finding the right Bottom Hole paper",
@@ -98,27 +103,22 @@
           "feed_title": "idiallo.com",
           "title": "Communication Is Surveillance by Design",
           "link": "https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "AOL history",
-          "link": "https://dfarq.homeip.net/aol-history/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=aol-history"
         }
       ],
-      "summary_zh": "2026-03-18 技术日报：Finding the right Bottom Hole paper；电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程；AOL history。",
-      "summary_en": "Daily brief (2026-03-18): Finding the right Bottom Hole paper; Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location;",
+      "summary_zh": "2026-03-18 技术日报：Windows stack limit checking retrospective: Alpha AXP；Finding the right Bottom Hole paper；电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程。",
+      "summary_en": "Daily brief (2026-03-18): Windows stack limit checking retrospective: Alpha AXP; Finding the right Bottom Hole paper; Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing l",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-18 日报】Finding the right Bottom Hole paper；电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程；AOL history。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-18): Finding the right Bottom Hole paper; Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location"
+          "zh": "【2026-03-18 日报】Windows stack limit checking retrospective: Alpha AXP；Finding the right Bottom Hole paper；电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-18): Windows stack limit checking retrospective: Alpha AXP; Finding the right Bottom Hole paper; Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-18）\n- Finding the right Bottom Hole paper\n- 电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程\n- AOL history\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/\n- https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed\n- https://dfarq.homeip.net/aol-history/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=aol-history\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-18)\n- Finding the right Bottom Hole paper\n- Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location; it takes days of legal process\n- AOL history\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/\n- https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed\n- https://dfarq.homeip.net/aol-history/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=aol-history\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-18）\n- Windows stack limit checking retrospective: Alpha AXP\n- Finding the right Bottom Hole paper\n- 电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146\n- https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/\n- https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-18)\n- Windows stack limit checking retrospective: Alpha AXP\n- Finding the right Bottom Hole paper\n- Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location; it takes days of legal process\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146\n- https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/\n- https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Finding the right Bottom Hole paper；电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程；AOL history。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Finding the right Bottom Hole paper; Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location; it takes days of legal process; AOL history"
+          "zh": "今天最值得看的 3 个点：Windows stack limit checking retrospective: Alpha AXP；Finding the right Bottom Hole paper；电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Windows stack limit checking retrospective: Alpha AXP; Finding the right Bottom Hole paper; Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-tim"
         }
       }
     },
