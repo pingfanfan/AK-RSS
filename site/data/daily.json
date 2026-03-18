@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T18:15:46Z",
+  "generated_at": "2026-03-18T18:45:58Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-18",
-      "total": 12,
+      "total": 13,
       "feeds": [
+        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "idiallo.com (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes",
         "simonwillison.net · Snowflake Cortex AI Escapes Sandbox and Executes Malware",
         "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: Alpha AXP",
         "shkspr.mobi · Finding the right Bottom Hole paper",
         "idiallo.com · Communication Is Surveillance by Design",
-        "dfarq.homeip.net · AOL history",
-        "nesbitt.io · Git Remote Helpers"
+        "dfarq.homeip.net · AOL history"
       ],
       "key_points": [
-        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "Windows stack limit checking retrospective: Alpha AXP",
-        "Finding the right Bottom Hole paper",
-        "电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程"
-      ],
-      "key_points_zh": [
-        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "Windows stack limit checking retrospective: Alpha AXP",
-        "Finding the right Bottom Hole paper",
-        "电影中实时三角定位是虚构的。现实是：通话一接通，通话详单（CDR）即自动生成，位置数据被捕获。执法部门获取实时定位不现实，需数日法律流程"
-      ],
-      "key_points_en": [
-        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "Windows stack limit checking retrospective: Alpha AXP",
-        "Finding the right Bottom Hole paper",
-        "Real-time triangulation in movies is fiction. In reality, a Call Detail Record (CDR) is auto-generated the moment a call connects, capturing location. Law enforcement cannot get real-time location; it takes days of legal process"
-      ],
-      "tweet_drafts": [
+        "华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议",
         "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
         "Windows stack limit checking retrospective: Alpha AXP",
         "Finding the right Bottom Hole paper"
       ],
+      "key_points_zh": [
+        "华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议",
+        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
+        "Windows stack limit checking retrospective: Alpha AXP",
+        "Finding the right Bottom Hole paper"
+      ],
+      "key_points_en": [
+        "WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance",
+        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
+        "Windows stack limit checking retrospective: Alpha AXP",
+        "Finding the right Bottom Hole paper"
+      ],
+      "tweet_drafts": [
+        "当公司价值归零，CEO却因出售获利近9亿——扎斯拉夫的华纳案例揭示了媒体并购的扭曲激励。技术团队需警惕：并购后整合常以牺牲技术债清理和AI创新为代价。你的技术栈是否经得起并购考验？",
+        "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
+        "Windows stack limit checking retrospective: Alpha AXP"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "David Zaslav Set to Receive Up to $887 Million if Warner Bros. Acquisition Closes",
+          "link": "https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
@@ -98,27 +103,22 @@
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "Windows stack limit checking retrospective: Alpha AXP",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Finding the right Bottom Hole paper",
-          "link": "https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/"
         }
       ],
-      "summary_zh": "2026-03-18 技术日报：Snowflake Cortex AI Escapes Sandbox and Executes Malware；Windows stack limit checking retrospective: Alpha AXP；Finding the right Bottom Hole paper。",
-      "summary_en": "Daily brief (2026-03-18): Snowflake Cortex AI Escapes Sandbox and Executes Malware; Windows stack limit checking retrospective: Alpha AXP; Finding the right Bottom Hole paper.",
+      "summary_zh": "2026-03-18 技术日报：华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议；Snowflake Cortex AI Escapes Sandbox and Executes Malware；Windows stack limit checking retrospective: Alpha AXP。",
+      "summary_en": "Daily brief (2026-03-18): WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance; Snowflak",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-18 日报】Snowflake Cortex AI Escapes Sandbox and Executes Malware；Windows stack limit checking retrospective: Alpha AXP；Finding the right Bottom Hole paper。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-18): Snowflake Cortex AI Escapes Sandbox and Executes Malware; Windows stack limit checking retrospective: Alpha AXP; Finding the right Bottom Hole paper. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
+          "zh": "【2026-03-18 日报】华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议；Snowflake Cortex AI Escapes Sandbox and Executes Malware；Windows stack limit checking retrospective: Alpha AXP。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-18): WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance; Snowfla"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-18）\n- Snowflake Cortex AI Escapes Sandbox and Executes Malware\n- Windows stack limit checking retrospective: Alpha AXP\n- Finding the right Bottom Hole paper\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146\n- https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-18)\n- Snowflake Cortex AI Escapes Sandbox and Executes Malware\n- Windows stack limit checking retrospective: Alpha AXP\n- Finding the right Bottom Hole paper\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146\n- https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-18）\n- 华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议\n- Snowflake Cortex AI Escapes Sandbox and Executes Malware\n- Windows stack limit checking retrospective: Alpha AXP\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html\n- https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-18)\n- WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance\n- Snowflake Cortex AI Escapes Sandbox and Executes Malware\n- Windows stack limit checking retrospective: Alpha AXP\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html\n- https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Snowflake Cortex AI Escapes Sandbox and Executes Malware；Windows stack limit checking retrospective: Alpha AXP；Finding the right Bottom Hole paper。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Snowflake Cortex AI Escapes Sandbox and Executes Malware; Windows stack limit checking retrospective: Alpha AXP; Finding the right Bottom Hole paper.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议；Snowflake Cortex AI Escapes Sandbox and Executes Malware；Windows stack limit checking retrospective: Alpha AXP。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance; Snowflake Cortex AI Escapes Sandbox and Executes Mal"
         }
       }
     },
