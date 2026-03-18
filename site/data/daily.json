@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:43:09Z",
+  "generated_at": "2026-03-18T06:18:58Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,48 +47,98 @@
       }
     },
     {
+      "date": "2026-03-18",
+      "total": 1,
+      "feeds": [
+        "johndcook.com (1)"
+      ],
+      "highlights": [
+        "johndcook.com · Tighter bounds on alternating series remainder"
+      ],
+      "key_points": [
+        "Tighter bounds on alternating series remainder"
+      ],
+      "key_points_zh": [
+        "Tighter bounds on alternating series remainder"
+      ],
+      "key_points_en": [
+        "Tighter bounds on alternating series remainder"
+      ],
+      "tweet_drafts": [
+        "Tighter bounds on alternating series remainder"
+      ],
+      "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Tighter bounds on alternating series remainder",
+          "link": "https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/"
+        }
+      ],
+      "summary_zh": "2026-03-18 技术日报：Tighter bounds on alternating series remainder。",
+      "summary_en": "Daily brief (2026-03-18): Tighter bounds on alternating series remainder.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-18 日报】Tighter bounds on alternating series remainder。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-18): Tighter bounds on alternating series remainder. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-18）\n- Tighter bounds on alternating series remainder\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-18)\n- Tighter bounds on alternating series remainder\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Tighter bounds on alternating series remainder。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tighter bounds on alternating series remainder.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-17",
-      "total": 19,
+      "total": 20,
       "feeds": [
         "simonwillison.net (4)",
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "johndcook.com (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · ★ Squashing",
         "simonwillison.net · Quoting Ken Jin",
         "simonwillison.net · GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
         "daringfireball.net · Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
         "wheresyoured.at · Why Are We Still Doing This?",
-        "simonwillison.net · Quoting Tim Schilling",
-        "pluralistic.net · Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)"
+        "simonwillison.net · Quoting Tim Schilling"
       ],
       "key_points": [
+        "★ Squashing",
         "CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成",
         "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
-        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒",
-        "Why Are We Still Doing This?"
+        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒"
       ],
       "key_points_zh": [
+        "★ Squashing",
         "CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成",
         "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
-        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒",
-        "Why Are We Still Doing This?"
+        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒"
       ],
       "key_points_en": [
+        "★ Squashing",
         "CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule",
         "OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing",
-        "Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers",
-        "Why Are We Still Doing This?"
+        "Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers"
       ],
       "tweet_drafts": [
+        "★ Squashing",
         "🚀 Python 3.15 JIT性能提前达标！macOS ARM快11-12%，Linux x86快5-6%。开发者们，是时候测试你的代码了！#Python #Performance",
-        "GPT-5.4 nano输入$0.20/百万token，比Gemini 3.1 Flash-Lite还低。实测描述照片成本不到0.1美分，大规模图像处理成本骤降。 #OpenAI #LLM",
-        "Fox Sports的沉浸式3D棒球决赛直播仅通过Android XR应用提供，Vision Pro用户被排除在外。这清晰地展示了内容分发中的平台政治。技术决策必须考虑生态位"
+        "GPT-5.4 nano输入$0.20/百万token，比Gemini 3.1 Flash-Lite还低。实测描述照片成本不到0.1美分，大规模图像处理成本骤降。 #OpenAI #LLM"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "★ Squashing",
+          "link": "https://daringfireball.net/2026/03/squashing"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Python 3.15 JIT Performance Meets Goals Early",
@@ -98,27 +148,22 @@
           "feed_title": "simonwillison.net",
           "title": "GPT-5.4 mini \u0026 nano launched: Describe 76k photos for $52",
           "link": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
-          "link": "https://x.com/mlbonfox/status/2033902946174271992?s=46"
         }
       ],
-      "summary_zh": "2026-03-17 技术日报：CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒。",
-      "summary_en": "Daily brief (2026-03-17): CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper",
+      "summary_zh": "2026-03-17 技术日报：★ Squashing；CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比。",
+      "summary_en": "Daily brief (2026-03-17): ★ Squashing; CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI rele",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-17 日报】CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒。我把可执行建议整理好了，欢迎转发讨论。#技术趋",
-          "en": "AK-RSS Daily (2026-03-17): CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper"
+          "zh": "【2026-03-17 日报】★ Squashing；CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-17): ★ Squashing; CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI rel"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成\n- OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比\n- Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule\n- OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing\n- Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n- https://x.com/mlbonfox/status/2033902946174271992?s=46\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-17）\n- ★ Squashing\n- CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成\n- OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/03/squashing\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-17)\n- ★ Squashing\n- CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule\n- OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/03/squashing\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比；Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test"
+          "zh": "今天最值得看的 3 个点：★ Squashing；CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ Squashing; CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper GPT-5.4 nano/mini, undercutting"
         }
       }
     },
@@ -2171,82 +2216,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：AI 变革已至，开发者需直面其混乱与机遇并存的实际影响；Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案；A Few Rambling Observations on Care。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’; Frigate with Hailo for object detection on a Raspberry Pi; A Few Rambling Observations on Care.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-02-17",
-      "total": 18,
-      "feeds": [
-        "simonwillison.net (4)",
-        "daringfireball.net (3)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "experimental-history.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Introducing Claude Sonnet 4.6",
-        "berthub.eu · De digitale coalitieplannen: gaat het ook echt gebeuren?",
-        "daringfireball.net · ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years",
-        "daringfireball.net · How to Force Restart an iPhone",
-        "experimental-history.com · I swear the UFO is coming any minute",
-        "devblogs.microsoft.com/oldnewthing · Microspeak: Escrow"
-      ],
-      "key_points": [
-        "Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出",
-        "荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑",
-        "苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言",
-        "iPhone 卡死时，用“音量上→音量下→长按侧键”组合强制重启，步骤易忘但关键"
-      ],
-      "key_points_zh": [
-        "Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出",
-        "荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑",
-        "苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言",
-        "iPhone 卡死时，用“音量上→音量下→长按侧键”组合强制重启，步骤易忘但关键"
-      ],
-      "key_points_en": [
-        "Introducing Claude Sonnet 4.6",
-        "De digitale coalitieplannen: gaat het ook echt gebeuren?",
-        "★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years",
-        "How to Force Restart an iPhone"
-      ],
-      "tweet_drafts": [
-        "Anthropic新模型Claude Sonnet 4.6发布！性能媲美Opus 4.5，价格却只需$3/$15（百万token）。知识截止2025年8月，支持长上下文。开发者工具llm-anthropic 0.24已适配。测试发现它偏爱给SVG加高礼帽——你的业务能接受这种“创意”吗？速测成本效益：https://simonwillison.net/2026/Feb/17/claude-sonnet-46/",
-        "荷兰拟以中央集权+强制标准推动政府数字自主，摆脱美云依赖。对国内开发者启示：密切关注信创政策与国产云标准，提前适配技术栈，积极参与国产化替代生态，把握数字主权趋势。#数字主权 #云计算 #信创",
-        "苹果官方数据：iOS 26在近4年iPhone中采用率74%，与iOS 18（76%）基本持平，驳斥“暴跌”谣言。苹果控制自动更新节奏（发布后2个月推送），采用率曲线稳定。开发者行动：1. 测试覆盖近4年设备（74%用户）；2. 优先适配iOS 26，兼容iOS 18+（\u003e90%覆盖率）；3. 关注旧版安全补丁（iOS 17仍有30%用户）。#iOS开发 #版本碎片化 #苹果生态"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Introducing Claude Sonnet 4.6",
-          "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "De digitale coalitieplannen: gaat het ook echt gebeuren?",
-          "link": "https://berthub.eu/articles/posts/digitale-coalitieplannen/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years",
-          "link": "https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates"
-        }
-      ],
-      "summary_zh": "2026-02-17 技术日报：Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出；荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑；苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。",
-      "summary_en": "Daily brief (2026-02-17): Introducing Claude Sonnet 4.6; De digitale coalitieplannen: gaat het ook echt gebeuren?; ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-17 日报】Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出；荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑；苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-17): Introducing Claude Sonnet 4.6; De digitale coalitieplannen: gaat het ook echt gebeuren?; ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years. Actionable takeaways included. What would you s"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-17）\n- Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出\n- 荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑\n- 苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything\n- https://berthub.eu/articles/posts/digitale-coalitieplannen/\n- https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-17)\n- Introducing Claude Sonnet 4.6\n- De digitale coalitieplannen: gaat het ook echt gebeuren?\n- ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything\n- https://berthub.eu/articles/posts/digitale-coalitieplannen/\n- https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic发布Claude Sonnet 4.6，性能对标Opus 4.5但价格更低（$3/$15 vs $5/$25），性价比突出；荷兰政府数字计划目标宏大（中央集权、强制标准、数字自主），但执行效果存疑；苹果官方iOS 26采用率数据出炉，近四年iPhone达74%，与iOS 18/17基本持平，驳斥“采用率暴跌”谣言。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Introducing Claude Sonnet 4.6; De digitale coalitieplannen: gaat het ook echt gebeuren?; ★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
