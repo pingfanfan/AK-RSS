@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T21:08:43Z",
+  "generated_at": "2026-03-19T21:43:10Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-03-19",
-      "total": 16,
+      "total": 17,
       "feeds": [
-        "daringfireball.net (5)",
+        "daringfireball.net (6)",
         "construction-physics.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
@@ -58,37 +58,42 @@
         "johndcook.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · StopTheMadness Pro and StopTheScript Extensions for Safari",
         "daringfireball.net · Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
         "daringfireball.net · ‘Everyone but Trump Understands What He’s Done’",
         "daringfireball.net · The Day Mark Simonson Discovered Type Design",
         "daringfireball.net · Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’",
-        "daringfireball.net · ★ AppleScript: ‘Save MarsEdit Document to Text File’",
-        "simonwillison.net · Thoughts on OpenAI acquiring Astral and uv/ruff/ty"
+        "daringfireball.net · ★ AppleScript: ‘Save MarsEdit Document to Text File’"
       ],
       "key_points": [
-        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-        "‘Everyone but Trump Understands What He’s Done’",
-        "The Day Mark Simonson Discovered Type Design",
-        "JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质"
-      ],
-      "key_points_zh": [
-        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-        "‘Everyone but Trump Understands What He’s Done’",
-        "The Day Mark Simonson Discovered Type Design",
-        "JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质"
-      ],
-      "key_points_en": [
-        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-        "‘Everyone but Trump Understands What He’s Done’",
-        "The Day Mark Simonson Discovered Type Design",
-        "JavaScript turned web pages from documents into programs, causing 49MB bloat and surveillance. Limit scripts for performance, privacy, and content visibility"
-      ],
-      "tweet_drafts": [
+        "StopTheMadness Pro and StopTheScript Extensions for Safari",
         "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
         "‘Everyone but Trump Understands What He’s Done’",
         "The Day Mark Simonson Discovered Type Design"
       ],
+      "key_points_zh": [
+        "StopTheMadness Pro and StopTheScript Extensions for Safari",
+        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
+        "‘Everyone but Trump Understands What He’s Done’",
+        "The Day Mark Simonson Discovered Type Design"
+      ],
+      "key_points_en": [
+        "StopTheMadness Pro and StopTheScript Extensions for Safari",
+        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
+        "‘Everyone but Trump Understands What He’s Done’",
+        "The Day Mark Simonson Discovered Type Design"
+      ],
+      "tweet_drafts": [
+        "StopTheMadness Pro and StopTheScript Extensions for Safari",
+        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
+        "‘Everyone but Trump Understands What He’s Done’"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "StopTheMadness Pro and StopTheScript Extensions for Safari",
+          "link": "https://mastodon.social/@lapcatsoftware/116252960395480568"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "‘Everyone but Trump Understands What He’s Done’",
           "link": "https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The Day Mark Simonson Discovered Type Design",
-          "link": "https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/"
         }
       ],
-      "summary_zh": "2026-03-19 技术日报：Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’；‘Everyone but Trump Understands What He’s Done’；The Day Mark Simonson Discovered Type Design。",
-      "summary_en": "Daily brief (2026-03-19): Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’; ‘Everyone but Trump Understands What He’s Done’; The Day Mark Simonson Discovered Type Design.",
+      "summary_zh": "2026-03-19 技术日报：StopTheMadness Pro and StopTheScript Extensions for Safari；Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’；‘Everyone but Trump Understands What He’s Done’。",
+      "summary_en": "Daily brief (2026-03-19): StopTheMadness Pro and StopTheScript Extensions for Safari; Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’; ‘Everyone but Trump Understands What He’s Done’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-19 日报】Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’；‘Everyone but Trump Understands What He’s Done’；The Day Mark Simonson Discovered Type Design。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-19): Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’; ‘Everyone but Trump Understands What He’s Done’; The Day Mark Simonson Discovered Type Design. Actionable takeaways includ"
+          "zh": "【2026-03-19 日报】StopTheMadness Pro and StopTheScript Extensions for Safari；Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’；‘Everyone but Trump Understands What He’s Done’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI",
+          "en": "AK-RSS Daily (2026-03-19): StopTheMadness Pro and StopTheScript Extensions for Safari; Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’; ‘Everyone but Trump Understands What He’s Done’. Actionable ta"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-19）\n- Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’\n- ‘Everyone but Trump Understands What He’s Done’\n- The Day Mark Simonson Discovered Type Design\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot\n- https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I\n- https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-19)\n- Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’\n- ‘Everyone but Trump Understands What He’s Done’\n- The Day Mark Simonson Discovered Type Design\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot\n- https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I\n- https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-19）\n- StopTheMadness Pro and StopTheScript Extensions for Safari\n- Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’\n- ‘Everyone but Trump Understands What He’s Done’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://mastodon.social/@lapcatsoftware/116252960395480568\n- https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot\n- https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-19)\n- StopTheMadness Pro and StopTheScript Extensions for Safari\n- Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’\n- ‘Everyone but Trump Understands What He’s Done’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://mastodon.social/@lapcatsoftware/116252960395480568\n- https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot\n- https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’；‘Everyone but Trump Understands What He’s Done’；The Day Mark Simonson Discovered Type Design。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’; ‘Everyone but Trump Understands What He’s Done’; The Day Mark Simonson Discovered Type Design.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：StopTheMadness Pro and StopTheScript Extensions for Safari；Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’；‘Everyone but Trump Understands What He’s Done’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: StopTheMadness Pro and StopTheScript Extensions for Safari; Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’; ‘Everyone but Trump Understands What He’s Done’.\nI turned them into an action-ready daily brief you can use"
         }
       }
     },
