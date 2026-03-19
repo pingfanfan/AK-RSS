@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T22:41:45Z",
+  "generated_at": "2026-03-19T06:16:55Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,48 +47,98 @@
       }
     },
     {
+      "date": "2026-03-19",
+      "total": 1,
+      "feeds": [
+        "johndcook.com (1)"
+      ],
+      "highlights": [
+        "johndcook.com · A lesser-known characterization of the gamma function"
+      ],
+      "key_points": [
+        "A lesser-known characterization of the gamma function"
+      ],
+      "key_points_zh": [
+        "A lesser-known characterization of the gamma function"
+      ],
+      "key_points_en": [
+        "A lesser-known characterization of the gamma function"
+      ],
+      "tweet_drafts": [
+        "A lesser-known characterization of the gamma function"
+      ],
+      "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "A lesser-known characterization of the gamma function",
+          "link": "https://www.johndcook.com/blog/2026/03/18/wielandt/"
+        }
+      ],
+      "summary_zh": "2026-03-19 技术日报：A lesser-known characterization of the gamma function。",
+      "summary_en": "Daily brief (2026-03-19): A lesser-known characterization of the gamma function.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-19 日报】A lesser-known characterization of the gamma function。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-19): A lesser-known characterization of the gamma function. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-19）\n- A lesser-known characterization of the gamma function\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/18/wielandt/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-19)\n- A lesser-known characterization of the gamma function\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/18/wielandt/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：A lesser-known characterization of the gamma function。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A lesser-known characterization of the gamma function.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-18",
-      "total": 16,
+      "total": 17,
       "feeds": [
         "daringfireball.net (4)",
+        "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
-        "idiallo.com (1)",
-        "joanwestenberg.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
         "daringfireball.net · The Talk Show: ‘The Pogue Feature’",
         "daringfireball.net · How to Identify Your Apple Keyboard Layout by Country or Region",
         "daringfireball.net · Meta Is Dropping VR Support From Horizon Worlds",
         "daringfireball.net · David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes",
-        "simonwillison.net · Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "devblogs.microsoft.com/oldnewthing · Windows stack limit checking retrospective: Alpha AXP"
+        "simonwillison.net · Snowflake Cortex AI Escapes Sandbox and Executes Malware"
       ],
       "key_points": [
+        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
         "The Talk Show: ‘The Pogue Feature’",
         "Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误",
-        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验",
-        "华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议"
+        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验"
       ],
       "key_points_zh": [
+        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
         "The Talk Show: ‘The Pogue Feature’",
         "Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误",
-        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验",
-        "华纳兄弟CEO扎斯拉夫在110亿美元收购案中，个人收益高达8.87亿美元（含股权、现金、福利及税务补偿），而公司市值在其任内曾腰斩，引发高管薪酬与公司绩效严重脱钩的争议"
+        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验"
       ],
       "key_points_en": [
+        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
         "The Talk Show: ‘The Pogue Feature’",
         "Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development",
-        "Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience",
-        "WB CEO Zaslav stands to gain $887M (equity, cash, benefits, tax reimbursements) from the $110B Paramount deal, while the company lost 50% of its value under his leadership, sparking outrage over executive pay vs. performance"
+        "Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience"
       ],
       "tweet_drafts": [
+        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
         "The Talk Show: ‘The Pogue Feature’",
-        "Apple键盘布局地域差异大，美版改符号标签。开发中若忽略，快捷键和字符输入易出错。建议团队统一布局或提供多布局测试环境",
-        "Meta 终止 Horizon Worlds 的VR支持，是“元宇宙”叙事冷却的明确信号。从硬件到内容全面收缩，全力押注AI。对开发者而言，这意味着基于Quest的VR创业窗口已大幅收窄，需转向AI应用或跨平台方案"
+        "Apple键盘布局地域差异大，美版改符号标签。开发中若忽略，快捷键和字符输入易出错。建议团队统一布局或提供多布局测试环境"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+          "link": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The Talk Show: ‘The Pogue Feature’",
@@ -98,27 +148,22 @@
           "feed_title": "daringfireball.net",
           "title": "How to Identify Your Apple Keyboard Layout by Country or Region",
           "link": "https://support.apple.com/en-us/102743"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Meta Ending VR Support",
-          "link": "https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/"
         }
       ],
-      "summary_zh": "2026-03-18 技术日报：The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误；Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验。",
-      "summary_en": "Daily brief (2026-03-18): The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development; Meta announces its metave",
+      "summary_zh": "2026-03-18 技术日报：Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally；The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误。",
+      "summary_en": "Daily brief (2026-03-18): Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally; The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-18 日报】The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误；Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-18): The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development; Meta announces its metav"
+          "zh": "【2026-03-18 日报】Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally；The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-18): Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally; The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-18）\n- The Talk Show: ‘The Pogue Feature’\n- Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误\n- Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/thetalkshow/2026/03/18/ep-443\n- https://support.apple.com/en-us/102743\n- https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-18)\n- The Talk Show: ‘The Pogue Feature’\n- Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development\n- Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/thetalkshow/2026/03/18/ep-443\n- https://support.apple.com/en-us/102743\n- https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-18）\n- Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally\n- The Talk Show: ‘The Pogue Feature’\n- Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/03/18/ep-443\n- https://support.apple.com/en-us/102743\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-18)\n- Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally\n- The Talk Show: ‘The Pogue Feature’\n- Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/03/18/ep-443\n- https://support.apple.com/en-us/102743\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误；Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development; Meta announces its metaverse platform Horizon Worlds will fully drop"
+          "zh": "今天最值得看的 3 个点：Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally；The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally; The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development.\nI"
         }
       }
     },
@@ -2171,82 +2216,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：IMAX and Apple Collaborate to Screen F1 Races Live in Theaters；价格减半，性能对标Claude Opus 4.6，SVG生成能力提升；Exploring the signals the dialog manager uses for dismissing a dialog。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: IMAX and Apple Collaborate to Screen F1 Races Live in Theaters; Half the price of Claude Opus 4.6 with similar performance; improved SVG generation; Exploring the signals the dialog manager uses for dismissing a dialog.\nI turned them into an action-ready daily brief you can use"
-        }
-      }
-    },
-    {
-      "date": "2026-02-18",
-      "total": 19,
-      "feeds": [
-        "daringfireball.net (2)",
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’",
-        "jeffgeerling.com · Frigate with Hailo for object detection on a Raspberry Pi",
-        "blog.jim-nielsen.com · A Few Rambling Observations on Care",
-        "simonwillison.net · Typing without having to type",
-        "simonwillison.net · The A.I. Disruption We’ve Been Waiting for Has Arrived",
-        "buttondown.com/hillelwayne · Stream of Consciousness Driven Development"
-      ],
-      "key_points": [
-        "AI 变革已至，开发者需直面其混乱与机遇并存的实际影响",
-        "Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案",
-        "A Few Rambling Observations on Care",
-        "AI编码助手使类型提示从开发负担变为质量保障工具，显著提升代码可维护性"
-      ],
-      "key_points_zh": [
-        "AI 变革已至，开发者需直面其混乱与机遇并存的实际影响",
-        "Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案",
-        "A Few Rambling Observations on Care",
-        "AI编码助手使类型提示从开发负担变为质量保障工具，显著提升代码可维护性"
-      ],
-      "key_points_en": [
-        "Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’",
-        "Frigate with Hailo for object detection on a Raspberry Pi",
-        "A Few Rambling Observations on Care",
-        "Typing without having to type"
-      ],
-      "tweet_drafts": [
-        "Paul Ford 说：“爱它恨它，AI disruptive 已至，且充满混乱的乐趣。” 对开发者而言，关键不是站队，而是行动：本周就在一个次要项目里集成 AI 工具，实测其对效率、安全与现有基建的真实影响，并记录问题。变革已来，动手评估胜过空谈。#AI #DevOps #Security",
-        "树莓派Frigate安防新选择：用Hailo AI加速器（HAT+/M.2）替代Coral TPU！性能更强，模型支持更广，且M.2版本通用性高。升级指南：评估需求→确认Frigate兼容→选购硬件。低功耗高效能AI推理，为你的智能家居安防注入新动力。#Frigate #Hailo #树莓派 #AIoT #智能安防",
-        "A Few Rambling Observations on Care"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’",
-          "link": "https://www.nytimes.com/2026/02/18/opinion/ai-software.html?unlocked_article_code=1.NFA.djaw.TBlAp8kE_N-i"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "Frigate with Hailo for object detection on a Raspberry Pi",
-          "link": "https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "A Few Rambling Observations on Care",
-          "link": "https://blog.jim-nielsen.com/2026/observations-on-care/"
-        }
-      ],
-      "summary_zh": "2026-02-18 技术日报：AI 变革已至，开发者需直面其混乱与机遇并存的实际影响；Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案；A Few Rambling Observations on Care。",
-      "summary_en": "Daily brief (2026-02-18): Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’; Frigate with Hailo for object detection on a Raspberry Pi; A Few Rambling Observations on Care.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-18 日报】AI 变革已至，开发者需直面其混乱与机遇并存的实际影响；Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案；A Few Rambling Observations on Care。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-18): Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’; Frigate with Hailo for object detection on a Raspberry Pi; A Few Rambling Observations on Care. Actionable takeaways included. What would you ship next? #AI #Engineeri"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-18）\n- AI 变革已至，开发者需直面其混乱与机遇并存的实际影响\n- Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案\n- A Few Rambling Observations on Care\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/02/18/opinion/ai-software.html?unlocked_article_code=1.NFA.djaw.TBlAp8kE_N-i\n- https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/\n- https://blog.jim-nielsen.com/2026/observations-on-care/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-18)\n- Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’\n- Frigate with Hailo for object detection on a Raspberry Pi\n- A Few Rambling Observations on Care\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/02/18/opinion/ai-software.html?unlocked_article_code=1.NFA.djaw.TBlAp8kE_N-i\n- https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/\n- https://blog.jim-nielsen.com/2026/observations-on-care/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：AI 变革已至，开发者需直面其混乱与机遇并存的实际影响；Hailo AI加速器（HAT+或M.2）为树莓派Frigate NVR提供了比Coral TPU更强大、更灵活的硬件目标检测方案；A Few Rambling Observations on Care。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’; Frigate with Hailo for object detection on a Raspberry Pi; A Few Rambling Observations on Care.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
