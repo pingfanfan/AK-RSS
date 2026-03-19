@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-19 20:43:11 UTC
+Generated at: 2026-03-19 21:08:09 UTC
 
-- [‘Everyone but Trump Understands What He’s Done’](https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I) (`daringfireball.net`)
-- [Windows stack limit checking retrospective: amd64, also known as x86-64](https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152) (`devblogs.microsoft.com/oldnewthing`)
+- [Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot) (`daringfireball.net`)
