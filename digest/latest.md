@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-19 12:45:20 UTC
+Generated at: 2026-03-19 13:27:18 UTC
 
-- [Related UI elements should not appear unrelated](https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated) (`rakhim.exotext.com`)
+- [Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)](https://pluralistic.net/2026/03/19/jargon-watch/) (`pluralistic.net`)
