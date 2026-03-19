@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T09:12:23Z",
+  "generated_at": "2026-03-19T09:44:30Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,32 +48,43 @@
     },
     {
       "date": "2026-03-19",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "herman.bearblog.dev (1)",
         "johndcook.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "herman.bearblog.dev · On becoming a day person",
         "utcc.utoronto.ca/~cks · One problem with (Python) docstrings is that they're local",
         "johndcook.com · A lesser-known characterization of the gamma function"
       ],
       "key_points": [
+        "On becoming a day person",
         "One problem with (Python) docstrings is that they're local",
         "A lesser-known characterization of the gamma function"
       ],
       "key_points_zh": [
+        "On becoming a day person",
         "One problem with (Python) docstrings is that they're local",
         "A lesser-known characterization of the gamma function"
       ],
       "key_points_en": [
+        "On becoming a day person",
         "One problem with (Python) docstrings is that they're local",
         "A lesser-known characterization of the gamma function"
       ],
       "tweet_drafts": [
+        "On becoming a day person",
         "One problem with (Python) docstrings is that they're local",
         "A lesser-known characterization of the gamma function"
       ],
       "sources": [
+        {
+          "feed_title": "herman.bearblog.dev",
+          "title": "On becoming a day person",
+          "link": "https://herman.bearblog.dev/becoming-a-day-person/"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "One problem with (Python) docstrings is that they're local",
@@ -85,20 +96,20 @@
           "link": "https://www.johndcook.com/blog/2026/03/18/wielandt/"
         }
       ],
-      "summary_zh": "2026-03-19 技术日报：One problem with (Python) docstrings is that they're local；A lesser-known characterization of the gamma function。",
-      "summary_en": "Daily brief (2026-03-19): One problem with (Python) docstrings is that they're local; A lesser-known characterization of the gamma function.",
+      "summary_zh": "2026-03-19 技术日报：On becoming a day person；One problem with (Python) docstrings is that they're local；A lesser-known characterization of the gamma function。",
+      "summary_en": "Daily brief (2026-03-19): On becoming a day person; One problem with (Python) docstrings is that they're local; A lesser-known characterization of the gamma function.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-19 日报】One problem with (Python) docstrings is that they're local；A lesser-known characterization of the gamma function。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-19): One problem with (Python) docstrings is that they're local; A lesser-known characterization of the gamma function. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-19 日报】On becoming a day person；One problem with (Python) docstrings is that they're local；A lesser-known characterization of the gamma function。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-19): On becoming a day person; One problem with (Python) docstrings is that they're local; A lesser-known characterization of the gamma function. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-19）\n- One problem with (Python) docstrings is that they're local\n- A lesser-known characterization of the gamma function\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal\n- https://www.johndcook.com/blog/2026/03/18/wielandt/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-19)\n- One problem with (Python) docstrings is that they're local\n- A lesser-known characterization of the gamma function\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal\n- https://www.johndcook.com/blog/2026/03/18/wielandt/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-19）\n- On becoming a day person\n- One problem with (Python) docstrings is that they're local\n- A lesser-known characterization of the gamma function\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://herman.bearblog.dev/becoming-a-day-person/\n- https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal\n- https://www.johndcook.com/blog/2026/03/18/wielandt/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-19)\n- On becoming a day person\n- One problem with (Python) docstrings is that they're local\n- A lesser-known characterization of the gamma function\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://herman.bearblog.dev/becoming-a-day-person/\n- https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal\n- https://www.johndcook.com/blog/2026/03/18/wielandt/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：One problem with (Python) docstrings is that they're local；A lesser-known characterization of the gamma function。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: One problem with (Python) docstrings is that they're local; A lesser-known characterization of the gamma function.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：On becoming a day person；One problem with (Python) docstrings is that they're local；A lesser-known characterization of the gamma function。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: On becoming a day person; One problem with (Python) docstrings is that they're local; A lesser-known characterization of the gamma function.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
