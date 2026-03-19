@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T11:43:02Z",
+  "generated_at": "2026-03-19T12:05:52Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-19",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
         "johndcook.com (1)",
         "matklad.github.io (1)",
-        "nesbitt.io (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "construction-physics.com · How Much Computing Power is in a Data Center?",
         "dfarq.homeip.net · Magnavox Odyssey 2: 1978-1984",
         "nesbitt.io · The Fragmented World of Dependency Policy",
         "herman.bearblog.dev · On becoming a day person",
         "utcc.utoronto.ca/~cks · One problem with (Python) docstrings is that they're local",
-        "johndcook.com · A lesser-known characterization of the gamma function",
-        "matklad.github.io · Consensus Board Game"
+        "johndcook.com · A lesser-known characterization of the gamma function"
       ],
       "key_points": [
-        "Magnavox Odyssey 2: 1978-1984",
-        "The Fragmented World of Dependency Policy",
-        "On becoming a day person",
-        "One problem with (Python) docstrings is that they're local"
-      ],
-      "key_points_zh": [
-        "Magnavox Odyssey 2: 1978-1984",
-        "The Fragmented World of Dependency Policy",
-        "On becoming a day person",
-        "One problem with (Python) docstrings is that they're local"
-      ],
-      "key_points_en": [
-        "Magnavox Odyssey 2: 1978-1984",
-        "The Fragmented World of Dependency Policy",
-        "On becoming a day person",
-        "One problem with (Python) docstrings is that they're local"
-      ],
-      "tweet_drafts": [
+        "How Much Computing Power is in a Data Center?",
         "Magnavox Odyssey 2: 1978-1984",
         "The Fragmented World of Dependency Policy",
         "On becoming a day person"
       ],
+      "key_points_zh": [
+        "How Much Computing Power is in a Data Center?",
+        "Magnavox Odyssey 2: 1978-1984",
+        "The Fragmented World of Dependency Policy",
+        "On becoming a day person"
+      ],
+      "key_points_en": [
+        "How Much Computing Power is in a Data Center?",
+        "Magnavox Odyssey 2: 1978-1984",
+        "The Fragmented World of Dependency Policy",
+        "On becoming a day person"
+      ],
+      "tweet_drafts": [
+        "How Much Computing Power is in a Data Center?",
+        "Magnavox Odyssey 2: 1978-1984",
+        "The Fragmented World of Dependency Policy"
+      ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "How Much Computing Power is in a Data Center?",
+          "link": "https://www.construction-physics.com/p/how-much-computing-power-is-in-a"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Magnavox Odyssey 2: 1978-1984",
@@ -98,27 +103,22 @@
           "feed_title": "nesbitt.io",
           "title": "The Fragmented World of Dependency Policy",
           "link": "https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html"
-        },
-        {
-          "feed_title": "herman.bearblog.dev",
-          "title": "On becoming a day person",
-          "link": "https://herman.bearblog.dev/becoming-a-day-person/"
         }
       ],
-      "summary_zh": "2026-03-19 技术日报：Magnavox Odyssey 2: 1978-1984；The Fragmented World of Dependency Policy；On becoming a day person。",
-      "summary_en": "Daily brief (2026-03-19): Magnavox Odyssey 2: 1978-1984; The Fragmented World of Dependency Policy; On becoming a day person.",
+      "summary_zh": "2026-03-19 技术日报：How Much Computing Power is in a Data Center?；Magnavox Odyssey 2: 1978-1984；The Fragmented World of Dependency Policy。",
+      "summary_en": "Daily brief (2026-03-19): How Much Computing Power is in a Data Center?; Magnavox Odyssey 2: 1978-1984; The Fragmented World of Dependency Policy.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-19 日报】Magnavox Odyssey 2: 1978-1984；The Fragmented World of Dependency Policy；On becoming a day person。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-19): Magnavox Odyssey 2: 1978-1984; The Fragmented World of Dependency Policy; On becoming a day person. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-19 日报】How Much Computing Power is in a Data Center?；Magnavox Odyssey 2: 1978-1984；The Fragmented World of Dependency Policy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-19): How Much Computing Power is in a Data Center?; Magnavox Odyssey 2: 1978-1984; The Fragmented World of Dependency Policy. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-19）\n- Magnavox Odyssey 2: 1978-1984\n- The Fragmented World of Dependency Policy\n- On becoming a day person\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/magnavox-odyssey-2-overlooked-game-console/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=magnavox-odyssey-2-overlooked-game-console\n- https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html\n- https://herman.bearblog.dev/becoming-a-day-person/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-19)\n- Magnavox Odyssey 2: 1978-1984\n- The Fragmented World of Dependency Policy\n- On becoming a day person\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/magnavox-odyssey-2-overlooked-game-console/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=magnavox-odyssey-2-overlooked-game-console\n- https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html\n- https://herman.bearblog.dev/becoming-a-day-person/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-19）\n- How Much Computing Power is in a Data Center?\n- Magnavox Odyssey 2: 1978-1984\n- The Fragmented World of Dependency Policy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/how-much-computing-power-is-in-a\n- https://dfarq.homeip.net/magnavox-odyssey-2-overlooked-game-console/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=magnavox-odyssey-2-overlooked-game-console\n- https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-19)\n- How Much Computing Power is in a Data Center?\n- Magnavox Odyssey 2: 1978-1984\n- The Fragmented World of Dependency Policy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/how-much-computing-power-is-in-a\n- https://dfarq.homeip.net/magnavox-odyssey-2-overlooked-game-console/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=magnavox-odyssey-2-overlooked-game-console\n- https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Magnavox Odyssey 2: 1978-1984；The Fragmented World of Dependency Policy；On becoming a day person。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Magnavox Odyssey 2: 1978-1984; The Fragmented World of Dependency Policy; On becoming a day person.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：How Much Computing Power is in a Data Center?；Magnavox Odyssey 2: 1978-1984；The Fragmented World of Dependency Policy。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How Much Computing Power is in a Data Center?; Magnavox Odyssey 2: 1978-1984; The Fragmented World of Dependency Policy.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
