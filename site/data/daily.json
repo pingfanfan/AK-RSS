@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T17:19:27Z",
+  "generated_at": "2026-03-19T17:46:41Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-19",
-      "total": 11,
+      "total": 12,
       "feeds": [
+        "daringfireball.net (2)",
         "construction-physics.com (1)",
-        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
         "johndcook.com (1)",
         "matklad.github.io (1)"
       ],
       "highlights": [
+        "daringfireball.net · Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’",
         "daringfireball.net · ★ AppleScript: ‘Save MarsEdit Document to Text File’",
         "simonwillison.net · Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
         "pluralistic.net · Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)",
         "construction-physics.com · How Much Computing Power is in a Data Center?",
-        "dfarq.homeip.net · Magnavox Odyssey 2: 1978-1984",
-        "nesbitt.io · The Fragmented World of Dependency Policy"
+        "dfarq.homeip.net · Magnavox Odyssey 2: 1978-1984"
       ],
       "key_points": [
-        "★ AppleScript: ‘Save MarsEdit Document to Text File’",
-        "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
-        "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)",
-        "How Much Computing Power is in a Data Center?"
-      ],
-      "key_points_zh": [
-        "★ AppleScript: ‘Save MarsEdit Document to Text File’",
-        "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
-        "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)",
-        "How Much Computing Power is in a Data Center?"
-      ],
-      "key_points_en": [
-        "★ AppleScript: ‘Save MarsEdit Document to Text File’",
-        "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
-        "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)",
-        "How Much Computing Power is in a Data Center?"
-      ],
-      "tweet_drafts": [
+        "JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质",
         "★ AppleScript: ‘Save MarsEdit Document to Text File’",
         "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
         "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)"
       ],
+      "key_points_zh": [
+        "JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质",
+        "★ AppleScript: ‘Save MarsEdit Document to Text File’",
+        "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+        "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)"
+      ],
+      "key_points_en": [
+        "JavaScript turned web pages from documents into programs, causing 49MB bloat and surveillance. Limit scripts for performance, privacy, and content visibility",
+        "★ AppleScript: ‘Save MarsEdit Document to Text File’",
+        "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+        "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)"
+      ],
+      "tweet_drafts": [
+        "JS 让网页从文档变臃肿程序，49MB 页面与监控成常态。出版商数字行为若发生在印刷版则不可接受。开发者应精简脚本，保障性能与隐私",
+        "★ AppleScript: ‘Save MarsEdit Document to Text File’",
+        "Thoughts on OpenAI acquiring Astral and uv/ruff/ty"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’",
+          "link": "https://news.ycombinator.com/item?id=47390945"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "★ AppleScript: ‘Save MarsEdit Document to Text File’",
@@ -98,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
           "link": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)",
-          "link": "https://pluralistic.net/2026/03/19/jargon-watch/"
         }
       ],
-      "summary_zh": "2026-03-19 技术日报：★ AppleScript: ‘Save MarsEdit Document to Text File’；Thoughts on OpenAI acquiring Astral and uv/ruff/ty；Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)。",
-      "summary_en": "Daily brief (2026-03-19): ★ AppleScript: ‘Save MarsEdit Document to Text File’; Thoughts on OpenAI acquiring Astral and uv/ruff/ty; Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026).",
+      "summary_zh": "2026-03-19 技术日报：JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质；★ AppleScript: ‘Save MarsEdit Document to Text File’；Thoughts on OpenAI acquiring Astral and uv/ruff/ty。",
+      "summary_en": "Daily brief (2026-03-19): JavaScript turned web pages from documents into programs, causing 49MB bloat and surveillance. Limit scripts for performance, privacy, and content visibility; ★ AppleScript: ‘Save MarsEdit Document to Text File’; Thoughts on OpenAI ac",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-19 日报】★ AppleScript: ‘Save MarsEdit Document to Text File’；Thoughts on OpenAI acquiring Astral and uv/ruff/ty；Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-19): ★ AppleScript: ‘Save MarsEdit Document to Text File’; Thoughts on OpenAI acquiring Astral and uv/ruff/ty; Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026). Actionable takeaways included. What woul"
+          "zh": "【2026-03-19 日报】JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质；★ AppleScript: ‘Save MarsEdit Document to Text File’；Thoughts on OpenAI acquiring Astral and uv/ruff/ty。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-19): JavaScript turned web pages from documents into programs, causing 49MB bloat and surveillance. Limit scripts for performance, privacy, and content visibility; ★ AppleScript: ‘Save MarsEdit Document to Text File’; Thoughts on OpenAI a"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-19）\n- ★ AppleScript: ‘Save MarsEdit Document to Text File’\n- Thoughts on OpenAI acquiring Astral and uv/ruff/ty\n- Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file\n- https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything\n- https://pluralistic.net/2026/03/19/jargon-watch/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-19)\n- ★ AppleScript: ‘Save MarsEdit Document to Text File’\n- Thoughts on OpenAI acquiring Astral and uv/ruff/ty\n- Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file\n- https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything\n- https://pluralistic.net/2026/03/19/jargon-watch/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-19）\n- JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质\n- ★ AppleScript: ‘Save MarsEdit Document to Text File’\n- Thoughts on OpenAI acquiring Astral and uv/ruff/ty\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://news.ycombinator.com/item?id=47390945\n- https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file\n- https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-19)\n- JavaScript turned web pages from documents into programs, causing 49MB bloat and surveillance. Limit scripts for performance, privacy, and content visibility\n- ★ AppleScript: ‘Save MarsEdit Document to Text File’\n- Thoughts on OpenAI acquiring Astral and uv/ruff/ty\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://news.ycombinator.com/item?id=47390945\n- https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file\n- https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ AppleScript: ‘Save MarsEdit Document to Text File’；Thoughts on OpenAI acquiring Astral and uv/ruff/ty；Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ AppleScript: ‘Save MarsEdit Document to Text File’; Thoughts on OpenAI acquiring Astral and uv/ruff/ty; Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：JavaScript 使网页从文档变为程序，导致 49MB 臃肿页面与监控工业。应限制脚本以提升性能与隐私，回归内容可见本质；★ AppleScript: ‘Save MarsEdit Document to Text File’；Thoughts on OpenAI acquiring Astral and uv/ruff/ty。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: JavaScript turned web pages from documents into programs, causing 49MB bloat and surveillance. Limit scripts for performance, privacy, and content visibility; ★ AppleScript: ‘Save MarsEdit Document to Text File’; Thoughts on OpenAI acquiring Astral and uv/ruff/ty.\nI turned them"
         }
       }
     },
