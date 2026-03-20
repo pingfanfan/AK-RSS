@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T15:44:22Z",
+  "generated_at": "2026-03-20T16:10:51Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-20",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
+        "dwarkesh.com (1)",
         "idiallo.com (1)",
         "it-notes.dragas.net (1)",
-        "jeffgeerling.com (1)",
-        "joanwestenberg.com (1)"
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "dwarkesh.com · Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
         "daringfireball.net · Quiche Browser",
         "jeffgeerling.com · The best laptop Apple ever made",
         "shkspr.mobi · I'm OK being left behind, thanks!",
         "idiallo.com · Why Is Everyone Supposed to Die If Machines Can Think?",
-        "dfarq.homeip.net · The first 3Dfx card: Orchid Righteous 3D",
-        "it-notes.dragas.net · EnshittifAIcation"
+        "dfarq.homeip.net · The first 3Dfx card: Orchid Righteous 3D"
       ],
       "key_points": [
-        "Quiche Browser",
-        "The best laptop Apple ever made",
-        "I'm OK being left behind, thanks!",
-        "Why Is Everyone Supposed to Die If Machines Can Think?"
-      ],
-      "key_points_zh": [
-        "Quiche Browser",
-        "The best laptop Apple ever made",
-        "I'm OK being left behind, thanks!",
-        "Why Is Everyone Supposed to Die If Machines Can Think?"
-      ],
-      "key_points_en": [
-        "Quiche Browser",
-        "The best laptop Apple ever made",
-        "I'm OK being left behind, thanks!",
-        "Why Is Everyone Supposed to Die If Machines Can Think?"
-      ],
-      "tweet_drafts": [
+        "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
         "Quiche Browser",
         "The best laptop Apple ever made",
         "I'm OK being left behind, thanks!"
       ],
+      "key_points_zh": [
+        "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
+        "Quiche Browser",
+        "The best laptop Apple ever made",
+        "I'm OK being left behind, thanks!"
+      ],
+      "key_points_en": [
+        "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
+        "Quiche Browser",
+        "The best laptop Apple ever made",
+        "I'm OK being left behind, thanks!"
+      ],
+      "tweet_drafts": [
+        "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
+        "Quiche Browser",
+        "The best laptop Apple ever made"
+      ],
       "sources": [
+        {
+          "feed_title": "dwarkesh.com",
+          "title": "Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
+          "link": "https://www.dwarkesh.com/p/terence-tao"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Quiche Browser",
@@ -98,27 +103,22 @@
           "feed_title": "jeffgeerling.com",
           "title": "The best laptop Apple ever made",
           "link": "https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "I'm OK being left behind, thanks!",
-          "link": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/"
         }
       ],
-      "summary_zh": "2026-03-20 技术日报：Quiche Browser；The best laptop Apple ever made；I'm OK being left behind, thanks!。",
-      "summary_en": "Daily brief (2026-03-20): Quiche Browser; The best laptop Apple ever made; I'm OK being left behind, thanks!.",
+      "summary_zh": "2026-03-20 技术日报：Terence Tao – Kepler, Newton, and the true nature of mathematical discovery；Quiche Browser；The best laptop Apple ever made。",
+      "summary_en": "Daily brief (2026-03-20): Terence Tao – Kepler, Newton, and the true nature of mathematical discovery; Quiche Browser; The best laptop Apple ever made.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-20 日报】Quiche Browser；The best laptop Apple ever made；I'm OK being left behind, thanks!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-20): Quiche Browser; The best laptop Apple ever made; I'm OK being left behind, thanks!. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-20 日报】Terence Tao – Kepler, Newton, and the true nature of mathematical discovery；Quiche Browser；The best laptop Apple ever made。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-20): Terence Tao – Kepler, Newton, and the true nature of mathematical discovery; Quiche Browser; The best laptop Apple ever made. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-20）\n- Quiche Browser\n- The best laptop Apple ever made\n- I'm OK being left behind, thanks!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://quiche.industries/browser/\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n- https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-20)\n- Quiche Browser\n- The best laptop Apple ever made\n- I'm OK being left behind, thanks!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://quiche.industries/browser/\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n- https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-20）\n- Terence Tao – Kepler, Newton, and the true nature of mathematical discovery\n- Quiche Browser\n- The best laptop Apple ever made\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.dwarkesh.com/p/terence-tao\n- https://quiche.industries/browser/\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-20)\n- Terence Tao – Kepler, Newton, and the true nature of mathematical discovery\n- Quiche Browser\n- The best laptop Apple ever made\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.dwarkesh.com/p/terence-tao\n- https://quiche.industries/browser/\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quiche Browser；The best laptop Apple ever made；I'm OK being left behind, thanks!。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quiche Browser; The best laptop Apple ever made; I'm OK being left behind, thanks!.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Terence Tao – Kepler, Newton, and the true nature of mathematical discovery；Quiche Browser；The best laptop Apple ever made。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Terence Tao – Kepler, Newton, and the true nature of mathematical discovery; Quiche Browser; The best laptop Apple ever made.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
