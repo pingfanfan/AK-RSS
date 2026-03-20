@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-20 12:04:33 UTC
+Generated at: 2026-03-20 12:45:20 UTC
 
-- [Why Is Everyone Supposed to Die If Machines Can Think?](https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed) (`idiallo.com`)
+- [I'm OK being left behind, thanks!](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/) (`shkspr.mobi`)
