@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T10:09:02Z",
+  "generated_at": "2026-03-20T10:43:57Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,68 +48,75 @@
     },
     {
       "date": "2026-03-20",
-      "total": 3,
+      "total": 5,
       "feeds": [
+        "it-notes.dragas.net (1)",
         "joanwestenberg.com (1)",
         "krebsonsecurity.com (1)",
+        "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "it-notes.dragas.net · EnshittifAIcation",
+        "nesbitt.io · Package Manager Mirroring",
         "utcc.utoronto.ca/~cks · DMARC DNS record inheritance and DMARC alignment requirements",
         "krebsonsecurity.com · Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
         "joanwestenberg.com · Members Only: How do we define our own flourishing?"
       ],
       "key_points": [
+        "EnshittifAIcation",
+        "Package Manager Mirroring",
         "DMARC DNS record inheritance and DMARC alignment requirements",
-        "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-        "Members Only: How do we define our own flourishing?"
+        "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks"
       ],
       "key_points_zh": [
+        "EnshittifAIcation",
+        "Package Manager Mirroring",
         "DMARC DNS record inheritance and DMARC alignment requirements",
-        "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-        "Members Only: How do we define our own flourishing?"
+        "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks"
       ],
       "key_points_en": [
+        "EnshittifAIcation",
+        "Package Manager Mirroring",
         "DMARC DNS record inheritance and DMARC alignment requirements",
-        "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-        "Members Only: How do we define our own flourishing?"
+        "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks"
       ],
       "tweet_drafts": [
-        "DMARC DNS record inheritance and DMARC alignment requirements",
-        "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-        "Members Only: How do we define our own flourishing?"
+        "EnshittifAIcation",
+        "Package Manager Mirroring",
+        "DMARC DNS record inheritance and DMARC alignment requirements"
       ],
       "sources": [
+        {
+          "feed_title": "it-notes.dragas.net",
+          "title": "EnshittifAIcation",
+          "link": "https://it-notes.dragas.net/2026/03/20/enshittifaication/"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Manager Mirroring",
+          "link": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "DMARC DNS record inheritance and DMARC alignment requirements",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-          "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "Members Only: How do we define our own flourishing?",
-          "link": "https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/"
         }
       ],
-      "summary_zh": "2026-03-20 技术日报：DMARC DNS record inheritance and DMARC alignment requirements；Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。",
-      "summary_en": "Daily brief (2026-03-20): DMARC DNS record inheritance and DMARC alignment requirements; Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?.",
+      "summary_zh": "2026-03-20 技术日报：EnshittifAIcation；Package Manager Mirroring；DMARC DNS record inheritance and DMARC alignment requirements。",
+      "summary_en": "Daily brief (2026-03-20): EnshittifAIcation; Package Manager Mirroring; DMARC DNS record inheritance and DMARC alignment requirements.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-20 日报】DMARC DNS record inheritance and DMARC alignment requirements；Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-20): DMARC DNS record inheritance and DMARC alignment requirements; Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?. Actionable takeaways included. What would you ship next? #AI #Engi"
+          "zh": "【2026-03-20 日报】EnshittifAIcation；Package Manager Mirroring；DMARC DNS record inheritance and DMARC alignment requirements。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-20): EnshittifAIcation; Package Manager Mirroring; DMARC DNS record inheritance and DMARC alignment requirements. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-20）\n- DMARC DNS record inheritance and DMARC alignment requirements\n- Feds Disrupt IoT Botnets Behind Huge DDoS Attacks\n- Members Only: How do we define our own flourishing?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance\n- https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/\n- https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-20)\n- DMARC DNS record inheritance and DMARC alignment requirements\n- Feds Disrupt IoT Botnets Behind Huge DDoS Attacks\n- Members Only: How do we define our own flourishing?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance\n- https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/\n- https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-20）\n- EnshittifAIcation\n- Package Manager Mirroring\n- DMARC DNS record inheritance and DMARC alignment requirements\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/03/20/enshittifaication/\n- https://nesbitt.io/2026/03/20/package-manager-mirroring.html\n- https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-20)\n- EnshittifAIcation\n- Package Manager Mirroring\n- DMARC DNS record inheritance and DMARC alignment requirements\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/03/20/enshittifaication/\n- https://nesbitt.io/2026/03/20/package-manager-mirroring.html\n- https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：DMARC DNS record inheritance and DMARC alignment requirements；Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: DMARC DNS record inheritance and DMARC alignment requirements; Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：EnshittifAIcation；Package Manager Mirroring；DMARC DNS record inheritance and DMARC alignment requirements。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: EnshittifAIcation; Package Manager Mirroring; DMARC DNS record inheritance and DMARC alignment requirements.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
