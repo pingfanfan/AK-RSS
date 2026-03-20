@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T11:40:53Z",
+  "generated_at": "2026-03-20T12:05:07Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-20",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "idiallo.com (1)",
         "it-notes.dragas.net (1)",
         "joanwestenberg.com (1)",
         "krebsonsecurity.com (1)",
-        "nesbitt.io (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "idiallo.com · Why Is Everyone Supposed to Die If Machines Can Think?",
         "dfarq.homeip.net · The first 3Dfx card: Orchid Righteous 3D",
         "it-notes.dragas.net · EnshittifAIcation",
         "nesbitt.io · Package Manager Mirroring",
         "utcc.utoronto.ca/~cks · DMARC DNS record inheritance and DMARC alignment requirements",
-        "krebsonsecurity.com · Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-        "joanwestenberg.com · Members Only: How do we define our own flourishing?"
+        "krebsonsecurity.com · Feds Disrupt IoT Botnets Behind Huge DDoS Attacks"
       ],
       "key_points": [
-        "The first 3Dfx card: Orchid Righteous 3D",
-        "EnshittifAIcation",
-        "Package Manager Mirroring",
-        "DMARC DNS record inheritance and DMARC alignment requirements"
-      ],
-      "key_points_zh": [
-        "The first 3Dfx card: Orchid Righteous 3D",
-        "EnshittifAIcation",
-        "Package Manager Mirroring",
-        "DMARC DNS record inheritance and DMARC alignment requirements"
-      ],
-      "key_points_en": [
-        "The first 3Dfx card: Orchid Righteous 3D",
-        "EnshittifAIcation",
-        "Package Manager Mirroring",
-        "DMARC DNS record inheritance and DMARC alignment requirements"
-      ],
-      "tweet_drafts": [
+        "Why Is Everyone Supposed to Die If Machines Can Think?",
         "The first 3Dfx card: Orchid Righteous 3D",
         "EnshittifAIcation",
         "Package Manager Mirroring"
       ],
+      "key_points_zh": [
+        "Why Is Everyone Supposed to Die If Machines Can Think?",
+        "The first 3Dfx card: Orchid Righteous 3D",
+        "EnshittifAIcation",
+        "Package Manager Mirroring"
+      ],
+      "key_points_en": [
+        "Why Is Everyone Supposed to Die If Machines Can Think?",
+        "The first 3Dfx card: Orchid Righteous 3D",
+        "EnshittifAIcation",
+        "Package Manager Mirroring"
+      ],
+      "tweet_drafts": [
+        "Why Is Everyone Supposed to Die If Machines Can Think?",
+        "The first 3Dfx card: Orchid Righteous 3D",
+        "EnshittifAIcation"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Why Is Everyone Supposed to Die If Machines Can Think?",
+          "link": "https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "The first 3Dfx card: Orchid Righteous 3D",
@@ -98,27 +103,22 @@
           "feed_title": "it-notes.dragas.net",
           "title": "EnshittifAIcation",
           "link": "https://it-notes.dragas.net/2026/03/20/enshittifaication/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Package Manager Mirroring",
-          "link": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html"
         }
       ],
-      "summary_zh": "2026-03-20 技术日报：The first 3Dfx card: Orchid Righteous 3D；EnshittifAIcation；Package Manager Mirroring。",
-      "summary_en": "Daily brief (2026-03-20): The first 3Dfx card: Orchid Righteous 3D; EnshittifAIcation; Package Manager Mirroring.",
+      "summary_zh": "2026-03-20 技术日报：Why Is Everyone Supposed to Die If Machines Can Think?；The first 3Dfx card: Orchid Righteous 3D；EnshittifAIcation。",
+      "summary_en": "Daily brief (2026-03-20): Why Is Everyone Supposed to Die If Machines Can Think?; The first 3Dfx card: Orchid Righteous 3D; EnshittifAIcation.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-20 日报】The first 3Dfx card: Orchid Righteous 3D；EnshittifAIcation；Package Manager Mirroring。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-20): The first 3Dfx card: Orchid Righteous 3D; EnshittifAIcation; Package Manager Mirroring. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-20 日报】Why Is Everyone Supposed to Die If Machines Can Think?；The first 3Dfx card: Orchid Righteous 3D；EnshittifAIcation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-20): Why Is Everyone Supposed to Die If Machines Can Think?; The first 3Dfx card: Orchid Righteous 3D; EnshittifAIcation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-20）\n- The first 3Dfx card: Orchid Righteous 3D\n- EnshittifAIcation\n- Package Manager Mirroring\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-first-3dfx-card-orchid-righteous-3d/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-first-3dfx-card-orchid-righteous-3d\n- https://it-notes.dragas.net/2026/03/20/enshittifaication/\n- https://nesbitt.io/2026/03/20/package-manager-mirroring.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-20)\n- The first 3Dfx card: Orchid Righteous 3D\n- EnshittifAIcation\n- Package Manager Mirroring\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-first-3dfx-card-orchid-righteous-3d/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-first-3dfx-card-orchid-righteous-3d\n- https://it-notes.dragas.net/2026/03/20/enshittifaication/\n- https://nesbitt.io/2026/03/20/package-manager-mirroring.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-20）\n- Why Is Everyone Supposed to Die If Machines Can Think?\n- The first 3Dfx card: Orchid Righteous 3D\n- EnshittifAIcation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed\n- https://dfarq.homeip.net/the-first-3dfx-card-orchid-righteous-3d/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-first-3dfx-card-orchid-righteous-3d\n- https://it-notes.dragas.net/2026/03/20/enshittifaication/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-20)\n- Why Is Everyone Supposed to Die If Machines Can Think?\n- The first 3Dfx card: Orchid Righteous 3D\n- EnshittifAIcation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed\n- https://dfarq.homeip.net/the-first-3dfx-card-orchid-righteous-3d/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-first-3dfx-card-orchid-righteous-3d\n- https://it-notes.dragas.net/2026/03/20/enshittifaication/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The first 3Dfx card: Orchid Righteous 3D；EnshittifAIcation；Package Manager Mirroring。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The first 3Dfx card: Orchid Righteous 3D; EnshittifAIcation; Package Manager Mirroring.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Why Is Everyone Supposed to Die If Machines Can Think?；The first 3Dfx card: Orchid Righteous 3D；EnshittifAIcation。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Why Is Everyone Supposed to Die If Machines Can Think?; The first 3Dfx card: Orchid Righteous 3D; EnshittifAIcation.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

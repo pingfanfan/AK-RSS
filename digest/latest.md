@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-20 11:40:19 UTC
+Generated at: 2026-03-20 12:04:33 UTC
 
-- [The first 3Dfx card: Orchid Righteous 3D](https://dfarq.homeip.net/the-first-3dfx-card-orchid-righteous-3d/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-3dfx-card-orchid-righteous-3d) (`dfarq.homeip.net`)
+- [Why Is Everyone Supposed to Die If Machines Can Think?](https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed) (`idiallo.com`)
