@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T09:10:06Z",
+  "generated_at": "2026-03-20T09:44:17Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,32 +48,43 @@
     },
     {
       "date": "2026-03-20",
-      "total": 2,
+      "total": 3,
       "feeds": [
         "joanwestenberg.com (1)",
-        "krebsonsecurity.com (1)"
+        "krebsonsecurity.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · DMARC DNS record inheritance and DMARC alignment requirements",
         "krebsonsecurity.com · Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
         "joanwestenberg.com · Members Only: How do we define our own flourishing?"
       ],
       "key_points": [
+        "DMARC DNS record inheritance and DMARC alignment requirements",
         "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
         "Members Only: How do we define our own flourishing?"
       ],
       "key_points_zh": [
+        "DMARC DNS record inheritance and DMARC alignment requirements",
         "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
         "Members Only: How do we define our own flourishing?"
       ],
       "key_points_en": [
+        "DMARC DNS record inheritance and DMARC alignment requirements",
         "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
         "Members Only: How do we define our own flourishing?"
       ],
       "tweet_drafts": [
+        "DMARC DNS record inheritance and DMARC alignment requirements",
         "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
         "Members Only: How do we define our own flourishing?"
       ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "DMARC DNS record inheritance and DMARC alignment requirements",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance"
+        },
         {
           "feed_title": "krebsonsecurity.com",
           "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
@@ -85,20 +96,20 @@
           "link": "https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/"
         }
       ],
-      "summary_zh": "2026-03-20 技术日报：Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。",
-      "summary_en": "Daily brief (2026-03-20): Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?.",
+      "summary_zh": "2026-03-20 技术日报：DMARC DNS record inheritance and DMARC alignment requirements；Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。",
+      "summary_en": "Daily brief (2026-03-20): DMARC DNS record inheritance and DMARC alignment requirements; Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-20 日报】Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-20): Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-20 日报】DMARC DNS record inheritance and DMARC alignment requirements；Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-20): DMARC DNS record inheritance and DMARC alignment requirements; Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?. Actionable takeaways included. What would you ship next? #AI #Engi"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-20）\n- Feds Disrupt IoT Botnets Behind Huge DDoS Attacks\n- Members Only: How do we define our own flourishing?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/\n- https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-20)\n- Feds Disrupt IoT Botnets Behind Huge DDoS Attacks\n- Members Only: How do we define our own flourishing?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/\n- https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-20）\n- DMARC DNS record inheritance and DMARC alignment requirements\n- Feds Disrupt IoT Botnets Behind Huge DDoS Attacks\n- Members Only: How do we define our own flourishing?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance\n- https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/\n- https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-20)\n- DMARC DNS record inheritance and DMARC alignment requirements\n- Feds Disrupt IoT Botnets Behind Huge DDoS Attacks\n- Members Only: How do we define our own flourishing?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance\n- https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/\n- https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：DMARC DNS record inheritance and DMARC alignment requirements；Feds Disrupt IoT Botnets Behind Huge DDoS Attacks；Members Only: How do we define our own flourishing?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: DMARC DNS record inheritance and DMARC alignment requirements; Feds Disrupt IoT Botnets Behind Huge DDoS Attacks; Members Only: How do we define our own flourishing?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
