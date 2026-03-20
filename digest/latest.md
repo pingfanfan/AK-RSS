@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-20 16:10:17 UTC
+Generated at: 2026-03-20 16:44:06 UTC
 
-- [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://www.dwarkesh.com/p/terence-tao) (`dwarkesh.com`)
+- [Premium: The Hater's Guide To Adobe](https://www.wheresyoured.at/hatersguide-adobe/) (`wheresyoured.at`)
