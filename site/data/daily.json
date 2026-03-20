@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T15:12:40Z",
+  "generated_at": "2026-03-20T15:44:22Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-20",
-      "total": 9,
+      "total": 10,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "it-notes.dragas.net (1)",
         "jeffgeerling.com (1)",
-        "joanwestenberg.com (1)",
-        "krebsonsecurity.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Quiche Browser",
         "jeffgeerling.com · The best laptop Apple ever made",
         "shkspr.mobi · I'm OK being left behind, thanks!",
         "idiallo.com · Why Is Everyone Supposed to Die If Machines Can Think?",
         "dfarq.homeip.net · The first 3Dfx card: Orchid Righteous 3D",
-        "it-notes.dragas.net · EnshittifAIcation",
-        "nesbitt.io · Package Manager Mirroring"
+        "it-notes.dragas.net · EnshittifAIcation"
       ],
       "key_points": [
-        "The best laptop Apple ever made",
-        "I'm OK being left behind, thanks!",
-        "Why Is Everyone Supposed to Die If Machines Can Think?",
-        "The first 3Dfx card: Orchid Righteous 3D"
-      ],
-      "key_points_zh": [
-        "The best laptop Apple ever made",
-        "I'm OK being left behind, thanks!",
-        "Why Is Everyone Supposed to Die If Machines Can Think?",
-        "The first 3Dfx card: Orchid Righteous 3D"
-      ],
-      "key_points_en": [
-        "The best laptop Apple ever made",
-        "I'm OK being left behind, thanks!",
-        "Why Is Everyone Supposed to Die If Machines Can Think?",
-        "The first 3Dfx card: Orchid Righteous 3D"
-      ],
-      "tweet_drafts": [
+        "Quiche Browser",
         "The best laptop Apple ever made",
         "I'm OK being left behind, thanks!",
         "Why Is Everyone Supposed to Die If Machines Can Think?"
       ],
+      "key_points_zh": [
+        "Quiche Browser",
+        "The best laptop Apple ever made",
+        "I'm OK being left behind, thanks!",
+        "Why Is Everyone Supposed to Die If Machines Can Think?"
+      ],
+      "key_points_en": [
+        "Quiche Browser",
+        "The best laptop Apple ever made",
+        "I'm OK being left behind, thanks!",
+        "Why Is Everyone Supposed to Die If Machines Can Think?"
+      ],
+      "tweet_drafts": [
+        "Quiche Browser",
+        "The best laptop Apple ever made",
+        "I'm OK being left behind, thanks!"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Quiche Browser",
+          "link": "https://quiche.industries/browser/"
+        },
         {
           "feed_title": "jeffgeerling.com",
           "title": "The best laptop Apple ever made",
@@ -98,27 +103,22 @@
           "feed_title": "shkspr.mobi",
           "title": "I'm OK being left behind, thanks!",
           "link": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Why Is Everyone Supposed to Die If Machines Can Think?",
-          "link": "https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed"
         }
       ],
-      "summary_zh": "2026-03-20 技术日报：The best laptop Apple ever made；I'm OK being left behind, thanks!；Why Is Everyone Supposed to Die If Machines Can Think?。",
-      "summary_en": "Daily brief (2026-03-20): The best laptop Apple ever made; I'm OK being left behind, thanks!; Why Is Everyone Supposed to Die If Machines Can Think?.",
+      "summary_zh": "2026-03-20 技术日报：Quiche Browser；The best laptop Apple ever made；I'm OK being left behind, thanks!。",
+      "summary_en": "Daily brief (2026-03-20): Quiche Browser; The best laptop Apple ever made; I'm OK being left behind, thanks!.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-20 日报】The best laptop Apple ever made；I'm OK being left behind, thanks!；Why Is Everyone Supposed to Die If Machines Can Think?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-20): The best laptop Apple ever made; I'm OK being left behind, thanks!; Why Is Everyone Supposed to Die If Machines Can Think?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-20 日报】Quiche Browser；The best laptop Apple ever made；I'm OK being left behind, thanks!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-20): Quiche Browser; The best laptop Apple ever made; I'm OK being left behind, thanks!. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-20）\n- The best laptop Apple ever made\n- I'm OK being left behind, thanks!\n- Why Is Everyone Supposed to Die If Machines Can Think?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n- https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/\n- https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-20)\n- The best laptop Apple ever made\n- I'm OK being left behind, thanks!\n- Why Is Everyone Supposed to Die If Machines Can Think?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n- https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/\n- https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-20）\n- Quiche Browser\n- The best laptop Apple ever made\n- I'm OK being left behind, thanks!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://quiche.industries/browser/\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n- https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-20)\n- Quiche Browser\n- The best laptop Apple ever made\n- I'm OK being left behind, thanks!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://quiche.industries/browser/\n- https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/\n- https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The best laptop Apple ever made；I'm OK being left behind, thanks!；Why Is Everyone Supposed to Die If Machines Can Think?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The best laptop Apple ever made; I'm OK being left behind, thanks!; Why Is Everyone Supposed to Die If Machines Can Think?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quiche Browser；The best laptop Apple ever made；I'm OK being left behind, thanks!。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quiche Browser; The best laptop Apple ever made; I'm OK being left behind, thanks!.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
