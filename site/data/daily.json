@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T20:04:18Z",
+  "generated_at": "2026-03-20T20:43:05Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-03-20",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (2)",
         "dfarq.homeip.net (1)",
@@ -58,37 +58,42 @@
         "it-notes.dragas.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Kimi.ai @Kimi_Moonshot",
         "filfre.net · The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
         "johndcook.com · Embedded regex flags",
         "daringfireball.net · Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now",
         "wheresyoured.at · Premium: The Hater's Guide To Adobe",
-        "dwarkesh.com · Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",
-        "daringfireball.net · Quiche Browser"
+        "dwarkesh.com · Terence Tao – Kepler, Newton, and the true nature of mathematical discovery"
       ],
       "key_points": [
-        "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
-        "Embedded regex flags",
-        "Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now",
-        "Premium: The Hater's Guide To Adobe"
-      ],
-      "key_points_zh": [
-        "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
-        "Embedded regex flags",
-        "Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now",
-        "Premium: The Hater's Guide To Adobe"
-      ],
-      "key_points_en": [
-        "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
-        "Embedded regex flags",
-        "Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now",
-        "Premium: The Hater's Guide To Adobe"
-      ],
-      "tweet_drafts": [
+        "Quoting Kimi.ai @Kimi_Moonshot",
         "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
         "Embedded regex flags",
         "Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now"
       ],
+      "key_points_zh": [
+        "Quoting Kimi.ai @Kimi_Moonshot",
+        "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
+        "Embedded regex flags",
+        "Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now"
+      ],
+      "key_points_en": [
+        "Quoting Kimi.ai @Kimi_Moonshot",
+        "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
+        "Embedded regex flags",
+        "Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now"
+      ],
+      "tweet_drafts": [
+        "Quoting Kimi.ai @Kimi_Moonshot",
+        "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
+        "Embedded regex flags"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Kimi.ai @Kimi_Moonshot",
+          "link": "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything"
+        },
         {
           "feed_title": "filfre.net",
           "title": "The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "Embedded regex flags",
           "link": "https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now",
-          "link": "https://bsky.social/about/blog/03-19-2026-series-b"
         }
       ],
-      "summary_zh": "2026-03-20 技术日报：The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages；Embedded regex flags；Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now。",
-      "summary_en": "Daily brief (2026-03-20): The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages; Embedded regex flags; Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now.",
+      "summary_zh": "2026-03-20 技术日报：Quoting Kimi.ai @Kimi_Moonshot；The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages；Embedded regex flags。",
+      "summary_en": "Daily brief (2026-03-20): Quoting Kimi.ai @Kimi_Moonshot; The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages; Embedded regex flags.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-20 日报】The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages；Embedded regex flags；Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-20): The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages; Embedded regex flags; Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now. Actionable takeaways included. What would you ship next? #AI"
+          "zh": "【2026-03-20 日报】Quoting Kimi.ai @Kimi_Moonshot；The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages；Embedded regex flags。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-20): Quoting Kimi.ai @Kimi_Moonshot; The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages; Embedded regex flags. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-20）\n- The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages\n- Embedded regex flags\n- Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/\n- https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/\n- https://bsky.social/about/blog/03-19-2026-series-b\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-20)\n- The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages\n- Embedded regex flags\n- Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/\n- https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/\n- https://bsky.social/about/blog/03-19-2026-series-b\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-20）\n- Quoting Kimi.ai @Kimi_Moonshot\n- The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages\n- Embedded regex flags\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything\n- https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/\n- https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-20)\n- Quoting Kimi.ai @Kimi_Moonshot\n- The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages\n- Embedded regex flags\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything\n- https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/\n- https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages；Embedded regex flags；Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages; Embedded regex flags; Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Kimi.ai @Kimi_Moonshot；The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages；Embedded regex flags。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Kimi.ai @Kimi_Moonshot; The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages; Embedded regex flags.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
