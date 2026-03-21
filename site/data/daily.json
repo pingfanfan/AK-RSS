@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T08:02:52Z",
+  "generated_at": "2026-03-21T08:43:10Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -43,6 +43,51 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: You Might Debate It — If You Could See It.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-21",
+      "total": 1,
+      "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Lingering duplicate systems and the expense of weeding them out (an illustration)"
+      ],
+      "key_points": [
+        "Lingering duplicate systems and the expense of weeding them out (an illustration)"
+      ],
+      "key_points_zh": [
+        "Lingering duplicate systems and the expense of weeding them out (an illustration)"
+      ],
+      "key_points_en": [
+        "Lingering duplicate systems and the expense of weeding them out (an illustration)"
+      ],
+      "tweet_drafts": [
+        "Lingering duplicate systems and the expense of weeding them out (an illustration)"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Lingering duplicate systems and the expense of weeding them out (an illustration)",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems"
+        }
+      ],
+      "summary_zh": "2026-03-21 技术日报：Lingering duplicate systems and the expense of weeding them out (an illustration)。",
+      "summary_en": "Daily brief (2026-03-21): Lingering duplicate systems and the expense of weeding them out (an illustration).",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-21 日报】Lingering duplicate systems and the expense of weeding them out (an illustration)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-21): Lingering duplicate systems and the expense of weeding them out (an illustration). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-21）\n- Lingering duplicate systems and the expense of weeding them out (an illustration)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-21)\n- Lingering duplicate systems and the expense of weeding them out (an illustration)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Lingering duplicate systems and the expense of weeding them out (an illustration)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Lingering duplicate systems and the expense of weeding them out (an illustration).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2171,82 +2216,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：英伟达CEO黄仁勋否认曾承诺投资OpenAI百亿美元，称仅为受邀。但OpenAI 2025年新闻稿明确提及该意向，同时OpenAI正测试广告，显示AI巨头在商业化与资本承诺上出现战略摇摆；用Binet公式快速计算大斐波那契数，并通过5f²±4的完全平方检验生成证书，确保结果正确且避免高精度浮点开销；Reading List 02/21/26。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Nvidia CEO Jensen Huang denies a $100B OpenAI investment commitment, calling it an invitation. However, OpenAI's Sept 2025 press release stated the intent. Coupled with OpenAI's ad experiments, this shows strategic wobble on commercialization and capital pledges among AI giants"
-        }
-      }
-    },
-    {
-      "date": "2026-02-20",
-      "total": 17,
-      "feeds": [
-        "simonwillison.net (3)",
-        "devblogs.microsoft.com/oldnewthing (2)",
-        "dfarq.homeip.net (1)",
-        "ericmigi.com (1)",
-        "filfre.net (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "joanwestenberg.com · The unbearable weight of cruft",
-        "simonwillison.net · Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-        "krebsonsecurity.com · ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "wheresyoured.at · Premium: The Hater's Guide to Anthropic",
-        "filfre.net · Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
-        "simonwillison.net · ggml.ai joins Hugging Face to ensure the long-term progress of Local AI"
-      ],
-      "key_points": [
-        "技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理",
-        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资"
-      ],
-      "key_points_zh": [
-        "技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理",
-        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic以AI安全为核心，从初创公司迅速成长为OpenAI主要竞争对手，年收入增长10倍至11.6亿美元，获30亿美元融资"
-      ],
-      "key_points_en": [
-        "Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential",
-        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-        "Anthropic, founded by ex-OpenAI researchers, prioritizes AI safety. It grew revenue 10x to $1.16B and raised $30B, becoming OpenAI's key rival"
-      ],
-      "tweet_drafts": [
-        "你的代码库是否被技术债务压得喘不过气？冗余代码、过时依赖不仅拖慢开发，更埋下安全隐患。立即行动：定期审计、自动化检测、制定偿还计划。别让cruft毁掉你的创新速度。#技术债务 #安全 #AI",
-        "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-        "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA"
-      ],
-      "sources": [
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "The Unbearable Weight of Cruft",
-          "link": "https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-          "link": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-          "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/"
-        }
-      ],
-      "summary_zh": "2026-02-20 技术日报：技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理；Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA。",
-      "summary_en": "Daily brief (2026-02-20): Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential; Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ P",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-20 日报】技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理；Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-20): Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential; Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-20）\n- 技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-20)\n- Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential\n- Taalas serves Llama 3.1 8B at 17,000 tokens/second\n- ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/\n- https://simonwillison.net/2026/Feb/20/taalas/#atom-everything\n- https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：技术债务（cruft）指系统中累积的冗余代码与过时依赖，拖慢开发、增加安全风险，并阻碍AI与基础设施现代化。必须主动管理；Taalas serves Llama 3.1 8B at 17,000 tokens/second；‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Cruft—redundant code and outdated dependencies—slows development, raises security risks, and blocks AI/infrastructure modernization. Proactive management is essential; Taalas serves Llama 3.1 8B at 17,000 tokens/second; ‘Starkiller’ Phishing Service Proxies Real Login Pages, MF"
         }
       }
     }
