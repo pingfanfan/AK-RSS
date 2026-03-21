@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T22:01:39Z",
+  "generated_at": "2026-03-21T22:40:00Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,38 +48,48 @@
     },
     {
       "date": "2026-03-21",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "construction-physics.com (1)",
         "nesbitt.io (1)",
+        "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "simonwillison.net · Using Git with coding agents",
         "construction-physics.com · Reading List 03/21/26",
         "nesbitt.io · How to Attract AI Bots to Your Open Source Project",
         "utcc.utoronto.ca/~cks · Lingering duplicate systems and the expense of weeding them out (an illustration)"
       ],
       "key_points": [
+        "Using Git with coding agents",
         "Reading List 03/21/26",
         "How to Attract AI Bots to Your Open Source Project",
         "Lingering duplicate systems and the expense of weeding them out (an illustration)"
       ],
       "key_points_zh": [
+        "Using Git with coding agents",
         "Reading List 03/21/26",
         "How to Attract AI Bots to Your Open Source Project",
         "Lingering duplicate systems and the expense of weeding them out (an illustration)"
       ],
       "key_points_en": [
+        "Using Git with coding agents",
         "Reading List 03/21/26",
         "How to Attract AI Bots to Your Open Source Project",
         "Lingering duplicate systems and the expense of weeding them out (an illustration)"
       ],
       "tweet_drafts": [
+        "Using Git with coding agents",
         "Reading List 03/21/26",
-        "How to Attract AI Bots to Your Open Source Project",
-        "Lingering duplicate systems and the expense of weeding them out (an illustration)"
+        "How to Attract AI Bots to Your Open Source Project"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Using Git with coding agents",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Reading List 03/21/26",
@@ -89,27 +99,22 @@
           "feed_title": "nesbitt.io",
           "title": "How to Attract AI Bots to Your Open Source Project",
           "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Lingering duplicate systems and the expense of weeding them out (an illustration)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems"
         }
       ],
-      "summary_zh": "2026-03-21 技术日报：Reading List 03/21/26；How to Attract AI Bots to Your Open Source Project；Lingering duplicate systems and the expense of weeding them out (an illustration)。",
-      "summary_en": "Daily brief (2026-03-21): Reading List 03/21/26; How to Attract AI Bots to Your Open Source Project; Lingering duplicate systems and the expense of weeding them out (an illustration).",
+      "summary_zh": "2026-03-21 技术日报：Using Git with coding agents；Reading List 03/21/26；How to Attract AI Bots to Your Open Source Project。",
+      "summary_en": "Daily brief (2026-03-21): Using Git with coding agents; Reading List 03/21/26; How to Attract AI Bots to Your Open Source Project.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-21 日报】Reading List 03/21/26；How to Attract AI Bots to Your Open Source Project；Lingering duplicate systems and the expense of weeding them out (an illustration)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-21): Reading List 03/21/26; How to Attract AI Bots to Your Open Source Project; Lingering duplicate systems and the expense of weeding them out (an illustration). Actionable takeaways included. What would you ship next? #AI #Engineering #"
+          "zh": "【2026-03-21 日报】Using Git with coding agents；Reading List 03/21/26；How to Attract AI Bots to Your Open Source Project。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-21): Using Git with coding agents; Reading List 03/21/26; How to Attract AI Bots to Your Open Source Project. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-21）\n- Reading List 03/21/26\n- How to Attract AI Bots to Your Open Source Project\n- Lingering duplicate systems and the expense of weeding them out (an illustration)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-032126\n- https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-21)\n- Reading List 03/21/26\n- How to Attract AI Bots to Your Open Source Project\n- Lingering duplicate systems and the expense of weeding them out (an illustration)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-032126\n- https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-21）\n- Using Git with coding agents\n- Reading List 03/21/26\n- How to Attract AI Bots to Your Open Source Project\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything\n- https://www.construction-physics.com/p/reading-list-032126\n- https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-21)\n- Using Git with coding agents\n- Reading List 03/21/26\n- How to Attract AI Bots to Your Open Source Project\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything\n- https://www.construction-physics.com/p/reading-list-032126\n- https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reading List 03/21/26；How to Attract AI Bots to Your Open Source Project；Lingering duplicate systems and the expense of weeding them out (an illustration)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reading List 03/21/26; How to Attract AI Bots to Your Open Source Project; Lingering duplicate systems and the expense of weeding them out (an illustration).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Using Git with coding agents；Reading List 03/21/26；How to Attract AI Bots to Your Open Source Project。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Using Git with coding agents; Reading List 03/21/26; How to Attract AI Bots to Your Open Source Project.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
