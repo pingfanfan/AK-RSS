@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T06:44:51Z",
+  "generated_at": "2026-03-22T07:14:46Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -104,16 +104,17 @@
     },
     {
       "date": "2026-03-21",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "simonwillison.net (2)",
+        "utcc.utoronto.ca/~cks (2)",
         "construction-physics.com (1)",
-        "nesbitt.io (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
         "simonwillison.net · Profiling Hacker News users based on their comments",
         "simonwillison.net · Using Git with coding agents",
+        "utcc.utoronto.ca/~cks · A traditional path to getting lingering duplicate systems",
         "construction-physics.com · Reading List 03/21/26",
         "nesbitt.io · How to Attract AI Bots to Your Open Source Project",
         "utcc.utoronto.ca/~cks · Lingering duplicate systems and the expense of weeding them out (an illustration)"
@@ -121,25 +122,25 @@
       "key_points": [
         "Profiling Hacker News users based on their comments",
         "Using Git with coding agents",
-        "Reading List 03/21/26",
-        "How to Attract AI Bots to Your Open Source Project"
+        "A traditional path to getting lingering duplicate systems",
+        "Reading List 03/21/26"
       ],
       "key_points_zh": [
         "Profiling Hacker News users based on their comments",
         "Using Git with coding agents",
-        "Reading List 03/21/26",
-        "How to Attract AI Bots to Your Open Source Project"
+        "A traditional path to getting lingering duplicate systems",
+        "Reading List 03/21/26"
       ],
       "key_points_en": [
         "Profiling Hacker News users based on their comments",
         "Using Git with coding agents",
-        "Reading List 03/21/26",
-        "How to Attract AI Bots to Your Open Source Project"
+        "A traditional path to getting lingering duplicate systems",
+        "Reading List 03/21/26"
       ],
       "tweet_drafts": [
         "Profiling Hacker News users based on their comments",
         "Using Git with coding agents",
-        "Reading List 03/21/26"
+        "A traditional path to getting lingering duplicate systems"
       ],
       "sources": [
         {
@@ -153,25 +154,25 @@
           "link": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything"
         },
         {
-          "feed_title": "construction-physics.com",
-          "title": "Reading List 03/21/26",
-          "link": "https://www.construction-physics.com/p/reading-list-032126"
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "A traditional path to getting lingering duplicate systems",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII"
         }
       ],
-      "summary_zh": "2026-03-21 技术日报：Profiling Hacker News users based on their comments；Using Git with coding agents；Reading List 03/21/26。",
-      "summary_en": "Daily brief (2026-03-21): Profiling Hacker News users based on their comments; Using Git with coding agents; Reading List 03/21/26.",
+      "summary_zh": "2026-03-21 技术日报：Profiling Hacker News users based on their comments；Using Git with coding agents；A traditional path to getting lingering duplicate systems。",
+      "summary_en": "Daily brief (2026-03-21): Profiling Hacker News users based on their comments; Using Git with coding agents; A traditional path to getting lingering duplicate systems.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-21 日报】Profiling Hacker News users based on their comments；Using Git with coding agents；Reading List 03/21/26。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-21): Profiling Hacker News users based on their comments; Using Git with coding agents; Reading List 03/21/26. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-21 日报】Profiling Hacker News users based on their comments；Using Git with coding agents；A traditional path to getting lingering duplicate systems。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-21): Profiling Hacker News users based on their comments; Using Git with coding agents; A traditional path to getting lingering duplicate systems. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-21）\n- Profiling Hacker News users based on their comments\n- Using Git with coding agents\n- Reading List 03/21/26\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything\n- https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything\n- https://www.construction-physics.com/p/reading-list-032126\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-21)\n- Profiling Hacker News users based on their comments\n- Using Git with coding agents\n- Reading List 03/21/26\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything\n- https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything\n- https://www.construction-physics.com/p/reading-list-032126\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-21）\n- Profiling Hacker News users based on their comments\n- Using Git with coding agents\n- A traditional path to getting lingering duplicate systems\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything\n- https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-21)\n- Profiling Hacker News users based on their comments\n- Using Git with coding agents\n- A traditional path to getting lingering duplicate systems\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything\n- https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Profiling Hacker News users based on their comments；Using Git with coding agents；Reading List 03/21/26。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Profiling Hacker News users based on their comments; Using Git with coding agents; Reading List 03/21/26.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Profiling Hacker News users based on their comments；Using Git with coding agents；A traditional path to getting lingering duplicate systems。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Profiling Hacker News users based on their comments; Using Git with coding agents; A traditional path to getting lingering duplicate systems.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
