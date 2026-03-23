@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T22:40:01Z",
+  "generated_at": "2026-03-23T06:21:30Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,77 +47,145 @@
       }
     },
     {
+      "date": "2026-03-23",
+      "total": 3,
+      "feeds": [
+        "abortretry.fail (1)",
+        "pluralistic.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "pluralistic.net · Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "simonwillison.net · Beats now have notes",
+        "abortretry.fail · Hitachi Ltd, Part I"
+      ],
+      "key_points": [
+        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "Beats now have notes",
+        "Hitachi Ltd, Part I"
+      ],
+      "key_points_zh": [
+        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "Beats now have notes",
+        "Hitachi Ltd, Part I"
+      ],
+      "key_points_en": [
+        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "Beats now have notes",
+        "Hitachi Ltd, Part I"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "Beats now have notes",
+        "Hitachi Ltd, Part I"
+      ],
+      "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+          "link": "https://pluralistic.net/2026/03/22/nobodys-home/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Beats now have notes",
+          "link": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything"
+        },
+        {
+          "feed_title": "abortretry.fail",
+          "title": "Hitachi Ltd, Part I",
+          "link": "https://www.abortretry.fail/p/hitachi-ltd-part-i"
+        }
+      ],
+      "summary_zh": "2026-03-23 技术日报：Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)；Beats now have notes；Hitachi Ltd, Part I。",
+      "summary_en": "Daily brief (2026-03-23): Pluralistic: Understaffing as a form of enshittification (23 Mar 2026); Beats now have notes; Hitachi Ltd, Part I.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-23 日报】Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)；Beats now have notes；Hitachi Ltd, Part I。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-23): Pluralistic: Understaffing as a form of enshittification (23 Mar 2026); Beats now have notes; Hitachi Ltd, Part I. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-23）\n- Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)\n- Beats now have notes\n- Hitachi Ltd, Part I\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/03/22/nobodys-home/\n- https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-i\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-23)\n- Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)\n- Beats now have notes\n- Hitachi Ltd, Part I\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/03/22/nobodys-home/\n- https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-i\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)；Beats now have notes；Hitachi Ltd, Part I。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Understaffing as a form of enshittification (23 Mar 2026); Beats now have notes; Hitachi Ltd, Part I.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-22",
-      "total": 6,
+      "total": 9,
       "feeds": [
         "daringfireball.net (2)",
         "berthub.eu (1)",
+        "blog.jim-nielsen.com (1)",
         "evanhahn.com (1)",
-        "oldvcr.blogspot.com (1)",
-        "shkspr.mobi (1)"
+        "geohot.github.io (1)",
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "joanwestenberg.com · \"Collaboration\" is bullshit.",
+        "blog.jim-nielsen.com · More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site",
         "daringfireball.net · Mux — Video API for Developers",
+        "geohot.github.io · Changing the World",
         "shkspr.mobi · Bored of eating your own dogfood? Try smelling your own farts!",
-        "berthub.eu · Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie",
-        "oldvcr.blogspot.com · Refurb weekend double header: Alpha Micro AM-1000E and AM-1200",
-        "daringfireball.net · Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’",
-        "evanhahn.com · All tests pass: a short story"
+        "berthub.eu · Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie"
       ],
       "key_points": [
+        "\"Collaboration\" is bullshit",
+        "More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site",
         "Mux — Video API for Developers",
-        "Bored of eating your own dogfood? Try smelling your own farts!",
-        "Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie",
-        "Refurb weekend double header: Alpha Micro AM-1000E and AM-1200"
+        "Changing the World"
       ],
       "key_points_zh": [
+        "\"Collaboration\" is bullshit",
+        "More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site",
         "Mux — Video API for Developers",
-        "Bored of eating your own dogfood? Try smelling your own farts!",
-        "Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie",
-        "Refurb weekend double header: Alpha Micro AM-1000E and AM-1200"
+        "Changing the World"
       ],
       "key_points_en": [
+        "\"Collaboration\" is bullshit",
+        "More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site",
         "Mux — Video API for Developers",
-        "Bored of eating your own dogfood? Try smelling your own farts!",
-        "Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie",
-        "Refurb weekend double header: Alpha Micro AM-1000E and AM-1200"
+        "Changing the World"
       ],
       "tweet_drafts": [
-        "Mux — Video API for Developers",
-        "Bored of eating your own dogfood? Try smelling your own farts!",
-        "Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie"
+        "\"Collaboration\" is bullshit",
+        "More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site",
+        "Mux — Video API for Developers"
       ],
       "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "\"Collaboration\" is bullshit.",
+          "link": "https://www.joanwestenberg.com/collaboration-is-bullshit/"
+        },
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site",
+          "link": "https://blog.jim-nielsen.com/2026/notes-site-updates/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Mux — Video API for Developers",
           "link": "https://www.mux.com/?utm_campaign=fireball\u0026utm_source=DF"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Bored of eating your own dogfood? Try smelling your own farts!",
-          "link": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie",
-          "link": "https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/"
         }
       ],
-      "summary_zh": "2026-03-22 技术日报：Mux — Video API for Developers；Bored of eating your own dogfood? Try smelling your own farts!；Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie。",
-      "summary_en": "Daily brief (2026-03-22): Mux — Video API for Developers; Bored of eating your own dogfood? Try smelling your own farts!; Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie.",
+      "summary_zh": "2026-03-22 技术日报：\"Collaboration\" is bullshit；More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site；Mux — Video API for Developers。",
+      "summary_en": "Daily brief (2026-03-22): \"Collaboration\" is bullshit; More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site; Mux — Video API for Developers.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-22 日报】Mux — Video API for Developers；Bored of eating your own dogfood? Try smelling your own farts!；Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-22): Mux — Video API for Developers; Bored of eating your own dogfood? Try smelling your own farts!; Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie. Actionable takeaways included. What would you ship next? #AI #Eng"
+          "zh": "【2026-03-22 日报】\"Collaboration\" is bullshit；More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site；Mux — Video API for Developers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-22): \"Collaboration\" is bullshit; More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site; Mux — Video API for Developers. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubli"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-22）\n- Mux — Video API for Developers\n- Bored of eating your own dogfood? Try smelling your own farts!\n- Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.mux.com/?utm_campaign=fireball\u0026utm_source=DF\n- https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/\n- https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-22)\n- Mux — Video API for Developers\n- Bored of eating your own dogfood? Try smelling your own farts!\n- Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.mux.com/?utm_campaign=fireball\u0026utm_source=DF\n- https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/\n- https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-22）\n- \"Collaboration\" is bullshit\n- More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site\n- Mux — Video API for Developers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/collaboration-is-bullshit/\n- https://blog.jim-nielsen.com/2026/notes-site-updates/\n- https://www.mux.com/?utm_campaign=fireball\u0026utm_source=DF\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-22)\n- \"Collaboration\" is bullshit\n- More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site\n- Mux — Video API for Developers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/collaboration-is-bullshit/\n- https://blog.jim-nielsen.com/2026/notes-site-updates/\n- https://www.mux.com/?utm_campaign=fireball\u0026utm_source=DF\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Mux — Video API for Developers；Bored of eating your own dogfood? Try smelling your own farts!；Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Mux — Video API for Developers; Bored of eating your own dogfood? Try smelling your own farts!; Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：\"Collaboration\" is bullshit；More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site；Mux — Video API for Developers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: \"Collaboration\" is bullshit; More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site; Mux — Video API for Developers.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2168,82 +2236,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：本文探讨如何在Shell脚本中实现类似Nix Flake的依赖锁定与可重现性检查，以提升脚本的安全性和环境一致性；曾是Web3社交标杆的Farcaster，因社交层增长未达预期，于2025年转向钱包交易，2026年被其核心基础设施商Neynar整体收购。创始人承认失败并务实转型的态度，在加密领域堪称罕见；NetNewsWire 7发布，需macOS 26，但旧系统用户可继续使用6.x，两者同步无缝。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Explores implementing Nix Flake-like dependency locking and reproducibility checks in shell scripts to enhance security and environment consistency; Once a Web3 social benchmark, Farcaster pivoted to wallets/trading in 2025 after social layer growth stalled and was fully acquir"
-        }
-      }
-    },
-    {
-      "date": "2026-02-22",
-      "total": 12,
-      "feeds": [
-        "johndcook.com (3)",
-        "simonwillison.net (2)",
-        "utcc.utoronto.ca/~cks (2)",
-        "blog.jim-nielsen.com (1)",
-        "derekthompson.org (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · The Claude C Compiler: What It Reveals About the Future of Software",
-        "utcc.utoronto.ca/~cks · PDUs can fail (eventually) and some things related to this",
-        "johndcook.com · Bitcoin mining difficulty",
-        "blog.jim-nielsen.com · How AI Labs Proliferate",
-        "johndcook.com · Exahash, Zettahash, Yottahash",
-        "simonwillison.net · How I think about Codex"
-      ],
-      "key_points": [
-        "Anthropic的Claude C编译器（CCC）被专家评为教科书级实现，证明AI能自动化实现但缺乏生产级泛化能力，凸显设计stewardship更重要，并引发AI训练与代码复制的IP边界问题",
-        "PDUs can fail (eventually) and some things related to this",
-        "Bitcoin mining difficulty",
-        "How AI Labs Proliferate"
-      ],
-      "key_points_zh": [
-        "Anthropic的Claude C编译器（CCC）被专家评为教科书级实现，证明AI能自动化实现但缺乏生产级泛化能力，凸显设计stewardship更重要，并引发AI训练与代码复制的IP边界问题",
-        "PDUs can fail (eventually) and some things related to this",
-        "Bitcoin mining difficulty",
-        "How AI Labs Proliferate"
-      ],
-      "key_points_en": [
-        "Anthropic's Claude C Compiler (CCC) was rated as a textbook implementation by experts, proving AI can automate implementation but lacks production-grade generalization, highlighting the increased importance of design stewardship, and raising IP boundary questions between AI training and code copying",
-        "PDUs can fail (eventually) and some things related to this",
-        "Bitcoin mining difficulty",
-        "How AI Labs Proliferate"
-      ],
-      "tweet_drafts": [
-        "专家评CCC：AI能写出教科书级C编译器，但离生产还远。关键启示：设计stewardship比编码更重要，AI擅长测过但难抽象。IP边界问题亟待解决",
-        "PDUs can fail (eventually) and some things related to this",
-        "Bitcoin mining difficulty"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The Claude C Compiler: What It Reveals About the Future of Software",
-          "link": "https://simonwillison.net/2026/Feb/22/ccc/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "PDUs can fail (eventually) and some things related to this",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PDUsCanFailEventually"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Bitcoin mining difficulty",
-          "link": "https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/"
-        }
-      ],
-      "summary_zh": "2026-02-22 技术日报：Anthropic的Claude C编译器（CCC）被专家评为教科书级实现，证明AI能自动化实现但缺乏生产级泛化能力，凸显设计stewardship更重要，并引发AI训练与代码复制的IP边界问题；PDUs can fail (eventually) and some things related to this；Bitcoin mining difficulty。",
-      "summary_en": "Daily brief (2026-02-22): Anthropic's Claude C Compiler (CCC) was rated as a textbook implementation by experts, proving AI can automate implementation but lacks production-grade generalization, highlighting the increased importance of design stewardship, and",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-22 日报】Anthropic的Claude C编译器（CCC）被专家评为教科书级实现，证明AI能自动化实现但缺乏生产级泛化能力，凸显设计stewardship更重要，并引发AI训练与代码复制的IP边界问题；PDUs can fail (eventually) and some things related to this；Bitcoin mining difficulty。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-22): Anthropic's Claude C Compiler (CCC) was rated as a textbook implementation by experts, proving AI can automate implementation but lacks production-grade generalization, highlighting the increased importance of design stewardship, and"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-22）\n- Anthropic的Claude C编译器（CCC）被专家评为教科书级实现，证明AI能自动化实现但缺乏生产级泛化能力，凸显设计stewardship更重要，并引发AI训练与代码复制的IP边界问题\n- PDUs can fail (eventually) and some things related to this\n- Bitcoin mining difficulty\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/22/ccc/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PDUsCanFailEventually\n- https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-22)\n- Anthropic's Claude C Compiler (CCC) was rated as a textbook implementation by experts, proving AI can automate implementation but lacks production-grade generalization, highlighting the increased importance of design stewardship, and raising IP boundary questions between AI training and code copying\n- PDUs can fail (eventually) and some things related to this\n- Bitcoin mining difficulty\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/22/ccc/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PDUsCanFailEventually\n- https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic的Claude C编译器（CCC）被专家评为教科书级实现，证明AI能自动化实现但缺乏生产级泛化能力，凸显设计stewardship更重要，并引发AI训练与代码复制的IP边界问题；PDUs can fail (eventually) and some things related to this；Bitcoin mining difficulty。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Anthropic's Claude C Compiler (CCC) was rated as a textbook implementation by experts, proving AI can automate implementation but lacks production-grade generalization, highlighting the increased importance of design stewardship, and raising IP boundary questions between AI tra"
         }
       }
     }
