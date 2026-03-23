@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T17:46:12Z",
+  "generated_at": "2026-03-23T18:12:57Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-23",
-      "total": 11,
+      "total": 12,
       "feeds": [
+        "daringfireball.net (2)",
         "abortretry.fail (1)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
         "daringfireball.net · The HTML Review: Issue 05",
         "krebsonsecurity.com · ‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
         "devblogs.microsoft.com/oldnewthing · How can I make sure the anti-malware software doesn’t terminate my custom service?",
         "tedium.co · The Pancake Discussion",
-        "matduggan.com · Markdown Ate The World",
-        "johndcook.com · Set intersection and difference at the command line"
+        "matduggan.com · Markdown Ate The World"
       ],
       "key_points": [
-        "The HTML Review: Issue 05",
-        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
-        "The Pancake Discussion"
-      ],
-      "key_points_zh": [
-        "The HTML Review: Issue 05",
-        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
-        "The Pancake Discussion"
-      ],
-      "key_points_en": [
-        "The HTML Review: Issue 05",
-        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
-        "The Pancake Discussion"
-      ],
-      "tweet_drafts": [
+        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
         "The HTML Review: Issue 05",
         "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
         "How can I make sure the anti-malware software doesn’t terminate my custom service?"
       ],
+      "key_points_zh": [
+        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
+        "The HTML Review: Issue 05",
+        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+        "How can I make sure the anti-malware software doesn’t terminate my custom service?"
+      ],
+      "key_points_en": [
+        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
+        "The HTML Review: Issue 05",
+        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+        "How can I make sure the anti-malware software doesn’t terminate my custom service?"
+      ],
+      "tweet_drafts": [
+        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
+        "The HTML Review: Issue 05",
+        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
+          "link": "https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The HTML Review: Issue 05",
@@ -98,27 +103,22 @@
           "feed_title": "krebsonsecurity.com",
           "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
           "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "How can I make sure the anti-malware software doesn’t terminate my custom service?",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157"
         }
       ],
-      "summary_zh": "2026-03-23 技术日报：The HTML Review: Issue 05；‘CanisterWorm’ Springs Wiper Attack Targeting Iran；How can I make sure the anti-malware software doesn’t terminate my custom service?。",
-      "summary_en": "Daily brief (2026-03-23): The HTML Review: Issue 05; ‘CanisterWorm’ Springs Wiper Attack Targeting Iran; How can I make sure the anti-malware software doesn’t terminate my custom service?.",
+      "summary_zh": "2026-03-23 技术日报：From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’；The HTML Review: Issue 05；‘CanisterWorm’ Springs Wiper Attack Targeting Iran。",
+      "summary_en": "Daily brief (2026-03-23): From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’; The HTML Review: Issue 05; ‘CanisterWorm’ Springs Wiper Attack Targeting Iran.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-23 日报】The HTML Review: Issue 05；‘CanisterWorm’ Springs Wiper Attack Targeting Iran；How can I make sure the anti-malware software doesn’t terminate my custom service?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-23): The HTML Review: Issue 05; ‘CanisterWorm’ Springs Wiper Attack Targeting Iran; How can I make sure the anti-malware software doesn’t terminate my custom service?. Actionable takeaways included. What would you ship next? #AI #Engineer"
+          "zh": "【2026-03-23 日报】From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’；The HTML Review: Issue 05；‘CanisterWorm’ Springs Wiper Attack Targeting Iran。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-23): From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’; The HTML Review: Issue 05; ‘CanisterWorm’ Springs Wiper Attack Targeting Iran. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-23）\n- The HTML Review: Issue 05\n- ‘CanisterWorm’ Springs Wiper Attack Targeting Iran\n- How can I make sure the anti-malware software doesn’t terminate my custom service?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://thehtml.review/05/\n- https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/\n- https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-23)\n- The HTML Review: Issue 05\n- ‘CanisterWorm’ Springs Wiper Attack Targeting Iran\n- How can I make sure the anti-malware software doesn’t terminate my custom service?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://thehtml.review/05/\n- https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/\n- https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-23）\n- From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’\n- The HTML Review: Issue 05\n- ‘CanisterWorm’ Springs Wiper Attack Targeting Iran\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads\n- https://thehtml.review/05/\n- https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-23)\n- From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’\n- The HTML Review: Issue 05\n- ‘CanisterWorm’ Springs Wiper Attack Targeting Iran\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads\n- https://thehtml.review/05/\n- https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The HTML Review: Issue 05；‘CanisterWorm’ Springs Wiper Attack Targeting Iran；How can I make sure the anti-malware software doesn’t terminate my custom service?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The HTML Review: Issue 05; ‘CanisterWorm’ Springs Wiper Attack Targeting Iran; How can I make sure the anti-malware software doesn’t terminate my custom service?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’；The HTML Review: Issue 05；‘CanisterWorm’ Springs Wiper Attack Targeting Iran。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’; The HTML Review: Issue 05; ‘CanisterWorm’ Springs Wiper Attack Targeting Iran.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-23 17:45:38 UTC
+Generated at: 2026-03-23 18:12:24 UTC
 
-- [The HTML Review: Issue 05](https://thehtml.review/05/) (`daringfireball.net`)
+- [From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’](https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads) (`daringfireball.net`)
