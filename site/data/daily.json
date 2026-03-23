@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T11:44:05Z",
+  "generated_at": "2026-03-23T12:09:35Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-03-23",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "abortretry.fail (1)",
         "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "johndcook.com · Set intersection and difference at the command line",
         "dfarq.homeip.net · What came after 486?",
         "pluralistic.net · Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
         "simonwillison.net · Beats now have notes",
@@ -64,29 +66,34 @@
         "abortretry.fail · Hitachi Ltd, Part I"
       ],
       "key_points": [
-        "What came after 486?",
-        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
-        "Beats now have notes",
-        "Mass production's effects on the cheapest way to get some things"
-      ],
-      "key_points_zh": [
-        "What came after 486?",
-        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
-        "Beats now have notes",
-        "Mass production's effects on the cheapest way to get some things"
-      ],
-      "key_points_en": [
-        "What came after 486?",
-        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
-        "Beats now have notes",
-        "Mass production's effects on the cheapest way to get some things"
-      ],
-      "tweet_drafts": [
+        "Set intersection and difference at the command line",
         "What came after 486?",
         "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
         "Beats now have notes"
       ],
+      "key_points_zh": [
+        "Set intersection and difference at the command line",
+        "What came after 486?",
+        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "Beats now have notes"
+      ],
+      "key_points_en": [
+        "Set intersection and difference at the command line",
+        "What came after 486?",
+        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "Beats now have notes"
+      ],
+      "tweet_drafts": [
+        "Set intersection and difference at the command line",
+        "What came after 486?",
+        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Set intersection and difference at the command line",
+          "link": "https://www.johndcook.com/blog/2026/03/23/intersection-difference/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "What came after 486?",
@@ -96,27 +103,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
           "link": "https://pluralistic.net/2026/03/22/nobodys-home/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Beats now have notes",
-          "link": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-23 技术日报：What came after 486?；Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)；Beats now have notes。",
-      "summary_en": "Daily brief (2026-03-23): What came after 486?; Pluralistic: Understaffing as a form of enshittification (23 Mar 2026); Beats now have notes.",
+      "summary_zh": "2026-03-23 技术日报：Set intersection and difference at the command line；What came after 486?；Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)。",
+      "summary_en": "Daily brief (2026-03-23): Set intersection and difference at the command line; What came after 486?; Pluralistic: Understaffing as a form of enshittification (23 Mar 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-23 日报】What came after 486?；Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)；Beats now have notes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-23): What came after 486?; Pluralistic: Understaffing as a form of enshittification (23 Mar 2026); Beats now have notes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-23 日报】Set intersection and difference at the command line；What came after 486?；Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-23): Set intersection and difference at the command line; What came after 486?; Pluralistic: Understaffing as a form of enshittification (23 Mar 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubl"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-23）\n- What came after 486?\n- Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)\n- Beats now have notes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/what-came-after-486/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-came-after-486\n- https://pluralistic.net/2026/03/22/nobodys-home/\n- https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-23)\n- What came after 486?\n- Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)\n- Beats now have notes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/what-came-after-486/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-came-after-486\n- https://pluralistic.net/2026/03/22/nobodys-home/\n- https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-23）\n- Set intersection and difference at the command line\n- What came after 486?\n- Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/23/intersection-difference/\n- https://dfarq.homeip.net/what-came-after-486/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-came-after-486\n- https://pluralistic.net/2026/03/22/nobodys-home/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-23)\n- Set intersection and difference at the command line\n- What came after 486?\n- Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/23/intersection-difference/\n- https://dfarq.homeip.net/what-came-after-486/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-came-after-486\n- https://pluralistic.net/2026/03/22/nobodys-home/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What came after 486?；Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)；Beats now have notes。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What came after 486?; Pluralistic: Understaffing as a form of enshittification (23 Mar 2026); Beats now have notes.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Set intersection and difference at the command line；What came after 486?；Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Set intersection and difference at the command line; What came after 486?; Pluralistic: Understaffing as a form of enshittification (23 Mar 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
