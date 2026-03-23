@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T15:47:26Z",
+  "generated_at": "2026-03-23T16:16:01Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-23",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "abortretry.fail (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
-        "matduggan.com (1)",
-        "pluralistic.net (1)"
+        "krebsonsecurity.com (1)",
+        "matduggan.com (1)"
       ],
       "highlights": [
+        "krebsonsecurity.com · ‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
         "devblogs.microsoft.com/oldnewthing · How can I make sure the anti-malware software doesn’t terminate my custom service?",
         "tedium.co · The Pancake Discussion",
         "matduggan.com · Markdown Ate The World",
         "johndcook.com · Set intersection and difference at the command line",
-        "dfarq.homeip.net · What came after 486?",
-        "pluralistic.net · Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)"
+        "dfarq.homeip.net · What came after 486?"
       ],
       "key_points": [
-        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
-        "The Pancake Discussion",
-        "Markdown Ate The World",
-        "Set intersection and difference at the command line"
-      ],
-      "key_points_zh": [
-        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
-        "The Pancake Discussion",
-        "Markdown Ate The World",
-        "Set intersection and difference at the command line"
-      ],
-      "key_points_en": [
-        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
-        "The Pancake Discussion",
-        "Markdown Ate The World",
-        "Set intersection and difference at the command line"
-      ],
-      "tweet_drafts": [
+        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
         "How can I make sure the anti-malware software doesn’t terminate my custom service?",
         "The Pancake Discussion",
         "Markdown Ate The World"
       ],
+      "key_points_zh": [
+        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
+        "The Pancake Discussion",
+        "Markdown Ate The World"
+      ],
+      "key_points_en": [
+        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
+        "The Pancake Discussion",
+        "Markdown Ate The World"
+      ],
+      "tweet_drafts": [
+        "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+        "How can I make sure the anti-malware software doesn’t terminate my custom service?",
+        "The Pancake Discussion"
+      ],
       "sources": [
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+          "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "How can I make sure the anti-malware software doesn’t terminate my custom service?",
@@ -98,27 +103,22 @@
           "feed_title": "tedium.co",
           "title": "The Pancake Discussion",
           "link": "https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion"
-        },
-        {
-          "feed_title": "matduggan.com",
-          "title": "Markdown Ate The World",
-          "link": "https://matduggan.com/markdown-ate-the-world/"
         }
       ],
-      "summary_zh": "2026-03-23 技术日报：How can I make sure the anti-malware software doesn’t terminate my custom service?；The Pancake Discussion；Markdown Ate The World。",
-      "summary_en": "Daily brief (2026-03-23): How can I make sure the anti-malware software doesn’t terminate my custom service?; The Pancake Discussion; Markdown Ate The World.",
+      "summary_zh": "2026-03-23 技术日报：‘CanisterWorm’ Springs Wiper Attack Targeting Iran；How can I make sure the anti-malware software doesn’t terminate my custom service?；The Pancake Discussion。",
+      "summary_en": "Daily brief (2026-03-23): ‘CanisterWorm’ Springs Wiper Attack Targeting Iran; How can I make sure the anti-malware software doesn’t terminate my custom service?; The Pancake Discussion.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-23 日报】How can I make sure the anti-malware software doesn’t terminate my custom service?；The Pancake Discussion；Markdown Ate The World。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-23): How can I make sure the anti-malware software doesn’t terminate my custom service?; The Pancake Discussion; Markdown Ate The World. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-23 日报】‘CanisterWorm’ Springs Wiper Attack Targeting Iran；How can I make sure the anti-malware software doesn’t terminate my custom service?；The Pancake Discussion。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-23): ‘CanisterWorm’ Springs Wiper Attack Targeting Iran; How can I make sure the anti-malware software doesn’t terminate my custom service?; The Pancake Discussion. Actionable takeaways included. What would you ship next? #AI #Engineering"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-23）\n- How can I make sure the anti-malware software doesn’t terminate my custom service?\n- The Pancake Discussion\n- Markdown Ate The World\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157\n- https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion\n- https://matduggan.com/markdown-ate-the-world/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-23)\n- How can I make sure the anti-malware software doesn’t terminate my custom service?\n- The Pancake Discussion\n- Markdown Ate The World\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157\n- https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion\n- https://matduggan.com/markdown-ate-the-world/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-23）\n- ‘CanisterWorm’ Springs Wiper Attack Targeting Iran\n- How can I make sure the anti-malware software doesn’t terminate my custom service?\n- The Pancake Discussion\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/\n- https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157\n- https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-23)\n- ‘CanisterWorm’ Springs Wiper Attack Targeting Iran\n- How can I make sure the anti-malware software doesn’t terminate my custom service?\n- The Pancake Discussion\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/\n- https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157\n- https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How can I make sure the anti-malware software doesn’t terminate my custom service?；The Pancake Discussion；Markdown Ate The World。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How can I make sure the anti-malware software doesn’t terminate my custom service?; The Pancake Discussion; Markdown Ate The World.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：‘CanisterWorm’ Springs Wiper Attack Targeting Iran；How can I make sure the anti-malware software doesn’t terminate my custom service?；The Pancake Discussion。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ‘CanisterWorm’ Springs Wiper Attack Targeting Iran; How can I make sure the anti-malware software doesn’t terminate my custom service?; The Pancake Discussion.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
