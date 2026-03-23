@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T20:43:12Z",
+  "generated_at": "2026-03-23T21:08:53Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-03-23",
-      "total": 14,
+      "total": 15,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "simonwillison.net (2)",
         "abortretry.fail (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -58,37 +58,42 @@
         "johndcook.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Gasoline Prices Around the World",
         "simonwillison.net · Quoting David Abram",
         "daringfireball.net · WWDC 2026: June 8–12",
         "daringfireball.net · From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
         "daringfireball.net · The HTML Review: Issue 05",
-        "krebsonsecurity.com · ‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-        "devblogs.microsoft.com/oldnewthing · How can I make sure the anti-malware software doesn’t terminate my custom service?"
+        "krebsonsecurity.com · ‘CanisterWorm’ Springs Wiper Attack Targeting Iran"
       ],
       "key_points": [
-        "Quoting David Abram",
-        "WWDC 2026: June 8–12",
-        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
-        "The HTML Review: Issue 05"
-      ],
-      "key_points_zh": [
-        "Quoting David Abram",
-        "WWDC 2026: June 8–12",
-        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
-        "The HTML Review: Issue 05"
-      ],
-      "key_points_en": [
-        "Quoting David Abram",
-        "WWDC 2026: June 8–12",
-        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
-        "The HTML Review: Issue 05"
-      ],
-      "tweet_drafts": [
+        "Gasoline Prices Around the World",
         "Quoting David Abram",
         "WWDC 2026: June 8–12",
         "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’"
       ],
+      "key_points_zh": [
+        "Gasoline Prices Around the World",
+        "Quoting David Abram",
+        "WWDC 2026: June 8–12",
+        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’"
+      ],
+      "key_points_en": [
+        "Gasoline Prices Around the World",
+        "Quoting David Abram",
+        "WWDC 2026: June 8–12",
+        "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’"
+      ],
+      "tweet_drafts": [
+        "Gasoline Prices Around the World",
+        "Quoting David Abram",
+        "WWDC 2026: June 8–12"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Gasoline Prices Around the World",
+          "link": "https://www.globalpetrolprices.com/gasoline_prices/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting David Abram",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "WWDC 2026: June 8–12",
           "link": "https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
-          "link": "https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads"
         }
       ],
-      "summary_zh": "2026-03-23 技术日报：Quoting David Abram；WWDC 2026: June 8–12；From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’。",
-      "summary_en": "Daily brief (2026-03-23): Quoting David Abram; WWDC 2026: June 8–12; From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’.",
+      "summary_zh": "2026-03-23 技术日报：Gasoline Prices Around the World；Quoting David Abram；WWDC 2026: June 8–12。",
+      "summary_en": "Daily brief (2026-03-23): Gasoline Prices Around the World; Quoting David Abram; WWDC 2026: June 8–12.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-23 日报】Quoting David Abram；WWDC 2026: June 8–12；From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-23): Quoting David Abram; WWDC 2026: June 8–12; From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-23 日报】Gasoline Prices Around the World；Quoting David Abram；WWDC 2026: June 8–12。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-23): Gasoline Prices Around the World; Quoting David Abram; WWDC 2026: June 8–12. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-23）\n- Quoting David Abram\n- WWDC 2026: June 8–12\n- From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/\n- https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-23)\n- Quoting David Abram\n- WWDC 2026: June 8–12\n- From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/\n- https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-23）\n- Gasoline Prices Around the World\n- Quoting David Abram\n- WWDC 2026: June 8–12\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.globalpetrolprices.com/gasoline_prices/\n- https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-23)\n- Gasoline Prices Around the World\n- Quoting David Abram\n- WWDC 2026: June 8–12\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.globalpetrolprices.com/gasoline_prices/\n- https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything\n- https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting David Abram；WWDC 2026: June 8–12；From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting David Abram; WWDC 2026: June 8–12; From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Gasoline Prices Around the World；Quoting David Abram；WWDC 2026: June 8–12。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Gasoline Prices Around the World; Quoting David Abram; WWDC 2026: June 8–12.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
