@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T13:28:13Z",
+  "generated_at": "2026-03-23T13:59:36Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-03-23",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "abortretry.fail (1)",
         "dfarq.homeip.net (1)",
@@ -58,37 +58,42 @@
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "tedium.co · The Pancake Discussion",
         "matduggan.com · Markdown Ate The World",
         "johndcook.com · Set intersection and difference at the command line",
         "dfarq.homeip.net · What came after 486?",
         "pluralistic.net · Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
-        "simonwillison.net · Beats now have notes",
-        "utcc.utoronto.ca/~cks · Mass production's effects on the cheapest way to get some things"
+        "simonwillison.net · Beats now have notes"
       ],
       "key_points": [
-        "Markdown Ate The World",
-        "Set intersection and difference at the command line",
-        "What came after 486?",
-        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)"
-      ],
-      "key_points_zh": [
-        "Markdown Ate The World",
-        "Set intersection and difference at the command line",
-        "What came after 486?",
-        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)"
-      ],
-      "key_points_en": [
-        "Markdown Ate The World",
-        "Set intersection and difference at the command line",
-        "What came after 486?",
-        "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)"
-      ],
-      "tweet_drafts": [
+        "The Pancake Discussion",
         "Markdown Ate The World",
         "Set intersection and difference at the command line",
         "What came after 486?"
       ],
+      "key_points_zh": [
+        "The Pancake Discussion",
+        "Markdown Ate The World",
+        "Set intersection and difference at the command line",
+        "What came after 486?"
+      ],
+      "key_points_en": [
+        "The Pancake Discussion",
+        "Markdown Ate The World",
+        "Set intersection and difference at the command line",
+        "What came after 486?"
+      ],
+      "tweet_drafts": [
+        "The Pancake Discussion",
+        "Markdown Ate The World",
+        "Set intersection and difference at the command line"
+      ],
       "sources": [
+        {
+          "feed_title": "tedium.co",
+          "title": "The Pancake Discussion",
+          "link": "https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion"
+        },
         {
           "feed_title": "matduggan.com",
           "title": "Markdown Ate The World",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "Set intersection and difference at the command line",
           "link": "https://www.johndcook.com/blog/2026/03/23/intersection-difference/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "What came after 486?",
-          "link": "https://dfarq.homeip.net/what-came-after-486/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-came-after-486"
         }
       ],
-      "summary_zh": "2026-03-23 技术日报：Markdown Ate The World；Set intersection and difference at the command line；What came after 486?。",
-      "summary_en": "Daily brief (2026-03-23): Markdown Ate The World; Set intersection and difference at the command line; What came after 486?.",
+      "summary_zh": "2026-03-23 技术日报：The Pancake Discussion；Markdown Ate The World；Set intersection and difference at the command line。",
+      "summary_en": "Daily brief (2026-03-23): The Pancake Discussion; Markdown Ate The World; Set intersection and difference at the command line.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-23 日报】Markdown Ate The World；Set intersection and difference at the command line；What came after 486?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-23): Markdown Ate The World; Set intersection and difference at the command line; What came after 486?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-23 日报】The Pancake Discussion；Markdown Ate The World；Set intersection and difference at the command line。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-23): The Pancake Discussion; Markdown Ate The World; Set intersection and difference at the command line. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-23）\n- Markdown Ate The World\n- Set intersection and difference at the command line\n- What came after 486?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matduggan.com/markdown-ate-the-world/\n- https://www.johndcook.com/blog/2026/03/23/intersection-difference/\n- https://dfarq.homeip.net/what-came-after-486/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-came-after-486\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-23)\n- Markdown Ate The World\n- Set intersection and difference at the command line\n- What came after 486?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matduggan.com/markdown-ate-the-world/\n- https://www.johndcook.com/blog/2026/03/23/intersection-difference/\n- https://dfarq.homeip.net/what-came-after-486/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-came-after-486\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-23）\n- The Pancake Discussion\n- Markdown Ate The World\n- Set intersection and difference at the command line\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion\n- https://matduggan.com/markdown-ate-the-world/\n- https://www.johndcook.com/blog/2026/03/23/intersection-difference/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-23)\n- The Pancake Discussion\n- Markdown Ate The World\n- Set intersection and difference at the command line\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion\n- https://matduggan.com/markdown-ate-the-world/\n- https://www.johndcook.com/blog/2026/03/23/intersection-difference/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Markdown Ate The World；Set intersection and difference at the command line；What came after 486?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Markdown Ate The World; Set intersection and difference at the command line; What came after 486?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Pancake Discussion；Markdown Ate The World；Set intersection and difference at the command line。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Pancake Discussion; Markdown Ate The World; Set intersection and difference at the command line.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
