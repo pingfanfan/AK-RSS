@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T15:49:29Z",
+  "generated_at": "2026-03-24T16:20:04Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-03-24",
-      "total": 15,
+      "total": 17,
       "feeds": [
         "johndcook.com (2)",
         "simonwillison.net (2)",
+        "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
         "daringfireball.net (1)",
-        "dfarq.homeip.net (1)",
-        "ericmigi.com (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · Code as a Tool of Process",
+        "jeffgeerling.com · Using FireWire on a Raspberry Pi",
         "simonwillison.net · Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
         "johndcook.com · From Mendeleev to Fourier",
         "buttondown.com/hillelwayne · Choose Boring Technology and Innovative Practices",
-        "johndcook.com · Mendeleev’s inequality",
-        "shkspr.mobi · Book Review: If We Cannot Go at the Speed of Light by Kim Choyeop ★★☆☆☆",
-        "pluralistic.net · Pluralistic: Goodhart's Law vs \"prediction markets\" (24 Mar 2026)"
+        "johndcook.com · Mendeleev’s inequality"
       ],
       "key_points": [
+        "Code as a Tool of Process",
+        "Using FireWire on a Raspberry Pi",
         "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-        "From Mendeleev to Fourier",
-        "Choose Boring Technology and Innovative Practices",
-        "Mendeleev’s inequality"
+        "From Mendeleev to Fourier"
       ],
       "key_points_zh": [
+        "Code as a Tool of Process",
+        "Using FireWire on a Raspberry Pi",
         "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-        "From Mendeleev to Fourier",
-        "Choose Boring Technology and Innovative Practices",
-        "Mendeleev’s inequality"
+        "From Mendeleev to Fourier"
       ],
       "key_points_en": [
+        "Code as a Tool of Process",
+        "Using FireWire on a Raspberry Pi",
         "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-        "From Mendeleev to Fourier",
-        "Choose Boring Technology and Innovative Practices",
-        "Mendeleev’s inequality"
+        "From Mendeleev to Fourier"
       ],
       "tweet_drafts": [
-        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-        "From Mendeleev to Fourier",
-        "Choose Boring Technology and Innovative Practices"
+        "Code as a Tool of Process",
+        "Using FireWire on a Raspberry Pi",
+        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer"
       ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Code as a Tool of Process",
+          "link": "https://blog.jim-nielsen.com/2026/code-as-process/"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Using FireWire on a Raspberry Pi",
+          "link": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
           "link": "https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "From Mendeleev to Fourier",
-          "link": "https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "Choose Boring Technology and Innovative Practices",
-          "link": "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/"
         }
       ],
-      "summary_zh": "2026-03-24 技术日报：Malicious litellm_init.pth in litellm 1.82.8 — credential stealer；From Mendeleev to Fourier；Choose Boring Technology and Innovative Practices。",
-      "summary_en": "Daily brief (2026-03-24): Malicious litellm_init.pth in litellm 1.82.8 — credential stealer; From Mendeleev to Fourier; Choose Boring Technology and Innovative Practices.",
+      "summary_zh": "2026-03-24 技术日报：Code as a Tool of Process；Using FireWire on a Raspberry Pi；Malicious litellm_init.pth in litellm 1.82.8 — credential stealer。",
+      "summary_en": "Daily brief (2026-03-24): Code as a Tool of Process; Using FireWire on a Raspberry Pi; Malicious litellm_init.pth in litellm 1.82.8 — credential stealer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-24 日报】Malicious litellm_init.pth in litellm 1.82.8 — credential stealer；From Mendeleev to Fourier；Choose Boring Technology and Innovative Practices。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-24): Malicious litellm_init.pth in litellm 1.82.8 — credential stealer; From Mendeleev to Fourier; Choose Boring Technology and Innovative Practices. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-24 日报】Code as a Tool of Process；Using FireWire on a Raspberry Pi；Malicious litellm_init.pth in litellm 1.82.8 — credential stealer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-24): Code as a Tool of Process; Using FireWire on a Raspberry Pi; Malicious litellm_init.pth in litellm 1.82.8 — credential stealer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-24）\n- Malicious litellm_init.pth in litellm 1.82.8 — credential stealer\n- From Mendeleev to Fourier\n- Choose Boring Technology and Innovative Practices\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything\n- https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/\n- https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-24)\n- Malicious litellm_init.pth in litellm 1.82.8 — credential stealer\n- From Mendeleev to Fourier\n- Choose Boring Technology and Innovative Practices\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything\n- https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/\n- https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-24）\n- Code as a Tool of Process\n- Using FireWire on a Raspberry Pi\n- Malicious litellm_init.pth in litellm 1.82.8 — credential stealer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/code-as-process/\n- https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\n- https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-24)\n- Code as a Tool of Process\n- Using FireWire on a Raspberry Pi\n- Malicious litellm_init.pth in litellm 1.82.8 — credential stealer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/code-as-process/\n- https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\n- https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Malicious litellm_init.pth in litellm 1.82.8 — credential stealer；From Mendeleev to Fourier；Choose Boring Technology and Innovative Practices。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Malicious litellm_init.pth in litellm 1.82.8 — credential stealer; From Mendeleev to Fourier; Choose Boring Technology and Innovative Practices.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Code as a Tool of Process；Using FireWire on a Raspberry Pi；Malicious litellm_init.pth in litellm 1.82.8 — credential stealer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Code as a Tool of Process; Using FireWire on a Raspberry Pi; Malicious litellm_init.pth in litellm 1.82.8 — credential stealer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
