@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T17:18:38Z",
+  "generated_at": "2026-03-24T17:46:45Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-03-24",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "johndcook.com (2)",
         "simonwillison.net (2)",
@@ -59,34 +59,34 @@
       ],
       "highlights": [
         "blog.jim-nielsen.com · Code as a Tool of Process",
+        "wheresyoured.at · The AI Industry Is Lying To You",
         "jeffgeerling.com · Using FireWire on a Raspberry Pi",
         "simonwillison.net · Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
         "johndcook.com · From Mendeleev to Fourier",
-        "buttondown.com/hillelwayne · Choose Boring Technology and Innovative Practices",
-        "johndcook.com · Mendeleev’s inequality"
+        "buttondown.com/hillelwayne · Choose Boring Technology and Innovative Practices"
       ],
       "key_points": [
         "Code as a Tool of Process",
+        "The AI Industry Is Lying To You",
         "Using FireWire on a Raspberry Pi",
-        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-        "From Mendeleev to Fourier"
+        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer"
       ],
       "key_points_zh": [
         "Code as a Tool of Process",
+        "The AI Industry Is Lying To You",
         "Using FireWire on a Raspberry Pi",
-        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-        "From Mendeleev to Fourier"
+        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer"
       ],
       "key_points_en": [
         "Code as a Tool of Process",
+        "The AI Industry Is Lying To You",
         "Using FireWire on a Raspberry Pi",
-        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-        "From Mendeleev to Fourier"
+        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer"
       ],
       "tweet_drafts": [
         "Code as a Tool of Process",
-        "Using FireWire on a Raspberry Pi",
-        "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer"
+        "The AI Industry Is Lying To You",
+        "Using FireWire on a Raspberry Pi"
       ],
       "sources": [
         {
@@ -95,30 +95,30 @@
           "link": "https://blog.jim-nielsen.com/2026/code-as-process/"
         },
         {
+          "feed_title": "wheresyoured.at",
+          "title": "The AI Industry Is Lying To You",
+          "link": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/"
+        },
+        {
           "feed_title": "jeffgeerling.com",
           "title": "Using FireWire on a Raspberry Pi",
           "link": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
-          "link": "https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-24 技术日报：Code as a Tool of Process；Using FireWire on a Raspberry Pi；Malicious litellm_init.pth in litellm 1.82.8 — credential stealer。",
-      "summary_en": "Daily brief (2026-03-24): Code as a Tool of Process; Using FireWire on a Raspberry Pi; Malicious litellm_init.pth in litellm 1.82.8 — credential stealer.",
+      "summary_zh": "2026-03-24 技术日报：Code as a Tool of Process；The AI Industry Is Lying To You；Using FireWire on a Raspberry Pi。",
+      "summary_en": "Daily brief (2026-03-24): Code as a Tool of Process; The AI Industry Is Lying To You; Using FireWire on a Raspberry Pi.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-24 日报】Code as a Tool of Process；Using FireWire on a Raspberry Pi；Malicious litellm_init.pth in litellm 1.82.8 — credential stealer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-24): Code as a Tool of Process; Using FireWire on a Raspberry Pi; Malicious litellm_init.pth in litellm 1.82.8 — credential stealer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-24 日报】Code as a Tool of Process；The AI Industry Is Lying To You；Using FireWire on a Raspberry Pi。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-24): Code as a Tool of Process; The AI Industry Is Lying To You; Using FireWire on a Raspberry Pi. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-24）\n- Code as a Tool of Process\n- Using FireWire on a Raspberry Pi\n- Malicious litellm_init.pth in litellm 1.82.8 — credential stealer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/code-as-process/\n- https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\n- https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-24)\n- Code as a Tool of Process\n- Using FireWire on a Raspberry Pi\n- Malicious litellm_init.pth in litellm 1.82.8 — credential stealer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/code-as-process/\n- https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\n- https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-24）\n- Code as a Tool of Process\n- The AI Industry Is Lying To You\n- Using FireWire on a Raspberry Pi\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/code-as-process/\n- https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/\n- https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-24)\n- Code as a Tool of Process\n- The AI Industry Is Lying To You\n- Using FireWire on a Raspberry Pi\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/code-as-process/\n- https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/\n- https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Code as a Tool of Process；Using FireWire on a Raspberry Pi；Malicious litellm_init.pth in litellm 1.82.8 — credential stealer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Code as a Tool of Process; Using FireWire on a Raspberry Pi; Malicious litellm_init.pth in litellm 1.82.8 — credential stealer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Code as a Tool of Process；The AI Industry Is Lying To You；Using FireWire on a Raspberry Pi。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Code as a Tool of Process; The AI Industry Is Lying To You; Using FireWire on a Raspberry Pi.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
