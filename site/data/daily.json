@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T17:19:56Z",
+  "generated_at": "2026-03-25T17:47:05Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-25",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · LiteLLM Hack: Were You One of the 47,000?",
         "devblogs.microsoft.com/oldnewthing · How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
         "dfarq.homeip.net · Steve Ballmer, Microsoft executive and NBA owner",
         "nesbitt.io · The Top 10 Biggest Conspiracies in Open Source",
         "pluralistic.net · Pluralistic: The cost of doing business (25 Mar 2026)",
-        "utcc.utoronto.ca/~cks · Going from an IPv4 address to an ASN in Python 2 with Unix brute force",
-        "daringfireball.net · Claude Can Now Take Control of Your Mac"
+        "utcc.utoronto.ca/~cks · Going from an IPv4 address to an ASN in Python 2 with Unix brute force"
       ],
       "key_points": [
-        "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
-        "Steve Ballmer, Microsoft executive and NBA owner",
-        "The Top 10 Biggest Conspiracies in Open Source",
-        "Pluralistic: The cost of doing business (25 Mar 2026)"
-      ],
-      "key_points_zh": [
-        "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
-        "Steve Ballmer, Microsoft executive and NBA owner",
-        "The Top 10 Biggest Conspiracies in Open Source",
-        "Pluralistic: The cost of doing business (25 Mar 2026)"
-      ],
-      "key_points_en": [
-        "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
-        "Steve Ballmer, Microsoft executive and NBA owner",
-        "The Top 10 Biggest Conspiracies in Open Source",
-        "Pluralistic: The cost of doing business (25 Mar 2026)"
-      ],
-      "tweet_drafts": [
+        "LiteLLM Hack: Were You One of the 47,000?",
         "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
         "Steve Ballmer, Microsoft executive and NBA owner",
         "The Top 10 Biggest Conspiracies in Open Source"
       ],
+      "key_points_zh": [
+        "LiteLLM Hack: Were You One of the 47,000?",
+        "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
+        "Steve Ballmer, Microsoft executive and NBA owner",
+        "The Top 10 Biggest Conspiracies in Open Source"
+      ],
+      "key_points_en": [
+        "LiteLLM Hack: Were You One of the 47,000?",
+        "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
+        "Steve Ballmer, Microsoft executive and NBA owner",
+        "The Top 10 Biggest Conspiracies in Open Source"
+      ],
+      "tweet_drafts": [
+        "LiteLLM Hack: Were You One of the 47,000?",
+        "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
+        "Steve Ballmer, Microsoft executive and NBA owner"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "LiteLLM Hack: Were You One of the 47,000?",
+          "link": "https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
@@ -98,27 +103,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Steve Ballmer, Microsoft executive and NBA owner",
           "link": "https://dfarq.homeip.net/steve-ballmer-microsoft-executive-and-nba-owner/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=steve-ballmer-microsoft-executive-and-nba-owner"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "The Top 10 Biggest Conspiracies in Open Source",
-          "link": "https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html"
         }
       ],
-      "summary_zh": "2026-03-25 技术日报：How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?；Steve Ballmer, Microsoft executive and NBA owner；The Top 10 Biggest Conspiracies in Open Source。",
-      "summary_en": "Daily brief (2026-03-25): How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?; Steve Ballmer, Microsoft executive and NBA owner; The Top 10 Biggest Conspiracies in Open Source.",
+      "summary_zh": "2026-03-25 技术日报：LiteLLM Hack: Were You One of the 47,000?；How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?；Steve Ballmer, Microsoft executive and NBA owner。",
+      "summary_en": "Daily brief (2026-03-25): LiteLLM Hack: Were You One of the 47,000?; How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?; Steve Ballmer, Microsoft executive and NBA owner.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-25 日报】How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?；Steve Ballmer, Microsoft executive and NBA owner；The Top 10 Biggest Conspiracies in Open Source。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-25): How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?; Steve Ballmer, Microsoft executive and NBA owner; The Top 10 Biggest Conspiracies in Open Source. Actionable takeaways includ"
+          "zh": "【2026-03-25 日报】LiteLLM Hack: Were You One of the 47,000?；How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?；Steve Ballmer, Microsoft executive and NBA owner。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-25): LiteLLM Hack: Were You One of the 47,000?; How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?; Steve Ballmer, Microsoft executive and NBA owner. Actionable takeaways included. W"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-25）\n- How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?\n- Steve Ballmer, Microsoft executive and NBA owner\n- The Top 10 Biggest Conspiracies in Open Source\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165\n- https://dfarq.homeip.net/steve-ballmer-microsoft-executive-and-nba-owner/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=steve-ballmer-microsoft-executive-and-nba-owner\n- https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-25)\n- How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?\n- Steve Ballmer, Microsoft executive and NBA owner\n- The Top 10 Biggest Conspiracies in Open Source\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165\n- https://dfarq.homeip.net/steve-ballmer-microsoft-executive-and-nba-owner/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=steve-ballmer-microsoft-executive-and-nba-owner\n- https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-25）\n- LiteLLM Hack: Were You One of the 47,000?\n- How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?\n- Steve Ballmer, Microsoft executive and NBA owner\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165\n- https://dfarq.homeip.net/steve-ballmer-microsoft-executive-and-nba-owner/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=steve-ballmer-microsoft-executive-and-nba-owner\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-25)\n- LiteLLM Hack: Were You One of the 47,000?\n- How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?\n- Steve Ballmer, Microsoft executive and NBA owner\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165\n- https://dfarq.homeip.net/steve-ballmer-microsoft-executive-and-nba-owner/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=steve-ballmer-microsoft-executive-and-nba-owner\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?；Steve Ballmer, Microsoft executive and NBA owner；The Top 10 Biggest Conspiracies in Open Source。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?; Steve Ballmer, Microsoft executive and NBA owner; The Top 10 Biggest Conspiracies in Open Source.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：LiteLLM Hack: Were You One of the 47,000?；How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?；Steve Ballmer, Microsoft executive and NBA owner。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: LiteLLM Hack: Were You One of the 47,000?; How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?; Steve Ballmer, Microsoft executive and NBA owner.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
