@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T21:43:59Z",
+  "generated_at": "2026-03-25T22:08:18Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-25",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "daringfireball.net (3)",
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Thoughts on slowing the fuck down",
         "simonwillison.net · datasette-llm 0.1a1",
         "daringfireball.net · ‘A List of Chain Restaurants Whose Names Contain Unusual Structures’",
         "daringfireball.net · Improved Analytics in App Store Connect",
         "simonwillison.net · LiteLLM Hack: Were You One of the 47,000?",
-        "devblogs.microsoft.com/oldnewthing · How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
-        "dfarq.homeip.net · Steve Ballmer, Microsoft executive and NBA owner"
+        "devblogs.microsoft.com/oldnewthing · How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?"
       ],
       "key_points": [
+        "Thoughts on slowing the fuck down",
         "datasette-llm 0.1a1",
         "餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要",
-        "Improved Analytics in App Store Connect",
-        "LiteLLM Hack: Were You One of the 47,000?"
-      ],
-      "key_points_zh": [
-        "datasette-llm 0.1a1",
-        "餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要",
-        "Improved Analytics in App Store Connect",
-        "LiteLLM Hack: Were You One of the 47,000?"
-      ],
-      "key_points_en": [
-        "datasette-llm 0.1a1",
-        "Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity",
-        "Improved Analytics in App Store Connect",
-        "LiteLLM Hack: Were You One of the 47,000?"
-      ],
-      "tweet_drafts": [
-        "datasette-llm 0.1a1",
-        "从'ShowBiz Pizza Palace'误称看命名一致性：一个词的错误会扭曲认知。在微服务与API设计中，名称即契约，务必精确、无歧义",
         "Improved Analytics in App Store Connect"
       ],
+      "key_points_zh": [
+        "Thoughts on slowing the fuck down",
+        "datasette-llm 0.1a1",
+        "餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要",
+        "Improved Analytics in App Store Connect"
+      ],
+      "key_points_en": [
+        "Thoughts on slowing the fuck down",
+        "datasette-llm 0.1a1",
+        "Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity",
+        "Improved Analytics in App Store Connect"
+      ],
+      "tweet_drafts": [
+        "Thoughts on slowing the fuck down",
+        "datasette-llm 0.1a1",
+        "从'ShowBiz Pizza Palace'误称看命名一致性：一个词的错误会扭曲认知。在微服务与API设计中，名称即契约，务必精确、无歧义"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Thoughts on slowing the fuck down",
+          "link": "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "datasette-llm 0.1a1",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "List of Chain Restaurants with Unusual Structural Naming",
           "link": "https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Improved Analytics in App Store Connect",
-          "link": "https://developer.apple.com/news/?id=hh6v4b55"
         }
       ],
-      "summary_zh": "2026-03-25 技术日报：datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要；Improved Analytics in App Store Connect。",
-      "summary_en": "Daily brief (2026-03-25): datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity; Improved Analytics",
+      "summary_zh": "2026-03-25 技术日报：Thoughts on slowing the fuck down；datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要。",
+      "summary_en": "Daily brief (2026-03-25): Thoughts on slowing the fuck down; datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-t",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-25 日报】datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要；Improved Analytics in App Store Connect。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-25): datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity; Improved Analytics"
+          "zh": "【2026-03-25 日报】Thoughts on slowing the fuck down；datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-25): Thoughts on slowing the fuck down; datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-25）\n- datasette-llm 0.1a1\n- 餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要\n- Improved Analytics in App Store Connect\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n- https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/\n- https://developer.apple.com/news/?id=hh6v4b55\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-25)\n- datasette-llm 0.1a1\n- Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity\n- Improved Analytics in App Store Connect\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n- https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/\n- https://developer.apple.com/news/?id=hh6v4b55\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-25）\n- Thoughts on slowing the fuck down\n- datasette-llm 0.1a1\n- 餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n- https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-25)\n- Thoughts on slowing the fuck down\n- datasette-llm 0.1a1\n- Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n- https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要；Improved Analytics in App Store Connect。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity; Improved Analytics in App Store Connect.\nI turned them into an"
+          "zh": "今天最值得看的 3 个点：Thoughts on slowing the fuck down；datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Thoughts on slowing the fuck down; datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity.\nI turned them into an action"
         }
       }
     },
