@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-25 17:46:31 UTC
+Generated at: 2026-03-25 18:14:37 UTC
 
-- [LiteLLM Hack: Were You One of the 47,000?](https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything) (`simonwillison.net`)
+- [Which Design Doc Did a Human Write?](https://refactoringenglish.com/blog/ai-vs-human-design-doc/) (`refactoringenglish.com`)
