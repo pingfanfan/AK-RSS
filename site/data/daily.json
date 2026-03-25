@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T22:42:16Z",
+  "generated_at": "2026-03-25T06:18:26Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,10 +47,55 @@
       }
     },
     {
-      "date": "2026-03-24",
-      "total": 23,
+      "date": "2026-03-25",
+      "total": 1,
       "feeds": [
-        "simonwillison.net (4)",
+        "daringfireball.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Claude Can Now Take Control of Your Mac"
+      ],
+      "key_points": [
+        "Claude Can Now Take Control of Your Mac"
+      ],
+      "key_points_zh": [
+        "Claude Can Now Take Control of Your Mac"
+      ],
+      "key_points_en": [
+        "Claude Can Now Take Control of Your Mac"
+      ],
+      "tweet_drafts": [
+        "Claude Can Now Take Control of Your Mac"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Claude Can Now Take Control of Your Mac",
+          "link": "https://claude.com/blog/dispatch-and-computer-use"
+        }
+      ],
+      "summary_zh": "2026-03-25 技术日报：Claude Can Now Take Control of Your Mac。",
+      "summary_en": "Daily brief (2026-03-25): Claude Can Now Take Control of Your Mac.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-25 日报】Claude Can Now Take Control of Your Mac。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-25): Claude Can Now Take Control of Your Mac. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-25）\n- Claude Can Now Take Control of Your Mac\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://claude.com/blog/dispatch-and-computer-use\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-25)\n- Claude Can Now Take Control of Your Mac\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://claude.com/blog/dispatch-and-computer-use\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Claude Can Now Take Control of Your Mac。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Claude Can Now Take Control of Your Mac.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-24",
+      "total": 24,
+      "feeds": [
+        "simonwillison.net (5)",
         "daringfireball.net (3)",
         "johndcook.com (2)",
         "blog.jim-nielsen.com (1)",
@@ -58,37 +103,42 @@
         "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
+        "simonwillison.net · Auto mode for Claude Code",
         "daringfireball.net · Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
         "simonwillison.net · Package Managers Need to Cool Down",
         "simonwillison.net · Quoting Christopher Mims",
         "daringfireball.net · ★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe",
-        "blog.jim-nielsen.com · Code as a Tool of Process",
-        "wheresyoured.at · The AI Industry Is Lying To You"
+        "blog.jim-nielsen.com · Code as a Tool of Process"
       ],
       "key_points": [
-        "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
-        "Package Managers Need to Cool Down",
-        "Quoting Christopher Mims",
-        "★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe"
-      ],
-      "key_points_zh": [
-        "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
-        "Package Managers Need to Cool Down",
-        "Quoting Christopher Mims",
-        "★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe"
-      ],
-      "key_points_en": [
-        "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
-        "Package Managers Need to Cool Down",
-        "Quoting Christopher Mims",
-        "★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe"
-      ],
-      "tweet_drafts": [
+        "Auto mode for Claude Code",
         "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
         "Package Managers Need to Cool Down",
         "Quoting Christopher Mims"
       ],
+      "key_points_zh": [
+        "Auto mode for Claude Code",
+        "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
+        "Package Managers Need to Cool Down",
+        "Quoting Christopher Mims"
+      ],
+      "key_points_en": [
+        "Auto mode for Claude Code",
+        "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
+        "Package Managers Need to Cool Down",
+        "Quoting Christopher Mims"
+      ],
+      "tweet_drafts": [
+        "Auto mode for Claude Code",
+        "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
+        "Package Managers Need to Cool Down"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Auto mode for Claude Code",
+          "link": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones",
@@ -98,27 +148,22 @@
           "feed_title": "simonwillison.net",
           "title": "Package Managers Need to Cool Down",
           "link": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Christopher Mims",
-          "link": "https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-24 技术日报：Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones；Package Managers Need to Cool Down；Quoting Christopher Mims。",
-      "summary_en": "Daily brief (2026-03-24): Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones; Package Managers Need to Cool Down; Quoting Christopher Mims.",
+      "summary_zh": "2026-03-24 技术日报：Auto mode for Claude Code；Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones；Package Managers Need to Cool Down。",
+      "summary_en": "Daily brief (2026-03-24): Auto mode for Claude Code; Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones; Package Managers Need to Cool Down.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-24 日报】Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones；Package Managers Need to Cool Down；Quoting Christopher Mims。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-24): Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones; Package Managers Need to Cool Down; Quoting Christopher Mims. Actionable takeaways included. What would you ship next? #AI #Engineer"
+          "zh": "【2026-03-24 日报】Auto mode for Claude Code；Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones；Package Managers Need to Cool Down。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-24): Auto mode for Claude Code; Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones; Package Managers Need to Cool Down. Actionable takeaways included. What would you ship next? #AI #Enginee"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-24）\n- Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones\n- Package Managers Need to Cool Down\n- Quoting Christopher Mims\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/\n- https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything\n- https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-24)\n- Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones\n- Package Managers Need to Cool Down\n- Quoting Christopher Mims\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/\n- https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything\n- https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-24）\n- Auto mode for Claude Code\n- Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones\n- Package Managers Need to Cool Down\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything\n- https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/\n- https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-24)\n- Auto mode for Claude Code\n- Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones\n- Package Managers Need to Cool Down\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything\n- https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/\n- https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones；Package Managers Need to Cool Down；Quoting Christopher Mims。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones; Package Managers Need to Cool Down; Quoting Christopher Mims.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Auto mode for Claude Code；Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones；Package Managers Need to Cool Down。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Auto mode for Claude Code; Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones; Package Managers Need to Cool Down.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2214,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误；The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar glyphs; The Talk Show: ‘Serious Opinionators"
-        }
-      }
-    },
-    {
-      "date": "2026-02-24",
-      "total": 23,
-      "feeds": [
-        "daringfireball.net (7)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "antirez.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "johndcook.com · A curious trig identity",
-        "daringfireball.net · Apple in 2025: The Six Colors Report Card",
-        "daringfireball.net · Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
-        "daringfireball.net · FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News",
-        "daringfireball.net · An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission",
-        "antirez.com · Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code"
-      ],
-      "key_points": [
-        "A curious trig identity",
-        "Apple in 2025: The Six Colors Report Card",
-        "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
-        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论"
-      ],
-      "key_points_zh": [
-        "A curious trig identity",
-        "Apple in 2025: The Six Colors Report Card",
-        "苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施",
-        "美国监管机构介入，指控Apple News算法偏见，排除特定右翼媒体，引发平台内容责任与合规新讨论"
-      ],
-      "key_points_en": [
-        "A curious trig identity",
-        "Apple in 2025: The Six Colors Report Card",
-        "Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure",
-        "US regulator intervenes, alleging Apple News algorithm bias for excluding specific right-wing media, sparking new discourse on platform content responsibility and compliance"
-      ],
-      "tweet_drafts": [
-        "A curious trig identity",
-        "Apple in 2025: The Six Colors Report Card",
-        "苹果休斯顿工厂将生产Mac mini和AI服务器，并设培训中心。这标志着美国本土高科技制造与AI基础设施的强化。开发者可关注相关招聘及AI服务器硬件趋势"
-      ],
-      "sources": [
-        {
-          "feed_title": "johndcook.com",
-          "title": "A curious trig identity",
-          "link": "https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Apple in 2025: The Six Colors Report Card",
-          "link": "https://sixcolors.com/post/2026/02/2025reportcard/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Apple Will Begin Manufacturing Mac Minis in Houston Later This Year",
-          "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/"
-        }
-      ],
-      "summary_zh": "2026-02-24 技术日报：A curious trig identity；Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施。",
-      "summary_en": "Daily brief (2026-02-24): A curious trig identity; Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center t",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-24 日报】A curious trig identity；Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-24): A curious trig identity; Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-24）\n- A curious trig identity\n- Apple in 2025: The Six Colors Report Card\n- 苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-24)\n- A curious trig identity\n- Apple in 2025: The Six Colors Report Card\n- Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infrastructure\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/\n- https://sixcolors.com/post/2026/02/2025reportcard/\n- https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：A curious trig identity；Apple in 2025: The Six Colors Report Card；苹果首次在美国生产Mac mini，并同步扩大休斯顿工厂的AI服务器产能，配套建立先进制造中心进行技术培训，旨在强化本土供应链与AI基础设施。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A curious trig identity; Apple in 2025: The Six Colors Report Card; Apple will produce Mac mini in the U.S. for the first time, simultaneously expanding AI server manufacturing at its Houston facility and launching a training center to bolster domestic supply chains and AI infr"
         }
       }
     }
