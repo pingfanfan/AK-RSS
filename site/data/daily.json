@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T14:04:50Z",
+  "generated_at": "2026-03-26T14:51:26Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-26",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "matduggan.com (1)",
         "miguelgrinberg.com (1)",
         "seangoedecke.com (1)",
-        "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "daringfireball.net · Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe",
         "shkspr.mobi · Adding human.json to WordPress",
         "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
         "matduggan.com · I Can't See Apple's Vision",
         "dfarq.homeip.net · The Melissa virus of 1999",
-        "utcc.utoronto.ca/~cks · Early notes on switching some libvirt-based virtual machines to UEFI",
-        "seangoedecke.com · Engineers do get promoted for writing simple code"
+        "utcc.utoronto.ca/~cks · Early notes on switching some libvirt-based virtual machines to UEFI"
       ],
       "key_points": [
-        "Adding human.json to WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-        "I Can't See Apple's Vision",
-        "The Melissa virus of 1999"
-      ],
-      "key_points_zh": [
-        "Adding human.json to WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-        "I Can't See Apple's Vision",
-        "The Melissa virus of 1999"
-      ],
-      "key_points_en": [
-        "Adding human.json to WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-        "I Can't See Apple's Vision",
-        "The Melissa virus of 1999"
-      ],
-      "tweet_drafts": [
+        "使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示",
         "Adding human.json to WordPress",
         "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
         "I Can't See Apple's Vision"
       ],
+      "key_points_zh": [
+        "使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示",
+        "Adding human.json to WordPress",
+        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
+        "I Can't See Apple's Vision"
+      ],
+      "key_points_en": [
+        "Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts",
+        "Adding human.json to WordPress",
+        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
+        "I Can't See Apple's Vision"
+      ],
+      "tweet_drafts": [
+        "屏蔽macOS Tahoe升级提示的新姿势：用iMazing Profile Editor图形化工具替代手写plist配置。安全、直观，适合团队批量部署。技术细节与教程见视频。 #macOS #DevOps #Apple",
+        "Adding human.json to WordPress",
+        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe",
+          "link": "https://www.youtube.com/watch?v=uRg1pW8TSYk"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Adding human.json to WordPress",
@@ -98,27 +103,22 @@
           "feed_title": "miguelgrinberg.com",
           "title": "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
           "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables"
-        },
-        {
-          "feed_title": "matduggan.com",
-          "title": "I Can't See Apple's Vision",
-          "link": "https://matduggan.com/i-cant-see-apples-vision/"
         }
       ],
-      "summary_zh": "2026-03-26 技术日报：Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables；I Can't See Apple's Vision。",
-      "summary_en": "Daily brief (2026-03-26): Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables; I Can't See Apple's Vision.",
+      "summary_zh": "2026-03-26 技术日报：使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables。",
+      "summary_en": "Daily brief (2026-03-26): Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-26 日报】Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables；I Can't See Apple's Vision。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-26): Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables; I Can't See Apple's Vision. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-26 日报】使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-26): Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables. Actionable takeaways incl"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-26）\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n- I Can't See Apple's Vision\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n- https://matduggan.com/i-cant-see-apples-vision/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-26)\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n- I Can't See Apple's Vision\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n- https://matduggan.com/i-cant-see-apples-vision/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-26）\n- 使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-26)\n- Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables；I Can't See Apple's Vision。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables; I Can't See Apple's Vision.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
