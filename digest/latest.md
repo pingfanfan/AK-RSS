@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-26 19:22:52 UTC
+Generated at: 2026-03-26 19:46:35 UTC
 
-- [Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It](https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html) (`daringfireball.net`)
+- [You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4](https://daringfireball.net/linked/2026/03/24/ios-264) (`daringfireball.net`)
