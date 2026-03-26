@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T22:43:12Z",
+  "generated_at": "2026-03-26T06:20:39Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,48 +47,98 @@
       }
     },
     {
-      "date": "2026-03-25",
-      "total": 13,
+      "date": "2026-03-26",
+      "total": 1,
       "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Early notes on switching some libvirt-based virtual machines to UEFI"
+      ],
+      "key_points": [
+        "Early notes on switching some libvirt-based virtual machines to UEFI"
+      ],
+      "key_points_zh": [
+        "Early notes on switching some libvirt-based virtual machines to UEFI"
+      ],
+      "key_points_en": [
+        "Early notes on switching some libvirt-based virtual machines to UEFI"
+      ],
+      "tweet_drafts": [
+        "Early notes on switching some libvirt-based virtual machines to UEFI"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Early notes on switching some libvirt-based virtual machines to UEFI",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI"
+        }
+      ],
+      "summary_zh": "2026-03-26 技术日报：Early notes on switching some libvirt-based virtual machines to UEFI。",
+      "summary_en": "Daily brief (2026-03-26): Early notes on switching some libvirt-based virtual machines to UEFI.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-26 日报】Early notes on switching some libvirt-based virtual machines to UEFI。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-26): Early notes on switching some libvirt-based virtual machines to UEFI. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-26）\n- Early notes on switching some libvirt-based virtual machines to UEFI\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-26)\n- Early notes on switching some libvirt-based virtual machines to UEFI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Early notes on switching some libvirt-based virtual machines to UEFI。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Early notes on switching some libvirt-based virtual machines to UEFI.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-25",
+      "total": 14,
+      "feeds": [
+        "simonwillison.net (4)",
         "daringfireball.net (3)",
-        "simonwillison.net (3)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · datasette-files-s3 0.1a1",
         "simonwillison.net · Thoughts on slowing the fuck down",
         "simonwillison.net · datasette-llm 0.1a1",
         "daringfireball.net · ‘A List of Chain Restaurants Whose Names Contain Unusual Structures’",
         "daringfireball.net · Improved Analytics in App Store Connect",
-        "simonwillison.net · LiteLLM Hack: Were You One of the 47,000?",
-        "devblogs.microsoft.com/oldnewthing · How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?"
+        "simonwillison.net · LiteLLM Hack: Were You One of the 47,000?"
       ],
       "key_points": [
+        "datasette-files-s3 0.1a1",
         "Thoughts on slowing the fuck down",
         "datasette-llm 0.1a1",
-        "餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要",
-        "Improved Analytics in App Store Connect"
+        "餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要"
       ],
       "key_points_zh": [
+        "datasette-files-s3 0.1a1",
         "Thoughts on slowing the fuck down",
         "datasette-llm 0.1a1",
-        "餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要",
-        "Improved Analytics in App Store Connect"
+        "餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要"
       ],
       "key_points_en": [
+        "datasette-files-s3 0.1a1",
         "Thoughts on slowing the fuck down",
         "datasette-llm 0.1a1",
-        "Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity",
-        "Improved Analytics in App Store Connect"
+        "Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity"
       ],
       "tweet_drafts": [
+        "datasette-files-s3 0.1a1",
         "Thoughts on slowing the fuck down",
-        "datasette-llm 0.1a1",
-        "从'ShowBiz Pizza Palace'误称看命名一致性：一个词的错误会扭曲认知。在微服务与API设计中，名称即契约，务必精确、无歧义"
+        "datasette-llm 0.1a1"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette-files-s3 0.1a1",
+          "link": "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Thoughts on slowing the fuck down",
@@ -98,27 +148,22 @@
           "feed_title": "simonwillison.net",
           "title": "datasette-llm 0.1a1",
           "link": "https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "List of Chain Restaurants with Unusual Structural Naming",
-          "link": "https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/"
         }
       ],
-      "summary_zh": "2026-03-25 技术日报：Thoughts on slowing the fuck down；datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要。",
-      "summary_en": "Daily brief (2026-03-25): Thoughts on slowing the fuck down; datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-t",
+      "summary_zh": "2026-03-25 技术日报：datasette-files-s3 0.1a1；Thoughts on slowing the fuck down；datasette-llm 0.1a1。",
+      "summary_en": "Daily brief (2026-03-25): datasette-files-s3 0.1a1; Thoughts on slowing the fuck down; datasette-llm 0.1a1.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-25 日报】Thoughts on slowing the fuck down；datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-25): Thoughts on slowing the fuck down; datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-"
+          "zh": "【2026-03-25 日报】datasette-files-s3 0.1a1；Thoughts on slowing the fuck down；datasette-llm 0.1a1。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-25): datasette-files-s3 0.1a1; Thoughts on slowing the fuck down; datasette-llm 0.1a1. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-25）\n- Thoughts on slowing the fuck down\n- datasette-llm 0.1a1\n- 餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n- https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-25)\n- Thoughts on slowing the fuck down\n- datasette-llm 0.1a1\n- Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n- https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-25）\n- datasette-files-s3 0.1a1\n- Thoughts on slowing the fuck down\n- datasette-llm 0.1a1\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything\n- https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-25)\n- datasette-files-s3 0.1a1\n- Thoughts on slowing the fuck down\n- datasette-llm 0.1a1\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything\n- https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything\n- https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Thoughts on slowing the fuck down；datasette-llm 0.1a1；餐厅命名中的异常结构（如'Chuck E. Cheese'）如同代码中的反模式，提醒我们在系统设计与API命名中，一致性比短期创意更重要。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Thoughts on slowing the fuck down; datasette-llm 0.1a1; Unusual naming structures in restaurants (like 'Chuck E. Cheese') are like anti-patterns in code, reminding us that in system design and API naming, consistency outweighs short-term creativity.\nI turned them into an action"
+          "zh": "今天最值得看的 3 个点：datasette-files-s3 0.1a1；Thoughts on slowing the fuck down；datasette-llm 0.1a1。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: datasette-files-s3 0.1a1; Thoughts on slowing the fuck down; datasette-llm 0.1a1.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2214,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：苹果设备成首个符合北约信息保障标准的消费产品，无需特殊配置即可处理受限级机密，标志移动安全新里程碑；主动积累已验证的技术解决方案（代码、工具、报告），这不仅能提升你解决复杂问题的能力，更能为AI代理提供高质量的‘积木’，驱动创新；在 macOS Tahoe 的磁盘工具中，Apple 移除了机械硬盘的安全擦除选项。开发者需改用命令行工具如 diskutil 实现安全擦除。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Apple devices become the first consumer products to meet NATO's information assurance standards, enabling handling of restricted-level classified data without special configuration—a mobile security milestone; Actively accumulate proven technical solutions (code, tools, reports"
-        }
-      }
-    },
-    {
-      "date": "2026-02-25",
-      "total": 22,
-      "feeds": [
-        "daringfireball.net (6)",
-        "simonwillison.net (4)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "geohot.github.io (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ‘H-Bomb: A Frank Lloyd Wright Typographic Mystery’",
-        "daringfireball.net · The Talk Show: ‘Serious Opinionators’",
-        "simonwillison.net · tldraw issue: Move tests to closed source repo",
-        "daringfireball.net · Samsung Galaxy S26 Ultra’s Privacy Display",
-        "simonwillison.net · Claude Code Remote Control",
-        "daringfireball.net · ★ My 2025 Apple Report Card"
-      ],
-      "key_points": [
-        "文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误",
-        "The Talk Show: ‘Serious Opinionators’",
-        "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
-        "Samsung Galaxy S26 Ultra’s Privacy Display"
-      ],
-      "key_points_zh": [
-        "文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误",
-        "The Talk Show: ‘Serious Opinionators’",
-        "知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击",
-        "Samsung Galaxy S26 Ultra’s Privacy Display"
-      ],
-      "key_points_en": [
-        "Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar glyphs",
-        "The Talk Show: ‘Serious Opinionators’",
-        "Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models",
-        "Samsung Galaxy S26 Ultra’s Privacy Display"
-      ],
-      "tweet_drafts": [
-        "你遇到过字形混淆导致的UI问题吗？比如把‘H’看成‘P’？赖特这个案例提醒我们：字体渲染的细节绝不能马虎。分享你的经历👇 #开发者 #排版",
-        "The Talk Show: ‘Serious Opinionators’",
-        "AI通过测试复现代码的能力，正在重塑开源规则。tldraw的应对：隐藏测试套件。这引发深层问题：当‘可复现性’成为威胁，开源该开放到什么程度？技术社区需共同定义新边界"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
-          "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The Talk Show: ‘Serious Opinionators’",
-          "link": "https://daringfireball.net/thetalkshow/2026/02/25/ep-441"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "New Open Source Challenge in AI Era: tldraw Moves Tests Private Over Replication Risk",
-          "link": "https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-02-25 技术日报：文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误；The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。",
-      "summary_en": "Daily brief (2026-02-25): Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-25 日报】文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误；The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-25): Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-25）\n- 文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误\n- The Talk Show: ‘Serious Opinionators’\n- 知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-25)\n- Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar glyphs\n- The Talk Show: ‘Serious Opinionators’\n- Popular open-source drawing library tldraw moves its test suite to a private repo because a comprehensive test set is enough for AI to replicate the entire project. This reveals a fundamental AI-driven threat to open-source business models\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic\n- https://daringfireball.net/thetalkshow/2026/02/25/ep-441\n- https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：文章通过赖特建筑标识案例，揭示排版中常见的‘H/S’与‘P/Q’字形混淆问题，提醒开发者在UI/字体渲染中关注细节，避免因字形相似导致的可读性错误；The Talk Show: ‘Serious Opinionators’；知名开源绘图库tldraw将测试套件移至私有仓库，因其完整测试集足以让AI复现整个项目。这揭示了AI对开源商业模式的根本性冲击。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Using a Frank Lloyd Wright signage case, the article exposes the common typographic confusion between 'H/S' and 'P/Q', urging developers to pay attention to details in UI/font rendering to prevent readability errors caused by similar glyphs; The Talk Show: ‘Serious Opinionators"
         }
       }
     }
