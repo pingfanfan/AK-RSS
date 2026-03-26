@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-26 15:24:44 UTC
+Generated at: 2026-03-26 15:53:54 UTC
 
-- [The Yankees Almost Signed Another P.E.D. Cheater](https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee) (`daringfireball.net`)
-- [How much precision can you squeeze out of a table?](https://www.johndcook.com/blog/2026/03/26/table-precision/) (`johndcook.com`)
+- [Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?](https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167) (`devblogs.microsoft.com/oldnewthing`)
