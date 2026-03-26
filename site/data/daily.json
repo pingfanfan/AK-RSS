@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T11:45:09Z",
+  "generated_at": "2026-03-26T12:12:00Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,38 +48,48 @@
     },
     {
       "date": "2026-03-26",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "matduggan.com (1)",
         "seangoedecke.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "matduggan.com · I Can't See Apple's Vision",
         "dfarq.homeip.net · The Melissa virus of 1999",
         "utcc.utoronto.ca/~cks · Early notes on switching some libvirt-based virtual machines to UEFI",
         "seangoedecke.com · Engineers do get promoted for writing simple code"
       ],
       "key_points": [
+        "I Can't See Apple's Vision",
         "The Melissa virus of 1999",
         "Early notes on switching some libvirt-based virtual machines to UEFI",
         "Engineers do get promoted for writing simple code"
       ],
       "key_points_zh": [
+        "I Can't See Apple's Vision",
         "The Melissa virus of 1999",
         "Early notes on switching some libvirt-based virtual machines to UEFI",
         "Engineers do get promoted for writing simple code"
       ],
       "key_points_en": [
+        "I Can't See Apple's Vision",
         "The Melissa virus of 1999",
         "Early notes on switching some libvirt-based virtual machines to UEFI",
         "Engineers do get promoted for writing simple code"
       ],
       "tweet_drafts": [
+        "I Can't See Apple's Vision",
         "The Melissa virus of 1999",
-        "Early notes on switching some libvirt-based virtual machines to UEFI",
-        "Engineers do get promoted for writing simple code"
+        "Early notes on switching some libvirt-based virtual machines to UEFI"
       ],
       "sources": [
+        {
+          "feed_title": "matduggan.com",
+          "title": "I Can't See Apple's Vision",
+          "link": "https://matduggan.com/i-cant-see-apples-vision/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "The Melissa virus of 1999",
@@ -89,27 +99,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Early notes on switching some libvirt-based virtual machines to UEFI",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI"
-        },
-        {
-          "feed_title": "seangoedecke.com",
-          "title": "Engineers do get promoted for writing simple code",
-          "link": "https://seangoedecke.com/simple-work-gets-rewarded/"
         }
       ],
-      "summary_zh": "2026-03-26 技术日报：The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI；Engineers do get promoted for writing simple code。",
-      "summary_en": "Daily brief (2026-03-26): The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI; Engineers do get promoted for writing simple code.",
+      "summary_zh": "2026-03-26 技术日报：I Can't See Apple's Vision；The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI。",
+      "summary_en": "Daily brief (2026-03-26): I Can't See Apple's Vision; The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-26 日报】The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI；Engineers do get promoted for writing simple code。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-26): The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI; Engineers do get promoted for writing simple code. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPub"
+          "zh": "【2026-03-26 日报】I Can't See Apple's Vision；The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-26): I Can't See Apple's Vision; The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-26）\n- The Melissa virus of 1999\n- Early notes on switching some libvirt-based virtual machines to UEFI\n- Engineers do get promoted for writing simple code\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-melissa-virus-of-1999\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n- https://seangoedecke.com/simple-work-gets-rewarded/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-26)\n- The Melissa virus of 1999\n- Early notes on switching some libvirt-based virtual machines to UEFI\n- Engineers do get promoted for writing simple code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-melissa-virus-of-1999\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n- https://seangoedecke.com/simple-work-gets-rewarded/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-26）\n- I Can't See Apple's Vision\n- The Melissa virus of 1999\n- Early notes on switching some libvirt-based virtual machines to UEFI\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matduggan.com/i-cant-see-apples-vision/\n- https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-melissa-virus-of-1999\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-26)\n- I Can't See Apple's Vision\n- The Melissa virus of 1999\n- Early notes on switching some libvirt-based virtual machines to UEFI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matduggan.com/i-cant-see-apples-vision/\n- https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-melissa-virus-of-1999\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI；Engineers do get promoted for writing simple code。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI; Engineers do get promoted for writing simple code.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：I Can't See Apple's Vision；The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: I Can't See Apple's Vision; The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
