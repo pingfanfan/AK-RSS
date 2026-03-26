@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-26 16:21:53 UTC
+Generated at: 2026-03-26 16:48:12 UTC
 
-- [Quantization from the ground up](https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything) (`simonwillison.net`)
+- [Jennifer Daniel on the New ‘Distorted Face’ Emoji](https://jenniferdaniel.substack.com/p/new-emoji-distorted-face) (`daringfireball.net`)
