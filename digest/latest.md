@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-26 17:47:40 UTC
+Generated at: 2026-03-26 18:15:35 UTC
 
-- [The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’](https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk) (`daringfireball.net`)
+- [NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share) (`daringfireball.net`)
