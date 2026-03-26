@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T14:51:26Z",
+  "generated_at": "2026-03-26T15:25:37Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-03-26",
-      "total": 7,
+      "total": 9,
       "feeds": [
-        "daringfireball.net (1)",
+        "daringfireball.net (2)",
         "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
         "matduggan.com (1)",
         "miguelgrinberg.com (1)",
-        "seangoedecke.com (1)",
-        "shkspr.mobi (1)"
+        "seangoedecke.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · The Yankees Almost Signed Another P.E.D. Cheater",
         "daringfireball.net · Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe",
+        "johndcook.com · How much precision can you squeeze out of a table?",
         "shkspr.mobi · Adding human.json to WordPress",
         "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-        "matduggan.com · I Can't See Apple's Vision",
-        "dfarq.homeip.net · The Melissa virus of 1999",
-        "utcc.utoronto.ca/~cks · Early notes on switching some libvirt-based virtual machines to UEFI"
+        "matduggan.com · I Can't See Apple's Vision"
       ],
       "key_points": [
+        "The Yankees Almost Signed Another P.E.D. Cheater",
         "使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示",
-        "Adding human.json to WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-        "I Can't See Apple's Vision"
+        "How much precision can you squeeze out of a table?",
+        "Adding human.json to WordPress"
       ],
       "key_points_zh": [
+        "The Yankees Almost Signed Another P.E.D. Cheater",
         "使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示",
-        "Adding human.json to WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-        "I Can't See Apple's Vision"
+        "How much precision can you squeeze out of a table?",
+        "Adding human.json to WordPress"
       ],
       "key_points_en": [
+        "The Yankees Almost Signed Another P.E.D. Cheater",
         "Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts",
-        "Adding human.json to WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-        "I Can't See Apple's Vision"
+        "How much precision can you squeeze out of a table?",
+        "Adding human.json to WordPress"
       ],
       "tweet_drafts": [
+        "The Yankees Almost Signed Another P.E.D. Cheater",
         "屏蔽macOS Tahoe升级提示的新姿势：用iMazing Profile Editor图形化工具替代手写plist配置。安全、直观，适合团队批量部署。技术细节与教程见视频。 #macOS #DevOps #Apple",
-        "Adding human.json to WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables"
+        "How much precision can you squeeze out of a table?"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "The Yankees Almost Signed Another P.E.D. Cheater",
+          "link": "https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe",
           "link": "https://www.youtube.com/watch?v=uRg1pW8TSYk"
         },
         {
-          "feed_title": "shkspr.mobi",
-          "title": "Adding human.json to WordPress",
-          "link": "https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/"
-        },
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
-          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables"
+          "feed_title": "johndcook.com",
+          "title": "How much precision can you squeeze out of a table?",
+          "link": "https://www.johndcook.com/blog/2026/03/26/table-precision/"
         }
       ],
-      "summary_zh": "2026-03-26 技术日报：使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables。",
-      "summary_en": "Daily brief (2026-03-26): Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables.",
+      "summary_zh": "2026-03-26 技术日报：The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；How much precision can you squeeze out of a table?。",
+      "summary_en": "Daily brief (2026-03-26): The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; How much precision can you squeeze out of a table?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-26 日报】使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-26): Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables. Actionable takeaways incl"
+          "zh": "【2026-03-26 日报】The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；How much precision can you squeeze out of a table?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-26): The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; How much precision can you squeeze out of a table?. Actionable"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-26）\n- 使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-26)\n- Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-26）\n- The Yankees Almost Signed Another P.E.D. Cheater\n- 使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示\n- How much precision can you squeeze out of a table?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://www.johndcook.com/blog/2026/03/26/table-precision/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-26)\n- The Yankees Almost Signed Another P.E.D. Cheater\n- Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts\n- How much precision can you squeeze out of a table?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://www.johndcook.com/blog/2026/03/26/table-precision/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；How much precision can you squeeze out of a table?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; How much precision can you squeeze out of a table?.\nI turned them into an action-ready daily brief you can u"
         }
       }
     },
