@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-26 17:20:09 UTC
+Generated at: 2026-03-26 17:47:40 UTC
 
-- [MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks](https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/) (`daringfireball.net`)
+- [The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’](https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk) (`daringfireball.net`)
