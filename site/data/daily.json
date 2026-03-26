@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T12:12:00Z",
+  "generated_at": "2026-03-26T12:47:05Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,73 +48,77 @@
     },
     {
       "date": "2026-03-26",
-      "total": 4,
+      "total": 6,
       "feeds": [
         "dfarq.homeip.net (1)",
         "matduggan.com (1)",
+        "miguelgrinberg.com (1)",
         "seangoedecke.com (1)",
+        "shkspr.mobi (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Adding human.json to WordPress",
+        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
         "matduggan.com · I Can't See Apple's Vision",
         "dfarq.homeip.net · The Melissa virus of 1999",
         "utcc.utoronto.ca/~cks · Early notes on switching some libvirt-based virtual machines to UEFI",
         "seangoedecke.com · Engineers do get promoted for writing simple code"
       ],
       "key_points": [
+        "Adding human.json to WordPress",
+        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
         "I Can't See Apple's Vision",
-        "The Melissa virus of 1999",
-        "Early notes on switching some libvirt-based virtual machines to UEFI",
-        "Engineers do get promoted for writing simple code"
+        "The Melissa virus of 1999"
       ],
       "key_points_zh": [
+        "Adding human.json to WordPress",
+        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
         "I Can't See Apple's Vision",
-        "The Melissa virus of 1999",
-        "Early notes on switching some libvirt-based virtual machines to UEFI",
-        "Engineers do get promoted for writing simple code"
+        "The Melissa virus of 1999"
       ],
       "key_points_en": [
+        "Adding human.json to WordPress",
+        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
         "I Can't See Apple's Vision",
-        "The Melissa virus of 1999",
-        "Early notes on switching some libvirt-based virtual machines to UEFI",
-        "Engineers do get promoted for writing simple code"
+        "The Melissa virus of 1999"
       ],
       "tweet_drafts": [
-        "I Can't See Apple's Vision",
-        "The Melissa virus of 1999",
-        "Early notes on switching some libvirt-based virtual machines to UEFI"
+        "Adding human.json to WordPress",
+        "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
+        "I Can't See Apple's Vision"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Adding human.json to WordPress",
+          "link": "https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/"
+        },
+        {
+          "feed_title": "miguelgrinberg.com",
+          "title": "SQLAlchemy 2 In Practice - Chapter 1 - Database Tables",
+          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables"
+        },
         {
           "feed_title": "matduggan.com",
           "title": "I Can't See Apple's Vision",
           "link": "https://matduggan.com/i-cant-see-apples-vision/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "The Melissa virus of 1999",
-          "link": "https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-melissa-virus-of-1999"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Early notes on switching some libvirt-based virtual machines to UEFI",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI"
         }
       ],
-      "summary_zh": "2026-03-26 技术日报：I Can't See Apple's Vision；The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI。",
-      "summary_en": "Daily brief (2026-03-26): I Can't See Apple's Vision; The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI.",
+      "summary_zh": "2026-03-26 技术日报：Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables；I Can't See Apple's Vision。",
+      "summary_en": "Daily brief (2026-03-26): Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables; I Can't See Apple's Vision.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-26 日报】I Can't See Apple's Vision；The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-26): I Can't See Apple's Vision; The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-26 日报】Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables；I Can't See Apple's Vision。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-26): Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables; I Can't See Apple's Vision. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-26）\n- I Can't See Apple's Vision\n- The Melissa virus of 1999\n- Early notes on switching some libvirt-based virtual machines to UEFI\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matduggan.com/i-cant-see-apples-vision/\n- https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-melissa-virus-of-1999\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-26)\n- I Can't See Apple's Vision\n- The Melissa virus of 1999\n- Early notes on switching some libvirt-based virtual machines to UEFI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matduggan.com/i-cant-see-apples-vision/\n- https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-melissa-virus-of-1999\n- https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-26）\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n- I Can't See Apple's Vision\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n- https://matduggan.com/i-cant-see-apples-vision/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-26)\n- Adding human.json to WordPress\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Tables\n- I Can't See Apple's Vision\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables\n- https://matduggan.com/i-cant-see-apples-vision/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：I Can't See Apple's Vision；The Melissa virus of 1999；Early notes on switching some libvirt-based virtual machines to UEFI。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: I Can't See Apple's Vision; The Melissa virus of 1999; Early notes on switching some libvirt-based virtual machines to UEFI.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Adding human.json to WordPress；SQLAlchemy 2 In Practice - Chapter 1 - Database Tables；I Can't See Apple's Vision。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Adding human.json to WordPress; SQLAlchemy 2 In Practice - Chapter 1 - Database Tables; I Can't See Apple's Vision.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
