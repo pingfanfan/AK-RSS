@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T15:54:28Z",
+  "generated_at": "2026-03-26T16:22:26Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-03-26",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "daringfireball.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -58,37 +58,42 @@
         "miguelgrinberg.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quantization from the ground up",
         "daringfireball.net · The Yankees Almost Signed Another P.E.D. Cheater",
         "daringfireball.net · Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe",
         "johndcook.com · How much precision can you squeeze out of a table?",
         "devblogs.microsoft.com/oldnewthing · Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?",
-        "shkspr.mobi · Adding human.json to WordPress",
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 1 - Database Tables"
+        "shkspr.mobi · Adding human.json to WordPress"
       ],
       "key_points": [
+        "Quantization from the ground up",
         "The Yankees Almost Signed Another P.E.D. Cheater",
         "使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示",
-        "How much precision can you squeeze out of a table?",
-        "Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?"
-      ],
-      "key_points_zh": [
-        "The Yankees Almost Signed Another P.E.D. Cheater",
-        "使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示",
-        "How much precision can you squeeze out of a table?",
-        "Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?"
-      ],
-      "key_points_en": [
-        "The Yankees Almost Signed Another P.E.D. Cheater",
-        "Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts",
-        "How much precision can you squeeze out of a table?",
-        "Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?"
-      ],
-      "tweet_drafts": [
-        "The Yankees Almost Signed Another P.E.D. Cheater",
-        "屏蔽macOS Tahoe升级提示的新姿势：用iMazing Profile Editor图形化工具替代手写plist配置。安全、直观，适合团队批量部署。技术细节与教程见视频。 #macOS #DevOps #Apple",
         "How much precision can you squeeze out of a table?"
       ],
+      "key_points_zh": [
+        "Quantization from the ground up",
+        "The Yankees Almost Signed Another P.E.D. Cheater",
+        "使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示",
+        "How much precision can you squeeze out of a table?"
+      ],
+      "key_points_en": [
+        "Quantization from the ground up",
+        "The Yankees Almost Signed Another P.E.D. Cheater",
+        "Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts",
+        "How much precision can you squeeze out of a table?"
+      ],
+      "tweet_drafts": [
+        "Quantization from the ground up",
+        "The Yankees Almost Signed Another P.E.D. Cheater",
+        "屏蔽macOS Tahoe升级提示的新姿势：用iMazing Profile Editor图形化工具替代手写plist配置。安全、直观，适合团队批量部署。技术细节与教程见视频。 #macOS #DevOps #Apple"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quantization from the ground up",
+          "link": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The Yankees Almost Signed Another P.E.D. Cheater",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe",
           "link": "https://www.youtube.com/watch?v=uRg1pW8TSYk"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "How much precision can you squeeze out of a table?",
-          "link": "https://www.johndcook.com/blog/2026/03/26/table-precision/"
         }
       ],
-      "summary_zh": "2026-03-26 技术日报：The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；How much precision can you squeeze out of a table?。",
-      "summary_en": "Daily brief (2026-03-26): The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; How much precision can you squeeze out of a table?.",
+      "summary_zh": "2026-03-26 技术日报：Quantization from the ground up；The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示。",
+      "summary_en": "Daily brief (2026-03-26): Quantization from the ground up; The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-26 日报】The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；How much precision can you squeeze out of a table?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-26): The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; How much precision can you squeeze out of a table?. Actionable"
+          "zh": "【2026-03-26 日报】Quantization from the ground up；The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-26): Quantization from the ground up; The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts. Actionable takeaways included."
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-26）\n- The Yankees Almost Signed Another P.E.D. Cheater\n- 使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示\n- How much precision can you squeeze out of a table?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://www.johndcook.com/blog/2026/03/26/table-precision/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-26)\n- The Yankees Almost Signed Another P.E.D. Cheater\n- Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts\n- How much precision can you squeeze out of a table?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n- https://www.johndcook.com/blog/2026/03/26/table-precision/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-26）\n- Quantization from the ground up\n- The Yankees Almost Signed Another P.E.D. Cheater\n- 使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything\n- https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-26)\n- Quantization from the ground up\n- The Yankees Almost Signed Another P.E.D. Cheater\n- Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything\n- https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee\n- https://www.youtube.com/watch?v=uRg1pW8TSYk\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示；How much precision can you squeeze out of a table?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts; How much precision can you squeeze out of a table?.\nI turned them into an action-ready daily brief you can u"
+          "zh": "今天最值得看的 3 个点：Quantization from the ground up；The Yankees Almost Signed Another P.E.D. Cheater；使用免费工具iMazing Profile Editor替代手动编辑plist文件，轻松屏蔽macOS 26 Tahoe的升级提示。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quantization from the ground up; The Yankees Almost Signed Another P.E.D. Cheater; Use the free iMazing Profile Editor instead of hand-editing plist files to easily block macOS 26 Tahoe upgrade prompts.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
