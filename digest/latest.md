@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-27 11:43:22 UTC
+Generated at: 2026-03-27 12:09:16 UTC
 
-- [Computing sine and cosine of complex arguments with only real functions](https://www.johndcook.com/blog/2026/03/27/complex-argument/) (`johndcook.com`)
+- [Sharing a Name](https://idiallo.com/blog/sharing-a-name?src=feed) (`idiallo.com`)
+- [The Age of the Amplifier](https://www.construction-physics.com/p/the-age-of-the-amplifier) (`construction-physics.com`)
