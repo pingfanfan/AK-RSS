@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-27 21:08:31 UTC
+Generated at: 2026-03-27 21:42:37 UTC
 
-- [Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything) (`simonwillison.net`)
-- [★ Apple Giveth, Apple Taketh Away](https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away) (`daringfireball.net`)
+- [Quoting Richard Fontana](https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything) (`simonwillison.net`)
+- [New York Tech at 30: the Crossroads](https://anildash.com/2026/02/03/nye-tech-30/) (`anildash.com`)

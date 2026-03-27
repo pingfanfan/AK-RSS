@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T21:09:26Z",
+  "generated_at": "2026-03-27T21:43:31Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-27",
-      "total": 15,
+      "total": 16,
       "feeds": [
+        "simonwillison.net (3)",
         "daringfireball.net (2)",
         "johndcook.com (2)",
-        "simonwillison.net (2)",
         "aresluna.org (1)",
         "construction-physics.com (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Richard Fontana",
         "simonwillison.net · Vibe coding SwiftUI apps is a lot of fun",
         "daringfireball.net · ★ Apple Giveth, Apple Taketh Away",
         "terriblesoftware.org · “Good Taste” Is Just Experience",
         "filfre.net · This Week on The Analog Antiquarian",
-        "wheresyoured.at · Premium: How Much Of The AI Bubble Is Real?",
-        "johndcook.com · An AI Odyssey, Part 3: Lost Needle in the Haystack"
+        "wheresyoured.at · Premium: How Much Of The AI Bubble Is Real?"
       ],
       "key_points": [
-        "Vibe coding SwiftUI apps is a lot of fun",
-        "★ Apple Giveth, Apple Taketh Away",
-        "“Good Taste” Is Just Experience",
-        "This Week on The Analog Antiquarian"
-      ],
-      "key_points_zh": [
-        "Vibe coding SwiftUI apps is a lot of fun",
-        "★ Apple Giveth, Apple Taketh Away",
-        "“Good Taste” Is Just Experience",
-        "This Week on The Analog Antiquarian"
-      ],
-      "key_points_en": [
-        "Vibe coding SwiftUI apps is a lot of fun",
-        "★ Apple Giveth, Apple Taketh Away",
-        "“Good Taste” Is Just Experience",
-        "This Week on The Analog Antiquarian"
-      ],
-      "tweet_drafts": [
+        "Quoting Richard Fontana",
         "Vibe coding SwiftUI apps is a lot of fun",
         "★ Apple Giveth, Apple Taketh Away",
         "“Good Taste” Is Just Experience"
       ],
+      "key_points_zh": [
+        "Quoting Richard Fontana",
+        "Vibe coding SwiftUI apps is a lot of fun",
+        "★ Apple Giveth, Apple Taketh Away",
+        "“Good Taste” Is Just Experience"
+      ],
+      "key_points_en": [
+        "Quoting Richard Fontana",
+        "Vibe coding SwiftUI apps is a lot of fun",
+        "★ Apple Giveth, Apple Taketh Away",
+        "“Good Taste” Is Just Experience"
+      ],
+      "tweet_drafts": [
+        "Quoting Richard Fontana",
+        "Vibe coding SwiftUI apps is a lot of fun",
+        "★ Apple Giveth, Apple Taketh Away"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Richard Fontana",
+          "link": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Vibe coding SwiftUI apps is a lot of fun",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "★ Apple Giveth, Apple Taketh Away",
           "link": "https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away"
-        },
-        {
-          "feed_title": "terriblesoftware.org",
-          "title": "“Good Taste” Is Just Experience",
-          "link": "https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/"
         }
       ],
-      "summary_zh": "2026-03-27 技术日报：Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away；“Good Taste” Is Just Experience。",
-      "summary_en": "Daily brief (2026-03-27): Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away; “Good Taste” Is Just Experience.",
+      "summary_zh": "2026-03-27 技术日报：Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away。",
+      "summary_en": "Daily brief (2026-03-27): Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-27 日报】Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away；“Good Taste” Is Just Experience。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-27): Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away; “Good Taste” Is Just Experience. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-27 日报】Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-27): Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-27）\n- Vibe coding SwiftUI apps is a lot of fun\n- ★ Apple Giveth, Apple Taketh Away\n- “Good Taste” Is Just Experience\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n- https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away\n- https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-27)\n- Vibe coding SwiftUI apps is a lot of fun\n- ★ Apple Giveth, Apple Taketh Away\n- “Good Taste” Is Just Experience\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n- https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away\n- https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-27）\n- Quoting Richard Fontana\n- Vibe coding SwiftUI apps is a lot of fun\n- ★ Apple Giveth, Apple Taketh Away\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n- https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-27)\n- Quoting Richard Fontana\n- Vibe coding SwiftUI apps is a lot of fun\n- ★ Apple Giveth, Apple Taketh Away\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n- https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away；“Good Taste” Is Just Experience。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away; “Good Taste” Is Just Experience.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
