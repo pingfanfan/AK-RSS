@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-27 11:14:09 UTC
+Generated at: 2026-03-27 11:43:22 UTC
 
-- [AMD K5 CPU: Not quite what AMD hoped](https://dfarq.homeip.net/amd-k5-cpu-not-quite-what-amd-hoped/?utm_source=rss&utm_medium=rss&utm_campaign=amd-k5-cpu-not-quite-what-amd-hoped) (`dfarq.homeip.net`)
+- [Computing sine and cosine of complex arguments with only real functions](https://www.johndcook.com/blog/2026/03/27/complex-argument/) (`johndcook.com`)
