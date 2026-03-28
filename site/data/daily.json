@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T22:42:38Z",
+  "generated_at": "2026-03-28T06:16:36Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,48 +47,98 @@
       }
     },
     {
-      "date": "2026-03-27",
-      "total": 16,
+      "date": "2026-03-28",
+      "total": 1,
       "feeds": [
-        "simonwillison.net (3)",
+        "daringfireball.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Business Insider’s Subscriber Spiral"
+      ],
+      "key_points": [
+        "Business Insider’s Subscriber Spiral"
+      ],
+      "key_points_zh": [
+        "Business Insider’s Subscriber Spiral"
+      ],
+      "key_points_en": [
+        "Business Insider’s Subscriber Spiral"
+      ],
+      "tweet_drafts": [
+        "Business Insider’s Subscriber Spiral"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Business Insider’s Subscriber Spiral",
+          "link": "https://www.status.news/p/business-insider-subscription-decline-data"
+        }
+      ],
+      "summary_zh": "2026-03-28 技术日报：Business Insider’s Subscriber Spiral。",
+      "summary_en": "Daily brief (2026-03-28): Business Insider’s Subscriber Spiral.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-28 日报】Business Insider’s Subscriber Spiral。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-28): Business Insider’s Subscriber Spiral. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-28）\n- Business Insider’s Subscriber Spiral\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.status.news/p/business-insider-subscription-decline-data\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-28)\n- Business Insider’s Subscriber Spiral\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.status.news/p/business-insider-subscription-decline-data\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Business Insider’s Subscriber Spiral。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Business Insider’s Subscriber Spiral.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-27",
+      "total": 19,
+      "feeds": [
+        "simonwillison.net (4)",
         "daringfireball.net (2)",
         "johndcook.com (2)",
         "aresluna.org (1)",
         "construction-physics.com (1)",
-        "dfarq.homeip.net (1)"
+        "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
+        "simonwillison.net · datasette-showboat 0.1a2",
         "simonwillison.net · Quoting Richard Fontana",
         "simonwillison.net · Vibe coding SwiftUI apps is a lot of fun",
         "daringfireball.net · ★ Apple Giveth, Apple Taketh Away",
         "terriblesoftware.org · “Good Taste” Is Just Experience",
-        "filfre.net · This Week on The Analog Antiquarian",
-        "wheresyoured.at · Premium: How Much Of The AI Bubble Is Real?"
+        "filfre.net · This Week on The Analog Antiquarian"
       ],
       "key_points": [
-        "Quoting Richard Fontana",
-        "Vibe coding SwiftUI apps is a lot of fun",
-        "★ Apple Giveth, Apple Taketh Away",
-        "“Good Taste” Is Just Experience"
-      ],
-      "key_points_zh": [
-        "Quoting Richard Fontana",
-        "Vibe coding SwiftUI apps is a lot of fun",
-        "★ Apple Giveth, Apple Taketh Away",
-        "“Good Taste” Is Just Experience"
-      ],
-      "key_points_en": [
-        "Quoting Richard Fontana",
-        "Vibe coding SwiftUI apps is a lot of fun",
-        "★ Apple Giveth, Apple Taketh Away",
-        "“Good Taste” Is Just Experience"
-      ],
-      "tweet_drafts": [
+        "datasette-showboat 0.1a2",
         "Quoting Richard Fontana",
         "Vibe coding SwiftUI apps is a lot of fun",
         "★ Apple Giveth, Apple Taketh Away"
       ],
+      "key_points_zh": [
+        "datasette-showboat 0.1a2",
+        "Quoting Richard Fontana",
+        "Vibe coding SwiftUI apps is a lot of fun",
+        "★ Apple Giveth, Apple Taketh Away"
+      ],
+      "key_points_en": [
+        "datasette-showboat 0.1a2",
+        "Quoting Richard Fontana",
+        "Vibe coding SwiftUI apps is a lot of fun",
+        "★ Apple Giveth, Apple Taketh Away"
+      ],
+      "tweet_drafts": [
+        "datasette-showboat 0.1a2",
+        "Quoting Richard Fontana",
+        "Vibe coding SwiftUI apps is a lot of fun"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette-showboat 0.1a2",
+          "link": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Richard Fontana",
@@ -98,27 +148,22 @@
           "feed_title": "simonwillison.net",
           "title": "Vibe coding SwiftUI apps is a lot of fun",
           "link": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ Apple Giveth, Apple Taketh Away",
-          "link": "https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away"
         }
       ],
-      "summary_zh": "2026-03-27 技术日报：Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away。",
-      "summary_en": "Daily brief (2026-03-27): Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away.",
+      "summary_zh": "2026-03-27 技术日报：datasette-showboat 0.1a2；Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun。",
+      "summary_en": "Daily brief (2026-03-27): datasette-showboat 0.1a2; Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-27 日报】Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-27): Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-27 日报】datasette-showboat 0.1a2；Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-27): datasette-showboat 0.1a2; Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-27）\n- Quoting Richard Fontana\n- Vibe coding SwiftUI apps is a lot of fun\n- ★ Apple Giveth, Apple Taketh Away\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n- https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-27)\n- Quoting Richard Fontana\n- Vibe coding SwiftUI apps is a lot of fun\n- ★ Apple Giveth, Apple Taketh Away\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n- https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-27）\n- datasette-showboat 0.1a2\n- Quoting Richard Fontana\n- Vibe coding SwiftUI apps is a lot of fun\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything\n- https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-27)\n- datasette-showboat 0.1a2\n- Quoting Richard Fontana\n- Vibe coding SwiftUI apps is a lot of fun\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything\n- https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything\n- https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun；★ Apple Giveth, Apple Taketh Away。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun; ★ Apple Giveth, Apple Taketh Away.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：datasette-showboat 0.1a2；Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: datasette-showboat 0.1a2; Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2214,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Interactive explanations；The Most Important Micros；Working with file extensions in bash scripts。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Interactive explanations; The Most Important Micros; Working with file extensions in bash scripts.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-02-27",
-      "total": 20,
-      "feeds": [
-        "daringfireball.net (6)",
-        "simonwillison.net (3)",
-        "blog.jim-nielsen.com (1)",
-        "computer.rip (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Please, please, please stop using passkeys for encrypting user data",
-        "simonwillison.net · An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "daringfireball.net · West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
-        "blog.jim-nielsen.com · Computers and the Internet: A Two-Edged Sword",
-        "daringfireball.net · How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator",
-        "daringfireball.net · ★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App"
-      ],
-      "key_points": [
-        "Please, please, please stop using passkeys for encrypting user data",
-        "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
-        "技术既是赋能工具，也是潜在消耗源；需主动建立个人使用优先级以维持健康平衡"
-      ],
-      "key_points_zh": [
-        "Please, please, please stop using passkeys for encrypting user data",
-        "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
-        "技术既是赋能工具，也是潜在消耗源；需主动建立个人使用优先级以维持健康平衡"
-      ],
-      "key_points_en": [
-        "Please, please, please stop using passkeys for encrypting user data",
-        "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
-        "Tech empowers but can drain; establish personal usage priorities to maintain a healthy balance"
-      ],
-      "tweet_drafts": [
-        "Please, please, please stop using passkeys for encrypting user data",
-        "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-        "新条目更新"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Please, please, please stop using passkeys for encrypting user data",
-          "link": "https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-          "link": "https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free",
-          "link": "https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/"
-        }
-      ],
-      "summary_zh": "2026-02-27 技术日报：Please, please, please stop using passkeys for encrypting user data；An AI agent coding skeptic tries AI agent coding, in excessive detail；West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free。",
-      "summary_en": "Daily brief (2026-02-27): Please, please, please stop using passkeys for encrypting user data; An AI agent coding skeptic tries AI agent coding, in excessive detail; West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-27 日报】Please, please, please stop using passkeys for encrypting user data；An AI agent coding skeptic tries AI agent coding, in excessive detail；West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #",
-          "en": "AK-RSS Daily (2026-02-27): Please, please, please stop using passkeys for encrypting user data; An AI agent coding skeptic tries AI agent coding, in excessive detail; West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free. Actionable take"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-27）\n- Please, please, please stop using passkeys for encrypting user data\n- An AI agent coding skeptic tries AI agent coding, in excessive detail\n- West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything\n- https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything\n- https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-27)\n- Please, please, please stop using passkeys for encrypting user data\n- An AI agent coding skeptic tries AI agent coding, in excessive detail\n- West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything\n- https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything\n- https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Please, please, please stop using passkeys for encrypting user data；An AI agent coding skeptic tries AI agent coding, in excessive detail；West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Please, please, please stop using passkeys for encrypting user data; An AI agent coding skeptic tries AI agent coding, in excessive detail; West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free.\nI turned them into an action-ready daily brief you can use r"
         }
       }
     }
