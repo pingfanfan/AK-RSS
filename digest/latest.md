@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-28 15:41:06 UTC
+Generated at: 2026-03-28 16:04:18 UTC
 
-- [Trump Is Putting His Signature on U.S. Currency](https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html) (`daringfireball.net`)
+- [Netflix Wrecked Their tvOS Video Player](https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/) (`daringfireball.net`)

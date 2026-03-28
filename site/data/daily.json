@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T15:41:20Z",
+  "generated_at": "2026-03-28T16:04:33Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,46 +48,51 @@
     },
     {
       "date": "2026-03-28",
-      "total": 7,
+      "total": 8,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "construction-physics.com (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "daringfireball.net · Netflix Wrecked Their tvOS Video Player",
         "daringfireball.net · Trump Is Putting His Signature on U.S. Currency",
         "daringfireball.net · New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
         "shkspr.mobi · OpenBenches hits 40k",
         "simonwillison.net · Quoting Matt Webb",
-        "construction-physics.com · Reading List 03/28/26",
-        "utcc.utoronto.ca/~cks · Canonical's Netplan is hard to deal with in automation"
+        "construction-physics.com · Reading List 03/28/26"
       ],
       "key_points": [
-        "Trump Is Putting His Signature on U.S. Currency",
-        "New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
-        "OpenBenches hits 40k",
-        "Quoting Matt Webb"
-      ],
-      "key_points_zh": [
-        "Trump Is Putting His Signature on U.S. Currency",
-        "New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
-        "OpenBenches hits 40k",
-        "Quoting Matt Webb"
-      ],
-      "key_points_en": [
-        "Trump Is Putting His Signature on U.S. Currency",
-        "New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
-        "OpenBenches hits 40k",
-        "Quoting Matt Webb"
-      ],
-      "tweet_drafts": [
+        "Netflix Wrecked Their tvOS Video Player",
         "Trump Is Putting His Signature on U.S. Currency",
         "New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
         "OpenBenches hits 40k"
       ],
+      "key_points_zh": [
+        "Netflix Wrecked Their tvOS Video Player",
+        "Trump Is Putting His Signature on U.S. Currency",
+        "New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
+        "OpenBenches hits 40k"
+      ],
+      "key_points_en": [
+        "Netflix Wrecked Their tvOS Video Player",
+        "Trump Is Putting His Signature on U.S. Currency",
+        "New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
+        "OpenBenches hits 40k"
+      ],
+      "tweet_drafts": [
+        "Netflix Wrecked Their tvOS Video Player",
+        "Trump Is Putting His Signature on U.S. Currency",
+        "New York Post: ‘Trump Considers Renaming Strait of Hormuz’"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Netflix Wrecked Their tvOS Video Player",
+          "link": "https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Trump Is Putting His Signature on U.S. Currency",
@@ -97,27 +102,22 @@
           "feed_title": "daringfireball.net",
           "title": "New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
           "link": "https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "OpenBenches hits 40k",
-          "link": "https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/"
         }
       ],
-      "summary_zh": "2026-03-28 技术日报：Trump Is Putting His Signature on U.S. Currency；New York Post: ‘Trump Considers Renaming Strait of Hormuz’；OpenBenches hits 40k。",
-      "summary_en": "Daily brief (2026-03-28): Trump Is Putting His Signature on U.S. Currency; New York Post: ‘Trump Considers Renaming Strait of Hormuz’; OpenBenches hits 40k.",
+      "summary_zh": "2026-03-28 技术日报：Netflix Wrecked Their tvOS Video Player；Trump Is Putting His Signature on U.S. Currency；New York Post: ‘Trump Considers Renaming Strait of Hormuz’。",
+      "summary_en": "Daily brief (2026-03-28): Netflix Wrecked Their tvOS Video Player; Trump Is Putting His Signature on U.S. Currency; New York Post: ‘Trump Considers Renaming Strait of Hormuz’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-28 日报】Trump Is Putting His Signature on U.S. Currency；New York Post: ‘Trump Considers Renaming Strait of Hormuz’；OpenBenches hits 40k。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-28): Trump Is Putting His Signature on U.S. Currency; New York Post: ‘Trump Considers Renaming Strait of Hormuz’; OpenBenches hits 40k. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-28 日报】Netflix Wrecked Their tvOS Video Player；Trump Is Putting His Signature on U.S. Currency；New York Post: ‘Trump Considers Renaming Strait of Hormuz’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-28): Netflix Wrecked Their tvOS Video Player; Trump Is Putting His Signature on U.S. Currency; New York Post: ‘Trump Considers Renaming Strait of Hormuz’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-28）\n- Trump Is Putting His Signature on U.S. Currency\n- New York Post: ‘Trump Considers Renaming Strait of Hormuz’\n- OpenBenches hits 40k\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html\n- https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/\n- https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-28)\n- Trump Is Putting His Signature on U.S. Currency\n- New York Post: ‘Trump Considers Renaming Strait of Hormuz’\n- OpenBenches hits 40k\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html\n- https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/\n- https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-28）\n- Netflix Wrecked Their tvOS Video Player\n- Trump Is Putting His Signature on U.S. Currency\n- New York Post: ‘Trump Considers Renaming Strait of Hormuz’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n- https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html\n- https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-28)\n- Netflix Wrecked Their tvOS Video Player\n- Trump Is Putting His Signature on U.S. Currency\n- New York Post: ‘Trump Considers Renaming Strait of Hormuz’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n- https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html\n- https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Trump Is Putting His Signature on U.S. Currency；New York Post: ‘Trump Considers Renaming Strait of Hormuz’；OpenBenches hits 40k。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Trump Is Putting His Signature on U.S. Currency; New York Post: ‘Trump Considers Renaming Strait of Hormuz’; OpenBenches hits 40k.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Netflix Wrecked Their tvOS Video Player；Trump Is Putting His Signature on U.S. Currency；New York Post: ‘Trump Considers Renaming Strait of Hormuz’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Netflix Wrecked Their tvOS Video Player; Trump Is Putting His Signature on U.S. Currency; New York Post: ‘Trump Considers Renaming Strait of Hormuz’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
