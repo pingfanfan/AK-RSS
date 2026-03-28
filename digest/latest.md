@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-28 16:04:18 UTC
+Generated at: 2026-03-28 16:42:40 UTC
 
-- [Netflix Wrecked Their tvOS Video Player](https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/) (`daringfireball.net`)
+- [Self-Hosting: Still Worth It?](https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide) (`tedium.co`)
