@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-28 15:05:53 UTC
+Generated at: 2026-03-28 15:41:06 UTC
 
-- [New York Post: ‘Trump Considers Renaming Strait of Hormuz’](https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/) (`daringfireball.net`)
+- [Trump Is Putting His Signature on U.S. Currency](https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html) (`daringfireball.net`)
