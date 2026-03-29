@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-29 20:42:19 UTC
+Generated at: 2026-03-29 21:05:32 UTC
 
-- [Pretext](https://simonwillison.net/2026/Mar/29/pretext/#atom-everything) (`simonwillison.net`)
