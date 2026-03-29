@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T10:06:30Z",
+  "generated_at": "2026-03-29T10:43:13Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,32 +48,43 @@
     },
     {
       "date": "2026-03-29",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "nesbitt.io (1)",
         "oldvcr.blogspot.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · The Roles of Packages",
         "utcc.utoronto.ca/~cks · New old systems in the age of hardware shortages",
         "oldvcr.blogspot.com · 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
       ],
       "key_points": [
+        "The Roles of Packages",
         "New old systems in the age of hardware shortages",
         "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
       ],
       "key_points_zh": [
+        "The Roles of Packages",
         "New old systems in the age of hardware shortages",
         "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
       ],
       "key_points_en": [
+        "The Roles of Packages",
         "New old systems in the age of hardware shortages",
         "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
       ],
       "tweet_drafts": [
+        "The Roles of Packages",
         "New old systems in the age of hardware shortages",
         "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "The Roles of Packages",
+          "link": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "New old systems in the age of hardware shortages",
@@ -85,20 +96,20 @@
           "link": "https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html"
         }
       ],
-      "summary_zh": "2026-03-29 技术日报：New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。",
-      "summary_en": "Daily brief (2026-03-29): New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator.",
+      "summary_zh": "2026-03-29 技术日报：The Roles of Packages；New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。",
+      "summary_en": "Daily brief (2026-03-29): The Roles of Packages; New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-29 日报】New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-29): New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-29 日报】The Roles of Packages；New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-29): The Roles of Packages; New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-29）\n- New old systems in the age of hardware shortages\n- 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n- https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-29)\n- New old systems in the age of hardware shortages\n- 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n- https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-29）\n- The Roles of Packages\n- New old systems in the age of hardware shortages\n- 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n- https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-29)\n- The Roles of Packages\n- New old systems in the age of hardware shortages\n- 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n- https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Roles of Packages；New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Roles of Packages; New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
