@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T20:03:36Z",
+  "generated_at": "2026-03-29T20:42:53Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-29",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "simonwillison.net (2)",
         "daringfireball.net (1)",
         "nesbitt.io (1)",
         "oldvcr.blogspot.com (1)",
         "righto.com (1)",
-        "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "simonwillison.net · Pretext",
         "daringfireball.net · The Talk Show: ‘You’re Going to Have the Niggles’",
         "simonwillison.net · Python Vulnerability Lookup",
         "righto.com · The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
         "nesbitt.io · The Roles of Packages",
-        "utcc.utoronto.ca/~cks · New old systems in the age of hardware shortages",
-        "oldvcr.blogspot.com · 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
+        "utcc.utoronto.ca/~cks · New old systems in the age of hardware shortages"
       ],
       "key_points": [
-        "The Talk Show: ‘You’re Going to Have the Niggles’",
-        "Python Vulnerability Lookup",
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages"
-      ],
-      "key_points_zh": [
-        "The Talk Show: ‘You’re Going to Have the Niggles’",
-        "Python Vulnerability Lookup",
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages"
-      ],
-      "key_points_en": [
-        "The Talk Show: ‘You’re Going to Have the Niggles’",
-        "Python Vulnerability Lookup",
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages"
-      ],
-      "tweet_drafts": [
+        "Pretext",
         "The Talk Show: ‘You’re Going to Have the Niggles’",
         "Python Vulnerability Lookup",
         "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history"
       ],
+      "key_points_zh": [
+        "Pretext",
+        "The Talk Show: ‘You’re Going to Have the Niggles’",
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history"
+      ],
+      "key_points_en": [
+        "Pretext",
+        "The Talk Show: ‘You’re Going to Have the Niggles’",
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history"
+      ],
+      "tweet_drafts": [
+        "Pretext",
+        "The Talk Show: ‘You’re Going to Have the Niggles’",
+        "Python Vulnerability Lookup"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Pretext",
+          "link": "https://simonwillison.net/2026/Mar/29/pretext/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The Talk Show: ‘You’re Going to Have the Niggles’",
@@ -98,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Python Vulnerability Lookup",
           "link": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything"
-        },
-        {
-          "feed_title": "righto.com",
-          "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-          "link": "http://www.righto.com/2026/03/ibm-4-pi-computer-history.html"
         }
       ],
-      "summary_zh": "2026-03-29 技术日报：The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history。",
-      "summary_en": "Daily brief (2026-03-29): The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history.",
+      "summary_zh": "2026-03-29 技术日报：Pretext；The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup。",
+      "summary_en": "Daily brief (2026-03-29): Pretext; The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-29 日报】The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-29): The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history. Actionable takeaways included. What would you ship next? #AI #Engineering #B"
+          "zh": "【2026-03-29 日报】Pretext；The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-29): Pretext; The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-29）\n- The Talk Show: ‘You’re Going to Have the Niggles’\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/thetalkshow/2026/03/29/ep-444\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-29)\n- The Talk Show: ‘You’re Going to Have the Niggles’\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/thetalkshow/2026/03/29/ep-444\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-29）\n- Pretext\n- The Talk Show: ‘You’re Going to Have the Niggles’\n- Python Vulnerability Lookup\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/29/pretext/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/03/29/ep-444\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-29)\n- Pretext\n- The Talk Show: ‘You’re Going to Have the Niggles’\n- Python Vulnerability Lookup\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/29/pretext/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/03/29/ep-444\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pretext；The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pretext; The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
