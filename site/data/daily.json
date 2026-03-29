@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:11:24Z",
+  "generated_at": "2026-03-29T19:41:29Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,8 +48,9 @@
     },
     {
       "date": "2026-03-29",
-      "total": 5,
+      "total": 6,
       "feeds": [
+        "daringfireball.net (1)",
         "nesbitt.io (1)",
         "oldvcr.blogspot.com (1)",
         "righto.com (1)",
@@ -57,6 +58,7 @@
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "daringfireball.net · The Talk Show: ‘You’re Going to Have the Niggles’",
         "simonwillison.net · Python Vulnerability Lookup",
         "righto.com · The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
         "nesbitt.io · The Roles of Packages",
@@ -64,29 +66,34 @@
         "oldvcr.blogspot.com · 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
       ],
       "key_points": [
-        "Python Vulnerability Lookup",
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages",
-        "New old systems in the age of hardware shortages"
-      ],
-      "key_points_zh": [
-        "Python Vulnerability Lookup",
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages",
-        "New old systems in the age of hardware shortages"
-      ],
-      "key_points_en": [
-        "Python Vulnerability Lookup",
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages",
-        "New old systems in the age of hardware shortages"
-      ],
-      "tweet_drafts": [
+        "The Talk Show: ‘You’re Going to Have the Niggles’",
         "Python Vulnerability Lookup",
         "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
         "The Roles of Packages"
       ],
+      "key_points_zh": [
+        "The Talk Show: ‘You’re Going to Have the Niggles’",
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+        "The Roles of Packages"
+      ],
+      "key_points_en": [
+        "The Talk Show: ‘You’re Going to Have the Niggles’",
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+        "The Roles of Packages"
+      ],
+      "tweet_drafts": [
+        "The Talk Show: ‘You’re Going to Have the Niggles’",
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "The Talk Show: ‘You’re Going to Have the Niggles’",
+          "link": "https://daringfireball.net/thetalkshow/2026/03/29/ep-444"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Python Vulnerability Lookup",
@@ -96,27 +103,22 @@
           "feed_title": "righto.com",
           "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
           "link": "http://www.righto.com/2026/03/ibm-4-pi-computer-history.html"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "The Roles of Packages",
-          "link": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html"
         }
       ],
-      "summary_zh": "2026-03-29 技术日报：Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages。",
-      "summary_en": "Daily brief (2026-03-29): Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages.",
+      "summary_zh": "2026-03-29 技术日报：The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history。",
+      "summary_en": "Daily brief (2026-03-29): The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-29 日报】Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-29): Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-29 日报】The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-29): The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history. Actionable takeaways included. What would you ship next? #AI #Engineering #B"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-29）\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n- The Roles of Packages\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-29)\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n- The Roles of Packages\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-29）\n- The Talk Show: ‘You’re Going to Have the Niggles’\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/thetalkshow/2026/03/29/ep-444\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-29)\n- The Talk Show: ‘You’re Going to Have the Niggles’\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/thetalkshow/2026/03/29/ep-444\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
