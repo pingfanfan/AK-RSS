@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T22:41:32Z",
+  "generated_at": "2026-03-29T06:20:32Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,48 +47,109 @@
       }
     },
     {
-      "date": "2026-03-28",
-      "total": 10,
+      "date": "2026-03-29",
+      "total": 2,
       "feeds": [
-        "daringfireball.net (5)",
-        "construction-physics.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "tedium.co (1)",
+        "oldvcr.blogspot.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · New old systems in the age of hardware shortages",
+        "oldvcr.blogspot.com · 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
+      ],
+      "key_points": [
+        "New old systems in the age of hardware shortages",
+        "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
+      ],
+      "key_points_zh": [
+        "New old systems in the age of hardware shortages",
+        "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
+      ],
+      "key_points_en": [
+        "New old systems in the age of hardware shortages",
+        "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
+      ],
+      "tweet_drafts": [
+        "New old systems in the age of hardware shortages",
+        "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "New old systems in the age of hardware shortages",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems"
+        },
+        {
+          "feed_title": "oldvcr.blogspot.com",
+          "title": "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator",
+          "link": "https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html"
+        }
+      ],
+      "summary_zh": "2026-03-29 技术日报：New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。",
+      "summary_en": "Daily brief (2026-03-29): New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-29 日报】New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-29): New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-29）\n- New old systems in the age of hardware shortages\n- 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n- https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-29)\n- New old systems in the age of hardware shortages\n- 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n- https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：New old systems in the age of hardware shortages；6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: New old systems in the age of hardware shortages; 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-03-28",
+      "total": 12,
+      "feeds": [
+        "daringfireball.net (6)",
+        "construction-physics.com (1)",
+        "shkspr.mobi (1)",
+        "simonwillison.net (1)",
+        "susam.net (1)",
+        "tedium.co (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · The 2019 Intel Mac Pro’s Unfortunate Timing",
         "daringfireball.net · ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
         "daringfireball.net · Netflix Wrecked Their tvOS Video Player",
         "tedium.co · Self-Hosting: Still Worth It?",
         "daringfireball.net · Trump Is Putting His Signature on U.S. Currency",
-        "daringfireball.net · New York Post: ‘Trump Considers Renaming Strait of Hormuz’",
-        "shkspr.mobi · OpenBenches hits 40k"
+        "daringfireball.net · New York Post: ‘Trump Considers Renaming Strait of Hormuz’"
       ],
       "key_points": [
-        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "Netflix Wrecked Their tvOS Video Player",
-        "Self-Hosting: Still Worth It?",
-        "Trump Is Putting His Signature on U.S. Currency"
-      ],
-      "key_points_zh": [
-        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "Netflix Wrecked Their tvOS Video Player",
-        "Self-Hosting: Still Worth It?",
-        "Trump Is Putting His Signature on U.S. Currency"
-      ],
-      "key_points_en": [
-        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "Netflix Wrecked Their tvOS Video Player",
-        "Self-Hosting: Still Worth It?",
-        "Trump Is Putting His Signature on U.S. Currency"
-      ],
-      "tweet_drafts": [
+        "The 2019 Intel Mac Pro’s Unfortunate Timing",
         "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
         "Netflix Wrecked Their tvOS Video Player",
         "Self-Hosting: Still Worth It?"
       ],
+      "key_points_zh": [
+        "The 2019 Intel Mac Pro’s Unfortunate Timing",
+        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
+        "Netflix Wrecked Their tvOS Video Player",
+        "Self-Hosting: Still Worth It?"
+      ],
+      "key_points_en": [
+        "The 2019 Intel Mac Pro’s Unfortunate Timing",
+        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
+        "Netflix Wrecked Their tvOS Video Player",
+        "Self-Hosting: Still Worth It?"
+      ],
+      "tweet_drafts": [
+        "The 2019 Intel Mac Pro’s Unfortunate Timing",
+        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
+        "Netflix Wrecked Their tvOS Video Player"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "The 2019 Intel Mac Pro’s Unfortunate Timing",
+          "link": "https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
@@ -98,27 +159,22 @@
           "feed_title": "daringfireball.net",
           "title": "Netflix Wrecked Their tvOS Video Player",
           "link": "https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Self-Hosting: Still Worth It?",
-          "link": "https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide"
         }
       ],
-      "summary_zh": "2026-03-28 技术日报：‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player；Self-Hosting: Still Worth It?。",
-      "summary_en": "Daily brief (2026-03-28): ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player; Self-Hosting: Still Worth It?.",
+      "summary_zh": "2026-03-28 技术日报：The 2019 Intel Mac Pro’s Unfortunate Timing；‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player。",
+      "summary_en": "Daily brief (2026-03-28): The 2019 Intel Mac Pro’s Unfortunate Timing; ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-28 日报】‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player；Self-Hosting: Still Worth It?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-28): ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player; Self-Hosting: Still Worth It?. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+          "zh": "【2026-03-28 日报】The 2019 Intel Mac Pro’s Unfortunate Timing；‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-28): The 2019 Intel Mac Pro’s Unfortunate Timing; ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player. Actionable takeaways included. What would you ship next? #AI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-28）\n- ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’\n- Netflix Wrecked Their tvOS Video Player\n- Self-Hosting: Still Worth It?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n- https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-28)\n- ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’\n- Netflix Wrecked Their tvOS Video Player\n- Self-Hosting: Still Worth It?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n- https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-28）\n- The 2019 Intel Mac Pro’s Unfortunate Timing\n- ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’\n- Netflix Wrecked Their tvOS Video Player\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/\n- https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-28)\n- The 2019 Intel Mac Pro’s Unfortunate Timing\n- ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’\n- Netflix Wrecked Their tvOS Video Player\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/\n- https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player；Self-Hosting: Still Worth It?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player; Self-Hosting: Still Worth It?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The 2019 Intel Mac Pro’s Unfortunate Timing；‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The 2019 Intel Mac Pro’s Unfortunate Timing; ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2225,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Expert Beginners and Lone Wolves will dominate this early LLM era；DHS合同数据遭黑客泄露，包含13.4MB承包商JSON。作者构建静态网站可视化，发现最大合同为7000万美元，指向安全承包商与监控体系的深层关联；AI本身不是威胁，威胁在于它被用于剥削劳动力、集中财富，如同工业革命时期的工厂系统。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Expert Beginners and Lone Wolves will dominate this early LLM era; DHS contract data hacked and leaked, includes 13.4MB contractor JSON. Author built a static site for visualization, revealing a $70M top contract, highlighting ties between security contractors and surveillance"
-        }
-      }
-    },
-    {
-      "date": "2026-02-28",
-      "total": 16,
-      "feeds": [
-        "susam.net (2)",
-        "abortretry.fail (1)",
-        "construction-physics.com (1)",
-        "daringfireball.net (1)",
-        "evanhahn.com (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Interactive explanations",
-        "abortretry.fail · The Most Important Micros",
-        "johndcook.com · Working with file extensions in bash scripts",
-        "idiallo.com · That's it, I'm cancelling my ChatGPT",
-        "daringfireball.net · Trump’s Enormous Gamble on Regime Change in Iran",
-        "miguelgrinberg.com · LLM Use in the Python Source Code"
-      ],
-      "key_points": [
-        "Interactive explanations",
-        "The Most Important Micros",
-        "Working with file extensions in bash scripts",
-        "That's it, I'm cancelling my ChatGPT"
-      ],
-      "key_points_zh": [
-        "Interactive explanations",
-        "The Most Important Micros",
-        "Working with file extensions in bash scripts",
-        "That's it, I'm cancelling my ChatGPT"
-      ],
-      "key_points_en": [
-        "Interactive explanations",
-        "The Most Important Micros",
-        "Working with file extensions in bash scripts",
-        "That's it, I'm cancelling my ChatGPT"
-      ],
-      "tweet_drafts": [
-        "Interactive explanations",
-        "The Most Important Micros",
-        "Working with file extensions in bash scripts"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Interactive explanations",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything"
-        },
-        {
-          "feed_title": "abortretry.fail",
-          "title": "The Most Important Micros",
-          "link": "https://www.abortretry.fail/p/the-most-important-micros"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Working with file extensions in bash scripts",
-          "link": "https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/"
-        }
-      ],
-      "summary_zh": "2026-02-28 技术日报：Interactive explanations；The Most Important Micros；Working with file extensions in bash scripts。",
-      "summary_en": "Daily brief (2026-02-28): Interactive explanations; The Most Important Micros; Working with file extensions in bash scripts.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-02-28 日报】Interactive explanations；The Most Important Micros；Working with file extensions in bash scripts。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-02-28): Interactive explanations; The Most Important Micros; Working with file extensions in bash scripts. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-02-28）\n- Interactive explanations\n- The Most Important Micros\n- Working with file extensions in bash scripts\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything\n- https://www.abortretry.fail/p/the-most-important-micros\n- https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-02-28)\n- Interactive explanations\n- The Most Important Micros\n- Working with file extensions in bash scripts\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything\n- https://www.abortretry.fail/p/the-most-important-micros\n- https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Interactive explanations；The Most Important Micros；Working with file extensions in bash scripts。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Interactive explanations; The Most Important Micros; Working with file extensions in bash scripts.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
