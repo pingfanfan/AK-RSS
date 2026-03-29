@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T18:44:12Z",
+  "generated_at": "2026-03-29T19:11:24Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,43 +48,50 @@
     },
     {
       "date": "2026-03-29",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "nesbitt.io (1)",
         "oldvcr.blogspot.com (1)",
         "righto.com (1)",
+        "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "simonwillison.net · Python Vulnerability Lookup",
         "righto.com · The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
         "nesbitt.io · The Roles of Packages",
         "utcc.utoronto.ca/~cks · New old systems in the age of hardware shortages",
         "oldvcr.blogspot.com · 6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
       ],
       "key_points": [
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages",
-        "New old systems in the age of hardware shortages",
-        "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
-      ],
-      "key_points_zh": [
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages",
-        "New old systems in the age of hardware shortages",
-        "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
-      ],
-      "key_points_en": [
-        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-        "The Roles of Packages",
-        "New old systems in the age of hardware shortages",
-        "6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator"
-      ],
-      "tweet_drafts": [
+        "Python Vulnerability Lookup",
         "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
         "The Roles of Packages",
         "New old systems in the age of hardware shortages"
       ],
+      "key_points_zh": [
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+        "The Roles of Packages",
+        "New old systems in the age of hardware shortages"
+      ],
+      "key_points_en": [
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+        "The Roles of Packages",
+        "New old systems in the age of hardware shortages"
+      ],
+      "tweet_drafts": [
+        "Python Vulnerability Lookup",
+        "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+        "The Roles of Packages"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Python Vulnerability Lookup",
+          "link": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything"
+        },
         {
           "feed_title": "righto.com",
           "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
@@ -94,27 +101,22 @@
           "feed_title": "nesbitt.io",
           "title": "The Roles of Packages",
           "link": "https://nesbitt.io/2026/03/29/the-roles-of-packages.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "New old systems in the age of hardware shortages",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems"
         }
       ],
-      "summary_zh": "2026-03-29 技术日报：The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages；New old systems in the age of hardware shortages。",
-      "summary_en": "Daily brief (2026-03-29): The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages; New old systems in the age of hardware shortages.",
+      "summary_zh": "2026-03-29 技术日报：Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages。",
+      "summary_en": "Daily brief (2026-03-29): Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-29 日报】The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages；New old systems in the age of hardware shortages。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-29): The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages; New old systems in the age of hardware shortages. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
+          "zh": "【2026-03-29 日报】Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-29): Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-29）\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n- The Roles of Packages\n- New old systems in the age of hardware shortages\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-29)\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n- The Roles of Packages\n- New old systems in the age of hardware shortages\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-29）\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n- The Roles of Packages\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-29)\n- Python Vulnerability Lookup\n- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history\n- The Roles of Packages\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything\n- http://www.righto.com/2026/03/ibm-4-pi-computer-history.html\n- https://nesbitt.io/2026/03/29/the-roles-of-packages.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages；New old systems in the age of hardware shortages。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages; New old systems in the age of hardware shortages.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Python Vulnerability Lookup；The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history；The Roles of Packages。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Python Vulnerability Lookup; The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history; The Roles of Packages.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
