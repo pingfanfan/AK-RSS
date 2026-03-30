@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-30 10:49:25 UTC
+Generated at: 2026-03-30 11:20:06 UTC
 
-- [Small note about AI 'GPUs'](https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/) (`xeiaso.net`)
+- [What happened to Procomm Plus](https://dfarq.homeip.net/what-happened-to-procomm-plus/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-procomm-plus) (`dfarq.homeip.net`)
