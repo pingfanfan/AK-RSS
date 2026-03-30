@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-30 16:45:49 UTC
+Generated at: 2026-03-30 17:16:32 UTC
 
-- [Macs of Unusual Size](https://scottknaster.substack.com/p/macs-of-unusual-size) (`daringfireball.net`)
+- [‘The Brand Age’](https://paulgraham.com/brandage.html) (`daringfireball.net`)
