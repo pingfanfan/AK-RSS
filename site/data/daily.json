@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T11:46:22Z",
+  "generated_at": "2026-03-30T12:11:53Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-30",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "idiallo.com (1)",
         "joanwestenberg.com (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)",
-        "xeiaso.net (1)"
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · How Do We Get Developers to Read the Docs",
         "shkspr.mobi · Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
         "dfarq.homeip.net · What happened to Procomm Plus",
         "nesbitt.io · Git Diff Drivers",
         "joanwestenberg.com · Notes on going solo: celebrating 6 years of Studio Self",
-        "utcc.utoronto.ca/~cks · How old our servers are (as of 2026)",
-        "xeiaso.net · Small note about AI 'GPUs'"
+        "utcc.utoronto.ca/~cks · How old our servers are (as of 2026)"
       ],
       "key_points": [
-        "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
-        "What happened to Procomm Plus",
-        "Git Diff Drivers",
-        "Notes on going solo: celebrating 6 years of Studio Self"
-      ],
-      "key_points_zh": [
-        "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
-        "What happened to Procomm Plus",
-        "Git Diff Drivers",
-        "Notes on going solo: celebrating 6 years of Studio Self"
-      ],
-      "key_points_en": [
-        "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
-        "What happened to Procomm Plus",
-        "Git Diff Drivers",
-        "Notes on going solo: celebrating 6 years of Studio Self"
-      ],
-      "tweet_drafts": [
+        "How Do We Get Developers to Read the Docs",
         "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
         "What happened to Procomm Plus",
         "Git Diff Drivers"
       ],
+      "key_points_zh": [
+        "How Do We Get Developers to Read the Docs",
+        "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
+        "What happened to Procomm Plus",
+        "Git Diff Drivers"
+      ],
+      "key_points_en": [
+        "How Do We Get Developers to Read the Docs",
+        "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
+        "What happened to Procomm Plus",
+        "Git Diff Drivers"
+      ],
+      "tweet_drafts": [
+        "How Do We Get Developers to Read the Docs",
+        "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
+        "What happened to Procomm Plus"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "How Do We Get Developers to Read the Docs",
+          "link": "https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
@@ -98,27 +103,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "What happened to Procomm Plus",
           "link": "https://dfarq.homeip.net/what-happened-to-procomm-plus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-procomm-plus"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Git Diff Drivers",
-          "link": "https://nesbitt.io/2026/03/30/git-diff-drivers.html"
         }
       ],
-      "summary_zh": "2026-03-30 技术日报：Gig Review: Vitamin String Quartet at The Barbican ★★★★★；What happened to Procomm Plus；Git Diff Drivers。",
-      "summary_en": "Daily brief (2026-03-30): Gig Review: Vitamin String Quartet at The Barbican ★★★★★; What happened to Procomm Plus; Git Diff Drivers.",
+      "summary_zh": "2026-03-30 技术日报：How Do We Get Developers to Read the Docs；Gig Review: Vitamin String Quartet at The Barbican ★★★★★；What happened to Procomm Plus。",
+      "summary_en": "Daily brief (2026-03-30): How Do We Get Developers to Read the Docs; Gig Review: Vitamin String Quartet at The Barbican ★★★★★; What happened to Procomm Plus.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-30 日报】Gig Review: Vitamin String Quartet at The Barbican ★★★★★；What happened to Procomm Plus；Git Diff Drivers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-30): Gig Review: Vitamin String Quartet at The Barbican ★★★★★; What happened to Procomm Plus; Git Diff Drivers. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-30 日报】How Do We Get Developers to Read the Docs；Gig Review: Vitamin String Quartet at The Barbican ★★★★★；What happened to Procomm Plus。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-30): How Do We Get Developers to Read the Docs; Gig Review: Vitamin String Quartet at The Barbican ★★★★★; What happened to Procomm Plus. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-30）\n- Gig Review: Vitamin String Quartet at The Barbican ★★★★★\n- What happened to Procomm Plus\n- Git Diff Drivers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/\n- https://dfarq.homeip.net/what-happened-to-procomm-plus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-procomm-plus\n- https://nesbitt.io/2026/03/30/git-diff-drivers.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-30)\n- Gig Review: Vitamin String Quartet at The Barbican ★★★★★\n- What happened to Procomm Plus\n- Git Diff Drivers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/\n- https://dfarq.homeip.net/what-happened-to-procomm-plus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-procomm-plus\n- https://nesbitt.io/2026/03/30/git-diff-drivers.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-30）\n- How Do We Get Developers to Read the Docs\n- Gig Review: Vitamin String Quartet at The Barbican ★★★★★\n- What happened to Procomm Plus\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed\n- https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/\n- https://dfarq.homeip.net/what-happened-to-procomm-plus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-procomm-plus\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-30)\n- How Do We Get Developers to Read the Docs\n- Gig Review: Vitamin String Quartet at The Barbican ★★★★★\n- What happened to Procomm Plus\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed\n- https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/\n- https://dfarq.homeip.net/what-happened-to-procomm-plus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-procomm-plus\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Gig Review: Vitamin String Quartet at The Barbican ★★★★★；What happened to Procomm Plus；Git Diff Drivers。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Gig Review: Vitamin String Quartet at The Barbican ★★★★★; What happened to Procomm Plus; Git Diff Drivers.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：How Do We Get Developers to Read the Docs；Gig Review: Vitamin String Quartet at The Barbican ★★★★★；What happened to Procomm Plus。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How Do We Get Developers to Read the Docs; Gig Review: Vitamin String Quartet at The Barbican ★★★★★; What happened to Procomm Plus.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
