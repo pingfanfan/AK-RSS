@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T21:09:39Z",
+  "generated_at": "2026-03-31T21:44:11Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -93,77 +93,77 @@
     },
     {
       "date": "2026-03-31",
-      "total": 18,
+      "total": 20,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "johndcook.com (2)",
+        "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "experimental-history.com (1)",
-        "joanwestenberg.com (1)"
+        "experimental-history.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · RAM Is the New Bearer Bond",
+        "simonwillison.net · datasette-llm 0.1a4",
         "wheresyoured.at · The Subprime AI Crisis Is Here",
         "experimental-history.com · Infinite midwit",
         "daringfireball.net · Jensen Huang Doesn’t Smell Anything",
-        "daringfireball.net · Appointees to Trump’s Council of Advisors on Science and Technology",
-        "daringfireball.net · Technical Analysis of the Android Version of the White House’s New App",
-        "johndcook.com · Quantum Y2K"
+        "daringfireball.net · Appointees to Trump’s Council of Advisors on Science and Technology"
       ],
       "key_points": [
+        "RAM Is the New Bearer Bond",
+        "datasette-llm 0.1a4",
         "The Subprime AI Crisis Is Here",
-        "Infinite midwit",
-        "Jensen Huang Doesn’t Smell Anything",
-        "Appointees to Trump’s Council of Advisors on Science and Technology"
+        "Infinite midwit"
       ],
       "key_points_zh": [
+        "RAM Is the New Bearer Bond",
+        "datasette-llm 0.1a4",
         "The Subprime AI Crisis Is Here",
-        "Infinite midwit",
-        "Jensen Huang Doesn’t Smell Anything",
-        "Appointees to Trump’s Council of Advisors on Science and Technology"
+        "Infinite midwit"
       ],
       "key_points_en": [
+        "RAM Is the New Bearer Bond",
+        "datasette-llm 0.1a4",
         "The Subprime AI Crisis Is Here",
-        "Infinite midwit",
-        "Jensen Huang Doesn’t Smell Anything",
-        "Appointees to Trump’s Council of Advisors on Science and Technology"
+        "Infinite midwit"
       ],
       "tweet_drafts": [
-        "The Subprime AI Crisis Is Here",
-        "Infinite midwit",
-        "Jensen Huang Doesn’t Smell Anything"
+        "RAM Is the New Bearer Bond",
+        "datasette-llm 0.1a4",
+        "The Subprime AI Crisis Is Here"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "RAM Is the New Bearer Bond",
+          "link": "https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette-llm 0.1a4",
+          "link": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "The Subprime AI Crisis Is Here",
           "link": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/"
-        },
-        {
-          "feed_title": "experimental-history.com",
-          "title": "Infinite midwit",
-          "link": "https://www.experimental-history.com/p/infinite-midwit"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Jensen Huang Doesn’t Smell Anything",
-          "link": "https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n"
         }
       ],
-      "summary_zh": "2026-03-31 技术日报：The Subprime AI Crisis Is Here；Infinite midwit；Jensen Huang Doesn’t Smell Anything。",
-      "summary_en": "Daily brief (2026-03-31): The Subprime AI Crisis Is Here; Infinite midwit; Jensen Huang Doesn’t Smell Anything.",
+      "summary_zh": "2026-03-31 技术日报：RAM Is the New Bearer Bond；datasette-llm 0.1a4；The Subprime AI Crisis Is Here。",
+      "summary_en": "Daily brief (2026-03-31): RAM Is the New Bearer Bond; datasette-llm 0.1a4; The Subprime AI Crisis Is Here.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-31 日报】The Subprime AI Crisis Is Here；Infinite midwit；Jensen Huang Doesn’t Smell Anything。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-31): The Subprime AI Crisis Is Here; Infinite midwit; Jensen Huang Doesn’t Smell Anything. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-31 日报】RAM Is the New Bearer Bond；datasette-llm 0.1a4；The Subprime AI Crisis Is Here。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-31): RAM Is the New Bearer Bond; datasette-llm 0.1a4; The Subprime AI Crisis Is Here. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-31）\n- The Subprime AI Crisis Is Here\n- Infinite midwit\n- Jensen Huang Doesn’t Smell Anything\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/\n- https://www.experimental-history.com/p/infinite-midwit\n- https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-31)\n- The Subprime AI Crisis Is Here\n- Infinite midwit\n- Jensen Huang Doesn’t Smell Anything\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/\n- https://www.experimental-history.com/p/infinite-midwit\n- https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-31）\n- RAM Is the New Bearer Bond\n- datasette-llm 0.1a4\n- The Subprime AI Crisis Is Here\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/\n- https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything\n- https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-31)\n- RAM Is the New Bearer Bond\n- datasette-llm 0.1a4\n- The Subprime AI Crisis Is Here\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/\n- https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything\n- https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime AI Crisis Is Here；Infinite midwit；Jensen Huang Doesn’t Smell Anything。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime AI Crisis Is Here; Infinite midwit; Jensen Huang Doesn’t Smell Anything.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：RAM Is the New Bearer Bond；datasette-llm 0.1a4；The Subprime AI Crisis Is Here。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: RAM Is the New Bearer Bond; datasette-llm 0.1a4; The Subprime AI Crisis Is Here.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

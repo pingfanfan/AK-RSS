@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-31 21:09:03 UTC
+Generated at: 2026-03-31 21:43:15 UTC
 
-- [There's no such thing as "tech" (Ten years later)](https://anildash.com/2026/02/06/no-such-thing-as-tech/) (`anildash.com`)
+- [datasette-llm 0.1a4](https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything) (`simonwillison.net`)
+- [RAM Is the New Bearer Bond](https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/) (`daringfireball.net`)
