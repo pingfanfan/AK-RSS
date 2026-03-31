@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T19:46:41Z",
+  "generated_at": "2026-03-31T20:10:11Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -93,14 +93,14 @@
     },
     {
       "date": "2026-03-31",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "daringfireball.net (3)",
         "johndcook.com (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)",
-        "joanwestenberg.com (1)",
-        "martinalderson.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
         "wheresyoured.at · The Subprime AI Crisis Is Here",
@@ -169,7 +169,7 @@
     },
     {
       "date": "2026-03-30",
-      "total": 19,
+      "total": 20,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (2)",
@@ -179,37 +179,42 @@
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · The MVC Mistake",
         "simonwillison.net · Quoting Georgi Gerganov",
         "daringfireball.net · [Sponsor] Material Security",
         "blog.jim-nielsen.com · Continuous, Continuous, Continuous",
         "troyhunt.com · HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
-        "pluralistic.net · Pluralistic: Market participation is exhausting (30 Mar 2026)",
-        "blog.pixelmelt.dev · The Webs Digital Locks have Never had a Stronger Opponent"
+        "pluralistic.net · Pluralistic: Market participation is exhausting (30 Mar 2026)"
       ],
       "key_points": [
-        "Quoting Georgi Gerganov",
-        "[Sponsor] Material Security",
-        "Continuous, Continuous, Continuous",
-        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API"
-      ],
-      "key_points_zh": [
-        "Quoting Georgi Gerganov",
-        "[Sponsor] Material Security",
-        "Continuous, Continuous, Continuous",
-        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API"
-      ],
-      "key_points_en": [
-        "Quoting Georgi Gerganov",
-        "[Sponsor] Material Security",
-        "Continuous, Continuous, Continuous",
-        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API"
-      ],
-      "tweet_drafts": [
+        "The MVC Mistake",
         "Quoting Georgi Gerganov",
         "[Sponsor] Material Security",
         "Continuous, Continuous, Continuous"
       ],
+      "key_points_zh": [
+        "The MVC Mistake",
+        "Quoting Georgi Gerganov",
+        "[Sponsor] Material Security",
+        "Continuous, Continuous, Continuous"
+      ],
+      "key_points_en": [
+        "The MVC Mistake",
+        "Quoting Georgi Gerganov",
+        "[Sponsor] Material Security",
+        "Continuous, Continuous, Continuous"
+      ],
+      "tweet_drafts": [
+        "The MVC Mistake",
+        "Quoting Georgi Gerganov",
+        "[Sponsor] Material Security"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "The MVC Mistake",
+          "link": "https://entropicthoughts.com/mvc-mistake"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Georgi Gerganov",
@@ -219,27 +224,22 @@
           "feed_title": "daringfireball.net",
           "title": "[Sponsor] Material Security",
           "link": "https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Continuous, Continuous, Continuous",
-          "link": "https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/"
         }
       ],
-      "summary_zh": "2026-03-30 技术日报：Quoting Georgi Gerganov；[Sponsor] Material Security；Continuous, Continuous, Continuous。",
-      "summary_en": "Daily brief (2026-03-30): Quoting Georgi Gerganov; [Sponsor] Material Security; Continuous, Continuous, Continuous.",
+      "summary_zh": "2026-03-30 技术日报：The MVC Mistake；Quoting Georgi Gerganov；[Sponsor] Material Security。",
+      "summary_en": "Daily brief (2026-03-30): The MVC Mistake; Quoting Georgi Gerganov; [Sponsor] Material Security.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-30 日报】Quoting Georgi Gerganov；[Sponsor] Material Security；Continuous, Continuous, Continuous。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-30): Quoting Georgi Gerganov; [Sponsor] Material Security; Continuous, Continuous, Continuous. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-30 日报】The MVC Mistake；Quoting Georgi Gerganov；[Sponsor] Material Security。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-30): The MVC Mistake; Quoting Georgi Gerganov; [Sponsor] Material Security. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-30）\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n- Continuous, Continuous, Continuous\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n- https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-30)\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n- Continuous, Continuous, Continuous\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n- https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-30）\n- The MVC Mistake\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/mvc-mistake\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-30)\n- The MVC Mistake\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/mvc-mistake\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Georgi Gerganov；[Sponsor] Material Security；Continuous, Continuous, Continuous。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Georgi Gerganov; [Sponsor] Material Security; Continuous, Continuous, Continuous.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The MVC Mistake；Quoting Georgi Gerganov；[Sponsor] Material Security。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The MVC Mistake; Quoting Georgi Gerganov; [Sponsor] Material Security.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
