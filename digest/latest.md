@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-31 15:51:11 UTC
+Generated at: 2026-03-31 16:18:22 UTC
 
-- [Appointees to Trump’s Council of Advisors on Science and Technology](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) (`daringfireball.net`)
-- [npm’s Defaults Are Bad](https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html) (`nesbitt.io`)
+- [Jensen Huang Doesn’t Smell Anything](https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n) (`daringfireball.net`)
+- [The Subprime AI Crisis Is Here](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/) (`wheresyoured.at`)
+- [Infinite midwit](https://www.experimental-history.com/p/infinite-midwit) (`experimental-history.com`)
