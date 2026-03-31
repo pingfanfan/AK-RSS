@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T22:43:01Z",
+  "generated_at": "2026-03-31T06:25:14Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,46 +47,118 @@
       }
     },
     {
+      "date": "2026-03-31",
+      "total": 4,
+      "feeds": [
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)",
+        "troyhunt.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Here in 2026, we're retaining old systems instead of discarding them",
+        "troyhunt.com · Weekly Update 497",
+        "joanwestenberg.com · The World's First Bullshit",
+        "simonwillison.net · datasette-files 0.1a3"
+      ],
+      "key_points": [
+        "Here in 2026, we're retaining old systems instead of discarding them",
+        "Weekly Update 497",
+        "The World's First Bullshit",
+        "datasette-files 0.1a3"
+      ],
+      "key_points_zh": [
+        "Here in 2026, we're retaining old systems instead of discarding them",
+        "Weekly Update 497",
+        "The World's First Bullshit",
+        "datasette-files 0.1a3"
+      ],
+      "key_points_en": [
+        "Here in 2026, we're retaining old systems instead of discarding them",
+        "Weekly Update 497",
+        "The World's First Bullshit",
+        "datasette-files 0.1a3"
+      ],
+      "tweet_drafts": [
+        "Here in 2026, we're retaining old systems instead of discarding them",
+        "Weekly Update 497",
+        "The World's First Bullshit"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Here in 2026, we're retaining old systems instead of discarding them",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026"
+        },
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 497",
+          "link": "https://www.troyhunt.com/weekly-update-497/"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "The World's First Bullshit",
+          "link": "https://www.joanwestenberg.com/the-worlds-first-bullshit/"
+        }
+      ],
+      "summary_zh": "2026-03-31 技术日报：Here in 2026, we're retaining old systems instead of discarding them；Weekly Update 497；The World's First Bullshit。",
+      "summary_en": "Daily brief (2026-03-31): Here in 2026, we're retaining old systems instead of discarding them; Weekly Update 497; The World's First Bullshit.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-03-31 日报】Here in 2026, we're retaining old systems instead of discarding them；Weekly Update 497；The World's First Bullshit。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-31): Here in 2026, we're retaining old systems instead of discarding them; Weekly Update 497; The World's First Bullshit. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-03-31）\n- Here in 2026, we're retaining old systems instead of discarding them\n- Weekly Update 497\n- The World's First Bullshit\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026\n- https://www.troyhunt.com/weekly-update-497/\n- https://www.joanwestenberg.com/the-worlds-first-bullshit/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-31)\n- Here in 2026, we're retaining old systems instead of discarding them\n- Weekly Update 497\n- The World's First Bullshit\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026\n- https://www.troyhunt.com/weekly-update-497/\n- https://www.joanwestenberg.com/the-worlds-first-bullshit/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Here in 2026, we're retaining old systems instead of discarding them；Weekly Update 497；The World's First Bullshit。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Here in 2026, we're retaining old systems instead of discarding them; Weekly Update 497; The World's First Bullshit.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-03-30",
-      "total": 16,
+      "total": 18,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (2)",
+        "blog.jim-nielsen.com (1)",
         "blog.pixelmelt.dev (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
         "simonwillison.net · Quoting Georgi Gerganov",
         "daringfireball.net · [Sponsor] Material Security",
+        "blog.jim-nielsen.com · Continuous, Continuous, Continuous",
         "troyhunt.com · HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
         "pluralistic.net · Pluralistic: Market participation is exhausting (30 Mar 2026)",
-        "blog.pixelmelt.dev · The Webs Digital Locks have Never had a Stronger Opponent",
-        "daringfireball.net · ‘The Brand Age’"
+        "blog.pixelmelt.dev · The Webs Digital Locks have Never had a Stronger Opponent"
       ],
       "key_points": [
         "Quoting Georgi Gerganov",
         "[Sponsor] Material Security",
-        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
-        "Pluralistic: Market participation is exhausting (30 Mar 2026)"
+        "Continuous, Continuous, Continuous",
+        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API"
       ],
       "key_points_zh": [
         "Quoting Georgi Gerganov",
         "[Sponsor] Material Security",
-        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
-        "Pluralistic: Market participation is exhausting (30 Mar 2026)"
+        "Continuous, Continuous, Continuous",
+        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API"
       ],
       "key_points_en": [
         "Quoting Georgi Gerganov",
         "[Sponsor] Material Security",
-        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
-        "Pluralistic: Market participation is exhausting (30 Mar 2026)"
+        "Continuous, Continuous, Continuous",
+        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API"
       ],
       "tweet_drafts": [
         "Quoting Georgi Gerganov",
         "[Sponsor] Material Security",
-        "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API"
+        "Continuous, Continuous, Continuous"
       ],
       "sources": [
         {
@@ -100,25 +172,25 @@
           "link": "https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball"
         },
         {
-          "feed_title": "troyhunt.com",
-          "title": "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
-          "link": "https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Continuous, Continuous, Continuous",
+          "link": "https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/"
         }
       ],
-      "summary_zh": "2026-03-30 技术日报：Quoting Georgi Gerganov；[Sponsor] Material Security；HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API。",
-      "summary_en": "Daily brief (2026-03-30): Quoting Georgi Gerganov; [Sponsor] Material Security; HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API.",
+      "summary_zh": "2026-03-30 技术日报：Quoting Georgi Gerganov；[Sponsor] Material Security；Continuous, Continuous, Continuous。",
+      "summary_en": "Daily brief (2026-03-30): Quoting Georgi Gerganov; [Sponsor] Material Security; Continuous, Continuous, Continuous.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-30 日报】Quoting Georgi Gerganov；[Sponsor] Material Security；HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-30): Quoting Georgi Gerganov; [Sponsor] Material Security; HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API. Actionable takeaways included. What would you ship next? #AI #Engi"
+          "zh": "【2026-03-30 日报】Quoting Georgi Gerganov；[Sponsor] Material Security；Continuous, Continuous, Continuous。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-30): Quoting Georgi Gerganov; [Sponsor] Material Security; Continuous, Continuous, Continuous. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-30）\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n- HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n- https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-30)\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n- HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n- https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-30）\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n- Continuous, Continuous, Continuous\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n- https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-30)\n- Quoting Georgi Gerganov\n- [Sponsor] Material Security\n- Continuous, Continuous, Continuous\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything\n- https://material.security/lp-cloud-office-security?utm_source=third-party\u0026utm_medium=email\u0026utm_campaign=20260330-daringfireball\n- https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Georgi Gerganov；[Sponsor] Material Security；HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Georgi Gerganov; [Sponsor] Material Security; HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Georgi Gerganov；[Sponsor] Material Security；Continuous, Continuous, Continuous。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Georgi Gerganov; [Sponsor] Material Security; Continuous, Continuous, Continuous.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2241,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Quoting Donald Knuth；Google发布Gemini 3.1 Flash-Lite，输入$0.25/百万token，输出$1.5/百万token，支持四种思考级别，适合低成本AI应用；Apple更新Studio Display：12MP摄像头与Thunderbolt 5；推出旗舰Studio Display XDR，搭载mini-LED背光，支持2000尼特HDR与120Hz刷新率，起售价$3,299。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Quoting Donald Knuth; Google launches Gemini 3.1 Flash-Lite at $0.25M input / $1.5M output tokens, 1/8th the price of Pro, with four thinking levels for cost-effective AI; Apple refreshes Studio Display with 12MP camera \u0026 Thunderbolt 5; unveils flagship Studio Display XDR with"
-        }
-      }
-    },
-    {
-      "date": "2026-03-02",
-      "total": 21,
-      "feeds": [
-        "daringfireball.net (7)",
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Teaching Children to Bicycle",
-        "jeffgeerling.com · I built a pint-sized Macintosh",
-        "daringfireball.net · ChangeTheHeaders",
-        "devblogs.microsoft.com/oldnewthing · What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?",
-        "daringfireball.net · Welcome (Back) to Macintosh",
-        "daringfireball.net · SerpApi Filed Motion to Dismiss Google’s Lawsuit"
-      ],
-      "key_points": [
-        "从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代",
-        "使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%",
-        "Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性",
-        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?"
-      ],
-      "key_points_zh": [
-        "从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代",
-        "使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%",
-        "Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性",
-        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?"
-      ],
-      "key_points_en": [
-        "Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration",
-        "A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original",
-        "Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility",
-        "What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?"
-      ],
-      "tweet_drafts": [
-        "教孩子骑车隐喻技术演进：平衡训练如系统调优，辅助轮如CI/CD，独立骑行如灰度发布。安全与渐进是核心。链接：https://entropicthoughts.com/teaching-children-to-bicycle #DevOps #产品思维",
-        "袖珍Macintosh诞生！基于Pico，运行System 5.3，外设全兼容。硬件限制下的创新案例，开发者快来尝试。#嵌入式开发",
-        "Safari拖拽图片得WebP的坑，原来是Accept头里WebP和PNG优先级相同。ChangeTheHeaders扩展能修改请求头，强制返回所需格式，推荐开发者试试"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Teaching Children to Bicycle",
-          "link": "https://entropicthoughts.com/teaching-children-to-bicycle"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "I built a pint-sized Macintosh",
-          "link": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "ChangeTheHeaders: Fixing Image Format Issues by Modifying Request Headers",
-          "link": "https://underpassapp.com/news/2025/3/4.html"
-        }
-      ],
-      "summary_zh": "2026-03-02 技术日报：从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代；使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性。",
-      "summary_en": "Daily brief (2026-03-02): Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration; A Raspberry Pi Pico-based Macintosh r",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-02 日报】从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代；使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工",
-          "en": "AK-RSS Daily (2026-03-02): Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration; A Raspberry Pi Pico-based Macintosh"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-02）\n- 从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代\n- 使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%\n- Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/teaching-children-to-bicycle\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-02)\n- Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration\n- A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse support, and 208KB RAM—63% more than the original\n- Dragging images in Safari often yields WebP because the Accept header includes WebP with equal quality value, letting the server decide. The ChangeTheHeaders extension modifies headers to force PNG/JPEG for compatibility\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/teaching-children-to-bicycle\n- https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\n- https://underpassapp.com/news/2025/3/4.html\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：从教孩子骑自行车中，我们学到渐进式学习、安全优先和适应性指导，这些原则直接应用于系统设计、团队培训和产品迭代；使用Raspberry Pi Pico复刻经典Macintosh，支持VGA显示与USB键鼠，内存达208KB，比原版多63%；Safari拖拽图片常获WebP格式，因Accept请求头含WebP且质量值相同，服务器自主选择。使用ChangeTheHeaders扩展可修改请求头，强制返回PNG/JPEG以确保兼容性。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Teaching children to bicycle reveals principles of incremental learning, safety-first approaches, and adaptive guidance, directly applicable to system design, team training, and product iteration; A Raspberry Pi Pico-based Macintosh replica with VGA output, USB keyboard/mouse s"
         }
       }
     }
