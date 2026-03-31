@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-31 12:46:23 UTC
+Generated at: 2026-03-31 13:28:39 UTC
 
-- [Morse code tree](https://www.johndcook.com/blog/2026/03/31/morse-code-tree/) (`johndcook.com`)
+- [Solving Yesterday’s Problems Will Kill You](https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/) (`steveblank.com`)
