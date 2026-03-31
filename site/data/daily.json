@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T15:23:29Z",
+  "generated_at": "2026-03-31T15:51:25Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-03-31",
-      "total": 11,
+      "total": 13,
       "feeds": [
+        "daringfireball.net (2)",
         "johndcook.com (2)",
-        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
-        "pluralistic.net (1)",
-        "rakhim.exotext.com (1)"
+        "nesbitt.io (1)",
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Appointees to Trump’s Council of Advisors on Science and Technology",
         "daringfireball.net · Technical Analysis of the Android Version of the White House’s New App",
         "johndcook.com · Quantum Y2K",
         "steveblank.com · Solving Yesterday’s Problems Will Kill You",
         "johndcook.com · Morse code tree",
-        "dfarq.homeip.net · Quantum hard drives",
-        "pluralistic.net · Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)"
+        "dfarq.homeip.net · Quantum hard drives"
       ],
       "key_points": [
-        "Technical Analysis of the Android Version of the White House’s New App",
-        "Quantum Y2K",
-        "Solving Yesterday’s Problems Will Kill You",
-        "Morse code tree"
-      ],
-      "key_points_zh": [
-        "Technical Analysis of the Android Version of the White House’s New App",
-        "Quantum Y2K",
-        "Solving Yesterday’s Problems Will Kill You",
-        "Morse code tree"
-      ],
-      "key_points_en": [
-        "Technical Analysis of the Android Version of the White House’s New App",
-        "Quantum Y2K",
-        "Solving Yesterday’s Problems Will Kill You",
-        "Morse code tree"
-      ],
-      "tweet_drafts": [
+        "Appointees to Trump’s Council of Advisors on Science and Technology",
         "Technical Analysis of the Android Version of the White House’s New App",
         "Quantum Y2K",
         "Solving Yesterday’s Problems Will Kill You"
       ],
+      "key_points_zh": [
+        "Appointees to Trump’s Council of Advisors on Science and Technology",
+        "Technical Analysis of the Android Version of the White House’s New App",
+        "Quantum Y2K",
+        "Solving Yesterday’s Problems Will Kill You"
+      ],
+      "key_points_en": [
+        "Appointees to Trump’s Council of Advisors on Science and Technology",
+        "Technical Analysis of the Android Version of the White House’s New App",
+        "Quantum Y2K",
+        "Solving Yesterday’s Problems Will Kill You"
+      ],
+      "tweet_drafts": [
+        "Appointees to Trump’s Council of Advisors on Science and Technology",
+        "Technical Analysis of the Android Version of the White House’s New App",
+        "Quantum Y2K"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Appointees to Trump’s Council of Advisors on Science and Technology",
+          "link": "https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Technical Analysis of the Android Version of the White House’s New App",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "Quantum Y2K",
           "link": "https://www.johndcook.com/blog/2026/03/31/quantum-y2k/"
-        },
-        {
-          "feed_title": "steveblank.com",
-          "title": "Solving Yesterday’s Problems Will Kill You",
-          "link": "https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/"
         }
       ],
-      "summary_zh": "2026-03-31 技术日报：Technical Analysis of the Android Version of the White House’s New App；Quantum Y2K；Solving Yesterday’s Problems Will Kill You。",
-      "summary_en": "Daily brief (2026-03-31): Technical Analysis of the Android Version of the White House’s New App; Quantum Y2K; Solving Yesterday’s Problems Will Kill You.",
+      "summary_zh": "2026-03-31 技术日报：Appointees to Trump’s Council of Advisors on Science and Technology；Technical Analysis of the Android Version of the White House’s New App；Quantum Y2K。",
+      "summary_en": "Daily brief (2026-03-31): Appointees to Trump’s Council of Advisors on Science and Technology; Technical Analysis of the Android Version of the White House’s New App; Quantum Y2K.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-31 日报】Technical Analysis of the Android Version of the White House’s New App；Quantum Y2K；Solving Yesterday’s Problems Will Kill You。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-31): Technical Analysis of the Android Version of the White House’s New App; Quantum Y2K; Solving Yesterday’s Problems Will Kill You. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-31 日报】Appointees to Trump’s Council of Advisors on Science and Technology；Technical Analysis of the Android Version of the White House’s New App；Quantum Y2K。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-31): Appointees to Trump’s Council of Advisors on Science and Technology; Technical Analysis of the Android Version of the White House’s New App; Quantum Y2K. Actionable takeaways included. What would you ship next? #AI #Engineering #Buil"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-31）\n- Technical Analysis of the Android Version of the White House’s New App\n- Quantum Y2K\n- Solving Yesterday’s Problems Will Kill You\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.thereallo.dev/blog/decompiling-the-white-house-app\n- https://www.johndcook.com/blog/2026/03/31/quantum-y2k/\n- https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-31)\n- Technical Analysis of the Android Version of the White House’s New App\n- Quantum Y2K\n- Solving Yesterday’s Problems Will Kill You\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.thereallo.dev/blog/decompiling-the-white-house-app\n- https://www.johndcook.com/blog/2026/03/31/quantum-y2k/\n- https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-31）\n- Appointees to Trump’s Council of Advisors on Science and Technology\n- Technical Analysis of the Android Version of the White House’s New App\n- Quantum Y2K\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/\n- https://blog.thereallo.dev/blog/decompiling-the-white-house-app\n- https://www.johndcook.com/blog/2026/03/31/quantum-y2k/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-31)\n- Appointees to Trump’s Council of Advisors on Science and Technology\n- Technical Analysis of the Android Version of the White House’s New App\n- Quantum Y2K\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/\n- https://blog.thereallo.dev/blog/decompiling-the-white-house-app\n- https://www.johndcook.com/blog/2026/03/31/quantum-y2k/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Technical Analysis of the Android Version of the White House’s New App；Quantum Y2K；Solving Yesterday’s Problems Will Kill You。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Technical Analysis of the Android Version of the White House’s New App; Quantum Y2K; Solving Yesterday’s Problems Will Kill You.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Appointees to Trump’s Council of Advisors on Science and Technology；Technical Analysis of the Android Version of the White House’s New App；Quantum Y2K。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Appointees to Trump’s Council of Advisors on Science and Technology; Technical Analysis of the Android Version of the White House’s New App; Quantum Y2K.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

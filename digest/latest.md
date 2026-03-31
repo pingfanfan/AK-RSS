@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-31 15:22:55 UTC
+Generated at: 2026-03-31 15:51:11 UTC
 
-- [Technical Analysis of the Android Version of the White House’s New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app) (`daringfireball.net`)
-- [Quantum Y2K](https://www.johndcook.com/blog/2026/03/31/quantum-y2k/) (`johndcook.com`)
+- [Appointees to Trump’s Council of Advisors on Science and Technology](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) (`daringfireball.net`)
+- [npm’s Defaults Are Bad](https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html) (`nesbitt.io`)
