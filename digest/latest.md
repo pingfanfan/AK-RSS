@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-03-31 10:45:33 UTC
+Generated at: 2026-03-31 11:15:55 UTC
 
-- [Making human languages irrelevant](https://rakhim.exotext.com/making-human-languages-irrelevant) (`rakhim.exotext.com`)
+- [Quantum hard drives](https://dfarq.homeip.net/quantum-hard-drives/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-hard-drives) (`dfarq.homeip.net`)
