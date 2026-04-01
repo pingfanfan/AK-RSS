@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T15:55:42Z",
+  "generated_at": "2026-04-01T16:17:36Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-04-01",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "johndcook.com (2)",
         "daringfireball.net (1)",
@@ -58,37 +58,42 @@
         "idiallo.com (1)"
       ],
       "highlights": [
+        "terriblesoftware.org · Say the Thing You Want",
         "devblogs.microsoft.com/oldnewthing · The cover of C++: The Programming Language raises questions not answered by the cover",
         "johndcook.com · Pentagonal numbers are truncated triangular numbers",
         "johndcook.com · Pentagonal numbers are truncated triangular numbers",
         "idiallo.com · What is Copilot exactly?",
-        "shkspr.mobi · Random File Format",
-        "dfarq.homeip.net · How Tandy bought Radio Shack"
+        "shkspr.mobi · Random File Format"
       ],
       "key_points": [
-        "The cover of C++: The Programming Language raises questions not answered by the cover",
-        "Pentagonal numbers are truncated triangular numbers",
-        "What is Copilot exactly?",
-        "Random File Format"
-      ],
-      "key_points_zh": [
-        "The cover of C++: The Programming Language raises questions not answered by the cover",
-        "Pentagonal numbers are truncated triangular numbers",
-        "What is Copilot exactly?",
-        "Random File Format"
-      ],
-      "key_points_en": [
-        "The cover of C++: The Programming Language raises questions not answered by the cover",
-        "Pentagonal numbers are truncated triangular numbers",
-        "What is Copilot exactly?",
-        "Random File Format"
-      ],
-      "tweet_drafts": [
+        "Say the Thing You Want",
         "The cover of C++: The Programming Language raises questions not answered by the cover",
         "Pentagonal numbers are truncated triangular numbers",
         "What is Copilot exactly?"
       ],
+      "key_points_zh": [
+        "Say the Thing You Want",
+        "The cover of C++: The Programming Language raises questions not answered by the cover",
+        "Pentagonal numbers are truncated triangular numbers",
+        "What is Copilot exactly?"
+      ],
+      "key_points_en": [
+        "Say the Thing You Want",
+        "The cover of C++: The Programming Language raises questions not answered by the cover",
+        "Pentagonal numbers are truncated triangular numbers",
+        "What is Copilot exactly?"
+      ],
+      "tweet_drafts": [
+        "Say the Thing You Want",
+        "The cover of C++: The Programming Language raises questions not answered by the cover",
+        "Pentagonal numbers are truncated triangular numbers"
+      ],
       "sources": [
+        {
+          "feed_title": "terriblesoftware.org",
+          "title": "Say the Thing You Want",
+          "link": "https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/"
+        },
         {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "The cover of C++: The Programming Language raises questions not answered by the cover",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "Pentagonal numbers are truncated triangular numbers",
           "link": "https://www.johndcook.com/blog/2026/04/01/pentagonal-numbers-are-truncated-triangular-numbers/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Pentagonal numbers are truncated triangular numbers",
-          "link": "https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/"
         }
       ],
-      "summary_zh": "2026-04-01 技术日报：The cover of C++: The Programming Language raises questions not answered by the cover；Pentagonal numbers are truncated triangular numbers；What is Copilot exactly?。",
-      "summary_en": "Daily brief (2026-04-01): The cover of C++: The Programming Language raises questions not answered by the cover; Pentagonal numbers are truncated triangular numbers; What is Copilot exactly?.",
+      "summary_zh": "2026-04-01 技术日报：Say the Thing You Want；The cover of C++: The Programming Language raises questions not answered by the cover；Pentagonal numbers are truncated triangular numbers。",
+      "summary_en": "Daily brief (2026-04-01): Say the Thing You Want; The cover of C++: The Programming Language raises questions not answered by the cover; Pentagonal numbers are truncated triangular numbers.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-01 日报】The cover of C++: The Programming Language raises questions not answered by the cover；Pentagonal numbers are truncated triangular numbers；What is Copilot exactly?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-01): The cover of C++: The Programming Language raises questions not answered by the cover; Pentagonal numbers are truncated triangular numbers; What is Copilot exactly?. Actionable takeaways included. What would you ship next? #AI #Engin"
+          "zh": "【2026-04-01 日报】Say the Thing You Want；The cover of C++: The Programming Language raises questions not answered by the cover；Pentagonal numbers are truncated triangular numbers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-01): Say the Thing You Want; The cover of C++: The Programming Language raises questions not answered by the cover; Pentagonal numbers are truncated triangular numbers. Actionable takeaways included. What would you ship next? #AI #Enginee"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-01）\n- The cover of C++: The Programming Language raises questions not answered by the cover\n- Pentagonal numbers are truncated triangular numbers\n- What is Copilot exactly?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180\n- https://www.johndcook.com/blog/2026/04/01/pentagonal-numbers-are-truncated-triangular-numbers/\n- https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-01)\n- The cover of C++: The Programming Language raises questions not answered by the cover\n- Pentagonal numbers are truncated triangular numbers\n- What is Copilot exactly?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180\n- https://www.johndcook.com/blog/2026/04/01/pentagonal-numbers-are-truncated-triangular-numbers/\n- https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-01）\n- Say the Thing You Want\n- The cover of C++: The Programming Language raises questions not answered by the cover\n- Pentagonal numbers are truncated triangular numbers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/\n- https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180\n- https://www.johndcook.com/blog/2026/04/01/pentagonal-numbers-are-truncated-triangular-numbers/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-01)\n- Say the Thing You Want\n- The cover of C++: The Programming Language raises questions not answered by the cover\n- Pentagonal numbers are truncated triangular numbers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/\n- https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180\n- https://www.johndcook.com/blog/2026/04/01/pentagonal-numbers-are-truncated-triangular-numbers/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The cover of C++: The Programming Language raises questions not answered by the cover；Pentagonal numbers are truncated triangular numbers；What is Copilot exactly?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The cover of C++: The Programming Language raises questions not answered by the cover; Pentagonal numbers are truncated triangular numbers; What is Copilot exactly?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Say the Thing You Want；The cover of C++: The Programming Language raises questions not answered by the cover；Pentagonal numbers are truncated triangular numbers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Say the Thing You Want; The cover of C++: The Programming Language raises questions not answered by the cover; Pentagonal numbers are truncated triangular numbers.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
