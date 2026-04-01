@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-01 16:17:01 UTC
+Generated at: 2026-04-01 16:45:19 UTC
 
-- [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) (`terriblesoftware.org`)
+- [Apple Marks 50th Anniversary](https://www.apple.com/) (`daringfireball.net`)
+- [Coding agents as the new compilers](https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/) (`anildash.com`)
