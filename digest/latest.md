@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-01 20:43:58 UTC
+Generated at: 2026-04-01 21:12:08 UTC
 
-- [More on Apple’s Fun ‘Rewind’ Video](https://hachyderm.io/@lexfri/116331181693278195) (`daringfireball.net`)
+- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) (`jeffgeerling.com`)
