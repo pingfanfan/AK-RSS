@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-01 12:11:20 UTC
+Generated at: 2026-04-01 12:46:28 UTC
 
-- [What is Copilot exactly?](https://idiallo.com/blog/what-is-copilot-exactly?src=feed) (`idiallo.com`)
