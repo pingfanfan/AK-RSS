@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-01 19:22:02 UTC
+Generated at: 2026-04-01 19:47:42 UTC
 
-- [Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade](https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade) (`daringfireball.net`)
+- [Ryan D’Agostino Profiles Tim Cook for Esquire on Apple’s 50th](https://www.esquire.com/news-politics/a70886045/apple-50th-anniversary/) (`daringfireball.net`)
