@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T11:45:53Z",
+  "generated_at": "2026-04-01T12:11:33Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-01",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
+        "idiallo.com (1)",
         "joanwestenberg.com (1)",
-        "maurycyz.com (1)",
-        "oldvcr.blogspot.com (1)"
+        "maurycyz.com (1)"
       ],
       "highlights": [
+        "idiallo.com · What is Copilot exactly?",
         "shkspr.mobi · Random File Format",
         "dfarq.homeip.net · How Tandy bought Radio Shack",
         "pluralistic.net · Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
         "simonwillison.net · datasette-extract 0.3a0",
-        "oldvcr.blogspot.com · Mini-review: David Pogue's Apple: The First 50 Years",
-        "tedium.co · Wayne’s World"
+        "oldvcr.blogspot.com · Mini-review: David Pogue's Apple: The First 50 Years"
       ],
       "key_points": [
-        "Random File Format",
-        "How Tandy bought Radio Shack",
-        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
-        "datasette-extract 0.3a0"
-      ],
-      "key_points_zh": [
-        "Random File Format",
-        "How Tandy bought Radio Shack",
-        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
-        "datasette-extract 0.3a0"
-      ],
-      "key_points_en": [
-        "Random File Format",
-        "How Tandy bought Radio Shack",
-        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
-        "datasette-extract 0.3a0"
-      ],
-      "tweet_drafts": [
+        "What is Copilot exactly?",
         "Random File Format",
         "How Tandy bought Radio Shack",
         "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)"
       ],
+      "key_points_zh": [
+        "What is Copilot exactly?",
+        "Random File Format",
+        "How Tandy bought Radio Shack",
+        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)"
+      ],
+      "key_points_en": [
+        "What is Copilot exactly?",
+        "Random File Format",
+        "How Tandy bought Radio Shack",
+        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)"
+      ],
+      "tweet_drafts": [
+        "What is Copilot exactly?",
+        "Random File Format",
+        "How Tandy bought Radio Shack"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "What is Copilot exactly?",
+          "link": "https://idiallo.com/blog/what-is-copilot-exactly?src=feed"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Random File Format",
@@ -98,27 +103,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "How Tandy bought Radio Shack",
           "link": "https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
-          "link": "https://pluralistic.net/2026/04/01/minilateralism/"
         }
       ],
-      "summary_zh": "2026-04-01 技术日报：Random File Format；How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)。",
-      "summary_en": "Daily brief (2026-04-01): Random File Format; How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026).",
+      "summary_zh": "2026-04-01 技术日报：What is Copilot exactly?；Random File Format；How Tandy bought Radio Shack。",
+      "summary_en": "Daily brief (2026-04-01): What is Copilot exactly?; Random File Format; How Tandy bought Radio Shack.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-01 日报】Random File Format；How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-01): Random File Format; How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-01 日报】What is Copilot exactly?；Random File Format；How Tandy bought Radio Shack。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-01): What is Copilot exactly?; Random File Format; How Tandy bought Radio Shack. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-01）\n- Random File Format\n- How Tandy bought Radio Shack\n- Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/random-file-format/\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n- https://pluralistic.net/2026/04/01/minilateralism/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-01)\n- Random File Format\n- How Tandy bought Radio Shack\n- Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/random-file-format/\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n- https://pluralistic.net/2026/04/01/minilateralism/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-01）\n- What is Copilot exactly?\n- Random File Format\n- How Tandy bought Radio Shack\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/what-is-copilot-exactly?src=feed\n- https://shkspr.mobi/blog/2026/04/random-file-format/\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-01)\n- What is Copilot exactly?\n- Random File Format\n- How Tandy bought Radio Shack\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/what-is-copilot-exactly?src=feed\n- https://shkspr.mobi/blog/2026/04/random-file-format/\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Random File Format；How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Random File Format; How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What is Copilot exactly?；Random File Format；How Tandy bought Radio Shack。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What is Copilot exactly?; Random File Format; How Tandy bought Radio Shack.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
