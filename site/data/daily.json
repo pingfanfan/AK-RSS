@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T11:17:51Z",
+  "generated_at": "2026-04-01T11:45:53Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-04-01",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
@@ -58,37 +58,42 @@
         "oldvcr.blogspot.com (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Random File Format",
         "dfarq.homeip.net · How Tandy bought Radio Shack",
         "pluralistic.net · Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
         "simonwillison.net · datasette-extract 0.3a0",
         "oldvcr.blogspot.com · Mini-review: David Pogue's Apple: The First 50 Years",
-        "tedium.co · Wayne’s World",
-        "eli.thegreenplace.net · Summary of reading: January - March 2026"
+        "tedium.co · Wayne’s World"
       ],
       "key_points": [
-        "How Tandy bought Radio Shack",
-        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
-        "datasette-extract 0.3a0",
-        "Mini-review: David Pogue's Apple: The First 50 Years"
-      ],
-      "key_points_zh": [
-        "How Tandy bought Radio Shack",
-        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
-        "datasette-extract 0.3a0",
-        "Mini-review: David Pogue's Apple: The First 50 Years"
-      ],
-      "key_points_en": [
-        "How Tandy bought Radio Shack",
-        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
-        "datasette-extract 0.3a0",
-        "Mini-review: David Pogue's Apple: The First 50 Years"
-      ],
-      "tweet_drafts": [
+        "Random File Format",
         "How Tandy bought Radio Shack",
         "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
         "datasette-extract 0.3a0"
       ],
+      "key_points_zh": [
+        "Random File Format",
+        "How Tandy bought Radio Shack",
+        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
+        "datasette-extract 0.3a0"
+      ],
+      "key_points_en": [
+        "Random File Format",
+        "How Tandy bought Radio Shack",
+        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
+        "datasette-extract 0.3a0"
+      ],
+      "tweet_drafts": [
+        "Random File Format",
+        "How Tandy bought Radio Shack",
+        "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Random File Format",
+          "link": "https://shkspr.mobi/blog/2026/04/random-file-format/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "How Tandy bought Radio Shack",
@@ -98,27 +103,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)",
           "link": "https://pluralistic.net/2026/04/01/minilateralism/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "datasette-extract 0.3a0",
-          "link": "https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-01 技术日报：How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)；datasette-extract 0.3a0。",
-      "summary_en": "Daily brief (2026-04-01): How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026); datasette-extract 0.3a0.",
+      "summary_zh": "2026-04-01 技术日报：Random File Format；How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)。",
+      "summary_en": "Daily brief (2026-04-01): Random File Format; How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-01 日报】How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)；datasette-extract 0.3a0。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-01): How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026); datasette-extract 0.3a0. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-01 日报】Random File Format；How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-01): Random File Format; How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-01）\n- How Tandy bought Radio Shack\n- Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)\n- datasette-extract 0.3a0\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n- https://pluralistic.net/2026/04/01/minilateralism/\n- https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-01)\n- How Tandy bought Radio Shack\n- Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)\n- datasette-extract 0.3a0\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n- https://pluralistic.net/2026/04/01/minilateralism/\n- https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-01）\n- Random File Format\n- How Tandy bought Radio Shack\n- Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/random-file-format/\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n- https://pluralistic.net/2026/04/01/minilateralism/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-01)\n- Random File Format\n- How Tandy bought Radio Shack\n- Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/random-file-format/\n- https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-tandy-bought-radio-shack\n- https://pluralistic.net/2026/04/01/minilateralism/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)；datasette-extract 0.3a0。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026); datasette-extract 0.3a0.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Random File Format；How Tandy bought Radio Shack；Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Random File Format; How Tandy bought Radio Shack; Pluralistic: Trumpismo vs minilateralism (01 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

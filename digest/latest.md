@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-01 11:17:36 UTC
+Generated at: 2026-04-01 11:45:17 UTC
 
-- [Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)](https://pluralistic.net/2026/04/01/minilateralism/) (`pluralistic.net`)
-- [How Tandy bought Radio Shack](https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss&utm_medium=rss&utm_campaign=how-tandy-bought-radio-shack) (`dfarq.homeip.net`)
+- [Random File Format](https://shkspr.mobi/blog/2026/04/random-file-format/) (`shkspr.mobi`)
