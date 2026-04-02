@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T10:45:42Z",
+  "generated_at": "2026-04-02T11:15:20Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-02",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
         "miguelgrinberg.com (1)",
         "pluralistic.net (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Thomas Rattigan, short-lived Commodore CEO",
         "pluralistic.net · Pluralistic: It's extremely good that Claude's source-code leaked (02 Apr 2026)",
         "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
         "simonwillison.net · March 2026 sponsors-only newsletter",
         "utcc.utoronto.ca/~cks · I should use argument groups in Python's argparse module more than I do",
-        "joanwestenberg.com · Time is a User-Interface",
-        "daringfireball.net · Chris Espinosa, Employee #8, Profiled in The New York Times"
+        "joanwestenberg.com · Time is a User-Interface"
       ],
       "key_points": [
+        "Thomas Rattigan, short-lived Commodore CEO",
         "Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态",
-        "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
-        "March 2026 sponsors-only newsletter",
-        "I should use argument groups in Python's argparse module more than I do"
-      ],
-      "key_points_zh": [
-        "Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态",
-        "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
-        "March 2026 sponsors-only newsletter",
-        "I should use argument groups in Python's argparse module more than I do"
-      ],
-      "key_points_en": [
-        "Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem",
-        "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
-        "March 2026 sponsors-only newsletter",
-        "I should use argument groups in Python's argparse module more than I do"
-      ],
-      "tweet_drafts": [
-        "Anthropic的闭源模式被自己的代码泄露反噬。这证明：真正的安全来自透明，而非隐藏。开发者应抓住机会，研究代码、支持开源模型，并拒绝黑盒AI。#AI安全 #开源革命",
         "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
         "March 2026 sponsors-only newsletter"
       ],
+      "key_points_zh": [
+        "Thomas Rattigan, short-lived Commodore CEO",
+        "Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态",
+        "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
+        "March 2026 sponsors-only newsletter"
+      ],
+      "key_points_en": [
+        "Thomas Rattigan, short-lived Commodore CEO",
+        "Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem",
+        "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
+        "March 2026 sponsors-only newsletter"
+      ],
+      "tweet_drafts": [
+        "Thomas Rattigan, short-lived Commodore CEO",
+        "Anthropic的闭源模式被自己的代码泄露反噬。这证明：真正的安全来自透明，而非隐藏。开发者应抓住机会，研究代码、支持开源模型，并拒绝黑盒AI。#AI安全 #开源革命",
+        "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships"
+      ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Thomas Rattigan, short-lived Commodore CEO",
+          "link": "https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=thomas-rattigan-short-lived-commodore-ceo"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "It's Extremely Good That Claude's Source-Code Leaked",
@@ -98,27 +103,22 @@
           "feed_title": "miguelgrinberg.com",
           "title": "SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships",
           "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "March 2026 sponsors-only newsletter",
-          "link": "https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-02 技术日报：Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态；SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships；March 2026 sponsors-only newsletter。",
-      "summary_en": "Daily brief (2026-04-02): Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem; SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships; March",
+      "summary_zh": "2026-04-02 技术日报：Thomas Rattigan, short-lived Commodore CEO；Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态；SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships。",
+      "summary_en": "Daily brief (2026-04-02): Thomas Rattigan, short-lived Commodore CEO; Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem; SQLAlchemy 2 In Practice - C",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-02 日报】Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态；SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships；March 2026 sponsors-only newsletter。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-02): Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem; SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships; March"
+          "zh": "【2026-04-02 日报】Thomas Rattigan, short-lived Commodore CEO；Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态；SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-02): Thomas Rattigan, short-lived Commodore CEO; Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem; SQLAlchemy 2 In Practice -"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-02）\n- Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态\n- SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships\n- March 2026 sponsors-only newsletter\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/02/limited-monopoly/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships\n- https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-02)\n- Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem\n- SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships\n- March 2026 sponsors-only newsletter\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/02/limited-monopoly/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships\n- https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-02）\n- Thomas Rattigan, short-lived Commodore CEO\n- Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态\n- SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=thomas-rattigan-short-lived-commodore-ceo\n- https://pluralistic.net/2026/04/02/limited-monopoly/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-02)\n- Thomas Rattigan, short-lived Commodore CEO\n- Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem\n- SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=thomas-rattigan-short-lived-commodore-ceo\n- https://pluralistic.net/2026/04/02/limited-monopoly/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态；SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships；March 2026 sponsors-only newsletter。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem; SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships; March 2026 sponsors-only newsletter.\nI turned them"
+          "zh": "今天最值得看的 3 个点：Thomas Rattigan, short-lived Commodore CEO；Anthropic Claude代码泄露打破了AI闭源垄断，让社区能审计安全漏洞、研究架构，并推动更健康的AI竞争生态；SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Thomas Rattigan, short-lived Commodore CEO; Anthropic's Claude code leak shatters AI's closed-source monopoly, enabling community security audits, architecture study, and a healthier competitive ecosystem; SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships.\nI turn"
         }
       }
     },
