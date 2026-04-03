@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-03 11:42:35 UTC
+Generated at: 2026-04-03 12:06:20 UTC
 
-- [Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪](https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/) (`shkspr.mobi`)
-- [AMD K6 released April 2, 1997](https://dfarq.homeip.net/amd-k6-released-april-2-1997/?utm_source=rss&utm_medium=rss&utm_campaign=amd-k6-released-april-2-1997) (`dfarq.homeip.net`)
+- [Zipbombs are not as effective as they used to be](https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed) (`idiallo.com`)
