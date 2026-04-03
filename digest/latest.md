@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-03 21:42:46 UTC
+Generated at: 2026-04-03 22:04:37 UTC
 
-- [Premium: AI Isn't Too Big To Fail](https://www.wheresyoured.at/premium-ai-isnt-too-big-to-fail/) (`wheresyoured.at`)
+- [Quoting Willy Tarreau](https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything) (`simonwillison.net`)
