@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-03 22:04:37 UTC
+Generated at: 2026-04-03 22:42:27 UTC
 
-- [Quoting Willy Tarreau](https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything) (`simonwillison.net`)
+- [Loading... [13 kB]](https://maurycyz.com/misc/13kb/) (`maurycyz.com`)
