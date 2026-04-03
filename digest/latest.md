@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-03 11:12:42 UTC
+Generated at: 2026-04-03 11:42:35 UTC
 
-- [Package Manager Easter Eggs](https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html) (`nesbitt.io`)
+- [Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪](https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/) (`shkspr.mobi`)
+- [AMD K6 released April 2, 1997](https://dfarq.homeip.net/amd-k6-released-april-2-1997/?utm_source=rss&utm_medium=rss&utm_campaign=amd-k6-released-april-2-1997) (`dfarq.homeip.net`)
