@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T10:43:54Z",
+  "generated_at": "2026-04-03T11:12:55Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-04-03",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
+        "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Package Manager Easter Eggs",
         "joanwestenberg.com · The \"Passive Income\" trap ate a generation of entrepreneurs",
         "tedium.co · Em Dashes: Back In Style?",
         "utcc.utoronto.ca/~cks · Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
@@ -64,29 +66,34 @@
         "seangoedecke.com · Programming (with AI agents) as theory building"
       ],
       "key_points": [
-        "The \"Passive Income\" trap ate a generation of entrepreneurs",
-        "Em Dashes: Back In Style?",
-        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
-        "Hyperbolic version of Napier’s mnemonic"
-      ],
-      "key_points_zh": [
-        "The \"Passive Income\" trap ate a generation of entrepreneurs",
-        "Em Dashes: Back In Style?",
-        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
-        "Hyperbolic version of Napier’s mnemonic"
-      ],
-      "key_points_en": [
-        "The \"Passive Income\" trap ate a generation of entrepreneurs",
-        "Em Dashes: Back In Style?",
-        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
-        "Hyperbolic version of Napier’s mnemonic"
-      ],
-      "tweet_drafts": [
+        "Package Manager Easter Eggs",
         "The \"Passive Income\" trap ate a generation of entrepreneurs",
         "Em Dashes: Back In Style?",
         "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice"
       ],
+      "key_points_zh": [
+        "Package Manager Easter Eggs",
+        "The \"Passive Income\" trap ate a generation of entrepreneurs",
+        "Em Dashes: Back In Style?",
+        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice"
+      ],
+      "key_points_en": [
+        "Package Manager Easter Eggs",
+        "The \"Passive Income\" trap ate a generation of entrepreneurs",
+        "Em Dashes: Back In Style?",
+        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice"
+      ],
+      "tweet_drafts": [
+        "Package Manager Easter Eggs",
+        "The \"Passive Income\" trap ate a generation of entrepreneurs",
+        "Em Dashes: Back In Style?"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Manager Easter Eggs",
+          "link": "https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html"
+        },
         {
           "feed_title": "joanwestenberg.com",
           "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
@@ -96,27 +103,22 @@
           "feed_title": "tedium.co",
           "title": "Em Dashes: Back In Style?",
           "link": "https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice"
         }
       ],
-      "summary_zh": "2026-04-03 技术日报：The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice。",
-      "summary_en": "Daily brief (2026-04-03): The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice.",
+      "summary_zh": "2026-04-03 技术日报：Package Manager Easter Eggs；The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?。",
+      "summary_en": "Daily brief (2026-04-03): Package Manager Easter Eggs; The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-03 日报】The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-03): The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice. Actionable takeaways included. What would you ship next? #AI #Engineering #B"
+          "zh": "【2026-04-03 日报】Package Manager Easter Eggs；The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-03): Package Manager Easter Eggs; The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-03）\n- The \"Passive Income\" trap ate a generation of entrepreneurs\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-03)\n- The \"Passive Income\" trap ate a generation of entrepreneurs\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-03）\n- Package Manager Easter Eggs\n- The \"Passive Income\" trap ate a generation of entrepreneurs\n- Em Dashes: Back In Style?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html\n- https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-03)\n- Package Manager Easter Eggs\n- The \"Passive Income\" trap ate a generation of entrepreneurs\n- Em Dashes: Back In Style?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html\n- https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Package Manager Easter Eggs；The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Package Manager Easter Eggs; The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
