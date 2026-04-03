@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T06:21:58Z",
+  "generated_at": "2026-04-03T06:51:12Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,38 +48,48 @@
     },
     {
       "date": "2026-04-03",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "joanwestenberg.com (1)",
         "johndcook.com (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "joanwestenberg.com · The \"Passive Income\" trap ate a generation of entrepreneurs",
         "tedium.co · Em Dashes: Back In Style?",
         "utcc.utoronto.ca/~cks · Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
         "johndcook.com · Hyperbolic version of Napier’s mnemonic"
       ],
       "key_points": [
+        "The \"Passive Income\" trap ate a generation of entrepreneurs",
         "Em Dashes: Back In Style?",
         "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
         "Hyperbolic version of Napier’s mnemonic"
       ],
       "key_points_zh": [
+        "The \"Passive Income\" trap ate a generation of entrepreneurs",
         "Em Dashes: Back In Style?",
         "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
         "Hyperbolic version of Napier’s mnemonic"
       ],
       "key_points_en": [
+        "The \"Passive Income\" trap ate a generation of entrepreneurs",
         "Em Dashes: Back In Style?",
         "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
         "Hyperbolic version of Napier’s mnemonic"
       ],
       "tweet_drafts": [
+        "The \"Passive Income\" trap ate a generation of entrepreneurs",
         "Em Dashes: Back In Style?",
-        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
-        "Hyperbolic version of Napier’s mnemonic"
+        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice"
       ],
       "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+          "link": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/"
+        },
         {
           "feed_title": "tedium.co",
           "title": "Em Dashes: Back In Style?",
@@ -89,27 +99,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Hyperbolic version of Napier’s mnemonic",
-          "link": "https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/"
         }
       ],
-      "summary_zh": "2026-04-03 技术日报：Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice；Hyperbolic version of Napier’s mnemonic。",
-      "summary_en": "Daily brief (2026-04-03): Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice; Hyperbolic version of Napier’s mnemonic.",
+      "summary_zh": "2026-04-03 技术日报：The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice。",
+      "summary_en": "Daily brief (2026-04-03): The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-03 日报】Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice；Hyperbolic version of Napier’s mnemonic。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-03): Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice; Hyperbolic version of Napier’s mnemonic. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-03 日报】The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-03): The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice. Actionable takeaways included. What would you ship next? #AI #Engineering #B"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-03）\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n- Hyperbolic version of Napier’s mnemonic\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n- https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-03)\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n- Hyperbolic version of Napier’s mnemonic\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n- https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-03）\n- The \"Passive Income\" trap ate a generation of entrepreneurs\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-03)\n- The \"Passive Income\" trap ate a generation of entrepreneurs\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice；Hyperbolic version of Napier’s mnemonic。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice; Hyperbolic version of Napier’s mnemonic.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The \"Passive Income\" trap ate a generation of entrepreneurs；Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The \"Passive Income\" trap ate a generation of entrepreneurs; Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
