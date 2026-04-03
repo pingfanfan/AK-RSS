@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-03 14:12:56 UTC
+Generated at: 2026-04-03 14:43:52 UTC
 
-- [The Axios supply chain attack used individually targeted social engineering](https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything) (`simonwillison.net`)
+- [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) (`jeffgeerling.com`)
