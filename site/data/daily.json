@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T22:42:13Z",
+  "generated_at": "2026-04-03T06:21:58Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,8 +47,75 @@
       }
     },
     {
+      "date": "2026-04-03",
+      "total": 3,
+      "feeds": [
+        "johndcook.com (1)",
+        "tedium.co (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "tedium.co · Em Dashes: Back In Style?",
+        "utcc.utoronto.ca/~cks · Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
+        "johndcook.com · Hyperbolic version of Napier’s mnemonic"
+      ],
+      "key_points": [
+        "Em Dashes: Back In Style?",
+        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
+        "Hyperbolic version of Napier’s mnemonic"
+      ],
+      "key_points_zh": [
+        "Em Dashes: Back In Style?",
+        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
+        "Hyperbolic version of Napier’s mnemonic"
+      ],
+      "key_points_en": [
+        "Em Dashes: Back In Style?",
+        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
+        "Hyperbolic version of Napier’s mnemonic"
+      ],
+      "tweet_drafts": [
+        "Em Dashes: Back In Style?",
+        "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
+        "Hyperbolic version of Napier’s mnemonic"
+      ],
+      "sources": [
+        {
+          "feed_title": "tedium.co",
+          "title": "Em Dashes: Back In Style?",
+          "link": "https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Hyperbolic version of Napier’s mnemonic",
+          "link": "https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/"
+        }
+      ],
+      "summary_zh": "2026-04-03 技术日报：Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice；Hyperbolic version of Napier’s mnemonic。",
+      "summary_en": "Daily brief (2026-04-03): Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice; Hyperbolic version of Napier’s mnemonic.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-03 日报】Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice；Hyperbolic version of Napier’s mnemonic。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-03): Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice; Hyperbolic version of Napier’s mnemonic. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-03）\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n- Hyperbolic version of Napier’s mnemonic\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n- https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-03)\n- Em Dashes: Back In Style?\n- Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice\n- Hyperbolic version of Napier’s mnemonic\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor\n- https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice\n- https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Em Dashes: Back In Style?；Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice；Hyperbolic version of Napier’s mnemonic。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Em Dashes: Back In Style?; Using '\u003ccode\u003epkg\u003c/code\u003e' for everything on FreeBSD 15 has been nice; Hyperbolic version of Napier’s mnemonic.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-04-02",
-      "total": 23,
+      "total": 24,
       "feeds": [
         "daringfireball.net (9)",
         "simonwillison.net (3)",
@@ -2169,82 +2236,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：知名科技博客Daring Fireball开放下周及未来几周赞助位，适合面向高质量设计爱好者的产品推广；通过分角色提问揭示技术债务、流程风险和业务影响；名为 Coruna 的 iOS 漏洞利用工具包包含 23 个漏洞利用，影响 iOS 13-17.2.1，已被监控软件商、俄间谍组织及中国黑客多次使用，揭示活跃的零日漏洞二手市场。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Daring Fireball opens sponsorship slots for next week and beyond, ideal for products targeting audiences obsessed with high quality and design; Reveal technical debt, process risks, and business impact through role-specific questions; The 'Coruna' iOS exploit kit, with 23 explo"
-        }
-      }
-    },
-    {
-      "date": "2026-03-05",
-      "total": 10,
-      "feeds": [
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "lucumr.pocoo.org (1)",
-        "matklad.github.io (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’",
-        "pluralistic.net · Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction",
-        "simonwillison.net · Can coding agents relicense open source through a “clean room” implementation of code?",
-        "devblogs.microsoft.com/oldnewthing · The mystery of the posted message that was dispatched before reaching the main message loop",
-        "shkspr.mobi · Book Review: Katabasis by R. F. Kuang ★★★★⯪",
-        "dfarq.homeip.net · Remembering the Michelangelo virus"
-      ],
-      "key_points": [
-        "乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验",
-        "本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会",
-        "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "发布的消息可能在主消息循环启动前就被处理，通常因准备工作中的隐式消息泵（如DDE/COM调用）触发。解决方案：推迟PostMessage，确保所有初始化完成后再发送"
-      ],
-      "key_points_zh": [
-        "乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验",
-        "本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会",
-        "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "发布的消息可能在主消息循环启动前就被处理，通常因准备工作中的隐式消息泵（如DDE/COM调用）触发。解决方案：推迟PostMessage，确保所有初始化完成后再发送"
-      ],
-      "key_points_en": [
-        "Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume",
-        "Using Twitter/X's turmoil as a case study, this article explains how crises force systemic change, urging developers to mitigate platform risks and seize decentralized opportunities",
-        "Can coding agents relicense open source through a “clean room” implementation of code?",
-        "Posted messages can be dispatched before the main message loop starts, often triggered by implicit message pumps in preparatory work (e.g., DDE/COM calls). Fix: Delay PostMessage until all initialization is complete"
-      ],
-      "tweet_drafts": [
-        "“我们绝不能推出垃圾产品。”——乔布斯2007年。苹果用20年证明：坚持质量底线，才能赢得长期忠诚。对技术团队的启示：拒绝低质交付，哪怕会慢一点。#工程文化",
-        "平台动荡即变革信号。Musk的X被'炙烤'后，欧盟DSA与Fediverse崛起。开发者：立即 diversify 依赖，实验去中心化协议，避免成为下一个温水青蛙。#平台风险 #开发者",
-        "Can coding agents relicense open source through a “clean room” implementation of code?"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Steve Jobs in 2007 on PC Market Share: 'We Just Can't Ship Junk'",
-          "link": "https://www.youtube.com/watch?v=U37Ds3RvyoM"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Blowtorching the Frog: How Crises Drive Tech Transformation",
-          "link": "https://pluralistic.net/2026/03/05/executive-dysfunction/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Can coding agents relicense open source through a “clean room” implementation of code?",
-          "link": "https://simonwillison.net/2026/Mar/5/chardet/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-03-05 技术日报：乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验；本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会；Can coding agents relicense open source through a “clean room” implementation of code?。",
-      "summary_en": "Daily brief (2026-03-05): Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume; Using Twitter/X's turmoi",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-05 日报】乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验；本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会；Can coding agents relicense open source through a “clean room” implementation of code?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI",
-          "en": "AK-RSS Daily (2026-03-05): Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume; Using Twitter/X's turmo"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-05）\n- 乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验\n- 本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会\n- Can coding agents relicense open source through a “clean room” implementation of code?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.youtube.com/watch?v=U37Ds3RvyoM\n- https://pluralistic.net/2026/03/05/executive-dysfunction/\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-05)\n- Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume\n- Using Twitter/X's turmoil as a case study, this article explains how crises force systemic change, urging developers to mitigate platform risks and seize decentralized opportunities\n- Can coding agents relicense open source through a “clean room” implementation of code?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.youtube.com/watch?v=U37Ds3RvyoM\n- https://pluralistic.net/2026/03/05/executive-dysfunction/\n- https://simonwillison.net/2026/Mar/5/chardet/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：乔布斯2007年明确苹果核心战略：不以市场份额为目标，而是坚持‘不推出垃圾产品’的底线。这种产品哲学驱动了苹果后来的垂直整合，如自研M系列芯片，确保质量与体验；本文通过Twitter/X案例，阐述危机如何迫使系统变革，提醒开发者警惕平台风险，拥抱去中心化机会；Can coding agents relicense open source through a “clean room” implementation of code?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Jobs’ 2007 stance: Apple’s goal isn’t market share but refusing to ship ‘junk.’ This product-first philosophy drove vertical integration (e.g., Apple Silicon), ensuring quality and user experience over volume; Using Twitter/X's turmoil as a case study, this article explains how"
         }
       }
     }
