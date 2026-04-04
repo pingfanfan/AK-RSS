@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T15:05:47Z",
+  "generated_at": "2026-04-04T15:42:23Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-04",
-      "total": 8,
+      "total": 10,
       "feeds": [
         "construction-physics.com (1)",
         "joanwestenberg.com (1)",
+        "johndcook.com (1)",
         "lucumr.pocoo.org (1)",
         "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Kalman and Bayes average grades",
         "construction-physics.com · Reading List 04/04/2026",
         "joanwestenberg.com · The AI writing witchhunt is pointless.",
         "shkspr.mobi · Welcome to RSS Club!",
         "nesbitt.io · What does Open Source mean?",
-        "pluralistic.net · Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
-        "simonwillison.net · Quoting Kyle Daigle"
+        "pluralistic.net · Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)"
       ],
       "key_points": [
-        "Reading List 04/04/2026",
-        "The AI writing witchhunt is pointless",
-        "Welcome to RSS Club!",
-        "What does Open Source mean?"
-      ],
-      "key_points_zh": [
-        "Reading List 04/04/2026",
-        "The AI writing witchhunt is pointless",
-        "Welcome to RSS Club!",
-        "What does Open Source mean?"
-      ],
-      "key_points_en": [
-        "Reading List 04/04/2026",
-        "The AI writing witchhunt is pointless",
-        "Welcome to RSS Club!",
-        "What does Open Source mean?"
-      ],
-      "tweet_drafts": [
+        "Kalman and Bayes average grades",
         "Reading List 04/04/2026",
         "The AI writing witchhunt is pointless",
         "Welcome to RSS Club!"
       ],
+      "key_points_zh": [
+        "Kalman and Bayes average grades",
+        "Reading List 04/04/2026",
+        "The AI writing witchhunt is pointless",
+        "Welcome to RSS Club!"
+      ],
+      "key_points_en": [
+        "Kalman and Bayes average grades",
+        "Reading List 04/04/2026",
+        "The AI writing witchhunt is pointless",
+        "Welcome to RSS Club!"
+      ],
+      "tweet_drafts": [
+        "Kalman and Bayes average grades",
+        "Reading List 04/04/2026",
+        "The AI writing witchhunt is pointless"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Kalman and Bayes average grades",
+          "link": "https://www.johndcook.com/blog/2026/04/04/kalman-bayes/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Reading List 04/04/2026",
@@ -98,27 +103,22 @@
           "feed_title": "joanwestenberg.com",
           "title": "The AI writing witchhunt is pointless.",
           "link": "https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Welcome to RSS Club!",
-          "link": "https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/"
         }
       ],
-      "summary_zh": "2026-04-04 技术日报：Reading List 04/04/2026；The AI writing witchhunt is pointless；Welcome to RSS Club!。",
-      "summary_en": "Daily brief (2026-04-04): Reading List 04/04/2026; The AI writing witchhunt is pointless; Welcome to RSS Club!.",
+      "summary_zh": "2026-04-04 技术日报：Kalman and Bayes average grades；Reading List 04/04/2026；The AI writing witchhunt is pointless。",
+      "summary_en": "Daily brief (2026-04-04): Kalman and Bayes average grades; Reading List 04/04/2026; The AI writing witchhunt is pointless.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-04 日报】Reading List 04/04/2026；The AI writing witchhunt is pointless；Welcome to RSS Club!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-04): Reading List 04/04/2026; The AI writing witchhunt is pointless; Welcome to RSS Club!. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-04 日报】Kalman and Bayes average grades；Reading List 04/04/2026；The AI writing witchhunt is pointless。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-04): Kalman and Bayes average grades; Reading List 04/04/2026; The AI writing witchhunt is pointless. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-04）\n- Reading List 04/04/2026\n- The AI writing witchhunt is pointless\n- Welcome to RSS Club!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-04042026\n- https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/\n- https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-04)\n- Reading List 04/04/2026\n- The AI writing witchhunt is pointless\n- Welcome to RSS Club!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-04042026\n- https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/\n- https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-04）\n- Kalman and Bayes average grades\n- Reading List 04/04/2026\n- The AI writing witchhunt is pointless\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/04/kalman-bayes/\n- https://www.construction-physics.com/p/reading-list-04042026\n- https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-04)\n- Kalman and Bayes average grades\n- Reading List 04/04/2026\n- The AI writing witchhunt is pointless\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/04/kalman-bayes/\n- https://www.construction-physics.com/p/reading-list-04042026\n- https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reading List 04/04/2026；The AI writing witchhunt is pointless；Welcome to RSS Club!。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reading List 04/04/2026; The AI writing witchhunt is pointless; Welcome to RSS Club!.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Kalman and Bayes average grades；Reading List 04/04/2026；The AI writing witchhunt is pointless。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Kalman and Bayes average grades; Reading List 04/04/2026; The AI writing witchhunt is pointless.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
