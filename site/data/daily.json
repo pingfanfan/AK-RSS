@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T11:06:06Z",
+  "generated_at": "2026-04-04T11:39:51Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-04-04",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "lucumr.pocoo.org (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Welcome to RSS Club!",
         "nesbitt.io · What does Open Source mean?",
         "pluralistic.net · Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
         "simonwillison.net · Quoting Kyle Daigle",
@@ -64,29 +66,34 @@
         "lucumr.pocoo.org · Absurd In Production"
       ],
       "key_points": [
-        "What does Open Source mean?",
-        "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
-        "Quoting Kyle Daigle",
-        "Web server ratelimits are a precaution to let me stop worrying"
-      ],
-      "key_points_zh": [
-        "What does Open Source mean?",
-        "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
-        "Quoting Kyle Daigle",
-        "Web server ratelimits are a precaution to let me stop worrying"
-      ],
-      "key_points_en": [
-        "What does Open Source mean?",
-        "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
-        "Quoting Kyle Daigle",
-        "Web server ratelimits are a precaution to let me stop worrying"
-      ],
-      "tweet_drafts": [
+        "Welcome to RSS Club!",
         "What does Open Source mean?",
         "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
         "Quoting Kyle Daigle"
       ],
+      "key_points_zh": [
+        "Welcome to RSS Club!",
+        "What does Open Source mean?",
+        "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
+        "Quoting Kyle Daigle"
+      ],
+      "key_points_en": [
+        "Welcome to RSS Club!",
+        "What does Open Source mean?",
+        "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
+        "Quoting Kyle Daigle"
+      ],
+      "tweet_drafts": [
+        "Welcome to RSS Club!",
+        "What does Open Source mean?",
+        "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Welcome to RSS Club!",
+          "link": "https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "What does Open Source mean?",
@@ -96,27 +103,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
           "link": "https://pluralistic.net/2026/04/04/digital-subjugation/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Kyle Daigle",
-          "link": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-04 技术日报：What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle。",
-      "summary_en": "Daily brief (2026-04-04): What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle.",
+      "summary_zh": "2026-04-04 技术日报：Welcome to RSS Club!；What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)。",
+      "summary_en": "Daily brief (2026-04-04): Welcome to RSS Club!; What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-04 日报】What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-04): What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-04 日报】Welcome to RSS Club!；What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-04): Welcome to RSS Club!; What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-04）\n- What does Open Source mean?\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n- Quoting Kyle Daigle\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/04/what-does-open-source-mean.html\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n- https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-04)\n- What does Open Source mean?\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n- Quoting Kyle Daigle\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/04/what-does-open-source-mean.html\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n- https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-04）\n- Welcome to RSS Club!\n- What does Open Source mean?\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/\n- https://nesbitt.io/2026/04/04/what-does-open-source-mean.html\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-04)\n- Welcome to RSS Club!\n- What does Open Source mean?\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/\n- https://nesbitt.io/2026/04/04/what-does-open-source-mean.html\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Welcome to RSS Club!；What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Welcome to RSS Club!; What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
