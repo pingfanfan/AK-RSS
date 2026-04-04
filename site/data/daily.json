@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T10:06:32Z",
+  "generated_at": "2026-04-04T10:43:36Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,38 +48,50 @@
     },
     {
       "date": "2026-04-04",
-      "total": 3,
+      "total": 5,
       "feeds": [
+        "lucumr.pocoo.org (1)",
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · What does Open Source mean?",
         "pluralistic.net · Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
         "simonwillison.net · Quoting Kyle Daigle",
-        "utcc.utoronto.ca/~cks · Web server ratelimits are a precaution to let me stop worrying"
+        "utcc.utoronto.ca/~cks · Web server ratelimits are a precaution to let me stop worrying",
+        "lucumr.pocoo.org · Absurd In Production"
       ],
       "key_points": [
+        "What does Open Source mean?",
         "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
         "Quoting Kyle Daigle",
         "Web server ratelimits are a precaution to let me stop worrying"
       ],
       "key_points_zh": [
+        "What does Open Source mean?",
         "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
         "Quoting Kyle Daigle",
         "Web server ratelimits are a precaution to let me stop worrying"
       ],
       "key_points_en": [
+        "What does Open Source mean?",
         "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
         "Quoting Kyle Daigle",
         "Web server ratelimits are a precaution to let me stop worrying"
       ],
       "tweet_drafts": [
+        "What does Open Source mean?",
         "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
-        "Quoting Kyle Daigle",
-        "Web server ratelimits are a precaution to let me stop worrying"
+        "Quoting Kyle Daigle"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "What does Open Source mean?",
+          "link": "https://nesbitt.io/2026/04/04/what-does-open-source-mean.html"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
@@ -89,27 +101,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Kyle Daigle",
           "link": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Web server ratelimits are a precaution to let me stop worrying",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution"
         }
       ],
-      "summary_zh": "2026-04-04 技术日报：Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle；Web server ratelimits are a precaution to let me stop worrying。",
-      "summary_en": "Daily brief (2026-04-04): Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle; Web server ratelimits are a precaution to let me stop worrying.",
+      "summary_zh": "2026-04-04 技术日报：What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle。",
+      "summary_en": "Daily brief (2026-04-04): What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-04 日报】Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle；Web server ratelimits are a precaution to let me stop worrying。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-04): Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle; Web server ratelimits are a precaution to let me stop worrying. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubl"
+          "zh": "【2026-04-04 日报】What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-04): What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-04）\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n- Quoting Kyle Daigle\n- Web server ratelimits are a precaution to let me stop worrying\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n- https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-04)\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n- Quoting Kyle Daigle\n- Web server ratelimits are a precaution to let me stop worrying\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n- https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-04）\n- What does Open Source mean?\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n- Quoting Kyle Daigle\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/04/what-does-open-source-mean.html\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n- https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-04)\n- What does Open Source mean?\n- Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)\n- Quoting Kyle Daigle\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/04/what-does-open-source-mean.html\n- https://pluralistic.net/2026/04/04/digital-subjugation/\n- https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle；Web server ratelimits are a precaution to let me stop worrying。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle; Web server ratelimits are a precaution to let me stop worrying.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What does Open Source mean?；Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)；Quoting Kyle Daigle。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What does Open Source mean?; Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026); Quoting Kyle Daigle.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
