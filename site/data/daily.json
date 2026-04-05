@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T19:41:16Z",
+  "generated_at": "2026-04-05T20:03:57Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-05",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "simonwillison.net (2)",
         "daringfireball.net (1)",
         "idiallo.com (1)",
         "michael.stapelberg.ch (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "simonwillison.net · Syntaqlite Playground",
         "daringfireball.net · An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
         "michael.stapelberg.ch · Stamp It! All Programs Must Report Their Version",
         "shkspr.mobi · Someone at BrowserStack is Leaking Users' Email Address",
         "idiallo.com · It's not that deep",
-        "simonwillison.net · scan-for-secrets 0.2",
-        "utcc.utoronto.ca/~cks · Two little scripts: \u003ccode\u003eaddup\u003c/code\u003e and \u003ccode\u003esumup\u003c/code\u003e"
+        "simonwillison.net · scan-for-secrets 0.2"
       ],
       "key_points": [
-        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
-        "Stamp It! All Programs Must Report Their Version",
-        "Someone at BrowserStack is Leaking Users' Email Address",
-        "It's not that deep"
-      ],
-      "key_points_zh": [
-        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
-        "Stamp It! All Programs Must Report Their Version",
-        "Someone at BrowserStack is Leaking Users' Email Address",
-        "It's not that deep"
-      ],
-      "key_points_en": [
-        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
-        "Stamp It! All Programs Must Report Their Version",
-        "Someone at BrowserStack is Leaking Users' Email Address",
-        "It's not that deep"
-      ],
-      "tweet_drafts": [
+        "Syntaqlite Playground",
         "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
         "Stamp It! All Programs Must Report Their Version",
         "Someone at BrowserStack is Leaking Users' Email Address"
       ],
+      "key_points_zh": [
+        "Syntaqlite Playground",
+        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
+        "Stamp It! All Programs Must Report Their Version",
+        "Someone at BrowserStack is Leaking Users' Email Address"
+      ],
+      "key_points_en": [
+        "Syntaqlite Playground",
+        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
+        "Stamp It! All Programs Must Report Their Version",
+        "Someone at BrowserStack is Leaking Users' Email Address"
+      ],
+      "tweet_drafts": [
+        "Syntaqlite Playground",
+        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
+        "Stamp It! All Programs Must Report Their Version"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Syntaqlite Playground",
+          "link": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
@@ -98,27 +103,22 @@
           "feed_title": "michael.stapelberg.ch",
           "title": "Stamp It! All Programs Must Report Their Version",
           "link": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Someone at BrowserStack is Leaking Users' Email Address",
-          "link": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/"
         }
       ],
-      "summary_zh": "2026-04-05 技术日报：An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize；Stamp It! All Programs Must Report Their Version；Someone at BrowserStack is Leaking Users' Email Address。",
-      "summary_en": "Daily brief (2026-04-05): An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize; Stamp It! All Programs Must Report Their Version; Someone at BrowserStack is Leaking Users' Email Address.",
+      "summary_zh": "2026-04-05 技术日报：Syntaqlite Playground；An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize；Stamp It! All Programs Must Report Their Version。",
+      "summary_en": "Daily brief (2026-04-05): Syntaqlite Playground; An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize; Stamp It! All Programs Must Report Their Version.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-05 日报】An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize；Stamp It! All Programs Must Report Their Version；Someone at BrowserStack is Leaking Users' Email Address。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-05): An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize; Stamp It! All Programs Must Report Their Version; Someone at BrowserStack is Leaking Users' Email Address. Actionable takeaways included. What would you ship"
+          "zh": "【2026-04-05 日报】Syntaqlite Playground；An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize；Stamp It! All Programs Must Report Their Version。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-05): Syntaqlite Playground; An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize; Stamp It! All Programs Must Report Their Version. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPub"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-05）\n- An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize\n- Stamp It! All Programs Must Report Their Version\n- Someone at BrowserStack is Leaking Users' Email Address\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://truthsocial.com/@realDonaldTrump/posts/116351998782539414\n- https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/\n- https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-05)\n- An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize\n- Stamp It! All Programs Must Report Their Version\n- Someone at BrowserStack is Leaking Users' Email Address\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://truthsocial.com/@realDonaldTrump/posts/116351998782539414\n- https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/\n- https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-05）\n- Syntaqlite Playground\n- An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize\n- Stamp It! All Programs Must Report Their Version\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything\n- https://truthsocial.com/@realDonaldTrump/posts/116351998782539414\n- https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-05)\n- Syntaqlite Playground\n- An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize\n- Stamp It! All Programs Must Report Their Version\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything\n- https://truthsocial.com/@realDonaldTrump/posts/116351998782539414\n- https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize；Stamp It! All Programs Must Report Their Version；Someone at BrowserStack is Leaking Users' Email Address。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize; Stamp It! All Programs Must Report Their Version; Someone at BrowserStack is Leaking Users' Email Address.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Syntaqlite Playground；An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize；Stamp It! All Programs Must Report Their Version。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Syntaqlite Playground; An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize; Stamp It! All Programs Must Report Their Version.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
