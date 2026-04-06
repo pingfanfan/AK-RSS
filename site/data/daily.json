@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T10:21:23Z",
+  "generated_at": "2026-04-06T10:46:52Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-04-06",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "johndcook.com (1)",
         "krebsonsecurity.com (1)",
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · The Cathedral and the Catacombs",
         "pluralistic.net · Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
         "simonwillison.net · Google AI Edge Gallery",
         "utcc.utoronto.ca/~cks · Finding out what your big RPMs are, in two different 'sizes'",
@@ -64,29 +66,34 @@
         "johndcook.com · HIPAA compliant AI"
       ],
       "key_points": [
-        "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
-        "Google AI Edge Gallery",
-        "Finding out what your big RPMs are, in two different 'sizes'",
-        "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab"
-      ],
-      "key_points_zh": [
-        "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
-        "Google AI Edge Gallery",
-        "Finding out what your big RPMs are, in two different 'sizes'",
-        "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab"
-      ],
-      "key_points_en": [
-        "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
-        "Google AI Edge Gallery",
-        "Finding out what your big RPMs are, in two different 'sizes'",
-        "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab"
-      ],
-      "tweet_drafts": [
+        "The Cathedral and the Catacombs",
         "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
         "Google AI Edge Gallery",
         "Finding out what your big RPMs are, in two different 'sizes'"
       ],
+      "key_points_zh": [
+        "The Cathedral and the Catacombs",
+        "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
+        "Google AI Edge Gallery",
+        "Finding out what your big RPMs are, in two different 'sizes'"
+      ],
+      "key_points_en": [
+        "The Cathedral and the Catacombs",
+        "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
+        "Google AI Edge Gallery",
+        "Finding out what your big RPMs are, in two different 'sizes'"
+      ],
+      "tweet_drafts": [
+        "The Cathedral and the Catacombs",
+        "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
+        "Google AI Edge Gallery"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "The Cathedral and the Catacombs",
+          "link": "https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
@@ -96,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Google AI Edge Gallery",
           "link": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Finding out what your big RPMs are, in two different 'sizes'",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes"
         }
       ],
-      "summary_zh": "2026-04-06 技术日报：Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)；Google AI Edge Gallery；Finding out what your big RPMs are, in two different 'sizes'。",
-      "summary_en": "Daily brief (2026-04-06): Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026); Google AI Edge Gallery; Finding out what your big RPMs are, in two different 'sizes'.",
+      "summary_zh": "2026-04-06 技术日报：The Cathedral and the Catacombs；Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)；Google AI Edge Gallery。",
+      "summary_en": "Daily brief (2026-04-06): The Cathedral and the Catacombs; Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026); Google AI Edge Gallery.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-06 日报】Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)；Google AI Edge Gallery；Finding out what your big RPMs are, in two different 'sizes'。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-06): Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026); Google AI Edge Gallery; Finding out what your big RPMs are, in two different 'sizes'. Actionable takeaways included. What would you ship next? #AI"
+          "zh": "【2026-04-06 日报】The Cathedral and the Catacombs；Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)；Google AI Edge Gallery。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-06): The Cathedral and the Catacombs; Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026); Google AI Edge Gallery. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-06）\n- Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)\n- Google AI Edge Gallery\n- Finding out what your big RPMs are, in two different 'sizes'\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/06/empiricism-washing/\n- https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-06)\n- Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)\n- Google AI Edge Gallery\n- Finding out what your big RPMs are, in two different 'sizes'\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/06/empiricism-washing/\n- https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-06）\n- The Cathedral and the Catacombs\n- Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)\n- Google AI Edge Gallery\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html\n- https://pluralistic.net/2026/04/06/empiricism-washing/\n- https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-06)\n- The Cathedral and the Catacombs\n- Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)\n- Google AI Edge Gallery\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html\n- https://pluralistic.net/2026/04/06/empiricism-washing/\n- https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)；Google AI Edge Gallery；Finding out what your big RPMs are, in two different 'sizes'。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026); Google AI Edge Gallery; Finding out what your big RPMs are, in two different 'sizes'.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Cathedral and the Catacombs；Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)；Google AI Edge Gallery。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Cathedral and the Catacombs; Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026); Google AI Edge Gallery.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
