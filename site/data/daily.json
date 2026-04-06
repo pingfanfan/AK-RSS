@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T22:42:08Z",
+  "generated_at": "2026-04-06T06:32:16Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,46 +47,118 @@
       }
     },
     {
+      "date": "2026-04-06",
+      "total": 4,
+      "feeds": [
+        "johndcook.com (1)",
+        "krebsonsecurity.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Google AI Edge Gallery",
+        "utcc.utoronto.ca/~cks · Finding out what your big RPMs are, in two different 'sizes'",
+        "krebsonsecurity.com · Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+        "johndcook.com · HIPAA compliant AI"
+      ],
+      "key_points": [
+        "Google AI Edge Gallery",
+        "Finding out what your big RPMs are, in two different 'sizes'",
+        "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+        "HIPAA compliant AI"
+      ],
+      "key_points_zh": [
+        "Google AI Edge Gallery",
+        "Finding out what your big RPMs are, in two different 'sizes'",
+        "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+        "HIPAA compliant AI"
+      ],
+      "key_points_en": [
+        "Google AI Edge Gallery",
+        "Finding out what your big RPMs are, in two different 'sizes'",
+        "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+        "HIPAA compliant AI"
+      ],
+      "tweet_drafts": [
+        "Google AI Edge Gallery",
+        "Finding out what your big RPMs are, in two different 'sizes'",
+        "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Google AI Edge Gallery",
+          "link": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Finding out what your big RPMs are, in two different 'sizes'",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes"
+        },
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+          "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+        }
+      ],
+      "summary_zh": "2026-04-06 技术日报：Google AI Edge Gallery；Finding out what your big RPMs are, in two different 'sizes'；Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab。",
+      "summary_en": "Daily brief (2026-04-06): Google AI Edge Gallery; Finding out what your big RPMs are, in two different 'sizes'; Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-06 日报】Google AI Edge Gallery；Finding out what your big RPMs are, in two different 'sizes'；Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-06): Google AI Edge Gallery; Finding out what your big RPMs are, in two different 'sizes'; Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-06）\n- Google AI Edge Gallery\n- Finding out what your big RPMs are, in two different 'sizes'\n- Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes\n- https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-06)\n- Google AI Edge Gallery\n- Finding out what your big RPMs are, in two different 'sizes'\n- Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes\n- https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Google AI Edge Gallery；Finding out what your big RPMs are, in two different 'sizes'；Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Google AI Edge Gallery; Finding out what your big RPMs are, in two different 'sizes'; Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-04-05",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "simonwillison.net (3)",
+        "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
         "idiallo.com (1)",
         "michael.stapelberg.ch (1)",
-        "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
         "simonwillison.net · Quoting Chengpeng Mou",
         "simonwillison.net · Syntaqlite Playground",
+        "blog.jim-nielsen.com · I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
         "daringfireball.net · An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
         "michael.stapelberg.ch · Stamp It! All Programs Must Report Their Version",
-        "shkspr.mobi · Someone at BrowserStack is Leaking Users' Email Address",
-        "idiallo.com · It's not that deep"
+        "shkspr.mobi · Someone at BrowserStack is Leaking Users' Email Address"
       ],
       "key_points": [
         "Quoting Chengpeng Mou",
         "Syntaqlite Playground",
-        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
-        "Stamp It! All Programs Must Report Their Version"
+        "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize"
       ],
       "key_points_zh": [
         "Quoting Chengpeng Mou",
         "Syntaqlite Playground",
-        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
-        "Stamp It! All Programs Must Report Their Version"
+        "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize"
       ],
       "key_points_en": [
         "Quoting Chengpeng Mou",
         "Syntaqlite Playground",
-        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
-        "Stamp It! All Programs Must Report Their Version"
+        "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize"
       ],
       "tweet_drafts": [
         "Quoting Chengpeng Mou",
         "Syntaqlite Playground",
-        "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize"
+        "I Tried Vibing an RSS Reader and My Dreams Did Not Come True"
       ],
       "sources": [
         {
@@ -100,25 +172,25 @@
           "link": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize",
-          "link": "https://truthsocial.com/@realDonaldTrump/posts/116351998782539414"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "I Tried Vibing an RSS Reader and My Dreams Did Not Come True",
+          "link": "https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/"
         }
       ],
-      "summary_zh": "2026-04-05 技术日报：Quoting Chengpeng Mou；Syntaqlite Playground；An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize。",
-      "summary_en": "Daily brief (2026-04-05): Quoting Chengpeng Mou; Syntaqlite Playground; An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize.",
+      "summary_zh": "2026-04-05 技术日报：Quoting Chengpeng Mou；Syntaqlite Playground；I Tried Vibing an RSS Reader and My Dreams Did Not Come True。",
+      "summary_en": "Daily brief (2026-04-05): Quoting Chengpeng Mou; Syntaqlite Playground; I Tried Vibing an RSS Reader and My Dreams Did Not Come True.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-05 日报】Quoting Chengpeng Mou；Syntaqlite Playground；An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-05): Quoting Chengpeng Mou; Syntaqlite Playground; An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-05 日报】Quoting Chengpeng Mou；Syntaqlite Playground；I Tried Vibing an RSS Reader and My Dreams Did Not Come True。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-05): Quoting Chengpeng Mou; Syntaqlite Playground; I Tried Vibing an RSS Reader and My Dreams Did Not Come True. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-05）\n- Quoting Chengpeng Mou\n- Syntaqlite Playground\n- An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything\n- https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything\n- https://truthsocial.com/@realDonaldTrump/posts/116351998782539414\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-05)\n- Quoting Chengpeng Mou\n- Syntaqlite Playground\n- An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything\n- https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything\n- https://truthsocial.com/@realDonaldTrump/posts/116351998782539414\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-05）\n- Quoting Chengpeng Mou\n- Syntaqlite Playground\n- I Tried Vibing an RSS Reader and My Dreams Did Not Come True\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything\n- https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything\n- https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-05)\n- Quoting Chengpeng Mou\n- Syntaqlite Playground\n- I Tried Vibing an RSS Reader and My Dreams Did Not Come True\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything\n- https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything\n- https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Chengpeng Mou；Syntaqlite Playground；An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Chengpeng Mou; Syntaqlite Playground; An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Chengpeng Mou；Syntaqlite Playground；I Tried Vibing an RSS Reader and My Dreams Did Not Come True。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Chengpeng Mou; Syntaqlite Playground; I Tried Vibing an RSS Reader and My Dreams Did Not Come True.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2241,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Rebasing in Magit；[Sponsor] Finalist；本文提供三角/反三角复合函数的完整速查表（3x3及扩展6x6），并揭示验证所有恒等式只需在随机点测试一次的核心原理：所有表达式均可归结为基于直角三角形边长比的14种形式。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Rebasing in Magit; [Sponsor] Finalist; Presents a complete cheat sheet for trig/inverse trig compositions (3x3 and extended 6x6) and reveals that verifying all identities requires testing at just one random point. The core principle: all expressions reduce to 14 forms based on"
-        }
-      }
-    },
-    {
-      "date": "2026-03-08",
-      "total": 13,
-      "feeds": [
-        "daringfireball.net (2)",
-        "antirez.com (1)",
-        "blog.jim-nielsen.com (1)",
-        "evanhahn.com (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
-      ],
-      "highlights": [
-        "joanwestenberg.com · The Noble Path",
-        "krebsonsecurity.com · How AI Assistants are Moving the Security Goalposts",
-        "blog.jim-nielsen.com · Two of My Favorite Things Together at Last: Pies and Subdomains",
-        "johndcook.com · How much certainty is worthwhile?",
-        "daringfireball.net · Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?",
-        "antirez.com · GNU and the AI reimplementations"
-      ],
-      "key_points": [
-        "The Noble Path",
-        "OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型",
-        "通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档",
-        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理"
-      ],
-      "key_points_zh": [
-        "The Noble Path",
-        "OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型",
-        "通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档",
-        "本文探讨通过检查少量数值点来验证数学恒等式的实用方法与理论边界，并关联到零知识证明中的Schwartz-Zippel引理"
-      ],
-      "key_points_en": [
-        "The Noble Path",
-        "Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift",
-        "Automate Instagram data export to archive photos and captions on a personal subdomain, ensuring content ownership",
-        "Explores practical method and theoretical limits of verifying math identities by checking few points, linking to Schwartz-Zippel lemma in zero-knowledge proofs"
-      ],
-      "tweet_drafts": [
-        "The Noble Path",
-        "AI助手OpenClaw的兴起凸显新风险：自主代理拥有系统完全权限，内部威胁自动化。安全团队需紧急行动：审计权限、最小权限、实时监控",
-        "用脚本把Instagram照片归档到个人子域名，夺回数据控制权。教程：https://blog.jim-nielsen.com/2026/pies-and-subdomains/"
-      ],
-      "sources": [
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "The Noble Path",
-          "link": "https://www.joanwestenberg.com/the-noble-path/"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "How AI Assistants are Moving the Security Goalposts",
-          "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Two of My Favorite Things Together at Last: Pies and Subdomains",
-          "link": "https://blog.jim-nielsen.com/2026/pies-and-subdomains/"
-        }
-      ],
-      "summary_zh": "2026-03-08 技术日报：The Noble Path；OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型；通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档。",
-      "summary_en": "Daily brief (2026-03-08): The Noble Path; Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift; Automate Instagram data export to archive phot",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-08 日报】The Noble Path；OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型；通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-08): The Noble Path; Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift; Automate Instagram data export to archive pho"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-08）\n- The Noble Path\n- OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型\n- 通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-noble-path/\n- https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/\n- https://blog.jim-nielsen.com/2026/pies-and-subdomains/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-08)\n- The Noble Path\n- Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift\n- Automate Instagram data export to archive photos and captions on a personal subdomain, ensuring content ownership\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-noble-path/\n- https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/\n- https://blog.jim-nielsen.com/2026/pies-and-subdomains/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：The Noble Path；OpenClaw等自主AI代理需完全系统访问权限以主动执行任务，这正模糊数据与代码、同事与威胁的界限，迫使企业重新评估安全模型；通过自动化脚本处理Instagram数据导出，将照片和标题部署到个人子域名，实现内容自主归档。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Noble Path; Autonomous AI agents like OpenClaw require full system access to act proactively, blurring lines between data/code and colleague/threat, forcing a security paradigm shift; Automate Instagram data export to archive photos and captions on a personal subdomain, ens"
         }
       }
     }
