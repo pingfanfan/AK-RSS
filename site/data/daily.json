@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T11:17:51Z",
+  "generated_at": "2026-04-07T11:46:15Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-07",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "troyhunt.com (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Did WordPress VIP leak my phone number?",
         "dfarq.homeip.net · Hayes compatible modem: What it means",
         "nesbitt.io · Who Built This?",
         "pluralistic.net · Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
         "utcc.utoronto.ca/~cks · Wondering about the typical retry times for email today",
-        "troyhunt.com · Weekly Update 498",
-        "johndcook.com · All you need is Tofolli gates"
+        "troyhunt.com · Weekly Update 498"
       ],
       "key_points": [
+        "Did WordPress VIP leak my phone number?",
         "Hayes compatible modem: What it means",
         "Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要",
-        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-        "Wondering about the typical retry times for email today"
-      ],
-      "key_points_zh": [
-        "Hayes compatible modem: What it means",
-        "Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要",
-        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-        "Wondering about the typical retry times for email today"
-      ],
-      "key_points_en": [
-        "Hayes compatible modem: What it means",
-        "Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging",
-        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-        "Wondering about the typical retry times for email today"
-      ],
-      "tweet_drafts": [
-        "Hayes compatible modem: What it means",
-        "Go默认嵌入版本信息，生产调试神器！对比Rust/.NET的手动配置，你的项目做到了吗？#开发实践 #DevOps",
         "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)"
       ],
+      "key_points_zh": [
+        "Did WordPress VIP leak my phone number?",
+        "Hayes compatible modem: What it means",
+        "Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要",
+        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)"
+      ],
+      "key_points_en": [
+        "Did WordPress VIP leak my phone number?",
+        "Hayes compatible modem: What it means",
+        "Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging",
+        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)"
+      ],
+      "tweet_drafts": [
+        "Did WordPress VIP leak my phone number?",
+        "Hayes compatible modem: What it means",
+        "Go默认嵌入版本信息，生产调试神器！对比Rust/.NET的手动配置，你的项目做到了吗？#开发实践 #DevOps"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Did WordPress VIP leak my phone number?",
+          "link": "https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Hayes compatible modem: What it means",
@@ -98,27 +103,22 @@
           "feed_title": "nesbitt.io",
           "title": "Who Built This? Engineering Practices for Version Tracing",
           "link": "https://nesbitt.io/2026/04/07/who-built-this.html"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-          "link": "https://pluralistic.net/2026/04/07/swisscom/"
         }
       ],
-      "summary_zh": "2026-04-07 技术日报：Hayes compatible modem: What it means；Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要；Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)。",
-      "summary_en": "Daily brief (2026-04-07): Hayes compatible modem: What it means; Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging; Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026).",
+      "summary_zh": "2026-04-07 技术日报：Did WordPress VIP leak my phone number?；Hayes compatible modem: What it means；Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要。",
+      "summary_en": "Daily brief (2026-04-07): Did WordPress VIP leak my phone number?; Hayes compatible modem: What it means; Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-07 日报】Hayes compatible modem: What it means；Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要；Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-07): Hayes compatible modem: What it means; Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging; Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026). Actionable takeaways"
+          "zh": "【2026-04-07 日报】Did WordPress VIP leak my phone number?；Hayes compatible modem: What it means；Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-07): Did WordPress VIP leak my phone number?; Hayes compatible modem: What it means; Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging. Actionable takeaways included. What wou"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-07）\n- Hayes compatible modem: What it means\n- Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要\n- Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=hayes-compatible-modem-what-it-means\n- https://nesbitt.io/2026/04/07/who-built-this.html\n- https://pluralistic.net/2026/04/07/swisscom/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-07)\n- Hayes compatible modem: What it means\n- Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging\n- Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=hayes-compatible-modem-what-it-means\n- https://nesbitt.io/2026/04/07/who-built-this.html\n- https://pluralistic.net/2026/04/07/swisscom/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-07）\n- Did WordPress VIP leak my phone number?\n- Hayes compatible modem: What it means\n- Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/\n- https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=hayes-compatible-modem-what-it-means\n- https://nesbitt.io/2026/04/07/who-built-this.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-07)\n- Did WordPress VIP leak my phone number?\n- Hayes compatible modem: What it means\n- Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/\n- https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=hayes-compatible-modem-what-it-means\n- https://nesbitt.io/2026/04/07/who-built-this.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Hayes compatible modem: What it means；Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要；Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Hayes compatible modem: What it means; Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging; Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026).\nI turned them into an action-ready daily brief you can use right a"
+          "zh": "今天最值得看的 3 个点：Did WordPress VIP leak my phone number?；Hayes compatible modem: What it means；Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Did WordPress VIP leak my phone number?; Hayes compatible modem: What it means; Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
