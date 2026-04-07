@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T21:13:47Z",
+  "generated_at": "2026-04-07T21:44:03Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-07",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (2)",
+        "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · GLM-5.1: Towards Long-Horizon Tasks",
         "simonwillison.net · Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
         "krebsonsecurity.com · Russia Hacked Routers to Steal Microsoft Office Tokens",
         "daringfireball.net · Om Malik and Ben Thompson on OpenAI Buying TBPN",
         "daringfireball.net · Flighty Airports Meltdown Map",
-        "dwarkesh.com · Michael Nielsen – How science actually progresses",
-        "devblogs.microsoft.com/oldnewthing · Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them?"
+        "dwarkesh.com · Michael Nielsen – How science actually progresses"
       ],
       "key_points": [
-        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
-        "Russia Hacked Routers to Steal Microsoft Office Tokens",
-        "Om Malik and Ben Thompson on OpenAI Buying TBPN",
-        "Flighty Airports Meltdown Map"
-      ],
-      "key_points_zh": [
-        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
-        "Russia Hacked Routers to Steal Microsoft Office Tokens",
-        "Om Malik and Ben Thompson on OpenAI Buying TBPN",
-        "Flighty Airports Meltdown Map"
-      ],
-      "key_points_en": [
-        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
-        "Russia Hacked Routers to Steal Microsoft Office Tokens",
-        "Om Malik and Ben Thompson on OpenAI Buying TBPN",
-        "Flighty Airports Meltdown Map"
-      ],
-      "tweet_drafts": [
+        "GLM-5.1: Towards Long-Horizon Tasks",
         "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
         "Russia Hacked Routers to Steal Microsoft Office Tokens",
         "Om Malik and Ben Thompson on OpenAI Buying TBPN"
       ],
+      "key_points_zh": [
+        "GLM-5.1: Towards Long-Horizon Tasks",
+        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+        "Russia Hacked Routers to Steal Microsoft Office Tokens",
+        "Om Malik and Ben Thompson on OpenAI Buying TBPN"
+      ],
+      "key_points_en": [
+        "GLM-5.1: Towards Long-Horizon Tasks",
+        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+        "Russia Hacked Routers to Steal Microsoft Office Tokens",
+        "Om Malik and Ben Thompson on OpenAI Buying TBPN"
+      ],
+      "tweet_drafts": [
+        "GLM-5.1: Towards Long-Horizon Tasks",
+        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+        "Russia Hacked Routers to Steal Microsoft Office Tokens"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "GLM-5.1: Towards Long-Horizon Tasks",
+          "link": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
@@ -98,27 +103,22 @@
           "feed_title": "krebsonsecurity.com",
           "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
           "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Om Malik and Ben Thompson on OpenAI Buying TBPN",
-          "link": "https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/"
         }
       ],
-      "summary_zh": "2026-04-07 技术日报：Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens；Om Malik and Ben Thompson on OpenAI Buying TBPN。",
-      "summary_en": "Daily brief (2026-04-07): Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens; Om Malik and Ben Thompson on OpenAI Buying TBPN.",
+      "summary_zh": "2026-04-07 技术日报：GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens。",
+      "summary_en": "Daily brief (2026-04-07): GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-07 日报】Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens；Om Malik and Ben Thompson on OpenAI Buying TBPN。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-07): Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens; Om Malik and Ben Thompson on OpenAI Buying TBPN. Actionable takeaways"
+          "zh": "【2026-04-07 日报】GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-07): GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens. Actionable takeaways included. W"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-07）\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n- Russia Hacked Routers to Steal Microsoft Office Tokens\n- Om Malik and Ben Thompson on OpenAI Buying TBPN\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n- https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/\n- https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-07)\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n- Russia Hacked Routers to Steal Microsoft Office Tokens\n- Om Malik and Ben Thompson on OpenAI Buying TBPN\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n- https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/\n- https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-07）\n- GLM-5.1: Towards Long-Horizon Tasks\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n- Russia Hacked Routers to Steal Microsoft Office Tokens\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n- https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-07)\n- GLM-5.1: Towards Long-Horizon Tasks\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n- Russia Hacked Routers to Steal Microsoft Office Tokens\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n- https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens；Om Malik and Ben Thompson on OpenAI Buying TBPN。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens; Om Malik and Ben Thompson on OpenAI Buying TBPN.\nI turned them into an action-ready daily brief you can use right"
+          "zh": "今天最值得看的 3 个点：GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
