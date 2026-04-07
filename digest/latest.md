@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-07 22:09:35 UTC
+Generated at: 2026-04-07 22:43:02 UTC
 
-- [★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future](https://daringfireball.net/2026/04/openai_future) (`daringfireball.net`)
+- [Solar Eclipse From the Far Side of the Moon](https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon) (`daringfireball.net`)
