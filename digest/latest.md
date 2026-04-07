@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-07 21:43:28 UTC
+Generated at: 2026-04-07 22:09:35 UTC
 
-- [GLM-5.1: Towards Long-Horizon Tasks](https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything) (`simonwillison.net`)
+- [★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future](https://daringfireball.net/2026/04/openai_future) (`daringfireball.net`)

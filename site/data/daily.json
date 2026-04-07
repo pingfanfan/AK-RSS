@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T21:44:03Z",
+  "generated_at": "2026-04-07T22:10:09Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-04-07",
-      "total": 16,
+      "total": 17,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
@@ -58,37 +58,42 @@
         "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · ★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
         "simonwillison.net · GLM-5.1: Towards Long-Horizon Tasks",
         "simonwillison.net · Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
         "krebsonsecurity.com · Russia Hacked Routers to Steal Microsoft Office Tokens",
         "daringfireball.net · Om Malik and Ben Thompson on OpenAI Buying TBPN",
-        "daringfireball.net · Flighty Airports Meltdown Map",
-        "dwarkesh.com · Michael Nielsen – How science actually progresses"
+        "daringfireball.net · Flighty Airports Meltdown Map"
       ],
       "key_points": [
-        "GLM-5.1: Towards Long-Horizon Tasks",
-        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
-        "Russia Hacked Routers to Steal Microsoft Office Tokens",
-        "Om Malik and Ben Thompson on OpenAI Buying TBPN"
-      ],
-      "key_points_zh": [
-        "GLM-5.1: Towards Long-Horizon Tasks",
-        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
-        "Russia Hacked Routers to Steal Microsoft Office Tokens",
-        "Om Malik and Ben Thompson on OpenAI Buying TBPN"
-      ],
-      "key_points_en": [
-        "GLM-5.1: Towards Long-Horizon Tasks",
-        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
-        "Russia Hacked Routers to Steal Microsoft Office Tokens",
-        "Om Malik and Ben Thompson on OpenAI Buying TBPN"
-      ],
-      "tweet_drafts": [
+        "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
         "GLM-5.1: Towards Long-Horizon Tasks",
         "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
         "Russia Hacked Routers to Steal Microsoft Office Tokens"
       ],
+      "key_points_zh": [
+        "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
+        "GLM-5.1: Towards Long-Horizon Tasks",
+        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+        "Russia Hacked Routers to Steal Microsoft Office Tokens"
+      ],
+      "key_points_en": [
+        "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
+        "GLM-5.1: Towards Long-Horizon Tasks",
+        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+        "Russia Hacked Routers to Steal Microsoft Office Tokens"
+      ],
+      "tweet_drafts": [
+        "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
+        "GLM-5.1: Towards Long-Horizon Tasks",
+        "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
+          "link": "https://daringfireball.net/2026/04/openai_future"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "GLM-5.1: Towards Long-Horizon Tasks",
@@ -98,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
           "link": "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-          "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/"
         }
       ],
-      "summary_zh": "2026-04-07 技术日报：GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens。",
-      "summary_en": "Daily brief (2026-04-07): GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens.",
+      "summary_zh": "2026-04-07 技术日报：★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future；GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds ne",
+      "summary_en": "Daily brief (2026-04-07): ★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future; GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-07 日报】GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-07): GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens. Actionable takeaways included. W"
+          "zh": "【2026-04-07 日报】★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future；GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds nec",
+          "en": "AK-RSS Daily (2026-04-07): ★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future; GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researcher"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-07）\n- GLM-5.1: Towards Long-Horizon Tasks\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n- Russia Hacked Routers to Steal Microsoft Office Tokens\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n- https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-07)\n- GLM-5.1: Towards Long-Horizon Tasks\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n- Russia Hacked Routers to Steal Microsoft Office Tokens\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n- https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-07）\n- ★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future\n- GLM-5.1: Towards Long-Horizon Tasks\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/04/openai_future\n- https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-07)\n- ★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future\n- GLM-5.1: Towards Long-Horizon Tasks\n- Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/04/openai_future\n- https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything\n- https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me；Russia Hacked Routers to Steal Microsoft Office Tokens。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me; Russia Hacked Routers to Steal Microsoft Office Tokens.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future；GLM-5.1: Towards Long-Horizon Tasks；Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future; GLM-5.1: Towards Long-Horizon Tasks; Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me.\nI turned them int"
         }
       }
     },
