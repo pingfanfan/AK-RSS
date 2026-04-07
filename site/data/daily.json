@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T08:36:54Z",
+  "generated_at": "2026-04-07T09:21:51Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -122,47 +122,52 @@
     },
     {
       "date": "2026-04-06",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (2)",
         "blog.jim-nielsen.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "johndcook.com (1)"
+        "entropicthoughts.com (1)",
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Readership maths skills",
         "daringfireball.net · [Sponsor] Zed, a Font Superfamily",
         "blog.jim-nielsen.com · Prototyping with LLMs",
         "daringfireball.net · Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos",
         "wheresyoured.at · News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments",
-        "devblogs.microsoft.com/oldnewthing · Learning to read C++ compiler errors: Illegal use of -\u003e when there is no -\u003e in sight",
-        "idiallo.com · AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It"
+        "devblogs.microsoft.com/oldnewthing · Learning to read C++ compiler errors: Illegal use of -\u003e when there is no -\u003e in sight"
       ],
       "key_points": [
-        "[Sponsor] Zed, a Font Superfamily",
-        "Prototyping with LLMs",
-        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos",
-        "News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments"
-      ],
-      "key_points_zh": [
-        "[Sponsor] Zed, a Font Superfamily",
-        "Prototyping with LLMs",
-        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos",
-        "News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments"
-      ],
-      "key_points_en": [
-        "[Sponsor] Zed, a Font Superfamily",
-        "Prototyping with LLMs",
-        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos",
-        "News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments"
-      ],
-      "tweet_drafts": [
+        "Readership maths skills",
         "[Sponsor] Zed, a Font Superfamily",
         "Prototyping with LLMs",
         "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos"
       ],
+      "key_points_zh": [
+        "Readership maths skills",
+        "[Sponsor] Zed, a Font Superfamily",
+        "Prototyping with LLMs",
+        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos"
+      ],
+      "key_points_en": [
+        "Readership maths skills",
+        "[Sponsor] Zed, a Font Superfamily",
+        "Prototyping with LLMs",
+        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos"
+      ],
+      "tweet_drafts": [
+        "Readership maths skills",
+        "[Sponsor] Zed, a Font Superfamily",
+        "Prototyping with LLMs"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Readership maths skills",
+          "link": "https://entropicthoughts.com/readership-math-skills"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "[Sponsor] Zed, a Font Superfamily",
@@ -172,27 +177,22 @@
           "feed_title": "blog.jim-nielsen.com",
           "title": "Prototyping with LLMs",
           "link": "https://blog.jim-nielsen.com/2026/prototyping-with-llm/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos",
-          "link": "https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/"
         }
       ],
-      "summary_zh": "2026-04-06 技术日报：[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs；Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos。",
-      "summary_en": "Daily brief (2026-04-06): [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs; Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos.",
+      "summary_zh": "2026-04-06 技术日报：Readership maths skills；[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs。",
+      "summary_en": "Daily brief (2026-04-06): Readership maths skills; [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-06 日报】[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs；Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-06): [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs; Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-06 日报】Readership maths skills；[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-06): Readership maths skills; [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-06）\n- [Sponsor] Zed, a Font Superfamily\n- Prototyping with LLMs\n- Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df\n- https://blog.jim-nielsen.com/2026/prototyping-with-llm/\n- https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-06)\n- [Sponsor] Zed, a Font Superfamily\n- Prototyping with LLMs\n- Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df\n- https://blog.jim-nielsen.com/2026/prototyping-with-llm/\n- https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-06）\n- Readership maths skills\n- [Sponsor] Zed, a Font Superfamily\n- Prototyping with LLMs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/readership-math-skills\n- https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df\n- https://blog.jim-nielsen.com/2026/prototyping-with-llm/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-06)\n- Readership maths skills\n- [Sponsor] Zed, a Font Superfamily\n- Prototyping with LLMs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/readership-math-skills\n- https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df\n- https://blog.jim-nielsen.com/2026/prototyping-with-llm/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs；Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs; Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Readership maths skills；[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Readership maths skills; [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
