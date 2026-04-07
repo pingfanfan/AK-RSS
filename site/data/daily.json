@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:25:54Z",
+  "generated_at": "2026-04-07T16:47:06Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-07",
-      "total": 9,
+      "total": 10,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "daringfireball.net · Flighty Airports Meltdown Map",
         "dwarkesh.com · Michael Nielsen – How science actually progresses",
         "shkspr.mobi · Did WordPress VIP leak my phone number?",
         "dfarq.homeip.net · Hayes compatible modem: What it means",
         "nesbitt.io · Who Built This?",
-        "pluralistic.net · Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-        "utcc.utoronto.ca/~cks · Wondering about the typical retry times for email today"
+        "pluralistic.net · Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)"
       ],
       "key_points": [
-        "Michael Nielsen – How science actually progresses",
-        "Did WordPress VIP leak my phone number?",
-        "Hayes compatible modem: What it means",
-        "Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要"
-      ],
-      "key_points_zh": [
-        "Michael Nielsen – How science actually progresses",
-        "Did WordPress VIP leak my phone number?",
-        "Hayes compatible modem: What it means",
-        "Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要"
-      ],
-      "key_points_en": [
-        "Michael Nielsen – How science actually progresses",
-        "Did WordPress VIP leak my phone number?",
-        "Hayes compatible modem: What it means",
-        "Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging"
-      ],
-      "tweet_drafts": [
+        "Flighty Airports Meltdown Map",
         "Michael Nielsen – How science actually progresses",
         "Did WordPress VIP leak my phone number?",
         "Hayes compatible modem: What it means"
       ],
+      "key_points_zh": [
+        "Flighty Airports Meltdown Map",
+        "Michael Nielsen – How science actually progresses",
+        "Did WordPress VIP leak my phone number?",
+        "Hayes compatible modem: What it means"
+      ],
+      "key_points_en": [
+        "Flighty Airports Meltdown Map",
+        "Michael Nielsen – How science actually progresses",
+        "Did WordPress VIP leak my phone number?",
+        "Hayes compatible modem: What it means"
+      ],
+      "tweet_drafts": [
+        "Flighty Airports Meltdown Map",
+        "Michael Nielsen – How science actually progresses",
+        "Did WordPress VIP leak my phone number?"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Flighty Airports Meltdown Map",
+          "link": "https://flighty.com/airports"
+        },
         {
           "feed_title": "dwarkesh.com",
           "title": "Michael Nielsen – How science actually progresses",
@@ -98,27 +103,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Did WordPress VIP leak my phone number?",
           "link": "https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Hayes compatible modem: What it means",
-          "link": "https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=hayes-compatible-modem-what-it-means"
         }
       ],
-      "summary_zh": "2026-04-07 技术日报：Michael Nielsen – How science actually progresses；Did WordPress VIP leak my phone number?；Hayes compatible modem: What it means。",
-      "summary_en": "Daily brief (2026-04-07): Michael Nielsen – How science actually progresses; Did WordPress VIP leak my phone number?; Hayes compatible modem: What it means.",
+      "summary_zh": "2026-04-07 技术日报：Flighty Airports Meltdown Map；Michael Nielsen – How science actually progresses；Did WordPress VIP leak my phone number?。",
+      "summary_en": "Daily brief (2026-04-07): Flighty Airports Meltdown Map; Michael Nielsen – How science actually progresses; Did WordPress VIP leak my phone number?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-07 日报】Michael Nielsen – How science actually progresses；Did WordPress VIP leak my phone number?；Hayes compatible modem: What it means。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-07): Michael Nielsen – How science actually progresses; Did WordPress VIP leak my phone number?; Hayes compatible modem: What it means. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-07 日报】Flighty Airports Meltdown Map；Michael Nielsen – How science actually progresses；Did WordPress VIP leak my phone number?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-07): Flighty Airports Meltdown Map; Michael Nielsen – How science actually progresses; Did WordPress VIP leak my phone number?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-07）\n- Michael Nielsen – How science actually progresses\n- Did WordPress VIP leak my phone number?\n- Hayes compatible modem: What it means\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.dwarkesh.com/p/michael-nielsen\n- https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/\n- https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=hayes-compatible-modem-what-it-means\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-07)\n- Michael Nielsen – How science actually progresses\n- Did WordPress VIP leak my phone number?\n- Hayes compatible modem: What it means\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.dwarkesh.com/p/michael-nielsen\n- https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/\n- https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=hayes-compatible-modem-what-it-means\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-07）\n- Flighty Airports Meltdown Map\n- Michael Nielsen – How science actually progresses\n- Did WordPress VIP leak my phone number?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://flighty.com/airports\n- https://www.dwarkesh.com/p/michael-nielsen\n- https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-07)\n- Flighty Airports Meltdown Map\n- Michael Nielsen – How science actually progresses\n- Did WordPress VIP leak my phone number?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://flighty.com/airports\n- https://www.dwarkesh.com/p/michael-nielsen\n- https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Michael Nielsen – How science actually progresses；Did WordPress VIP leak my phone number?；Hayes compatible modem: What it means。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Michael Nielsen – How science actually progresses; Did WordPress VIP leak my phone number?; Hayes compatible modem: What it means.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Flighty Airports Meltdown Map；Michael Nielsen – How science actually progresses；Did WordPress VIP leak my phone number?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Flighty Airports Meltdown Map; Michael Nielsen – How science actually progresses; Did WordPress VIP leak my phone number?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
