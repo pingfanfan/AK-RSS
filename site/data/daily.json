@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T10:18:51Z",
+  "generated_at": "2026-04-07T10:46:33Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-04-07",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Who Built This?",
         "pluralistic.net · Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
         "utcc.utoronto.ca/~cks · Wondering about the typical retry times for email today",
         "troyhunt.com · Weekly Update 498",
@@ -64,29 +66,34 @@
         "joanwestenberg.com · The Hacker News tarpit"
       ],
       "key_points": [
-        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-        "Wondering about the typical retry times for email today",
-        "Weekly Update 498",
-        "All you need is Tofolli gates"
-      ],
-      "key_points_zh": [
-        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-        "Wondering about the typical retry times for email today",
-        "Weekly Update 498",
-        "All you need is Tofolli gates"
-      ],
-      "key_points_en": [
-        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
-        "Wondering about the typical retry times for email today",
-        "Weekly Update 498",
-        "All you need is Tofolli gates"
-      ],
-      "tweet_drafts": [
+        "Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要",
         "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
         "Wondering about the typical retry times for email today",
         "Weekly Update 498"
       ],
+      "key_points_zh": [
+        "Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要",
+        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
+        "Wondering about the typical retry times for email today",
+        "Weekly Update 498"
+      ],
+      "key_points_en": [
+        "Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging",
+        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
+        "Wondering about the typical retry times for email today",
+        "Weekly Update 498"
+      ],
+      "tweet_drafts": [
+        "Go默认嵌入版本信息，生产调试神器！对比Rust/.NET的手动配置，你的项目做到了吗？#开发实践 #DevOps",
+        "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
+        "Wondering about the typical retry times for email today"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Who Built This? Engineering Practices for Version Tracing",
+          "link": "https://nesbitt.io/2026/04/07/who-built-this.html"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
@@ -96,27 +103,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Wondering about the typical retry times for email today",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 498",
-          "link": "https://www.troyhunt.com/weekly-update-498/"
         }
       ],
-      "summary_zh": "2026-04-07 技术日报：Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)；Wondering about the typical retry times for email today；Weekly Update 498。",
-      "summary_en": "Daily brief (2026-04-07): Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026); Wondering about the typical retry times for email today; Weekly Update 498.",
+      "summary_zh": "2026-04-07 技术日报：Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要；Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)；Wondering about the typical retry times for email today。",
+      "summary_en": "Daily brief (2026-04-07): Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging; Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026); Wondering about the typical retry times for email today.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-07 日报】Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)；Wondering about the typical retry times for email today；Weekly Update 498。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-07): Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026); Wondering about the typical retry times for email today; Weekly Update 498. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-07 日报】Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要；Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)；Wondering about the typical retry times for email today。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-07): Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging; Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026); Wondering about the typical retry times for email today. Act"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-07）\n- Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)\n- Wondering about the typical retry times for email today\n- Weekly Update 498\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/07/swisscom/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering\n- https://www.troyhunt.com/weekly-update-498/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-07)\n- Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)\n- Wondering about the typical retry times for email today\n- Weekly Update 498\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/07/swisscom/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering\n- https://www.troyhunt.com/weekly-update-498/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-07）\n- Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要\n- Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)\n- Wondering about the typical retry times for email today\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/07/who-built-this.html\n- https://pluralistic.net/2026/04/07/swisscom/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-07)\n- Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging\n- Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)\n- Wondering about the typical retry times for email today\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/07/who-built-this.html\n- https://pluralistic.net/2026/04/07/swisscom/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)；Wondering about the typical retry times for email today；Weekly Update 498。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026); Wondering about the typical retry times for email today; Weekly Update 498.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Go默认嵌入VCS信息，其他语言需手动配置。版本追踪对生产调试至关重要；Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)；Wondering about the typical retry times for email today。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Go embeds VCS info by default; others require manual setup. Version tracing is critical for production debugging; Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026); Wondering about the typical retry times for email today.\nI turned them into an action-ready daily brief y"
         }
       }
     },
