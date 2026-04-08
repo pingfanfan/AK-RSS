@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T11:18:02Z",
+  "generated_at": "2026-04-08T11:45:56Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-04-08",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "dfarq.homeip.net (1)",
         "lucumr.pocoo.org (1)",
         "nesbitt.io (1)",
+        "shkspr.mobi (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Theatre Review: Avenue Q ★★★★★",
         "dfarq.homeip.net · Atari ST introduced April 8, 1985",
         "nesbitt.io · Package Security Problems for AI Agents",
         "tedium.co · Pork \u0026 Puppetry",
@@ -64,29 +66,34 @@
         "lucumr.pocoo.org · Mario and Earendil"
       ],
       "key_points": [
-        "Atari ST introduced April 8, 1985",
-        "Package Security Problems for AI Agents",
-        "Pork \u0026 Puppetry",
-        "Users and session classes in Systemd v258 and later (and a gotcha)"
-      ],
-      "key_points_zh": [
-        "Atari ST introduced April 8, 1985",
-        "Package Security Problems for AI Agents",
-        "Pork \u0026 Puppetry",
-        "Users and session classes in Systemd v258 and later (and a gotcha)"
-      ],
-      "key_points_en": [
-        "Atari ST introduced April 8, 1985",
-        "Package Security Problems for AI Agents",
-        "Pork \u0026 Puppetry",
-        "Users and session classes in Systemd v258 and later (and a gotcha)"
-      ],
-      "tweet_drafts": [
+        "Theatre Review: Avenue Q ★★★★★",
         "Atari ST introduced April 8, 1985",
         "Package Security Problems for AI Agents",
         "Pork \u0026 Puppetry"
       ],
+      "key_points_zh": [
+        "Theatre Review: Avenue Q ★★★★★",
+        "Atari ST introduced April 8, 1985",
+        "Package Security Problems for AI Agents",
+        "Pork \u0026 Puppetry"
+      ],
+      "key_points_en": [
+        "Theatre Review: Avenue Q ★★★★★",
+        "Atari ST introduced April 8, 1985",
+        "Package Security Problems for AI Agents",
+        "Pork \u0026 Puppetry"
+      ],
+      "tweet_drafts": [
+        "Theatre Review: Avenue Q ★★★★★",
+        "Atari ST introduced April 8, 1985",
+        "Package Security Problems for AI Agents"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Theatre Review: Avenue Q ★★★★★",
+          "link": "https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Atari ST introduced April 8, 1985",
@@ -96,27 +103,22 @@
           "feed_title": "nesbitt.io",
           "title": "Package Security Problems for AI Agents",
           "link": "https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Pork \u0026 Puppetry",
-          "link": "https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview"
         }
       ],
-      "summary_zh": "2026-04-08 技术日报：Atari ST introduced April 8, 1985；Package Security Problems for AI Agents；Pork \u0026 Puppetry。",
-      "summary_en": "Daily brief (2026-04-08): Atari ST introduced April 8, 1985; Package Security Problems for AI Agents; Pork \u0026 Puppetry.",
+      "summary_zh": "2026-04-08 技术日报：Theatre Review: Avenue Q ★★★★★；Atari ST introduced April 8, 1985；Package Security Problems for AI Agents。",
+      "summary_en": "Daily brief (2026-04-08): Theatre Review: Avenue Q ★★★★★; Atari ST introduced April 8, 1985; Package Security Problems for AI Agents.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-08 日报】Atari ST introduced April 8, 1985；Package Security Problems for AI Agents；Pork \u0026 Puppetry。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-08): Atari ST introduced April 8, 1985; Package Security Problems for AI Agents; Pork \u0026 Puppetry. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-08 日报】Theatre Review: Avenue Q ★★★★★；Atari ST introduced April 8, 1985；Package Security Problems for AI Agents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-08): Theatre Review: Avenue Q ★★★★★; Atari ST introduced April 8, 1985; Package Security Problems for AI Agents. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-08）\n- Atari ST introduced April 8, 1985\n- Package Security Problems for AI Agents\n- Pork \u0026 Puppetry\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/atari-st-introduced-april-8-1985/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=atari-st-introduced-april-8-1985\n- https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-08)\n- Atari ST introduced April 8, 1985\n- Package Security Problems for AI Agents\n- Pork \u0026 Puppetry\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/atari-st-introduced-april-8-1985/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=atari-st-introduced-april-8-1985\n- https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-08）\n- Theatre Review: Avenue Q ★★★★★\n- Atari ST introduced April 8, 1985\n- Package Security Problems for AI Agents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/\n- https://dfarq.homeip.net/atari-st-introduced-april-8-1985/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=atari-st-introduced-april-8-1985\n- https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-08)\n- Theatre Review: Avenue Q ★★★★★\n- Atari ST introduced April 8, 1985\n- Package Security Problems for AI Agents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/\n- https://dfarq.homeip.net/atari-st-introduced-april-8-1985/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=atari-st-introduced-april-8-1985\n- https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Atari ST introduced April 8, 1985；Package Security Problems for AI Agents；Pork \u0026 Puppetry。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Atari ST introduced April 8, 1985; Package Security Problems for AI Agents; Pork \u0026 Puppetry.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Theatre Review: Avenue Q ★★★★★；Atari ST introduced April 8, 1985；Package Security Problems for AI Agents。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Theatre Review: Avenue Q ★★★★★; Atari ST introduced April 8, 1985; Package Security Problems for AI Agents.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
