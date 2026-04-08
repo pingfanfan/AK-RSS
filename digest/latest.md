@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-08 08:47:01 UTC
+Generated at: 2026-04-08 09:21:16 UTC
 
-- [The day you get cut out of the economy](https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html) (`geohot.github.io`)
+- [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/) (`lucumr.pocoo.org`)

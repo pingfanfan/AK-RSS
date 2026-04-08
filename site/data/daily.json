@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T08:47:15Z",
+  "generated_at": "2026-04-08T09:21:30Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,30 +48,36 @@
     },
     {
       "date": "2026-04-08",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "lucumr.pocoo.org (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
         "tedium.co · Pork \u0026 Puppetry",
-        "utcc.utoronto.ca/~cks · Users and session classes in Systemd v258 and later (and a gotcha)"
+        "utcc.utoronto.ca/~cks · Users and session classes in Systemd v258 and later (and a gotcha)",
+        "lucumr.pocoo.org · Mario and Earendil"
       ],
       "key_points": [
         "Pork \u0026 Puppetry",
-        "Users and session classes in Systemd v258 and later (and a gotcha)"
+        "Users and session classes in Systemd v258 and later (and a gotcha)",
+        "Mario and Earendil"
       ],
       "key_points_zh": [
         "Pork \u0026 Puppetry",
-        "Users and session classes in Systemd v258 and later (and a gotcha)"
+        "Users and session classes in Systemd v258 and later (and a gotcha)",
+        "Mario and Earendil"
       ],
       "key_points_en": [
         "Pork \u0026 Puppetry",
-        "Users and session classes in Systemd v258 and later (and a gotcha)"
+        "Users and session classes in Systemd v258 and later (and a gotcha)",
+        "Mario and Earendil"
       ],
       "tweet_drafts": [
         "Pork \u0026 Puppetry",
-        "Users and session classes in Systemd v258 and later (and a gotcha)"
+        "Users and session classes in Systemd v258 and later (and a gotcha)",
+        "Mario and Earendil"
       ],
       "sources": [
         {
@@ -83,22 +89,27 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Users and session classes in Systemd v258 and later (and a gotcha)",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions"
+        },
+        {
+          "feed_title": "lucumr.pocoo.org",
+          "title": "Mario and Earendil",
+          "link": "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/"
         }
       ],
-      "summary_zh": "2026-04-08 技术日报：Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)。",
-      "summary_en": "Daily brief (2026-04-08): Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha).",
+      "summary_zh": "2026-04-08 技术日报：Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)；Mario and Earendil。",
+      "summary_en": "Daily brief (2026-04-08): Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha); Mario and Earendil.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-08 日报】Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-08): Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-08 日报】Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)；Mario and Earendil。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-08): Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha); Mario and Earendil. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-08）\n- Pork \u0026 Puppetry\n- Users and session classes in Systemd v258 and later (and a gotcha)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-08)\n- Pork \u0026 Puppetry\n- Users and session classes in Systemd v258 and later (and a gotcha)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-08）\n- Pork \u0026 Puppetry\n- Users and session classes in Systemd v258 and later (and a gotcha)\n- Mario and Earendil\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions\n- https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-08)\n- Pork \u0026 Puppetry\n- Users and session classes in Systemd v258 and later (and a gotcha)\n- Mario and Earendil\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions\n- https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)；Mario and Earendil。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha); Mario and Earendil.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
