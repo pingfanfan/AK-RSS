@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-08 15:26:27 UTC
+Generated at: 2026-04-08 16:00:24 UTC
 
-- [Quoting Giles Turnbull](https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything) (`simonwillison.net`)
-- [How did we end up threatening our kids’ lives with AI?](https://anildash.com/2026/02/18/threatening-kids-with-AI/) (`anildash.com`)
+- [Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public](https://red.anthropic.com/2026/mythos-preview/) (`daringfireball.net`)
+- [AI Is Really Weird](https://www.wheresyoured.at/ai-is-really-weird/) (`wheresyoured.at`)

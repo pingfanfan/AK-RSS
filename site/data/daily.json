@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T15:26:42Z",
+  "generated_at": "2026-04-08T16:00:41Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-04-08",
-      "total": 8,
+      "total": 10,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "lucumr.pocoo.org (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "daringfireball.net · Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
+        "wheresyoured.at · AI Is Really Weird",
         "simonwillison.net · Quoting Giles Turnbull",
         "pluralistic.net · Pluralistic: Process knowledge (08 Apr 2026)",
         "shkspr.mobi · Theatre Review: Avenue Q ★★★★★",
-        "dfarq.homeip.net · Atari ST introduced April 8, 1985",
-        "nesbitt.io · Package Security Problems for AI Agents",
-        "tedium.co · Pork \u0026 Puppetry"
+        "dfarq.homeip.net · Atari ST introduced April 8, 1985"
       ],
       "key_points": [
+        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
+        "AI Is Really Weird",
         "Quoting Giles Turnbull",
-        "Pluralistic: Process knowledge (08 Apr 2026)",
-        "Theatre Review: Avenue Q ★★★★★",
-        "Atari ST introduced April 8, 1985"
+        "Pluralistic: Process knowledge (08 Apr 2026)"
       ],
       "key_points_zh": [
+        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
+        "AI Is Really Weird",
         "Quoting Giles Turnbull",
-        "Pluralistic: Process knowledge (08 Apr 2026)",
-        "Theatre Review: Avenue Q ★★★★★",
-        "Atari ST introduced April 8, 1985"
+        "Pluralistic: Process knowledge (08 Apr 2026)"
       ],
       "key_points_en": [
+        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
+        "AI Is Really Weird",
         "Quoting Giles Turnbull",
-        "Pluralistic: Process knowledge (08 Apr 2026)",
-        "Theatre Review: Avenue Q ★★★★★",
-        "Atari ST introduced April 8, 1985"
+        "Pluralistic: Process knowledge (08 Apr 2026)"
       ],
       "tweet_drafts": [
-        "Quoting Giles Turnbull",
-        "Pluralistic: Process knowledge (08 Apr 2026)",
-        "Theatre Review: Avenue Q ★★★★★"
+        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
+        "AI Is Really Weird",
+        "Quoting Giles Turnbull"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
+          "link": "https://red.anthropic.com/2026/mythos-preview/"
+        },
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "AI Is Really Weird",
+          "link": "https://www.wheresyoured.at/ai-is-really-weird/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Giles Turnbull",
           "link": "https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Process knowledge (08 Apr 2026)",
-          "link": "https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Theatre Review: Avenue Q ★★★★★",
-          "link": "https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/"
         }
       ],
-      "summary_zh": "2026-04-08 技术日报：Quoting Giles Turnbull；Pluralistic: Process knowledge (08 Apr 2026)；Theatre Review: Avenue Q ★★★★★。",
-      "summary_en": "Daily brief (2026-04-08): Quoting Giles Turnbull; Pluralistic: Process knowledge (08 Apr 2026); Theatre Review: Avenue Q ★★★★★.",
+      "summary_zh": "2026-04-08 技术日报：Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public；AI Is Really Weird；Quoting Giles Turnbull。",
+      "summary_en": "Daily brief (2026-04-08): Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public; AI Is Really Weird; Quoting Giles Turnbull.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-08 日报】Quoting Giles Turnbull；Pluralistic: Process knowledge (08 Apr 2026)；Theatre Review: Avenue Q ★★★★★。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-08): Quoting Giles Turnbull; Pluralistic: Process knowledge (08 Apr 2026); Theatre Review: Avenue Q ★★★★★. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-08 日报】Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public；AI Is Really Weird；Quoting Giles Turnbull。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-08): Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public; AI Is Really Weird; Quoting Giles Turnbull. Actionable takeaways included. What would you ship next? #AI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-08）\n- Quoting Giles Turnbull\n- Pluralistic: Process knowledge (08 Apr 2026)\n- Theatre Review: Avenue Q ★★★★★\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything\n- https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/\n- https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-08)\n- Quoting Giles Turnbull\n- Pluralistic: Process knowledge (08 Apr 2026)\n- Theatre Review: Avenue Q ★★★★★\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything\n- https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/\n- https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-08）\n- Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public\n- AI Is Really Weird\n- Quoting Giles Turnbull\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://red.anthropic.com/2026/mythos-preview/\n- https://www.wheresyoured.at/ai-is-really-weird/\n- https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-08)\n- Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public\n- AI Is Really Weird\n- Quoting Giles Turnbull\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://red.anthropic.com/2026/mythos-preview/\n- https://www.wheresyoured.at/ai-is-really-weird/\n- https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Giles Turnbull；Pluralistic: Process knowledge (08 Apr 2026)；Theatre Review: Avenue Q ★★★★★。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Giles Turnbull; Pluralistic: Process knowledge (08 Apr 2026); Theatre Review: Avenue Q ★★★★★.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public；AI Is Really Weird；Quoting Giles Turnbull。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public; AI Is Really Weird; Quoting Giles Turnbull.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
