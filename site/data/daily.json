@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T22:43:35Z",
+  "generated_at": "2026-04-08T06:26:10Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -43,6 +43,62 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: You Might Debate It — If You Could See It.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "total": 2,
+      "feeds": [
+        "tedium.co (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "tedium.co · Pork \u0026 Puppetry",
+        "utcc.utoronto.ca/~cks · Users and session classes in Systemd v258 and later (and a gotcha)"
+      ],
+      "key_points": [
+        "Pork \u0026 Puppetry",
+        "Users and session classes in Systemd v258 and later (and a gotcha)"
+      ],
+      "key_points_zh": [
+        "Pork \u0026 Puppetry",
+        "Users and session classes in Systemd v258 and later (and a gotcha)"
+      ],
+      "key_points_en": [
+        "Pork \u0026 Puppetry",
+        "Users and session classes in Systemd v258 and later (and a gotcha)"
+      ],
+      "tweet_drafts": [
+        "Pork \u0026 Puppetry",
+        "Users and session classes in Systemd v258 and later (and a gotcha)"
+      ],
+      "sources": [
+        {
+          "feed_title": "tedium.co",
+          "title": "Pork \u0026 Puppetry",
+          "link": "https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Users and session classes in Systemd v258 and later (and a gotcha)",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions"
+        }
+      ],
+      "summary_zh": "2026-04-08 技术日报：Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)。",
+      "summary_en": "Daily brief (2026-04-08): Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha).",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-08 日报】Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-08): Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-08）\n- Pork \u0026 Puppetry\n- Users and session classes in Systemd v258 and later (and a gotcha)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-08)\n- Pork \u0026 Puppetry\n- Users and session classes in Systemd v258 and later (and a gotcha)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Pork \u0026 Puppetry；Users and session classes in Systemd v258 and later (and a gotcha)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pork \u0026 Puppetry; Users and session classes in Systemd v258 and later (and a gotcha).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2225,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：核心发现：在衡量实际软件工程能力的SWE-bench基准上，顶级LLM的性能近年出现停滞，提示单纯扩大规模可能遇到瓶颈；作者用Claude Artifacts快速创建了7种排序算法的交互动画，并加入Python Timsort和并行对比功能；在AI与安全领域，开发者必须培养现实素养，以甄别信息真伪，避免被虚假数据误导决策。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Key finding: Top LLMs show performance stagnation on SWE-bench, a benchmark measuring practical software engineering ability, suggesting scaling alone may face diminishing returns; Author quickly built interactive animations for 7 sorting algorithms using Claude Artifacts, addi"
-        }
-      }
-    },
-    {
-      "date": "2026-03-10",
-      "total": 17,
-      "feeds": [
-        "johndcook.com (2)",
-        "buttondown.com/hillelwayne (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "geohot.github.io (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ★ The MacBook Neo",
-        "simonwillison.net · AI should help us produce better code",
-        "idiallo.com · I'm Not Lying, I'm Hallucinating",
-        "wheresyoured.at · The Beginning Of History",
-        "buttondown.com/hillelwayne · LLMs are bad at vibing specifications",
-        "johndcook.com · Simplifying expressions in SymPy"
-      ],
-      "key_points": [
-        "★ The MacBook Neo",
-        "利用AI编码代理自动化简单但耗时的重构任务，主动避免技术债务，从而提升代码质量与开发效率",
-        "文章剖析了AI领域‘幻觉’一词的滥用：将LLM的事实错误重新定义为‘幻觉’，实则是为技术缺陷开脱，开发者需正视‘我不知道’的缺失",
-        "霍尔木兹海峡控制全球20%石油与液化天然气运输，地缘冲突将直接冲击全球能源供应链，进而影响AI算力成本与科技基础设施稳定性"
-      ],
-      "key_points_zh": [
-        "★ The MacBook Neo",
-        "利用AI编码代理自动化简单但耗时的重构任务，主动避免技术债务，从而提升代码质量与开发效率",
-        "文章剖析了AI领域‘幻觉’一词的滥用：将LLM的事实错误重新定义为‘幻觉’，实则是为技术缺陷开脱，开发者需正视‘我不知道’的缺失",
-        "霍尔木兹海峡控制全球20%石油与液化天然气运输，地缘冲突将直接冲击全球能源供应链，进而影响AI算力成本与科技基础设施稳定性"
-      ],
-      "key_points_en": [
-        "★ The MacBook Neo",
-        "Use AI coding agents to automate simple but time-consuming refactoring tasks, proactively avoid technical debt, and improve code quality and development efficiency",
-        "The article dissects the misuse of 'hallucination' in AI: reframing LLM factual errors as 'hallucinations' is a euphemism for technical flaws. Developers must confront the absence of 'I don't know'",
-        "The Strait of Hormuz controls 20% of global oil and LNG shipments. Geopolitical conflict here directly disrupts energy supply chains, impacting AI compute costs and tech infrastructure stability"
-      ],
-      "tweet_drafts": [
-        "★ The MacBook Neo",
-        "用AI写代码不一定会降质——关键在用它做对的事。让AI代理处理耗时重构，避免技术债务，团队专注核心功能。选择权在你",
-        "别再为AI的幻觉找借口了。我们需要模型学会说‘我不知道’。这是安全与可靠性的基础。转发讨论"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ The MacBook Neo",
-          "link": "https://daringfireball.net/2026/03/the_macbook_neo"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "AI should help us produce better code",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "I'm Not Lying, I'm Hallucinating",
-          "link": "https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed"
-        }
-      ],
-      "summary_zh": "2026-03-10 技术日报：★ The MacBook Neo；利用AI编码代理自动化简单但耗时的重构任务，主动避免技术债务，从而提升代码质量与开发效率；文章剖析了AI领域‘幻觉’一词的滥用：将LLM的事实错误重新定义为‘幻觉’，实则是为技术缺陷开脱，开发者需正视‘我不知道’的缺失。",
-      "summary_en": "Daily brief (2026-03-10): ★ The MacBook Neo; Use AI coding agents to automate simple but time-consuming refactoring tasks, proactively avoid technical debt, and improve code quality and development efficiency; The article dissects the misuse of 'hallucination'",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-10 日报】★ The MacBook Neo；利用AI编码代理自动化简单但耗时的重构任务，主动避免技术债务，从而提升代码质量与开发效率；文章剖析了AI领域‘幻觉’一词的滥用：将LLM的事实错误重新定义为‘幻觉’，实则是为技术缺陷开脱，开发者需正视‘我不知道’的缺失。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-10): ★ The MacBook Neo; Use AI coding agents to automate simple but time-consuming refactoring tasks, proactively avoid technical debt, and improve code quality and development efficiency; The article dissects the misuse of 'hallucination"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-10）\n- ★ The MacBook Neo\n- 利用AI编码代理自动化简单但耗时的重构任务，主动避免技术债务，从而提升代码质量与开发效率\n- 文章剖析了AI领域‘幻觉’一词的滥用：将LLM的事实错误重新定义为‘幻觉’，实则是为技术缺陷开脱，开发者需正视‘我不知道’的缺失\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/03/the_macbook_neo\n- https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything\n- https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-10)\n- ★ The MacBook Neo\n- Use AI coding agents to automate simple but time-consuming refactoring tasks, proactively avoid technical debt, and improve code quality and development efficiency\n- The article dissects the misuse of 'hallucination' in AI: reframing LLM factual errors as 'hallucinations' is a euphemism for technical flaws. Developers must confront the absence of 'I don't know'\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/03/the_macbook_neo\n- https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything\n- https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：★ The MacBook Neo；利用AI编码代理自动化简单但耗时的重构任务，主动避免技术债务，从而提升代码质量与开发效率；文章剖析了AI领域‘幻觉’一词的滥用：将LLM的事实错误重新定义为‘幻觉’，实则是为技术缺陷开脱，开发者需正视‘我不知道’的缺失。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ The MacBook Neo; Use AI coding agents to automate simple but time-consuming refactoring tasks, proactively avoid technical debt, and improve code quality and development efficiency; The article dissects the misuse of 'hallucination' in AI: reframing LLM factual errors as 'hal"
         }
       }
     }
