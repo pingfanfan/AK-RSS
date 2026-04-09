@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T21:12:40Z",
+  "generated_at": "2026-04-09T21:44:13Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-09",
-      "total": 21,
+      "total": 22,
       "feeds": [
         "johndcook.com (3)",
+        "simonwillison.net (3)",
         "daringfireball.net (2)",
         "dynomight.net (2)",
-        "simonwillison.net (2)",
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · GitHub Repo Size",
         "daringfireball.net · Adobe Diddles With Your /etc/hosts File",
         "blog.jim-nielsen.com · Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
         "johndcook.com · The Great Pyramid of Giza and the Speed of Light",
         "johndcook.com · Random hexagon fractal",
-        "daringfireball.net · Lickspittle of the Week: Todd Blanche",
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships"
+        "daringfireball.net · Lickspittle of the Week: Todd Blanche"
       ],
       "key_points": [
-        "Adobe Diddles With Your /etc/hosts File",
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light",
-        "Random hexagon fractal"
-      ],
-      "key_points_zh": [
-        "Adobe Diddles With Your /etc/hosts File",
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light",
-        "Random hexagon fractal"
-      ],
-      "key_points_en": [
-        "Adobe Diddles With Your /etc/hosts File",
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light",
-        "Random hexagon fractal"
-      ],
-      "tweet_drafts": [
+        "GitHub Repo Size",
         "Adobe Diddles With Your /etc/hosts File",
         "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
         "The Great Pyramid of Giza and the Speed of Light"
       ],
+      "key_points_zh": [
+        "GitHub Repo Size",
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
+        "The Great Pyramid of Giza and the Speed of Light"
+      ],
+      "key_points_en": [
+        "GitHub Repo Size",
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
+        "The Great Pyramid of Giza and the Speed of Light"
+      ],
+      "tweet_drafts": [
+        "GitHub Repo Size",
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "GitHub Repo Size",
+          "link": "https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Adobe Diddles With Your /etc/hosts File",
@@ -98,27 +103,22 @@
           "feed_title": "blog.jim-nielsen.com",
           "title": "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
           "link": "https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "The Great Pyramid of Giza and the Speed of Light",
-          "link": "https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/"
         }
       ],
-      "summary_zh": "2026-04-09 技术日报：Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light。",
-      "summary_en": "Daily brief (2026-04-09): Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light.",
+      "summary_zh": "2026-04-09 技术日报：GitHub Repo Size；Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments。",
+      "summary_en": "Daily brief (2026-04-09): GitHub Repo Size; Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-09 日报】Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-09): Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light. Actionable takeaways included. What would you ship next? #AI #Engineer"
+          "zh": "【2026-04-09 日报】GitHub Repo Size；Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-09): GitHub Repo Size; Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-09）\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n- The Great Pyramid of Giza and the Speed of Light\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n- https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-09)\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n- The Great Pyramid of Giza and the Speed of Light\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n- https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-09）\n- GitHub Repo Size\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-09)\n- GitHub Repo Size\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：GitHub Repo Size；Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: GitHub Repo Size; Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
