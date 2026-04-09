@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T22:10:26Z",
+  "generated_at": "2026-04-09T22:43:38Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-09",
-      "total": 23,
+      "total": 24,
       "feeds": [
+        "daringfireball.net (3)",
         "johndcook.com (3)",
         "simonwillison.net (3)",
-        "daringfireball.net (2)",
         "dynomight.net (2)",
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
         "simonwillison.net · GitHub Repo Size",
         "daringfireball.net · Adobe Diddles With Your /etc/hosts File",
         "blog.jim-nielsen.com · Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
         "johndcook.com · The Great Pyramid of Giza and the Speed of Light",
-        "johndcook.com · Random hexagon fractal",
-        "daringfireball.net · Lickspittle of the Week: Todd Blanche"
+        "johndcook.com · Random hexagon fractal"
       ],
       "key_points": [
-        "GitHub Repo Size",
-        "Adobe Diddles With Your /etc/hosts File",
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light"
-      ],
-      "key_points_zh": [
-        "GitHub Repo Size",
-        "Adobe Diddles With Your /etc/hosts File",
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light"
-      ],
-      "key_points_en": [
-        "GitHub Repo Size",
-        "Adobe Diddles With Your /etc/hosts File",
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light"
-      ],
-      "tweet_drafts": [
+        "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
         "GitHub Repo Size",
         "Adobe Diddles With Your /etc/hosts File",
         "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments"
       ],
+      "key_points_zh": [
+        "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
+        "GitHub Repo Size",
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments"
+      ],
+      "key_points_en": [
+        "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
+        "GitHub Repo Size",
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments"
+      ],
+      "tweet_drafts": [
+        "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
+        "GitHub Repo Size",
+        "Adobe Diddles With Your /etc/hosts File"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
+          "link": "https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "GitHub Repo Size",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Adobe Diddles With Your /etc/hosts File",
           "link": "https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-          "link": "https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/"
         }
       ],
-      "summary_zh": "2026-04-09 技术日报：GitHub Repo Size；Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments。",
-      "summary_en": "Daily brief (2026-04-09): GitHub Repo Size; Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments.",
+      "summary_zh": "2026-04-09 技术日报：MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe；GitHub Repo Size；Adobe Diddles With Your /etc/hosts File。",
+      "summary_en": "Daily brief (2026-04-09): MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe; GitHub Repo Size; Adobe Diddles With Your /etc/hosts File.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-09 日报】GitHub Repo Size；Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-09): GitHub Repo Size; Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-09 日报】MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe；GitHub Repo Size；Adobe Diddles With Your /etc/hosts File。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-09): MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe; GitHub Repo Size; Adobe Diddles With Your /etc/hosts File. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-09）\n- GitHub Repo Size\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-09)\n- GitHub Repo Size\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-09）\n- MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe\n- GitHub Repo Size\n- Adobe Diddles With Your /etc/hosts File\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/\n- https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-09)\n- MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe\n- GitHub Repo Size\n- Adobe Diddles With Your /etc/hosts File\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/\n- https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：GitHub Repo Size；Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: GitHub Repo Size; Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe；GitHub Repo Size；Adobe Diddles With Your /etc/hosts File。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe; GitHub Repo Size; Adobe Diddles With Your /etc/hosts File.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
