@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T20:13:43Z",
+  "generated_at": "2026-04-09T20:44:46Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-09",
-      "total": 19,
+      "total": 20,
       "feeds": [
         "johndcook.com (3)",
+        "daringfireball.net (2)",
         "dynomight.net (2)",
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)",
-        "construction-physics.com (1)",
-        "daringfireball.net (1)"
+        "construction-physics.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Adobe Diddles With Your /etc/hosts File",
         "blog.jim-nielsen.com · Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
         "johndcook.com · The Great Pyramid of Giza and the Speed of Light",
         "johndcook.com · Random hexagon fractal",
         "daringfireball.net · Lickspittle of the Week: Todd Blanche",
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships",
-        "devblogs.microsoft.com/oldnewthing · How do you add or remove a handle from an active Wait­For­Multiple­Objects?"
+        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships"
       ],
       "key_points": [
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light",
-        "Random hexagon fractal",
-        "Lickspittle of the Week: Todd Blanche"
-      ],
-      "key_points_zh": [
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light",
-        "Random hexagon fractal",
-        "Lickspittle of the Week: Todd Blanche"
-      ],
-      "key_points_en": [
-        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
-        "The Great Pyramid of Giza and the Speed of Light",
-        "Random hexagon fractal",
-        "Lickspittle of the Week: Todd Blanche"
-      ],
-      "tweet_drafts": [
+        "Adobe Diddles With Your /etc/hosts File",
         "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
         "The Great Pyramid of Giza and the Speed of Light",
         "Random hexagon fractal"
       ],
+      "key_points_zh": [
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
+        "The Great Pyramid of Giza and the Speed of Light",
+        "Random hexagon fractal"
+      ],
+      "key_points_en": [
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
+        "The Great Pyramid of Giza and the Speed of Light",
+        "Random hexagon fractal"
+      ],
+      "tweet_drafts": [
+        "Adobe Diddles With Your /etc/hosts File",
+        "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
+        "The Great Pyramid of Giza and the Speed of Light"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Adobe Diddles With Your /etc/hosts File",
+          "link": "https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/"
+        },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "The Great Pyramid of Giza and the Speed of Light",
           "link": "https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Random hexagon fractal",
-          "link": "https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/"
         }
       ],
-      "summary_zh": "2026-04-09 技术日报：Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light；Random hexagon fractal。",
-      "summary_en": "Daily brief (2026-04-09): Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light; Random hexagon fractal.",
+      "summary_zh": "2026-04-09 技术日报：Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light。",
+      "summary_en": "Daily brief (2026-04-09): Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-09 日报】Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light；Random hexagon fractal。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-09): Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light; Random hexagon fractal. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubli"
+          "zh": "【2026-04-09 日报】Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-09): Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light. Actionable takeaways included. What would you ship next? #AI #Engineer"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-09）\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n- The Great Pyramid of Giza and the Speed of Light\n- Random hexagon fractal\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n- https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/\n- https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-09)\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n- The Great Pyramid of Giza and the Speed of Light\n- Random hexagon fractal\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n- https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/\n- https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-09）\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n- The Great Pyramid of Giza and the Speed of Light\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n- https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-09)\n- Adobe Diddles With Your /etc/hosts File\n- Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments\n- The Great Pyramid of Giza and the Speed of Light\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/\n- https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/\n- https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light；Random hexagon fractal。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light; Random hexagon fractal.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Adobe Diddles With Your /etc/hosts File；Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments；The Great Pyramid of Giza and the Speed of Light。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Adobe Diddles With Your /etc/hosts File; Fewer Computers, Fewer Problems: Going Local With Builds \u0026 Deployments; The Great Pyramid of Giza and the Speed of Light.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
