@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-09 10:48:30 UTC
+Generated at: 2026-04-09 11:18:38 UTC
 
-- [Package Security Defenses for AI Agents](https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html) (`nesbitt.io`)
-- [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/) (`matduggan.com`)
+- [Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)](https://pluralistic.net/2026/04/09/bernstein-2/) (`pluralistic.net`)
+- [Osborne Computer liquidated April 9, 1986](https://dfarq.homeip.net/osborne-computer-liquidated-april-9-1986/?utm_source=rss&utm_medium=rss&utm_campaign=osborne-computer-liquidated-april-9-1986) (`dfarq.homeip.net`)
