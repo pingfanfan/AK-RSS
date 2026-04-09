@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-09 11:45:43 UTC
+Generated at: 2026-04-09 12:12:43 UTC
 
-- [I quit drinking for a year](https://dynomight.net/drinking/) (`dynomight.net`)
-- [Book Review: Small Comfort by Ia Genberg ★★☆☆☆](https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/) (`shkspr.mobi`)
+- [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace) (`construction-physics.com`)
