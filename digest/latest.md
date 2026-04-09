@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-09 21:43:59 UTC
+Generated at: 2026-04-09 22:10:13 UTC
 
-- [GitHub Repo Size](https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything) (`simonwillison.net`)
+- [What Are You Trying to Say?](https://idiallo.com/blog/what-are-you-trying-to-say?src=feed) (`idiallo.com`)
