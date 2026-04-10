@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T11:15:52Z",
+  "generated_at": "2026-04-10T11:44:39Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-10",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "tedium.co (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "shkspr.mobi · [RSS Club] Why do you use RSS rather than Atom?",
         "dfarq.homeip.net · Intel 486 CPU announced April 10, 1989",
         "nesbitt.io · Package Registries and Pagination",
         "pluralistic.net · Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
         "tedium.co · The Solitaire Shuffle",
-        "eli.thegreenplace.net · watgo - a WebAssembly Toolkit for Go",
-        "joanwestenberg.com · Why I quit \"The Strive\""
+        "eli.thegreenplace.net · watgo - a WebAssembly Toolkit for Go"
       ],
       "key_points": [
-        "Intel 486 CPU announced April 10, 1989",
-        "Package Registries and Pagination",
-        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-        "The Solitaire Shuffle"
-      ],
-      "key_points_zh": [
-        "Intel 486 CPU announced April 10, 1989",
-        "Package Registries and Pagination",
-        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-        "The Solitaire Shuffle"
-      ],
-      "key_points_en": [
-        "Intel 486 CPU announced April 10, 1989",
-        "Package Registries and Pagination",
-        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-        "The Solitaire Shuffle"
-      ],
-      "tweet_drafts": [
+        "[RSS Club] Why do you use RSS rather than Atom?",
         "Intel 486 CPU announced April 10, 1989",
         "Package Registries and Pagination",
         "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)"
       ],
+      "key_points_zh": [
+        "[RSS Club] Why do you use RSS rather than Atom?",
+        "Intel 486 CPU announced April 10, 1989",
+        "Package Registries and Pagination",
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)"
+      ],
+      "key_points_en": [
+        "[RSS Club] Why do you use RSS rather than Atom?",
+        "Intel 486 CPU announced April 10, 1989",
+        "Package Registries and Pagination",
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)"
+      ],
+      "tweet_drafts": [
+        "[RSS Club] Why do you use RSS rather than Atom?",
+        "Intel 486 CPU announced April 10, 1989",
+        "Package Registries and Pagination"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "[RSS Club] Why do you use RSS rather than Atom?",
+          "link": "https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Intel 486 CPU announced April 10, 1989",
@@ -98,27 +103,22 @@
           "feed_title": "nesbitt.io",
           "title": "Package Registries and Pagination",
           "link": "https://nesbitt.io/2026/04/10/package-registries-and-pagination.html"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-          "link": "https://pluralistic.net/2026/04/10/canny-valley/"
         }
       ],
-      "summary_zh": "2026-04-10 技术日报：Intel 486 CPU announced April 10, 1989；Package Registries and Pagination；Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)。",
-      "summary_en": "Daily brief (2026-04-10): Intel 486 CPU announced April 10, 1989; Package Registries and Pagination; Pluralistic: Canny Valley and Creative Commons (10 Apr 2026).",
+      "summary_zh": "2026-04-10 技术日报：[RSS Club] Why do you use RSS rather than Atom?；Intel 486 CPU announced April 10, 1989；Package Registries and Pagination。",
+      "summary_en": "Daily brief (2026-04-10): [RSS Club] Why do you use RSS rather than Atom?; Intel 486 CPU announced April 10, 1989; Package Registries and Pagination.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-10 日报】Intel 486 CPU announced April 10, 1989；Package Registries and Pagination；Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-10): Intel 486 CPU announced April 10, 1989; Package Registries and Pagination; Pluralistic: Canny Valley and Creative Commons (10 Apr 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-10 日报】[RSS Club] Why do you use RSS rather than Atom?；Intel 486 CPU announced April 10, 1989；Package Registries and Pagination。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-10): [RSS Club] Why do you use RSS rather than Atom?; Intel 486 CPU announced April 10, 1989; Package Registries and Pagination. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-10）\n- Intel 486 CPU announced April 10, 1989\n- Package Registries and Pagination\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486-cpu-announced-april-10-1989\n- https://nesbitt.io/2026/04/10/package-registries-and-pagination.html\n- https://pluralistic.net/2026/04/10/canny-valley/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-10)\n- Intel 486 CPU announced April 10, 1989\n- Package Registries and Pagination\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486-cpu-announced-april-10-1989\n- https://nesbitt.io/2026/04/10/package-registries-and-pagination.html\n- https://pluralistic.net/2026/04/10/canny-valley/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-10）\n- [RSS Club] Why do you use RSS rather than Atom?\n- Intel 486 CPU announced April 10, 1989\n- Package Registries and Pagination\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/\n- https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486-cpu-announced-april-10-1989\n- https://nesbitt.io/2026/04/10/package-registries-and-pagination.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-10)\n- [RSS Club] Why do you use RSS rather than Atom?\n- Intel 486 CPU announced April 10, 1989\n- Package Registries and Pagination\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/\n- https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-486-cpu-announced-april-10-1989\n- https://nesbitt.io/2026/04/10/package-registries-and-pagination.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Intel 486 CPU announced April 10, 1989；Package Registries and Pagination；Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Intel 486 CPU announced April 10, 1989; Package Registries and Pagination; Pluralistic: Canny Valley and Creative Commons (10 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：[RSS Club] Why do you use RSS rather than Atom?；Intel 486 CPU announced April 10, 1989；Package Registries and Pagination。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [RSS Club] Why do you use RSS rather than Atom?; Intel 486 CPU announced April 10, 1989; Package Registries and Pagination.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
