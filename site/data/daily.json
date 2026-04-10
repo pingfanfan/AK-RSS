@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T09:51:35Z",
+  "generated_at": "2026-04-10T10:19:14Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,43 +48,50 @@
     },
     {
       "date": "2026-04-10",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
+        "pluralistic.net (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
         "tedium.co · The Solitaire Shuffle",
         "eli.thegreenplace.net · watgo - a WebAssembly Toolkit for Go",
         "joanwestenberg.com · Why I quit \"The Strive\"",
         "utcc.utoronto.ca/~cks · Some quick notes to myself on nftables 'symbolic variables'"
       ],
       "key_points": [
-        "The Solitaire Shuffle",
-        "watgo - a WebAssembly Toolkit for Go",
-        "Why I quit \"The Strive\"",
-        "Some quick notes to myself on nftables 'symbolic variables'"
-      ],
-      "key_points_zh": [
-        "The Solitaire Shuffle",
-        "watgo - a WebAssembly Toolkit for Go",
-        "Why I quit \"The Strive\"",
-        "Some quick notes to myself on nftables 'symbolic variables'"
-      ],
-      "key_points_en": [
-        "The Solitaire Shuffle",
-        "watgo - a WebAssembly Toolkit for Go",
-        "Why I quit \"The Strive\"",
-        "Some quick notes to myself on nftables 'symbolic variables'"
-      ],
-      "tweet_drafts": [
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
         "The Solitaire Shuffle",
         "watgo - a WebAssembly Toolkit for Go",
         "Why I quit \"The Strive\""
       ],
+      "key_points_zh": [
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+        "The Solitaire Shuffle",
+        "watgo - a WebAssembly Toolkit for Go",
+        "Why I quit \"The Strive\""
+      ],
+      "key_points_en": [
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+        "The Solitaire Shuffle",
+        "watgo - a WebAssembly Toolkit for Go",
+        "Why I quit \"The Strive\""
+      ],
+      "tweet_drafts": [
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+        "The Solitaire Shuffle",
+        "watgo - a WebAssembly Toolkit for Go"
+      ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+          "link": "https://pluralistic.net/2026/04/10/canny-valley/"
+        },
         {
           "feed_title": "tedium.co",
           "title": "The Solitaire Shuffle",
@@ -94,27 +101,22 @@
           "feed_title": "eli.thegreenplace.net",
           "title": "watgo - a WebAssembly Toolkit for Go",
           "link": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "Why I quit \"The Strive\"",
-          "link": "https://www.joanwestenberg.com/why-i-quit-the-strive/"
         }
       ],
-      "summary_zh": "2026-04-10 技术日报：The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go；Why I quit \"The Strive\"。",
-      "summary_en": "Daily brief (2026-04-10): The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go; Why I quit \"The Strive\".",
+      "summary_zh": "2026-04-10 技术日报：Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go。",
+      "summary_en": "Daily brief (2026-04-10): Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-10 日报】The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go；Why I quit \"The Strive\"。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-10): The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go; Why I quit \"The Strive\". Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-10 日报】Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-10): Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-10）\n- The Solitaire Shuffle\n- watgo - a WebAssembly Toolkit for Go\n- Why I quit \"The Strive\"\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n- https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/\n- https://www.joanwestenberg.com/why-i-quit-the-strive/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-10)\n- The Solitaire Shuffle\n- watgo - a WebAssembly Toolkit for Go\n- Why I quit \"The Strive\"\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n- https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/\n- https://www.joanwestenberg.com/why-i-quit-the-strive/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-10）\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n- The Solitaire Shuffle\n- watgo - a WebAssembly Toolkit for Go\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/10/canny-valley/\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n- https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-10)\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n- The Solitaire Shuffle\n- watgo - a WebAssembly Toolkit for Go\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/10/canny-valley/\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n- https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go；Why I quit \"The Strive\"。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go; Why I quit \"The Strive\".\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
