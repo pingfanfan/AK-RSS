@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T16:14:53Z",
+  "generated_at": "2026-04-10T16:45:03Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-10",
-      "total": 10,
+      "total": 11,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "daringfireball.net · Ed Bindels’s Apple Museum in Utrecht, Netherlands",
         "simonwillison.net · ChatGPT voice mode is a weaker model",
         "johndcook.com · Distribution of digits in fractions",
         "shkspr.mobi · [RSS Club] Why do you use RSS rather than Atom?",
         "dfarq.homeip.net · Intel 486 CPU announced April 10, 1989",
-        "nesbitt.io · Package Registries and Pagination",
-        "pluralistic.net · Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)"
+        "nesbitt.io · Package Registries and Pagination"
       ],
       "key_points": [
-        "ChatGPT voice mode is a weaker model",
-        "Distribution of digits in fractions",
-        "[RSS Club] Why do you use RSS rather than Atom?",
-        "Intel 486 CPU announced April 10, 1989"
-      ],
-      "key_points_zh": [
-        "ChatGPT voice mode is a weaker model",
-        "Distribution of digits in fractions",
-        "[RSS Club] Why do you use RSS rather than Atom?",
-        "Intel 486 CPU announced April 10, 1989"
-      ],
-      "key_points_en": [
-        "ChatGPT voice mode is a weaker model",
-        "Distribution of digits in fractions",
-        "[RSS Club] Why do you use RSS rather than Atom?",
-        "Intel 486 CPU announced April 10, 1989"
-      ],
-      "tweet_drafts": [
+        "Ed Bindels’s Apple Museum in Utrecht, Netherlands",
         "ChatGPT voice mode is a weaker model",
         "Distribution of digits in fractions",
         "[RSS Club] Why do you use RSS rather than Atom?"
       ],
+      "key_points_zh": [
+        "Ed Bindels’s Apple Museum in Utrecht, Netherlands",
+        "ChatGPT voice mode is a weaker model",
+        "Distribution of digits in fractions",
+        "[RSS Club] Why do you use RSS rather than Atom?"
+      ],
+      "key_points_en": [
+        "Ed Bindels’s Apple Museum in Utrecht, Netherlands",
+        "ChatGPT voice mode is a weaker model",
+        "Distribution of digits in fractions",
+        "[RSS Club] Why do you use RSS rather than Atom?"
+      ],
+      "tweet_drafts": [
+        "Ed Bindels’s Apple Museum in Utrecht, Netherlands",
+        "ChatGPT voice mode is a weaker model",
+        "Distribution of digits in fractions"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Ed Bindels’s Apple Museum in Utrecht, Netherlands",
+          "link": "https://applemuseum.nl/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "ChatGPT voice mode is a weaker model",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "Distribution of digits in fractions",
           "link": "https://www.johndcook.com/blog/2026/04/10/fraction-digits/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "[RSS Club] Why do you use RSS rather than Atom?",
-          "link": "https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/"
         }
       ],
-      "summary_zh": "2026-04-10 技术日报：ChatGPT voice mode is a weaker model；Distribution of digits in fractions；[RSS Club] Why do you use RSS rather than Atom?。",
-      "summary_en": "Daily brief (2026-04-10): ChatGPT voice mode is a weaker model; Distribution of digits in fractions; [RSS Club] Why do you use RSS rather than Atom?.",
+      "summary_zh": "2026-04-10 技术日报：Ed Bindels’s Apple Museum in Utrecht, Netherlands；ChatGPT voice mode is a weaker model；Distribution of digits in fractions。",
+      "summary_en": "Daily brief (2026-04-10): Ed Bindels’s Apple Museum in Utrecht, Netherlands; ChatGPT voice mode is a weaker model; Distribution of digits in fractions.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-10 日报】ChatGPT voice mode is a weaker model；Distribution of digits in fractions；[RSS Club] Why do you use RSS rather than Atom?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-10): ChatGPT voice mode is a weaker model; Distribution of digits in fractions; [RSS Club] Why do you use RSS rather than Atom?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-10 日报】Ed Bindels’s Apple Museum in Utrecht, Netherlands；ChatGPT voice mode is a weaker model；Distribution of digits in fractions。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-10): Ed Bindels’s Apple Museum in Utrecht, Netherlands; ChatGPT voice mode is a weaker model; Distribution of digits in fractions. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-10）\n- ChatGPT voice mode is a weaker model\n- Distribution of digits in fractions\n- [RSS Club] Why do you use RSS rather than Atom?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything\n- https://www.johndcook.com/blog/2026/04/10/fraction-digits/\n- https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-10)\n- ChatGPT voice mode is a weaker model\n- Distribution of digits in fractions\n- [RSS Club] Why do you use RSS rather than Atom?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything\n- https://www.johndcook.com/blog/2026/04/10/fraction-digits/\n- https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-10）\n- Ed Bindels’s Apple Museum in Utrecht, Netherlands\n- ChatGPT voice mode is a weaker model\n- Distribution of digits in fractions\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://applemuseum.nl/\n- https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything\n- https://www.johndcook.com/blog/2026/04/10/fraction-digits/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-10)\n- Ed Bindels’s Apple Museum in Utrecht, Netherlands\n- ChatGPT voice mode is a weaker model\n- Distribution of digits in fractions\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://applemuseum.nl/\n- https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything\n- https://www.johndcook.com/blog/2026/04/10/fraction-digits/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：ChatGPT voice mode is a weaker model；Distribution of digits in fractions；[RSS Club] Why do you use RSS rather than Atom?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ChatGPT voice mode is a weaker model; Distribution of digits in fractions; [RSS Club] Why do you use RSS rather than Atom?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Ed Bindels’s Apple Museum in Utrecht, Netherlands；ChatGPT voice mode is a weaker model；Distribution of digits in fractions。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Ed Bindels’s Apple Museum in Utrecht, Netherlands; ChatGPT voice mode is a weaker model; Distribution of digits in fractions.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
