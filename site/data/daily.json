@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T10:19:14Z",
+  "generated_at": "2026-04-10T10:45:36Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-04-10",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Package Registries and Pagination",
         "pluralistic.net · Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
         "tedium.co · The Solitaire Shuffle",
         "eli.thegreenplace.net · watgo - a WebAssembly Toolkit for Go",
@@ -64,29 +66,34 @@
         "utcc.utoronto.ca/~cks · Some quick notes to myself on nftables 'symbolic variables'"
       ],
       "key_points": [
-        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-        "The Solitaire Shuffle",
-        "watgo - a WebAssembly Toolkit for Go",
-        "Why I quit \"The Strive\""
-      ],
-      "key_points_zh": [
-        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-        "The Solitaire Shuffle",
-        "watgo - a WebAssembly Toolkit for Go",
-        "Why I quit \"The Strive\""
-      ],
-      "key_points_en": [
-        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-        "The Solitaire Shuffle",
-        "watgo - a WebAssembly Toolkit for Go",
-        "Why I quit \"The Strive\""
-      ],
-      "tweet_drafts": [
+        "Package Registries and Pagination",
         "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
         "The Solitaire Shuffle",
         "watgo - a WebAssembly Toolkit for Go"
       ],
+      "key_points_zh": [
+        "Package Registries and Pagination",
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+        "The Solitaire Shuffle",
+        "watgo - a WebAssembly Toolkit for Go"
+      ],
+      "key_points_en": [
+        "Package Registries and Pagination",
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+        "The Solitaire Shuffle",
+        "watgo - a WebAssembly Toolkit for Go"
+      ],
+      "tweet_drafts": [
+        "Package Registries and Pagination",
+        "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
+        "The Solitaire Shuffle"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Registries and Pagination",
+          "link": "https://nesbitt.io/2026/04/10/package-registries-and-pagination.html"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
@@ -96,27 +103,22 @@
           "feed_title": "tedium.co",
           "title": "The Solitaire Shuffle",
           "link": "https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history"
-        },
-        {
-          "feed_title": "eli.thegreenplace.net",
-          "title": "watgo - a WebAssembly Toolkit for Go",
-          "link": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
         }
       ],
-      "summary_zh": "2026-04-10 技术日报：Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go。",
-      "summary_en": "Daily brief (2026-04-10): Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go.",
+      "summary_zh": "2026-04-10 技术日报：Package Registries and Pagination；Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle。",
+      "summary_en": "Daily brief (2026-04-10): Package Registries and Pagination; Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-10 日报】Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-10): Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-10 日报】Package Registries and Pagination；Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-10): Package Registries and Pagination; Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-10）\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n- The Solitaire Shuffle\n- watgo - a WebAssembly Toolkit for Go\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/10/canny-valley/\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n- https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-10)\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n- The Solitaire Shuffle\n- watgo - a WebAssembly Toolkit for Go\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/10/canny-valley/\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n- https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-10）\n- Package Registries and Pagination\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n- The Solitaire Shuffle\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/10/package-registries-and-pagination.html\n- https://pluralistic.net/2026/04/10/canny-valley/\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-10)\n- Package Registries and Pagination\n- Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)\n- The Solitaire Shuffle\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/10/package-registries-and-pagination.html\n- https://pluralistic.net/2026/04/10/canny-valley/\n- https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle；watgo - a WebAssembly Toolkit for Go。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle; watgo - a WebAssembly Toolkit for Go.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Package Registries and Pagination；Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)；The Solitaire Shuffle。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Package Registries and Pagination; Pluralistic: Canny Valley and Creative Commons (10 Apr 2026); The Solitaire Shuffle.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

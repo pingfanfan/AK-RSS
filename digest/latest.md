@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-10 10:19:01 UTC
+Generated at: 2026-04-10 10:45:21 UTC
 
-- [Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)](https://pluralistic.net/2026/04/10/canny-valley/) (`pluralistic.net`)
+- [Package Registries and Pagination](https://nesbitt.io/2026/04/10/package-registries-and-pagination.html) (`nesbitt.io`)
