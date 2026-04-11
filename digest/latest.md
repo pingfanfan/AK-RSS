@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-10 22:42:46 UTC
+Generated at: 2026-04-11 06:17:26 UTC
 
-- [Has Mythos just broken the deal that kept the internet safe?](https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
+- [Your friends are hiding their best ideas from you](https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed) (`idiallo.com`)
+- [I'm now using nftables for (new) static rulesets](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules) (`utcc.utoronto.ca/~cks`)
+- [OpenAI is nothing without its people](https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html) (`geohot.github.io`)
