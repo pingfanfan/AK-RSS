@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-11 12:04:38 UTC
+Generated at: 2026-04-11 12:44:48 UTC
 
-- [Cheapest way to keep a UK mobile number using an eSIM](https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/) (`shkspr.mobi`)
+- [Reading List 04/11/2026](https://www.construction-physics.com/p/reading-list-04112026) (`construction-physics.com`)
