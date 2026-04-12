@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T22:42:25Z",
+  "generated_at": "2026-04-12T06:27:07Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,15 +47,71 @@
       }
     },
     {
-      "date": "2026-04-11",
-      "total": 8,
+      "date": "2026-04-12",
+      "total": 2,
       "feeds": [
+        "joanwestenberg.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Apache 2.4, ETag values, and (HTTP) response compression",
+        "joanwestenberg.com · Optimism is not a personality flaw"
+      ],
+      "key_points": [
+        "Apache 2.4, ETag values, and (HTTP) response compression",
+        "Optimism is not a personality flaw"
+      ],
+      "key_points_zh": [
+        "Apache 2.4, ETag values, and (HTTP) response compression",
+        "Optimism is not a personality flaw"
+      ],
+      "key_points_en": [
+        "Apache 2.4, ETag values, and (HTTP) response compression",
+        "Optimism is not a personality flaw"
+      ],
+      "tweet_drafts": [
+        "Apache 2.4, ETag values, and (HTTP) response compression",
+        "Optimism is not a personality flaw"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Apache 2.4, ETag values, and (HTTP) response compression",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Optimism is not a personality flaw",
+          "link": "https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/"
+        }
+      ],
+      "summary_zh": "2026-04-12 技术日报：Apache 2.4, ETag values, and (HTTP) response compression；Optimism is not a personality flaw。",
+      "summary_en": "Daily brief (2026-04-12): Apache 2.4, ETag values, and (HTTP) response compression; Optimism is not a personality flaw.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-12 日报】Apache 2.4, ETag values, and (HTTP) response compression；Optimism is not a personality flaw。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-12): Apache 2.4, ETag values, and (HTTP) response compression; Optimism is not a personality flaw. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-12）\n- Apache 2.4, ETag values, and (HTTP) response compression\n- Optimism is not a personality flaw\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes\n- https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-12)\n- Apache 2.4, ETag values, and (HTTP) response compression\n- Optimism is not a personality flaw\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes\n- https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Apache 2.4, ETag values, and (HTTP) response compression；Optimism is not a personality flaw。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apache 2.4, ETag values, and (HTTP) response compression; Optimism is not a personality flaw.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "total": 9,
+      "feeds": [
+        "computer.rip (1)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "idiallo.com (1)",
         "lucumr.pocoo.org (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
         "simonwillison.net · SQLite 3.53.0",
@@ -2169,82 +2225,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作；CHM Live: Apple at 50；What is agentic engineering?。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation; CHM Live: Apple at 50; What is agentic engineering?.\nI turned them into an action-ready daily brie"
-        }
-      }
-    },
-    {
-      "date": "2026-03-14",
-      "total": 16,
-      "feeds": [
-        "daringfireball.net (4)",
-        "utcc.utoronto.ca/~cks (2)",
-        "computer.rip (1)",
-        "construction-physics.com (1)",
-        "evanhahn.com (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · iFixit’s MacBook Neo Teardown",
-        "utcc.utoronto.ca/~cks · I think dependency cooldowns would be a good idea for Go",
-        "daringfireball.net · PC Makers Are Not Ready for the MacBook Neo",
-        "simonwillison.net · Quoting Jannis Leidel",
-        "daringfireball.net · Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes",
-        "daringfireball.net · Lil Finder Guy"
-      ],
-      "key_points": [
-        "iFixit’s MacBook Neo Teardown",
-        "Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险",
-        "华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后",
-        "Quoting Jannis Leidel"
-      ],
-      "key_points_zh": [
-        "iFixit’s MacBook Neo Teardown",
-        "Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险",
-        "华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后",
-        "Quoting Jannis Leidel"
-      ],
-      "key_points_en": [
-        "iFixit’s MacBook Neo Teardown",
-        "Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks",
-        "Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' understanding of Apple Silicon is dangerously outdated",
-        "Quoting Jannis Leidel"
-      ],
-      "tweet_drafts": [
-        "iFixit’s MacBook Neo Teardown",
-        "Go的依赖冷却期提案：新版本发布后强制等待一段时间再更新，避免因Dependabot等自动化工具瞬间拉取而引发连锁故障。工具链该原生支持吗？",
-        "华硕高管：MacBook Neo 8GB RAM只配刷视频？实测A18 Pro单核性能碾压其旗舰，价格1/4。PC厂商对Apple Silicon的认知该更新了。开发者：你选设备看新闻稿还是跑分？"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "iFixit’s MacBook Neo Teardown",
-          "link": "https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "I think dependency cooldowns would be a good idea for Go",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "PC Makers Are Not Ready for the MacBook Neo",
-          "link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth"
-        }
-      ],
-      "summary_zh": "2026-03-14 技术日报：iFixit’s MacBook Neo Teardown；Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后。",
-      "summary_en": "Daily brief (2026-03-14): iFixit’s MacBook Neo Teardown; Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove i",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-14 日报】iFixit’s MacBook Neo Teardown；Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-14): iFixit’s MacBook Neo Teardown; Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-14）\n- iFixit’s MacBook Neo Teardown\n- Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险\n- 华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood\n- https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-14)\n- iFixit’s MacBook Neo Teardown\n- Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks\n- Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400 flagship Zenbook Duo in daily tasks at 1/4 the price. PC makers' understanding of Apple Silicon is dangerously outdated\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood\n- https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：iFixit’s MacBook Neo Teardown；Go的最小版本选择机制无法阻止快速依赖更新，建议引入冷却期以降低风险；华硕高管误判MacBook Neo为“内容消费设备”，但benchmarks证明其A18 Pro芯片在日常任务性能上超越自家$2400旗舰Zenbook Duo，价格仅四分之一。PC厂商对Apple Silicon的认知严重滞后。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: iFixit’s MacBook Neo Teardown; Go's minimal version selection doesn't prevent rapid dependency updates; a cooldown period could mitigate risks; Asus execs misjudged MacBook Neo as a 'content consumption device,' but benchmarks prove its A18 Pro chip outperforms their own $2400"
         }
       }
     }
