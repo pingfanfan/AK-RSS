@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-12 12:45:10 UTC
+Generated at: 2026-04-12 13:23:53 UTC
 
-- [The gap between Eastern and Western Easter](https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/) (`johndcook.com`)
