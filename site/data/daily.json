@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T22:05:35Z",
+  "generated_at": "2026-04-12T22:42:59Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,15 +48,16 @@
     },
     {
       "date": "2026-04-12",
-      "total": 5,
+      "total": 6,
       "feeds": [
-        "daringfireball.net (1)",
+        "daringfireball.net (2)",
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "daringfireball.net · Viktor Orban Concedes Election Defeat in Hungary",
         "daringfireball.net · Golden Tickets",
         "idiallo.com · Your AWS Certificate Makes You an AWS Salesman",
         "johndcook.com · The gap between Eastern and Western Easter",
@@ -64,29 +65,34 @@
         "joanwestenberg.com · Optimism is not a personality flaw"
       ],
       "key_points": [
-        "Golden Tickets",
-        "Your AWS Certificate Makes You an AWS Salesman",
-        "The gap between Eastern and Western Easter",
-        "Apache 2.4, ETag values, and (HTTP) response compression"
-      ],
-      "key_points_zh": [
-        "Golden Tickets",
-        "Your AWS Certificate Makes You an AWS Salesman",
-        "The gap between Eastern and Western Easter",
-        "Apache 2.4, ETag values, and (HTTP) response compression"
-      ],
-      "key_points_en": [
-        "Golden Tickets",
-        "Your AWS Certificate Makes You an AWS Salesman",
-        "The gap between Eastern and Western Easter",
-        "Apache 2.4, ETag values, and (HTTP) response compression"
-      ],
-      "tweet_drafts": [
+        "Viktor Orban Concedes Election Defeat in Hungary",
         "Golden Tickets",
         "Your AWS Certificate Makes You an AWS Salesman",
         "The gap between Eastern and Western Easter"
       ],
+      "key_points_zh": [
+        "Viktor Orban Concedes Election Defeat in Hungary",
+        "Golden Tickets",
+        "Your AWS Certificate Makes You an AWS Salesman",
+        "The gap between Eastern and Western Easter"
+      ],
+      "key_points_en": [
+        "Viktor Orban Concedes Election Defeat in Hungary",
+        "Golden Tickets",
+        "Your AWS Certificate Makes You an AWS Salesman",
+        "The gap between Eastern and Western Easter"
+      ],
+      "tweet_drafts": [
+        "Viktor Orban Concedes Election Defeat in Hungary",
+        "Golden Tickets",
+        "Your AWS Certificate Makes You an AWS Salesman"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Viktor Orban Concedes Election Defeat in Hungary",
+          "link": "https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Golden Tickets",
@@ -96,27 +102,22 @@
           "feed_title": "idiallo.com",
           "title": "Your AWS Certificate Makes You an AWS Salesman",
           "link": "https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "The gap between Eastern and Western Easter",
-          "link": "https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/"
         }
       ],
-      "summary_zh": "2026-04-12 技术日报：Golden Tickets；Your AWS Certificate Makes You an AWS Salesman；The gap between Eastern and Western Easter。",
-      "summary_en": "Daily brief (2026-04-12): Golden Tickets; Your AWS Certificate Makes You an AWS Salesman; The gap between Eastern and Western Easter.",
+      "summary_zh": "2026-04-12 技术日报：Viktor Orban Concedes Election Defeat in Hungary；Golden Tickets；Your AWS Certificate Makes You an AWS Salesman。",
+      "summary_en": "Daily brief (2026-04-12): Viktor Orban Concedes Election Defeat in Hungary; Golden Tickets; Your AWS Certificate Makes You an AWS Salesman.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-12 日报】Golden Tickets；Your AWS Certificate Makes You an AWS Salesman；The gap between Eastern and Western Easter。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-12): Golden Tickets; Your AWS Certificate Makes You an AWS Salesman; The gap between Eastern and Western Easter. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-12 日报】Viktor Orban Concedes Election Defeat in Hungary；Golden Tickets；Your AWS Certificate Makes You an AWS Salesman。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-12): Viktor Orban Concedes Election Defeat in Hungary; Golden Tickets; Your AWS Certificate Makes You an AWS Salesman. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-12）\n- Golden Tickets\n- Your AWS Certificate Makes You an AWS Salesman\n- The gap between Eastern and Western Easter\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n- https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed\n- https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-12)\n- Golden Tickets\n- Your AWS Certificate Makes You an AWS Salesman\n- The gap between Eastern and Western Easter\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n- https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed\n- https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-12）\n- Viktor Orban Concedes Election Defeat in Hungary\n- Golden Tickets\n- Your AWS Certificate Makes You an AWS Salesman\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n- https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-12)\n- Viktor Orban Concedes Election Defeat in Hungary\n- Golden Tickets\n- Your AWS Certificate Makes You an AWS Salesman\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n- https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Golden Tickets；Your AWS Certificate Makes You an AWS Salesman；The gap between Eastern and Western Easter。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Golden Tickets; Your AWS Certificate Makes You an AWS Salesman; The gap between Eastern and Western Easter.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Viktor Orban Concedes Election Defeat in Hungary；Golden Tickets；Your AWS Certificate Makes You an AWS Salesman。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Viktor Orban Concedes Election Defeat in Hungary; Golden Tickets; Your AWS Certificate Makes You an AWS Salesman.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
