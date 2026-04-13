@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T22:42:59Z",
+  "generated_at": "2026-04-13T06:36:41Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -47,45 +47,120 @@
       }
     },
     {
-      "date": "2026-04-12",
-      "total": 6,
+      "date": "2026-04-13",
+      "total": 5,
       "feeds": [
-        "daringfireball.net (2)",
-        "idiallo.com (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
+        "pluralistic.net (1)",
+        "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "joanwestenberg.com · Sometimes powerful people just do dumb shit",
+        "pluralistic.net · Pluralistic: Austerity creates fascism (13 Apr 2026)",
+        "simonwillison.net · Quoting Bryan Cantrill",
+        "utcc.utoronto.ca/~cks · Vim and 'forward delete' (in modern terminal programs)",
+        "johndcook.com · Lunar period approximations"
+      ],
+      "key_points": [
+        "Sometimes powerful people just do dumb shit",
+        "Pluralistic: Austerity creates fascism (13 Apr 2026)",
+        "Quoting Bryan Cantrill",
+        "Vim and 'forward delete' (in modern terminal programs)"
+      ],
+      "key_points_zh": [
+        "Sometimes powerful people just do dumb shit",
+        "Pluralistic: Austerity creates fascism (13 Apr 2026)",
+        "Quoting Bryan Cantrill",
+        "Vim and 'forward delete' (in modern terminal programs)"
+      ],
+      "key_points_en": [
+        "Sometimes powerful people just do dumb shit",
+        "Pluralistic: Austerity creates fascism (13 Apr 2026)",
+        "Quoting Bryan Cantrill",
+        "Vim and 'forward delete' (in modern terminal programs)"
+      ],
+      "tweet_drafts": [
+        "Sometimes powerful people just do dumb shit",
+        "Pluralistic: Austerity creates fascism (13 Apr 2026)",
+        "Quoting Bryan Cantrill"
+      ],
+      "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Sometimes powerful people just do dumb shit",
+          "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Austerity creates fascism (13 Apr 2026)",
+          "link": "https://pluralistic.net/2026/04/12/always-great/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Bryan Cantrill",
+          "link": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-04-13 技术日报：Sometimes powerful people just do dumb shit；Pluralistic: Austerity creates fascism (13 Apr 2026)；Quoting Bryan Cantrill。",
+      "summary_en": "Daily brief (2026-04-13): Sometimes powerful people just do dumb shit; Pluralistic: Austerity creates fascism (13 Apr 2026); Quoting Bryan Cantrill.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-13 日报】Sometimes powerful people just do dumb shit；Pluralistic: Austerity creates fascism (13 Apr 2026)；Quoting Bryan Cantrill。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-13): Sometimes powerful people just do dumb shit; Pluralistic: Austerity creates fascism (13 Apr 2026); Quoting Bryan Cantrill. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-13）\n- Sometimes powerful people just do dumb shit\n- Pluralistic: Austerity creates fascism (13 Apr 2026)\n- Quoting Bryan Cantrill\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/\n- https://pluralistic.net/2026/04/12/always-great/\n- https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-13)\n- Sometimes powerful people just do dumb shit\n- Pluralistic: Austerity creates fascism (13 Apr 2026)\n- Quoting Bryan Cantrill\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/\n- https://pluralistic.net/2026/04/12/always-great/\n- https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Sometimes powerful people just do dumb shit；Pluralistic: Austerity creates fascism (13 Apr 2026)；Quoting Bryan Cantrill。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Sometimes powerful people just do dumb shit; Pluralistic: Austerity creates fascism (13 Apr 2026); Quoting Bryan Cantrill.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "total": 8,
+      "feeds": [
+        "daringfireball.net (2)",
+        "blog.jim-nielsen.com (1)",
+        "geohot.github.io (1)",
+        "idiallo.com (1)",
+        "joanwestenberg.com (1)",
+        "johndcook.com (1)"
+      ],
+      "highlights": [
         "daringfireball.net · Viktor Orban Concedes Election Defeat in Hungary",
+        "blog.jim-nielsen.com · That’s a Skill Issue",
         "daringfireball.net · Golden Tickets",
         "idiallo.com · Your AWS Certificate Makes You an AWS Salesman",
-        "johndcook.com · The gap between Eastern and Western Easter",
-        "utcc.utoronto.ca/~cks · Apache 2.4, ETag values, and (HTTP) response compression",
-        "joanwestenberg.com · Optimism is not a personality flaw"
+        "geohot.github.io · The ‘Everyone’s a Billionaire’ act",
+        "johndcook.com · The gap between Eastern and Western Easter"
       ],
       "key_points": [
         "Viktor Orban Concedes Election Defeat in Hungary",
+        "That’s a Skill Issue",
         "Golden Tickets",
-        "Your AWS Certificate Makes You an AWS Salesman",
-        "The gap between Eastern and Western Easter"
+        "Your AWS Certificate Makes You an AWS Salesman"
       ],
       "key_points_zh": [
         "Viktor Orban Concedes Election Defeat in Hungary",
+        "That’s a Skill Issue",
         "Golden Tickets",
-        "Your AWS Certificate Makes You an AWS Salesman",
-        "The gap between Eastern and Western Easter"
+        "Your AWS Certificate Makes You an AWS Salesman"
       ],
       "key_points_en": [
         "Viktor Orban Concedes Election Defeat in Hungary",
+        "That’s a Skill Issue",
         "Golden Tickets",
-        "Your AWS Certificate Makes You an AWS Salesman",
-        "The gap between Eastern and Western Easter"
+        "Your AWS Certificate Makes You an AWS Salesman"
       ],
       "tweet_drafts": [
         "Viktor Orban Concedes Election Defeat in Hungary",
-        "Golden Tickets",
-        "Your AWS Certificate Makes You an AWS Salesman"
+        "That’s a Skill Issue",
+        "Golden Tickets"
       ],
       "sources": [
         {
@@ -94,30 +169,30 @@
           "link": "https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/"
         },
         {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "That’s a Skill Issue",
+          "link": "https://blog.jim-nielsen.com/2026/skill-issue/"
+        },
+        {
           "feed_title": "daringfireball.net",
           "title": "Golden Tickets",
           "link": "https://www.presentandcorrect.com/blogs/blog/golden-tickets"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Your AWS Certificate Makes You an AWS Salesman",
-          "link": "https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed"
         }
       ],
-      "summary_zh": "2026-04-12 技术日报：Viktor Orban Concedes Election Defeat in Hungary；Golden Tickets；Your AWS Certificate Makes You an AWS Salesman。",
-      "summary_en": "Daily brief (2026-04-12): Viktor Orban Concedes Election Defeat in Hungary; Golden Tickets; Your AWS Certificate Makes You an AWS Salesman.",
+      "summary_zh": "2026-04-12 技术日报：Viktor Orban Concedes Election Defeat in Hungary；That’s a Skill Issue；Golden Tickets。",
+      "summary_en": "Daily brief (2026-04-12): Viktor Orban Concedes Election Defeat in Hungary; That’s a Skill Issue; Golden Tickets.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-12 日报】Viktor Orban Concedes Election Defeat in Hungary；Golden Tickets；Your AWS Certificate Makes You an AWS Salesman。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-12): Viktor Orban Concedes Election Defeat in Hungary; Golden Tickets; Your AWS Certificate Makes You an AWS Salesman. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-12 日报】Viktor Orban Concedes Election Defeat in Hungary；That’s a Skill Issue；Golden Tickets。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-12): Viktor Orban Concedes Election Defeat in Hungary; That’s a Skill Issue; Golden Tickets. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-12）\n- Viktor Orban Concedes Election Defeat in Hungary\n- Golden Tickets\n- Your AWS Certificate Makes You an AWS Salesman\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n- https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-12)\n- Viktor Orban Concedes Election Defeat in Hungary\n- Golden Tickets\n- Your AWS Certificate Makes You an AWS Salesman\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n- https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-12）\n- Viktor Orban Concedes Election Defeat in Hungary\n- That’s a Skill Issue\n- Golden Tickets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/\n- https://blog.jim-nielsen.com/2026/skill-issue/\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-12)\n- Viktor Orban Concedes Election Defeat in Hungary\n- That’s a Skill Issue\n- Golden Tickets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://politicalwire.com/2026/04/12/hungarys-orban-concedes-election-defeat/\n- https://blog.jim-nielsen.com/2026/skill-issue/\n- https://www.presentandcorrect.com/blogs/blog/golden-tickets\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Viktor Orban Concedes Election Defeat in Hungary；Golden Tickets；Your AWS Certificate Makes You an AWS Salesman。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Viktor Orban Concedes Election Defeat in Hungary; Golden Tickets; Your AWS Certificate Makes You an AWS Salesman.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Viktor Orban Concedes Election Defeat in Hungary；That’s a Skill Issue；Golden Tickets。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Viktor Orban Concedes Election Defeat in Hungary; That’s a Skill Issue; Golden Tickets.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2168,82 +2243,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Esqueleto Tutorial。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Esqueleto Tutorial.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-03-15",
-      "total": 13,
-      "feeds": [
-        "daringfireball.net (3)",
-        "johndcook.com (2)",
-        "berthub.eu (1)",
-        "blog.jim-nielsen.com (1)",
-        "geohot.github.io (1)",
-        "joanwestenberg.com (1)"
-      ],
-      "highlights": [
-        "johndcook.com · Twelve-tone composition",
-        "daringfireball.net · CHM Live: Apple at 50",
-        "simonwillison.net · What is agentic engineering?",
-        "joanwestenberg.com · The optimized self and the life that got away",
-        "johndcook.com · Langford series",
-        "blog.jim-nielsen.com · Food, Software, and Trade-offs"
-      ],
-      "key_points": [
-        "十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作",
-        "CHM Live: Apple at 50",
-        "What is agentic engineering?",
-        "文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀"
-      ],
-      "key_points_zh": [
-        "十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作",
-        "CHM Live: Apple at 50",
-        "What is agentic engineering?",
-        "文章追溯了自我优化文化从19世纪道德培养到当代身体项目管理的异化，批判了过度追踪指标、堆叠习惯而忽视生活整体性的现象，警示技术思维对人文体验的侵蚀"
-      ],
-      "key_points_en": [
-        "Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation",
-        "CHM Live: Apple at 50",
-        "What is agentic engineering?",
-        "The article traces the alienation of self-optimization culture from 19th-century moral cultivation to contemporary body-as-a-project management, critiquing the over-tracking of metrics and habit-stacking that neglects life's holistic texture, warning against the erosion of human experience by technical thinking"
-      ],
-      "tweet_drafts": [
-        "十二音序列的数学：12!种可能，循环等价下剩11!种。逆行/倒置生成阿贝尔群Z₂×Z₂。规则越严，越需创造力——这对算法设计有何启示？",
-        "CHM Live: Apple at 50",
-        "What is agentic engineering?"
-      ],
-      "sources": [
-        {
-          "feed_title": "johndcook.com",
-          "title": "Twelve-tone composition",
-          "link": "https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "CHM Live: Apple at 50",
-          "link": "https://www.youtube.com/live/eCSNJgI2LFI"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "What is agentic engineering?",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-03-15 技术日报：十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作；CHM Live: Apple at 50；What is agentic engineering?。",
-      "summary_en": "Daily brief (2026-03-15): Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation; CHM Live: Apple at 50; What is agentic engineering?.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-15 日报】十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作；CHM Live: Apple at 50；What is agentic engineering?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-15): Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation; CHM Live: Apple at 50; What is agentic engineering?."
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-15）\n- 十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作\n- CHM Live: Apple at 50\n- What is agentic engineering?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/\n- https://www.youtube.com/live/eCSNJgI2LFI\n- https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-15)\n- Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation\n- CHM Live: Apple at 50\n- What is agentic engineering?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/\n- https://www.youtube.com/live/eCSNJgI2LFI\n- https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：十二音技法通过强制使用12音序列的排列来避免调性，其逆行、倒置等操作构成Z₂×Z₂群，展示了数学规则如何约束音乐创作；CHM Live: Apple at 50；What is agentic engineering?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Twelve-tone technique avoids tonality by enforcing a permutation of 12 notes; its retrograde/inversion operations form a Z₂×Z₂ group, showing how math constrains musical creation; CHM Live: Apple at 50; What is agentic engineering?.\nI turned them into an action-ready daily brie"
         }
       }
     }
