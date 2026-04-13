@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T16:49:02Z",
+  "generated_at": "2026-04-13T17:21:07Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-13",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "johndcook.com (2)",
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
-        "martinalderson.com (1)",
-        "nesbitt.io (1)"
+        "martinalderson.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
         "johndcook.com · The smallest math library",
         "idiallo.com · You paid for it, you should be comfortable in it",
         "shkspr.mobi · Android now stops you sharing your location in photos",
         "dfarq.homeip.net · Cyrix 486SLC CPU: Introduced April 13,1992",
-        "nesbitt.io · Common Package Specification",
-        "joanwestenberg.com · Sometimes powerful people just do dumb shit"
+        "nesbitt.io · Common Package Specification"
       ],
       "key_points": [
-        "The smallest math library",
-        "You paid for it, you should be comfortable in it",
-        "Android now stops you sharing your location in photos",
-        "Cyrix 486SLC CPU: Introduced April 13,1992"
-      ],
-      "key_points_zh": [
-        "The smallest math library",
-        "You paid for it, you should be comfortable in it",
-        "Android now stops you sharing your location in photos",
-        "Cyrix 486SLC CPU: Introduced April 13,1992"
-      ],
-      "key_points_en": [
-        "The smallest math library",
-        "You paid for it, you should be comfortable in it",
-        "Android now stops you sharing your location in photos",
-        "Cyrix 486SLC CPU: Introduced April 13,1992"
-      ],
-      "tweet_drafts": [
+        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
         "The smallest math library",
         "You paid for it, you should be comfortable in it",
         "Android now stops you sharing your location in photos"
       ],
+      "key_points_zh": [
+        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
+        "The smallest math library",
+        "You paid for it, you should be comfortable in it",
+        "Android now stops you sharing your location in photos"
+      ],
+      "key_points_en": [
+        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
+        "The smallest math library",
+        "You paid for it, you should be comfortable in it",
+        "Android now stops you sharing your location in photos"
+      ],
+      "tweet_drafts": [
+        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
+        "The smallest math library",
+        "You paid for it, you should be comfortable in it"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
+          "link": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "The smallest math library",
@@ -98,27 +103,22 @@
           "feed_title": "idiallo.com",
           "title": "You paid for it, you should be comfortable in it",
           "link": "https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Android now stops you sharing your location in photos",
-          "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/"
         }
       ],
-      "summary_zh": "2026-04-13 技术日报：The smallest math library；You paid for it, you should be comfortable in it；Android now stops you sharing your location in photos。",
-      "summary_en": "Daily brief (2026-04-13): The smallest math library; You paid for it, you should be comfortable in it; Android now stops you sharing your location in photos.",
+      "summary_zh": "2026-04-13 技术日报：FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；The smallest math library；You paid for it, you should be comfortable in it。",
+      "summary_en": "Daily brief (2026-04-13): FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; The smallest math library; You paid for it, you should be comfortable in it.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-13 日报】The smallest math library；You paid for it, you should be comfortable in it；Android now stops you sharing your location in photos。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-13): The smallest math library; You paid for it, you should be comfortable in it; Android now stops you sharing your location in photos. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-13 日报】FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；The smallest math library；You paid for it, you should be comfortable in it。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-13): FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; The smallest math library; You paid for it, you should be comfortable in it. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-13）\n- The smallest math library\n- You paid for it, you should be comfortable in it\n- Android now stops you sharing your location in photos\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/\n- https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed\n- https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-13)\n- The smallest math library\n- You paid for it, you should be comfortable in it\n- Android now stops you sharing your location in photos\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/\n- https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed\n- https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-13）\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n- The smallest math library\n- You paid for it, you should be comfortable in it\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n- https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/\n- https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-13)\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n- The smallest math library\n- You paid for it, you should be comfortable in it\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n- https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/\n- https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The smallest math library；You paid for it, you should be comfortable in it；Android now stops you sharing your location in photos。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The smallest math library; You paid for it, you should be comfortable in it; Android now stops you sharing your location in photos.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；The smallest math library；You paid for it, you should be comfortable in it。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; The smallest math library; You paid for it, you should be comfortable in it.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
