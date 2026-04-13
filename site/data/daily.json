@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T18:20:03Z",
+  "generated_at": "2026-04-13T18:51:10Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,45 +48,45 @@
     },
     {
       "date": "2026-04-13",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "daringfireball.net (2)",
         "johndcook.com (2)",
+        "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
-        "joanwestenberg.com (1)",
-        "martinalderson.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
         "daringfireball.net · MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
         "daringfireball.net · FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
+        "simonwillison.net · Exploring the new `servo` crate",
         "johndcook.com · The smallest math library",
         "idiallo.com · You paid for it, you should be comfortable in it",
-        "shkspr.mobi · Android now stops you sharing your location in photos",
-        "dfarq.homeip.net · Cyrix 486SLC CPU: Introduced April 13,1992"
+        "shkspr.mobi · Android now stops you sharing your location in photos"
       ],
       "key_points": [
         "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
         "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "The smallest math library",
-        "You paid for it, you should be comfortable in it"
+        "Exploring the new `servo` crate",
+        "The smallest math library"
       ],
       "key_points_zh": [
         "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
         "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "The smallest math library",
-        "You paid for it, you should be comfortable in it"
+        "Exploring the new `servo` crate",
+        "The smallest math library"
       ],
       "key_points_en": [
         "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
         "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "The smallest math library",
-        "You paid for it, you should be comfortable in it"
+        "Exploring the new `servo` crate",
+        "The smallest math library"
       ],
       "tweet_drafts": [
         "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
         "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "The smallest math library"
+        "Exploring the new `servo` crate"
       ],
       "sources": [
         {
@@ -100,25 +100,25 @@
           "link": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f"
         },
         {
-          "feed_title": "johndcook.com",
-          "title": "The smallest math library",
-          "link": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/"
+          "feed_title": "simonwillison.net",
+          "title": "Exploring the new `servo` crate",
+          "link": "https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-13 技术日报：MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；The smallest math library。",
-      "summary_en": "Daily brief (2026-04-13): MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; The smallest math library.",
+      "summary_zh": "2026-04-13 技术日报：MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；Exploring the new `servo` crate。",
+      "summary_en": "Daily brief (2026-04-13): MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; Exploring the new `servo` crate.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-13 日报】MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；The smallest math library。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-13): MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; The smallest math library. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-13 日报】MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；Exploring the new `servo` crate。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-13): MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; Exploring the new `servo` crate. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPub"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-13）\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n- The smallest math library\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n- https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-13)\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n- The smallest math library\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n- https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-13）\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n- Exploring the new `servo` crate\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n- https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-13)\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n- Exploring the new `servo` crate\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n- https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；The smallest math library。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; The smallest math library.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’；Exploring the new `servo` crate。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’; Exploring the new `servo` crate.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
