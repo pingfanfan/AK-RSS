@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T21:14:03Z",
+  "generated_at": "2026-04-13T21:44:43Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-04-13",
-      "total": 19,
+      "total": 20,
       "feeds": [
-        "daringfireball.net (5)",
+        "daringfireball.net (6)",
         "simonwillison.net (3)",
         "johndcook.com (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -58,37 +58,42 @@
         "idiallo.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
         "simonwillison.net · Quoting Steve Yegge",
         "daringfireball.net · Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
         "daringfireball.net · John Martellaro, RIP",
         "daringfireball.net · Marcin Wichary Visits the Large Scale Systems Museum",
-        "daringfireball.net · MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "daringfireball.net · FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
+        "daringfireball.net · MacOS Tip: Enable the Zoom ‘Peek’ Gesture"
       ],
       "key_points": [
-        "Quoting Steve Yegge",
-        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
-        "John Martellaro, RIP",
-        "Marcin Wichary Visits the Large Scale Systems Museum"
-      ],
-      "key_points_zh": [
-        "Quoting Steve Yegge",
-        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
-        "John Martellaro, RIP",
-        "Marcin Wichary Visits the Large Scale Systems Museum"
-      ],
-      "key_points_en": [
-        "Quoting Steve Yegge",
-        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
-        "John Martellaro, RIP",
-        "Marcin Wichary Visits the Large Scale Systems Museum"
-      ],
-      "tweet_drafts": [
+        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
         "Quoting Steve Yegge",
         "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
         "John Martellaro, RIP"
       ],
+      "key_points_zh": [
+        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
+        "Quoting Steve Yegge",
+        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
+        "John Martellaro, RIP"
+      ],
+      "key_points_en": [
+        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
+        "Quoting Steve Yegge",
+        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
+        "John Martellaro, RIP"
+      ],
+      "tweet_drafts": [
+        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
+        "Quoting Steve Yegge",
+        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
+          "link": "https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Steve Yegge",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
           "link": "https://mastodon.social/@tuomas_h/116397694769738857"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "John Martellaro, RIP",
-          "link": "https://geektells.com/john-martellaro-remembrance/"
         }
       ],
-      "summary_zh": "2026-04-13 技术日报：Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier；John Martellaro, RIP。",
-      "summary_en": "Daily brief (2026-04-13): Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier; John Martellaro, RIP.",
+      "summary_zh": "2026-04-13 技术日报：[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents；Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier。",
+      "summary_en": "Daily brief (2026-04-13): [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents; Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-13 日报】Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier；John Martellaro, RIP。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-13): Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier; John Martellaro, RIP. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-13 日报】[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents；Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-13): [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents; Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier. Actionable takeaways included. What would you ship next? #AI #E"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-13）\n- Quoting Steve Yegge\n- Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier\n- John Martellaro, RIP\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n- https://mastodon.social/@tuomas_h/116397694769738857\n- https://geektells.com/john-martellaro-remembrance/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-13)\n- Quoting Steve Yegge\n- Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier\n- John Martellaro, RIP\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n- https://mastodon.social/@tuomas_h/116397694769738857\n- https://geektells.com/john-martellaro-remembrance/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-13）\n- [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents\n- Quoting Steve Yegge\n- Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n- https://mastodon.social/@tuomas_h/116397694769738857\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-13)\n- [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents\n- Quoting Steve Yegge\n- Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n- https://mastodon.social/@tuomas_h/116397694769738857\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier；John Martellaro, RIP。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier; John Martellaro, RIP.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents；Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents; Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
