@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T19:26:52Z",
+  "generated_at": "2026-04-13T19:52:35Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-13",
-      "total": 15,
+      "total": 17,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "johndcook.com (2)",
         "simonwillison.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "joanwestenberg.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · John Martellaro, RIP",
         "daringfireball.net · Marcin Wichary Visits the Large Scale Systems Museum",
         "daringfireball.net · MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
         "daringfireball.net · FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
         "simonwillison.net · Exploring the new `servo` crate",
-        "johndcook.com · The smallest math library",
-        "idiallo.com · You paid for it, you should be comfortable in it"
+        "johndcook.com · The smallest math library"
       ],
       "key_points": [
-        "Marcin Wichary Visits the Large Scale Systems Museum",
-        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "Exploring the new `servo` crate"
-      ],
-      "key_points_zh": [
-        "Marcin Wichary Visits the Large Scale Systems Museum",
-        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "Exploring the new `servo` crate"
-      ],
-      "key_points_en": [
-        "Marcin Wichary Visits the Large Scale Systems Museum",
-        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "Exploring the new `servo` crate"
-      ],
-      "tweet_drafts": [
+        "John Martellaro, RIP",
         "Marcin Wichary Visits the Large Scale Systems Museum",
         "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
         "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
       ],
+      "key_points_zh": [
+        "John Martellaro, RIP",
+        "Marcin Wichary Visits the Large Scale Systems Museum",
+        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
+        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
+      ],
+      "key_points_en": [
+        "John Martellaro, RIP",
+        "Marcin Wichary Visits the Large Scale Systems Museum",
+        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
+        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
+      ],
+      "tweet_drafts": [
+        "John Martellaro, RIP",
+        "Marcin Wichary Visits the Large Scale Systems Museum",
+        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "John Martellaro, RIP",
+          "link": "https://geektells.com/john-martellaro-remembrance/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Marcin Wichary Visits the Large Scale Systems Museum",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
           "link": "https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-          "link": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f"
         }
       ],
-      "summary_zh": "2026-04-13 技术日报：Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’。",
-      "summary_en": "Daily brief (2026-04-13): Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’.",
+      "summary_zh": "2026-04-13 技术日报：John Martellaro, RIP；Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture。",
+      "summary_en": "Daily brief (2026-04-13): John Martellaro, RIP; Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-13 日报】Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-13): Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’. Actionable takeaways included. What would you ship next? #AI #En"
+          "zh": "【2026-04-13 日报】John Martellaro, RIP；Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-13): John Martellaro, RIP; Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-13）\n- Marcin Wichary Visits the Large Scale Systems Museum\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://flickr.com/photos/mwichary/albums/72177720332956990/\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-13)\n- Marcin Wichary Visits the Large Scale Systems Museum\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n- FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://flickr.com/photos/mwichary/albums/72177720332956990/\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n- https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-13）\n- John Martellaro, RIP\n- Marcin Wichary Visits the Large Scale Systems Museum\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://geektells.com/john-martellaro-remembrance/\n- https://flickr.com/photos/mwichary/albums/72177720332956990/\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-13)\n- John Martellaro, RIP\n- Marcin Wichary Visits the Large Scale Systems Museum\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://geektells.com/john-martellaro-remembrance/\n- https://flickr.com/photos/mwichary/albums/72177720332956990/\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture；FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture; FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：John Martellaro, RIP；Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: John Martellaro, RIP; Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
