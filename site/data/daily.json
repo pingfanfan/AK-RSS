@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T20:45:31Z",
+  "generated_at": "2026-04-13T21:14:03Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-04-13",
-      "total": 17,
+      "total": 19,
       "feeds": [
-        "daringfireball.net (4)",
+        "daringfireball.net (5)",
+        "simonwillison.net (3)",
         "johndcook.com (2)",
-        "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Steve Yegge",
+        "daringfireball.net · Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
         "daringfireball.net · John Martellaro, RIP",
         "daringfireball.net · Marcin Wichary Visits the Large Scale Systems Museum",
         "daringfireball.net · MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "daringfireball.net · FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’",
-        "simonwillison.net · Exploring the new `servo` crate",
-        "johndcook.com · The smallest math library"
+        "daringfireball.net · FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
       ],
       "key_points": [
+        "Quoting Steve Yegge",
+        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
         "John Martellaro, RIP",
-        "Marcin Wichary Visits the Large Scale Systems Museum",
-        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
+        "Marcin Wichary Visits the Large Scale Systems Museum"
       ],
       "key_points_zh": [
+        "Quoting Steve Yegge",
+        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
         "John Martellaro, RIP",
-        "Marcin Wichary Visits the Large Scale Systems Museum",
-        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
+        "Marcin Wichary Visits the Large Scale Systems Museum"
       ],
       "key_points_en": [
+        "Quoting Steve Yegge",
+        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
         "John Martellaro, RIP",
-        "Marcin Wichary Visits the Large Scale Systems Museum",
-        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-        "FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’"
+        "Marcin Wichary Visits the Large Scale Systems Museum"
       ],
       "tweet_drafts": [
-        "John Martellaro, RIP",
-        "Marcin Wichary Visits the Large Scale Systems Museum",
-        "MacOS Tip: Enable the Zoom ‘Peek’ Gesture"
+        "Quoting Steve Yegge",
+        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
+        "John Martellaro, RIP"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Steve Yegge",
+          "link": "https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
+          "link": "https://mastodon.social/@tuomas_h/116397694769738857"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "John Martellaro, RIP",
           "link": "https://geektells.com/john-martellaro-remembrance/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Marcin Wichary Visits the Large Scale Systems Museum",
-          "link": "https://flickr.com/photos/mwichary/albums/72177720332956990/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
-          "link": "https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/"
         }
       ],
-      "summary_zh": "2026-04-13 技术日报：John Martellaro, RIP；Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture。",
-      "summary_en": "Daily brief (2026-04-13): John Martellaro, RIP; Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture.",
+      "summary_zh": "2026-04-13 技术日报：Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier；John Martellaro, RIP。",
+      "summary_en": "Daily brief (2026-04-13): Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier; John Martellaro, RIP.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-13 日报】John Martellaro, RIP；Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-13): John Martellaro, RIP; Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-13 日报】Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier；John Martellaro, RIP。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-13): Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier; John Martellaro, RIP. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-13）\n- John Martellaro, RIP\n- Marcin Wichary Visits the Large Scale Systems Museum\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://geektells.com/john-martellaro-remembrance/\n- https://flickr.com/photos/mwichary/albums/72177720332956990/\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-13)\n- John Martellaro, RIP\n- Marcin Wichary Visits the Large Scale Systems Museum\n- MacOS Tip: Enable the Zoom ‘Peek’ Gesture\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://geektells.com/john-martellaro-remembrance/\n- https://flickr.com/photos/mwichary/albums/72177720332956990/\n- https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-13）\n- Quoting Steve Yegge\n- Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier\n- John Martellaro, RIP\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n- https://mastodon.social/@tuomas_h/116397694769738857\n- https://geektells.com/john-martellaro-remembrance/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-13)\n- Quoting Steve Yegge\n- Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier\n- John Martellaro, RIP\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n- https://mastodon.social/@tuomas_h/116397694769738857\n- https://geektells.com/john-martellaro-remembrance/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：John Martellaro, RIP；Marcin Wichary Visits the Large Scale Systems Museum；MacOS Tip: Enable the Zoom ‘Peek’ Gesture。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: John Martellaro, RIP; Marcin Wichary Visits the Large Scale Systems Museum; MacOS Tip: Enable the Zoom ‘Peek’ Gesture.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Steve Yegge；Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier；John Martellaro, RIP。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Steve Yegge; Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier; John Martellaro, RIP.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
