@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T10:50:47Z",
+  "generated_at": "2026-04-14T11:21:16Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,46 +48,52 @@
     },
     {
       "date": "2026-04-14",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "pluralistic.net (2)",
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Google’s acquisition of Doubleclick",
         "nesbitt.io · Standing on the shoulders of Homebrew",
         "pluralistic.net · Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
         "pluralistic.net · Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
         "troyhunt.com · Weekly Update 499",
-        "utcc.utoronto.ca/~cks · Having an inventory of anything is a non-trivial thing",
-        "daringfireball.net · Steven Soderbergh Twice Pitched James Bond Projects"
+        "utcc.utoronto.ca/~cks · Having an inventory of anything is a non-trivial thing"
       ],
       "key_points": [
-        "Standing on the shoulders of Homebrew",
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "Weekly Update 499",
-        "Having an inventory of anything is a non-trivial thing"
-      ],
-      "key_points_zh": [
-        "Standing on the shoulders of Homebrew",
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "Weekly Update 499",
-        "Having an inventory of anything is a non-trivial thing"
-      ],
-      "key_points_en": [
-        "Standing on the shoulders of Homebrew",
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "Weekly Update 499",
-        "Having an inventory of anything is a non-trivial thing"
-      ],
-      "tweet_drafts": [
+        "Google’s acquisition of Doubleclick",
         "Standing on the shoulders of Homebrew",
         "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
         "Weekly Update 499"
       ],
+      "key_points_zh": [
+        "Google’s acquisition of Doubleclick",
+        "Standing on the shoulders of Homebrew",
+        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
+        "Weekly Update 499"
+      ],
+      "key_points_en": [
+        "Google’s acquisition of Doubleclick",
+        "Standing on the shoulders of Homebrew",
+        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
+        "Weekly Update 499"
+      ],
+      "tweet_drafts": [
+        "Google’s acquisition of Doubleclick",
+        "Standing on the shoulders of Homebrew",
+        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Google’s acquisition of Doubleclick",
+          "link": "https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Standing on the shoulders of Homebrew",
@@ -96,28 +102,23 @@
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-          "link": "https://pluralistic.net/2026/04/14/compartment/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
           "link": "https://pluralistic.net/2026/04/14/compartments/"
         }
       ],
-      "summary_zh": "2026-04-14 技术日报：Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499。",
-      "summary_en": "Daily brief (2026-04-14): Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499.",
+      "summary_zh": "2026-04-14 技术日报：Google’s acquisition of Doubleclick；Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)。",
+      "summary_en": "Daily brief (2026-04-14): Google’s acquisition of Doubleclick; Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-14 日报】Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-14): Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-14 日报】Google’s acquisition of Doubleclick；Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-14): Google’s acquisition of Doubleclick; Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-14）\n- Standing on the shoulders of Homebrew\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n- Weekly Update 499\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n- https://pluralistic.net/2026/04/14/compartment/\n- https://pluralistic.net/2026/04/14/compartments/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-14)\n- Standing on the shoulders of Homebrew\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n- Weekly Update 499\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n- https://pluralistic.net/2026/04/14/compartment/\n- https://pluralistic.net/2026/04/14/compartments/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-14）\n- Google’s acquisition of Doubleclick\n- Standing on the shoulders of Homebrew\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n- https://pluralistic.net/2026/04/14/compartments/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-14)\n- Google’s acquisition of Doubleclick\n- Standing on the shoulders of Homebrew\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n- https://pluralistic.net/2026/04/14/compartments/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Google’s acquisition of Doubleclick；Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Google’s acquisition of Doubleclick; Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
