@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-14 20:45:14 UTC
+Generated at: 2026-04-14 21:13:47 UTC
 
-- [Google Will Finally Begin Punishing Sites for Back-Button Hijacking in June](https://developers.google.com/search/blog/2026/04/back-button-hijacking) (`daringfireball.net`)
+- [Apple Has Hidden the Pre-Creator-Studio Versions of Keynote, Numbers, and Pages in the Mac App Store](https://9to5mac.com/2026/04/13/apple-removes-old-pages-keynote-numbers-apps-for-macos/) (`daringfireball.net`)
