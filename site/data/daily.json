@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T12:13:56Z",
+  "generated_at": "2026-04-14T12:49:14Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-14",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "pluralistic.net (2)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
-        "nesbitt.io (1)",
-        "troyhunt.com (1)"
+        "johndcook.com (1)",
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "johndcook.com · Finding a parabola through two points with given slopes",
         "idiallo.com · Back button hijacking is going away",
         "dfarq.homeip.net · Google’s acquisition of Doubleclick",
         "nesbitt.io · Standing on the shoulders of Homebrew",
         "pluralistic.net · Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "pluralistic.net · Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "troyhunt.com · Weekly Update 499"
+        "pluralistic.net · Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)"
       ],
       "key_points": [
-        "Back button hijacking is going away",
-        "Google’s acquisition of Doubleclick",
-        "Standing on the shoulders of Homebrew",
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)"
-      ],
-      "key_points_zh": [
-        "Back button hijacking is going away",
-        "Google’s acquisition of Doubleclick",
-        "Standing on the shoulders of Homebrew",
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)"
-      ],
-      "key_points_en": [
-        "Back button hijacking is going away",
-        "Google’s acquisition of Doubleclick",
-        "Standing on the shoulders of Homebrew",
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)"
-      ],
-      "tweet_drafts": [
+        "Finding a parabola through two points with given slopes",
         "Back button hijacking is going away",
         "Google’s acquisition of Doubleclick",
         "Standing on the shoulders of Homebrew"
       ],
+      "key_points_zh": [
+        "Finding a parabola through two points with given slopes",
+        "Back button hijacking is going away",
+        "Google’s acquisition of Doubleclick",
+        "Standing on the shoulders of Homebrew"
+      ],
+      "key_points_en": [
+        "Finding a parabola through two points with given slopes",
+        "Back button hijacking is going away",
+        "Google’s acquisition of Doubleclick",
+        "Standing on the shoulders of Homebrew"
+      ],
+      "tweet_drafts": [
+        "Finding a parabola through two points with given slopes",
+        "Back button hijacking is going away",
+        "Google’s acquisition of Doubleclick"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Finding a parabola through two points with given slopes",
+          "link": "https://www.johndcook.com/blog/2026/04/14/artz-parabola/"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "Back button hijacking is going away",
@@ -98,27 +103,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Google’s acquisition of Doubleclick",
           "link": "https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Standing on the shoulders of Homebrew",
-          "link": "https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html"
         }
       ],
-      "summary_zh": "2026-04-14 技术日报：Back button hijacking is going away；Google’s acquisition of Doubleclick；Standing on the shoulders of Homebrew。",
-      "summary_en": "Daily brief (2026-04-14): Back button hijacking is going away; Google’s acquisition of Doubleclick; Standing on the shoulders of Homebrew.",
+      "summary_zh": "2026-04-14 技术日报：Finding a parabola through two points with given slopes；Back button hijacking is going away；Google’s acquisition of Doubleclick。",
+      "summary_en": "Daily brief (2026-04-14): Finding a parabola through two points with given slopes; Back button hijacking is going away; Google’s acquisition of Doubleclick.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-14 日报】Back button hijacking is going away；Google’s acquisition of Doubleclick；Standing on the shoulders of Homebrew。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-14): Back button hijacking is going away; Google’s acquisition of Doubleclick; Standing on the shoulders of Homebrew. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-14 日报】Finding a parabola through two points with given slopes；Back button hijacking is going away；Google’s acquisition of Doubleclick。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-14): Finding a parabola through two points with given slopes; Back button hijacking is going away; Google’s acquisition of Doubleclick. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-14）\n- Back button hijacking is going away\n- Google’s acquisition of Doubleclick\n- Standing on the shoulders of Homebrew\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed\n- https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-14)\n- Back button hijacking is going away\n- Google’s acquisition of Doubleclick\n- Standing on the shoulders of Homebrew\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed\n- https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-14）\n- Finding a parabola through two points with given slopes\n- Back button hijacking is going away\n- Google’s acquisition of Doubleclick\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/14/artz-parabola/\n- https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed\n- https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-14)\n- Finding a parabola through two points with given slopes\n- Back button hijacking is going away\n- Google’s acquisition of Doubleclick\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/14/artz-parabola/\n- https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed\n- https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=googles-acquisition-of-doubleclick\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Back button hijacking is going away；Google’s acquisition of Doubleclick；Standing on the shoulders of Homebrew。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Back button hijacking is going away; Google’s acquisition of Doubleclick; Standing on the shoulders of Homebrew.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Finding a parabola through two points with given slopes；Back button hijacking is going away；Google’s acquisition of Doubleclick。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Finding a parabola through two points with given slopes; Back button hijacking is going away; Google’s acquisition of Doubleclick.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
