@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-14 21:44:58 UTC
+Generated at: 2026-04-14 22:12:49 UTC
 
-- [Trusted access for the next era of cyber defense](https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything) (`simonwillison.net`)
-- [Speaking of Tips](https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php) (`daringfireball.net`)
+- [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/) (`krebsonsecurity.com`)
+- [Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users](https://www.web3isgoinggreat.com/?id=fake-ledger-app) (`daringfireball.net`)
