@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T10:25:38Z",
+  "generated_at": "2026-04-14T10:50:47Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,14 +48,16 @@
     },
     {
       "date": "2026-04-14",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "pluralistic.net (2)",
         "daringfireball.net (1)",
+        "nesbitt.io (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Standing on the shoulders of Homebrew",
         "pluralistic.net · Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
         "pluralistic.net · Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
         "troyhunt.com · Weekly Update 499",
@@ -63,29 +65,34 @@
         "daringfireball.net · Steven Soderbergh Twice Pitched James Bond Projects"
       ],
       "key_points": [
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "Weekly Update 499",
-        "Having an inventory of anything is a non-trivial thing",
-        "Steven Soderbergh Twice Pitched James Bond Projects"
-      ],
-      "key_points_zh": [
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "Weekly Update 499",
-        "Having an inventory of anything is a non-trivial thing",
-        "Steven Soderbergh Twice Pitched James Bond Projects"
-      ],
-      "key_points_en": [
-        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
-        "Weekly Update 499",
-        "Having an inventory of anything is a non-trivial thing",
-        "Steven Soderbergh Twice Pitched James Bond Projects"
-      ],
-      "tweet_drafts": [
+        "Standing on the shoulders of Homebrew",
         "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
         "Weekly Update 499",
         "Having an inventory of anything is a non-trivial thing"
       ],
+      "key_points_zh": [
+        "Standing on the shoulders of Homebrew",
+        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
+        "Weekly Update 499",
+        "Having an inventory of anything is a non-trivial thing"
+      ],
+      "key_points_en": [
+        "Standing on the shoulders of Homebrew",
+        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
+        "Weekly Update 499",
+        "Having an inventory of anything is a non-trivial thing"
+      ],
+      "tweet_drafts": [
+        "Standing on the shoulders of Homebrew",
+        "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
+        "Weekly Update 499"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Standing on the shoulders of Homebrew",
+          "link": "https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
@@ -95,27 +102,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
           "link": "https://pluralistic.net/2026/04/14/compartments/"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 499",
-          "link": "https://www.troyhunt.com/weekly-update-499/"
         }
       ],
-      "summary_zh": "2026-04-14 技术日报：Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499；Having an inventory of anything is a non-trivial thing。",
-      "summary_en": "Daily brief (2026-04-14): Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499; Having an inventory of anything is a non-trivial thing.",
+      "summary_zh": "2026-04-14 技术日报：Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499。",
+      "summary_en": "Daily brief (2026-04-14): Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-14 日报】Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499；Having an inventory of anything is a non-trivial thing。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-14): Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499; Having an inventory of anything is a non-trivial thing. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-14 日报】Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-14): Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-14）\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n- Weekly Update 499\n- Having an inventory of anything is a non-trivial thing\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/14/compartment/\n- https://pluralistic.net/2026/04/14/compartments/\n- https://www.troyhunt.com/weekly-update-499/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-14)\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n- Weekly Update 499\n- Having an inventory of anything is a non-trivial thing\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/14/compartment/\n- https://pluralistic.net/2026/04/14/compartments/\n- https://www.troyhunt.com/weekly-update-499/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-14）\n- Standing on the shoulders of Homebrew\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n- Weekly Update 499\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n- https://pluralistic.net/2026/04/14/compartment/\n- https://pluralistic.net/2026/04/14/compartments/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-14)\n- Standing on the shoulders of Homebrew\n- Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)\n- Weekly Update 499\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html\n- https://pluralistic.net/2026/04/14/compartment/\n- https://pluralistic.net/2026/04/14/compartments/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499；Having an inventory of anything is a non-trivial thing。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499; Having an inventory of anything is a non-trivial thing.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Standing on the shoulders of Homebrew；Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)；Weekly Update 499。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Standing on the shoulders of Homebrew; Pluralistic: In praise of (some) compartmentalization (14 Apr 2026); Weekly Update 499.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
