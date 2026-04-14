@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T22:44:02Z",
+  "generated_at": "2026-04-14T06:30:18Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -43,6 +43,62 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: You Might Debate It — If You Could See It.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "total": 2,
+      "feeds": [
+        "daringfireball.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Having an inventory of anything is a non-trivial thing",
+        "daringfireball.net · Steven Soderbergh Twice Pitched James Bond Projects"
+      ],
+      "key_points": [
+        "Having an inventory of anything is a non-trivial thing",
+        "Steven Soderbergh Twice Pitched James Bond Projects"
+      ],
+      "key_points_zh": [
+        "Having an inventory of anything is a non-trivial thing",
+        "Steven Soderbergh Twice Pitched James Bond Projects"
+      ],
+      "key_points_en": [
+        "Having an inventory of anything is a non-trivial thing",
+        "Steven Soderbergh Twice Pitched James Bond Projects"
+      ],
+      "tweet_drafts": [
+        "Having an inventory of anything is a non-trivial thing",
+        "Steven Soderbergh Twice Pitched James Bond Projects"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Having an inventory of anything is a non-trivial thing",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/InventoriesAreNontrivial"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Steven Soderbergh Twice Pitched James Bond Projects",
+          "link": "https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/"
+        }
+      ],
+      "summary_zh": "2026-04-14 技术日报：Having an inventory of anything is a non-trivial thing；Steven Soderbergh Twice Pitched James Bond Projects。",
+      "summary_en": "Daily brief (2026-04-14): Having an inventory of anything is a non-trivial thing; Steven Soderbergh Twice Pitched James Bond Projects.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-14 日报】Having an inventory of anything is a non-trivial thing；Steven Soderbergh Twice Pitched James Bond Projects。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-14): Having an inventory of anything is a non-trivial thing; Steven Soderbergh Twice Pitched James Bond Projects. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-14）\n- Having an inventory of anything is a non-trivial thing\n- Steven Soderbergh Twice Pitched James Bond Projects\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/InventoriesAreNontrivial\n- https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-14)\n- Having an inventory of anything is a non-trivial thing\n- Steven Soderbergh Twice Pitched James Bond Projects\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/InventoriesAreNontrivial\n- https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Having an inventory of anything is a non-trivial thing；Steven Soderbergh Twice Pitched James Bond Projects。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Having an inventory of anything is a non-trivial thing; Steven Soderbergh Twice Pitched James Bond Projects.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2225,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ Squashing；CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ Squashing; CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper GPT-5.4 nano/mini, undercutting"
-        }
-      }
-    },
-    {
-      "date": "2026-03-16",
-      "total": 16,
-      "feeds": [
-        "simonwillison.net (4)",
-        "daringfireball.net (2)",
-        "idiallo.com (2)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · [Sponsor] Mux — Video API for Developers",
-        "simonwillison.net · Introducing Mistral Small 4",
-        "entropicthoughts.com · Esqueleto Tutorial",
-        "simonwillison.net · Quoting A member of Anthropic’s alignment-science team",
-        "simonwillison.net · Quoting Guilherme Rambo",
-        "berthub.eu · Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!"
-      ],
-      "key_points": [
-        "[Sponsor] Mux — Video API for Developers",
-        "Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式",
-        "Esqueleto Tutorial",
-        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划"
-      ],
-      "key_points_zh": [
-        "[Sponsor] Mux — Video API for Developers",
-        "Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式",
-        "Esqueleto Tutorial",
-        "Anthropic对齐科学团队通过模拟AI勒索场景，向政策制定者直观展示错位风险，强调技术安全需提前规划"
-      ],
-      "key_points_en": [
-        "[Sponsor] Mux — Video API for Developers",
-        "Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode",
-        "Esqueleto Tutorial",
-        "Anthropic's alignment science team used a simulated AI blackmail scenario to viscerally demonstrate misalignment risks to policymakers, stressing the need for proactive safety planning"
-      ],
-      "tweet_drafts": [
-        "[Sponsor] Mux — Video API for Developers",
-        "Mistral Small 4发布：119B参数混合专家模型，Apache 2许可，一站式解决推理、图像理解和编码任务。高推理模式值得尝试，但242GB体积需权衡本地部署。技术决策者关注",
-        "Esqueleto Tutorial"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] Mux — Video API for Developers",
-          "link": "https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Mistral Releases Small 4: A 119B Open-Source Model Unifying Reasoning, Multimodal, and Coding",
-          "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything"
-        },
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Esqueleto Tutorial",
-          "link": "https://entropicthoughts.com/esqueleto-tutorial"
-        }
-      ],
-      "summary_zh": "2026-03-16 技术日报：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Esqueleto Tutorial。",
-      "summary_en": "Daily brief (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Esqueleto Tutorial.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-16 日报】[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Esqueleto Tutorial。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-16): [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Esqueleto Tutorial. Actionable takeaways included. What"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-16）\n- [Sponsor] Mux — Video API for Developers\n- Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式\n- Esqueleto Tutorial\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://entropicthoughts.com/esqueleto-tutorial\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-16)\n- [Sponsor] Mux — Video API for Developers\n- Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode\n- Esqueleto Tutorial\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.mux.com/video-api?utm_campaign=fireball\u0026utm_source=DF\n- https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything\n- https://entropicthoughts.com/esqueleto-tutorial\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] Mux — Video API for Developers；Mistral发布Apache 2许可的119B参数混合专家模型，整合旗舰推理、多模态和编码能力，支持高推理模式；Esqueleto Tutorial。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] Mux — Video API for Developers; Mistral releases a 119B Apache 2-licensed MoE model unifying reasoning, multimodal, and coding capabilities with a high reasoning mode; Esqueleto Tutorial.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
