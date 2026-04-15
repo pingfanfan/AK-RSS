@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-15 20:14:44 UTC
+Generated at: 2026-04-15 20:44:27 UTC
 
-- [Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)](https://lisamelton.net/2023/10/05/memories-of-steve/) (`daringfireball.net`)
+- [Writing an LLM from scratch, part 32c -- Interventions: removing dropout](https://www.gilesthomas.com/2026/02/llm-from-scratch-32c-interventions-removing-dropout) (`gilesthomas.com`)
