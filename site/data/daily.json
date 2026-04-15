@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T22:12:42Z",
+  "generated_at": "2026-04-15T22:43:39Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-15",
-      "total": 18,
+      "total": 19,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (3)",
+        "utcc.utoronto.ca/~cks (2)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
+        "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · Our options in remote server installation and management",
         "daringfireball.net · Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
         "blog.jim-nielsen.com · Speed is Not Conducive to Wisdom",
         "simonwillison.net · Quoting John Gruber",
         "buttondown.com/hillelwayne · A sufficiently comprehensive spec is not (necessarily) code",
-        "dwarkesh.com · Jensen Huang – TPU competition, why we should sell chips to China, \u0026 Nvidia’s supply chain moat",
-        "daringfireball.net · ★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again"
+        "dwarkesh.com · Jensen Huang – TPU competition, why we should sell chips to China, \u0026 Nvidia’s supply chain moat"
       ],
       "key_points": [
-        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
-        "Speed is Not Conducive to Wisdom",
-        "Quoting John Gruber",
-        "A sufficiently comprehensive spec is not (necessarily) code"
-      ],
-      "key_points_zh": [
-        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
-        "Speed is Not Conducive to Wisdom",
-        "Quoting John Gruber",
-        "A sufficiently comprehensive spec is not (necessarily) code"
-      ],
-      "key_points_en": [
-        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
-        "Speed is Not Conducive to Wisdom",
-        "Quoting John Gruber",
-        "A sufficiently comprehensive spec is not (necessarily) code"
-      ],
-      "tweet_drafts": [
+        "Our options in remote server installation and management",
         "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
         "Speed is Not Conducive to Wisdom",
         "Quoting John Gruber"
       ],
+      "key_points_zh": [
+        "Our options in remote server installation and management",
+        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+        "Speed is Not Conducive to Wisdom",
+        "Quoting John Gruber"
+      ],
+      "key_points_en": [
+        "Our options in remote server installation and management",
+        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+        "Speed is Not Conducive to Wisdom",
+        "Quoting John Gruber"
+      ],
+      "tweet_drafts": [
+        "Our options in remote server installation and management",
+        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+        "Speed is Not Conducive to Wisdom"
+      ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Our options in remote server installation and management",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
@@ -98,27 +103,22 @@
           "feed_title": "blog.jim-nielsen.com",
           "title": "Speed is Not Conducive to Wisdom",
           "link": "https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting John Gruber",
-          "link": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-15 技术日报：Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom；Quoting John Gruber。",
-      "summary_en": "Daily brief (2026-04-15): Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom; Quoting John Gruber.",
+      "summary_zh": "2026-04-15 技术日报：Our options in remote server installation and management；Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom。",
+      "summary_en": "Daily brief (2026-04-15): Our options in remote server installation and management; Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-15 日报】Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom；Quoting John Gruber。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-15): Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom; Quoting John Gruber. Actionable takeaways included. What would you ship next? #AI #Engineering"
+          "zh": "【2026-04-15 日报】Our options in remote server installation and management；Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-15): Our options in remote server installation and management; Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom. Actionable takeaways included. What"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-15）\n- Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)\n- Speed is Not Conducive to Wisdom\n- Quoting John Gruber\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://lisamelton.net/2023/10/05/memories-of-steve/\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n- https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-15)\n- Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)\n- Speed is Not Conducive to Wisdom\n- Quoting John Gruber\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://lisamelton.net/2023/10/05/memories-of-steve/\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n- https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-15）\n- Our options in remote server installation and management\n- Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)\n- Speed is Not Conducive to Wisdom\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions\n- https://lisamelton.net/2023/10/05/memories-of-steve/\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-15)\n- Our options in remote server installation and management\n- Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)\n- Speed is Not Conducive to Wisdom\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions\n- https://lisamelton.net/2023/10/05/memories-of-steve/\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom；Quoting John Gruber。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom; Quoting John Gruber.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Our options in remote server installation and management；Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Our options in remote server installation and management; Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
