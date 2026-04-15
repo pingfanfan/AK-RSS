@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T19:54:11Z",
+  "generated_at": "2026-04-15T20:14:58Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-15",
-      "total": 17,
+      "total": 18,
       "feeds": [
+        "daringfireball.net (3)",
         "simonwillison.net (3)",
-        "daringfireball.net (2)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
         "blog.jim-nielsen.com · Speed is Not Conducive to Wisdom",
         "simonwillison.net · Quoting John Gruber",
         "buttondown.com/hillelwayne · A sufficiently comprehensive spec is not (necessarily) code",
         "dwarkesh.com · Jensen Huang – TPU competition, why we should sell chips to China, \u0026 Nvidia’s supply chain moat",
-        "daringfireball.net · ★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again",
-        "simonwillison.net · Quoting Kyle Kingsbury"
+        "daringfireball.net · ★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again"
       ],
       "key_points": [
-        "Speed is Not Conducive to Wisdom",
-        "Quoting John Gruber",
-        "A sufficiently comprehensive spec is not (necessarily) code",
-        "Jensen Huang – TPU competition, why we should sell chips to China, \u0026 Nvidia’s supply chain moat"
-      ],
-      "key_points_zh": [
-        "Speed is Not Conducive to Wisdom",
-        "Quoting John Gruber",
-        "A sufficiently comprehensive spec is not (necessarily) code",
-        "Jensen Huang – TPU competition, why we should sell chips to China, \u0026 Nvidia’s supply chain moat"
-      ],
-      "key_points_en": [
-        "Speed is Not Conducive to Wisdom",
-        "Quoting John Gruber",
-        "A sufficiently comprehensive spec is not (necessarily) code",
-        "Jensen Huang – TPU competition, why we should sell chips to China, \u0026 Nvidia’s supply chain moat"
-      ],
-      "tweet_drafts": [
+        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
         "Speed is Not Conducive to Wisdom",
         "Quoting John Gruber",
         "A sufficiently comprehensive spec is not (necessarily) code"
       ],
+      "key_points_zh": [
+        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+        "Speed is Not Conducive to Wisdom",
+        "Quoting John Gruber",
+        "A sufficiently comprehensive spec is not (necessarily) code"
+      ],
+      "key_points_en": [
+        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+        "Speed is Not Conducive to Wisdom",
+        "Quoting John Gruber",
+        "A sufficiently comprehensive spec is not (necessarily) code"
+      ],
+      "tweet_drafts": [
+        "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+        "Speed is Not Conducive to Wisdom",
+        "Quoting John Gruber"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+          "link": "https://lisamelton.net/2023/10/05/memories-of-steve/"
+        },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Speed is Not Conducive to Wisdom",
@@ -98,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting John Gruber",
           "link": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "A sufficiently comprehensive spec is not (necessarily) code",
-          "link": "https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/"
         }
       ],
-      "summary_zh": "2026-04-15 技术日报：Speed is Not Conducive to Wisdom；Quoting John Gruber；A sufficiently comprehensive spec is not (necessarily) code。",
-      "summary_en": "Daily brief (2026-04-15): Speed is Not Conducive to Wisdom; Quoting John Gruber; A sufficiently comprehensive spec is not (necessarily) code.",
+      "summary_zh": "2026-04-15 技术日报：Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom；Quoting John Gruber。",
+      "summary_en": "Daily brief (2026-04-15): Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom; Quoting John Gruber.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-15 日报】Speed is Not Conducive to Wisdom；Quoting John Gruber；A sufficiently comprehensive spec is not (necessarily) code。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-15): Speed is Not Conducive to Wisdom; Quoting John Gruber; A sufficiently comprehensive spec is not (necessarily) code. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-15 日报】Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom；Quoting John Gruber。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-15): Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom; Quoting John Gruber. Actionable takeaways included. What would you ship next? #AI #Engineering"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-15）\n- Speed is Not Conducive to Wisdom\n- Quoting John Gruber\n- A sufficiently comprehensive spec is not (necessarily) code\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n- https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything\n- https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-15)\n- Speed is Not Conducive to Wisdom\n- Quoting John Gruber\n- A sufficiently comprehensive spec is not (necessarily) code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n- https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything\n- https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-15）\n- Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)\n- Speed is Not Conducive to Wisdom\n- Quoting John Gruber\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://lisamelton.net/2023/10/05/memories-of-steve/\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n- https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-15)\n- Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)\n- Speed is Not Conducive to Wisdom\n- Quoting John Gruber\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://lisamelton.net/2023/10/05/memories-of-steve/\n- https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/\n- https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Speed is Not Conducive to Wisdom；Quoting John Gruber；A sufficiently comprehensive spec is not (necessarily) code。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Speed is Not Conducive to Wisdom; Quoting John Gruber; A sufficiently comprehensive spec is not (necessarily) code.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)；Speed is Not Conducive to Wisdom；Quoting John Gruber。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular); Speed is Not Conducive to Wisdom; Quoting John Gruber.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
