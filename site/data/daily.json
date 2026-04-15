@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T22:44:14Z",
+  "generated_at": "2026-04-15T06:30:46Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -43,6 +43,73 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: You Might Debate It — If You Could See It.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-04-15",
+      "total": 3,
+      "feeds": [
+        "simonwillison.net (1)",
+        "tedium.co (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Universities, email, and the issues of running things in house",
+        "tedium.co · Pressed For Options",
+        "simonwillison.net · Zig 0.16.0 release notes: \"Juicy Main\""
+      ],
+      "key_points": [
+        "Universities, email, and the issues of running things in house",
+        "Pressed For Options",
+        "Zig 0.16.0 release notes: \"Juicy Main\""
+      ],
+      "key_points_zh": [
+        "Universities, email, and the issues of running things in house",
+        "Pressed For Options",
+        "Zig 0.16.0 release notes: \"Juicy Main\""
+      ],
+      "key_points_en": [
+        "Universities, email, and the issues of running things in house",
+        "Pressed For Options",
+        "Zig 0.16.0 release notes: \"Juicy Main\""
+      ],
+      "tweet_drafts": [
+        "Universities, email, and the issues of running things in house",
+        "Pressed For Options",
+        "Zig 0.16.0 release notes: \"Juicy Main\""
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Universities, email, and the issues of running things in house",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech"
+        },
+        {
+          "feed_title": "tedium.co",
+          "title": "Pressed For Options",
+          "link": "https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+          "link": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-04-15 技术日报：Universities, email, and the issues of running things in house；Pressed For Options；Zig 0.16.0 release notes: \"Juicy Main\"。",
+      "summary_en": "Daily brief (2026-04-15): Universities, email, and the issues of running things in house; Pressed For Options; Zig 0.16.0 release notes: \"Juicy Main\".",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-15 日报】Universities, email, and the issues of running things in house；Pressed For Options；Zig 0.16.0 release notes: \"Juicy Main\"。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-15): Universities, email, and the issues of running things in house; Pressed For Options; Zig 0.16.0 release notes: \"Juicy Main\". Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-15）\n- Universities, email, and the issues of running things in house\n- Pressed For Options\n- Zig 0.16.0 release notes: \"Juicy Main\"\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech\n- https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges\n- https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-15)\n- Universities, email, and the issues of running things in house\n- Pressed For Options\n- Zig 0.16.0 release notes: \"Juicy Main\"\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech\n- https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges\n- https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Universities, email, and the issues of running things in house；Pressed For Options；Zig 0.16.0 release notes: \"Juicy Main\"。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Universities, email, and the issues of running things in house; Pressed For Options; Zig 0.16.0 release notes: \"Juicy Main\".\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2236,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally；The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally; The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development.\nI"
-        }
-      }
-    },
-    {
-      "date": "2026-03-17",
-      "total": 20,
-      "feeds": [
-        "simonwillison.net (4)",
-        "daringfireball.net (3)",
-        "johndcook.com (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "experimental-history.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ★ Squashing",
-        "simonwillison.net · Quoting Ken Jin",
-        "simonwillison.net · GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
-        "daringfireball.net · Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
-        "wheresyoured.at · Why Are We Still Doing This?",
-        "simonwillison.net · Quoting Tim Schilling"
-      ],
-      "key_points": [
-        "★ Squashing",
-        "CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成",
-        "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
-        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒"
-      ],
-      "key_points_zh": [
-        "★ Squashing",
-        "CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成",
-        "OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比",
-        "Fox Sports的XR应用仅支持Android XR设备（Galaxy头显）观看3D决赛，其iOS原生App不支持Vision Pro，凸显平台生态壁垒"
-      ],
-      "key_points_en": [
-        "★ Squashing",
-        "CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule",
-        "OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing",
-        "Fox Sports' XR app for immersive 3D broadcast is exclusive to Android XR (Galaxy headsets); its native iOS app does not support Vision Pro, highlighting platform ecosystem barriers"
-      ],
-      "tweet_drafts": [
-        "★ Squashing",
-        "🚀 Python 3.15 JIT性能提前达标！macOS ARM快11-12%，Linux x86快5-6%。开发者们，是时候测试你的代码了！#Python #Performance",
-        "GPT-5.4 nano输入$0.20/百万token，比Gemini 3.1 Flash-Lite还低。实测描述照片成本不到0.1美分，大规模图像处理成本骤降。 #OpenAI #LLM"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ Squashing",
-          "link": "https://daringfireball.net/2026/03/squashing"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Python 3.15 JIT Performance Meets Goals Early",
-          "link": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "GPT-5.4 mini \u0026 nano launched: Describe 76k photos for $52",
-          "link": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-03-17 技术日报：★ Squashing；CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比。",
-      "summary_en": "Daily brief (2026-03-17): ★ Squashing; CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI rele",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-17 日报】★ Squashing；CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-17): ★ Squashing; CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI rel"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-17）\n- ★ Squashing\n- CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成\n- OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/03/squashing\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-17)\n- ★ Squashing\n- CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule\n- OpenAI releases cheaper GPT-5.4 nano/mini, undercutting rivals. Test: describing one image costs \u003c$0.001, ideal for bulk processing\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/03/squashing\n- https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything\n- https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：★ Squashing；CPython 3.15 alpha的JIT编译器在macOS AArch64上比尾调用解释器快11-12%，在x86_64 Linux上快5-6%，性能目标提前达成；OpenAI发布GPT-5.4 nano/mini，成本低于竞品，实测描述单张照片不到0.1美分，批量处理极具性价比。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ Squashing; CPython 3.15 alpha's JIT compiler is 11-12% faster than the tail-calling interpreter on macOS AArch64 and 5-6% faster than the standard interpreter on x86_64 Linux, meeting performance goals ahead of schedule; OpenAI releases cheaper GPT-5.4 nano/mini, undercutting"
         }
       }
     }
