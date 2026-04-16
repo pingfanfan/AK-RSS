@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T22:43:39Z",
+  "generated_at": "2026-04-16T06:31:06Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -43,6 +43,73 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: You Might Debate It — If You Could See It.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-04-16",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "joanwestenberg.com · I truly hate mostpeopleslop",
+        "daringfireball.net · So Close to Getting It",
+        "simonwillison.net · datasette.io news preview"
+      ],
+      "key_points": [
+        "I truly hate mostpeopleslop",
+        "So Close to Getting It",
+        "datasette.io news preview"
+      ],
+      "key_points_zh": [
+        "I truly hate mostpeopleslop",
+        "So Close to Getting It",
+        "datasette.io news preview"
+      ],
+      "key_points_en": [
+        "I truly hate mostpeopleslop",
+        "So Close to Getting It",
+        "datasette.io news preview"
+      ],
+      "tweet_drafts": [
+        "I truly hate mostpeopleslop",
+        "So Close to Getting It",
+        "datasette.io news preview"
+      ],
+      "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "I truly hate mostpeopleslop",
+          "link": "https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "So Close to Getting It",
+          "link": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette.io news preview",
+          "link": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-04-16 技术日报：I truly hate mostpeopleslop；So Close to Getting It；datasette.io news preview。",
+      "summary_en": "Daily brief (2026-04-16): I truly hate mostpeopleslop; So Close to Getting It; datasette.io news preview.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-16 日报】I truly hate mostpeopleslop；So Close to Getting It；datasette.io news preview。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-16): I truly hate mostpeopleslop; So Close to Getting It; datasette.io news preview. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-16）\n- I truly hate mostpeopleslop\n- So Close to Getting It\n- datasette.io news preview\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/\n- https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer\n- https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-16)\n- I truly hate mostpeopleslop\n- So Close to Getting It\n- datasette.io news preview\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/\n- https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer\n- https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：I truly hate mostpeopleslop；So Close to Getting It；datasette.io news preview。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: I truly hate mostpeopleslop; So Close to Getting It; datasette.io news preview.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2169,82 +2236,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：SQLAlchemy 2 In Practice - Chapter 1 - Database Setup；StopTheMadness Pro and StopTheScript Extensions for Safari；Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: SQLAlchemy 2 In Practice - Chapter 1 - Database Setup; StopTheMadness Pro and StopTheScript Extensions for Safari; Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’.\nI turned them into an action-ready daily brief you c"
-        }
-      }
-    },
-    {
-      "date": "2026-03-18",
-      "total": 17,
-      "feeds": [
-        "daringfireball.net (4)",
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dynomight.net (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
-        "daringfireball.net · The Talk Show: ‘The Pogue Feature’",
-        "daringfireball.net · How to Identify Your Apple Keyboard Layout by Country or Region",
-        "daringfireball.net · Meta Is Dropping VR Support From Horizon Worlds",
-        "daringfireball.net · David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes",
-        "simonwillison.net · Snowflake Cortex AI Escapes Sandbox and Executes Malware"
-      ],
-      "key_points": [
-        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
-        "The Talk Show: ‘The Pogue Feature’",
-        "Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误",
-        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验"
-      ],
-      "key_points_zh": [
-        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
-        "The Talk Show: ‘The Pogue Feature’",
-        "Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误",
-        "Meta 宣布其元宇宙平台 Horizon Worlds 将于6月彻底放弃VR支持，转为纯平面网页/移动端体验"
-      ],
-      "key_points_en": [
-        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
-        "The Talk Show: ‘The Pogue Feature’",
-        "Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development",
-        "Meta announces its metaverse platform Horizon Worlds will fully drop VR support in June, shifting to a flatscreen-only web/mobile experience"
-      ],
-      "tweet_drafts": [
-        "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
-        "The Talk Show: ‘The Pogue Feature’",
-        "Apple键盘布局地域差异大，美版改符号标签。开发中若忽略，快捷键和字符输入易出错。建议团队统一布局或提供多布局测试环境"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
-          "link": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The Talk Show: ‘The Pogue Feature’",
-          "link": "https://daringfireball.net/thetalkshow/2026/03/18/ep-443"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "How to Identify Your Apple Keyboard Layout by Country or Region",
-          "link": "https://support.apple.com/en-us/102743"
-        }
-      ],
-      "summary_zh": "2026-03-18 技术日报：Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally；The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误。",
-      "summary_en": "Daily brief (2026-03-18): Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally; The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-18 日报】Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally；The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-18): Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally; The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-18）\n- Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally\n- The Talk Show: ‘The Pogue Feature’\n- Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/03/18/ep-443\n- https://support.apple.com/en-us/102743\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-18)\n- Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally\n- The Talk Show: ‘The Pogue Feature’\n- Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/03/18/ep-443\n- https://support.apple.com/en-us/102743\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally；The Talk Show: ‘The Pogue Feature’；Apple键盘布局因地区而异，新美版已改用符号标签。开发者需识别布局差异，避免跨地区开发时的输入错误。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally; The Talk Show: ‘The Pogue Feature’; Apple keyboard layouts vary by region; the new US version uses symbol labels. Developers must identify layout differences to avoid input errors in cross-region development.\nI"
         }
       }
     }

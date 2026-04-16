@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-15 22:43:26 UTC
+Generated at: 2026-04-16 06:30:52 UTC
 
-- [Our options in remote server installation and management](https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions) (`utcc.utoronto.ca/~cks`)
+- [datasette.io news preview](https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything) (`simonwillison.net`)
+- [So Close to Getting It](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer) (`daringfireball.net`)
+- [I truly hate mostpeopleslop](https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/) (`joanwestenberg.com`)
