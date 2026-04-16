@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-16 11:20:48 UTC
+Generated at: 2026-04-16 11:46:33 UTC
 
-- [Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)](https://pluralistic.net/2026/04/16/pascals-wager/) (`pluralistic.net`)
-- [Apple II announced April 16, 1977](https://dfarq.homeip.net/apple-ii-announced-april-16-1977/?utm_source=rss&utm_medium=rss&utm_campaign=apple-ii-announced-april-16-1977) (`dfarq.homeip.net`)
-- [AI cybersecurity is not proof of work](http://antirez.com/news/163) (`antirez.com`)
+- [RSS Club for WordPress](https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/) (`shkspr.mobi`)
+- [SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships) (`miguelgrinberg.com`)
