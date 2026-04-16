@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-16 18:49:43 UTC
+Generated at: 2026-04-16 19:27:31 UTC
 
-- [Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/) (`daringfireball.net`)
+- [Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’](https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/) (`daringfireball.net`)
