@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T18:23:33Z",
+  "generated_at": "2026-04-16T18:49:57Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-04-16",
-      "total": 14,
+      "total": 15,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "simonwillison.net (2)",
         "antirez.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -58,37 +58,42 @@
         "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
         "simonwillison.net · Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "daringfireball.net · Bonus Thought Regarding the Name ‘iPhone Ultra’",
         "daringfireball.net · Rory Goss’s Accessibility Story",
         "devblogs.microsoft.com/oldnewthing · What’s up with window message 0x0091? We’re getting it with unexpected parameters",
-        "johndcook.com · Newton diameters",
-        "shkspr.mobi · RSS Club for WordPress"
+        "johndcook.com · Newton diameters"
       ],
       "key_points": [
-        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
-        "Rory Goss’s Accessibility Story",
-        "What’s up with window message 0x0091? We’re getting it with unexpected parameters"
-      ],
-      "key_points_zh": [
-        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
-        "Rory Goss’s Accessibility Story",
-        "What’s up with window message 0x0091? We’re getting it with unexpected parameters"
-      ],
-      "key_points_en": [
-        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
-        "Rory Goss’s Accessibility Story",
-        "What’s up with window message 0x0091? We’re getting it with unexpected parameters"
-      ],
-      "tweet_drafts": [
+        "Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
         "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "Bonus Thought Regarding the Name ‘iPhone Ultra’",
         "Rory Goss’s Accessibility Story"
       ],
+      "key_points_zh": [
+        "Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
+        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
+        "Rory Goss’s Accessibility Story"
+      ],
+      "key_points_en": [
+        "Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
+        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
+        "Rory Goss’s Accessibility Story"
+      ],
+      "tweet_drafts": [
+        "Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
+        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "Bonus Thought Regarding the Name ‘iPhone Ultra’"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
+          "link": "https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Bonus Thought Regarding the Name ‘iPhone Ultra’",
           "link": "https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Rory Goss’s Accessibility Story",
-          "link": "https://www.apple.com/education/college-students/success-stories/goss/"
         }
       ],
-      "summary_zh": "2026-04-16 技术日报：Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story。",
-      "summary_en": "Daily brief (2026-04-16): Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story.",
+      "summary_zh": "2026-04-16 技术日报：Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers；Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’。",
+      "summary_en": "Daily brief (2026-04-16): Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers; Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-16 日报】Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-16): Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+          "zh": "【2026-04-16 日报】Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers；Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’。我把可执行建议整理好了，欢迎转发讨论。#技",
+          "en": "AK-RSS Daily (2026-04-16): Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers; Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’. Action"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-16）\n- Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n- Rory Goss’s Accessibility Story\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n- https://www.apple.com/education/college-students/success-stories/goss/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-16)\n- Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n- Rory Goss’s Accessibility Story\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n- https://www.apple.com/education/college-students/success-stories/goss/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-16）\n- Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers\n- Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/\n- https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-16)\n- Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers\n- Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/\n- https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers；Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers; Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’.\nI turned them into an action-ready daily brief you"
         }
       }
     },
