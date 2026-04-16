@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T16:56:15Z",
+  "generated_at": "2026-04-16T17:27:52Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-04-16",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "daringfireball.net (3)",
+        "simonwillison.net (2)",
         "antirez.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "daringfireball.net · Bonus Thought Regarding the Name ‘iPhone Ultra’",
         "daringfireball.net · Rory Goss’s Accessibility Story",
         "devblogs.microsoft.com/oldnewthing · What’s up with window message 0x0091? We’re getting it with unexpected parameters",
         "johndcook.com · Newton diameters",
-        "shkspr.mobi · RSS Club for WordPress",
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships"
+        "shkspr.mobi · RSS Club for WordPress"
       ],
       "key_points": [
-        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
-        "Rory Goss’s Accessibility Story",
-        "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
-        "Newton diameters"
-      ],
-      "key_points_zh": [
-        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
-        "Rory Goss’s Accessibility Story",
-        "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
-        "Newton diameters"
-      ],
-      "key_points_en": [
-        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
-        "Rory Goss’s Accessibility Story",
-        "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
-        "Newton diameters"
-      ],
-      "tweet_drafts": [
+        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "Bonus Thought Regarding the Name ‘iPhone Ultra’",
         "Rory Goss’s Accessibility Story",
         "What’s up with window message 0x0091? We’re getting it with unexpected parameters"
       ],
+      "key_points_zh": [
+        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
+        "Rory Goss’s Accessibility Story",
+        "What’s up with window message 0x0091? We’re getting it with unexpected parameters"
+      ],
+      "key_points_en": [
+        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
+        "Rory Goss’s Accessibility Story",
+        "What’s up with window message 0x0091? We’re getting it with unexpected parameters"
+      ],
+      "tweet_drafts": [
+        "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "Bonus Thought Regarding the Name ‘iPhone Ultra’",
+        "Rory Goss’s Accessibility Story"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+          "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Bonus Thought Regarding the Name ‘iPhone Ultra’",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Rory Goss’s Accessibility Story",
           "link": "https://www.apple.com/education/college-students/success-stories/goss/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240"
         }
       ],
-      "summary_zh": "2026-04-16 技术日报：Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story；What’s up with window message 0x0091? We’re getting it with unexpected parameters。",
-      "summary_en": "Daily brief (2026-04-16): Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story; What’s up with window message 0x0091? We’re getting it with unexpected parameters.",
+      "summary_zh": "2026-04-16 技术日报：Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story。",
+      "summary_en": "Daily brief (2026-04-16): Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-16 日报】Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story；What’s up with window message 0x0091? We’re getting it with unexpected parameters。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-16): Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story; What’s up with window message 0x0091? We’re getting it with unexpected parameters. Actionable takeaways included. What would you ship next? #AI #Engine"
+          "zh": "【2026-04-16 日报】Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-16): Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story. Actionable takeaways included. What would you ship next? #AI #Engineering #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-16）\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n- Rory Goss’s Accessibility Story\n- What’s up with window message 0x0091? We’re getting it with unexpected parameters\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n- https://www.apple.com/education/college-students/success-stories/goss/\n- https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-16)\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n- Rory Goss’s Accessibility Story\n- What’s up with window message 0x0091? We’re getting it with unexpected parameters\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n- https://www.apple.com/education/college-students/success-stories/goss/\n- https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-16）\n- Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n- Rory Goss’s Accessibility Story\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n- https://www.apple.com/education/college-students/success-stories/goss/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-16)\n- Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7\n- Bonus Thought Regarding the Name ‘iPhone Ultra’\n- Rory Goss’s Accessibility Story\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything\n- https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone\n- https://www.apple.com/education/college-students/success-stories/goss/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story；What’s up with window message 0x0091? We’re getting it with unexpected parameters。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story; What’s up with window message 0x0091? We’re getting it with unexpected parameters.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7；Bonus Thought Regarding the Name ‘iPhone Ultra’；Rory Goss’s Accessibility Story。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7; Bonus Thought Regarding the Name ‘iPhone Ultra’; Rory Goss’s Accessibility Story.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
