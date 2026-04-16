@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T14:13:52Z",
+  "generated_at": "2026-04-16T15:06:41Z",
   "days": [
     {
       "date": "2026-04-17",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-04-16",
-      "total": 10,
+      "total": 12,
       "feeds": [
+        "daringfireball.net (2)",
         "antirez.com (1)",
-        "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
-        "johndcook.com (1)",
-        "miguelgrinberg.com (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Rory Goss’s Accessibility Story",
+        "devblogs.microsoft.com/oldnewthing · What’s up with window message 0x0091? We’re getting it with unexpected parameters",
         "johndcook.com · Newton diameters",
         "shkspr.mobi · RSS Club for WordPress",
         "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
-        "pluralistic.net · Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)",
-        "dfarq.homeip.net · Apple II announced April 16, 1977",
-        "antirez.com · AI cybersecurity is not proof of work"
+        "pluralistic.net · Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)"
       ],
       "key_points": [
+        "Rory Goss’s Accessibility Story",
+        "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
         "Newton diameters",
-        "RSS Club for WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
-        "Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)"
+        "RSS Club for WordPress"
       ],
       "key_points_zh": [
+        "Rory Goss’s Accessibility Story",
+        "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
         "Newton diameters",
-        "RSS Club for WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
-        "Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)"
+        "RSS Club for WordPress"
       ],
       "key_points_en": [
+        "Rory Goss’s Accessibility Story",
+        "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
         "Newton diameters",
-        "RSS Club for WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
-        "Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)"
+        "RSS Club for WordPress"
       ],
       "tweet_drafts": [
-        "Newton diameters",
-        "RSS Club for WordPress",
-        "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships"
+        "Rory Goss’s Accessibility Story",
+        "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
+        "Newton diameters"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Rory Goss’s Accessibility Story",
+          "link": "https://www.apple.com/education/college-students/success-stories/goss/"
+        },
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Newton diameters",
           "link": "https://www.johndcook.com/blog/2026/04/16/newton-diameters/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "RSS Club for WordPress",
-          "link": "https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/"
-        },
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
-          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships"
         }
       ],
-      "summary_zh": "2026-04-16 技术日报：Newton diameters；RSS Club for WordPress；SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships。",
-      "summary_en": "Daily brief (2026-04-16): Newton diameters; RSS Club for WordPress; SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships.",
+      "summary_zh": "2026-04-16 技术日报：Rory Goss’s Accessibility Story；What’s up with window message 0x0091? We’re getting it with unexpected parameters；Newton diameters。",
+      "summary_en": "Daily brief (2026-04-16): Rory Goss’s Accessibility Story; What’s up with window message 0x0091? We’re getting it with unexpected parameters; Newton diameters.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-16 日报】Newton diameters；RSS Club for WordPress；SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-16): Newton diameters; RSS Club for WordPress; SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-16 日报】Rory Goss’s Accessibility Story；What’s up with window message 0x0091? We’re getting it with unexpected parameters；Newton diameters。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-16): Rory Goss’s Accessibility Story; What’s up with window message 0x0091? We’re getting it with unexpected parameters; Newton diameters. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-16）\n- Newton diameters\n- RSS Club for WordPress\n- SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/16/newton-diameters/\n- https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-16)\n- Newton diameters\n- RSS Club for WordPress\n- SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/16/newton-diameters/\n- https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-16）\n- Rory Goss’s Accessibility Story\n- What’s up with window message 0x0091? We’re getting it with unexpected parameters\n- Newton diameters\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/education/college-students/success-stories/goss/\n- https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240\n- https://www.johndcook.com/blog/2026/04/16/newton-diameters/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-16)\n- Rory Goss’s Accessibility Story\n- What’s up with window message 0x0091? We’re getting it with unexpected parameters\n- Newton diameters\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/education/college-students/success-stories/goss/\n- https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240\n- https://www.johndcook.com/blog/2026/04/16/newton-diameters/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Newton diameters；RSS Club for WordPress；SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Newton diameters; RSS Club for WordPress; SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Rory Goss’s Accessibility Story；What’s up with window message 0x0091? We’re getting it with unexpected parameters；Newton diameters。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Rory Goss’s Accessibility Story; What’s up with window message 0x0091? We’re getting it with unexpected parameters; Newton diameters.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
