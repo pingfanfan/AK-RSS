@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-17 10:45:39 UTC
+Generated at: 2026-04-17 11:16:27 UTC
 
-- [Pluralistic: Tiktokification shall set us free (17 Apr 2026)](https://pluralistic.net/2026/04/17/for-youze/) (`pluralistic.net`)
+- [The last MP3 patent](https://dfarq.homeip.net/mp3-is-dead-long-live-mp3-oh-wait-its-just-the-patent/?utm_source=rss&utm_medium=rss&utm_campaign=mp3-is-dead-long-live-mp3-oh-wait-its-just-the-patent) (`dfarq.homeip.net`)
