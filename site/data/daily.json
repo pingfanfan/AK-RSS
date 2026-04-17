@@ -1,18 +1,20 @@
 {
-  "generated_at": "2026-04-17T10:23:26Z",
+  "generated_at": "2026-04-17T10:45:54Z",
   "days": [
     {
       "date": "2026-04-17",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
+        "pluralistic.net (1)",
         "simonwillison.net (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
         "blog.jim-nielsen.com · You Might Debate It — If You Could See It",
+        "pluralistic.net · Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
         "simonwillison.net · datasette 1.0a28",
         "utcc.utoronto.ca/~cks · Does your DSL little language really need operator precedence?",
         "daringfireball.net · App Store Reviews Are Busted",
@@ -20,26 +22,26 @@
       ],
       "key_points": [
         "You Might Debate It — If You Could See It",
+        "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
         "datasette 1.0a28",
-        "Does your DSL little language really need operator precedence?",
-        "App Store Reviews Are Busted"
+        "Does your DSL little language really need operator precedence?"
       ],
       "key_points_zh": [
         "You Might Debate It — If You Could See It",
+        "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
         "datasette 1.0a28",
-        "Does your DSL little language really need operator precedence?",
-        "App Store Reviews Are Busted"
+        "Does your DSL little language really need operator precedence?"
       ],
       "key_points_en": [
         "You Might Debate It — If You Could See It",
+        "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
         "datasette 1.0a28",
-        "Does your DSL little language really need operator precedence?",
-        "App Store Reviews Are Busted"
+        "Does your DSL little language really need operator precedence?"
       ],
       "tweet_drafts": [
         "You Might Debate It — If You Could See It",
-        "datasette 1.0a28",
-        "Does your DSL little language really need operator precedence?"
+        "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
+        "datasette 1.0a28"
       ],
       "sources": [
         {
@@ -48,30 +50,30 @@
           "link": "https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/"
         },
         {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Tiktokification shall set us free (17 Apr 2026)",
+          "link": "https://pluralistic.net/2026/04/17/for-youze/"
+        },
+        {
           "feed_title": "simonwillison.net",
           "title": "datasette 1.0a28",
           "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Does your DSL little language really need operator precedence?",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence"
         }
       ],
-      "summary_zh": "2026-04-17 技术日报：You Might Debate It — If You Could See It；datasette 1.0a28；Does your DSL little language really need operator precedence?。",
-      "summary_en": "Daily brief (2026-04-17): You Might Debate It — If You Could See It; datasette 1.0a28; Does your DSL little language really need operator precedence?.",
+      "summary_zh": "2026-04-17 技术日报：You Might Debate It — If You Could See It；Pluralistic: Tiktokification shall set us free (17 Apr 2026)；datasette 1.0a28。",
+      "summary_en": "Daily brief (2026-04-17): You Might Debate It — If You Could See It; Pluralistic: Tiktokification shall set us free (17 Apr 2026); datasette 1.0a28.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-17 日报】You Might Debate It — If You Could See It；datasette 1.0a28；Does your DSL little language really need operator precedence?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-17): You Might Debate It — If You Could See It; datasette 1.0a28; Does your DSL little language really need operator precedence?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-17 日报】You Might Debate It — If You Could See It；Pluralistic: Tiktokification shall set us free (17 Apr 2026)；datasette 1.0a28。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-17): You Might Debate It — If You Could See It; Pluralistic: Tiktokification shall set us free (17 Apr 2026); datasette 1.0a28. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-17）\n- You Might Debate It — If You Could See It\n- datasette 1.0a28\n- Does your DSL little language really need operator precedence?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/\n- https://simonwillison.net/2026/Apr/17/datasette/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-17)\n- You Might Debate It — If You Could See It\n- datasette 1.0a28\n- Does your DSL little language really need operator precedence?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/\n- https://simonwillison.net/2026/Apr/17/datasette/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-17）\n- You Might Debate It — If You Could See It\n- Pluralistic: Tiktokification shall set us free (17 Apr 2026)\n- datasette 1.0a28\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/\n- https://pluralistic.net/2026/04/17/for-youze/\n- https://simonwillison.net/2026/Apr/17/datasette/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-17)\n- You Might Debate It — If You Could See It\n- Pluralistic: Tiktokification shall set us free (17 Apr 2026)\n- datasette 1.0a28\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/\n- https://pluralistic.net/2026/04/17/for-youze/\n- https://simonwillison.net/2026/Apr/17/datasette/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It；datasette 1.0a28；Does your DSL little language really need operator precedence?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: You Might Debate It — If You Could See It; datasette 1.0a28; Does your DSL little language really need operator precedence?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：You Might Debate It — If You Could See It；Pluralistic: Tiktokification shall set us free (17 Apr 2026)；datasette 1.0a28。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: You Might Debate It — If You Could See It; Pluralistic: Tiktokification shall set us free (17 Apr 2026); datasette 1.0a28.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
