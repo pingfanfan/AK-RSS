@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-18T14:43:27Z",
+  "generated_at": "2026-04-18T15:11:23Z",
   "days": [
     {
       "date": "2026-04-18",
-      "total": 8,
+      "total": 9,
       "feeds": [
+        "johndcook.com (2)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
         "pluralistic.net (1)",
         "seangoedecke.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Gaussian distributed weights for LLMs",
         "pluralistic.net · Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
         "construction-physics.com · Reading List 04/18/2026",
         "utcc.utoronto.ca/~cks · Hiding the option to leave comments from some visitors to here",
         "simonwillison.net · Adding a new content type to my blog-to-newsletter tool",
-        "idiallo.com · We Are All Playing Politics at Work",
-        "johndcook.com · 4-bit floating point FP4"
+        "idiallo.com · We Are All Playing Politics at Work"
       ],
       "key_points": [
-        "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
-        "Reading List 04/18/2026",
-        "Hiding the option to leave comments from some visitors to here",
-        "Adding a new content type to my blog-to-newsletter tool"
-      ],
-      "key_points_zh": [
-        "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
-        "Reading List 04/18/2026",
-        "Hiding the option to leave comments from some visitors to here",
-        "Adding a new content type to my blog-to-newsletter tool"
-      ],
-      "key_points_en": [
-        "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
-        "Reading List 04/18/2026",
-        "Hiding the option to leave comments from some visitors to here",
-        "Adding a new content type to my blog-to-newsletter tool"
-      ],
-      "tweet_drafts": [
+        "Gaussian distributed weights for LLMs",
         "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
         "Reading List 04/18/2026",
         "Hiding the option to leave comments from some visitors to here"
       ],
+      "key_points_zh": [
+        "Gaussian distributed weights for LLMs",
+        "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
+        "Reading List 04/18/2026",
+        "Hiding the option to leave comments from some visitors to here"
+      ],
+      "key_points_en": [
+        "Gaussian distributed weights for LLMs",
+        "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
+        "Reading List 04/18/2026",
+        "Hiding the option to leave comments from some visitors to here"
+      ],
+      "tweet_drafts": [
+        "Gaussian distributed weights for LLMs",
+        "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
+        "Reading List 04/18/2026"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Gaussian distributed weights for LLMs",
+          "link": "https://www.johndcook.com/blog/2026/04/18/qlora/"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
@@ -53,27 +58,22 @@
           "feed_title": "construction-physics.com",
           "title": "Reading List 04/18/2026",
           "link": "https://www.construction-physics.com/p/reading-list-04182026"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Hiding the option to leave comments from some visitors to here",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink"
         }
       ],
-      "summary_zh": "2026-04-18 技术日报：Pluralistic: Georgia's voting technology blunder (18 Apr 2026)；Reading List 04/18/2026；Hiding the option to leave comments from some visitors to here。",
-      "summary_en": "Daily brief (2026-04-18): Pluralistic: Georgia's voting technology blunder (18 Apr 2026); Reading List 04/18/2026; Hiding the option to leave comments from some visitors to here.",
+      "summary_zh": "2026-04-18 技术日报：Gaussian distributed weights for LLMs；Pluralistic: Georgia's voting technology blunder (18 Apr 2026)；Reading List 04/18/2026。",
+      "summary_en": "Daily brief (2026-04-18): Gaussian distributed weights for LLMs; Pluralistic: Georgia's voting technology blunder (18 Apr 2026); Reading List 04/18/2026.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-18 日报】Pluralistic: Georgia's voting technology blunder (18 Apr 2026)；Reading List 04/18/2026；Hiding the option to leave comments from some visitors to here。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-18): Pluralistic: Georgia's voting technology blunder (18 Apr 2026); Reading List 04/18/2026; Hiding the option to leave comments from some visitors to here. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
+          "zh": "【2026-04-18 日报】Gaussian distributed weights for LLMs；Pluralistic: Georgia's voting technology blunder (18 Apr 2026)；Reading List 04/18/2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-18): Gaussian distributed weights for LLMs; Pluralistic: Georgia's voting technology blunder (18 Apr 2026); Reading List 04/18/2026. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-18）\n- Pluralistic: Georgia's voting technology blunder (18 Apr 2026)\n- Reading List 04/18/2026\n- Hiding the option to leave comments from some visitors to here\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/04/18/dominion-sucks-actually/\n- https://www.construction-physics.com/p/reading-list-04182026\n- https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-18)\n- Pluralistic: Georgia's voting technology blunder (18 Apr 2026)\n- Reading List 04/18/2026\n- Hiding the option to leave comments from some visitors to here\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/04/18/dominion-sucks-actually/\n- https://www.construction-physics.com/p/reading-list-04182026\n- https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-18）\n- Gaussian distributed weights for LLMs\n- Pluralistic: Georgia's voting technology blunder (18 Apr 2026)\n- Reading List 04/18/2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/18/qlora/\n- https://pluralistic.net/2026/04/18/dominion-sucks-actually/\n- https://www.construction-physics.com/p/reading-list-04182026\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-18)\n- Gaussian distributed weights for LLMs\n- Pluralistic: Georgia's voting technology blunder (18 Apr 2026)\n- Reading List 04/18/2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/18/qlora/\n- https://pluralistic.net/2026/04/18/dominion-sucks-actually/\n- https://www.construction-physics.com/p/reading-list-04182026\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Georgia's voting technology blunder (18 Apr 2026)；Reading List 04/18/2026；Hiding the option to leave comments from some visitors to here。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Georgia's voting technology blunder (18 Apr 2026); Reading List 04/18/2026; Hiding the option to leave comments from some visitors to here.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Gaussian distributed weights for LLMs；Pluralistic: Georgia's voting technology blunder (18 Apr 2026)；Reading List 04/18/2026。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Gaussian distributed weights for LLMs; Pluralistic: Georgia's voting technology blunder (18 Apr 2026); Reading List 04/18/2026.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
