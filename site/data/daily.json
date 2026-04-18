@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-18T21:07:38Z",
+  "generated_at": "2026-04-18T21:42:45Z",
   "days": [
     {
       "date": "2026-04-18",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "daringfireball.net (3)",
         "johndcook.com (2)",
+        "utcc.utoronto.ca/~cks (2)",
         "construction-physics.com (1)",
         "idiallo.com (1)",
-        "pluralistic.net (1)",
-        "righto.com (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · Tiny Go and Rust programs appear to start equally fast (on some machines)",
         "tedium.co · A Taxing Discussion",
         "daringfireball.net · ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
         "daringfireball.net · Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ",
         "righto.com · The electromechanical angle computer inside the B-52 bomber's star tracker",
-        "johndcook.com · Gaussian distributed weights for LLMs",
-        "pluralistic.net · Pluralistic: Georgia's voting technology blunder (18 Apr 2026)"
+        "johndcook.com · Gaussian distributed weights for LLMs"
       ],
       "key_points": [
-        "A Taxing Discussion",
-        "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
-        "Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ",
-        "The electromechanical angle computer inside the B-52 bomber's star tracker"
-      ],
-      "key_points_zh": [
-        "A Taxing Discussion",
-        "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
-        "Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ",
-        "The electromechanical angle computer inside the B-52 bomber's star tracker"
-      ],
-      "key_points_en": [
-        "A Taxing Discussion",
-        "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
-        "Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ",
-        "The electromechanical angle computer inside the B-52 bomber's star tracker"
-      ],
-      "tweet_drafts": [
+        "Tiny Go and Rust programs appear to start equally fast (on some machines)",
         "A Taxing Discussion",
         "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
         "Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ"
       ],
+      "key_points_zh": [
+        "Tiny Go and Rust programs appear to start equally fast (on some machines)",
+        "A Taxing Discussion",
+        "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
+        "Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ"
+      ],
+      "key_points_en": [
+        "Tiny Go and Rust programs appear to start equally fast (on some machines)",
+        "A Taxing Discussion",
+        "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
+        "Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ"
+      ],
+      "tweet_drafts": [
+        "Tiny Go and Rust programs appear to start equally fast (on some machines)",
+        "A Taxing Discussion",
+        "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’"
+      ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Tiny Go and Rust programs appear to start equally fast (on some machines)",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays"
+        },
         {
           "feed_title": "tedium.co",
           "title": "A Taxing Discussion",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’",
           "link": "https://daringfireball.net/2026/04/kubrick_new_york_subway"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ",
-          "link": "https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q"
         }
       ],
-      "summary_zh": "2026-04-18 技术日报：A Taxing Discussion；★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’；Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ。",
-      "summary_en": "Daily brief (2026-04-18): A Taxing Discussion; ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’; Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ.",
+      "summary_zh": "2026-04-18 技术日报：Tiny Go and Rust programs appear to start equally fast (on some machines)；A Taxing Discussion；★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’。",
+      "summary_en": "Daily brief (2026-04-18): Tiny Go and Rust programs appear to start equally fast (on some machines); A Taxing Discussion; ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-18 日报】A Taxing Discussion；★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’；Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-18): A Taxing Discussion; ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’; Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ. Actionable takeaways included. What would you ship next? #AI #Engi"
+          "zh": "【2026-04-18 日报】Tiny Go and Rust programs appear to start equally fast (on some machines)；A Taxing Discussion；★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-18): Tiny Go and Rust programs appear to start equally fast (on some machines); A Taxing Discussion; ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’. Actionable takeaways included. What would you ship next? #AI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-18）\n- A Taxing Discussion\n- ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’\n- Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs\n- https://daringfireball.net/2026/04/kubrick_new_york_subway\n- https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-18)\n- A Taxing Discussion\n- ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’\n- Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs\n- https://daringfireball.net/2026/04/kubrick_new_york_subway\n- https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-18）\n- Tiny Go and Rust programs appear to start equally fast (on some machines)\n- A Taxing Discussion\n- ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays\n- https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs\n- https://daringfireball.net/2026/04/kubrick_new_york_subway\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-18)\n- Tiny Go and Rust programs appear to start equally fast (on some machines)\n- A Taxing Discussion\n- ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays\n- https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs\n- https://daringfireball.net/2026/04/kubrick_new_york_subway\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A Taxing Discussion；★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’；Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A Taxing Discussion; ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’; Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Tiny Go and Rust programs appear to start equally fast (on some machines)；A Taxing Discussion；★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tiny Go and Rust programs appear to start equally fast (on some machines); A Taxing Discussion; ★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
