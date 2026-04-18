@@ -1,42 +1,118 @@
 {
-  "generated_at": "2026-04-17T22:43:26Z",
+  "generated_at": "2026-04-18T06:20:39Z",
   "days": [
     {
+      "date": "2026-04-18",
+      "total": 6,
+      "feeds": [
+        "daringfireball.net (1)",
+        "idiallo.com (1)",
+        "johndcook.com (1)",
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Hiding the option to leave comments from some visitors to here",
+        "simonwillison.net · Adding a new content type to my blog-to-newsletter tool",
+        "idiallo.com · We Are All Playing Politics at Work",
+        "johndcook.com · 4-bit floating point FP4",
+        "daringfireball.net · Apple’s Developer Guidelines for Ratings and Review Prompts",
+        "seangoedecke.com · Many anti-AI arguments are conservative arguments"
+      ],
+      "key_points": [
+        "Hiding the option to leave comments from some visitors to here",
+        "Adding a new content type to my blog-to-newsletter tool",
+        "We Are All Playing Politics at Work",
+        "4-bit floating point FP4"
+      ],
+      "key_points_zh": [
+        "Hiding the option to leave comments from some visitors to here",
+        "Adding a new content type to my blog-to-newsletter tool",
+        "We Are All Playing Politics at Work",
+        "4-bit floating point FP4"
+      ],
+      "key_points_en": [
+        "Hiding the option to leave comments from some visitors to here",
+        "Adding a new content type to my blog-to-newsletter tool",
+        "We Are All Playing Politics at Work",
+        "4-bit floating point FP4"
+      ],
+      "tweet_drafts": [
+        "Hiding the option to leave comments from some visitors to here",
+        "Adding a new content type to my blog-to-newsletter tool",
+        "We Are All Playing Politics at Work"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Hiding the option to leave comments from some visitors to here",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Adding a new content type to my blog-to-newsletter tool",
+          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything"
+        },
+        {
+          "feed_title": "idiallo.com",
+          "title": "We Are All Playing Politics at Work",
+          "link": "https://idiallo.com/blog/we-are-playing-politics?src=feed"
+        }
+      ],
+      "summary_zh": "2026-04-18 技术日报：Hiding the option to leave comments from some visitors to here；Adding a new content type to my blog-to-newsletter tool；We Are All Playing Politics at Work。",
+      "summary_en": "Daily brief (2026-04-18): Hiding the option to leave comments from some visitors to here; Adding a new content type to my blog-to-newsletter tool; We Are All Playing Politics at Work.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-18 日报】Hiding the option to leave comments from some visitors to here；Adding a new content type to my blog-to-newsletter tool；We Are All Playing Politics at Work。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-18): Hiding the option to leave comments from some visitors to here; Adding a new content type to my blog-to-newsletter tool; We Are All Playing Politics at Work. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-18）\n- Hiding the option to leave comments from some visitors to here\n- Adding a new content type to my blog-to-newsletter tool\n- We Are All Playing Politics at Work\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink\n- https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything\n- https://idiallo.com/blog/we-are-playing-politics?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-18)\n- Hiding the option to leave comments from some visitors to here\n- Adding a new content type to my blog-to-newsletter tool\n- We Are All Playing Politics at Work\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink\n- https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything\n- https://idiallo.com/blog/we-are-playing-politics?src=feed\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Hiding the option to leave comments from some visitors to here；Adding a new content type to my blog-to-newsletter tool；We Are All Playing Politics at Work。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Hiding the option to leave comments from some visitors to here; Adding a new content type to my blog-to-newsletter tool; We Are All Playing Politics at Work.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-04-17",
-      "total": 10,
+      "total": 13,
       "feeds": [
         "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "filfre.net (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "geohot.github.io (1)"
       ],
       "highlights": [
         "blog.jim-nielsen.com · You Might Debate It — If You Could See It",
         "wheresyoured.at · Premium: The Hater's Guide to Private Credit",
         "filfre.net · The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction",
-        "shkspr.mobi · Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆",
-        "dfarq.homeip.net · The last MP3 patent",
-        "pluralistic.net · Pluralistic: Tiktokification shall set us free (17 Apr 2026)"
+        "geohot.github.io · America lost the Mandate of Heaven",
+        "devblogs.microsoft.com/oldnewthing · Forgotten message from the past: LB_INIT­STORAGE",
+        "shkspr.mobi · Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆"
       ],
       "key_points": [
         "You Might Debate It — If You Could See It",
         "Premium: The Hater's Guide to Private Credit",
         "The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction",
-        "Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆"
+        "America lost the Mandate of Heaven"
       ],
       "key_points_zh": [
         "You Might Debate It — If You Could See It",
         "Premium: The Hater's Guide to Private Credit",
         "The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction",
-        "Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆"
+        "America lost the Mandate of Heaven"
       ],
       "key_points_en": [
         "You Might Debate It — If You Could See It",
         "Premium: The Hater's Guide to Private Credit",
         "The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction",
-        "Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆"
+        "America lost the Mandate of Heaven"
       ],
       "tweet_drafts": [
         "You Might Debate It — If You Could See It",
@@ -2200,82 +2276,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Turbo Pascal 3.02A, deconstructed；Google Search Is Now Using AI to Rewrite Headlines；Quoting Kimi.ai @Kimi_Moonshot。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Turbo Pascal 3.02A, deconstructed; Google Search Is Now Using AI to Rewrite Headlines; Quoting Kimi.ai @Kimi_Moonshot.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-03-19",
-      "total": 19,
-      "feeds": [
-        "daringfireball.net (6)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "herman.bearblog.dev (1)",
-        "johndcook.com (1)"
-      ],
-      "highlights": [
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
-        "daringfireball.net · StopTheMadness Pro and StopTheScript Extensions for Safari",
-        "daringfireball.net · Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-        "daringfireball.net · ‘Everyone but Trump Understands What He’s Done’",
-        "daringfireball.net · The Day Mark Simonson Discovered Type Design",
-        "daringfireball.net · Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’"
-      ],
-      "key_points": [
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
-        "StopTheMadness Pro and StopTheScript Extensions for Safari",
-        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-        "‘Everyone but Trump Understands What He’s Done’"
-      ],
-      "key_points_zh": [
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
-        "StopTheMadness Pro and StopTheScript Extensions for Safari",
-        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-        "‘Everyone but Trump Understands What He’s Done’"
-      ],
-      "key_points_en": [
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
-        "StopTheMadness Pro and StopTheScript Extensions for Safari",
-        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-        "‘Everyone but Trump Understands What He’s Done’"
-      ],
-      "tweet_drafts": [
-        "SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
-        "StopTheMadness Pro and StopTheScript Extensions for Safari",
-        "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’"
-      ],
-      "sources": [
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "SQLAlchemy 2 In Practice - Chapter 1 - Database Setup",
-          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "StopTheMadness Pro and StopTheScript Extensions for Safari",
-          "link": "https://mastodon.social/@lapcatsoftware/116252960395480568"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’",
-          "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot"
-        }
-      ],
-      "summary_zh": "2026-03-19 技术日报：SQLAlchemy 2 In Practice - Chapter 1 - Database Setup；StopTheMadness Pro and StopTheScript Extensions for Safari；Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’。",
-      "summary_en": "Daily brief (2026-03-19): SQLAlchemy 2 In Practice - Chapter 1 - Database Setup; StopTheMadness Pro and StopTheScript Extensions for Safari; Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-19 日报】SQLAlchemy 2 In Practice - Chapter 1 - Database Setup；StopTheMadness Pro and StopTheScript Extensions for Safari；Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’。我把可执行建议整理好了，欢迎转发讨论。#技术",
-          "en": "AK-RSS Daily (2026-03-19): SQLAlchemy 2 In Practice - Chapter 1 - Database Setup; StopTheMadness Pro and StopTheScript Extensions for Safari; Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’. Actiona"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-19）\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Setup\n- StopTheMadness Pro and StopTheScript Extensions for Safari\n- Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup\n- https://mastodon.social/@lapcatsoftware/116252960395480568\n- https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-19)\n- SQLAlchemy 2 In Practice - Chapter 1 - Database Setup\n- StopTheMadness Pro and StopTheScript Extensions for Safari\n- Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup\n- https://mastodon.social/@lapcatsoftware/116252960395480568\n- https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：SQLAlchemy 2 In Practice - Chapter 1 - Database Setup；StopTheMadness Pro and StopTheScript Extensions for Safari；Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: SQLAlchemy 2 In Practice - Chapter 1 - Database Setup; StopTheMadness Pro and StopTheScript Extensions for Safari; Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’.\nI turned them into an action-ready daily brief you c"
         }
       }
     }
