@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-19 20:43:16 UTC
+Generated at: 2026-04-19 21:07:51 UTC
 
-- [Hitachi Ltd, Part II](https://www.abortretry.fail/p/hitachi-ltd-part-ii) (`abortretry.fail`)
+- [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
