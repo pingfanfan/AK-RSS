@@ -1,16 +1,72 @@
 {
-  "generated_at": "2026-04-18T22:42:50Z",
+  "generated_at": "2026-04-19T06:29:11Z",
   "days": [
     {
+      "date": "2026-04-19",
+      "total": 2,
+      "feeds": [
+        "simonwillison.net (1)",
+        "susam.net (1)"
+      ],
+      "highlights": [
+        "susam.net · Wander Console 0.5.0",
+        "simonwillison.net · Changes in the system prompt between Claude Opus 4.6 and 4.7"
+      ],
+      "key_points": [
+        "Wander Console 0.5.0",
+        "Changes in the system prompt between Claude Opus 4.6 and 4.7"
+      ],
+      "key_points_zh": [
+        "Wander Console 0.5.0",
+        "Changes in the system prompt between Claude Opus 4.6 and 4.7"
+      ],
+      "key_points_en": [
+        "Wander Console 0.5.0",
+        "Changes in the system prompt between Claude Opus 4.6 and 4.7"
+      ],
+      "tweet_drafts": [
+        "Wander Console 0.5.0",
+        "Changes in the system prompt between Claude Opus 4.6 and 4.7"
+      ],
+      "sources": [
+        {
+          "feed_title": "susam.net",
+          "title": "Wander Console 0.5.0",
+          "link": "https://susam.net/code/news/wander/0.5.0.html"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+          "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-04-19 技术日报：Wander Console 0.5.0；Changes in the system prompt between Claude Opus 4.6 and 4.7。",
+      "summary_en": "Daily brief (2026-04-19): Wander Console 0.5.0; Changes in the system prompt between Claude Opus 4.6 and 4.7.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-19 日报】Wander Console 0.5.0；Changes in the system prompt between Claude Opus 4.6 and 4.7。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Wander Console 0.5.0; Changes in the system prompt between Claude Opus 4.6 and 4.7. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-19）\n- Wander Console 0.5.0\n- Changes in the system prompt between Claude Opus 4.6 and 4.7\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://susam.net/code/news/wander/0.5.0.html\n- https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Wander Console 0.5.0\n- Changes in the system prompt between Claude Opus 4.6 and 4.7\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://susam.net/code/news/wander/0.5.0.html\n- https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Wander Console 0.5.0；Changes in the system prompt between Claude Opus 4.6 and 4.7。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Wander Console 0.5.0; Changes in the system prompt between Claude Opus 4.6 and 4.7.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-04-18",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "daringfireball.net (3)",
         "johndcook.com (2)",
         "utcc.utoronto.ca/~cks (2)",
         "construction-physics.com (1)",
         "idiallo.com (1)",
-        "pluralistic.net (1)"
+        "maurycyz.com (1)"
       ],
       "highlights": [
         "utcc.utoronto.ca/~cks · Tiny Go and Rust programs appear to start equally fast (on some machines)",
@@ -2200,82 +2256,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Profiling Hacker News users based on their comments；Using Git with coding agents；A traditional path to getting lingering duplicate systems。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Profiling Hacker News users based on their comments; Using Git with coding agents; A traditional path to getting lingering duplicate systems.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-03-20",
-      "total": 22,
-      "feeds": [
-        "daringfireball.net (3)",
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Turbo Pascal 3.02A, deconstructed",
-        "daringfireball.net · Google Search Is Now Using AI to Rewrite Headlines",
-        "simonwillison.net · Quoting Kimi.ai @Kimi_Moonshot",
-        "blog.jim-nielsen.com · Re: People Are Not Friction",
-        "filfre.net · The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages",
-        "johndcook.com · Embedded regex flags"
-      ],
-      "key_points": [
-        "Turbo Pascal 3.02A, deconstructed",
-        "Google Search Is Now Using AI to Rewrite Headlines",
-        "Quoting Kimi.ai @Kimi_Moonshot",
-        "Re: People Are Not Friction"
-      ],
-      "key_points_zh": [
-        "Turbo Pascal 3.02A, deconstructed",
-        "Google Search Is Now Using AI to Rewrite Headlines",
-        "Quoting Kimi.ai @Kimi_Moonshot",
-        "Re: People Are Not Friction"
-      ],
-      "key_points_en": [
-        "Turbo Pascal 3.02A, deconstructed",
-        "Google Search Is Now Using AI to Rewrite Headlines",
-        "Quoting Kimi.ai @Kimi_Moonshot",
-        "Re: People Are Not Friction"
-      ],
-      "tweet_drafts": [
-        "Turbo Pascal 3.02A, deconstructed",
-        "Google Search Is Now Using AI to Rewrite Headlines",
-        "Quoting Kimi.ai @Kimi_Moonshot"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Turbo Pascal 3.02A, deconstructed",
-          "link": "https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Google Search Is Now Using AI to Rewrite Headlines",
-          "link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE\u0026utm_medium=gift-link"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Kimi.ai @Kimi_Moonshot",
-          "link": "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-03-20 技术日报：Turbo Pascal 3.02A, deconstructed；Google Search Is Now Using AI to Rewrite Headlines；Quoting Kimi.ai @Kimi_Moonshot。",
-      "summary_en": "Daily brief (2026-03-20): Turbo Pascal 3.02A, deconstructed; Google Search Is Now Using AI to Rewrite Headlines; Quoting Kimi.ai @Kimi_Moonshot.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-20 日报】Turbo Pascal 3.02A, deconstructed；Google Search Is Now Using AI to Rewrite Headlines；Quoting Kimi.ai @Kimi_Moonshot。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-20): Turbo Pascal 3.02A, deconstructed; Google Search Is Now Using AI to Rewrite Headlines; Quoting Kimi.ai @Kimi_Moonshot. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-20）\n- Turbo Pascal 3.02A, deconstructed\n- Google Search Is Now Using AI to Rewrite Headlines\n- Quoting Kimi.ai @Kimi_Moonshot\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything\n- https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE\u0026utm_medium=gift-link\n- https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-20)\n- Turbo Pascal 3.02A, deconstructed\n- Google Search Is Now Using AI to Rewrite Headlines\n- Quoting Kimi.ai @Kimi_Moonshot\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything\n- https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE\u0026utm_medium=gift-link\n- https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Turbo Pascal 3.02A, deconstructed；Google Search Is Now Using AI to Rewrite Headlines；Quoting Kimi.ai @Kimi_Moonshot。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Turbo Pascal 3.02A, deconstructed; Google Search Is Now Using AI to Rewrite Headlines; Quoting Kimi.ai @Kimi_Moonshot.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
