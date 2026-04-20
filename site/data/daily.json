@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-20T16:22:21Z",
+  "generated_at": "2026-04-20T16:48:22Z",
   "days": [
     {
       "date": "2026-04-20",
-      "total": 7,
+      "total": 8,
       "feeds": [
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "devblogs.microsoft.com/oldnewthing · How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
         "johndcook.com · More on Newton’s diameter theorem",
         "idiallo.com · Advice from a millionaire",
         "shkspr.mobi · Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
         "dfarq.homeip.net · Gordon Moore and Moore’s Law",
-        "utcc.utoronto.ca/~cks · Ignoring missing TLS \"Client Authentication\" usage in practice",
-        "simonwillison.net · SQL functions in Google Sheets to fetch data from Datasette"
+        "utcc.utoronto.ca/~cks · Ignoring missing TLS \"Client Authentication\" usage in practice"
       ],
       "key_points": [
-        "More on Newton’s diameter theorem",
-        "Advice from a millionaire",
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law"
-      ],
-      "key_points_zh": [
-        "More on Newton’s diameter theorem",
-        "Advice from a millionaire",
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law"
-      ],
-      "key_points_en": [
-        "More on Newton’s diameter theorem",
-        "Advice from a millionaire",
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law"
-      ],
-      "tweet_drafts": [
+        "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
         "More on Newton’s diameter theorem",
         "Advice from a millionaire",
         "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★"
       ],
+      "key_points_zh": [
+        "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
+        "More on Newton’s diameter theorem",
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★"
+      ],
+      "key_points_en": [
+        "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
+        "More on Newton’s diameter theorem",
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★"
+      ],
+      "tweet_drafts": [
+        "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
+        "More on Newton’s diameter theorem",
+        "Advice from a millionaire"
+      ],
       "sources": [
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "More on Newton’s diameter theorem",
@@ -53,27 +58,22 @@
           "feed_title": "idiallo.com",
           "title": "Advice from a millionaire",
           "link": "https://idiallo.com/blog/advice-from-a-millionaire?src=feed"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-          "link": "https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/"
         }
       ],
-      "summary_zh": "2026-04-20 技术日报：More on Newton’s diameter theorem；Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★。",
-      "summary_en": "Daily brief (2026-04-20): More on Newton’s diameter theorem; Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★.",
+      "summary_zh": "2026-04-20 技术日报：How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?；More on Newton’s diameter theorem；Advice from a millionaire。",
+      "summary_en": "Daily brief (2026-04-20): How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?; More on Newton’s diameter theorem; Advice from a millionaire.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-20 日报】More on Newton’s diameter theorem；Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-20): More on Newton’s diameter theorem; Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubl"
+          "zh": "【2026-04-20 日报】How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?；More on Newton’s diameter theorem；Advice from a millionaire。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-20): How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?; More on Newton’s diameter theorem; Advice from a millionaire. Actionable takeaways included. What would you ship next? #AI #Engineering #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-20）\n- More on Newton’s diameter theorem\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-20)\n- More on Newton’s diameter theorem\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-20）\n- How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?\n- More on Newton’s diameter theorem\n- Advice from a millionaire\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245\n- https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-20)\n- How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?\n- More on Newton’s diameter theorem\n- Advice from a millionaire\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245\n- https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：More on Newton’s diameter theorem；Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: More on Newton’s diameter theorem; Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?；More on Newton’s diameter theorem；Advice from a millionaire。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?; More on Newton’s diameter theorem; Advice from a millionaire.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
