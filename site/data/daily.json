@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-04-20T11:56:09Z",
+  "generated_at": "2026-04-20T12:19:56Z",
   "days": [
     {
       "date": "2026-04-20",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "idiallo.com (1)",
         "joanwestenberg.com (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · Advice from a millionaire",
         "shkspr.mobi · Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
         "dfarq.homeip.net · Gordon Moore and Moore’s Law",
         "utcc.utoronto.ca/~cks · Ignoring missing TLS \"Client Authentication\" usage in practice",
@@ -19,29 +21,34 @@
         "joanwestenberg.com · How we lost the living Now"
       ],
       "key_points": [
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law",
-        "Ignoring missing TLS \"Client Authentication\" usage in practice",
-        "SQL functions in Google Sheets to fetch data from Datasette"
-      ],
-      "key_points_zh": [
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law",
-        "Ignoring missing TLS \"Client Authentication\" usage in practice",
-        "SQL functions in Google Sheets to fetch data from Datasette"
-      ],
-      "key_points_en": [
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law",
-        "Ignoring missing TLS \"Client Authentication\" usage in practice",
-        "SQL functions in Google Sheets to fetch data from Datasette"
-      ],
-      "tweet_drafts": [
+        "Advice from a millionaire",
         "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
         "Gordon Moore and Moore’s Law",
         "Ignoring missing TLS \"Client Authentication\" usage in practice"
       ],
+      "key_points_zh": [
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
+        "Gordon Moore and Moore’s Law",
+        "Ignoring missing TLS \"Client Authentication\" usage in practice"
+      ],
+      "key_points_en": [
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
+        "Gordon Moore and Moore’s Law",
+        "Ignoring missing TLS \"Client Authentication\" usage in practice"
+      ],
+      "tweet_drafts": [
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
+        "Gordon Moore and Moore’s Law"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Advice from a millionaire",
+          "link": "https://idiallo.com/blog/advice-from-a-millionaire?src=feed"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
@@ -51,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Gordon Moore and Moore’s Law",
           "link": "https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Ignoring missing TLS \"Client Authentication\" usage in practice",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth"
         }
       ],
-      "summary_zh": "2026-04-20 技术日报：Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law；Ignoring missing TLS \"Client Authentication\" usage in practice。",
-      "summary_en": "Daily brief (2026-04-20): Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law; Ignoring missing TLS \"Client Authentication\" usage in practice.",
+      "summary_zh": "2026-04-20 技术日报：Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law。",
+      "summary_en": "Daily brief (2026-04-20): Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-20 日报】Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law；Ignoring missing TLS \"Client Authentication\" usage in practice。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-20): Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law; Ignoring missing TLS \"Client Authentication\" usage in practice. Actionable takeaways included. What would you ship nex"
+          "zh": "【2026-04-20 日报】Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-20): Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-20）\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n- Gordon Moore and Moore’s Law\n- Ignoring missing TLS \"Client Authentication\" usage in practice\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n- https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-20)\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n- Gordon Moore and Moore’s Law\n- Ignoring missing TLS \"Client Authentication\" usage in practice\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n- https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-20）\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n- Gordon Moore and Moore’s Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-20)\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n- Gordon Moore and Moore’s Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law；Ignoring missing TLS \"Client Authentication\" usage in practice。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law; Ignoring missing TLS \"Client Authentication\" usage in practice.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
