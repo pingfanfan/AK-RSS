@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-20 11:27:24 UTC
+Generated at: 2026-04-20 11:55:55 UTC
 
-- [Gordon Moore and Moore’s Law](https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss&utm_medium=rss&utm_campaign=gordon-moore-and-moores-law) (`dfarq.homeip.net`)
+- [Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★](https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/) (`shkspr.mobi`)
