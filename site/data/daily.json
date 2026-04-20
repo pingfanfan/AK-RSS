@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-04-20T10:31:19Z",
+  "generated_at": "2026-04-20T11:27:38Z",
   "days": [
     {
       "date": "2026-04-20",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Gordon Moore and Moore’s Law",
         "utcc.utoronto.ca/~cks · Ignoring missing TLS \"Client Authentication\" usage in practice",
         "simonwillison.net · SQL functions in Google Sheets to fetch data from Datasette",
         "joanwestenberg.com · How we lost the living Now"
       ],
       "key_points": [
+        "Gordon Moore and Moore’s Law",
         "Ignoring missing TLS \"Client Authentication\" usage in practice",
         "SQL functions in Google Sheets to fetch data from Datasette",
         "How we lost the living Now"
       ],
       "key_points_zh": [
+        "Gordon Moore and Moore’s Law",
         "Ignoring missing TLS \"Client Authentication\" usage in practice",
         "SQL functions in Google Sheets to fetch data from Datasette",
         "How we lost the living Now"
       ],
       "key_points_en": [
+        "Gordon Moore and Moore’s Law",
         "Ignoring missing TLS \"Client Authentication\" usage in practice",
         "SQL functions in Google Sheets to fetch data from Datasette",
         "How we lost the living Now"
       ],
       "tweet_drafts": [
+        "Gordon Moore and Moore’s Law",
         "Ignoring missing TLS \"Client Authentication\" usage in practice",
-        "SQL functions in Google Sheets to fetch data from Datasette",
-        "How we lost the living Now"
+        "SQL functions in Google Sheets to fetch data from Datasette"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Gordon Moore and Moore’s Law",
+          "link": "https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Ignoring missing TLS \"Client Authentication\" usage in practice",
@@ -44,27 +54,22 @@
           "feed_title": "simonwillison.net",
           "title": "SQL functions in Google Sheets to fetch data from Datasette",
           "link": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "How we lost the living Now",
-          "link": "https://www.joanwestenberg.com/how-we-lost-the-living-now/"
         }
       ],
-      "summary_zh": "2026-04-20 技术日报：Ignoring missing TLS \"Client Authentication\" usage in practice；SQL functions in Google Sheets to fetch data from Datasette；How we lost the living Now。",
-      "summary_en": "Daily brief (2026-04-20): Ignoring missing TLS \"Client Authentication\" usage in practice; SQL functions in Google Sheets to fetch data from Datasette; How we lost the living Now.",
+      "summary_zh": "2026-04-20 技术日报：Gordon Moore and Moore’s Law；Ignoring missing TLS \"Client Authentication\" usage in practice；SQL functions in Google Sheets to fetch data from Datasette。",
+      "summary_en": "Daily brief (2026-04-20): Gordon Moore and Moore’s Law; Ignoring missing TLS \"Client Authentication\" usage in practice; SQL functions in Google Sheets to fetch data from Datasette.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-20 日报】Ignoring missing TLS \"Client Authentication\" usage in practice；SQL functions in Google Sheets to fetch data from Datasette；How we lost the living Now。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-20): Ignoring missing TLS \"Client Authentication\" usage in practice; SQL functions in Google Sheets to fetch data from Datasette; How we lost the living Now. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
+          "zh": "【2026-04-20 日报】Gordon Moore and Moore’s Law；Ignoring missing TLS \"Client Authentication\" usage in practice；SQL functions in Google Sheets to fetch data from Datasette。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-20): Gordon Moore and Moore’s Law; Ignoring missing TLS \"Client Authentication\" usage in practice; SQL functions in Google Sheets to fetch data from Datasette. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-20）\n- Ignoring missing TLS \"Client Authentication\" usage in practice\n- SQL functions in Google Sheets to fetch data from Datasette\n- How we lost the living Now\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth\n- https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything\n- https://www.joanwestenberg.com/how-we-lost-the-living-now/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-20)\n- Ignoring missing TLS \"Client Authentication\" usage in practice\n- SQL functions in Google Sheets to fetch data from Datasette\n- How we lost the living Now\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth\n- https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything\n- https://www.joanwestenberg.com/how-we-lost-the-living-now/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-20）\n- Gordon Moore and Moore’s Law\n- Ignoring missing TLS \"Client Authentication\" usage in practice\n- SQL functions in Google Sheets to fetch data from Datasette\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n- https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth\n- https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-20)\n- Gordon Moore and Moore’s Law\n- Ignoring missing TLS \"Client Authentication\" usage in practice\n- SQL functions in Google Sheets to fetch data from Datasette\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n- https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth\n- https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Ignoring missing TLS \"Client Authentication\" usage in practice；SQL functions in Google Sheets to fetch data from Datasette；How we lost the living Now。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Ignoring missing TLS \"Client Authentication\" usage in practice; SQL functions in Google Sheets to fetch data from Datasette; How we lost the living Now.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Gordon Moore and Moore’s Law；Ignoring missing TLS \"Client Authentication\" usage in practice；SQL functions in Google Sheets to fetch data from Datasette。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Gordon Moore and Moore’s Law; Ignoring missing TLS \"Client Authentication\" usage in practice; SQL functions in Google Sheets to fetch data from Datasette.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -82,33 +87,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
+        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "shkspr.mobi · Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine"
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "sources": [
         {
@@ -122,25 +127,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Hook It Up to the Machine",
-          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
+          "feed_title": "berthub.eu",
+          "title": "Big tech clouds worden niet veiliger met stapels papier",
+          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
