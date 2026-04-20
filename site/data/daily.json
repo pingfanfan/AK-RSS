@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-20T13:30:03Z",
+  "generated_at": "2026-04-20T14:13:11Z",
   "days": [
     {
       "date": "2026-04-20",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
+        "johndcook.com (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "johndcook.com · More on Newton’s diameter theorem",
         "idiallo.com · Advice from a millionaire",
         "shkspr.mobi · Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
         "dfarq.homeip.net · Gordon Moore and Moore’s Law",
         "utcc.utoronto.ca/~cks · Ignoring missing TLS \"Client Authentication\" usage in practice",
-        "simonwillison.net · SQL functions in Google Sheets to fetch data from Datasette",
-        "joanwestenberg.com · How we lost the living Now"
+        "simonwillison.net · SQL functions in Google Sheets to fetch data from Datasette"
       ],
       "key_points": [
-        "Advice from a millionaire",
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law",
-        "Ignoring missing TLS \"Client Authentication\" usage in practice"
-      ],
-      "key_points_zh": [
-        "Advice from a millionaire",
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law",
-        "Ignoring missing TLS \"Client Authentication\" usage in practice"
-      ],
-      "key_points_en": [
-        "Advice from a millionaire",
-        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
-        "Gordon Moore and Moore’s Law",
-        "Ignoring missing TLS \"Client Authentication\" usage in practice"
-      ],
-      "tweet_drafts": [
+        "More on Newton’s diameter theorem",
         "Advice from a millionaire",
         "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
         "Gordon Moore and Moore’s Law"
       ],
+      "key_points_zh": [
+        "More on Newton’s diameter theorem",
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
+        "Gordon Moore and Moore’s Law"
+      ],
+      "key_points_en": [
+        "More on Newton’s diameter theorem",
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
+        "Gordon Moore and Moore’s Law"
+      ],
+      "tweet_drafts": [
+        "More on Newton’s diameter theorem",
+        "Advice from a millionaire",
+        "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "More on Newton’s diameter theorem",
+          "link": "https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "Advice from a millionaire",
@@ -53,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★",
           "link": "https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Gordon Moore and Moore’s Law",
-          "link": "https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law"
         }
       ],
-      "summary_zh": "2026-04-20 技术日报：Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law。",
-      "summary_en": "Daily brief (2026-04-20): Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law.",
+      "summary_zh": "2026-04-20 技术日报：More on Newton’s diameter theorem；Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★。",
+      "summary_en": "Daily brief (2026-04-20): More on Newton’s diameter theorem; Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-20 日报】Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-20): Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-20 日报】More on Newton’s diameter theorem；Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-20): More on Newton’s diameter theorem; Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubl"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-20）\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n- Gordon Moore and Moore’s Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-20)\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n- Gordon Moore and Moore’s Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n- https://dfarq.homeip.net/gordon-moore-and-moores-law/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gordon-moore-and-moores-law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-20）\n- More on Newton’s diameter theorem\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-20)\n- More on Newton’s diameter theorem\n- Advice from a millionaire\n- Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/\n- https://idiallo.com/blog/advice-from-a-millionaire?src=feed\n- https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★；Gordon Moore and Moore’s Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★; Gordon Moore and Moore’s Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：More on Newton’s diameter theorem；Advice from a millionaire；Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: More on Newton’s diameter theorem; Advice from a millionaire; Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
