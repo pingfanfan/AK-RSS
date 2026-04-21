@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T16:46:18Z",
+  "generated_at": "2026-04-21T17:19:23Z",
   "days": [
     {
       "date": "2026-04-21",
@@ -2207,7 +2207,7 @@
     },
     {
       "date": "2026-03-23",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "daringfireball.net (4)",
         "simonwillison.net (2)",
@@ -2217,37 +2217,42 @@
         "entropicthoughts.com (1)"
       ],
       "highlights": [
+        "gilesthomas.com · Writing an LLM from scratch, part 32f -- Interventions: weight decay",
         "entropicthoughts.com · Lines of code are useful",
         "daringfireball.net · Gasoline Prices Around the World",
         "simonwillison.net · Quoting David Abram",
         "daringfireball.net · WWDC 2026: June 8–12",
-        "daringfireball.net · From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
-        "daringfireball.net · The HTML Review: Issue 05"
+        "daringfireball.net · From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’"
       ],
       "key_points": [
-        "Lines of code are useful",
-        "Gasoline Prices Around the World",
-        "Quoting David Abram",
-        "WWDC 2026: June 8–12"
-      ],
-      "key_points_zh": [
-        "Lines of code are useful",
-        "Gasoline Prices Around the World",
-        "Quoting David Abram",
-        "WWDC 2026: June 8–12"
-      ],
-      "key_points_en": [
-        "Lines of code are useful",
-        "Gasoline Prices Around the World",
-        "Quoting David Abram",
-        "WWDC 2026: June 8–12"
-      ],
-      "tweet_drafts": [
+        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
         "Lines of code are useful",
         "Gasoline Prices Around the World",
         "Quoting David Abram"
       ],
+      "key_points_zh": [
+        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
+        "Lines of code are useful",
+        "Gasoline Prices Around the World",
+        "Quoting David Abram"
+      ],
+      "key_points_en": [
+        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
+        "Lines of code are useful",
+        "Gasoline Prices Around the World",
+        "Quoting David Abram"
+      ],
+      "tweet_drafts": [
+        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
+        "Lines of code are useful",
+        "Gasoline Prices Around the World"
+      ],
       "sources": [
+        {
+          "feed_title": "gilesthomas.com",
+          "title": "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
+          "link": "https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay"
+        },
         {
           "feed_title": "entropicthoughts.com",
           "title": "Lines of code are useful",
@@ -2257,27 +2262,22 @@
           "feed_title": "daringfireball.net",
           "title": "Gasoline Prices Around the World",
           "link": "https://www.globalpetrolprices.com/gasoline_prices/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting David Abram",
-          "link": "https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything"
         }
       ],
-      "summary_zh": "2026-03-23 技术日报：Lines of code are useful；Gasoline Prices Around the World；Quoting David Abram。",
-      "summary_en": "Daily brief (2026-03-23): Lines of code are useful; Gasoline Prices Around the World; Quoting David Abram.",
+      "summary_zh": "2026-03-23 技术日报：Writing an LLM from scratch, part 32f -- Interventions: weight decay；Lines of code are useful；Gasoline Prices Around the World。",
+      "summary_en": "Daily brief (2026-03-23): Writing an LLM from scratch, part 32f -- Interventions: weight decay; Lines of code are useful; Gasoline Prices Around the World.",
       "social_posts": {
         "x": {
-          "zh": "【2026-03-23 日报】Lines of code are useful；Gasoline Prices Around the World；Quoting David Abram。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-23): Lines of code are useful; Gasoline Prices Around the World; Quoting David Abram. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-03-23 日报】Writing an LLM from scratch, part 32f -- Interventions: weight decay；Lines of code are useful；Gasoline Prices Around the World。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-03-23): Writing an LLM from scratch, part 32f -- Interventions: weight decay; Lines of code are useful; Gasoline Prices Around the World. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-03-23）\n- Lines of code are useful\n- Gasoline Prices Around the World\n- Quoting David Abram\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/lines-of-code\n- https://www.globalpetrolprices.com/gasoline_prices/\n- https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-23)\n- Lines of code are useful\n- Gasoline Prices Around the World\n- Quoting David Abram\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/lines-of-code\n- https://www.globalpetrolprices.com/gasoline_prices/\n- https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-03-23）\n- Writing an LLM from scratch, part 32f -- Interventions: weight decay\n- Lines of code are useful\n- Gasoline Prices Around the World\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay\n- https://entropicthoughts.com/lines-of-code\n- https://www.globalpetrolprices.com/gasoline_prices/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-03-23)\n- Writing an LLM from scratch, part 32f -- Interventions: weight decay\n- Lines of code are useful\n- Gasoline Prices Around the World\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay\n- https://entropicthoughts.com/lines-of-code\n- https://www.globalpetrolprices.com/gasoline_prices/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Lines of code are useful；Gasoline Prices Around the World；Quoting David Abram。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Lines of code are useful; Gasoline Prices Around the World; Quoting David Abram.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Writing an LLM from scratch, part 32f -- Interventions: weight decay；Lines of code are useful；Gasoline Prices Around the World。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Writing an LLM from scratch, part 32f -- Interventions: weight decay; Lines of code are useful; Gasoline Prices Around the World.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
