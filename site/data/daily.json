@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-21T18:48:28Z",
+  "generated_at": "2026-04-21T19:25:36Z",
   "days": [
     {
       "date": "2026-04-21",
-      "total": 11,
+      "total": 12,
       "feeds": [
+        "daringfireball.net (2)",
         "simonwillison.net (2)",
         "buttondown.com/hillelwayne (1)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Trump on Tim Apple",
         "buttondown.com/hillelwayne · People get confused when language implementations guarantees",
         "simonwillison.net · Quoting Andreas Påhlsson-Notini",
         "wheresyoured.at · Four Horsemen of the AIpocalypse",
         "simonwillison.net · scosman/pelicans_riding_bicycles",
-        "krebsonsecurity.com · ‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-        "devblogs.microsoft.com/oldnewthing · Sure, xor’ing a register with itself is the idiom for zeroing it out, but why not sub?"
+        "krebsonsecurity.com · ‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty"
       ],
       "key_points": [
-        "People get confused when language implementations guarantees",
-        "Quoting Andreas Påhlsson-Notini",
-        "Four Horsemen of the AIpocalypse",
-        "scosman/pelicans_riding_bicycles"
-      ],
-      "key_points_zh": [
-        "People get confused when language implementations guarantees",
-        "Quoting Andreas Påhlsson-Notini",
-        "Four Horsemen of the AIpocalypse",
-        "scosman/pelicans_riding_bicycles"
-      ],
-      "key_points_en": [
-        "People get confused when language implementations guarantees",
-        "Quoting Andreas Påhlsson-Notini",
-        "Four Horsemen of the AIpocalypse",
-        "scosman/pelicans_riding_bicycles"
-      ],
-      "tweet_drafts": [
+        "Trump on Tim Apple",
         "People get confused when language implementations guarantees",
         "Quoting Andreas Påhlsson-Notini",
         "Four Horsemen of the AIpocalypse"
       ],
+      "key_points_zh": [
+        "Trump on Tim Apple",
+        "People get confused when language implementations guarantees",
+        "Quoting Andreas Påhlsson-Notini",
+        "Four Horsemen of the AIpocalypse"
+      ],
+      "key_points_en": [
+        "Trump on Tim Apple",
+        "People get confused when language implementations guarantees",
+        "Quoting Andreas Påhlsson-Notini",
+        "Four Horsemen of the AIpocalypse"
+      ],
+      "tweet_drafts": [
+        "Trump on Tim Apple",
+        "People get confused when language implementations guarantees",
+        "Quoting Andreas Påhlsson-Notini"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Trump on Tim Apple",
+          "link": "https://truthsocial.com/@realDonaldTrump/posts/116442276577696798"
+        },
         {
           "feed_title": "buttondown.com/hillelwayne",
           "title": "People get confused when language implementations guarantees",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Andreas Påhlsson-Notini",
           "link": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Four Horsemen of the AIpocalypse",
-          "link": "https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/"
         }
       ],
-      "summary_zh": "2026-04-21 技术日报：People get confused when language implementations guarantees；Quoting Andreas Påhlsson-Notini；Four Horsemen of the AIpocalypse。",
-      "summary_en": "Daily brief (2026-04-21): People get confused when language implementations guarantees; Quoting Andreas Påhlsson-Notini; Four Horsemen of the AIpocalypse.",
+      "summary_zh": "2026-04-21 技术日报：Trump on Tim Apple；People get confused when language implementations guarantees；Quoting Andreas Påhlsson-Notini。",
+      "summary_en": "Daily brief (2026-04-21): Trump on Tim Apple; People get confused when language implementations guarantees; Quoting Andreas Påhlsson-Notini.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-21 日报】People get confused when language implementations guarantees；Quoting Andreas Påhlsson-Notini；Four Horsemen of the AIpocalypse。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-21): People get confused when language implementations guarantees; Quoting Andreas Påhlsson-Notini; Four Horsemen of the AIpocalypse. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-21 日报】Trump on Tim Apple；People get confused when language implementations guarantees；Quoting Andreas Påhlsson-Notini。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-21): Trump on Tim Apple; People get confused when language implementations guarantees; Quoting Andreas Påhlsson-Notini. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-21）\n- People get confused when language implementations guarantees\n- Quoting Andreas Påhlsson-Notini\n- Four Horsemen of the AIpocalypse\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/\n- https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything\n- https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-21)\n- People get confused when language implementations guarantees\n- Quoting Andreas Påhlsson-Notini\n- Four Horsemen of the AIpocalypse\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/\n- https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything\n- https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-21）\n- Trump on Tim Apple\n- People get confused when language implementations guarantees\n- Quoting Andreas Påhlsson-Notini\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://truthsocial.com/@realDonaldTrump/posts/116442276577696798\n- https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/\n- https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-21)\n- Trump on Tim Apple\n- People get confused when language implementations guarantees\n- Quoting Andreas Påhlsson-Notini\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://truthsocial.com/@realDonaldTrump/posts/116442276577696798\n- https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/\n- https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：People get confused when language implementations guarantees；Quoting Andreas Påhlsson-Notini；Four Horsemen of the AIpocalypse。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: People get confused when language implementations guarantees; Quoting Andreas Påhlsson-Notini; Four Horsemen of the AIpocalypse.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Trump on Tim Apple；People get confused when language implementations guarantees；Quoting Andreas Påhlsson-Notini。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Trump on Tim Apple; People get confused when language implementations guarantees; Quoting Andreas Påhlsson-Notini.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
