@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-22T11:22:03Z",
+  "generated_at": "2026-04-22T11:47:08Z",
   "days": [
     {
       "date": "2026-04-22",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
         "seangoedecke.com (1)",
-        "simonwillison.net (1)",
-        "tedium.co (1)"
+        "shkspr.mobi (1)",
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · [RSS Club] How do you preserve an RSS feed?",
         "dfarq.homeip.net · When Escom bought Commodore",
         "simonwillison.net · Quoting Bobby Holley",
         "tedium.co · The Scapegoat",
         "utcc.utoronto.ca/~cks · Some general notes on network booting UEFI machines",
-        "daringfireball.net · [Sponsor] Rec League",
-        "herman.bearblog.dev · The commodification of travel"
+        "daringfireball.net · [Sponsor] Rec League"
       ],
       "key_points": [
-        "When Escom bought Commodore",
-        "Quoting Bobby Holley",
-        "The Scapegoat",
-        "Some general notes on network booting UEFI machines"
-      ],
-      "key_points_zh": [
-        "When Escom bought Commodore",
-        "Quoting Bobby Holley",
-        "The Scapegoat",
-        "Some general notes on network booting UEFI machines"
-      ],
-      "key_points_en": [
-        "When Escom bought Commodore",
-        "Quoting Bobby Holley",
-        "The Scapegoat",
-        "Some general notes on network booting UEFI machines"
-      ],
-      "tweet_drafts": [
+        "[RSS Club] How do you preserve an RSS feed?",
         "When Escom bought Commodore",
         "Quoting Bobby Holley",
         "The Scapegoat"
       ],
+      "key_points_zh": [
+        "[RSS Club] How do you preserve an RSS feed?",
+        "When Escom bought Commodore",
+        "Quoting Bobby Holley",
+        "The Scapegoat"
+      ],
+      "key_points_en": [
+        "[RSS Club] How do you preserve an RSS feed?",
+        "When Escom bought Commodore",
+        "Quoting Bobby Holley",
+        "The Scapegoat"
+      ],
+      "tweet_drafts": [
+        "[RSS Club] How do you preserve an RSS feed?",
+        "When Escom bought Commodore",
+        "Quoting Bobby Holley"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "[RSS Club] How do you preserve an RSS feed?",
+          "link": "https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "When Escom bought Commodore",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Bobby Holley",
           "link": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "The Scapegoat",
-          "link": "https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat"
         }
       ],
-      "summary_zh": "2026-04-22 技术日报：When Escom bought Commodore；Quoting Bobby Holley；The Scapegoat。",
-      "summary_en": "Daily brief (2026-04-22): When Escom bought Commodore; Quoting Bobby Holley; The Scapegoat.",
+      "summary_zh": "2026-04-22 技术日报：[RSS Club] How do you preserve an RSS feed?；When Escom bought Commodore；Quoting Bobby Holley。",
+      "summary_en": "Daily brief (2026-04-22): [RSS Club] How do you preserve an RSS feed?; When Escom bought Commodore; Quoting Bobby Holley.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-22 日报】When Escom bought Commodore；Quoting Bobby Holley；The Scapegoat。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-22): When Escom bought Commodore; Quoting Bobby Holley; The Scapegoat. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-22 日报】[RSS Club] How do you preserve an RSS feed?；When Escom bought Commodore；Quoting Bobby Holley。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-22): [RSS Club] How do you preserve an RSS feed?; When Escom bought Commodore; Quoting Bobby Holley. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-22）\n- When Escom bought Commodore\n- Quoting Bobby Holley\n- The Scapegoat\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/when-escom-bought-commodore/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-escom-bought-commodore\n- https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything\n- https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-22)\n- When Escom bought Commodore\n- Quoting Bobby Holley\n- The Scapegoat\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/when-escom-bought-commodore/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-escom-bought-commodore\n- https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything\n- https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-22）\n- [RSS Club] How do you preserve an RSS feed?\n- When Escom bought Commodore\n- Quoting Bobby Holley\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/\n- https://dfarq.homeip.net/when-escom-bought-commodore/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-escom-bought-commodore\n- https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-22)\n- [RSS Club] How do you preserve an RSS feed?\n- When Escom bought Commodore\n- Quoting Bobby Holley\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/\n- https://dfarq.homeip.net/when-escom-bought-commodore/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-escom-bought-commodore\n- https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：When Escom bought Commodore；Quoting Bobby Holley；The Scapegoat。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: When Escom bought Commodore; Quoting Bobby Holley; The Scapegoat.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：[RSS Club] How do you preserve an RSS feed?；When Escom bought Commodore；Quoting Bobby Holley。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [RSS Club] How do you preserve an RSS feed?; When Escom bought Commodore; Quoting Bobby Holley.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
