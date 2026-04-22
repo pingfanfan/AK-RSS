@@ -1,49 +1,130 @@
 {
-  "generated_at": "2026-04-21T22:43:23Z",
+  "generated_at": "2026-04-22T06:31:20Z",
   "days": [
     {
+      "date": "2026-04-22",
+      "total": 7,
+      "feeds": [
+        "daringfireball.net (1)",
+        "herman.bearblog.dev (1)",
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)",
+        "tedium.co (1)",
+        "troyhunt.com (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Bobby Holley",
+        "tedium.co · The Scapegoat",
+        "utcc.utoronto.ca/~cks · Some general notes on network booting UEFI machines",
+        "daringfireball.net · [Sponsor] Rec League",
+        "herman.bearblog.dev · The commodification of travel",
+        "seangoedecke.com · Luddites and AI datacenters"
+      ],
+      "key_points": [
+        "Quoting Bobby Holley",
+        "The Scapegoat",
+        "Some general notes on network booting UEFI machines",
+        "[Sponsor] Rec League"
+      ],
+      "key_points_zh": [
+        "Quoting Bobby Holley",
+        "The Scapegoat",
+        "Some general notes on network booting UEFI machines",
+        "[Sponsor] Rec League"
+      ],
+      "key_points_en": [
+        "Quoting Bobby Holley",
+        "The Scapegoat",
+        "Some general notes on network booting UEFI machines",
+        "[Sponsor] Rec League"
+      ],
+      "tweet_drafts": [
+        "Quoting Bobby Holley",
+        "The Scapegoat",
+        "Some general notes on network booting UEFI machines"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Bobby Holley",
+          "link": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything"
+        },
+        {
+          "feed_title": "tedium.co",
+          "title": "The Scapegoat",
+          "link": "https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Some general notes on network booting UEFI machines",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes"
+        }
+      ],
+      "summary_zh": "2026-04-22 技术日报：Quoting Bobby Holley；The Scapegoat；Some general notes on network booting UEFI machines。",
+      "summary_en": "Daily brief (2026-04-22): Quoting Bobby Holley; The Scapegoat; Some general notes on network booting UEFI machines.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-22 日报】Quoting Bobby Holley；The Scapegoat；Some general notes on network booting UEFI machines。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-22): Quoting Bobby Holley; The Scapegoat; Some general notes on network booting UEFI machines. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-22）\n- Quoting Bobby Holley\n- The Scapegoat\n- Some general notes on network booting UEFI machines\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything\n- https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat\n- https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-22)\n- Quoting Bobby Holley\n- The Scapegoat\n- Some general notes on network booting UEFI machines\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything\n- https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat\n- https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Quoting Bobby Holley；The Scapegoat；Some general notes on network booting UEFI machines。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Bobby Holley; The Scapegoat; Some general notes on network booting UEFI machines.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-04-21",
-      "total": 15,
+      "total": 17,
       "feeds": [
         "simonwillison.net (3)",
         "daringfireball.net (2)",
+        "wheresyoured.at (2)",
         "buttondown.com/hillelwayne (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "johndcook.com (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "wheresyoured.at · [UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users",
         "simonwillison.net · Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
         "johndcook.com · An AI Odyssey, Part 4: Astounding Coding Agents",
         "daringfireball.net · Trump on Tim Apple",
         "buttondown.com/hillelwayne · People get confused when language implementations guarantees",
-        "simonwillison.net · Quoting Andreas Påhlsson-Notini",
-        "wheresyoured.at · Four Horsemen of the AIpocalypse"
+        "simonwillison.net · Quoting Andreas Påhlsson-Notini"
       ],
       "key_points": [
-        "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
-        "An AI Odyssey, Part 4: Astounding Coding Agents",
-        "Trump on Tim Apple",
-        "People get confused when language implementations guarantees"
-      ],
-      "key_points_zh": [
-        "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
-        "An AI Odyssey, Part 4: Astounding Coding Agents",
-        "Trump on Tim Apple",
-        "People get confused when language implementations guarantees"
-      ],
-      "key_points_en": [
-        "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
-        "An AI Odyssey, Part 4: Astounding Coding Agents",
-        "Trump on Tim Apple",
-        "People get confused when language implementations guarantees"
-      ],
-      "tweet_drafts": [
+        "[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users",
         "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
         "An AI Odyssey, Part 4: Astounding Coding Agents",
         "Trump on Tim Apple"
       ],
+      "key_points_zh": [
+        "[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users",
+        "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+        "An AI Odyssey, Part 4: Astounding Coding Agents",
+        "Trump on Tim Apple"
+      ],
+      "key_points_en": [
+        "[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users",
+        "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+        "An AI Odyssey, Part 4: Astounding Coding Agents",
+        "Trump on Tim Apple"
+      ],
+      "tweet_drafts": [
+        "[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users",
+        "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+        "An AI Odyssey, Part 4: Astounding Coding Agents"
+      ],
       "sources": [
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users",
+          "link": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
@@ -53,27 +134,22 @@
           "feed_title": "johndcook.com",
           "title": "An AI Odyssey, Part 4: Astounding Coding Agents",
           "link": "https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Trump on Tim Apple",
-          "link": "https://truthsocial.com/@realDonaldTrump/posts/116442276577696798"
         }
       ],
-      "summary_zh": "2026-04-21 技术日报：Where's the raccoon with the ham radio? (ChatGPT Images 2.0)；An AI Odyssey, Part 4: Astounding Coding Agents；Trump on Tim Apple。",
-      "summary_en": "Daily brief (2026-04-21): Where's the raccoon with the ham radio? (ChatGPT Images 2.0); An AI Odyssey, Part 4: Astounding Coding Agents; Trump on Tim Apple.",
+      "summary_zh": "2026-04-21 技术日报：[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users；Where's the raccoon with the ham radio? (ChatGPT Images 2.0)；An AI Odyssey, Part 4: Astounding Coding Agents。",
+      "summary_en": "Daily brief (2026-04-21): [UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users; Where's the raccoon with the ham radio? (ChatGPT Images 2.0); An AI Odyssey, Part 4: Astounding Coding Agents.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-21 日报】Where's the raccoon with the ham radio? (ChatGPT Images 2.0)；An AI Odyssey, Part 4: Astounding Coding Agents；Trump on Tim Apple。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-21): Where's the raccoon with the ham radio? (ChatGPT Images 2.0); An AI Odyssey, Part 4: Astounding Coding Agents; Trump on Tim Apple. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-21 日报】[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users；Where's the raccoon with the ham radio? (ChatGPT Images 2.0)；An AI Odyssey, Part 4: Astounding Coding Agents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势",
+          "en": "AK-RSS Daily (2026-04-21): [UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users; Where's the raccoon with the ham radio? (ChatGPT Images 2.0); An AI Odyssey, Part 4: Astounding Coding Agents. Actionable"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-21）\n- Where's the raccoon with the ham radio? (ChatGPT Images 2.0)\n- An AI Odyssey, Part 4: Astounding Coding Agents\n- Trump on Tim Apple\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything\n- https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/\n- https://truthsocial.com/@realDonaldTrump/posts/116442276577696798\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-21)\n- Where's the raccoon with the ham radio? (ChatGPT Images 2.0)\n- An AI Odyssey, Part 4: Astounding Coding Agents\n- Trump on Tim Apple\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything\n- https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/\n- https://truthsocial.com/@realDonaldTrump/posts/116442276577696798\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-21）\n- [UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users\n- Where's the raccoon with the ham radio? (ChatGPT Images 2.0)\n- An AI Odyssey, Part 4: Astounding Coding Agents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/news-anthropic-removes-pro-cc/\n- https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything\n- https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-21)\n- [UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users\n- Where's the raccoon with the ham radio? (ChatGPT Images 2.0)\n- An AI Odyssey, Part 4: Astounding Coding Agents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/news-anthropic-removes-pro-cc/\n- https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything\n- https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Where's the raccoon with the ham radio? (ChatGPT Images 2.0)；An AI Odyssey, Part 4: Astounding Coding Agents；Trump on Tim Apple。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Where's the raccoon with the ham radio? (ChatGPT Images 2.0); An AI Odyssey, Part 4: Astounding Coding Agents; Trump on Tim Apple.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users；Where's the raccoon with the ham radio? (ChatGPT Images 2.0)；An AI Odyssey, Part 4: Astounding Coding Agents。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users; Where's the raccoon with the ham radio? (ChatGPT Images 2.0); An AI Odyssey, Part 4: Astounding Coding Agents.\nI turned them into an action-ready daily brief you can"
         }
       }
     },
@@ -167,33 +243,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -207,25 +283,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2202,82 +2278,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Auto mode for Claude Code；Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones；Package Managers Need to Cool Down。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Auto mode for Claude Code; Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones; Package Managers Need to Cool Down.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-03-23",
-      "total": 18,
-      "feeds": [
-        "daringfireball.net (4)",
-        "simonwillison.net (2)",
-        "abortretry.fail (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "gilesthomas.com · Writing an LLM from scratch, part 32f -- Interventions: weight decay",
-        "entropicthoughts.com · Lines of code are useful",
-        "daringfireball.net · Gasoline Prices Around the World",
-        "simonwillison.net · Quoting David Abram",
-        "daringfireball.net · WWDC 2026: June 8–12",
-        "daringfireball.net · From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’"
-      ],
-      "key_points": [
-        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
-        "Lines of code are useful",
-        "Gasoline Prices Around the World",
-        "Quoting David Abram"
-      ],
-      "key_points_zh": [
-        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
-        "Lines of code are useful",
-        "Gasoline Prices Around the World",
-        "Quoting David Abram"
-      ],
-      "key_points_en": [
-        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
-        "Lines of code are useful",
-        "Gasoline Prices Around the World",
-        "Quoting David Abram"
-      ],
-      "tweet_drafts": [
-        "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
-        "Lines of code are useful",
-        "Gasoline Prices Around the World"
-      ],
-      "sources": [
-        {
-          "feed_title": "gilesthomas.com",
-          "title": "Writing an LLM from scratch, part 32f -- Interventions: weight decay",
-          "link": "https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay"
-        },
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Lines of code are useful",
-          "link": "https://entropicthoughts.com/lines-of-code"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Gasoline Prices Around the World",
-          "link": "https://www.globalpetrolprices.com/gasoline_prices/"
-        }
-      ],
-      "summary_zh": "2026-03-23 技术日报：Writing an LLM from scratch, part 32f -- Interventions: weight decay；Lines of code are useful；Gasoline Prices Around the World。",
-      "summary_en": "Daily brief (2026-03-23): Writing an LLM from scratch, part 32f -- Interventions: weight decay; Lines of code are useful; Gasoline Prices Around the World.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-23 日报】Writing an LLM from scratch, part 32f -- Interventions: weight decay；Lines of code are useful；Gasoline Prices Around the World。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-23): Writing an LLM from scratch, part 32f -- Interventions: weight decay; Lines of code are useful; Gasoline Prices Around the World. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-23）\n- Writing an LLM from scratch, part 32f -- Interventions: weight decay\n- Lines of code are useful\n- Gasoline Prices Around the World\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay\n- https://entropicthoughts.com/lines-of-code\n- https://www.globalpetrolprices.com/gasoline_prices/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-23)\n- Writing an LLM from scratch, part 32f -- Interventions: weight decay\n- Lines of code are useful\n- Gasoline Prices Around the World\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay\n- https://entropicthoughts.com/lines-of-code\n- https://www.globalpetrolprices.com/gasoline_prices/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Writing an LLM from scratch, part 32f -- Interventions: weight decay；Lines of code are useful；Gasoline Prices Around the World。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Writing an LLM from scratch, part 32f -- Interventions: weight decay; Lines of code are useful; Gasoline Prices Around the World.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
