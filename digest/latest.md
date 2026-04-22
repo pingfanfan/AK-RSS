@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-22 17:18:27 UTC
+Generated at: 2026-04-22 17:47:06 UTC
 
-- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything) (`simonwillison.net`)
+- [Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June](https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/) (`wheresyoured.at`)
