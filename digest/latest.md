@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-22 11:46:55 UTC
+Generated at: 2026-04-22 12:14:20 UTC
 
-- [[RSS Club] How do you preserve an RSS feed?](https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/) (`shkspr.mobi`)
+- [How to Come Up With Great Ideas](https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed) (`idiallo.com`)
