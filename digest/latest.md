@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-22 16:46:23 UTC
+Generated at: 2026-04-22 17:18:27 UTC
 
-- [Ben Thompson on Tim Cook’s Legacy](https://stratechery.com/2026/tim-cooks-impeccable-timing/) (`daringfireball.net`)
-- [Writing an LLM from scratch, part 32g -- Interventions: weight tying](https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying) (`gilesthomas.com`)
+- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything) (`simonwillison.net`)
