@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-23 12:15:06 UTC
+Generated at: 2026-04-23 12:48:12 UTC
 
-- [Construction Costs Rarely Fall](https://www.construction-physics.com/p/construction-costs-rarely-fall) (`construction-physics.com`)
+- [Simple approximation for solving a right triangle](https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/) (`johndcook.com`)
+- [Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)](https://pluralistic.net/2026/04/23/poison-pill/) (`pluralistic.net`)
