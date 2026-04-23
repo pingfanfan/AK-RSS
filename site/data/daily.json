@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-23T21:44:28Z",
+  "generated_at": "2026-04-23T22:12:18Z",
   "days": [
     {
       "date": "2026-04-23",
-      "total": 18,
+      "total": 19,
       "feeds": [
         "daringfireball.net (5)",
+        "simonwillison.net (3)",
         "johndcook.com (2)",
-        "simonwillison.net (2)",
         "construction-physics.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Extract PDF text in your browser with LiteParse for the web",
         "daringfireball.net · Trump’s Blog Has Somehow Lost $1.1 Billion",
         "daringfireball.net · Nilay Patel: ‘Beware Software Brain’",
         "simonwillison.net · A pelican for GPT-5.5 via the semi-official Codex backdoor API",
         "daringfireball.net · Eight for Eight",
-        "daringfireball.net · Microsoft Offers Voluntary Retirement to Long-Serving Employees",
-        "daringfireball.net · Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model"
+        "daringfireball.net · Microsoft Offers Voluntary Retirement to Long-Serving Employees"
       ],
       "key_points": [
-        "Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "Eight for Eight"
-      ],
-      "key_points_zh": [
-        "Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "Eight for Eight"
-      ],
-      "key_points_en": [
-        "Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "Eight for Eight"
-      ],
-      "tweet_drafts": [
+        "Extract PDF text in your browser with LiteParse for the web",
         "Trump’s Blog Has Somehow Lost $1.1 Billion",
         "Nilay Patel: ‘Beware Software Brain’",
         "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
       ],
+      "key_points_zh": [
+        "Extract PDF text in your browser with LiteParse for the web",
+        "Trump’s Blog Has Somehow Lost $1.1 Billion",
+        "Nilay Patel: ‘Beware Software Brain’",
+        "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
+      ],
+      "key_points_en": [
+        "Extract PDF text in your browser with LiteParse for the web",
+        "Trump’s Blog Has Somehow Lost $1.1 Billion",
+        "Nilay Patel: ‘Beware Software Brain’",
+        "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
+      ],
+      "tweet_drafts": [
+        "Extract PDF text in your browser with LiteParse for the web",
+        "Trump’s Blog Has Somehow Lost $1.1 Billion",
+        "Nilay Patel: ‘Beware Software Brain’"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Extract PDF text in your browser with LiteParse for the web",
+          "link": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Trump’s Blog Has Somehow Lost $1.1 Billion",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Nilay Patel: ‘Beware Software Brain’",
           "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-          "link": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-23 技术日报：Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API。",
-      "summary_en": "Daily brief (2026-04-23): Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API.",
+      "summary_zh": "2026-04-23 技术日报：Extract PDF text in your browser with LiteParse for the web；Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’。",
+      "summary_en": "Daily brief (2026-04-23): Extract PDF text in your browser with LiteParse for the web; Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-23 日报】Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-23): Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubli"
+          "zh": "【2026-04-23 日报】Extract PDF text in your browser with LiteParse for the web；Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-23): Extract PDF text in your browser with LiteParse for the web; Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-23）\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n- A pelican for GPT-5.5 via the semi-official Codex backdoor API\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n- https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-23)\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n- A pelican for GPT-5.5 via the semi-official Codex backdoor API\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n- https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-23）\n- Extract PDF text in your browser with LiteParse for the web\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-23)\n- Extract PDF text in your browser with LiteParse for the web\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Extract PDF text in your browser with LiteParse for the web；Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Extract PDF text in your browser with LiteParse for the web; Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -319,33 +319,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -359,25 +359,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
