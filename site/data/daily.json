@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-04-23T10:55:07Z",
+  "generated_at": "2026-04-23T11:23:08Z",
   "days": [
     {
       "date": "2026-04-23",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · The first Youtube video",
         "utcc.utoronto.ca/~cks · The various steps of a UEFI network install from an Ubuntu server ISO",
         "joanwestenberg.com · Why prediction markets are a sure sign that our civilisation is in decay",
         "eli.thegreenplace.net · Debugging WASM in Chrome DevTools"
       ],
       "key_points": [
+        "The first Youtube video",
         "The various steps of a UEFI network install from an Ubuntu server ISO",
         "Why prediction markets are a sure sign that our civilisation is in decay",
         "Debugging WASM in Chrome DevTools"
       ],
       "key_points_zh": [
+        "The first Youtube video",
         "The various steps of a UEFI network install from an Ubuntu server ISO",
         "Why prediction markets are a sure sign that our civilisation is in decay",
         "Debugging WASM in Chrome DevTools"
       ],
       "key_points_en": [
+        "The first Youtube video",
         "The various steps of a UEFI network install from an Ubuntu server ISO",
         "Why prediction markets are a sure sign that our civilisation is in decay",
         "Debugging WASM in Chrome DevTools"
       ],
       "tweet_drafts": [
+        "The first Youtube video",
         "The various steps of a UEFI network install from an Ubuntu server ISO",
-        "Why prediction markets are a sure sign that our civilisation is in decay",
-        "Debugging WASM in Chrome DevTools"
+        "Why prediction markets are a sure sign that our civilisation is in decay"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "The first Youtube video",
+          "link": "https://dfarq.homeip.net/the-first-youtube-video/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-first-youtube-video"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "The various steps of a UEFI network install from an Ubuntu server ISO",
@@ -44,27 +54,22 @@
           "feed_title": "joanwestenberg.com",
           "title": "Why prediction markets are a sure sign that our civilisation is in decay",
           "link": "https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/"
-        },
-        {
-          "feed_title": "eli.thegreenplace.net",
-          "title": "Debugging WASM in Chrome DevTools",
-          "link": "https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/"
         }
       ],
-      "summary_zh": "2026-04-23 技术日报：The various steps of a UEFI network install from an Ubuntu server ISO；Why prediction markets are a sure sign that our civilisation is in decay；Debugging WASM in Chrome DevTools。",
-      "summary_en": "Daily brief (2026-04-23): The various steps of a UEFI network install from an Ubuntu server ISO; Why prediction markets are a sure sign that our civilisation is in decay; Debugging WASM in Chrome DevTools.",
+      "summary_zh": "2026-04-23 技术日报：The first Youtube video；The various steps of a UEFI network install from an Ubuntu server ISO；Why prediction markets are a sure sign that our civilisation is in decay。",
+      "summary_en": "Daily brief (2026-04-23): The first Youtube video; The various steps of a UEFI network install from an Ubuntu server ISO; Why prediction markets are a sure sign that our civilisation is in decay.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-23 日报】The various steps of a UEFI network install from an Ubuntu server ISO；Why prediction markets are a sure sign that our civilisation is in decay；Debugging WASM in Chrome DevTools。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-23): The various steps of a UEFI network install from an Ubuntu server ISO; Why prediction markets are a sure sign that our civilisation is in decay; Debugging WASM in Chrome DevTools. Actionable takeaways included. What would you ship ne"
+          "zh": "【2026-04-23 日报】The first Youtube video；The various steps of a UEFI network install from an Ubuntu server ISO；Why prediction markets are a sure sign that our civilisation is in decay。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-23): The first Youtube video; The various steps of a UEFI network install from an Ubuntu server ISO; Why prediction markets are a sure sign that our civilisation is in decay. Actionable takeaways included. What would you ship next? #AI #E"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-23）\n- The various steps of a UEFI network install from an Ubuntu server ISO\n- Why prediction markets are a sure sign that our civilisation is in decay\n- Debugging WASM in Chrome DevTools\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall\n- https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/\n- https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-23)\n- The various steps of a UEFI network install from an Ubuntu server ISO\n- Why prediction markets are a sure sign that our civilisation is in decay\n- Debugging WASM in Chrome DevTools\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall\n- https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/\n- https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-23）\n- The first Youtube video\n- The various steps of a UEFI network install from an Ubuntu server ISO\n- Why prediction markets are a sure sign that our civilisation is in decay\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-first-youtube-video/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-first-youtube-video\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall\n- https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-23)\n- The first Youtube video\n- The various steps of a UEFI network install from an Ubuntu server ISO\n- Why prediction markets are a sure sign that our civilisation is in decay\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-first-youtube-video/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-first-youtube-video\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall\n- https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The various steps of a UEFI network install from an Ubuntu server ISO；Why prediction markets are a sure sign that our civilisation is in decay；Debugging WASM in Chrome DevTools。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The various steps of a UEFI network install from an Ubuntu server ISO; Why prediction markets are a sure sign that our civilisation is in decay; Debugging WASM in Chrome DevTools.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The first Youtube video；The various steps of a UEFI network install from an Ubuntu server ISO；Why prediction markets are a sure sign that our civilisation is in decay。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The first Youtube video; The various steps of a UEFI network install from an Ubuntu server ISO; Why prediction markets are a sure sign that our civilisation is in decay.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
