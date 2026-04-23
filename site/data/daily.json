@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T21:14:06Z",
+  "generated_at": "2026-04-23T21:44:28Z",
   "days": [
     {
       "date": "2026-04-23",
-      "total": 17,
+      "total": 18,
       "feeds": [
-        "daringfireball.net (4)",
+        "daringfireball.net (5)",
         "johndcook.com (2)",
         "simonwillison.net (2)",
         "construction-physics.com (1)",
@@ -13,37 +13,42 @@
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Trump’s Blog Has Somehow Lost $1.1 Billion",
         "daringfireball.net · Nilay Patel: ‘Beware Software Brain’",
         "simonwillison.net · A pelican for GPT-5.5 via the semi-official Codex backdoor API",
         "daringfireball.net · Eight for Eight",
         "daringfireball.net · Microsoft Offers Voluntary Retirement to Long-Serving Employees",
-        "daringfireball.net · Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
-        "johndcook.com · Simple approximation to solve an oblique triangle"
+        "daringfireball.net · Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model"
       ],
       "key_points": [
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "Eight for Eight",
-        "Microsoft Offers Voluntary Retirement to Long-Serving Employees"
-      ],
-      "key_points_zh": [
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "Eight for Eight",
-        "Microsoft Offers Voluntary Retirement to Long-Serving Employees"
-      ],
-      "key_points_en": [
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "Eight for Eight",
-        "Microsoft Offers Voluntary Retirement to Long-Serving Employees"
-      ],
-      "tweet_drafts": [
+        "Trump’s Blog Has Somehow Lost $1.1 Billion",
         "Nilay Patel: ‘Beware Software Brain’",
         "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
         "Eight for Eight"
       ],
+      "key_points_zh": [
+        "Trump’s Blog Has Somehow Lost $1.1 Billion",
+        "Nilay Patel: ‘Beware Software Brain’",
+        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+        "Eight for Eight"
+      ],
+      "key_points_en": [
+        "Trump’s Blog Has Somehow Lost $1.1 Billion",
+        "Nilay Patel: ‘Beware Software Brain’",
+        "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+        "Eight for Eight"
+      ],
+      "tweet_drafts": [
+        "Trump’s Blog Has Somehow Lost $1.1 Billion",
+        "Nilay Patel: ‘Beware Software Brain’",
+        "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Trump’s Blog Has Somehow Lost $1.1 Billion",
+          "link": "https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Nilay Patel: ‘Beware Software Brain’",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
           "link": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Eight for Eight",
-          "link": "https://mastodon.social/@Cdespinosa/116439702239797827"
         }
       ],
-      "summary_zh": "2026-04-23 技术日报：Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API；Eight for Eight。",
-      "summary_en": "Daily brief (2026-04-23): Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API; Eight for Eight.",
+      "summary_zh": "2026-04-23 技术日报：Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API。",
+      "summary_en": "Daily brief (2026-04-23): Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-23 日报】Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API；Eight for Eight。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-23): Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API; Eight for Eight. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-23 日报】Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-23): Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubli"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-23）\n- Nilay Patel: ‘Beware Software Brain’\n- A pelican for GPT-5.5 via the semi-official Codex backdoor API\n- Eight for Eight\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n- https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything\n- https://mastodon.social/@Cdespinosa/116439702239797827\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-23)\n- Nilay Patel: ‘Beware Software Brain’\n- A pelican for GPT-5.5 via the semi-official Codex backdoor API\n- Eight for Eight\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n- https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything\n- https://mastodon.social/@Cdespinosa/116439702239797827\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-23）\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n- A pelican for GPT-5.5 via the semi-official Codex backdoor API\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n- https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-23)\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n- A pelican for GPT-5.5 via the semi-official Codex backdoor API\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n- https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API；Eight for Eight。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API; Eight for Eight.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’；A pelican for GPT-5.5 via the semi-official Codex backdoor API。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’; A pelican for GPT-5.5 via the semi-official Codex backdoor API.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
