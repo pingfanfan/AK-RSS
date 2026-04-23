@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-23T15:13:50Z",
+  "generated_at": "2026-04-23T16:07:29Z",
   "days": [
     {
       "date": "2026-04-23",
-      "total": 10,
+      "total": 11,
       "feeds": [
+        "johndcook.com (2)",
         "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
-        "johndcook.com (1)",
         "miguelgrinberg.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Simple approximation to solve an oblique triangle",
         "simonwillison.net · Quoting Maggie Appleton",
         "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
         "pluralistic.net · Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
         "johndcook.com · Simple approximation for solving a right triangle",
-        "construction-physics.com · Construction Costs Rarely Fall",
-        "shkspr.mobi · Sneaky spam in conversational replies to blog posts"
+        "construction-physics.com · Construction Costs Rarely Fall"
       ],
       "key_points": [
-        "Quoting Maggie Appleton",
-        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
-        "Simple approximation for solving a right triangle"
-      ],
-      "key_points_zh": [
-        "Quoting Maggie Appleton",
-        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
-        "Simple approximation for solving a right triangle"
-      ],
-      "key_points_en": [
-        "Quoting Maggie Appleton",
-        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
-        "Simple approximation for solving a right triangle"
-      ],
-      "tweet_drafts": [
+        "Simple approximation to solve an oblique triangle",
         "Quoting Maggie Appleton",
         "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
         "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)"
       ],
+      "key_points_zh": [
+        "Simple approximation to solve an oblique triangle",
+        "Quoting Maggie Appleton",
+        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
+        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)"
+      ],
+      "key_points_en": [
+        "Simple approximation to solve an oblique triangle",
+        "Quoting Maggie Appleton",
+        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
+        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)"
+      ],
+      "tweet_drafts": [
+        "Simple approximation to solve an oblique triangle",
+        "Quoting Maggie Appleton",
+        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Simple approximation to solve an oblique triangle",
+          "link": "https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Maggie Appleton",
@@ -53,27 +58,22 @@
           "feed_title": "miguelgrinberg.com",
           "title": "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
           "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
-          "link": "https://pluralistic.net/2026/04/23/poison-pill/"
         }
       ],
-      "summary_zh": "2026-04-23 技术日报：Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution；Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)。",
-      "summary_en": "Daily brief (2026-04-23): Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution; Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026).",
+      "summary_zh": "2026-04-23 技术日报：Simple approximation to solve an oblique triangle；Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution。",
+      "summary_en": "Daily brief (2026-04-23): Simple approximation to solve an oblique triangle; Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-23 日报】Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution；Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-23): Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution; Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026). Actionable takeaways include"
+          "zh": "【2026-04-23 日报】Simple approximation to solve an oblique triangle；Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-23): Simple approximation to solve an oblique triangle; Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-23）\n- Quoting Maggie Appleton\n- SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution\n- Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution\n- https://pluralistic.net/2026/04/23/poison-pill/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-23)\n- Quoting Maggie Appleton\n- SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution\n- Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution\n- https://pluralistic.net/2026/04/23/poison-pill/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-23）\n- Simple approximation to solve an oblique triangle\n- Quoting Maggie Appleton\n- SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-23)\n- Simple approximation to solve an oblique triangle\n- Quoting Maggie Appleton\n- SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution；Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution; Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Simple approximation to solve an oblique triangle；Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Simple approximation to solve an oblique triangle; Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
