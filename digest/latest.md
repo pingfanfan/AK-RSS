@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-23 16:07:14 UTC
+Generated at: 2026-04-23 16:59:15 UTC
 
-- [Simple approximation to solve an oblique triangle](https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/) (`johndcook.com`)
+- [Another crash caused by uninstaller code injection into Explorer](https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261) (`devblogs.microsoft.com/oldnewthing`)

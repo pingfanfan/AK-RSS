@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-04-23T16:07:29Z",
+  "generated_at": "2026-04-23T16:59:29Z",
   "days": [
     {
       "date": "2026-04-23",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "johndcook.com (2)",
         "construction-physics.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
-        "joanwestenberg.com (1)",
-        "miguelgrinberg.com (1)"
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
         "johndcook.com · Simple approximation to solve an oblique triangle",
+        "devblogs.microsoft.com/oldnewthing · Another crash caused by uninstaller code injection into Explorer",
         "simonwillison.net · Quoting Maggie Appleton",
         "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
         "pluralistic.net · Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)",
-        "johndcook.com · Simple approximation for solving a right triangle",
-        "construction-physics.com · Construction Costs Rarely Fall"
+        "johndcook.com · Simple approximation for solving a right triangle"
       ],
       "key_points": [
         "Simple approximation to solve an oblique triangle",
+        "Another crash caused by uninstaller code injection into Explorer",
         "Quoting Maggie Appleton",
-        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)"
+        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution"
       ],
       "key_points_zh": [
         "Simple approximation to solve an oblique triangle",
+        "Another crash caused by uninstaller code injection into Explorer",
         "Quoting Maggie Appleton",
-        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)"
+        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution"
       ],
       "key_points_en": [
         "Simple approximation to solve an oblique triangle",
+        "Another crash caused by uninstaller code injection into Explorer",
         "Quoting Maggie Appleton",
-        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-        "Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)"
+        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution"
       ],
       "tweet_drafts": [
         "Simple approximation to solve an oblique triangle",
-        "Quoting Maggie Appleton",
-        "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution"
+        "Another crash caused by uninstaller code injection into Explorer",
+        "Quoting Maggie Appleton"
       ],
       "sources": [
         {
@@ -50,30 +50,30 @@
           "link": "https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/"
         },
         {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Another crash caused by uninstaller code injection into Explorer",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261"
+        },
+        {
           "feed_title": "simonwillison.net",
           "title": "Quoting Maggie Appleton",
           "link": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything"
-        },
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution"
         }
       ],
-      "summary_zh": "2026-04-23 技术日报：Simple approximation to solve an oblique triangle；Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution。",
-      "summary_en": "Daily brief (2026-04-23): Simple approximation to solve an oblique triangle; Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution.",
+      "summary_zh": "2026-04-23 技术日报：Simple approximation to solve an oblique triangle；Another crash caused by uninstaller code injection into Explorer；Quoting Maggie Appleton。",
+      "summary_en": "Daily brief (2026-04-23): Simple approximation to solve an oblique triangle; Another crash caused by uninstaller code injection into Explorer; Quoting Maggie Appleton.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-23 日报】Simple approximation to solve an oblique triangle；Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-23): Simple approximation to solve an oblique triangle; Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-23 日报】Simple approximation to solve an oblique triangle；Another crash caused by uninstaller code injection into Explorer；Quoting Maggie Appleton。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-23): Simple approximation to solve an oblique triangle; Another crash caused by uninstaller code injection into Explorer; Quoting Maggie Appleton. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-23）\n- Simple approximation to solve an oblique triangle\n- Quoting Maggie Appleton\n- SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-23)\n- Simple approximation to solve an oblique triangle\n- Quoting Maggie Appleton\n- SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-23）\n- Simple approximation to solve an oblique triangle\n- Another crash caused by uninstaller code injection into Explorer\n- Quoting Maggie Appleton\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-23)\n- Simple approximation to solve an oblique triangle\n- Another crash caused by uninstaller code injection into Explorer\n- Quoting Maggie Appleton\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261\n- https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Simple approximation to solve an oblique triangle；Quoting Maggie Appleton；SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Simple approximation to solve an oblique triangle; Quoting Maggie Appleton; SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Simple approximation to solve an oblique triangle；Another crash caused by uninstaller code injection into Explorer；Quoting Maggie Appleton。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Simple approximation to solve an oblique triangle; Another crash caused by uninstaller code injection into Explorer; Quoting Maggie Appleton.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
