@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-23T17:38:22Z",
+  "generated_at": "2026-04-23T18:18:33Z",
   "days": [
     {
       "date": "2026-04-23",
-      "total": 13,
+      "total": 14,
       "feeds": [
+        "daringfireball.net (2)",
         "johndcook.com (2)",
         "construction-physics.com (1)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Microsoft Offers Voluntary Retirement to Long-Serving Employees",
         "daringfireball.net · Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
         "johndcook.com · Simple approximation to solve an oblique triangle",
         "devblogs.microsoft.com/oldnewthing · Another crash caused by uninstaller code injection into Explorer",
         "simonwillison.net · Quoting Maggie Appleton",
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution",
-        "pluralistic.net · Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)"
+        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution"
       ],
       "key_points": [
-        "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
-        "Simple approximation to solve an oblique triangle",
-        "Another crash caused by uninstaller code injection into Explorer",
-        "Quoting Maggie Appleton"
-      ],
-      "key_points_zh": [
-        "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
-        "Simple approximation to solve an oblique triangle",
-        "Another crash caused by uninstaller code injection into Explorer",
-        "Quoting Maggie Appleton"
-      ],
-      "key_points_en": [
-        "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
-        "Simple approximation to solve an oblique triangle",
-        "Another crash caused by uninstaller code injection into Explorer",
-        "Quoting Maggie Appleton"
-      ],
-      "tweet_drafts": [
+        "Microsoft Offers Voluntary Retirement to Long-Serving Employees",
         "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
         "Simple approximation to solve an oblique triangle",
         "Another crash caused by uninstaller code injection into Explorer"
       ],
+      "key_points_zh": [
+        "Microsoft Offers Voluntary Retirement to Long-Serving Employees",
+        "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
+        "Simple approximation to solve an oblique triangle",
+        "Another crash caused by uninstaller code injection into Explorer"
+      ],
+      "key_points_en": [
+        "Microsoft Offers Voluntary Retirement to Long-Serving Employees",
+        "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
+        "Simple approximation to solve an oblique triangle",
+        "Another crash caused by uninstaller code injection into Explorer"
+      ],
+      "tweet_drafts": [
+        "Microsoft Offers Voluntary Retirement to Long-Serving Employees",
+        "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
+        "Simple approximation to solve an oblique triangle"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Microsoft Offers Voluntary Retirement to Long-Serving Employees",
+          "link": "https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "Simple approximation to solve an oblique triangle",
           "link": "https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Another crash caused by uninstaller code injection into Explorer",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261"
         }
       ],
-      "summary_zh": "2026-04-23 技术日报：Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model；Simple approximation to solve an oblique triangle；Another crash caused by uninstaller code injection into Explorer。",
-      "summary_en": "Daily brief (2026-04-23): Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model; Simple approximation to solve an oblique triangle; Another crash caused by uninstaller code injection into Explore",
+      "summary_zh": "2026-04-23 技术日报：Microsoft Offers Voluntary Retirement to Long-Serving Employees；Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model；Simple approximation to solve an oblique triangle。",
+      "summary_en": "Daily brief (2026-04-23): Microsoft Offers Voluntary Retirement to Long-Serving Employees; Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model; Simple approximation to solve an oblique triangle",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-23 日报】Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model；Simple approximation to solve an oblique triangle；Another crash caused by uninstaller code injection into Explorer。我把可执行建议整理好了",
-          "en": "AK-RSS Daily (2026-04-23): Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model; Simple approximation to solve an oblique triangle; Another crash caused by uninstaller code injection into Explor"
+          "zh": "【2026-04-23 日报】Microsoft Offers Voluntary Retirement to Long-Serving Employees；Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model；Simple approximation to solve an oblique triangle。我把可执行建议整理好了，",
+          "en": "AK-RSS Daily (2026-04-23): Microsoft Offers Voluntary Retirement to Long-Serving Employees; Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model; Simple approximation to solve an oblique triangl"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-23）\n- Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model\n- Simple approximation to solve an oblique triangle\n- Another crash caused by uninstaller code injection into Explorer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-23)\n- Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model\n- Simple approximation to solve an oblique triangle\n- Another crash caused by uninstaller code injection into Explorer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n- https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-23）\n- Microsoft Offers Voluntary Retirement to Long-Serving Employees\n- Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model\n- Simple approximation to solve an oblique triangle\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes\n- https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-23)\n- Microsoft Offers Voluntary Retirement to Long-Serving Employees\n- Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model\n- Simple approximation to solve an oblique triangle\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes\n- https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users\n- https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model；Simple approximation to solve an oblique triangle；Another crash caused by uninstaller code injection into Explorer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model; Simple approximation to solve an oblique triangle; Another crash caused by uninstaller code injection into Explorer.\nI turned them into an action-ready daily"
+          "zh": "今天最值得看的 3 个点：Microsoft Offers Voluntary Retirement to Long-Serving Employees；Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model；Simple approximation to solve an oblique triangle。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Microsoft Offers Voluntary Retirement to Long-Serving Employees; Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model; Simple approximation to solve an oblique triangle.\nI turned them into an action-ready daily b"
         }
       }
     },
