@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-23 11:22:55 UTC
+Generated at: 2026-04-23 11:48:06 UTC
 
-- [The first Youtube video](https://dfarq.homeip.net/the-first-youtube-video/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-youtube-video) (`dfarq.homeip.net`)
+- [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) (`shkspr.mobi`)
