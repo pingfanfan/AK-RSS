@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-24 11:22:44 UTC
+Generated at: 2026-04-24 11:47:47 UTC
 
-- [Apple IIc: A smaller, sleeker Apple II from 1984](https://dfarq.homeip.net/apple-iic/?utm_source=rss&utm_medium=rss&utm_campaign=apple-iic) (`dfarq.homeip.net`)
+- [Does Mythos mean you need to shut down your Open Source repositories?](https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/) (`shkspr.mobi`)
