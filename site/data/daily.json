@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-04-24T14:55:08Z",
+  "generated_at": "2026-04-24T15:23:48Z",
   "days": [
     {
       "date": "2026-04-24",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "daringfireball.net (3)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "pluralistic.net (1)",
-        "seangoedecke.com (1)",
-        "shkspr.mobi (1)"
+        "seangoedecke.com (1)"
       ],
       "highlights": [
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’",
+        "devblogs.microsoft.com/oldnewthing · Defending against exceptions in a scope_exit RAII type",
         "jeffgeerling.com · New 10 GbE USB adapters are cooler, smaller, cheaper",
         "daringfireball.net · XOXO Explore",
         "pluralistic.net · Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)",
-        "shkspr.mobi · Does Mythos mean you need to shut down your Open Source repositories?",
-        "dfarq.homeip.net · Apple IIc: A smaller, sleeker Apple II from 1984"
+        "shkspr.mobi · Does Mythos mean you need to shut down your Open Source repositories?"
       ],
       "key_points": [
         "★ ‘We Don’t Serve Their Kind Here’",
+        "Defending against exceptions in a scope_exit RAII type",
         "New 10 GbE USB adapters are cooler, smaller, cheaper",
-        "XOXO Explore",
-        "Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)"
+        "XOXO Explore"
       ],
       "key_points_zh": [
         "★ ‘We Don’t Serve Their Kind Here’",
+        "Defending against exceptions in a scope_exit RAII type",
         "New 10 GbE USB adapters are cooler, smaller, cheaper",
-        "XOXO Explore",
-        "Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)"
+        "XOXO Explore"
       ],
       "key_points_en": [
         "★ ‘We Don’t Serve Their Kind Here’",
+        "Defending against exceptions in a scope_exit RAII type",
         "New 10 GbE USB adapters are cooler, smaller, cheaper",
-        "XOXO Explore",
-        "Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)"
+        "XOXO Explore"
       ],
       "tweet_drafts": [
         "★ ‘We Don’t Serve Their Kind Here’",
-        "New 10 GbE USB adapters are cooler, smaller, cheaper",
-        "XOXO Explore"
+        "Defending against exceptions in a scope_exit RAII type",
+        "New 10 GbE USB adapters are cooler, smaller, cheaper"
       ],
       "sources": [
         {
@@ -50,30 +50,30 @@
           "link": "https://daringfireball.net/2026/04/we_dont_serve_their_kind_here"
         },
         {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Defending against exceptions in a scope_exit RAII type",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266"
+        },
+        {
           "feed_title": "jeffgeerling.com",
           "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
           "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "XOXO Explore",
-          "link": "https://xoxofest.com/blog/2026-launching-xoxo-explore/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：★ ‘We Don’t Serve Their Kind Here’；New 10 GbE USB adapters are cooler, smaller, cheaper；XOXO Explore。",
-      "summary_en": "Daily brief (2026-04-24): ★ ‘We Don’t Serve Their Kind Here’; New 10 GbE USB adapters are cooler, smaller, cheaper; XOXO Explore.",
+      "summary_zh": "2026-04-24 技术日报：★ ‘We Don’t Serve Their Kind Here’；Defending against exceptions in a scope_exit RAII type；New 10 GbE USB adapters are cooler, smaller, cheaper。",
+      "summary_en": "Daily brief (2026-04-24): ★ ‘We Don’t Serve Their Kind Here’; Defending against exceptions in a scope_exit RAII type; New 10 GbE USB adapters are cooler, smaller, cheaper.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】★ ‘We Don’t Serve Their Kind Here’；New 10 GbE USB adapters are cooler, smaller, cheaper；XOXO Explore。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): ★ ‘We Don’t Serve Their Kind Here’; New 10 GbE USB adapters are cooler, smaller, cheaper; XOXO Explore. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】★ ‘We Don’t Serve Their Kind Here’；Defending against exceptions in a scope_exit RAII type；New 10 GbE USB adapters are cooler, smaller, cheaper。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): ★ ‘We Don’t Serve Their Kind Here’; Defending against exceptions in a scope_exit RAII type; New 10 GbE USB adapters are cooler, smaller, cheaper. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubli"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- ★ ‘We Don’t Serve Their Kind Here’\n- New 10 GbE USB adapters are cooler, smaller, cheaper\n- XOXO Explore\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/04/we_dont_serve_their_kind_here\n- https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\n- https://xoxofest.com/blog/2026-launching-xoxo-explore/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- ★ ‘We Don’t Serve Their Kind Here’\n- New 10 GbE USB adapters are cooler, smaller, cheaper\n- XOXO Explore\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/04/we_dont_serve_their_kind_here\n- https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\n- https://xoxofest.com/blog/2026-launching-xoxo-explore/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- ★ ‘We Don’t Serve Their Kind Here’\n- Defending against exceptions in a scope_exit RAII type\n- New 10 GbE USB adapters are cooler, smaller, cheaper\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/04/we_dont_serve_their_kind_here\n- https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266\n- https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- ★ ‘We Don’t Serve Their Kind Here’\n- Defending against exceptions in a scope_exit RAII type\n- New 10 GbE USB adapters are cooler, smaller, cheaper\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/04/we_dont_serve_their_kind_here\n- https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266\n- https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ ‘We Don’t Serve Their Kind Here’；New 10 GbE USB adapters are cooler, smaller, cheaper；XOXO Explore。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ ‘We Don’t Serve Their Kind Here’; New 10 GbE USB adapters are cooler, smaller, cheaper; XOXO Explore.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：★ ‘We Don’t Serve Their Kind Here’；Defending against exceptions in a scope_exit RAII type；New 10 GbE USB adapters are cooler, smaller, cheaper。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ ‘We Don’t Serve Their Kind Here’; Defending against exceptions in a scope_exit RAII type; New 10 GbE USB adapters are cooler, smaller, cheaper.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
