@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-24 13:29:05 UTC
+Generated at: 2026-04-24 14:10:20 UTC
 
-- [XOXO Explore](https://xoxofest.com/blog/2026-launching-xoxo-explore/) (`daringfireball.net`)
-- [Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)](https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/) (`pluralistic.net`)
+- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) (`jeffgeerling.com`)
