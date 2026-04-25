@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T16:09:04Z",
+  "generated_at": "2026-04-25T16:43:52Z",
   "days": [
     {
       "date": "2026-04-25",
-      "total": 10,
+      "total": 11,
       "feeds": [
-        "johndcook.com (2)",
+        "johndcook.com (3)",
         "simonwillison.net (2)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
@@ -13,37 +13,42 @@
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Closed-form solution to the nonlinear pendulum equation",
         "construction-physics.com · Reading List 04/25/26",
         "johndcook.com · nth derivative of a quotient",
         "simonwillison.net · Quoting Romain Huet",
         "shkspr.mobi · You can parse an .env file as an .ini with PHP - but there's a catch",
-        "pluralistic.net · Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)",
-        "idiallo.com · What Do You Charge For?"
+        "pluralistic.net · Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)"
       ],
       "key_points": [
-        "Reading List 04/25/26",
-        "nth derivative of a quotient",
-        "Quoting Romain Huet",
-        "You can parse an .env file as an .ini with PHP - but there's a catch"
-      ],
-      "key_points_zh": [
-        "Reading List 04/25/26",
-        "nth derivative of a quotient",
-        "Quoting Romain Huet",
-        "You can parse an .env file as an .ini with PHP - but there's a catch"
-      ],
-      "key_points_en": [
-        "Reading List 04/25/26",
-        "nth derivative of a quotient",
-        "Quoting Romain Huet",
-        "You can parse an .env file as an .ini with PHP - but there's a catch"
-      ],
-      "tweet_drafts": [
+        "Closed-form solution to the nonlinear pendulum equation",
         "Reading List 04/25/26",
         "nth derivative of a quotient",
         "Quoting Romain Huet"
       ],
+      "key_points_zh": [
+        "Closed-form solution to the nonlinear pendulum equation",
+        "Reading List 04/25/26",
+        "nth derivative of a quotient",
+        "Quoting Romain Huet"
+      ],
+      "key_points_en": [
+        "Closed-form solution to the nonlinear pendulum equation",
+        "Reading List 04/25/26",
+        "nth derivative of a quotient",
+        "Quoting Romain Huet"
+      ],
+      "tweet_drafts": [
+        "Closed-form solution to the nonlinear pendulum equation",
+        "Reading List 04/25/26",
+        "nth derivative of a quotient"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Closed-form solution to the nonlinear pendulum equation",
+          "link": "https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Reading List 04/25/26",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "nth derivative of a quotient",
           "link": "https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Romain Huet",
-          "link": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-25 技术日报：Reading List 04/25/26；nth derivative of a quotient；Quoting Romain Huet。",
-      "summary_en": "Daily brief (2026-04-25): Reading List 04/25/26; nth derivative of a quotient; Quoting Romain Huet.",
+      "summary_zh": "2026-04-25 技术日报：Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26；nth derivative of a quotient。",
+      "summary_en": "Daily brief (2026-04-25): Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26; nth derivative of a quotient.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-25 日报】Reading List 04/25/26；nth derivative of a quotient；Quoting Romain Huet。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-25): Reading List 04/25/26; nth derivative of a quotient; Quoting Romain Huet. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-25 日报】Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26；nth derivative of a quotient。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-25): Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26; nth derivative of a quotient. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-25）\n- Reading List 04/25/26\n- nth derivative of a quotient\n- Quoting Romain Huet\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n- https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-25)\n- Reading List 04/25/26\n- nth derivative of a quotient\n- Quoting Romain Huet\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n- https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-25）\n- Closed-form solution to the nonlinear pendulum equation\n- Reading List 04/25/26\n- nth derivative of a quotient\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-25)\n- Closed-form solution to the nonlinear pendulum equation\n- Reading List 04/25/26\n- nth derivative of a quotient\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reading List 04/25/26；nth derivative of a quotient；Quoting Romain Huet。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reading List 04/25/26; nth derivative of a quotient; Quoting Romain Huet.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26；nth derivative of a quotient。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26; nth derivative of a quotient.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -471,33 +471,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -511,25 +511,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
