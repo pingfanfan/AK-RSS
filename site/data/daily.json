@@ -1,24 +1,96 @@
 {
-  "generated_at": "2026-04-24T22:43:16Z",
+  "generated_at": "2026-04-25T06:25:37Z",
   "days": [
     {
+      "date": "2026-04-25",
+      "total": 4,
+      "feeds": [
+        "daringfireball.net (1)",
+        "johndcook.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · GPT-5.5 prompting guide",
+        "utcc.utoronto.ca/~cks · Our backup MX server was easy to build, but yours might not be",
+        "daringfireball.net · ★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
+        "johndcook.com · How nonlinearity affects a pendulum"
+      ],
+      "key_points": [
+        "GPT-5.5 prompting guide",
+        "Our backup MX server was easy to build, but yours might not be",
+        "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
+        "How nonlinearity affects a pendulum"
+      ],
+      "key_points_zh": [
+        "GPT-5.5 prompting guide",
+        "Our backup MX server was easy to build, but yours might not be",
+        "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
+        "How nonlinearity affects a pendulum"
+      ],
+      "key_points_en": [
+        "GPT-5.5 prompting guide",
+        "Our backup MX server was easy to build, but yours might not be",
+        "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
+        "How nonlinearity affects a pendulum"
+      ],
+      "tweet_drafts": [
+        "GPT-5.5 prompting guide",
+        "Our backup MX server was easy to build, but yours might not be",
+        "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "GPT-5.5 prompting guide",
+          "link": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Our backup MX server was easy to build, but yours might not be",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
+          "link": "https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition"
+        }
+      ],
+      "summary_zh": "2026-04-25 技术日报：GPT-5.5 prompting guide；Our backup MX server was easy to build, but yours might not be；★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition。",
+      "summary_en": "Daily brief (2026-04-25): GPT-5.5 prompting guide; Our backup MX server was easy to build, but yours might not be; ★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-25 日报】GPT-5.5 prompting guide；Our backup MX server was easy to build, but yours might not be；★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-25): GPT-5.5 prompting guide; Our backup MX server was easy to build, but yours might not be; ★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition. Actionable takeaways included. What would you ship next?"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-25）\n- GPT-5.5 prompting guide\n- Our backup MX server was easy to build, but yours might not be\n- ★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy\n- https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-25)\n- GPT-5.5 prompting guide\n- Our backup MX server was easy to build, but yours might not be\n- ★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy\n- https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：GPT-5.5 prompting guide；Our backup MX server was easy to build, but yours might not be；★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: GPT-5.5 prompting guide; Our backup MX server was easy to build, but yours might not be; ★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-04-24",
-      "total": 16,
+      "total": 17,
       "feeds": [
         "daringfireball.net (4)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
         "filfre.net (1)",
-        "jeffgeerling.com (1)"
+        "geohot.github.io (1)"
       ],
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
-        "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’",
-        "jeffgeerling.com · New 10 GbE USB adapters are cooler, smaller, cheaper"
+        "geohot.github.io · A Mutating AI Powered Virus",
+        "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：datasette-showboat 0.1a2；Quoting Richard Fontana；Vibe coding SwiftUI apps is a lot of fun。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: datasette-showboat 0.1a2; Quoting Richard Fontana; Vibe coding SwiftUI apps is a lot of fun.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-03-26",
-      "total": 22,
-      "feeds": [
-        "daringfireball.net (9)",
-        "johndcook.com (2)",
-        "utcc.utoronto.ca/~cks (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "idiallo.com · How we get radicalized in America",
-        "utcc.utoronto.ca/~cks · Considering mmap() verus plain reads for my recent code",
-        "joanwestenberg.com · Members Only: On Cathedral thinking",
-        "daringfireball.net · The Apple Charging Situation",
-        "johndcook.com · Lebesgue constants",
-        "daringfireball.net · You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4"
-      ],
-      "key_points": [
-        "How we get radicalized in America",
-        "Considering mmap() verus plain reads for my recent code",
-        "Members Only: On Cathedral thinking",
-        "The Apple Charging Situation"
-      ],
-      "key_points_zh": [
-        "How we get radicalized in America",
-        "Considering mmap() verus plain reads for my recent code",
-        "Members Only: On Cathedral thinking",
-        "The Apple Charging Situation"
-      ],
-      "key_points_en": [
-        "How we get radicalized in America",
-        "Considering mmap() verus plain reads for my recent code",
-        "Members Only: On Cathedral thinking",
-        "The Apple Charging Situation"
-      ],
-      "tweet_drafts": [
-        "How we get radicalized in America",
-        "Considering mmap() verus plain reads for my recent code",
-        "Members Only: On Cathedral thinking"
-      ],
-      "sources": [
-        {
-          "feed_title": "idiallo.com",
-          "title": "How we get radicalized in America",
-          "link": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Considering mmap() verus plain reads for my recent code",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "Members Only: On Cathedral thinking",
-          "link": "https://www.joanwestenberg.com/members-only-on-cathedral-thinking/"
-        }
-      ],
-      "summary_zh": "2026-03-26 技术日报：How we get radicalized in America；Considering mmap() verus plain reads for my recent code；Members Only: On Cathedral thinking。",
-      "summary_en": "Daily brief (2026-03-26): How we get radicalized in America; Considering mmap() verus plain reads for my recent code; Members Only: On Cathedral thinking.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-26 日报】How we get radicalized in America；Considering mmap() verus plain reads for my recent code；Members Only: On Cathedral thinking。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-26): How we get radicalized in America; Considering mmap() verus plain reads for my recent code; Members Only: On Cathedral thinking. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-26）\n- How we get radicalized in America\n- Considering mmap() verus plain reads for my recent code\n- Members Only: On Cathedral thinking\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts\n- https://www.joanwestenberg.com/members-only-on-cathedral-thinking/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-26)\n- How we get radicalized in America\n- Considering mmap() verus plain reads for my recent code\n- Members Only: On Cathedral thinking\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts\n- https://www.joanwestenberg.com/members-only-on-cathedral-thinking/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：How we get radicalized in America；Considering mmap() verus plain reads for my recent code；Members Only: On Cathedral thinking。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How we get radicalized in America; Considering mmap() verus plain reads for my recent code; Members Only: On Cathedral thinking.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
