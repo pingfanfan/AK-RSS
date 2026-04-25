@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-25 16:43:38 UTC
+Generated at: 2026-04-25 17:11:53 UTC
 
-- [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/) (`johndcook.com`)
+- [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything) (`simonwillison.net`)

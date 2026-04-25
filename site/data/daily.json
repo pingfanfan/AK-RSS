@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-25T16:43:52Z",
+  "generated_at": "2026-04-25T17:12:07Z",
   "days": [
     {
       "date": "2026-04-25",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "johndcook.com (3)",
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "idiallo.com (1)",
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · WHY ARE YOU LIKE THIS",
         "johndcook.com · Closed-form solution to the nonlinear pendulum equation",
         "construction-physics.com · Reading List 04/25/26",
         "johndcook.com · nth derivative of a quotient",
         "simonwillison.net · Quoting Romain Huet",
-        "shkspr.mobi · You can parse an .env file as an .ini with PHP - but there's a catch",
-        "pluralistic.net · Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)"
+        "shkspr.mobi · You can parse an .env file as an .ini with PHP - but there's a catch"
       ],
       "key_points": [
-        "Closed-form solution to the nonlinear pendulum equation",
-        "Reading List 04/25/26",
-        "nth derivative of a quotient",
-        "Quoting Romain Huet"
-      ],
-      "key_points_zh": [
-        "Closed-form solution to the nonlinear pendulum equation",
-        "Reading List 04/25/26",
-        "nth derivative of a quotient",
-        "Quoting Romain Huet"
-      ],
-      "key_points_en": [
-        "Closed-form solution to the nonlinear pendulum equation",
-        "Reading List 04/25/26",
-        "nth derivative of a quotient",
-        "Quoting Romain Huet"
-      ],
-      "tweet_drafts": [
+        "WHY ARE YOU LIKE THIS",
         "Closed-form solution to the nonlinear pendulum equation",
         "Reading List 04/25/26",
         "nth derivative of a quotient"
       ],
+      "key_points_zh": [
+        "WHY ARE YOU LIKE THIS",
+        "Closed-form solution to the nonlinear pendulum equation",
+        "Reading List 04/25/26",
+        "nth derivative of a quotient"
+      ],
+      "key_points_en": [
+        "WHY ARE YOU LIKE THIS",
+        "Closed-form solution to the nonlinear pendulum equation",
+        "Reading List 04/25/26",
+        "nth derivative of a quotient"
+      ],
+      "tweet_drafts": [
+        "WHY ARE YOU LIKE THIS",
+        "Closed-form solution to the nonlinear pendulum equation",
+        "Reading List 04/25/26"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "WHY ARE YOU LIKE THIS",
+          "link": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Closed-form solution to the nonlinear pendulum equation",
@@ -53,27 +58,22 @@
           "feed_title": "construction-physics.com",
           "title": "Reading List 04/25/26",
           "link": "https://www.construction-physics.com/p/reading-list-042526"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "nth derivative of a quotient",
-          "link": "https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/"
         }
       ],
-      "summary_zh": "2026-04-25 技术日报：Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26；nth derivative of a quotient。",
-      "summary_en": "Daily brief (2026-04-25): Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26; nth derivative of a quotient.",
+      "summary_zh": "2026-04-25 技术日报：WHY ARE YOU LIKE THIS；Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26。",
+      "summary_en": "Daily brief (2026-04-25): WHY ARE YOU LIKE THIS; Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-25 日报】Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26；nth derivative of a quotient。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-25): Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26; nth derivative of a quotient. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-25 日报】WHY ARE YOU LIKE THIS；Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-25): WHY ARE YOU LIKE THIS; Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-25）\n- Closed-form solution to the nonlinear pendulum equation\n- Reading List 04/25/26\n- nth derivative of a quotient\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-25)\n- Closed-form solution to the nonlinear pendulum equation\n- Reading List 04/25/26\n- nth derivative of a quotient\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-25）\n- WHY ARE YOU LIKE THIS\n- Closed-form solution to the nonlinear pendulum equation\n- Reading List 04/25/26\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything\n- https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/\n- https://www.construction-physics.com/p/reading-list-042526\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-25)\n- WHY ARE YOU LIKE THIS\n- Closed-form solution to the nonlinear pendulum equation\n- Reading List 04/25/26\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything\n- https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/\n- https://www.construction-physics.com/p/reading-list-042526\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26；nth derivative of a quotient。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26; nth derivative of a quotient.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：WHY ARE YOU LIKE THIS；Closed-form solution to the nonlinear pendulum equation；Reading List 04/25/26。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: WHY ARE YOU LIKE THIS; Closed-form solution to the nonlinear pendulum equation; Reading List 04/25/26.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -91,33 +91,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -131,25 +131,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
