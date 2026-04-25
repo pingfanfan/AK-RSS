@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-25T14:14:16Z",
+  "generated_at": "2026-04-25T14:43:48Z",
   "days": [
     {
       "date": "2026-04-25",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "johndcook.com (2)",
         "simonwillison.net (2)",
+        "construction-physics.com (1)",
         "daringfireball.net (1)",
         "idiallo.com (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "construction-physics.com · Reading List 04/25/26",
         "johndcook.com · nth derivative of a quotient",
         "simonwillison.net · Quoting Romain Huet",
         "shkspr.mobi · You can parse an .env file as an .ini with PHP - but there's a catch",
         "pluralistic.net · Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)",
-        "idiallo.com · What Do You Charge For?",
-        "simonwillison.net · GPT-5.5 prompting guide"
+        "idiallo.com · What Do You Charge For?"
       ],
       "key_points": [
-        "nth derivative of a quotient",
-        "Quoting Romain Huet",
-        "You can parse an .env file as an .ini with PHP - but there's a catch",
-        "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)"
-      ],
-      "key_points_zh": [
-        "nth derivative of a quotient",
-        "Quoting Romain Huet",
-        "You can parse an .env file as an .ini with PHP - but there's a catch",
-        "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)"
-      ],
-      "key_points_en": [
-        "nth derivative of a quotient",
-        "Quoting Romain Huet",
-        "You can parse an .env file as an .ini with PHP - but there's a catch",
-        "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)"
-      ],
-      "tweet_drafts": [
+        "Reading List 04/25/26",
         "nth derivative of a quotient",
         "Quoting Romain Huet",
         "You can parse an .env file as an .ini with PHP - but there's a catch"
       ],
+      "key_points_zh": [
+        "Reading List 04/25/26",
+        "nth derivative of a quotient",
+        "Quoting Romain Huet",
+        "You can parse an .env file as an .ini with PHP - but there's a catch"
+      ],
+      "key_points_en": [
+        "Reading List 04/25/26",
+        "nth derivative of a quotient",
+        "Quoting Romain Huet",
+        "You can parse an .env file as an .ini with PHP - but there's a catch"
+      ],
+      "tweet_drafts": [
+        "Reading List 04/25/26",
+        "nth derivative of a quotient",
+        "Quoting Romain Huet"
+      ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Reading List 04/25/26",
+          "link": "https://www.construction-physics.com/p/reading-list-042526"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "nth derivative of a quotient",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Romain Huet",
           "link": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "You can parse an .env file as an .ini with PHP - but there's a catch",
-          "link": "https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/"
         }
       ],
-      "summary_zh": "2026-04-25 技术日报：nth derivative of a quotient；Quoting Romain Huet；You can parse an .env file as an .ini with PHP - but there's a catch。",
-      "summary_en": "Daily brief (2026-04-25): nth derivative of a quotient; Quoting Romain Huet; You can parse an .env file as an .ini with PHP - but there's a catch.",
+      "summary_zh": "2026-04-25 技术日报：Reading List 04/25/26；nth derivative of a quotient；Quoting Romain Huet。",
+      "summary_en": "Daily brief (2026-04-25): Reading List 04/25/26; nth derivative of a quotient; Quoting Romain Huet.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-25 日报】nth derivative of a quotient；Quoting Romain Huet；You can parse an .env file as an .ini with PHP - but there's a catch。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-25): nth derivative of a quotient; Quoting Romain Huet; You can parse an .env file as an .ini with PHP - but there's a catch. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-25 日报】Reading List 04/25/26；nth derivative of a quotient；Quoting Romain Huet。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-25): Reading List 04/25/26; nth derivative of a quotient; Quoting Romain Huet. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-25）\n- nth derivative of a quotient\n- Quoting Romain Huet\n- You can parse an .env file as an .ini with PHP - but there's a catch\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n- https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything\n- https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-25)\n- nth derivative of a quotient\n- Quoting Romain Huet\n- You can parse an .env file as an .ini with PHP - but there's a catch\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n- https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything\n- https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-25）\n- Reading List 04/25/26\n- nth derivative of a quotient\n- Quoting Romain Huet\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n- https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-25)\n- Reading List 04/25/26\n- nth derivative of a quotient\n- Quoting Romain Huet\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-042526\n- https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/\n- https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：nth derivative of a quotient；Quoting Romain Huet；You can parse an .env file as an .ini with PHP - but there's a catch。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: nth derivative of a quotient; Quoting Romain Huet; You can parse an .env file as an .ini with PHP - but there's a catch.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Reading List 04/25/26；nth derivative of a quotient；Quoting Romain Huet。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Reading List 04/25/26; nth derivative of a quotient; Quoting Romain Huet.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
