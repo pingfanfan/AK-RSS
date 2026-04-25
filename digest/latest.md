@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-25 12:45:05 UTC
+Generated at: 2026-04-25 13:25:59 UTC
 
-- [Quoting Romain Huet](https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything) (`simonwillison.net`)
+- [nth derivative of a quotient](https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/) (`johndcook.com`)
