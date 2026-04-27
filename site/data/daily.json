@@ -1,45 +1,97 @@
 {
-  "generated_at": "2026-04-26T22:43:18Z",
+  "generated_at": "2026-04-27T06:45:44Z",
   "days": [
     {
-      "date": "2026-04-26",
-      "total": 4,
+      "date": "2026-04-27",
+      "total": 1,
       "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Browsers, OCSP, and a view of the web in practice"
+      ],
+      "key_points": [
+        "Browsers, OCSP, and a view of the web in practice"
+      ],
+      "key_points_zh": [
+        "Browsers, OCSP, and a view of the web in practice"
+      ],
+      "key_points_en": [
+        "Browsers, OCSP, and a view of the web in practice"
+      ],
+      "tweet_drafts": [
+        "Browsers, OCSP, and a view of the web in practice"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Browsers, OCSP, and a view of the web in practice",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange"
+        }
+      ],
+      "summary_zh": "2026-04-27 技术日报：Browsers, OCSP, and a view of the web in practice。",
+      "summary_en": "Daily brief (2026-04-27): Browsers, OCSP, and a view of the web in practice.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-27 日报】Browsers, OCSP, and a view of the web in practice。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-27): Browsers, OCSP, and a view of the web in practice. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-27）\n- Browsers, OCSP, and a view of the web in practice\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-27)\n- Browsers, OCSP, and a view of the web in practice\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Browsers, OCSP, and a view of the web in practice。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Browsers, OCSP, and a view of the web in practice.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-04-26",
+      "total": 5,
+      "feeds": [
+        "blog.jim-nielsen.com (1)",
         "computer.rip (1)",
         "daringfireball.net (1)",
         "miguelgrinberg.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · Collective Speed Is Not the Summation of Individual Speed",
         "daringfireball.net · Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
         "miguelgrinberg.com · How Bitwarden Encrypts and Decrypts Secrets",
         "utcc.utoronto.ca/~cks · Understanding the Ubuntu server installer initramfs",
         "computer.rip · voice modems"
       ],
       "key_points": [
-        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "How Bitwarden Encrypts and Decrypts Secrets",
-        "Understanding the Ubuntu server installer initramfs",
-        "voice modems"
-      ],
-      "key_points_zh": [
-        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "How Bitwarden Encrypts and Decrypts Secrets",
-        "Understanding the Ubuntu server installer initramfs",
-        "voice modems"
-      ],
-      "key_points_en": [
-        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "How Bitwarden Encrypts and Decrypts Secrets",
-        "Understanding the Ubuntu server installer initramfs",
-        "voice modems"
-      ],
-      "tweet_drafts": [
+        "Collective Speed Is Not the Summation of Individual Speed",
         "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
         "How Bitwarden Encrypts and Decrypts Secrets",
         "Understanding the Ubuntu server installer initramfs"
       ],
+      "key_points_zh": [
+        "Collective Speed Is Not the Summation of Individual Speed",
+        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
+        "How Bitwarden Encrypts and Decrypts Secrets",
+        "Understanding the Ubuntu server installer initramfs"
+      ],
+      "key_points_en": [
+        "Collective Speed Is Not the Summation of Individual Speed",
+        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
+        "How Bitwarden Encrypts and Decrypts Secrets",
+        "Understanding the Ubuntu server installer initramfs"
+      ],
+      "tweet_drafts": [
+        "Collective Speed Is Not the Summation of Individual Speed",
+        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
+        "How Bitwarden Encrypts and Decrypts Secrets"
+      ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Collective Speed Is Not the Summation of Individual Speed",
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
@@ -49,27 +101,22 @@
           "feed_title": "miguelgrinberg.com",
           "title": "How Bitwarden Encrypts and Decrypts Secrets",
           "link": "https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Understanding the Ubuntu server installer initramfs",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs"
         }
       ],
-      "summary_zh": "2026-04-26 技术日报：Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets；Understanding the Ubuntu server installer initramfs。",
-      "summary_en": "Daily brief (2026-04-26): Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets; Understanding the Ubuntu server installer initramfs.",
+      "summary_zh": "2026-04-26 技术日报：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。",
+      "summary_en": "Daily brief (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-26 日报】Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets；Understanding the Ubuntu server installer initramfs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-26): Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets; Understanding the Ubuntu server installer initramfs. Actionable takeaways included. What"
+          "zh": "【2026-04-26 日报】Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n- Understanding the Ubuntu server installer initramfs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n- https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n- Understanding the Ubuntu server installer initramfs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n- https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n- https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n- https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets；Understanding the Ubuntu server installer initramfs。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets; Understanding the Ubuntu server installer initramfs.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2198,82 +2245,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Pretext；The Talk Show: ‘You’re Going to Have the Niggles’；Python Vulnerability Lookup。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Pretext; The Talk Show: ‘You’re Going to Have the Niggles’; Python Vulnerability Lookup.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-03-28",
-      "total": 12,
-      "feeds": [
-        "daringfireball.net (6)",
-        "construction-physics.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "susam.net (1)",
-        "tedium.co (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · The 2019 Intel Mac Pro’s Unfortunate Timing",
-        "daringfireball.net · ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "daringfireball.net · Netflix Wrecked Their tvOS Video Player",
-        "tedium.co · Self-Hosting: Still Worth It?",
-        "daringfireball.net · Trump Is Putting His Signature on U.S. Currency",
-        "daringfireball.net · New York Post: ‘Trump Considers Renaming Strait of Hormuz’"
-      ],
-      "key_points": [
-        "The 2019 Intel Mac Pro’s Unfortunate Timing",
-        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "Netflix Wrecked Their tvOS Video Player",
-        "Self-Hosting: Still Worth It?"
-      ],
-      "key_points_zh": [
-        "The 2019 Intel Mac Pro’s Unfortunate Timing",
-        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "Netflix Wrecked Their tvOS Video Player",
-        "Self-Hosting: Still Worth It?"
-      ],
-      "key_points_en": [
-        "The 2019 Intel Mac Pro’s Unfortunate Timing",
-        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "Netflix Wrecked Their tvOS Video Player",
-        "Self-Hosting: Still Worth It?"
-      ],
-      "tweet_drafts": [
-        "The 2019 Intel Mac Pro’s Unfortunate Timing",
-        "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-        "Netflix Wrecked Their tvOS Video Player"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The 2019 Intel Mac Pro’s Unfortunate Timing",
-          "link": "https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’",
-          "link": "https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Netflix Wrecked Their tvOS Video Player",
-          "link": "https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/"
-        }
-      ],
-      "summary_zh": "2026-03-28 技术日报：The 2019 Intel Mac Pro’s Unfortunate Timing；‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player。",
-      "summary_en": "Daily brief (2026-03-28): The 2019 Intel Mac Pro’s Unfortunate Timing; ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-28 日报】The 2019 Intel Mac Pro’s Unfortunate Timing；‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-28): The 2019 Intel Mac Pro’s Unfortunate Timing; ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player. Actionable takeaways included. What would you ship next? #AI"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-28）\n- The 2019 Intel Mac Pro’s Unfortunate Timing\n- ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’\n- Netflix Wrecked Their tvOS Video Player\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/\n- https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-28)\n- The 2019 Intel Mac Pro’s Unfortunate Timing\n- ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’\n- Netflix Wrecked Their tvOS Video Player\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/\n- https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl\n- https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：The 2019 Intel Mac Pro’s Unfortunate Timing；‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’；Netflix Wrecked Their tvOS Video Player。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The 2019 Intel Mac Pro’s Unfortunate Timing; ‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’; Netflix Wrecked Their tvOS Video Player.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
