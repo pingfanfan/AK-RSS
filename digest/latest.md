@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-27 17:05:26 UTC
+Generated at: 2026-04-27 17:52:13 UTC
 
-- [Looking at consequences of passing too few register parameters to a C function on various architectures](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271) (`devblogs.microsoft.com/oldnewthing`)
+- [Speech translation in Google Meet is now rolling out to mobile devices](https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything) (`simonwillison.net`)
