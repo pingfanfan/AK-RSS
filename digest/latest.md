@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-27 18:21:13 UTC
+Generated at: 2026-04-27 18:53:10 UTC
 
-- [The stages of package installation](https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html) (`nesbitt.io`)
+- [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything) (`simonwillison.net`)
+- [Yours Truly on The Vergecast](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition) (`daringfireball.net`)
