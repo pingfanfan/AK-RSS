@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-28T17:03:56Z",
+  "generated_at": "2026-04-28T18:00:23Z",
   "days": [
     {
       "date": "2026-04-28",
-      "total": 13,
+      "total": 15,
       "feeds": [
         "simonwillison.net (2)",
         "buttondown.com/hillelwayne (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)"
+        "experimental-history.com (1)",
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "experimental-history.com · The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
         "wheresyoured.at · AI's Economics Don't Make Sense",
         "buttondown.com/hillelwayne · Illegal vs Unwanted States",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore",
         "simonwillison.net · Quoting Matthew Yglesias",
-        "johndcook.com · Circular arc approximation",
-        "dfarq.homeip.net · TRS-80 Model 100",
-        "steveblank.com · Anthropic Mythos – We’ve Opened Pandora’s Box"
+        "johndcook.com · Circular arc approximation"
       ],
       "key_points": [
+        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
         "AI's Economics Don't Make Sense",
         "Illegal vs Unwanted States",
-        "Quoting Matthew Yglesias",
-        "Circular arc approximation"
+        "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore"
       ],
       "key_points_zh": [
+        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
         "AI's Economics Don't Make Sense",
         "Illegal vs Unwanted States",
-        "Quoting Matthew Yglesias",
-        "Circular arc approximation"
+        "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore"
       ],
       "key_points_en": [
+        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
         "AI's Economics Don't Make Sense",
         "Illegal vs Unwanted States",
-        "Quoting Matthew Yglesias",
-        "Circular arc approximation"
+        "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore"
       ],
       "tweet_drafts": [
+        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
         "AI's Economics Don't Make Sense",
-        "Illegal vs Unwanted States",
-        "Quoting Matthew Yglesias"
+        "Illegal vs Unwanted States"
       ],
       "sources": [
+        {
+          "feed_title": "experimental-history.com",
+          "title": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
+          "link": "https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "AI's Economics Don't Make Sense",
@@ -53,27 +58,22 @@
           "feed_title": "buttondown.com/hillelwayne",
           "title": "Illegal vs Unwanted States",
           "link": "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Matthew Yglesias",
-          "link": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-28 技术日报：AI's Economics Don't Make Sense；Illegal vs Unwanted States；Quoting Matthew Yglesias。",
-      "summary_en": "Daily brief (2026-04-28): AI's Economics Don't Make Sense; Illegal vs Unwanted States; Quoting Matthew Yglesias.",
+      "summary_zh": "2026-04-28 技术日报：The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree；AI's Economics Don't Make Sense；Illegal vs Unwanted States。",
+      "summary_en": "Daily brief (2026-04-28): The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree; AI's Economics Don't Make Sense; Illegal vs Unwanted States.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-28 日报】AI's Economics Don't Make Sense；Illegal vs Unwanted States；Quoting Matthew Yglesias。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-28): AI's Economics Don't Make Sense; Illegal vs Unwanted States; Quoting Matthew Yglesias. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-28 日报】The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree；AI's Economics Don't Make Sense；Illegal vs Unwanted States。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-28): The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree; AI's Economics Don't Make Sense; Illegal vs Unwanted States. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-28）\n- AI's Economics Don't Make Sense\n- Illegal vs Unwanted States\n- Quoting Matthew Yglesias\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/ais-economics-dont-make-sense/\n- https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/\n- https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-28)\n- AI's Economics Don't Make Sense\n- Illegal vs Unwanted States\n- Quoting Matthew Yglesias\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/ais-economics-dont-make-sense/\n- https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/\n- https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-28）\n- The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree\n- AI's Economics Don't Make Sense\n- Illegal vs Unwanted States\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition\n- https://www.wheresyoured.at/ais-economics-dont-make-sense/\n- https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-28)\n- The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree\n- AI's Economics Don't Make Sense\n- Illegal vs Unwanted States\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition\n- https://www.wheresyoured.at/ais-economics-dont-make-sense/\n- https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：AI's Economics Don't Make Sense；Illegal vs Unwanted States；Quoting Matthew Yglesias。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: AI's Economics Don't Make Sense; Illegal vs Unwanted States; Quoting Matthew Yglesias.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree；AI's Economics Don't Make Sense；Illegal vs Unwanted States。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree; AI's Economics Don't Make Sense; Illegal vs Unwanted States.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -318,33 +318,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -358,25 +358,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -698,33 +698,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
+        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine"
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "sources": [
         {
@@ -738,25 +738,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Hook It Up to the Machine",
-          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
+          "feed_title": "berthub.eu",
+          "title": "Big tech clouds worden niet veiliger met stapels papier",
+          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1902,14 +1902,14 @@
     },
     {
       "date": "2026-04-03",
-      "total": 19,
+      "total": 20,
       "feeds": [
         "simonwillison.net (3)",
         "daringfireball.net (2)",
         "johndcook.com (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
+        "gilesthomas.com (1)"
       ],
       "highlights": [
         "simonwillison.net · Quoting Willy Tarreau",
