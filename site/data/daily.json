@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-28T12:28:03Z",
+  "generated_at": "2026-04-28T13:05:02Z",
   "days": [
     {
       "date": "2026-04-28",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "idiallo.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)",
-        "susam.net (1)",
-        "troyhunt.com (1)"
+        "steveblank.com (1)",
+        "susam.net (1)"
       ],
       "highlights": [
+        "steveblank.com · Anthropic Mythos – We’ve Opened Pandora’s Box",
         "nesbitt.io · GitHub Actions is the weakest link",
         "pluralistic.net · Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
         "simonwillison.net · What's new in pip 26.1 - lockfiles and dependency cooldowns!",
         "troyhunt.com · Weekly Update 501",
-        "utcc.utoronto.ca/~cks · The easy way to switch my libvirt-based virtual machines to UEFI",
-        "susam.net · QuickQWERTY 1.2.2"
+        "utcc.utoronto.ca/~cks · The easy way to switch my libvirt-based virtual machines to UEFI"
       ],
       "key_points": [
-        "GitHub Actions is the weakest link",
-        "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
-        "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
-        "Weekly Update 501"
-      ],
-      "key_points_zh": [
-        "GitHub Actions is the weakest link",
-        "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
-        "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
-        "Weekly Update 501"
-      ],
-      "key_points_en": [
-        "GitHub Actions is the weakest link",
-        "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
-        "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
-        "Weekly Update 501"
-      ],
-      "tweet_drafts": [
+        "Anthropic Mythos – We’ve Opened Pandora’s Box",
         "GitHub Actions is the weakest link",
         "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
         "What's new in pip 26.1 - lockfiles and dependency cooldowns!"
       ],
+      "key_points_zh": [
+        "Anthropic Mythos – We’ve Opened Pandora’s Box",
+        "GitHub Actions is the weakest link",
+        "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
+        "What's new in pip 26.1 - lockfiles and dependency cooldowns!"
+      ],
+      "key_points_en": [
+        "Anthropic Mythos – We’ve Opened Pandora’s Box",
+        "GitHub Actions is the weakest link",
+        "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
+        "What's new in pip 26.1 - lockfiles and dependency cooldowns!"
+      ],
+      "tweet_drafts": [
+        "Anthropic Mythos – We’ve Opened Pandora’s Box",
+        "GitHub Actions is the weakest link",
+        "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "steveblank.com",
+          "title": "Anthropic Mythos – We’ve Opened Pandora’s Box",
+          "link": "https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "GitHub Actions is the weakest link",
@@ -53,71 +58,66 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
           "link": "https://pluralistic.net/2026/04/27/mouseketeers/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
-          "link": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-28 技术日报：GitHub Actions is the weakest link；Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)；What's new in pip 26.1 - lockfiles and dependency cooldowns!。",
-      "summary_en": "Daily brief (2026-04-28): GitHub Actions is the weakest link; Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026); What's new in pip 26.1 - lockfiles and dependency cooldowns!.",
+      "summary_zh": "2026-04-28 技术日报：Anthropic Mythos – We’ve Opened Pandora’s Box；GitHub Actions is the weakest link；Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)。",
+      "summary_en": "Daily brief (2026-04-28): Anthropic Mythos – We’ve Opened Pandora’s Box; GitHub Actions is the weakest link; Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-28 日报】GitHub Actions is the weakest link；Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)；What's new in pip 26.1 - lockfiles and dependency cooldowns!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-28): GitHub Actions is the weakest link; Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026); What's new in pip 26.1 - lockfiles and dependency cooldowns!. Actionable takeaways included. What would you ship next? #AI #Eng"
+          "zh": "【2026-04-28 日报】Anthropic Mythos – We’ve Opened Pandora’s Box；GitHub Actions is the weakest link；Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-28): Anthropic Mythos – We’ve Opened Pandora’s Box; GitHub Actions is the weakest link; Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-28）\n- GitHub Actions is the weakest link\n- Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)\n- What's new in pip 26.1 - lockfiles and dependency cooldowns!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html\n- https://pluralistic.net/2026/04/27/mouseketeers/\n- https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-28)\n- GitHub Actions is the weakest link\n- Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)\n- What's new in pip 26.1 - lockfiles and dependency cooldowns!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html\n- https://pluralistic.net/2026/04/27/mouseketeers/\n- https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-28）\n- Anthropic Mythos – We’ve Opened Pandora’s Box\n- GitHub Actions is the weakest link\n- Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/\n- https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html\n- https://pluralistic.net/2026/04/27/mouseketeers/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-28)\n- Anthropic Mythos – We’ve Opened Pandora’s Box\n- GitHub Actions is the weakest link\n- Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/\n- https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html\n- https://pluralistic.net/2026/04/27/mouseketeers/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：GitHub Actions is the weakest link；Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)；What's new in pip 26.1 - lockfiles and dependency cooldowns!。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: GitHub Actions is the weakest link; Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026); What's new in pip 26.1 - lockfiles and dependency cooldowns!.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Anthropic Mythos – We’ve Opened Pandora’s Box；GitHub Actions is the weakest link；Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Anthropic Mythos – We’ve Opened Pandora’s Box; GitHub Actions is the weakest link; Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-04-27",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "simonwillison.net (2)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
-        "joanwestenberg.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
         "joanwestenberg.com · The Loop: everything has happened before, and everything will happen again",
+        "entropicthoughts.com · Understanding systems",
         "daringfireball.net · Yours Truly on The Vergecast",
         "simonwillison.net · Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
         "simonwillison.net · Speech translation in Google Meet is now rolling out to mobile devices",
-        "devblogs.microsoft.com/oldnewthing · Looking at consequences of passing too few register parameters to a C function on various architectures",
-        "dwarkesh.com · What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism"
+        "devblogs.microsoft.com/oldnewthing · Looking at consequences of passing too few register parameters to a C function on various architectures"
       ],
       "key_points": [
         "The Loop: everything has happened before, and everything will happen again",
+        "Understanding systems",
         "Yours Truly on The Vergecast",
-        "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-        "Speech translation in Google Meet is now rolling out to mobile devices"
+        "Tracking the history of the now-deceased OpenAI Microsoft AGI clause"
       ],
       "key_points_zh": [
         "The Loop: everything has happened before, and everything will happen again",
+        "Understanding systems",
         "Yours Truly on The Vergecast",
-        "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-        "Speech translation in Google Meet is now rolling out to mobile devices"
+        "Tracking the history of the now-deceased OpenAI Microsoft AGI clause"
       ],
       "key_points_en": [
         "The Loop: everything has happened before, and everything will happen again",
+        "Understanding systems",
         "Yours Truly on The Vergecast",
-        "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-        "Speech translation in Google Meet is now rolling out to mobile devices"
+        "Tracking the history of the now-deceased OpenAI Microsoft AGI clause"
       ],
       "tweet_drafts": [
         "The Loop: everything has happened before, and everything will happen again",
-        "Yours Truly on The Vergecast",
-        "Tracking the history of the now-deceased OpenAI Microsoft AGI clause"
+        "Understanding systems",
+        "Yours Truly on The Vergecast"
       ],
       "sources": [
         {
@@ -126,30 +126,30 @@
           "link": "https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/"
         },
         {
+          "feed_title": "entropicthoughts.com",
+          "title": "Understanding systems",
+          "link": "https://entropicthoughts.com/understanding-systems"
+        },
+        {
           "feed_title": "daringfireball.net",
           "title": "Yours Truly on The Vergecast",
           "link": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-          "link": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-27 技术日报：The Loop: everything has happened before, and everything will happen again；Yours Truly on The Vergecast；Tracking the history of the now-deceased OpenAI Microsoft AGI clause。",
-      "summary_en": "Daily brief (2026-04-27): The Loop: everything has happened before, and everything will happen again; Yours Truly on The Vergecast; Tracking the history of the now-deceased OpenAI Microsoft AGI clause.",
+      "summary_zh": "2026-04-27 技术日报：The Loop: everything has happened before, and everything will happen again；Understanding systems；Yours Truly on The Vergecast。",
+      "summary_en": "Daily brief (2026-04-27): The Loop: everything has happened before, and everything will happen again; Understanding systems; Yours Truly on The Vergecast.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-27 日报】The Loop: everything has happened before, and everything will happen again；Yours Truly on The Vergecast；Tracking the history of the now-deceased OpenAI Microsoft AGI clause。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-27): The Loop: everything has happened before, and everything will happen again; Yours Truly on The Vergecast; Tracking the history of the now-deceased OpenAI Microsoft AGI clause. Actionable takeaways included. What would you ship next?"
+          "zh": "【2026-04-27 日报】The Loop: everything has happened before, and everything will happen again；Understanding systems；Yours Truly on The Vergecast。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-27): The Loop: everything has happened before, and everything will happen again; Understanding systems; Yours Truly on The Vergecast. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-27）\n- The Loop: everything has happened before, and everything will happen again\n- Yours Truly on The Vergecast\n- Tracking the history of the now-deceased OpenAI Microsoft AGI clause\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/\n- https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition\n- https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-27)\n- The Loop: everything has happened before, and everything will happen again\n- Yours Truly on The Vergecast\n- Tracking the history of the now-deceased OpenAI Microsoft AGI clause\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/\n- https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition\n- https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-27）\n- The Loop: everything has happened before, and everything will happen again\n- Understanding systems\n- Yours Truly on The Vergecast\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/\n- https://entropicthoughts.com/understanding-systems\n- https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-27)\n- The Loop: everything has happened before, and everything will happen again\n- Understanding systems\n- Yours Truly on The Vergecast\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/\n- https://entropicthoughts.com/understanding-systems\n- https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Loop: everything has happened before, and everything will happen again；Yours Truly on The Vergecast；Tracking the history of the now-deceased OpenAI Microsoft AGI clause。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Loop: everything has happened before, and everything will happen again; Yours Truly on The Vergecast; Tracking the history of the now-deceased OpenAI Microsoft AGI clause.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Loop: everything has happened before, and everything will happen again；Understanding systems；Yours Truly on The Vergecast。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Loop: everything has happened before, and everything will happen again; Understanding systems; Yours Truly on The Vergecast.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -317,33 +317,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -357,25 +357,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
