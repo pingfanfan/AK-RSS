@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-04-28T21:46:47Z",
+  "generated_at": "2026-04-28T22:16:48Z",
   "days": [
     {
       "date": "2026-04-28",
-      "total": 17,
+      "total": 20,
       "feeds": [
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
+        "johndcook.com (2)",
         "buttondown.com/hillelwayne (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "experimental-history.com (1)",
-        "idiallo.com (1)"
+        "ericmigi.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting OpenAI Codex base_instructions",
+        "johndcook.com · Turning a trick into a technique",
         "experimental-history.com · The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
         "wheresyoured.at · AI's Economics Don't Make Sense",
         "buttondown.com/hillelwayne · Illegal vs Unwanted States",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore",
-        "simonwillison.net · Quoting Matthew Yglesias",
-        "johndcook.com · Circular arc approximation"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore"
       ],
       "key_points": [
+        "Quoting OpenAI Codex base_instructions",
+        "Turning a trick into a technique",
         "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
-        "AI's Economics Don't Make Sense",
-        "Illegal vs Unwanted States",
-        "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore"
+        "AI's Economics Don't Make Sense"
       ],
       "key_points_zh": [
+        "Quoting OpenAI Codex base_instructions",
+        "Turning a trick into a technique",
         "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
-        "AI's Economics Don't Make Sense",
-        "Illegal vs Unwanted States",
-        "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore"
+        "AI's Economics Don't Make Sense"
       ],
       "key_points_en": [
+        "Quoting OpenAI Codex base_instructions",
+        "Turning a trick into a technique",
         "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
-        "AI's Economics Don't Make Sense",
-        "Illegal vs Unwanted States",
-        "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore"
+        "AI's Economics Don't Make Sense"
       ],
       "tweet_drafts": [
-        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
-        "AI's Economics Don't Make Sense",
-        "Illegal vs Unwanted States"
+        "Quoting OpenAI Codex base_instructions",
+        "Turning a trick into a technique",
+        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting OpenAI Codex base_instructions",
+          "link": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Turning a trick into a technique",
+          "link": "https://www.johndcook.com/blog/2026/04/28/even-series-trick/"
+        },
         {
           "feed_title": "experimental-history.com",
           "title": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
           "link": "https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "AI's Economics Don't Make Sense",
-          "link": "https://www.wheresyoured.at/ais-economics-dont-make-sense/"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "Illegal vs Unwanted States",
-          "link": "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/"
         }
       ],
-      "summary_zh": "2026-04-28 技术日报：The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree；AI's Economics Don't Make Sense；Illegal vs Unwanted States。",
-      "summary_en": "Daily brief (2026-04-28): The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree; AI's Economics Don't Make Sense; Illegal vs Unwanted States.",
+      "summary_zh": "2026-04-28 技术日报：Quoting OpenAI Codex base_instructions；Turning a trick into a technique；The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree。",
+      "summary_en": "Daily brief (2026-04-28): Quoting OpenAI Codex base_instructions; Turning a trick into a technique; The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-28 日报】The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree；AI's Economics Don't Make Sense；Illegal vs Unwanted States。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-28): The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree; AI's Economics Don't Make Sense; Illegal vs Unwanted States. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-28 日报】Quoting OpenAI Codex base_instructions；Turning a trick into a technique；The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-28): Quoting OpenAI Codex base_instructions; Turning a trick into a technique; The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-28）\n- The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree\n- AI's Economics Don't Make Sense\n- Illegal vs Unwanted States\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition\n- https://www.wheresyoured.at/ais-economics-dont-make-sense/\n- https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-28)\n- The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree\n- AI's Economics Don't Make Sense\n- Illegal vs Unwanted States\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition\n- https://www.wheresyoured.at/ais-economics-dont-make-sense/\n- https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-28）\n- Quoting OpenAI Codex base_instructions\n- Turning a trick into a technique\n- The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything\n- https://www.johndcook.com/blog/2026/04/28/even-series-trick/\n- https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-28)\n- Quoting OpenAI Codex base_instructions\n- Turning a trick into a technique\n- The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything\n- https://www.johndcook.com/blog/2026/04/28/even-series-trick/\n- https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree；AI's Economics Don't Make Sense；Illegal vs Unwanted States。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree; AI's Economics Don't Make Sense; Illegal vs Unwanted States.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting OpenAI Codex base_instructions；Turning a trick into a technique；The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting OpenAI Codex base_instructions; Turning a trick into a technique; The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
