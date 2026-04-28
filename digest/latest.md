@@ -1,8 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-28 22:16:34 UTC
+Generated at: 2026-04-28 22:45:52 UTC
 
-- [Spring 2026 Dev Contest Results!](https://repebble.com/blog/spring-2026-dev-contest-results) (`ericmigi.com`)
-- [Quoting OpenAI Codex base_instructions](https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything) (`simonwillison.net`)
-- [Turning a trick into a technique](https://www.johndcook.com/blog/2026/04/28/even-series-trick/) (`johndcook.com`)
-- [Why Apple’s move to video could endanger podcasting's greatest power](https://anildash.com/2026/02/28/apple-video-podcast-power/) (`anildash.com`)
+- [OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)](https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/) (`wheresyoured.at`)
