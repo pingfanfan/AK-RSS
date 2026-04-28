@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-04-28 13:04:49 UTC
+Generated at: 2026-04-28 14:14:03 UTC
 
-- [Understanding systems](https://entropicthoughts.com/understanding-systems) (`entropicthoughts.com`)
-- [Anthropic Mythos – We’ve Opened Pandora’s Box](https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/) (`steveblank.com`)
+- [Quoting Matthew Yglesias](https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything) (`simonwillison.net`)
+- [Circular arc approximation](https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/) (`johndcook.com`)
+- [TRS-80 Model 100](https://dfarq.homeip.net/trs-80-model-100/?utm_source=rss&utm_medium=rss&utm_campaign=trs-80-model-100) (`dfarq.homeip.net`)
