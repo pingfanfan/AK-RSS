@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-04-29T10:33:24Z",
+  "generated_at": "2026-04-29T11:29:43Z",
   "days": [
     {
       "date": "2026-04-29",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · What happened to Palm Pilots?",
         "tedium.co · When The Bill Comes Due",
         "utcc.utoronto.ca/~cks · If it's in JSON, it's not really a configuration file",
         "joanwestenberg.com · On wintering."
       ],
       "key_points": [
+        "What happened to Palm Pilots?",
         "When The Bill Comes Due",
         "If it's in JSON, it's not really a configuration file",
         "On wintering"
       ],
       "key_points_zh": [
+        "What happened to Palm Pilots?",
         "When The Bill Comes Due",
         "If it's in JSON, it's not really a configuration file",
         "On wintering"
       ],
       "key_points_en": [
+        "What happened to Palm Pilots?",
         "When The Bill Comes Due",
         "If it's in JSON, it's not really a configuration file",
         "On wintering"
       ],
       "tweet_drafts": [
+        "What happened to Palm Pilots?",
         "When The Bill Comes Due",
-        "If it's in JSON, it's not really a configuration file",
-        "On wintering"
+        "If it's in JSON, it's not really a configuration file"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "What happened to Palm Pilots?",
+          "link": "https://dfarq.homeip.net/what-happened-to-palm-pilots/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-palm-pilots"
+        },
         {
           "feed_title": "tedium.co",
           "title": "When The Bill Comes Due",
@@ -44,27 +54,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "If it's in JSON, it's not really a configuration file",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "On wintering.",
-          "link": "https://www.joanwestenberg.com/on-wintering/"
         }
       ],
-      "summary_zh": "2026-04-29 技术日报：When The Bill Comes Due；If it's in JSON, it's not really a configuration file；On wintering。",
-      "summary_en": "Daily brief (2026-04-29): When The Bill Comes Due; If it's in JSON, it's not really a configuration file; On wintering.",
+      "summary_zh": "2026-04-29 技术日报：What happened to Palm Pilots?；When The Bill Comes Due；If it's in JSON, it's not really a configuration file。",
+      "summary_en": "Daily brief (2026-04-29): What happened to Palm Pilots?; When The Bill Comes Due; If it's in JSON, it's not really a configuration file.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-29 日报】When The Bill Comes Due；If it's in JSON, it's not really a configuration file；On wintering。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-29): When The Bill Comes Due; If it's in JSON, it's not really a configuration file; On wintering. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-29 日报】What happened to Palm Pilots?；When The Bill Comes Due；If it's in JSON, it's not really a configuration file。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-29): What happened to Palm Pilots?; When The Bill Comes Due; If it's in JSON, it's not really a configuration file. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-29）\n- When The Bill Comes Due\n- If it's in JSON, it's not really a configuration file\n- On wintering\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives\n- https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile\n- https://www.joanwestenberg.com/on-wintering/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-29)\n- When The Bill Comes Due\n- If it's in JSON, it's not really a configuration file\n- On wintering\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives\n- https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile\n- https://www.joanwestenberg.com/on-wintering/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-29）\n- What happened to Palm Pilots?\n- When The Bill Comes Due\n- If it's in JSON, it's not really a configuration file\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/what-happened-to-palm-pilots/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-palm-pilots\n- https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives\n- https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-29)\n- What happened to Palm Pilots?\n- When The Bill Comes Due\n- If it's in JSON, it's not really a configuration file\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/what-happened-to-palm-pilots/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-palm-pilots\n- https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives\n- https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：When The Bill Comes Due；If it's in JSON, it's not really a configuration file；On wintering。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: When The Bill Comes Due; If it's in JSON, it's not really a configuration file; On wintering.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What happened to Palm Pilots?；When The Bill Comes Due；If it's in JSON, it's not really a configuration file。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What happened to Palm Pilots?; When The Bill Comes Due; If it's in JSON, it's not really a configuration file.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -265,12 +270,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -286,8 +291,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -765,33 +770,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -805,25 +810,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
