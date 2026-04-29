@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T15:14:51Z",
+  "generated_at": "2026-04-29T16:05:51Z",
   "days": [
     {
       "date": "2026-04-29",
-      "total": 7,
+      "total": 8,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
         "shkspr.mobi (1)",
@@ -13,37 +13,42 @@
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "daringfireball.net · ‘Elon Musk Appeared More Petty Than Prepared’",
         "daringfireball.net · ‘Sordid and Small’",
         "daringfireball.net · Playing With Fire",
         "shkspr.mobi · Let's Get Digging!",
         "dfarq.homeip.net · What happened to Palm Pilots?",
-        "tedium.co · When The Bill Comes Due",
-        "utcc.utoronto.ca/~cks · If it's in JSON, it's not really a configuration file"
+        "tedium.co · When The Bill Comes Due"
       ],
       "key_points": [
-        "‘Sordid and Small’",
-        "Playing With Fire",
-        "Let's Get Digging!",
-        "What happened to Palm Pilots?"
-      ],
-      "key_points_zh": [
-        "‘Sordid and Small’",
-        "Playing With Fire",
-        "Let's Get Digging!",
-        "What happened to Palm Pilots?"
-      ],
-      "key_points_en": [
-        "‘Sordid and Small’",
-        "Playing With Fire",
-        "Let's Get Digging!",
-        "What happened to Palm Pilots?"
-      ],
-      "tweet_drafts": [
+        "‘Elon Musk Appeared More Petty Than Prepared’",
         "‘Sordid and Small’",
         "Playing With Fire",
         "Let's Get Digging!"
       ],
+      "key_points_zh": [
+        "‘Elon Musk Appeared More Petty Than Prepared’",
+        "‘Sordid and Small’",
+        "Playing With Fire",
+        "Let's Get Digging!"
+      ],
+      "key_points_en": [
+        "‘Elon Musk Appeared More Petty Than Prepared’",
+        "‘Sordid and Small’",
+        "Playing With Fire",
+        "Let's Get Digging!"
+      ],
+      "tweet_drafts": [
+        "‘Elon Musk Appeared More Petty Than Prepared’",
+        "‘Sordid and Small’",
+        "Playing With Fire"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "‘Elon Musk Appeared More Petty Than Prepared’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "‘Sordid and Small’",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Playing With Fire",
           "link": "https://x.com/lifeof_jer/status/2048103471019434248?s=12"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Let's Get Digging!",
-          "link": "https://shkspr.mobi/blog/2026/04/lets-get-digging/"
         }
       ],
-      "summary_zh": "2026-04-29 技术日报：‘Sordid and Small’；Playing With Fire；Let's Get Digging!。",
-      "summary_en": "Daily brief (2026-04-29): ‘Sordid and Small’; Playing With Fire; Let's Get Digging!.",
+      "summary_zh": "2026-04-29 技术日报：‘Elon Musk Appeared More Petty Than Prepared’；‘Sordid and Small’；Playing With Fire。",
+      "summary_en": "Daily brief (2026-04-29): ‘Elon Musk Appeared More Petty Than Prepared’; ‘Sordid and Small’; Playing With Fire.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-29 日报】‘Sordid and Small’；Playing With Fire；Let's Get Digging!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-29): ‘Sordid and Small’; Playing With Fire; Let's Get Digging!. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-29 日报】‘Elon Musk Appeared More Petty Than Prepared’；‘Sordid and Small’；Playing With Fire。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-29): ‘Elon Musk Appeared More Petty Than Prepared’; ‘Sordid and Small’; Playing With Fire. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-29）\n- ‘Sordid and Small’\n- Playing With Fire\n- Let's Get Digging!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA\n- https://x.com/lifeof_jer/status/2048103471019434248?s=12\n- https://shkspr.mobi/blog/2026/04/lets-get-digging/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-29)\n- ‘Sordid and Small’\n- Playing With Fire\n- Let's Get Digging!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA\n- https://x.com/lifeof_jer/status/2048103471019434248?s=12\n- https://shkspr.mobi/blog/2026/04/lets-get-digging/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-29）\n- ‘Elon Musk Appeared More Petty Than Prepared’\n- ‘Sordid and Small’\n- Playing With Fire\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4\n- https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA\n- https://x.com/lifeof_jer/status/2048103471019434248?s=12\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-29)\n- ‘Elon Musk Appeared More Petty Than Prepared’\n- ‘Sordid and Small’\n- Playing With Fire\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4\n- https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA\n- https://x.com/lifeof_jer/status/2048103471019434248?s=12\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘Sordid and Small’；Playing With Fire；Let's Get Digging!。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘Sordid and Small’; Playing With Fire; Let's Get Digging!.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：‘Elon Musk Appeared More Petty Than Prepared’；‘Sordid and Small’；Playing With Fire。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ‘Elon Musk Appeared More Petty Than Prepared’; ‘Sordid and Small’; Playing With Fire.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -774,33 +774,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -814,25 +814,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
