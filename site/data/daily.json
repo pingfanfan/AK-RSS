@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-30T13:01:23Z",
+  "generated_at": "2026-04-30T14:13:25Z",
   "days": [
     {
       "date": "2026-04-30",
-      "total": 7,
+      "total": 9,
       "feeds": [
         "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
+        "evanhahn.com (1)",
         "idiallo.com (1)",
-        "matduggan.com (1)",
-        "simonwillison.net (1)"
+        "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "krebsonsecurity.com · Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
         "construction-physics.com · How an Oil Refinery Works",
         "matduggan.com · If I Could Make My Own GitHub",
         "dfarq.homeip.net · Why Commodore went bankrupt in 1994",
         "eli.thegreenplace.net · Thoughts on WebAssembly as a stack machine",
-        "utcc.utoronto.ca/~cks · Switching entirely to Corfu in my GNU Emacs configuration",
-        "simonwillison.net · The Zig project's rationale for their firm anti-AI contribution policy"
+        "utcc.utoronto.ca/~cks · Switching entirely to Corfu in my GNU Emacs configuration"
       ],
       "key_points": [
-        "How an Oil Refinery Works",
-        "If I Could Make My Own GitHub",
-        "Why Commodore went bankrupt in 1994",
-        "Thoughts on WebAssembly as a stack machine"
-      ],
-      "key_points_zh": [
-        "How an Oil Refinery Works",
-        "If I Could Make My Own GitHub",
-        "Why Commodore went bankrupt in 1994",
-        "Thoughts on WebAssembly as a stack machine"
-      ],
-      "key_points_en": [
-        "How an Oil Refinery Works",
-        "If I Could Make My Own GitHub",
-        "Why Commodore went bankrupt in 1994",
-        "Thoughts on WebAssembly as a stack machine"
-      ],
-      "tweet_drafts": [
+        "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
         "How an Oil Refinery Works",
         "If I Could Make My Own GitHub",
         "Why Commodore went bankrupt in 1994"
       ],
+      "key_points_zh": [
+        "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+        "How an Oil Refinery Works",
+        "If I Could Make My Own GitHub",
+        "Why Commodore went bankrupt in 1994"
+      ],
+      "key_points_en": [
+        "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+        "How an Oil Refinery Works",
+        "If I Could Make My Own GitHub",
+        "Why Commodore went bankrupt in 1994"
+      ],
+      "tweet_drafts": [
+        "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+        "How an Oil Refinery Works",
+        "If I Could Make My Own GitHub"
+      ],
       "sources": [
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+          "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "How an Oil Refinery Works",
@@ -53,27 +58,22 @@
           "feed_title": "matduggan.com",
           "title": "If I Could Make My Own GitHub",
           "link": "https://matduggan.com/if-i-could-make-my-own-github/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Why Commodore went bankrupt in 1994",
-          "link": "https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994"
         }
       ],
-      "summary_zh": "2026-04-30 技术日报：How an Oil Refinery Works；If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994。",
-      "summary_en": "Daily brief (2026-04-30): How an Oil Refinery Works; If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994.",
+      "summary_zh": "2026-04-30 技术日报：Anti-DDoS Firm Heaped Attacks on Brazilian ISPs；How an Oil Refinery Works；If I Could Make My Own GitHub。",
+      "summary_en": "Daily brief (2026-04-30): Anti-DDoS Firm Heaped Attacks on Brazilian ISPs; How an Oil Refinery Works; If I Could Make My Own GitHub.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-30 日报】How an Oil Refinery Works；If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-30): How an Oil Refinery Works; If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-30 日报】Anti-DDoS Firm Heaped Attacks on Brazilian ISPs；How an Oil Refinery Works；If I Could Make My Own GitHub。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-30): Anti-DDoS Firm Heaped Attacks on Brazilian ISPs; How an Oil Refinery Works; If I Could Make My Own GitHub. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-30）\n- How an Oil Refinery Works\n- If I Could Make My Own GitHub\n- Why Commodore went bankrupt in 1994\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/how-an-oil-refinery-works\n- https://matduggan.com/if-i-could-make-my-own-github/\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-30)\n- How an Oil Refinery Works\n- If I Could Make My Own GitHub\n- Why Commodore went bankrupt in 1994\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/how-an-oil-refinery-works\n- https://matduggan.com/if-i-could-make-my-own-github/\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-30）\n- Anti-DDoS Firm Heaped Attacks on Brazilian ISPs\n- How an Oil Refinery Works\n- If I Could Make My Own GitHub\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/\n- https://www.construction-physics.com/p/how-an-oil-refinery-works\n- https://matduggan.com/if-i-could-make-my-own-github/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-30)\n- Anti-DDoS Firm Heaped Attacks on Brazilian ISPs\n- How an Oil Refinery Works\n- If I Could Make My Own GitHub\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/\n- https://www.construction-physics.com/p/how-an-oil-refinery-works\n- https://matduggan.com/if-i-could-make-my-own-github/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How an Oil Refinery Works；If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How an Oil Refinery Works; If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Anti-DDoS Firm Heaped Attacks on Brazilian ISPs；How an Oil Refinery Works；If I Could Make My Own GitHub。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Anti-DDoS Firm Heaped Attacks on Brazilian ISPs; How an Oil Refinery Works; If I Could Make My Own GitHub.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -850,33 +850,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -890,25 +890,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
