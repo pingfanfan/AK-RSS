@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-29T22:46:03Z",
+  "generated_at": "2026-04-30T06:45:58Z",
   "days": [
+    {
+      "date": "2026-04-30",
+      "total": 4,
+      "feeds": [
+        "eli.thegreenplace.net (1)",
+        "idiallo.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "eli.thegreenplace.net · Thoughts on WebAssembly as a stack machine",
+        "utcc.utoronto.ca/~cks · Switching entirely to Corfu in my GNU Emacs configuration",
+        "simonwillison.net · The Zig project's rationale for their firm anti-AI contribution policy",
+        "idiallo.com · Have You Seen the New Excel?"
+      ],
+      "key_points": [
+        "Thoughts on WebAssembly as a stack machine",
+        "Switching entirely to Corfu in my GNU Emacs configuration",
+        "The Zig project's rationale for their firm anti-AI contribution policy",
+        "Have You Seen the New Excel?"
+      ],
+      "key_points_zh": [
+        "Thoughts on WebAssembly as a stack machine",
+        "Switching entirely to Corfu in my GNU Emacs configuration",
+        "The Zig project's rationale for their firm anti-AI contribution policy",
+        "Have You Seen the New Excel?"
+      ],
+      "key_points_en": [
+        "Thoughts on WebAssembly as a stack machine",
+        "Switching entirely to Corfu in my GNU Emacs configuration",
+        "The Zig project's rationale for their firm anti-AI contribution policy",
+        "Have You Seen the New Excel?"
+      ],
+      "tweet_drafts": [
+        "Thoughts on WebAssembly as a stack machine",
+        "Switching entirely to Corfu in my GNU Emacs configuration",
+        "The Zig project's rationale for their firm anti-AI contribution policy"
+      ],
+      "sources": [
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Thoughts on WebAssembly as a stack machine",
+          "link": "https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Switching entirely to Corfu in my GNU Emacs configuration",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+          "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-04-30 技术日报：Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration；The Zig project's rationale for their firm anti-AI contribution policy。",
+      "summary_en": "Daily brief (2026-04-30): Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration; The Zig project's rationale for their firm anti-AI contribution policy.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-04-30 日报】Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration；The Zig project's rationale for their firm anti-AI contribution policy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-30): Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration; The Zig project's rationale for their firm anti-AI contribution policy. Actionable takeaways included. What would you ship next? #"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-04-30）\n- Thoughts on WebAssembly as a stack machine\n- Switching entirely to Corfu in my GNU Emacs configuration\n- The Zig project's rationale for their firm anti-AI contribution policy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu\n- https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-30)\n- Thoughts on WebAssembly as a stack machine\n- Switching entirely to Corfu in my GNU Emacs configuration\n- The Zig project's rationale for their firm anti-AI contribution policy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu\n- https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration；The Zig project's rationale for their firm anti-AI contribution policy。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration; The Zig project's rationale for their firm anti-AI contribution policy.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-04-29",
       "total": 13,
@@ -394,33 +466,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -434,25 +506,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2201,82 +2273,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：13th Year of Blogging；DRAM pricing is killing the hobbyist SBC market；More on Apple’s Fun ‘Rewind’ Video。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: 13th Year of Blogging; DRAM pricing is killing the hobbyist SBC market; More on Apple’s Fun ‘Rewind’ Video.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-03-31",
-      "total": 22,
-      "feeds": [
-        "daringfireball.net (4)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "utcc.utoronto.ca/~cks (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "utcc.utoronto.ca/~cks · Updating Ubuntu packages that you have local changes for with dgit",
-        "daringfireball.net · RAM Is the New Bearer Bond",
-        "simonwillison.net · datasette-llm 0.1a4",
-        "wheresyoured.at · The Subprime AI Crisis Is Here",
-        "experimental-history.com · Infinite midwit",
-        "daringfireball.net · Jensen Huang Doesn’t Smell Anything"
-      ],
-      "key_points": [
-        "Updating Ubuntu packages that you have local changes for with dgit",
-        "RAM Is the New Bearer Bond",
-        "datasette-llm 0.1a4",
-        "The Subprime AI Crisis Is Here"
-      ],
-      "key_points_zh": [
-        "Updating Ubuntu packages that you have local changes for with dgit",
-        "RAM Is the New Bearer Bond",
-        "datasette-llm 0.1a4",
-        "The Subprime AI Crisis Is Here"
-      ],
-      "key_points_en": [
-        "Updating Ubuntu packages that you have local changes for with dgit",
-        "RAM Is the New Bearer Bond",
-        "datasette-llm 0.1a4",
-        "The Subprime AI Crisis Is Here"
-      ],
-      "tweet_drafts": [
-        "Updating Ubuntu packages that you have local changes for with dgit",
-        "RAM Is the New Bearer Bond",
-        "datasette-llm 0.1a4"
-      ],
-      "sources": [
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Updating Ubuntu packages that you have local changes for with dgit",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "RAM Is the New Bearer Bond",
-          "link": "https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "datasette-llm 0.1a4",
-          "link": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-03-31 技术日报：Updating Ubuntu packages that you have local changes for with dgit；RAM Is the New Bearer Bond；datasette-llm 0.1a4。",
-      "summary_en": "Daily brief (2026-03-31): Updating Ubuntu packages that you have local changes for with dgit; RAM Is the New Bearer Bond; datasette-llm 0.1a4.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-03-31 日报】Updating Ubuntu packages that you have local changes for with dgit；RAM Is the New Bearer Bond；datasette-llm 0.1a4。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-03-31): Updating Ubuntu packages that you have local changes for with dgit; RAM Is the New Bearer Bond; datasette-llm 0.1a4. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-03-31）\n- Updating Ubuntu packages that you have local changes for with dgit\n- RAM Is the New Bearer Bond\n- datasette-llm 0.1a4\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges\n- https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/\n- https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-03-31)\n- Updating Ubuntu packages that you have local changes for with dgit\n- RAM Is the New Bearer Bond\n- datasette-llm 0.1a4\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges\n- https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/\n- https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Updating Ubuntu packages that you have local changes for with dgit；RAM Is the New Bearer Bond；datasette-llm 0.1a4。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Updating Ubuntu packages that you have local changes for with dgit; RAM Is the New Bearer Bond; datasette-llm 0.1a4.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
