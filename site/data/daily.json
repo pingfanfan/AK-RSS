@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-04-30T10:31:52Z",
+  "generated_at": "2026-04-30T11:29:30Z",
   "days": [
     {
       "date": "2026-04-30",
-      "total": 4,
+      "total": 5,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "idiallo.com (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Why Commodore went bankrupt in 1994",
         "eli.thegreenplace.net · Thoughts on WebAssembly as a stack machine",
         "utcc.utoronto.ca/~cks · Switching entirely to Corfu in my GNU Emacs configuration",
         "simonwillison.net · The Zig project's rationale for their firm anti-AI contribution policy",
         "idiallo.com · Have You Seen the New Excel?"
       ],
       "key_points": [
-        "Thoughts on WebAssembly as a stack machine",
-        "Switching entirely to Corfu in my GNU Emacs configuration",
-        "The Zig project's rationale for their firm anti-AI contribution policy",
-        "Have You Seen the New Excel?"
-      ],
-      "key_points_zh": [
-        "Thoughts on WebAssembly as a stack machine",
-        "Switching entirely to Corfu in my GNU Emacs configuration",
-        "The Zig project's rationale for their firm anti-AI contribution policy",
-        "Have You Seen the New Excel?"
-      ],
-      "key_points_en": [
-        "Thoughts on WebAssembly as a stack machine",
-        "Switching entirely to Corfu in my GNU Emacs configuration",
-        "The Zig project's rationale for their firm anti-AI contribution policy",
-        "Have You Seen the New Excel?"
-      ],
-      "tweet_drafts": [
+        "Why Commodore went bankrupt in 1994",
         "Thoughts on WebAssembly as a stack machine",
         "Switching entirely to Corfu in my GNU Emacs configuration",
         "The Zig project's rationale for their firm anti-AI contribution policy"
       ],
+      "key_points_zh": [
+        "Why Commodore went bankrupt in 1994",
+        "Thoughts on WebAssembly as a stack machine",
+        "Switching entirely to Corfu in my GNU Emacs configuration",
+        "The Zig project's rationale for their firm anti-AI contribution policy"
+      ],
+      "key_points_en": [
+        "Why Commodore went bankrupt in 1994",
+        "Thoughts on WebAssembly as a stack machine",
+        "Switching entirely to Corfu in my GNU Emacs configuration",
+        "The Zig project's rationale for their firm anti-AI contribution policy"
+      ],
+      "tweet_drafts": [
+        "Why Commodore went bankrupt in 1994",
+        "Thoughts on WebAssembly as a stack machine",
+        "Switching entirely to Corfu in my GNU Emacs configuration"
+      ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Why Commodore went bankrupt in 1994",
+          "link": "https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994"
+        },
         {
           "feed_title": "eli.thegreenplace.net",
           "title": "Thoughts on WebAssembly as a stack machine",
@@ -49,27 +56,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Switching entirely to Corfu in my GNU Emacs configuration",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-          "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything"
         }
       ],
-      "summary_zh": "2026-04-30 技术日报：Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration；The Zig project's rationale for their firm anti-AI contribution policy。",
-      "summary_en": "Daily brief (2026-04-30): Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration; The Zig project's rationale for their firm anti-AI contribution policy.",
+      "summary_zh": "2026-04-30 技术日报：Why Commodore went bankrupt in 1994；Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration。",
+      "summary_en": "Daily brief (2026-04-30): Why Commodore went bankrupt in 1994; Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-30 日报】Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration；The Zig project's rationale for their firm anti-AI contribution policy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-30): Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration; The Zig project's rationale for their firm anti-AI contribution policy. Actionable takeaways included. What would you ship next? #"
+          "zh": "【2026-04-30 日报】Why Commodore went bankrupt in 1994；Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-30): Why Commodore went bankrupt in 1994; Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-30）\n- Thoughts on WebAssembly as a stack machine\n- Switching entirely to Corfu in my GNU Emacs configuration\n- The Zig project's rationale for their firm anti-AI contribution policy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu\n- https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-30)\n- Thoughts on WebAssembly as a stack machine\n- Switching entirely to Corfu in my GNU Emacs configuration\n- The Zig project's rationale for their firm anti-AI contribution policy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu\n- https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-30）\n- Why Commodore went bankrupt in 1994\n- Thoughts on WebAssembly as a stack machine\n- Switching entirely to Corfu in my GNU Emacs configuration\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-30)\n- Why Commodore went bankrupt in 1994\n- Thoughts on WebAssembly as a stack machine\n- Switching entirely to Corfu in my GNU Emacs configuration\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration；The Zig project's rationale for their firm anti-AI contribution policy。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration; The Zig project's rationale for their firm anti-AI contribution policy.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Why Commodore went bankrupt in 1994；Thoughts on WebAssembly as a stack machine；Switching entirely to Corfu in my GNU Emacs configuration。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Why Commodore went bankrupt in 1994; Thoughts on WebAssembly as a stack machine; Switching entirely to Corfu in my GNU Emacs configuration.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
