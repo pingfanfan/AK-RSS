@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-04-30T12:03:05Z",
+  "generated_at": "2026-04-30T13:01:23Z",
   "days": [
     {
       "date": "2026-04-30",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "idiallo.com (1)",
         "matduggan.com (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "construction-physics.com · How an Oil Refinery Works",
         "matduggan.com · If I Could Make My Own GitHub",
         "dfarq.homeip.net · Why Commodore went bankrupt in 1994",
         "eli.thegreenplace.net · Thoughts on WebAssembly as a stack machine",
         "utcc.utoronto.ca/~cks · Switching entirely to Corfu in my GNU Emacs configuration",
-        "simonwillison.net · The Zig project's rationale for their firm anti-AI contribution policy",
-        "idiallo.com · Have You Seen the New Excel?"
+        "simonwillison.net · The Zig project's rationale for their firm anti-AI contribution policy"
       ],
       "key_points": [
-        "If I Could Make My Own GitHub",
-        "Why Commodore went bankrupt in 1994",
-        "Thoughts on WebAssembly as a stack machine",
-        "Switching entirely to Corfu in my GNU Emacs configuration"
-      ],
-      "key_points_zh": [
-        "If I Could Make My Own GitHub",
-        "Why Commodore went bankrupt in 1994",
-        "Thoughts on WebAssembly as a stack machine",
-        "Switching entirely to Corfu in my GNU Emacs configuration"
-      ],
-      "key_points_en": [
-        "If I Could Make My Own GitHub",
-        "Why Commodore went bankrupt in 1994",
-        "Thoughts on WebAssembly as a stack machine",
-        "Switching entirely to Corfu in my GNU Emacs configuration"
-      ],
-      "tweet_drafts": [
+        "How an Oil Refinery Works",
         "If I Could Make My Own GitHub",
         "Why Commodore went bankrupt in 1994",
         "Thoughts on WebAssembly as a stack machine"
       ],
+      "key_points_zh": [
+        "How an Oil Refinery Works",
+        "If I Could Make My Own GitHub",
+        "Why Commodore went bankrupt in 1994",
+        "Thoughts on WebAssembly as a stack machine"
+      ],
+      "key_points_en": [
+        "How an Oil Refinery Works",
+        "If I Could Make My Own GitHub",
+        "Why Commodore went bankrupt in 1994",
+        "Thoughts on WebAssembly as a stack machine"
+      ],
+      "tweet_drafts": [
+        "How an Oil Refinery Works",
+        "If I Could Make My Own GitHub",
+        "Why Commodore went bankrupt in 1994"
+      ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "How an Oil Refinery Works",
+          "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works"
+        },
         {
           "feed_title": "matduggan.com",
           "title": "If I Could Make My Own GitHub",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Why Commodore went bankrupt in 1994",
           "link": "https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994"
-        },
-        {
-          "feed_title": "eli.thegreenplace.net",
-          "title": "Thoughts on WebAssembly as a stack machine",
-          "link": "https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/"
         }
       ],
-      "summary_zh": "2026-04-30 技术日报：If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994；Thoughts on WebAssembly as a stack machine。",
-      "summary_en": "Daily brief (2026-04-30): If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994; Thoughts on WebAssembly as a stack machine.",
+      "summary_zh": "2026-04-30 技术日报：How an Oil Refinery Works；If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994。",
+      "summary_en": "Daily brief (2026-04-30): How an Oil Refinery Works; If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-30 日报】If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994；Thoughts on WebAssembly as a stack machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-30): If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994; Thoughts on WebAssembly as a stack machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-30 日报】How an Oil Refinery Works；If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-30): How an Oil Refinery Works; If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-30）\n- If I Could Make My Own GitHub\n- Why Commodore went bankrupt in 1994\n- Thoughts on WebAssembly as a stack machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matduggan.com/if-i-could-make-my-own-github/\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-30)\n- If I Could Make My Own GitHub\n- Why Commodore went bankrupt in 1994\n- Thoughts on WebAssembly as a stack machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matduggan.com/if-i-could-make-my-own-github/\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n- https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-30）\n- How an Oil Refinery Works\n- If I Could Make My Own GitHub\n- Why Commodore went bankrupt in 1994\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/how-an-oil-refinery-works\n- https://matduggan.com/if-i-could-make-my-own-github/\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-30)\n- How an Oil Refinery Works\n- If I Could Make My Own GitHub\n- Why Commodore went bankrupt in 1994\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/how-an-oil-refinery-works\n- https://matduggan.com/if-i-could-make-my-own-github/\n- https://dfarq.homeip.net/why-commodore-went-bankrupt-in-1994/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-commodore-went-bankrupt-in-1994\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994；Thoughts on WebAssembly as a stack machine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994; Thoughts on WebAssembly as a stack machine.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：How an Oil Refinery Works；If I Could Make My Own GitHub；Why Commodore went bankrupt in 1994。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How an Oil Refinery Works; If I Could Make My Own GitHub; Why Commodore went bankrupt in 1994.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -350,12 +350,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -371,8 +371,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
