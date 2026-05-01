@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-05-01T10:05:44Z",
+  "generated_at": "2026-05-01T10:54:39Z",
   "days": [
     {
       "date": "2026-05-01",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "daringfireball.net (1)",
         "johndcook.com (1)",
+        "nesbitt.io (1)",
         "simonwillison.net (1)",
         "susam.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Patching and forking in package managers",
         "daringfireball.net · The Talk Show: ‘Food and Beverage Director’",
         "utcc.utoronto.ca/~cks · Learning my lesson that Python virtual environments aren't always movable",
         "johndcook.com · Approximating even functions by powers of cosine",
@@ -19,29 +21,34 @@
         "simonwillison.net · Codex CLI 0.128.0 adds /goal"
       ],
       "key_points": [
-        "The Talk Show: ‘Food and Beverage Director’",
-        "Learning my lesson that Python virtual environments aren't always movable",
-        "Approximating even functions by powers of cosine",
-        "Touch Typing Number Keys"
-      ],
-      "key_points_zh": [
-        "The Talk Show: ‘Food and Beverage Director’",
-        "Learning my lesson that Python virtual environments aren't always movable",
-        "Approximating even functions by powers of cosine",
-        "Touch Typing Number Keys"
-      ],
-      "key_points_en": [
-        "The Talk Show: ‘Food and Beverage Director’",
-        "Learning my lesson that Python virtual environments aren't always movable",
-        "Approximating even functions by powers of cosine",
-        "Touch Typing Number Keys"
-      ],
-      "tweet_drafts": [
+        "Patching and forking in package managers",
         "The Talk Show: ‘Food and Beverage Director’",
         "Learning my lesson that Python virtual environments aren't always movable",
         "Approximating even functions by powers of cosine"
       ],
+      "key_points_zh": [
+        "Patching and forking in package managers",
+        "The Talk Show: ‘Food and Beverage Director’",
+        "Learning my lesson that Python virtual environments aren't always movable",
+        "Approximating even functions by powers of cosine"
+      ],
+      "key_points_en": [
+        "Patching and forking in package managers",
+        "The Talk Show: ‘Food and Beverage Director’",
+        "Learning my lesson that Python virtual environments aren't always movable",
+        "Approximating even functions by powers of cosine"
+      ],
+      "tweet_drafts": [
+        "Patching and forking in package managers",
+        "The Talk Show: ‘Food and Beverage Director’",
+        "Learning my lesson that Python virtual environments aren't always movable"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Patching and forking in package managers",
+          "link": "https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The Talk Show: ‘Food and Beverage Director’",
@@ -51,27 +58,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Learning my lesson that Python virtual environments aren't always movable",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Approximating even functions by powers of cosine",
-          "link": "https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/"
         }
       ],
-      "summary_zh": "2026-05-01 技术日报：The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable；Approximating even functions by powers of cosine。",
-      "summary_en": "Daily brief (2026-05-01): The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable; Approximating even functions by powers of cosine.",
+      "summary_zh": "2026-05-01 技术日报：Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable。",
+      "summary_en": "Daily brief (2026-05-01): Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-01 日报】The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable；Approximating even functions by powers of cosine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-01): The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable; Approximating even functions by powers of cosine. Actionable takeaways included. What would you ship next? #AI #E"
+          "zh": "【2026-05-01 日报】Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-01): Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable. Actionable takeaways included. What would you ship next? #AI #Engineeri"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-01）\n- The Talk Show: ‘Food and Beverage Director’\n- Learning my lesson that Python virtual environments aren't always movable\n- Approximating even functions by powers of cosine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n- https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable\n- https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-01)\n- The Talk Show: ‘Food and Beverage Director’\n- Learning my lesson that Python virtual environments aren't always movable\n- Approximating even functions by powers of cosine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n- https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable\n- https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-01）\n- Patching and forking in package managers\n- The Talk Show: ‘Food and Beverage Director’\n- Learning my lesson that Python virtual environments aren't always movable\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n- https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-01)\n- Patching and forking in package managers\n- The Talk Show: ‘Food and Beverage Director’\n- Learning my lesson that Python virtual environments aren't always movable\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n- https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable；Approximating even functions by powers of cosine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable; Approximating even functions by powers of cosine.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -924,33 +926,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -964,25 +966,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
