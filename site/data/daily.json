@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-01T10:54:39Z",
+  "generated_at": "2026-05-01T11:22:54Z",
   "days": [
     {
       "date": "2026-05-01",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
         "simonwillison.net (1)",
-        "susam.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "susam.net (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Ad Lib bankruptcy: May 1, 1992",
         "nesbitt.io · Patching and forking in package managers",
         "daringfireball.net · The Talk Show: ‘Food and Beverage Director’",
         "utcc.utoronto.ca/~cks · Learning my lesson that Python virtual environments aren't always movable",
         "johndcook.com · Approximating even functions by powers of cosine",
-        "susam.net · Touch Typing Number Keys",
-        "simonwillison.net · Codex CLI 0.128.0 adds /goal"
+        "susam.net · Touch Typing Number Keys"
       ],
       "key_points": [
-        "Patching and forking in package managers",
-        "The Talk Show: ‘Food and Beverage Director’",
-        "Learning my lesson that Python virtual environments aren't always movable",
-        "Approximating even functions by powers of cosine"
-      ],
-      "key_points_zh": [
-        "Patching and forking in package managers",
-        "The Talk Show: ‘Food and Beverage Director’",
-        "Learning my lesson that Python virtual environments aren't always movable",
-        "Approximating even functions by powers of cosine"
-      ],
-      "key_points_en": [
-        "Patching and forking in package managers",
-        "The Talk Show: ‘Food and Beverage Director’",
-        "Learning my lesson that Python virtual environments aren't always movable",
-        "Approximating even functions by powers of cosine"
-      ],
-      "tweet_drafts": [
+        "Ad Lib bankruptcy: May 1, 1992",
         "Patching and forking in package managers",
         "The Talk Show: ‘Food and Beverage Director’",
         "Learning my lesson that Python virtual environments aren't always movable"
       ],
+      "key_points_zh": [
+        "Ad Lib bankruptcy: May 1, 1992",
+        "Patching and forking in package managers",
+        "The Talk Show: ‘Food and Beverage Director’",
+        "Learning my lesson that Python virtual environments aren't always movable"
+      ],
+      "key_points_en": [
+        "Ad Lib bankruptcy: May 1, 1992",
+        "Patching and forking in package managers",
+        "The Talk Show: ‘Food and Beverage Director’",
+        "Learning my lesson that Python virtual environments aren't always movable"
+      ],
+      "tweet_drafts": [
+        "Ad Lib bankruptcy: May 1, 1992",
+        "Patching and forking in package managers",
+        "The Talk Show: ‘Food and Beverage Director’"
+      ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Ad Lib bankruptcy: May 1, 1992",
+          "link": "https://dfarq.homeip.net/ad-lib-bankruptcy-may-1-1992/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ad-lib-bankruptcy-may-1-1992"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Patching and forking in package managers",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "The Talk Show: ‘Food and Beverage Director’",
           "link": "https://daringfireball.net/thetalkshow/2026/04/30/ep-446"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Learning my lesson that Python virtual environments aren't always movable",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable"
         }
       ],
-      "summary_zh": "2026-05-01 技术日报：Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable。",
-      "summary_en": "Daily brief (2026-05-01): Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable.",
+      "summary_zh": "2026-05-01 技术日报：Ad Lib bankruptcy: May 1, 1992；Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’。",
+      "summary_en": "Daily brief (2026-05-01): Ad Lib bankruptcy: May 1, 1992; Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-01 日报】Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-01): Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable. Actionable takeaways included. What would you ship next? #AI #Engineeri"
+          "zh": "【2026-05-01 日报】Ad Lib bankruptcy: May 1, 1992；Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-01): Ad Lib bankruptcy: May 1, 1992; Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-01）\n- Patching and forking in package managers\n- The Talk Show: ‘Food and Beverage Director’\n- Learning my lesson that Python virtual environments aren't always movable\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n- https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-01)\n- Patching and forking in package managers\n- The Talk Show: ‘Food and Beverage Director’\n- Learning my lesson that Python virtual environments aren't always movable\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n- https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-01）\n- Ad Lib bankruptcy: May 1, 1992\n- Patching and forking in package managers\n- The Talk Show: ‘Food and Beverage Director’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/ad-lib-bankruptcy-may-1-1992/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ad-lib-bankruptcy-may-1-1992\n- https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-01)\n- Ad Lib bankruptcy: May 1, 1992\n- Patching and forking in package managers\n- The Talk Show: ‘Food and Beverage Director’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/ad-lib-bankruptcy-may-1-1992/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ad-lib-bankruptcy-may-1-1992\n- https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html\n- https://daringfireball.net/thetalkshow/2026/04/30/ep-446\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’；Learning my lesson that Python virtual environments aren't always movable。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’; Learning my lesson that Python virtual environments aren't always movable.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Ad Lib bankruptcy: May 1, 1992；Patching and forking in package managers；The Talk Show: ‘Food and Beverage Director’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Ad Lib bankruptcy: May 1, 1992; Patching and forking in package managers; The Talk Show: ‘Food and Beverage Director’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -546,33 +546,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -586,25 +586,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
