@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-02 17:14:23 UTC
+Generated at: 2026-05-02 17:43:43 UTC
 
-- [A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html) (`nesbitt.io`)
+- [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) (`simonwillison.net`)
