@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-03 12:10:33 UTC
+Generated at: 2026-05-03 12:45:38 UTC
 
-- [Vertically Aligning Roman Numerals in Code](https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/) (`shkspr.mobi`)
+- [Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html) (`matklad.github.io`)
