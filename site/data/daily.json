@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-03T15:12:38Z",
+  "generated_at": "2026-05-03T15:44:28Z",
   "days": [
     {
       "date": "2026-05-03",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "jyn.dev (1)",
         "matklad.github.io (1)",
         "oldvcr.blogspot.com (1)",
         "seangoedecke.com (1)",
         "shkspr.mobi (1)",
-        "tedium.co (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Anthropic",
         "tedium.co · Reinventing the Wheel",
         "shkspr.mobi · Vertically Aligning Roman Numerals in Code",
         "oldvcr.blogspot.com · Testing MacOS on the Apple Network Server 2.0 ROMs",
-        "matklad.github.io · Minimal Viable Zig Error Contexts",
         "seangoedecke.com · Why I don't like the \"staff engineer archetypes\"",
-        "jyn.dev · callgraph analysis"
+        "matklad.github.io · Minimal Viable Zig Error Contexts"
       ],
       "key_points": [
-        "Reinventing the Wheel",
-        "Vertically Aligning Roman Numerals in Code",
-        "Testing MacOS on the Apple Network Server 2.0 ROMs",
-        "Minimal Viable Zig Error Contexts"
-      ],
-      "key_points_zh": [
-        "Reinventing the Wheel",
-        "Vertically Aligning Roman Numerals in Code",
-        "Testing MacOS on the Apple Network Server 2.0 ROMs",
-        "Minimal Viable Zig Error Contexts"
-      ],
-      "key_points_en": [
-        "Reinventing the Wheel",
-        "Vertically Aligning Roman Numerals in Code",
-        "Testing MacOS on the Apple Network Server 2.0 ROMs",
-        "Minimal Viable Zig Error Contexts"
-      ],
-      "tweet_drafts": [
+        "Quoting Anthropic",
         "Reinventing the Wheel",
         "Vertically Aligning Roman Numerals in Code",
         "Testing MacOS on the Apple Network Server 2.0 ROMs"
       ],
+      "key_points_zh": [
+        "Quoting Anthropic",
+        "Reinventing the Wheel",
+        "Vertically Aligning Roman Numerals in Code",
+        "Testing MacOS on the Apple Network Server 2.0 ROMs"
+      ],
+      "key_points_en": [
+        "Quoting Anthropic",
+        "Reinventing the Wheel",
+        "Vertically Aligning Roman Numerals in Code",
+        "Testing MacOS on the Apple Network Server 2.0 ROMs"
+      ],
+      "tweet_drafts": [
+        "Quoting Anthropic",
+        "Reinventing the Wheel",
+        "Vertically Aligning Roman Numerals in Code"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Anthropic",
+          "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything"
+        },
         {
           "feed_title": "tedium.co",
           "title": "Reinventing the Wheel",
@@ -53,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Vertically Aligning Roman Numerals in Code",
           "link": "https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/"
-        },
-        {
-          "feed_title": "oldvcr.blogspot.com",
-          "title": "Testing MacOS on the Apple Network Server 2.0 ROMs",
-          "link": "https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
         }
       ],
-      "summary_zh": "2026-05-03 技术日报：Reinventing the Wheel；Vertically Aligning Roman Numerals in Code；Testing MacOS on the Apple Network Server 2.0 ROMs。",
-      "summary_en": "Daily brief (2026-05-03): Reinventing the Wheel; Vertically Aligning Roman Numerals in Code; Testing MacOS on the Apple Network Server 2.0 ROMs.",
+      "summary_zh": "2026-05-03 技术日报：Quoting Anthropic；Reinventing the Wheel；Vertically Aligning Roman Numerals in Code。",
+      "summary_en": "Daily brief (2026-05-03): Quoting Anthropic; Reinventing the Wheel; Vertically Aligning Roman Numerals in Code.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-03 日报】Reinventing the Wheel；Vertically Aligning Roman Numerals in Code；Testing MacOS on the Apple Network Server 2.0 ROMs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-03): Reinventing the Wheel; Vertically Aligning Roman Numerals in Code; Testing MacOS on the Apple Network Server 2.0 ROMs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-03 日报】Quoting Anthropic；Reinventing the Wheel；Vertically Aligning Roman Numerals in Code。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-03): Quoting Anthropic; Reinventing the Wheel; Vertically Aligning Roman Numerals in Code. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-03）\n- Reinventing the Wheel\n- Vertically Aligning Roman Numerals in Code\n- Testing MacOS on the Apple Network Server 2.0 ROMs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history\n- https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/\n- https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-03)\n- Reinventing the Wheel\n- Vertically Aligning Roman Numerals in Code\n- Testing MacOS on the Apple Network Server 2.0 ROMs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history\n- https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/\n- https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-03）\n- Quoting Anthropic\n- Reinventing the Wheel\n- Vertically Aligning Roman Numerals in Code\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/3/anthropic/#atom-everything\n- https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history\n- https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-03)\n- Quoting Anthropic\n- Reinventing the Wheel\n- Vertically Aligning Roman Numerals in Code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/3/anthropic/#atom-everything\n- https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history\n- https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reinventing the Wheel；Vertically Aligning Roman Numerals in Code；Testing MacOS on the Apple Network Server 2.0 ROMs。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reinventing the Wheel; Vertically Aligning Roman Numerals in Code; Testing MacOS on the Apple Network Server 2.0 ROMs.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Anthropic；Reinventing the Wheel；Vertically Aligning Roman Numerals in Code。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Anthropic; Reinventing the Wheel; Vertically Aligning Roman Numerals in Code.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -169,8 +169,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
