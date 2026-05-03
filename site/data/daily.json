@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-03T20:43:42Z",
+  "generated_at": "2026-05-03T21:12:45Z",
   "days": [
     {
       "date": "2026-05-03",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "dfarq.homeip.net (1)",
         "geohot.github.io (1)",
+        "johndcook.com (1)",
         "jyn.dev (1)",
         "matklad.github.io (1)",
-        "oldvcr.blogspot.com (1)",
-        "seangoedecke.com (1)"
+        "oldvcr.blogspot.com (1)"
       ],
       "highlights": [
+        "johndcook.com · The shape of a guitar pick",
         "dfarq.homeip.net · Microsoft’s open sourcing of 86-DOS and what it means",
         "simonwillison.net · Quoting Anthropic",
         "tedium.co · Reinventing the Wheel",
         "shkspr.mobi · Vertically Aligning Roman Numerals in Code",
-        "geohot.github.io · Punk, or why I don’t stream anymore",
-        "oldvcr.blogspot.com · Testing MacOS on the Apple Network Server 2.0 ROMs"
+        "geohot.github.io · Punk, or why I don’t stream anymore"
       ],
       "key_points": [
-        "Microsoft’s open sourcing of 86-DOS and what it means",
-        "Quoting Anthropic",
-        "Reinventing the Wheel",
-        "Vertically Aligning Roman Numerals in Code"
-      ],
-      "key_points_zh": [
-        "Microsoft’s open sourcing of 86-DOS and what it means",
-        "Quoting Anthropic",
-        "Reinventing the Wheel",
-        "Vertically Aligning Roman Numerals in Code"
-      ],
-      "key_points_en": [
-        "Microsoft’s open sourcing of 86-DOS and what it means",
-        "Quoting Anthropic",
-        "Reinventing the Wheel",
-        "Vertically Aligning Roman Numerals in Code"
-      ],
-      "tweet_drafts": [
+        "The shape of a guitar pick",
         "Microsoft’s open sourcing of 86-DOS and what it means",
         "Quoting Anthropic",
         "Reinventing the Wheel"
       ],
+      "key_points_zh": [
+        "The shape of a guitar pick",
+        "Microsoft’s open sourcing of 86-DOS and what it means",
+        "Quoting Anthropic",
+        "Reinventing the Wheel"
+      ],
+      "key_points_en": [
+        "The shape of a guitar pick",
+        "Microsoft’s open sourcing of 86-DOS and what it means",
+        "Quoting Anthropic",
+        "Reinventing the Wheel"
+      ],
+      "tweet_drafts": [
+        "The shape of a guitar pick",
+        "Microsoft’s open sourcing of 86-DOS and what it means",
+        "Quoting Anthropic"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "The shape of a guitar pick",
+          "link": "https://www.johndcook.com/blog/2026/05/03/guitar-pick/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Microsoft’s open sourcing of 86-DOS and what it means",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Anthropic",
           "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Reinventing the Wheel",
-          "link": "https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history"
         }
       ],
-      "summary_zh": "2026-05-03 技术日报：Microsoft’s open sourcing of 86-DOS and what it means；Quoting Anthropic；Reinventing the Wheel。",
-      "summary_en": "Daily brief (2026-05-03): Microsoft’s open sourcing of 86-DOS and what it means; Quoting Anthropic; Reinventing the Wheel.",
+      "summary_zh": "2026-05-03 技术日报：The shape of a guitar pick；Microsoft’s open sourcing of 86-DOS and what it means；Quoting Anthropic。",
+      "summary_en": "Daily brief (2026-05-03): The shape of a guitar pick; Microsoft’s open sourcing of 86-DOS and what it means; Quoting Anthropic.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-03 日报】Microsoft’s open sourcing of 86-DOS and what it means；Quoting Anthropic；Reinventing the Wheel。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-03): Microsoft’s open sourcing of 86-DOS and what it means; Quoting Anthropic; Reinventing the Wheel. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-03 日报】The shape of a guitar pick；Microsoft’s open sourcing of 86-DOS and what it means；Quoting Anthropic。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-03): The shape of a guitar pick; Microsoft’s open sourcing of 86-DOS and what it means; Quoting Anthropic. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-03）\n- Microsoft’s open sourcing of 86-DOS and what it means\n- Quoting Anthropic\n- Reinventing the Wheel\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means\n- https://simonwillison.net/2026/May/3/anthropic/#atom-everything\n- https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-03)\n- Microsoft’s open sourcing of 86-DOS and what it means\n- Quoting Anthropic\n- Reinventing the Wheel\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means\n- https://simonwillison.net/2026/May/3/anthropic/#atom-everything\n- https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-03）\n- The shape of a guitar pick\n- Microsoft’s open sourcing of 86-DOS and what it means\n- Quoting Anthropic\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/03/guitar-pick/\n- https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means\n- https://simonwillison.net/2026/May/3/anthropic/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-03)\n- The shape of a guitar pick\n- Microsoft’s open sourcing of 86-DOS and what it means\n- Quoting Anthropic\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/03/guitar-pick/\n- https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means\n- https://simonwillison.net/2026/May/3/anthropic/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Microsoft’s open sourcing of 86-DOS and what it means；Quoting Anthropic；Reinventing the Wheel。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Microsoft’s open sourcing of 86-DOS and what it means; Quoting Anthropic; Reinventing the Wheel.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The shape of a guitar pick；Microsoft’s open sourcing of 86-DOS and what it means；Quoting Anthropic。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The shape of a guitar pick; Microsoft’s open sourcing of 86-DOS and what it means; Quoting Anthropic.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -169,8 +169,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -698,33 +698,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -738,25 +738,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
