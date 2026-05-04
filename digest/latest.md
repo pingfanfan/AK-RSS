@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-04 21:21:04 UTC
+Generated at: 2026-05-04 21:47:14 UTC
 
-- [App Store Search Ads and the Slippery Slope](https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten) (`daringfireball.net`)
+- [Google Owns a Big Chunk of Anthropic](https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7) (`daringfireball.net`)
