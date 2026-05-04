@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-04T16:10:24Z",
+  "generated_at": "2026-05-04T17:03:31Z",
   "days": [
     {
       "date": "2026-05-04",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "daringfireball.net (2)",
         "antirez.com (1)",
@@ -13,37 +13,42 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "simonwillison.net · Redis Array Playground",
         "daringfireball.net · Commits on GitHub Are Up 14× Year Over Year",
         "antirez.com · Redis array type: short story of a long development",
         "wheresyoured.at · Premium: The AI Compute Demand Story Is A Lie",
         "shkspr.mobi · [RSS Club] Where are you from?",
-        "dfarq.homeip.net · How the Vectrex game console sunk a 124-year-old company",
-        "nesbitt.io · Package Manager CWEs"
+        "dfarq.homeip.net · How the Vectrex game console sunk a 124-year-old company"
       ],
       "key_points": [
-        "Commits on GitHub Are Up 14× Year Over Year",
-        "Redis array type: short story of a long development",
-        "Premium: The AI Compute Demand Story Is A Lie",
-        "[RSS Club] Where are you from?"
-      ],
-      "key_points_zh": [
-        "Commits on GitHub Are Up 14× Year Over Year",
-        "Redis array type: short story of a long development",
-        "Premium: The AI Compute Demand Story Is A Lie",
-        "[RSS Club] Where are you from?"
-      ],
-      "key_points_en": [
-        "Commits on GitHub Are Up 14× Year Over Year",
-        "Redis array type: short story of a long development",
-        "Premium: The AI Compute Demand Story Is A Lie",
-        "[RSS Club] Where are you from?"
-      ],
-      "tweet_drafts": [
+        "Redis Array Playground",
         "Commits on GitHub Are Up 14× Year Over Year",
         "Redis array type: short story of a long development",
         "Premium: The AI Compute Demand Story Is A Lie"
       ],
+      "key_points_zh": [
+        "Redis Array Playground",
+        "Commits on GitHub Are Up 14× Year Over Year",
+        "Redis array type: short story of a long development",
+        "Premium: The AI Compute Demand Story Is A Lie"
+      ],
+      "key_points_en": [
+        "Redis Array Playground",
+        "Commits on GitHub Are Up 14× Year Over Year",
+        "Redis array type: short story of a long development",
+        "Premium: The AI Compute Demand Story Is A Lie"
+      ],
+      "tweet_drafts": [
+        "Redis Array Playground",
+        "Commits on GitHub Are Up 14× Year Over Year",
+        "Redis array type: short story of a long development"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Redis Array Playground",
+          "link": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Commits on GitHub Are Up 14× Year Over Year",
@@ -53,27 +58,22 @@
           "feed_title": "antirez.com",
           "title": "Redis array type: short story of a long development",
           "link": "http://antirez.com/news/164"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Premium: The AI Compute Demand Story Is A Lie",
-          "link": "https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/"
         }
       ],
-      "summary_zh": "2026-05-04 技术日报：Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development；Premium: The AI Compute Demand Story Is A Lie。",
-      "summary_en": "Daily brief (2026-05-04): Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development; Premium: The AI Compute Demand Story Is A Lie.",
+      "summary_zh": "2026-05-04 技术日报：Redis Array Playground；Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development。",
+      "summary_en": "Daily brief (2026-05-04): Redis Array Playground; Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-04 日报】Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development；Premium: The AI Compute Demand Story Is A Lie。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-04): Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development; Premium: The AI Compute Demand Story Is A Lie. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-04 日报】Redis Array Playground；Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-04): Redis Array Playground; Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-04）\n- Commits on GitHub Are Up 14× Year Over Year\n- Redis array type: short story of a long development\n- Premium: The AI Compute Demand Story Is A Lie\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder\n- http://antirez.com/news/164\n- https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-04)\n- Commits on GitHub Are Up 14× Year Over Year\n- Redis array type: short story of a long development\n- Premium: The AI Compute Demand Story Is A Lie\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder\n- http://antirez.com/news/164\n- https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-04）\n- Redis Array Playground\n- Commits on GitHub Are Up 14× Year Over Year\n- Redis array type: short story of a long development\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/4/redis-array/#atom-everything\n- https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder\n- http://antirez.com/news/164\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-04)\n- Redis Array Playground\n- Commits on GitHub Are Up 14× Year Over Year\n- Redis array type: short story of a long development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/4/redis-array/#atom-everything\n- https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder\n- http://antirez.com/news/164\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development；Premium: The AI Compute Demand Story Is A Lie。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development; Premium: The AI Compute Demand Story Is A Lie.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Redis Array Playground；Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Redis Array Playground; Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -774,33 +774,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -814,25 +814,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
