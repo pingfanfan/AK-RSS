@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-04 10:36:05 UTC
+Generated at: 2026-05-04 11:31:29 UTC
 
-- [Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)](https://pluralistic.net/2026/05/04/hope-in-the-dark/) (`pluralistic.net`)
-- [Package Manager CWEs](https://nesbitt.io/2026/05/04/package-manager-cwes.html) (`nesbitt.io`)
+- [How the Vectrex game console sunk a 124-year-old company](https://dfarq.homeip.net/how-the-vectrex-game-console-sunk-a-124-year-old-company/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-vectrex-game-console-sunk-a-124-year-old-company) (`dfarq.homeip.net`)
