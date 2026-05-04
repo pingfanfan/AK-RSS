@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-05-04T09:40:16Z",
+  "generated_at": "2026-05-04T10:36:19Z",
   "days": [
     {
       "date": "2026-05-04",
-      "total": 4,
+      "total": 6,
       "feeds": [
         "daringfireball.net (1)",
         "martinalderson.com (1)",
+        "nesbitt.io (1)",
+        "pluralistic.net (1)",
         "susam.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Package Manager CWEs",
+        "pluralistic.net · Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)",
         "utcc.utoronto.ca/~cks · Some views on Eglot and lsp-mode in GNU Emacs",
         "daringfireball.net · X, the Platform of Free Speech",
         "martinalderson.com · 29th August 2026: a scenario",
         "susam.net · From RSS to Atom"
       ],
       "key_points": [
+        "Package Manager CWEs",
+        "Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)",
         "Some views on Eglot and lsp-mode in GNU Emacs",
-        "X, the Platform of Free Speech",
-        "29th August 2026: a scenario",
-        "From RSS to Atom"
+        "X, the Platform of Free Speech"
       ],
       "key_points_zh": [
+        "Package Manager CWEs",
+        "Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)",
         "Some views on Eglot and lsp-mode in GNU Emacs",
-        "X, the Platform of Free Speech",
-        "29th August 2026: a scenario",
-        "From RSS to Atom"
+        "X, the Platform of Free Speech"
       ],
       "key_points_en": [
+        "Package Manager CWEs",
+        "Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)",
         "Some views on Eglot and lsp-mode in GNU Emacs",
-        "X, the Platform of Free Speech",
-        "29th August 2026: a scenario",
-        "From RSS to Atom"
+        "X, the Platform of Free Speech"
       ],
       "tweet_drafts": [
-        "Some views on Eglot and lsp-mode in GNU Emacs",
-        "X, the Platform of Free Speech",
-        "29th August 2026: a scenario"
+        "Package Manager CWEs",
+        "Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)",
+        "Some views on Eglot and lsp-mode in GNU Emacs"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Manager CWEs",
+          "link": "https://nesbitt.io/2026/05/04/package-manager-cwes.html"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)",
+          "link": "https://pluralistic.net/2026/05/04/hope-in-the-dark/"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Some views on Eglot and lsp-mode in GNU Emacs",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "X, the Platform of Free Speech",
-          "link": "https://bsky.app/profile/gilduran.com/post/3mky5taqg3222"
-        },
-        {
-          "feed_title": "martinalderson.com",
-          "title": "29th August 2026: a scenario",
-          "link": "https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=feed"
         }
       ],
-      "summary_zh": "2026-05-04 技术日报：Some views on Eglot and lsp-mode in GNU Emacs；X, the Platform of Free Speech；29th August 2026: a scenario。",
-      "summary_en": "Daily brief (2026-05-04): Some views on Eglot and lsp-mode in GNU Emacs; X, the Platform of Free Speech; 29th August 2026: a scenario.",
+      "summary_zh": "2026-05-04 技术日报：Package Manager CWEs；Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)；Some views on Eglot and lsp-mode in GNU Emacs。",
+      "summary_en": "Daily brief (2026-05-04): Package Manager CWEs; Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026); Some views on Eglot and lsp-mode in GNU Emacs.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-04 日报】Some views on Eglot and lsp-mode in GNU Emacs；X, the Platform of Free Speech；29th August 2026: a scenario。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-04): Some views on Eglot and lsp-mode in GNU Emacs; X, the Platform of Free Speech; 29th August 2026: a scenario. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-04 日报】Package Manager CWEs；Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)；Some views on Eglot and lsp-mode in GNU Emacs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-04): Package Manager CWEs; Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026); Some views on Eglot and lsp-mode in GNU Emacs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-04）\n- Some views on Eglot and lsp-mode in GNU Emacs\n- X, the Platform of Free Speech\n- 29th August 2026: a scenario\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode\n- https://bsky.app/profile/gilduran.com/post/3mky5taqg3222\n- https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=feed\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-04)\n- Some views on Eglot and lsp-mode in GNU Emacs\n- X, the Platform of Free Speech\n- 29th August 2026: a scenario\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode\n- https://bsky.app/profile/gilduran.com/post/3mky5taqg3222\n- https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=feed\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-04）\n- Package Manager CWEs\n- Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)\n- Some views on Eglot and lsp-mode in GNU Emacs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/04/package-manager-cwes.html\n- https://pluralistic.net/2026/05/04/hope-in-the-dark/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-04)\n- Package Manager CWEs\n- Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)\n- Some views on Eglot and lsp-mode in GNU Emacs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/04/package-manager-cwes.html\n- https://pluralistic.net/2026/05/04/hope-in-the-dark/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Some views on Eglot and lsp-mode in GNU Emacs；X, the Platform of Free Speech；29th August 2026: a scenario。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Some views on Eglot and lsp-mode in GNU Emacs; X, the Platform of Free Speech; 29th August 2026: a scenario.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Package Manager CWEs；Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)；Some views on Eglot and lsp-mode in GNU Emacs。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Package Manager CWEs; Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026); Some views on Eglot and lsp-mode in GNU Emacs.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -241,8 +245,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
