@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T20:51:17Z",
+  "generated_at": "2026-05-04T21:21:18Z",
   "days": [
     {
       "date": "2026-05-04",
-      "total": 18,
+      "total": 19,
       "feeds": [
-        "daringfireball.net (5)",
+        "daringfireball.net (6)",
         "simonwillison.net (2)",
         "antirez.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "lucumr.pocoo.org (1)"
       ],
       "highlights": [
+        "daringfireball.net · App Store Search Ads and the Slippery Slope",
         "daringfireball.net · ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
         "daringfireball.net · Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
         "daringfireball.net · Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
         "simonwillison.net · TRE Python binding — ReDoS robustness demo",
-        "simonwillison.net · Redis Array Playground",
-        "daringfireball.net · Commits on GitHub Are Up 14× Year Over Year"
+        "simonwillison.net · Redis Array Playground"
       ],
       "key_points": [
-        "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
-        "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
-        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
-        "TRE Python binding — ReDoS robustness demo"
-      ],
-      "key_points_zh": [
-        "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
-        "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
-        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
-        "TRE Python binding — ReDoS robustness demo"
-      ],
-      "key_points_en": [
-        "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
-        "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
-        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
-        "TRE Python binding — ReDoS robustness demo"
-      ],
-      "tweet_drafts": [
+        "App Store Search Ads and the Slippery Slope",
         "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
         "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
         "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away"
       ],
+      "key_points_zh": [
+        "App Store Search Ads and the Slippery Slope",
+        "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
+        "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
+        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away"
+      ],
+      "key_points_en": [
+        "App Store Search Ads and the Slippery Slope",
+        "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
+        "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
+        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away"
+      ],
+      "tweet_drafts": [
+        "App Store Search Ads and the Slippery Slope",
+        "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
+        "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "App Store Search Ads and the Slippery Slope",
+          "link": "https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)",
           "link": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
-          "link": "https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security"
         }
       ],
-      "summary_zh": "2026-05-04 技术日报：‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’；Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)；Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away。",
-      "summary_en": "Daily brief (2026-05-04): ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’; Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern); Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away.",
+      "summary_zh": "2026-05-04 技术日报：App Store Search Ads and the Slippery Slope；‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’；Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)。",
+      "summary_en": "Daily brief (2026-05-04): App Store Search Ads and the Slippery Slope; ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’; Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern).",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-04 日报】‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’；Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)；Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-04): ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’; Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern); Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away. Actionable takeaways included. What"
+          "zh": "【2026-05-04 日报】App Store Search Ads and the Slippery Slope；‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’；Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-04): App Store Search Ads and the Slippery Slope; ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’; Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern). Actionable takeaways included. What would you ship next? #AI #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-04）\n- ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’\n- Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)\n- Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the\n- https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/\n- https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-04)\n- ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’\n- Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)\n- Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the\n- https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/\n- https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-04）\n- App Store Search Ads and the Slippery Slope\n- ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’\n- Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten\n- https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the\n- https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-04)\n- App Store Search Ads and the Slippery Slope\n- ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’\n- Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten\n- https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the\n- https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’；Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)；Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’; Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern); Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：App Store Search Ads and the Slippery Slope；‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’；Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: App Store Search Ads and the Slippery Slope; ‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’; Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -245,8 +245,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -774,33 +774,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -814,25 +814,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
