@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-04 19:29:20 UTC
+Generated at: 2026-05-04 20:03:28 UTC
 
-- [Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/) (`daringfireball.net`)
+- [‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’](https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the) (`daringfireball.net`)
