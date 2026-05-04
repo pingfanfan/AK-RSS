@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-04 20:03:28 UTC
+Generated at: 2026-05-04 20:51:04 UTC
 
-- [‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’](https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the) (`daringfireball.net`)
+- [How do I inform Windows that I’m writing a binary file?](https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296) (`devblogs.microsoft.com/oldnewthing`)
