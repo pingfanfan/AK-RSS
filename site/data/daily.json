@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-05-04T17:59:51Z",
+  "generated_at": "2026-05-04T18:44:46Z",
   "days": [
     {
       "date": "2026-05-04",
-      "total": 13,
+      "total": 15,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
+        "simonwillison.net (2)",
         "antirez.com (1)",
         "dfarq.homeip.net (1)",
         "lucumr.pocoo.org (1)",
-        "martinalderson.com (1)",
-        "nesbitt.io (1)"
+        "martinalderson.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
+        "simonwillison.net · TRE Python binding — ReDoS robustness demo",
         "simonwillison.net · Redis Array Playground",
         "daringfireball.net · Commits on GitHub Are Up 14× Year Over Year",
         "antirez.com · Redis array type: short story of a long development",
-        "wheresyoured.at · Premium: The AI Compute Demand Story Is A Lie",
-        "shkspr.mobi · [RSS Club] Where are you from?",
-        "dfarq.homeip.net · How the Vectrex game console sunk a 124-year-old company"
+        "wheresyoured.at · Premium: The AI Compute Demand Story Is A Lie"
       ],
       "key_points": [
+        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
+        "TRE Python binding — ReDoS robustness demo",
         "Redis Array Playground",
-        "Commits on GitHub Are Up 14× Year Over Year",
-        "Redis array type: short story of a long development",
-        "Premium: The AI Compute Demand Story Is A Lie"
+        "Commits on GitHub Are Up 14× Year Over Year"
       ],
       "key_points_zh": [
+        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
+        "TRE Python binding — ReDoS robustness demo",
         "Redis Array Playground",
-        "Commits on GitHub Are Up 14× Year Over Year",
-        "Redis array type: short story of a long development",
-        "Premium: The AI Compute Demand Story Is A Lie"
+        "Commits on GitHub Are Up 14× Year Over Year"
       ],
       "key_points_en": [
+        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
+        "TRE Python binding — ReDoS robustness demo",
         "Redis Array Playground",
-        "Commits on GitHub Are Up 14× Year Over Year",
-        "Redis array type: short story of a long development",
-        "Premium: The AI Compute Demand Story Is A Lie"
+        "Commits on GitHub Are Up 14× Year Over Year"
       ],
       "tweet_drafts": [
-        "Redis Array Playground",
-        "Commits on GitHub Are Up 14× Year Over Year",
-        "Redis array type: short story of a long development"
+        "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
+        "TRE Python binding — ReDoS robustness demo",
+        "Redis Array Playground"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
+          "link": "https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "TRE Python binding — ReDoS robustness demo",
+          "link": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Redis Array Playground",
           "link": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Commits on GitHub Are Up 14× Year Over Year",
-          "link": "https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder"
-        },
-        {
-          "feed_title": "antirez.com",
-          "title": "Redis array type: short story of a long development",
-          "link": "http://antirez.com/news/164"
         }
       ],
-      "summary_zh": "2026-05-04 技术日报：Redis Array Playground；Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development。",
-      "summary_en": "Daily brief (2026-05-04): Redis Array Playground; Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development.",
+      "summary_zh": "2026-05-04 技术日报：Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away；TRE Python binding — ReDoS robustness demo；Redis Array Playground。",
+      "summary_en": "Daily brief (2026-05-04): Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away; TRE Python binding — ReDoS robustness demo; Redis Array Playground.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-04 日报】Redis Array Playground；Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-04): Redis Array Playground; Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-04 日报】Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away；TRE Python binding — ReDoS robustness demo；Redis Array Playground。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-04): Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away; TRE Python binding — ReDoS robustness demo; Redis Array Playground. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-04）\n- Redis Array Playground\n- Commits on GitHub Are Up 14× Year Over Year\n- Redis array type: short story of a long development\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/4/redis-array/#atom-everything\n- https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder\n- http://antirez.com/news/164\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-04)\n- Redis Array Playground\n- Commits on GitHub Are Up 14× Year Over Year\n- Redis array type: short story of a long development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/4/redis-array/#atom-everything\n- https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder\n- http://antirez.com/news/164\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-04）\n- Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away\n- TRE Python binding — ReDoS robustness demo\n- Redis Array Playground\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security\n- https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything\n- https://simonwillison.net/2026/May/4/redis-array/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-04)\n- Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away\n- TRE Python binding — ReDoS robustness demo\n- Redis Array Playground\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security\n- https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything\n- https://simonwillison.net/2026/May/4/redis-array/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Redis Array Playground；Commits on GitHub Are Up 14× Year Over Year；Redis array type: short story of a long development。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Redis Array Playground; Commits on GitHub Are Up 14× Year Over Year; Redis array type: short story of a long development.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away；TRE Python binding — ReDoS robustness demo；Redis Array Playground。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away; TRE Python binding — ReDoS robustness demo; Redis Array Playground.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -245,8 +245,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -654,12 +654,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -675,8 +675,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
