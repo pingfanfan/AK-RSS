@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-05T17:59:01Z",
+  "generated_at": "2026-05-05T18:40:34Z",
   "days": [
     {
       "date": "2026-05-05",
-      "total": 11,
+      "total": 12,
       "feeds": [
+        "daringfireball.net (2)",
         "simonwillison.net (2)",
         "berthub.eu (1)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Pedometer++ 8.0",
         "berthub.eu · The Impossible Things We Have to Believe",
         "devblogs.microsoft.com/oldnewthing · A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
         "pluralistic.net · Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
         "shkspr.mobi · RSS Feeds Send Me More Traffic Than Google",
-        "dfarq.homeip.net · First desktop computer: Datapoint 2200",
-        "nesbitt.io · Package Manager Threat Models"
+        "dfarq.homeip.net · First desktop computer: Datapoint 2200"
       ],
       "key_points": [
-        "The Impossible Things We Have to Believe",
-        "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
-        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
-        "RSS Feeds Send Me More Traffic Than Google"
-      ],
-      "key_points_zh": [
-        "The Impossible Things We Have to Believe",
-        "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
-        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
-        "RSS Feeds Send Me More Traffic Than Google"
-      ],
-      "key_points_en": [
-        "The Impossible Things We Have to Believe",
-        "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
-        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
-        "RSS Feeds Send Me More Traffic Than Google"
-      ],
-      "tweet_drafts": [
+        "Pedometer++ 8.0",
         "The Impossible Things We Have to Believe",
         "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
         "Pluralistic: The three armies fighting for the post-American world (05 May 2026)"
       ],
+      "key_points_zh": [
+        "Pedometer++ 8.0",
+        "The Impossible Things We Have to Believe",
+        "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
+        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)"
+      ],
+      "key_points_en": [
+        "Pedometer++ 8.0",
+        "The Impossible Things We Have to Believe",
+        "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
+        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)"
+      ],
+      "tweet_drafts": [
+        "Pedometer++ 8.0",
+        "The Impossible Things We Have to Believe",
+        "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Pedometer++ 8.0",
+          "link": "https://david-smith.org/blog/2026/04/29/maps-on-watchos/"
+        },
         {
           "feed_title": "berthub.eu",
           "title": "The Impossible Things We Have to Believe",
@@ -53,27 +58,22 @@
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
-          "link": "https://pluralistic.net/2026/05/05/three-is-a-magic-number/"
         }
       ],
-      "summary_zh": "2026-05-05 技术日报：The Impossible Things We Have to Believe；A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures；Pluralistic: The three armies fighting for the post-American world (05 May 2026)。",
-      "summary_en": "Daily brief (2026-05-05): The Impossible Things We Have to Believe; A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures; Pluralistic: The three armies fighting for the post-American world (05 May 2026).",
+      "summary_zh": "2026-05-05 技术日报：Pedometer++ 8.0；The Impossible Things We Have to Believe；A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures。",
+      "summary_en": "Daily brief (2026-05-05): Pedometer++ 8.0; The Impossible Things We Have to Believe; A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-05 日报】The Impossible Things We Have to Believe；A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures；Pluralistic: The three armies fighting for the post-American world (05 May 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术",
-          "en": "AK-RSS Daily (2026-05-05): The Impossible Things We Have to Believe; A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures; Pluralistic: The three armies fighting for the post-American world (05 May 2026). Actiona"
+          "zh": "【2026-05-05 日报】Pedometer++ 8.0；The Impossible Things We Have to Believe；A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-05): Pedometer++ 8.0; The Impossible Things We Have to Believe; A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures. Actionable takeaways included. What would you ship next? #AI #Engineerin"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-05）\n- The Impossible Things We Have to Believe\n- A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures\n- Pluralistic: The three armies fighting for the post-American world (05 May 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/\n- https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298\n- https://pluralistic.net/2026/05/05/three-is-a-magic-number/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-05)\n- The Impossible Things We Have to Believe\n- A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures\n- Pluralistic: The three armies fighting for the post-American world (05 May 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/\n- https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298\n- https://pluralistic.net/2026/05/05/three-is-a-magic-number/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-05）\n- Pedometer++ 8.0\n- The Impossible Things We Have to Believe\n- A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://david-smith.org/blog/2026/04/29/maps-on-watchos/\n- https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/\n- https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-05)\n- Pedometer++ 8.0\n- The Impossible Things We Have to Believe\n- A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://david-smith.org/blog/2026/04/29/maps-on-watchos/\n- https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/\n- https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Impossible Things We Have to Believe；A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures；Pluralistic: The three armies fighting for the post-American world (05 May 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Impossible Things We Have to Believe; A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures; Pluralistic: The three armies fighting for the post-American world (05 May 2026).\nI turned them into an action-ready daily brief you c"
+          "zh": "今天最值得看的 3 个点：Pedometer++ 8.0；The Impossible Things We Have to Believe；A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pedometer++ 8.0; The Impossible Things We Have to Believe; A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -730,12 +730,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -751,8 +751,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
