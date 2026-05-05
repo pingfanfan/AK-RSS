@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-05T12:17:41Z",
+  "generated_at": "2026-05-05T12:52:57Z",
   "days": [
     {
       "date": "2026-05-05",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
         "nesbitt.io (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "pluralistic.net (1)",
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
         "shkspr.mobi · RSS Feeds Send Me More Traffic Than Google",
         "dfarq.homeip.net · First desktop computer: Datapoint 2200",
         "nesbitt.io · Package Manager Threat Models",
         "joanwestenberg.com · Outrage is letting someone else set the frame",
-        "utcc.utoronto.ca/~cks · Straightforward checklists don't fit every situation",
-        "daringfireball.net · [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t."
+        "utcc.utoronto.ca/~cks · Straightforward checklists don't fit every situation"
       ],
       "key_points": [
-        "RSS Feeds Send Me More Traffic Than Google",
-        "First desktop computer: Datapoint 2200",
-        "Package Manager Threat Models",
-        "Outrage is letting someone else set the frame"
-      ],
-      "key_points_zh": [
-        "RSS Feeds Send Me More Traffic Than Google",
-        "First desktop computer: Datapoint 2200",
-        "Package Manager Threat Models",
-        "Outrage is letting someone else set the frame"
-      ],
-      "key_points_en": [
-        "RSS Feeds Send Me More Traffic Than Google",
-        "First desktop computer: Datapoint 2200",
-        "Package Manager Threat Models",
-        "Outrage is letting someone else set the frame"
-      ],
-      "tweet_drafts": [
+        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
         "RSS Feeds Send Me More Traffic Than Google",
         "First desktop computer: Datapoint 2200",
         "Package Manager Threat Models"
       ],
+      "key_points_zh": [
+        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+        "RSS Feeds Send Me More Traffic Than Google",
+        "First desktop computer: Datapoint 2200",
+        "Package Manager Threat Models"
+      ],
+      "key_points_en": [
+        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+        "RSS Feeds Send Me More Traffic Than Google",
+        "First desktop computer: Datapoint 2200",
+        "Package Manager Threat Models"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+        "RSS Feeds Send Me More Traffic Than Google",
+        "First desktop computer: Datapoint 2200"
+      ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+          "link": "https://pluralistic.net/2026/05/05/three-is-a-magic-number/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "RSS Feeds Send Me More Traffic Than Google",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "First desktop computer: Datapoint 2200",
           "link": "https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Package Manager Threat Models",
-          "link": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html"
         }
       ],
-      "summary_zh": "2026-05-05 技术日报：RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200；Package Manager Threat Models。",
-      "summary_en": "Daily brief (2026-05-05): RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200; Package Manager Threat Models.",
+      "summary_zh": "2026-05-05 技术日报：Pluralistic: The three armies fighting for the post-American world (05 May 2026)；RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200。",
+      "summary_en": "Daily brief (2026-05-05): Pluralistic: The three armies fighting for the post-American world (05 May 2026); RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-05 日报】RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200；Package Manager Threat Models。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-05): RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200; Package Manager Threat Models. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-05 日报】Pluralistic: The three armies fighting for the post-American world (05 May 2026)；RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-05): Pluralistic: The three armies fighting for the post-American world (05 May 2026); RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200. Actionable takeaways included. What would you ship next? #AI #Engin"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-05）\n- RSS Feeds Send Me More Traffic Than Google\n- First desktop computer: Datapoint 2200\n- Package Manager Threat Models\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\n- https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer\n- https://nesbitt.io/2026/05/05/package-manager-threat-models.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-05)\n- RSS Feeds Send Me More Traffic Than Google\n- First desktop computer: Datapoint 2200\n- Package Manager Threat Models\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\n- https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer\n- https://nesbitt.io/2026/05/05/package-manager-threat-models.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-05）\n- Pluralistic: The three armies fighting for the post-American world (05 May 2026)\n- RSS Feeds Send Me More Traffic Than Google\n- First desktop computer: Datapoint 2200\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/05/05/three-is-a-magic-number/\n- https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\n- https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-05)\n- Pluralistic: The three armies fighting for the post-American world (05 May 2026)\n- RSS Feeds Send Me More Traffic Than Google\n- First desktop computer: Datapoint 2200\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/05/05/three-is-a-magic-number/\n- https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\n- https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200；Package Manager Threat Models。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200; Package Manager Threat Models.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: The three armies fighting for the post-American world (05 May 2026)；RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: The three armies fighting for the post-American world (05 May 2026); RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -321,8 +321,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -730,12 +730,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -751,8 +751,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -850,33 +850,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -890,25 +890,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1230,33 +1230,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
+        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine"
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "sources": [
         {
@@ -1270,25 +1270,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Hook It Up to the Machine",
-          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
+          "feed_title": "berthub.eu",
+          "title": "Big tech clouds worden niet veiliger met stapels papier",
+          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
