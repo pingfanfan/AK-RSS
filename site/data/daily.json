@@ -1,77 +1,79 @@
 {
-  "generated_at": "2026-05-05T11:04:24Z",
+  "generated_at": "2026-05-05T11:51:04Z",
   "days": [
     {
       "date": "2026-05-05",
-      "total": 5,
+      "total": 7,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
         "nesbitt.io (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)",
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · RSS Feeds Send Me More Traffic Than Google",
+        "dfarq.homeip.net · First desktop computer: Datapoint 2200",
         "nesbitt.io · Package Manager Threat Models",
         "joanwestenberg.com · Outrage is letting someone else set the frame",
         "utcc.utoronto.ca/~cks · Straightforward checklists don't fit every situation",
-        "daringfireball.net · [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.",
-        "simonwillison.net · Quoting John Gruber"
+        "daringfireball.net · [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t."
       ],
       "key_points": [
+        "RSS Feeds Send Me More Traffic Than Google",
+        "First desktop computer: Datapoint 2200",
         "Package Manager Threat Models",
-        "Outrage is letting someone else set the frame",
-        "Straightforward checklists don't fit every situation",
-        "[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t"
+        "Outrage is letting someone else set the frame"
       ],
       "key_points_zh": [
+        "RSS Feeds Send Me More Traffic Than Google",
+        "First desktop computer: Datapoint 2200",
         "Package Manager Threat Models",
-        "Outrage is letting someone else set the frame",
-        "Straightforward checklists don't fit every situation",
-        "[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t"
+        "Outrage is letting someone else set the frame"
       ],
       "key_points_en": [
+        "RSS Feeds Send Me More Traffic Than Google",
+        "First desktop computer: Datapoint 2200",
         "Package Manager Threat Models",
-        "Outrage is letting someone else set the frame",
-        "Straightforward checklists don't fit every situation",
-        "[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t"
+        "Outrage is letting someone else set the frame"
       ],
       "tweet_drafts": [
-        "Package Manager Threat Models",
-        "Outrage is letting someone else set the frame",
-        "Straightforward checklists don't fit every situation"
+        "RSS Feeds Send Me More Traffic Than Google",
+        "First desktop computer: Datapoint 2200",
+        "Package Manager Threat Models"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "RSS Feeds Send Me More Traffic Than Google",
+          "link": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "First desktop computer: Datapoint 2200",
+          "link": "https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Package Manager Threat Models",
           "link": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "Outrage is letting someone else set the frame",
-          "link": "https://www.joanwestenberg.com/outrag/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Straightforward checklists don't fit every situation",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything"
         }
       ],
-      "summary_zh": "2026-05-05 技术日报：Package Manager Threat Models；Outrage is letting someone else set the frame；Straightforward checklists don't fit every situation。",
-      "summary_en": "Daily brief (2026-05-05): Package Manager Threat Models; Outrage is letting someone else set the frame; Straightforward checklists don't fit every situation.",
+      "summary_zh": "2026-05-05 技术日报：RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200；Package Manager Threat Models。",
+      "summary_en": "Daily brief (2026-05-05): RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200; Package Manager Threat Models.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-05 日报】Package Manager Threat Models；Outrage is letting someone else set the frame；Straightforward checklists don't fit every situation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-05): Package Manager Threat Models; Outrage is letting someone else set the frame; Straightforward checklists don't fit every situation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-05 日报】RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200；Package Manager Threat Models。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-05): RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200; Package Manager Threat Models. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-05）\n- Package Manager Threat Models\n- Outrage is letting someone else set the frame\n- Straightforward checklists don't fit every situation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/05/package-manager-threat-models.html\n- https://www.joanwestenberg.com/outrag/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-05)\n- Package Manager Threat Models\n- Outrage is letting someone else set the frame\n- Straightforward checklists don't fit every situation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/05/package-manager-threat-models.html\n- https://www.joanwestenberg.com/outrag/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-05）\n- RSS Feeds Send Me More Traffic Than Google\n- First desktop computer: Datapoint 2200\n- Package Manager Threat Models\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\n- https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer\n- https://nesbitt.io/2026/05/05/package-manager-threat-models.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-05)\n- RSS Feeds Send Me More Traffic Than Google\n- First desktop computer: Datapoint 2200\n- Package Manager Threat Models\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\n- https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-desktop-computer\n- https://nesbitt.io/2026/05/05/package-manager-threat-models.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Package Manager Threat Models；Outrage is letting someone else set the frame；Straightforward checklists don't fit every situation。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Package Manager Threat Models; Outrage is letting someone else set the frame; Straightforward checklists don't fit every situation.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：RSS Feeds Send Me More Traffic Than Google；First desktop computer: Datapoint 2200；Package Manager Threat Models。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: RSS Feeds Send Me More Traffic Than Google; First desktop computer: Datapoint 2200; Package Manager Threat Models.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -848,33 +850,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -888,25 +890,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
