@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-06 20:03:27 UTC
+Generated at: 2026-05-06 20:54:51 UTC
 
-- [Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding](https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next) (`daringfireball.net`)
-- [Triangular analog of the squircle](https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/) (`johndcook.com`)
+- [Broadcast Booths Around Baseball Tip Their Caps to John Sterling](https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls) (`daringfireball.net`)
