@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-06 15:16:52 UTC
+Generated at: 2026-05-06 16:08:18 UTC
 
-- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) (`simonwillison.net`)
-- [Am I Meant To Be Impressed?](https://www.wheresyoured.at/am-i-meant-to-be-impressed/) (`wheresyoured.at`)
+- [Live blog: Code w/ Claude 2026](https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything) (`simonwillison.net`)
