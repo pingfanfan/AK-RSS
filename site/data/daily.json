@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-06T16:08:32Z",
+  "generated_at": "2026-05-06T16:59:58Z",
   "days": [
     {
       "date": "2026-05-06",
-      "total": 14,
+      "total": 16,
       "feeds": [
         "simonwillison.net (3)",
+        "johndcook.com (2)",
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Unified config files",
         "simonwillison.net · Live blog: Code w/ Claude 2026",
         "wheresyoured.at · Am I Meant To Be Impressed?",
         "simonwillison.net · Vibe coding and agentic engineering are getting closer than I'd like",
-        "idiallo.com · Asimov's three laws are merely a suggestion",
-        "johndcook.com · The mythology of category theory",
-        "dfarq.homeip.net · Adobe’s subscription model"
+        "devblogs.microsoft.com/oldnewthing · Why not have changes in API behavior depend on the SDK you link against?",
+        "idiallo.com · Asimov's three laws are merely a suggestion"
       ],
       "key_points": [
-        "Live blog: Code w/ Claude 2026",
-        "Am I Meant To Be Impressed?",
-        "Vibe coding and agentic engineering are getting closer than I'd like",
-        "Asimov's three laws are merely a suggestion"
-      ],
-      "key_points_zh": [
-        "Live blog: Code w/ Claude 2026",
-        "Am I Meant To Be Impressed?",
-        "Vibe coding and agentic engineering are getting closer than I'd like",
-        "Asimov's three laws are merely a suggestion"
-      ],
-      "key_points_en": [
-        "Live blog: Code w/ Claude 2026",
-        "Am I Meant To Be Impressed?",
-        "Vibe coding and agentic engineering are getting closer than I'd like",
-        "Asimov's three laws are merely a suggestion"
-      ],
-      "tweet_drafts": [
+        "Unified config files",
         "Live blog: Code w/ Claude 2026",
         "Am I Meant To Be Impressed?",
         "Vibe coding and agentic engineering are getting closer than I'd like"
       ],
+      "key_points_zh": [
+        "Unified config files",
+        "Live blog: Code w/ Claude 2026",
+        "Am I Meant To Be Impressed?",
+        "Vibe coding and agentic engineering are getting closer than I'd like"
+      ],
+      "key_points_en": [
+        "Unified config files",
+        "Live blog: Code w/ Claude 2026",
+        "Am I Meant To Be Impressed?",
+        "Vibe coding and agentic engineering are getting closer than I'd like"
+      ],
+      "tweet_drafts": [
+        "Unified config files",
+        "Live blog: Code w/ Claude 2026",
+        "Am I Meant To Be Impressed?"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Unified config files",
+          "link": "https://www.johndcook.com/blog/2026/05/06/unified-config-files/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Live blog: Code w/ Claude 2026",
@@ -53,27 +58,22 @@
           "feed_title": "wheresyoured.at",
           "title": "Am I Meant To Be Impressed?",
           "link": "https://www.wheresyoured.at/am-i-meant-to-be-impressed/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-          "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-06 技术日报：Live blog: Code w/ Claude 2026；Am I Meant To Be Impressed?；Vibe coding and agentic engineering are getting closer than I'd like。",
-      "summary_en": "Daily brief (2026-05-06): Live blog: Code w/ Claude 2026; Am I Meant To Be Impressed?; Vibe coding and agentic engineering are getting closer than I'd like.",
+      "summary_zh": "2026-05-06 技术日报：Unified config files；Live blog: Code w/ Claude 2026；Am I Meant To Be Impressed?。",
+      "summary_en": "Daily brief (2026-05-06): Unified config files; Live blog: Code w/ Claude 2026; Am I Meant To Be Impressed?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-06 日报】Live blog: Code w/ Claude 2026；Am I Meant To Be Impressed?；Vibe coding and agentic engineering are getting closer than I'd like。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-06): Live blog: Code w/ Claude 2026; Am I Meant To Be Impressed?; Vibe coding and agentic engineering are getting closer than I'd like. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-06 日报】Unified config files；Live blog: Code w/ Claude 2026；Am I Meant To Be Impressed?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-06): Unified config files; Live blog: Code w/ Claude 2026; Am I Meant To Be Impressed?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-06）\n- Live blog: Code w/ Claude 2026\n- Am I Meant To Be Impressed?\n- Vibe coding and agentic engineering are getting closer than I'd like\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything\n- https://www.wheresyoured.at/am-i-meant-to-be-impressed/\n- https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-06)\n- Live blog: Code w/ Claude 2026\n- Am I Meant To Be Impressed?\n- Vibe coding and agentic engineering are getting closer than I'd like\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything\n- https://www.wheresyoured.at/am-i-meant-to-be-impressed/\n- https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-06）\n- Unified config files\n- Live blog: Code w/ Claude 2026\n- Am I Meant To Be Impressed?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/06/unified-config-files/\n- https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything\n- https://www.wheresyoured.at/am-i-meant-to-be-impressed/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-06)\n- Unified config files\n- Live blog: Code w/ Claude 2026\n- Am I Meant To Be Impressed?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/06/unified-config-files/\n- https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything\n- https://www.wheresyoured.at/am-i-meant-to-be-impressed/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Live blog: Code w/ Claude 2026；Am I Meant To Be Impressed?；Vibe coding and agentic engineering are getting closer than I'd like。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Live blog: Code w/ Claude 2026; Am I Meant To Be Impressed?; Vibe coding and agentic engineering are getting closer than I'd like.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Unified config files；Live blog: Code w/ Claude 2026；Am I Meant To Be Impressed?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Unified config files; Live blog: Code w/ Claude 2026; Am I Meant To Be Impressed?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
