@@ -1,9 +1,83 @@
 {
-  "generated_at": "2026-05-05T22:46:12Z",
+  "generated_at": "2026-05-06T06:48:28Z",
   "days": [
     {
+      "date": "2026-05-06",
+      "total": 5,
+      "feeds": [
+        "daringfireball.net (1)",
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)",
+        "troyhunt.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Splitting up my .emacs, or \"use-package doesn't solve all problems\"",
+        "daringfireball.net · Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
+        "joanwestenberg.com · Emotional regulation is a dying art.",
+        "troyhunt.com · Weekly Update 502",
+        "simonwillison.net · datasette-referrer-policy 0.1"
+      ],
+      "key_points": [
+        "Splitting up my .emacs, or \"use-package doesn't solve all problems\"",
+        "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
+        "Emotional regulation is a dying art",
+        "Weekly Update 502"
+      ],
+      "key_points_zh": [
+        "Splitting up my .emacs, or \"use-package doesn't solve all problems\"",
+        "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
+        "Emotional regulation is a dying art",
+        "Weekly Update 502"
+      ],
+      "key_points_en": [
+        "Splitting up my .emacs, or \"use-package doesn't solve all problems\"",
+        "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
+        "Emotional regulation is a dying art",
+        "Weekly Update 502"
+      ],
+      "tweet_drafts": [
+        "Splitting up my .emacs, or \"use-package doesn't solve all problems\"",
+        "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
+        "Emotional regulation is a dying art"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Splitting up my .emacs, or \"use-package doesn't solve all problems\"",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
+          "link": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Emotional regulation is a dying art.",
+          "link": "https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/"
+        }
+      ],
+      "summary_zh": "2026-05-06 技术日报：Splitting up my .emacs, or \"use-package doesn't solve all problems\"；Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens；Emotional regulation is a dying art。",
+      "summary_en": "Daily brief (2026-05-06): Splitting up my .emacs, or \"use-package doesn't solve all problems\"; Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens; Emotional regulation is a dying art.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-06 日报】Splitting up my .emacs, or \"use-package doesn't solve all problems\"；Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens；Emotional regulation is a dying art。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-06): Splitting up my .emacs, or \"use-package doesn't solve all problems\"; Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens; Emotional regulation is a dying art. Actionable takeaways included. What would you s"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-06）\n- Splitting up my .emacs, or \"use-package doesn't solve all problems\"\n- Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens\n- Emotional regulation is a dying art\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile\n- https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/\n- https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-06)\n- Splitting up my .emacs, or \"use-package doesn't solve all problems\"\n- Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens\n- Emotional regulation is a dying art\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile\n- https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/\n- https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Splitting up my .emacs, or \"use-package doesn't solve all problems\"；Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens；Emotional regulation is a dying art。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Splitting up my .emacs, or \"use-package doesn't solve all problems\"; Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens; Emotional regulation is a dying art.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-05-05",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (4)",
         "simonwillison.net (3)",
@@ -13,37 +87,42 @@
         "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Changing one character in a PDF",
         "simonwillison.net · Our AI started a cafe in Stockholm",
         "daringfireball.net · The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
         "daringfireball.net · ★ Software as the Product of Obsession Times Voice",
         "daringfireball.net · Pedometer++ 8.0",
-        "berthub.eu · The Impossible Things We Have to Believe",
-        "devblogs.microsoft.com/oldnewthing · A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures"
+        "berthub.eu · The Impossible Things We Have to Believe"
       ],
       "key_points": [
-        "Our AI started a cafe in Stockholm",
-        "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
-        "★ Software as the Product of Obsession Times Voice",
-        "Pedometer++ 8.0"
-      ],
-      "key_points_zh": [
-        "Our AI started a cafe in Stockholm",
-        "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
-        "★ Software as the Product of Obsession Times Voice",
-        "Pedometer++ 8.0"
-      ],
-      "key_points_en": [
-        "Our AI started a cafe in Stockholm",
-        "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
-        "★ Software as the Product of Obsession Times Voice",
-        "Pedometer++ 8.0"
-      ],
-      "tweet_drafts": [
+        "Changing one character in a PDF",
         "Our AI started a cafe in Stockholm",
         "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
         "★ Software as the Product of Obsession Times Voice"
       ],
+      "key_points_zh": [
+        "Changing one character in a PDF",
+        "Our AI started a cafe in Stockholm",
+        "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
+        "★ Software as the Product of Obsession Times Voice"
+      ],
+      "key_points_en": [
+        "Changing one character in a PDF",
+        "Our AI started a cafe in Stockholm",
+        "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
+        "★ Software as the Product of Obsession Times Voice"
+      ],
+      "tweet_drafts": [
+        "Changing one character in a PDF",
+        "Our AI started a cafe in Stockholm",
+        "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Changing one character in a PDF",
+          "link": "https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Our AI started a cafe in Stockholm",
@@ -53,27 +132,22 @@
           "feed_title": "daringfireball.net",
           "title": "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
           "link": "https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ Software as the Product of Obsession Times Voice",
-          "link": "https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice"
         }
       ],
-      "summary_zh": "2026-05-05 技术日报：Our AI started a cafe in Stockholm；The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion；★ Software as the Product of Obsession Times Voice。",
-      "summary_en": "Daily brief (2026-05-05): Our AI started a cafe in Stockholm; The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion; ★ Software as the Product of Obsession Times Voice.",
+      "summary_zh": "2026-05-05 技术日报：Changing one character in a PDF；Our AI started a cafe in Stockholm；The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion。",
+      "summary_en": "Daily brief (2026-05-05): Changing one character in a PDF; Our AI started a cafe in Stockholm; The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-05 日报】Our AI started a cafe in Stockholm；The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion；★ Software as the Product of Obsession Times Voice。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-05): Our AI started a cafe in Stockholm; The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion; ★ Software as the Product of Obsession Times Voice. Actionable takeaways included. What would you ship next? #AI #Engineering #Bu"
+          "zh": "【2026-05-05 日报】Changing one character in a PDF；Our AI started a cafe in Stockholm；The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-05): Changing one character in a PDF; Our AI started a cafe in Stockholm; The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-05）\n- Our AI started a cafe in Stockholm\n- The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion\n- ★ Software as the Product of Obsession Times Voice\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything\n- https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/\n- https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-05)\n- Our AI started a cafe in Stockholm\n- The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion\n- ★ Software as the Product of Obsession Times Voice\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything\n- https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/\n- https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-05）\n- Changing one character in a PDF\n- Our AI started a cafe in Stockholm\n- The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/\n- https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything\n- https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-05)\n- Changing one character in a PDF\n- Our AI started a cafe in Stockholm\n- The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/\n- https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything\n- https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Our AI started a cafe in Stockholm；The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion；★ Software as the Product of Obsession Times Voice。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Our AI started a cafe in Stockholm; The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion; ★ Software as the Product of Obsession Times Voice.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Changing one character in a PDF；Our AI started a cafe in Stockholm；The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Changing one character in a PDF; Our AI started a cafe in Stockholm; The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -321,8 +395,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -2201,82 +2275,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Solar Eclipse From the Far Side of the Moon；★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future；GLM-5.1: Towards Long-Horizon Tasks。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Solar Eclipse From the Far Side of the Moon; ★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future; GLM-5.1: Towards Long-Horizon Tasks.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-06",
-      "total": 16,
-      "feeds": [
-        "daringfireball.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Readership maths skills",
-        "daringfireball.net · [Sponsor] Zed, a Font Superfamily",
-        "blog.jim-nielsen.com · Prototyping with LLMs",
-        "daringfireball.net · Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos",
-        "wheresyoured.at · News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments",
-        "devblogs.microsoft.com/oldnewthing · Learning to read C++ compiler errors: Illegal use of -\u003e when there is no -\u003e in sight"
-      ],
-      "key_points": [
-        "Readership maths skills",
-        "[Sponsor] Zed, a Font Superfamily",
-        "Prototyping with LLMs",
-        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos"
-      ],
-      "key_points_zh": [
-        "Readership maths skills",
-        "[Sponsor] Zed, a Font Superfamily",
-        "Prototyping with LLMs",
-        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos"
-      ],
-      "key_points_en": [
-        "Readership maths skills",
-        "[Sponsor] Zed, a Font Superfamily",
-        "Prototyping with LLMs",
-        "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos"
-      ],
-      "tweet_drafts": [
-        "Readership maths skills",
-        "[Sponsor] Zed, a Font Superfamily",
-        "Prototyping with LLMs"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Readership maths skills",
-          "link": "https://entropicthoughts.com/readership-math-skills"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] Zed, a Font Superfamily",
-          "link": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Prototyping with LLMs",
-          "link": "https://blog.jim-nielsen.com/2026/prototyping-with-llm/"
-        }
-      ],
-      "summary_zh": "2026-04-06 技术日报：Readership maths skills；[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs。",
-      "summary_en": "Daily brief (2026-04-06): Readership maths skills; [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-06 日报】Readership maths skills；[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-06): Readership maths skills; [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-06）\n- Readership maths skills\n- [Sponsor] Zed, a Font Superfamily\n- Prototyping with LLMs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/readership-math-skills\n- https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df\n- https://blog.jim-nielsen.com/2026/prototyping-with-llm/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-06)\n- Readership maths skills\n- [Sponsor] Zed, a Font Superfamily\n- Prototyping with LLMs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/readership-math-skills\n- https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df\n- https://blog.jim-nielsen.com/2026/prototyping-with-llm/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Readership maths skills；[Sponsor] Zed, a Font Superfamily；Prototyping with LLMs。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Readership maths skills; [Sponsor] Zed, a Font Superfamily; Prototyping with LLMs.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
