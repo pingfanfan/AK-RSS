@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-05-06T14:14:20Z",
+  "generated_at": "2026-05-06T15:17:07Z",
   "days": [
     {
       "date": "2026-05-06",
-      "total": 11,
+      "total": 13,
       "feeds": [
+        "simonwillison.net (2)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
-        "johndcook.com (1)",
-        "martinalderson.com (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "wheresyoured.at · Am I Meant To Be Impressed?",
+        "simonwillison.net · Vibe coding and agentic engineering are getting closer than I'd like",
         "idiallo.com · Asimov's three laws are merely a suggestion",
         "johndcook.com · The mythology of category theory",
         "dfarq.homeip.net · Adobe’s subscription model",
-        "pluralistic.net · Pluralistic: In praise of vultures (06 May 2026)",
-        "nesbitt.io · Revisiting the 2015 Open Source Census",
-        "utcc.utoronto.ca/~cks · Splitting up my .emacs, or \"use-package doesn't solve all problems\""
+        "pluralistic.net · Pluralistic: In praise of vultures (06 May 2026)"
       ],
       "key_points": [
+        "Am I Meant To Be Impressed?",
+        "Vibe coding and agentic engineering are getting closer than I'd like",
         "Asimov's three laws are merely a suggestion",
-        "The mythology of category theory",
-        "Adobe’s subscription model",
-        "Pluralistic: In praise of vultures (06 May 2026)"
+        "The mythology of category theory"
       ],
       "key_points_zh": [
+        "Am I Meant To Be Impressed?",
+        "Vibe coding and agentic engineering are getting closer than I'd like",
         "Asimov's three laws are merely a suggestion",
-        "The mythology of category theory",
-        "Adobe’s subscription model",
-        "Pluralistic: In praise of vultures (06 May 2026)"
+        "The mythology of category theory"
       ],
       "key_points_en": [
+        "Am I Meant To Be Impressed?",
+        "Vibe coding and agentic engineering are getting closer than I'd like",
         "Asimov's three laws are merely a suggestion",
-        "The mythology of category theory",
-        "Adobe’s subscription model",
-        "Pluralistic: In praise of vultures (06 May 2026)"
+        "The mythology of category theory"
       ],
       "tweet_drafts": [
-        "Asimov's three laws are merely a suggestion",
-        "The mythology of category theory",
-        "Adobe’s subscription model"
+        "Am I Meant To Be Impressed?",
+        "Vibe coding and agentic engineering are getting closer than I'd like",
+        "Asimov's three laws are merely a suggestion"
       ],
       "sources": [
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "Am I Meant To Be Impressed?",
+          "link": "https://www.wheresyoured.at/am-i-meant-to-be-impressed/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+          "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "Asimov's three laws are merely a suggestion",
           "link": "https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "The mythology of category theory",
-          "link": "https://www.johndcook.com/blog/2026/05/06/category-mythology/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Adobe’s subscription model",
-          "link": "https://dfarq.homeip.net/adobes-subscription-model/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=adobes-subscription-model"
         }
       ],
-      "summary_zh": "2026-05-06 技术日报：Asimov's three laws are merely a suggestion；The mythology of category theory；Adobe’s subscription model。",
-      "summary_en": "Daily brief (2026-05-06): Asimov's three laws are merely a suggestion; The mythology of category theory; Adobe’s subscription model.",
+      "summary_zh": "2026-05-06 技术日报：Am I Meant To Be Impressed?；Vibe coding and agentic engineering are getting closer than I'd like；Asimov's three laws are merely a suggestion。",
+      "summary_en": "Daily brief (2026-05-06): Am I Meant To Be Impressed?; Vibe coding and agentic engineering are getting closer than I'd like; Asimov's three laws are merely a suggestion.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-06 日报】Asimov's three laws are merely a suggestion；The mythology of category theory；Adobe’s subscription model。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-06): Asimov's three laws are merely a suggestion; The mythology of category theory; Adobe’s subscription model. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-06 日报】Am I Meant To Be Impressed?；Vibe coding and agentic engineering are getting closer than I'd like；Asimov's three laws are merely a suggestion。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-06): Am I Meant To Be Impressed?; Vibe coding and agentic engineering are getting closer than I'd like; Asimov's three laws are merely a suggestion. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-06）\n- Asimov's three laws are merely a suggestion\n- The mythology of category theory\n- Adobe’s subscription model\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed\n- https://www.johndcook.com/blog/2026/05/06/category-mythology/\n- https://dfarq.homeip.net/adobes-subscription-model/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=adobes-subscription-model\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-06)\n- Asimov's three laws are merely a suggestion\n- The mythology of category theory\n- Adobe’s subscription model\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed\n- https://www.johndcook.com/blog/2026/05/06/category-mythology/\n- https://dfarq.homeip.net/adobes-subscription-model/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=adobes-subscription-model\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-06）\n- Am I Meant To Be Impressed?\n- Vibe coding and agentic engineering are getting closer than I'd like\n- Asimov's three laws are merely a suggestion\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/am-i-meant-to-be-impressed/\n- https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything\n- https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-06)\n- Am I Meant To Be Impressed?\n- Vibe coding and agentic engineering are getting closer than I'd like\n- Asimov's three laws are merely a suggestion\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/am-i-meant-to-be-impressed/\n- https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything\n- https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Asimov's three laws are merely a suggestion；The mythology of category theory；Adobe’s subscription model。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Asimov's three laws are merely a suggestion; The mythology of category theory; Adobe’s subscription model.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Am I Meant To Be Impressed?；Vibe coding and agentic engineering are getting closer than I'd like；Asimov's three laws are merely a suggestion。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Am I Meant To Be Impressed?; Vibe coding and agentic engineering are getting closer than I'd like; Asimov's three laws are merely a suggestion.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1306,33 +1306,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -1346,25 +1346,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
