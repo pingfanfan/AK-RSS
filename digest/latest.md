@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-06 10:37:44 UTC
+Generated at: 2026-05-06 11:32:06 UTC
 
-- [Pluralistic: In praise of vultures (06 May 2026)](https://pluralistic.net/2026/05/06/champerty-loves-company/) (`pluralistic.net`)
+- [Revisiting the 2015 Open Source Census](https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html) (`nesbitt.io`)
