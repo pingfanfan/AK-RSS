@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-07 18:00:43 UTC
+Generated at: 2026-05-07 19:03:20 UTC
 
-- [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) (`simonwillison.net`)
+- [Smoothed polygons](https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/) (`johndcook.com`)
