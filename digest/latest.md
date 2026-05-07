@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-07 19:03:20 UTC
+Generated at: 2026-05-07 19:58:58 UTC
 
-- [Smoothed polygons](https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/) (`johndcook.com`)
+- [Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything) (`simonwillison.net`)
