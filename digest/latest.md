@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-07 20:33:34 UTC
+Generated at: 2026-05-07 21:18:03 UTC
 
-- [llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) (`simonwillison.net`)
+- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) (`xeiaso.net`)
