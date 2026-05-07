@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-07 16:11:17 UTC
+Generated at: 2026-05-07 17:05:24 UTC
 
-- [The Greatest Jump Cut in Cinematic History, Improved by Amazon Prime](https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l) (`daringfireball.net`)
-- [How Long Do We Wait For New Inventions?](https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions) (`construction-physics.com`)
+- [When you upgrade your resource strings to Unicode, don’t forget to specify the L prefix](https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307) (`devblogs.microsoft.com/oldnewthing`)
