@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-07 08:49:38 UTC
+Generated at: 2026-05-07 09:48:09 UTC
 
-- [Pluralistic: Bubbles are REALLY evil (07 May 2026)](https://pluralistic.net/2026/05/07/dump-the-pumpers/) (`pluralistic.net`)
+- [Monitor your devices with LibreNMS on FreeBSD](https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/) (`it-notes.dragas.net`)
+- [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/) (`matduggan.com`)
