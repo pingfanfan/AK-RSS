@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-07 11:31:22 UTC
+Generated at: 2026-05-07 12:29:21 UTC
 
-- [Free as in Tribbles](https://nesbitt.io/2026/05/07/free-as-in-tribbles.html) (`nesbitt.io`)
-- [Intel Pentium II introduced May 7, 1997](https://dfarq.homeip.net/intel-pentium-ii-introduced-may-7-1997/?utm_source=rss&utm_medium=rss&utm_campaign=intel-pentium-ii-introduced-may-7-1997) (`dfarq.homeip.net`)
+- [Why hasn't longer-horizon training slowed AI progress?](https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/) (`seangoedecke.com`)
+- [I've found just the right paper for my Bottom Hole problem](https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/) (`shkspr.mobi`)
+- [Article previews in RSS](https://entropicthoughts.com/article-previews-in-rss) (`entropicthoughts.com`)
