@@ -1,47 +1,54 @@
 {
-  "generated_at": "2026-05-08T09:35:11Z",
+  "generated_at": "2026-05-08T10:28:41Z",
   "days": [
     {
       "date": "2026-05-08",
-      "total": 5,
+      "total": 8,
       "feeds": [
         "borretti.me (1)",
         "krebsonsecurity.com (1)",
-        "seangoedecke.com (1)",
-        "tedium.co (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "lucumr.pocoo.org (1)",
+        "matklad.github.io (1)",
+        "nesbitt.io (1)",
+        "seangoedecke.com (1)"
       ],
       "highlights": [
+        "nesbitt.io · Weekend at Bernie’s",
         "utcc.utoronto.ca/~cks · Detecting (or not) the use of -l and -c together in Bourne shells",
         "krebsonsecurity.com · Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
         "tedium.co · The Bold Ones Win",
         "seangoedecke.com · Notes on incidents",
-        "borretti.me · Notes on the Hantavirus Outbreak"
+        "matklad.github.io · Steering Zig Fmt"
       ],
       "key_points": [
-        "Detecting (or not) the use of -l and -c together in Bourne shells",
-        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
-        "The Bold Ones Win",
-        "Notes on incidents"
-      ],
-      "key_points_zh": [
-        "Detecting (or not) the use of -l and -c together in Bourne shells",
-        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
-        "The Bold Ones Win",
-        "Notes on incidents"
-      ],
-      "key_points_en": [
-        "Detecting (or not) the use of -l and -c together in Bourne shells",
-        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
-        "The Bold Ones Win",
-        "Notes on incidents"
-      ],
-      "tweet_drafts": [
+        "Weekend at Bernie’s",
         "Detecting (or not) the use of -l and -c together in Bourne shells",
         "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
         "The Bold Ones Win"
       ],
+      "key_points_zh": [
+        "Weekend at Bernie’s",
+        "Detecting (or not) the use of -l and -c together in Bourne shells",
+        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+        "The Bold Ones Win"
+      ],
+      "key_points_en": [
+        "Weekend at Bernie’s",
+        "Detecting (or not) the use of -l and -c together in Bourne shells",
+        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+        "The Bold Ones Win"
+      ],
+      "tweet_drafts": [
+        "Weekend at Bernie’s",
+        "Detecting (or not) the use of -l and -c together in Bourne shells",
+        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Weekend at Bernie’s",
+          "link": "https://nesbitt.io/2026/05/08/weekend-at-bernies.html"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Detecting (or not) the use of -l and -c together in Bourne shells",
@@ -51,27 +58,22 @@
           "feed_title": "krebsonsecurity.com",
           "title": "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
           "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "The Bold Ones Win",
-          "link": "https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets"
         }
       ],
-      "summary_zh": "2026-05-08 技术日报：Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide；The Bold Ones Win。",
-      "summary_en": "Daily brief (2026-05-08): Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide; The Bold Ones Win.",
+      "summary_zh": "2026-05-08 技术日报：Weekend at Bernie’s；Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide。",
+      "summary_en": "Daily brief (2026-05-08): Weekend at Bernie’s; Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-08 日报】Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide；The Bold Ones Win。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-08): Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide; The Bold Ones Win. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-08 日报】Weekend at Bernie’s；Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-08): Weekend at Bernie’s; Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-08）\n- Detecting (or not) the use of -l and -c together in Bourne shells\n- Canvas Breach Disrupts Schools \u0026 Colleges Nationwide\n- The Bold Ones Win\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand\n- https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/\n- https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-08)\n- Detecting (or not) the use of -l and -c together in Bourne shells\n- Canvas Breach Disrupts Schools \u0026 Colleges Nationwide\n- The Bold Ones Win\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand\n- https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/\n- https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-08）\n- Weekend at Bernie’s\n- Detecting (or not) the use of -l and -c together in Bourne shells\n- Canvas Breach Disrupts Schools \u0026 Colleges Nationwide\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/08/weekend-at-bernies.html\n- https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand\n- https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-08)\n- Weekend at Bernie’s\n- Detecting (or not) the use of -l and -c together in Bourne shells\n- Canvas Breach Disrupts Schools \u0026 Colleges Nationwide\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/08/weekend-at-bernies.html\n- https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand\n- https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide；The Bold Ones Win。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide; The Bold Ones Win.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Weekend at Bernie’s；Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Weekend at Bernie’s; Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -547,8 +549,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -1456,33 +1458,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
+        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine"
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "sources": [
         {
@@ -1496,25 +1498,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Hook It Up to the Machine",
-          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
+          "feed_title": "berthub.eu",
+          "title": "Big tech clouds worden niet veiliger met stapels papier",
+          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
