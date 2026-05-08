@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-05-07T22:46:32Z",
+  "generated_at": "2026-05-08T06:29:52Z",
   "days": [
+    {
+      "date": "2026-05-08",
+      "total": 4,
+      "feeds": [
+        "borretti.me (1)",
+        "krebsonsecurity.com (1)",
+        "tedium.co (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Detecting (or not) the use of -l and -c together in Bourne shells",
+        "krebsonsecurity.com · Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+        "tedium.co · The Bold Ones Win",
+        "borretti.me · Notes on the Hantavirus Outbreak"
+      ],
+      "key_points": [
+        "Detecting (or not) the use of -l and -c together in Bourne shells",
+        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+        "The Bold Ones Win",
+        "Notes on the Hantavirus Outbreak"
+      ],
+      "key_points_zh": [
+        "Detecting (or not) the use of -l and -c together in Bourne shells",
+        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+        "The Bold Ones Win",
+        "Notes on the Hantavirus Outbreak"
+      ],
+      "key_points_en": [
+        "Detecting (or not) the use of -l and -c together in Bourne shells",
+        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+        "The Bold Ones Win",
+        "Notes on the Hantavirus Outbreak"
+      ],
+      "tweet_drafts": [
+        "Detecting (or not) the use of -l and -c together in Bourne shells",
+        "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+        "The Bold Ones Win"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Detecting (or not) the use of -l and -c together in Bourne shells",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand"
+        },
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "Canvas Breach Disrupts Schools \u0026 Colleges Nationwide",
+          "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/"
+        },
+        {
+          "feed_title": "tedium.co",
+          "title": "The Bold Ones Win",
+          "link": "https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets"
+        }
+      ],
+      "summary_zh": "2026-05-08 技术日报：Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide；The Bold Ones Win。",
+      "summary_en": "Daily brief (2026-05-08): Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide; The Bold Ones Win.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-08 日报】Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide；The Bold Ones Win。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-08): Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide; The Bold Ones Win. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-08）\n- Detecting (or not) the use of -l and -c together in Bourne shells\n- Canvas Breach Disrupts Schools \u0026 Colleges Nationwide\n- The Bold Ones Win\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand\n- https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/\n- https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-08)\n- Detecting (or not) the use of -l and -c together in Bourne shells\n- Canvas Breach Disrupts Schools \u0026 Colleges Nationwide\n- The Bold Ones Win\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand\n- https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/\n- https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Detecting (or not) the use of -l and -c together in Bourne shells；Canvas Breach Disrupts Schools \u0026 Colleges Nationwide；The Bold Ones Win。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Detecting (or not) the use of -l and -c together in Bourne shells; Canvas Breach Disrupts Schools \u0026 Colleges Nationwide; The Bold Ones Win.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-05-07",
       "total": 18,
@@ -1002,33 +1074,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -1042,25 +1114,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1382,33 +1454,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
+        "blog.jim-nielsen.com · Hook It Up to the Machine",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Big tech clouds worden niet veiliger met stapels papier",
+        "Hook It Up to the Machine"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Hook It Up to the Machine"
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "sources": [
         {
@@ -1422,25 +1494,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Hook It Up to the Machine",
-          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
+          "feed_title": "berthub.eu",
+          "title": "Big tech clouds worden niet veiliger met stapels papier",
+          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2201,82 +2273,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe；GitHub Repo Size；Adobe Diddles With Your /etc/hosts File。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe; GitHub Repo Size; Adobe Diddles With Your /etc/hosts File.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-08",
-      "total": 12,
-      "feeds": [
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "geohot.github.io (1)",
-        "lucumr.pocoo.org (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "geohot.github.io · Hong Kong Disneyland Speedrun Guide",
-        "daringfireball.net · Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
-        "wheresyoured.at · AI Is Really Weird",
-        "simonwillison.net · Quoting Giles Turnbull",
-        "devblogs.microsoft.com/oldnewthing · How do you add or remove a handle from an active Msg­Wait­For­Multiple­Objects?",
-        "pluralistic.net · Pluralistic: Process knowledge (08 Apr 2026)"
-      ],
-      "key_points": [
-        "Hong Kong Disneyland Speedrun Guide",
-        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
-        "AI Is Really Weird",
-        "Quoting Giles Turnbull"
-      ],
-      "key_points_zh": [
-        "Hong Kong Disneyland Speedrun Guide",
-        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
-        "AI Is Really Weird",
-        "Quoting Giles Turnbull"
-      ],
-      "key_points_en": [
-        "Hong Kong Disneyland Speedrun Guide",
-        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
-        "AI Is Really Weird",
-        "Quoting Giles Turnbull"
-      ],
-      "tweet_drafts": [
-        "Hong Kong Disneyland Speedrun Guide",
-        "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
-        "AI Is Really Weird"
-      ],
-      "sources": [
-        {
-          "feed_title": "geohot.github.io",
-          "title": "Hong Kong Disneyland Speedrun Guide",
-          "link": "https://geohot.github.io//blog/jekyll/update/2026/04/09/hk-disneyland.html"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public",
-          "link": "https://red.anthropic.com/2026/mythos-preview/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "AI Is Really Weird",
-          "link": "https://www.wheresyoured.at/ai-is-really-weird/"
-        }
-      ],
-      "summary_zh": "2026-04-08 技术日报：Hong Kong Disneyland Speedrun Guide；Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public；AI Is Really Weird。",
-      "summary_en": "Daily brief (2026-04-08): Hong Kong Disneyland Speedrun Guide; Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public; AI Is Really Weird.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-08 日报】Hong Kong Disneyland Speedrun Guide；Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public；AI Is Really Weird。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-08): Hong Kong Disneyland Speedrun Guide; Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public; AI Is Really Weird. Actionable takeaways included. What would you sh"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-08）\n- Hong Kong Disneyland Speedrun Guide\n- Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public\n- AI Is Really Weird\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://geohot.github.io//blog/jekyll/update/2026/04/09/hk-disneyland.html\n- https://red.anthropic.com/2026/mythos-preview/\n- https://www.wheresyoured.at/ai-is-really-weird/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-08)\n- Hong Kong Disneyland Speedrun Guide\n- Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public\n- AI Is Really Weird\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://geohot.github.io//blog/jekyll/update/2026/04/09/hk-disneyland.html\n- https://red.anthropic.com/2026/mythos-preview/\n- https://www.wheresyoured.at/ai-is-really-weird/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Hong Kong Disneyland Speedrun Guide；Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public；AI Is Really Weird。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Hong Kong Disneyland Speedrun Guide; Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public; AI Is Really Weird.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
