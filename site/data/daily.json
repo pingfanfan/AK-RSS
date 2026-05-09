@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-05-09T10:18:30Z",
+  "generated_at": "2026-05-09T10:45:49Z",
   "days": [
     {
       "date": "2026-05-09",
-      "total": 4,
+      "total": 5,
       "feeds": [
+        "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "simonwillison.net (1)",
         "susam.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · The Mismeasure of Open Source",
         "utcc.utoronto.ca/~cks · Notes on using GNU Emacs' Tramp system in an unusual shell environment",
         "simonwillison.net · Quoting Luke Curley",
-        "susam.net · I Will Not Add Query Strings to Your URLs",
-        "seangoedecke.com · AI makes weak engineers less harmful"
+        "seangoedecke.com · AI makes weak engineers less harmful",
+        "susam.net · I Will Not Add Query Strings to Your URLs"
       ],
       "key_points": [
+        "The Mismeasure of Open Source",
         "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
         "Quoting Luke Curley",
-        "I Will Not Add Query Strings to Your URLs",
         "AI makes weak engineers less harmful"
       ],
       "key_points_zh": [
+        "The Mismeasure of Open Source",
         "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
         "Quoting Luke Curley",
-        "I Will Not Add Query Strings to Your URLs",
         "AI makes weak engineers less harmful"
       ],
       "key_points_en": [
+        "The Mismeasure of Open Source",
         "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
         "Quoting Luke Curley",
-        "I Will Not Add Query Strings to Your URLs",
         "AI makes weak engineers less harmful"
       ],
       "tweet_drafts": [
+        "The Mismeasure of Open Source",
         "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
-        "Quoting Luke Curley",
-        "I Will Not Add Query Strings to Your URLs"
+        "Quoting Luke Curley"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "The Mismeasure of Open Source",
+          "link": "https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
@@ -49,27 +56,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Luke Curley",
           "link": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything"
-        },
-        {
-          "feed_title": "susam.net",
-          "title": "I Will Not Add Query Strings to Your URLs",
-          "link": "https://susam.net/no-query-strings.html"
         }
       ],
-      "summary_zh": "2026-05-09 技术日报：Notes on using GNU Emacs' Tramp system in an unusual shell environment；Quoting Luke Curley；I Will Not Add Query Strings to Your URLs。",
-      "summary_en": "Daily brief (2026-05-09): Notes on using GNU Emacs' Tramp system in an unusual shell environment; Quoting Luke Curley; I Will Not Add Query Strings to Your URLs.",
+      "summary_zh": "2026-05-09 技术日报：The Mismeasure of Open Source；Notes on using GNU Emacs' Tramp system in an unusual shell environment；Quoting Luke Curley。",
+      "summary_en": "Daily brief (2026-05-09): The Mismeasure of Open Source; Notes on using GNU Emacs' Tramp system in an unusual shell environment; Quoting Luke Curley.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-09 日报】Notes on using GNU Emacs' Tramp system in an unusual shell environment；Quoting Luke Curley；I Will Not Add Query Strings to Your URLs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-09): Notes on using GNU Emacs' Tramp system in an unusual shell environment; Quoting Luke Curley; I Will Not Add Query Strings to Your URLs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-09 日报】The Mismeasure of Open Source；Notes on using GNU Emacs' Tramp system in an unusual shell environment；Quoting Luke Curley。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-09): The Mismeasure of Open Source; Notes on using GNU Emacs' Tramp system in an unusual shell environment; Quoting Luke Curley. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-09）\n- Notes on using GNU Emacs' Tramp system in an unusual shell environment\n- Quoting Luke Curley\n- I Will Not Add Query Strings to Your URLs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes\n- https://simonwillison.net/2026/May/9/luke-curley/#atom-everything\n- https://susam.net/no-query-strings.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-09)\n- Notes on using GNU Emacs' Tramp system in an unusual shell environment\n- Quoting Luke Curley\n- I Will Not Add Query Strings to Your URLs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes\n- https://simonwillison.net/2026/May/9/luke-curley/#atom-everything\n- https://susam.net/no-query-strings.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-09）\n- The Mismeasure of Open Source\n- Notes on using GNU Emacs' Tramp system in an unusual shell environment\n- Quoting Luke Curley\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes\n- https://simonwillison.net/2026/May/9/luke-curley/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-09)\n- The Mismeasure of Open Source\n- Notes on using GNU Emacs' Tramp system in an unusual shell environment\n- Quoting Luke Curley\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes\n- https://simonwillison.net/2026/May/9/luke-curley/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Notes on using GNU Emacs' Tramp system in an unusual shell environment；Quoting Luke Curley；I Will Not Add Query Strings to Your URLs。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Notes on using GNU Emacs' Tramp system in an unusual shell environment; Quoting Luke Curley; I Will Not Add Query Strings to Your URLs.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Mismeasure of Open Source；Notes on using GNU Emacs' Tramp system in an unusual shell environment；Quoting Luke Curley。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Mismeasure of Open Source; Notes on using GNU Emacs' Tramp system in an unusual shell environment; Quoting Luke Curley.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -90,7 +92,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1150,33 +1152,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -1190,25 +1192,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
