@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-09 11:44:44 UTC
+Generated at: 2026-05-09 12:12:40 UTC
 
-- [Book Review: The Names by Florence Knapp ★★⯪☆☆](https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/) (`shkspr.mobi`)
+- [Reading List 05/09/2026](https://www.construction-physics.com/p/reading-list-05092026) (`construction-physics.com`)
