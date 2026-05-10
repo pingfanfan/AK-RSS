@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-10 11:17:35 UTC
+Generated at: 2026-05-10 11:45:00 UTC
 
-- [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html) (`nesbitt.io`)
+- [[RSS Club] A Sneak Preview of Upcoming Posts](https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/) (`shkspr.mobi`)
