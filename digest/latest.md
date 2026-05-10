@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-10 10:33:27 UTC
+Generated at: 2026-05-10 11:17:35 UTC
 
-- [The left-wing case for AI](https://seangoedecke.com/the-left-wing-case-for-ai/) (`seangoedecke.com`)
+- [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html) (`nesbitt.io`)
