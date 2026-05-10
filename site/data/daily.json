@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-05-10T17:17:48Z",
+  "generated_at": "2026-05-10T17:45:10Z",
   "days": [
     {
       "date": "2026-05-10",
-      "total": 4,
+      "total": 5,
       "feeds": [
+        "johndcook.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Reverse engineering Mersenne Twister with Linear Algebra",
         "simonwillison.net · Quoting Andrew Quinn",
         "shkspr.mobi · [RSS Club] A Sneak Preview of Upcoming Posts",
         "nesbitt.io · Madame Semver Will See You Now",
         "seangoedecke.com · The left-wing case for AI"
       ],
       "key_points": [
-        "Quoting Andrew Quinn",
-        "[RSS Club] A Sneak Preview of Upcoming Posts",
-        "Madame Semver Will See You Now",
-        "The left-wing case for AI"
-      ],
-      "key_points_zh": [
-        "Quoting Andrew Quinn",
-        "[RSS Club] A Sneak Preview of Upcoming Posts",
-        "Madame Semver Will See You Now",
-        "The left-wing case for AI"
-      ],
-      "key_points_en": [
-        "Quoting Andrew Quinn",
-        "[RSS Club] A Sneak Preview of Upcoming Posts",
-        "Madame Semver Will See You Now",
-        "The left-wing case for AI"
-      ],
-      "tweet_drafts": [
+        "Reverse engineering Mersenne Twister with Linear Algebra",
         "Quoting Andrew Quinn",
         "[RSS Club] A Sneak Preview of Upcoming Posts",
         "Madame Semver Will See You Now"
       ],
+      "key_points_zh": [
+        "Reverse engineering Mersenne Twister with Linear Algebra",
+        "Quoting Andrew Quinn",
+        "[RSS Club] A Sneak Preview of Upcoming Posts",
+        "Madame Semver Will See You Now"
+      ],
+      "key_points_en": [
+        "Reverse engineering Mersenne Twister with Linear Algebra",
+        "Quoting Andrew Quinn",
+        "[RSS Club] A Sneak Preview of Upcoming Posts",
+        "Madame Semver Will See You Now"
+      ],
+      "tweet_drafts": [
+        "Reverse engineering Mersenne Twister with Linear Algebra",
+        "Quoting Andrew Quinn",
+        "[RSS Club] A Sneak Preview of Upcoming Posts"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Reverse engineering Mersenne Twister with Linear Algebra",
+          "link": "https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Andrew Quinn",
@@ -49,27 +56,22 @@
           "feed_title": "shkspr.mobi",
           "title": "[RSS Club] A Sneak Preview of Upcoming Posts",
           "link": "https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Madame Semver Will See You Now",
-          "link": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html"
         }
       ],
-      "summary_zh": "2026-05-10 技术日报：Quoting Andrew Quinn；[RSS Club] A Sneak Preview of Upcoming Posts；Madame Semver Will See You Now。",
-      "summary_en": "Daily brief (2026-05-10): Quoting Andrew Quinn; [RSS Club] A Sneak Preview of Upcoming Posts; Madame Semver Will See You Now.",
+      "summary_zh": "2026-05-10 技术日报：Reverse engineering Mersenne Twister with Linear Algebra；Quoting Andrew Quinn；[RSS Club] A Sneak Preview of Upcoming Posts。",
+      "summary_en": "Daily brief (2026-05-10): Reverse engineering Mersenne Twister with Linear Algebra; Quoting Andrew Quinn; [RSS Club] A Sneak Preview of Upcoming Posts.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-10 日报】Quoting Andrew Quinn；[RSS Club] A Sneak Preview of Upcoming Posts；Madame Semver Will See You Now。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-10): Quoting Andrew Quinn; [RSS Club] A Sneak Preview of Upcoming Posts; Madame Semver Will See You Now. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-10 日报】Reverse engineering Mersenne Twister with Linear Algebra；Quoting Andrew Quinn；[RSS Club] A Sneak Preview of Upcoming Posts。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-10): Reverse engineering Mersenne Twister with Linear Algebra; Quoting Andrew Quinn; [RSS Club] A Sneak Preview of Upcoming Posts. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-10）\n- Quoting Andrew Quinn\n- [RSS Club] A Sneak Preview of Upcoming Posts\n- Madame Semver Will See You Now\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything\n- https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/\n- https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-10)\n- Quoting Andrew Quinn\n- [RSS Club] A Sneak Preview of Upcoming Posts\n- Madame Semver Will See You Now\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything\n- https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/\n- https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-10）\n- Reverse engineering Mersenne Twister with Linear Algebra\n- Quoting Andrew Quinn\n- [RSS Club] A Sneak Preview of Upcoming Posts\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n- https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything\n- https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-10)\n- Reverse engineering Mersenne Twister with Linear Algebra\n- Quoting Andrew Quinn\n- [RSS Club] A Sneak Preview of Upcoming Posts\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n- https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything\n- https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Andrew Quinn；[RSS Club] A Sneak Preview of Upcoming Posts；Madame Semver Will See You Now。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Andrew Quinn; [RSS Club] A Sneak Preview of Upcoming Posts; Madame Semver Will See You Now.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Reverse engineering Mersenne Twister with Linear Algebra；Quoting Andrew Quinn；[RSS Club] A Sneak Preview of Upcoming Posts。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Reverse engineering Mersenne Twister with Linear Algebra; Quoting Andrew Quinn; [RSS Club] A Sneak Preview of Upcoming Posts.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -166,7 +168,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -697,8 +699,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -1226,33 +1228,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -1266,25 +1268,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
