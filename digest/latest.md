@@ -1,4 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-10 14:44:51 UTC
+Generated at: 2026-05-10 15:17:31 UTC
 
+- [Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) (`simonwillison.net`)
