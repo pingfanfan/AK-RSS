@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-11 11:36:30 UTC
+Generated at: 2026-05-11 12:51:05 UTC
 
-- [proxy](https://nesbitt.io/2026/05/11/proxy.html) (`nesbitt.io`)
-- [Sony Betamax VCR: Born May 10, 1975](https://dfarq.homeip.net/sony-betamax-vcr-born-may-10-1975/?utm_source=rss&utm_medium=rss&utm_campaign=sony-betamax-vcr-born-may-10-1975) (`dfarq.homeip.net`)
+- [We Are Not Going to Agree on AI](https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed) (`idiallo.com`)
+- [Find blog posts with missing featured images - and missing alt text - without a plugin](https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/) (`shkspr.mobi`)
