@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-11 12:51:05 UTC
+Generated at: 2026-05-11 13:51:30 UTC
 
-- [We Are Not Going to Agree on AI](https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed) (`idiallo.com`)
-- [Find blog posts with missing featured images - and missing alt text - without a plugin](https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/) (`shkspr.mobi`)
+- [Probability that a random binary matrix is invertible](https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/) (`johndcook.com`)
