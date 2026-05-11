@@ -1,48 +1,126 @@
 {
-  "generated_at": "2026-05-10T22:44:18Z",
+  "generated_at": "2026-05-11T07:00:55Z",
   "days": [
     {
+      "date": "2026-05-11",
+      "total": 4,
+      "feeds": [
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)",
+        "troyhunt.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "joanwestenberg.com · Fear is information.",
+        "utcc.utoronto.ca/~cks · Moving from lsp-mode in GNU Emacs to Eglot",
+        "troyhunt.com · Welcoming the Costa Rican Government to Have I Been Pwned",
+        "simonwillison.net · Quoting New York Times Editors’ Note"
+      ],
+      "key_points": [
+        "Fear is information",
+        "Moving from lsp-mode in GNU Emacs to Eglot",
+        "Welcoming the Costa Rican Government to Have I Been Pwned",
+        "Quoting New York Times Editors’ Note"
+      ],
+      "key_points_zh": [
+        "Fear is information",
+        "Moving from lsp-mode in GNU Emacs to Eglot",
+        "Welcoming the Costa Rican Government to Have I Been Pwned",
+        "Quoting New York Times Editors’ Note"
+      ],
+      "key_points_en": [
+        "Fear is information",
+        "Moving from lsp-mode in GNU Emacs to Eglot",
+        "Welcoming the Costa Rican Government to Have I Been Pwned",
+        "Quoting New York Times Editors’ Note"
+      ],
+      "tweet_drafts": [
+        "Fear is information",
+        "Moving from lsp-mode in GNU Emacs to Eglot",
+        "Welcoming the Costa Rican Government to Have I Been Pwned"
+      ],
+      "sources": [
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Fear is information.",
+          "link": "https://www.joanwestenberg.com/fear-is-information/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Moving from lsp-mode in GNU Emacs to Eglot",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot"
+        },
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Welcoming the Costa Rican Government to Have I Been Pwned",
+          "link": "https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/"
+        }
+      ],
+      "summary_zh": "2026-05-11 技术日报：Fear is information；Moving from lsp-mode in GNU Emacs to Eglot；Welcoming the Costa Rican Government to Have I Been Pwned。",
+      "summary_en": "Daily brief (2026-05-11): Fear is information; Moving from lsp-mode in GNU Emacs to Eglot; Welcoming the Costa Rican Government to Have I Been Pwned.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-11 日报】Fear is information；Moving from lsp-mode in GNU Emacs to Eglot；Welcoming the Costa Rican Government to Have I Been Pwned。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-11): Fear is information; Moving from lsp-mode in GNU Emacs to Eglot; Welcoming the Costa Rican Government to Have I Been Pwned. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-11）\n- Fear is information\n- Moving from lsp-mode in GNU Emacs to Eglot\n- Welcoming the Costa Rican Government to Have I Been Pwned\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/fear-is-information/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot\n- https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-11)\n- Fear is information\n- Moving from lsp-mode in GNU Emacs to Eglot\n- Welcoming the Costa Rican Government to Have I Been Pwned\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/fear-is-information/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot\n- https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Fear is information；Moving from lsp-mode in GNU Emacs to Eglot；Welcoming the Costa Rican Government to Have I Been Pwned。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Fear is information; Moving from lsp-mode in GNU Emacs to Eglot; Welcoming the Costa Rican Government to Have I Been Pwned.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-05-10",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "johndcook.com (2)",
+        "blog.jim-nielsen.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · Out With the JS, In With the HTML",
         "johndcook.com · The linear algebra of bit twiddling",
         "johndcook.com · Reverse engineering Mersenne Twister with Linear Algebra",
         "simonwillison.net · Quoting Andrew Quinn",
         "shkspr.mobi · [RSS Club] A Sneak Preview of Upcoming Posts",
-        "nesbitt.io · Madame Semver Will See You Now",
-        "seangoedecke.com · The left-wing case for AI"
+        "nesbitt.io · Madame Semver Will See You Now"
       ],
       "key_points": [
-        "The linear algebra of bit twiddling",
-        "Reverse engineering Mersenne Twister with Linear Algebra",
-        "Quoting Andrew Quinn",
-        "[RSS Club] A Sneak Preview of Upcoming Posts"
-      ],
-      "key_points_zh": [
-        "The linear algebra of bit twiddling",
-        "Reverse engineering Mersenne Twister with Linear Algebra",
-        "Quoting Andrew Quinn",
-        "[RSS Club] A Sneak Preview of Upcoming Posts"
-      ],
-      "key_points_en": [
-        "The linear algebra of bit twiddling",
-        "Reverse engineering Mersenne Twister with Linear Algebra",
-        "Quoting Andrew Quinn",
-        "[RSS Club] A Sneak Preview of Upcoming Posts"
-      ],
-      "tweet_drafts": [
+        "Out With the JS, In With the HTML",
         "The linear algebra of bit twiddling",
         "Reverse engineering Mersenne Twister with Linear Algebra",
         "Quoting Andrew Quinn"
       ],
+      "key_points_zh": [
+        "Out With the JS, In With the HTML",
+        "The linear algebra of bit twiddling",
+        "Reverse engineering Mersenne Twister with Linear Algebra",
+        "Quoting Andrew Quinn"
+      ],
+      "key_points_en": [
+        "Out With the JS, In With the HTML",
+        "The linear algebra of bit twiddling",
+        "Reverse engineering Mersenne Twister with Linear Algebra",
+        "Quoting Andrew Quinn"
+      ],
+      "tweet_drafts": [
+        "Out With the JS, In With the HTML",
+        "The linear algebra of bit twiddling",
+        "Reverse engineering Mersenne Twister with Linear Algebra"
+      ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Out With the JS, In With the HTML",
+          "link": "https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "The linear algebra of bit twiddling",
@@ -52,27 +130,22 @@
           "feed_title": "johndcook.com",
           "title": "Reverse engineering Mersenne Twister with Linear Algebra",
           "link": "https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Andrew Quinn",
-          "link": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-10 技术日报：The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra；Quoting Andrew Quinn。",
-      "summary_en": "Daily brief (2026-05-10): The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra; Quoting Andrew Quinn.",
+      "summary_zh": "2026-05-10 技术日报：Out With the JS, In With the HTML；The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra。",
+      "summary_en": "Daily brief (2026-05-10): Out With the JS, In With the HTML; The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-10 日报】The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra；Quoting Andrew Quinn。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-10): The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra; Quoting Andrew Quinn. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-10 日报】Out With the JS, In With the HTML；The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-10): Out With the JS, In With the HTML; The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-10）\n- The linear algebra of bit twiddling\n- Reverse engineering Mersenne Twister with Linear Algebra\n- Quoting Andrew Quinn\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n- https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-10)\n- The linear algebra of bit twiddling\n- Reverse engineering Mersenne Twister with Linear Algebra\n- Quoting Andrew Quinn\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n- https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-10）\n- Out With the JS, In With the HTML\n- The linear algebra of bit twiddling\n- Reverse engineering Mersenne Twister with Linear Algebra\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/\n- https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-10)\n- Out With the JS, In With the HTML\n- The linear algebra of bit twiddling\n- Reverse engineering Mersenne Twister with Linear Algebra\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/\n- https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra；Quoting Andrew Quinn。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra; Quoting Andrew Quinn.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Out With the JS, In With the HTML；The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Out With the JS, In With the HTML; The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -169,7 +242,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -700,8 +773,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -1109,12 +1182,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1130,8 +1203,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -2200,82 +2273,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Viktor Orban Concedes Election Defeat in Hungary；That’s a Skill Issue；Golden Tickets。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Viktor Orban Concedes Election Defeat in Hungary; That’s a Skill Issue; Golden Tickets.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-11",
-      "total": 9,
-      "feeds": [
-        "computer.rip (1)",
-        "construction-physics.com (1)",
-        "daringfireball.net (1)",
-        "idiallo.com (1)",
-        "lucumr.pocoo.org (1)",
-        "pluralistic.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · SQLite 3.53.0",
-        "daringfireball.net · Pan American Luggage Labels",
-        "pluralistic.net · Pluralistic: Don't Be Evil (11 Apr 2026)",
-        "construction-physics.com · Reading List 04/11/2026",
-        "shkspr.mobi · Cheapest way to keep a UK mobile number using an eSIM",
-        "utcc.utoronto.ca/~cks · I'm now using nftables for (new) static rulesets"
-      ],
-      "key_points": [
-        "SQLite 3.53.0",
-        "Pan American Luggage Labels",
-        "Pluralistic: Don't Be Evil (11 Apr 2026)",
-        "Reading List 04/11/2026"
-      ],
-      "key_points_zh": [
-        "SQLite 3.53.0",
-        "Pan American Luggage Labels",
-        "Pluralistic: Don't Be Evil (11 Apr 2026)",
-        "Reading List 04/11/2026"
-      ],
-      "key_points_en": [
-        "SQLite 3.53.0",
-        "Pan American Luggage Labels",
-        "Pluralistic: Don't Be Evil (11 Apr 2026)",
-        "Reading List 04/11/2026"
-      ],
-      "tweet_drafts": [
-        "SQLite 3.53.0",
-        "Pan American Luggage Labels",
-        "Pluralistic: Don't Be Evil (11 Apr 2026)"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "SQLite 3.53.0",
-          "link": "https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Pan American Luggage Labels",
-          "link": "https://ellafreire.com/collections/pan-american-luggage-labels"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Don't Be Evil (11 Apr 2026)",
-          "link": "https://pluralistic.net/2026/04/11/obvious-terrible-ideas/"
-        }
-      ],
-      "summary_zh": "2026-04-11 技术日报：SQLite 3.53.0；Pan American Luggage Labels；Pluralistic: Don't Be Evil (11 Apr 2026)。",
-      "summary_en": "Daily brief (2026-04-11): SQLite 3.53.0; Pan American Luggage Labels; Pluralistic: Don't Be Evil (11 Apr 2026).",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-11 日报】SQLite 3.53.0；Pan American Luggage Labels；Pluralistic: Don't Be Evil (11 Apr 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-11): SQLite 3.53.0; Pan American Luggage Labels; Pluralistic: Don't Be Evil (11 Apr 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-11）\n- SQLite 3.53.0\n- Pan American Luggage Labels\n- Pluralistic: Don't Be Evil (11 Apr 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything\n- https://ellafreire.com/collections/pan-american-luggage-labels\n- https://pluralistic.net/2026/04/11/obvious-terrible-ideas/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-11)\n- SQLite 3.53.0\n- Pan American Luggage Labels\n- Pluralistic: Don't Be Evil (11 Apr 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything\n- https://ellafreire.com/collections/pan-american-luggage-labels\n- https://pluralistic.net/2026/04/11/obvious-terrible-ideas/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：SQLite 3.53.0；Pan American Luggage Labels；Pluralistic: Don't Be Evil (11 Apr 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: SQLite 3.53.0; Pan American Luggage Labels; Pluralistic: Don't Be Evil (11 Apr 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
