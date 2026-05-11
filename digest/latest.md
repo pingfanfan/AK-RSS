@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-11 10:09:43 UTC
+Generated at: 2026-05-11 11:36:30 UTC
 
-- [Pluralistic: 2024 (apart from the obvious) (11 May 2026)](https://pluralistic.net/2026/05/11/postmortem/) (`pluralistic.net`)
-- [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html) (`susam.net`)
+- [proxy](https://nesbitt.io/2026/05/11/proxy.html) (`nesbitt.io`)
+- [Sony Betamax VCR: Born May 10, 1975](https://dfarq.homeip.net/sony-betamax-vcr-born-may-10-1975/?utm_source=rss&utm_medium=rss&utm_campaign=sony-betamax-vcr-born-may-10-1975) (`dfarq.homeip.net`)
