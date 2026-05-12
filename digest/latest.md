@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-12 12:32:31 UTC
+Generated at: 2026-05-12 13:32:30 UTC
 
-- [Initialize and print 128-bit integers in C](https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/) (`johndcook.com`)
+- [Shame them, shun them, ban them, beat them!](https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat) (`experimental-history.com`)
