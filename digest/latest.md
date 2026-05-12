@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-12 15:48:10 UTC
+Generated at: 2026-05-12 16:39:51 UTC
 
-- [Building Software Requires Digestion](https://blog.jim-nielsen.com/2026/software-requires-digestion/) (`blog.jim-nielsen.com`)
+- [Where Are All The Data Centers?](https://www.wheresyoured.at/where-are-all-the-data-centers/) (`wheresyoured.at`)
