@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-12T13:32:44Z",
+  "generated_at": "2026-05-12T14:53:13Z",
   "days": [
     {
       "date": "2026-05-12",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "johndcook.com (3)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)",
-        "joanwestenberg.com (1)",
-        "matklad.github.io (1)"
+        "jeffgeerling.com (1)",
+        "joanwestenberg.com (1)"
       ],
       "highlights": [
+        "jeffgeerling.com · Bambu Lab is abusing the open source social contract",
         "experimental-history.com · Shame them, shun them, ban them, beat them!",
         "johndcook.com · Initialize and print 128-bit integers in C",
         "johndcook.com · Hacking the lehmer64 RNG",
         "dfarq.homeip.net · Why the Wannacry outbreak was so bad",
-        "joanwestenberg.com · Position or Perish: The Narrative Blueprint",
-        "nesbitt.io · Not a Security Issue"
+        "joanwestenberg.com · Position or Perish: The Narrative Blueprint"
       ],
       "key_points": [
-        "Shame them, shun them, ban them, beat them!",
-        "Initialize and print 128-bit integers in C",
-        "Hacking the lehmer64 RNG",
-        "Why the Wannacry outbreak was so bad"
-      ],
-      "key_points_zh": [
-        "Shame them, shun them, ban them, beat them!",
-        "Initialize and print 128-bit integers in C",
-        "Hacking the lehmer64 RNG",
-        "Why the Wannacry outbreak was so bad"
-      ],
-      "key_points_en": [
-        "Shame them, shun them, ban them, beat them!",
-        "Initialize and print 128-bit integers in C",
-        "Hacking the lehmer64 RNG",
-        "Why the Wannacry outbreak was so bad"
-      ],
-      "tweet_drafts": [
+        "Bambu Lab is abusing the open source social contract",
         "Shame them, shun them, ban them, beat them!",
         "Initialize and print 128-bit integers in C",
         "Hacking the lehmer64 RNG"
       ],
+      "key_points_zh": [
+        "Bambu Lab is abusing the open source social contract",
+        "Shame them, shun them, ban them, beat them!",
+        "Initialize and print 128-bit integers in C",
+        "Hacking the lehmer64 RNG"
+      ],
+      "key_points_en": [
+        "Bambu Lab is abusing the open source social contract",
+        "Shame them, shun them, ban them, beat them!",
+        "Initialize and print 128-bit integers in C",
+        "Hacking the lehmer64 RNG"
+      ],
+      "tweet_drafts": [
+        "Bambu Lab is abusing the open source social contract",
+        "Shame them, shun them, ban them, beat them!",
+        "Initialize and print 128-bit integers in C"
+      ],
       "sources": [
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Bambu Lab is abusing the open source social contract",
+          "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
+        },
         {
           "feed_title": "experimental-history.com",
           "title": "Shame them, shun them, ban them, beat them!",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "Initialize and print 128-bit integers in C",
           "link": "https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Hacking the lehmer64 RNG",
-          "link": "https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/"
         }
       ],
-      "summary_zh": "2026-05-12 技术日报：Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C；Hacking the lehmer64 RNG。",
-      "summary_en": "Daily brief (2026-05-12): Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C; Hacking the lehmer64 RNG.",
+      "summary_zh": "2026-05-12 技术日报：Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C。",
+      "summary_en": "Daily brief (2026-05-12): Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-12 日报】Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C；Hacking the lehmer64 RNG。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-12): Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C; Hacking the lehmer64 RNG. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-12 日报】Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-12): Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-12）\n- Shame them, shun them, ban them, beat them!\n- Initialize and print 128-bit integers in C\n- Hacking the lehmer64 RNG\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-12)\n- Shame them, shun them, ban them, beat them!\n- Initialize and print 128-bit integers in C\n- Hacking the lehmer64 RNG\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-12）\n- Bambu Lab is abusing the open source social contract\n- Shame them, shun them, ban them, beat them!\n- Initialize and print 128-bit integers in C\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-12)\n- Bambu Lab is abusing the open source social contract\n- Shame them, shun them, ban them, beat them!\n- Initialize and print 128-bit integers in C\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C；Hacking the lehmer64 RNG。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C; Hacking the lehmer64 RNG.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1262,12 +1262,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1283,8 +1283,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
