@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-05-12T10:45:49Z",
+  "generated_at": "2026-05-12T11:35:53Z",
   "days": [
     {
       "date": "2026-05-12",
-      "total": 8,
+      "total": 11,
       "feeds": [
+        "johndcook.com (2)",
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
-        "johndcook.com (1)",
         "matklad.github.io (1)",
-        "pluralistic.net (1)",
-        "seangoedecke.com (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "johndcook.com · Hacking the lehmer64 RNG",
+        "dfarq.homeip.net · Why the Wannacry outbreak was so bad",
         "joanwestenberg.com · Position or Perish: The Narrative Blueprint",
+        "nesbitt.io · Not a Security Issue",
         "pluralistic.net · Pluralistic: A fascist paradigm (12 May 2026)",
-        "utcc.utoronto.ca/~cks · A code (reformatting) conundrum in Python, and heuristics",
-        "daringfireball.net · [Sponsor] Drata",
-        "johndcook.com · Euler function",
-        "seangoedecke.com · Thinking Machines and interaction models"
+        "utcc.utoronto.ca/~cks · A code (reformatting) conundrum in Python, and heuristics"
       ],
       "key_points": [
+        "Hacking the lehmer64 RNG",
+        "Why the Wannacry outbreak was so bad",
         "Position or Perish: The Narrative Blueprint",
-        "Pluralistic: A fascist paradigm (12 May 2026)",
-        "A code (reformatting) conundrum in Python, and heuristics",
-        "[Sponsor] Drata"
+        "Not a Security Issue"
       ],
       "key_points_zh": [
+        "Hacking the lehmer64 RNG",
+        "Why the Wannacry outbreak was so bad",
         "Position or Perish: The Narrative Blueprint",
-        "Pluralistic: A fascist paradigm (12 May 2026)",
-        "A code (reformatting) conundrum in Python, and heuristics",
-        "[Sponsor] Drata"
+        "Not a Security Issue"
       ],
       "key_points_en": [
+        "Hacking the lehmer64 RNG",
+        "Why the Wannacry outbreak was so bad",
         "Position or Perish: The Narrative Blueprint",
-        "Pluralistic: A fascist paradigm (12 May 2026)",
-        "A code (reformatting) conundrum in Python, and heuristics",
-        "[Sponsor] Drata"
+        "Not a Security Issue"
       ],
       "tweet_drafts": [
-        "Position or Perish: The Narrative Blueprint",
-        "Pluralistic: A fascist paradigm (12 May 2026)",
-        "A code (reformatting) conundrum in Python, and heuristics"
+        "Hacking the lehmer64 RNG",
+        "Why the Wannacry outbreak was so bad",
+        "Position or Perish: The Narrative Blueprint"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Hacking the lehmer64 RNG",
+          "link": "https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Why the Wannacry outbreak was so bad",
+          "link": "https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad"
+        },
         {
           "feed_title": "joanwestenberg.com",
           "title": "Position or Perish: The Narrative Blueprint",
           "link": "https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: A fascist paradigm (12 May 2026)",
-          "link": "https://pluralistic.net/2026/05/12/donella-meadows/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "A code (reformatting) conundrum in Python, and heuristics",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics"
         }
       ],
-      "summary_zh": "2026-05-12 技术日报：Position or Perish: The Narrative Blueprint；Pluralistic: A fascist paradigm (12 May 2026)；A code (reformatting) conundrum in Python, and heuristics。",
-      "summary_en": "Daily brief (2026-05-12): Position or Perish: The Narrative Blueprint; Pluralistic: A fascist paradigm (12 May 2026); A code (reformatting) conundrum in Python, and heuristics.",
+      "summary_zh": "2026-05-12 技术日报：Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad；Position or Perish: The Narrative Blueprint。",
+      "summary_en": "Daily brief (2026-05-12): Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad; Position or Perish: The Narrative Blueprint.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-12 日报】Position or Perish: The Narrative Blueprint；Pluralistic: A fascist paradigm (12 May 2026)；A code (reformatting) conundrum in Python, and heuristics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-12): Position or Perish: The Narrative Blueprint; Pluralistic: A fascist paradigm (12 May 2026); A code (reformatting) conundrum in Python, and heuristics. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
+          "zh": "【2026-05-12 日报】Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad；Position or Perish: The Narrative Blueprint。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-12): Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad; Position or Perish: The Narrative Blueprint. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-12）\n- Position or Perish: The Narrative Blueprint\n- Pluralistic: A fascist paradigm (12 May 2026)\n- A code (reformatting) conundrum in Python, and heuristics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/\n- https://pluralistic.net/2026/05/12/donella-meadows/\n- https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-12)\n- Position or Perish: The Narrative Blueprint\n- Pluralistic: A fascist paradigm (12 May 2026)\n- A code (reformatting) conundrum in Python, and heuristics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/\n- https://pluralistic.net/2026/05/12/donella-meadows/\n- https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-12）\n- Hacking the lehmer64 RNG\n- Why the Wannacry outbreak was so bad\n- Position or Perish: The Narrative Blueprint\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n- https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad\n- https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-12)\n- Hacking the lehmer64 RNG\n- Why the Wannacry outbreak was so bad\n- Position or Perish: The Narrative Blueprint\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n- https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad\n- https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Position or Perish: The Narrative Blueprint；Pluralistic: A fascist paradigm (12 May 2026)；A code (reformatting) conundrum in Python, and heuristics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Position or Perish: The Narrative Blueprint; Pluralistic: A fascist paradigm (12 May 2026); A code (reformatting) conundrum in Python, and heuristics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad；Position or Perish: The Narrative Blueprint。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad; Position or Perish: The Narrative Blueprint.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -322,7 +322,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -853,8 +853,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -1382,33 +1382,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -1422,25 +1422,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
