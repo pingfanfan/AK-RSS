@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T11:35:53Z",
+  "generated_at": "2026-05-12T12:32:44Z",
   "days": [
     {
       "date": "2026-05-12",
-      "total": 11,
+      "total": 12,
       "feeds": [
-        "johndcook.com (2)",
+        "johndcook.com (3)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "joanwestenberg.com (1)",
@@ -13,37 +13,42 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "johndcook.com · Initialize and print 128-bit integers in C",
         "johndcook.com · Hacking the lehmer64 RNG",
         "dfarq.homeip.net · Why the Wannacry outbreak was so bad",
         "joanwestenberg.com · Position or Perish: The Narrative Blueprint",
         "nesbitt.io · Not a Security Issue",
-        "pluralistic.net · Pluralistic: A fascist paradigm (12 May 2026)",
-        "utcc.utoronto.ca/~cks · A code (reformatting) conundrum in Python, and heuristics"
+        "pluralistic.net · Pluralistic: A fascist paradigm (12 May 2026)"
       ],
       "key_points": [
-        "Hacking the lehmer64 RNG",
-        "Why the Wannacry outbreak was so bad",
-        "Position or Perish: The Narrative Blueprint",
-        "Not a Security Issue"
-      ],
-      "key_points_zh": [
-        "Hacking the lehmer64 RNG",
-        "Why the Wannacry outbreak was so bad",
-        "Position or Perish: The Narrative Blueprint",
-        "Not a Security Issue"
-      ],
-      "key_points_en": [
-        "Hacking the lehmer64 RNG",
-        "Why the Wannacry outbreak was so bad",
-        "Position or Perish: The Narrative Blueprint",
-        "Not a Security Issue"
-      ],
-      "tweet_drafts": [
+        "Initialize and print 128-bit integers in C",
         "Hacking the lehmer64 RNG",
         "Why the Wannacry outbreak was so bad",
         "Position or Perish: The Narrative Blueprint"
       ],
+      "key_points_zh": [
+        "Initialize and print 128-bit integers in C",
+        "Hacking the lehmer64 RNG",
+        "Why the Wannacry outbreak was so bad",
+        "Position or Perish: The Narrative Blueprint"
+      ],
+      "key_points_en": [
+        "Initialize and print 128-bit integers in C",
+        "Hacking the lehmer64 RNG",
+        "Why the Wannacry outbreak was so bad",
+        "Position or Perish: The Narrative Blueprint"
+      ],
+      "tweet_drafts": [
+        "Initialize and print 128-bit integers in C",
+        "Hacking the lehmer64 RNG",
+        "Why the Wannacry outbreak was so bad"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Initialize and print 128-bit integers in C",
+          "link": "https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Hacking the lehmer64 RNG",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Why the Wannacry outbreak was so bad",
           "link": "https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad"
-        },
-        {
-          "feed_title": "joanwestenberg.com",
-          "title": "Position or Perish: The Narrative Blueprint",
-          "link": "https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/"
         }
       ],
-      "summary_zh": "2026-05-12 技术日报：Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad；Position or Perish: The Narrative Blueprint。",
-      "summary_en": "Daily brief (2026-05-12): Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad; Position or Perish: The Narrative Blueprint.",
+      "summary_zh": "2026-05-12 技术日报：Initialize and print 128-bit integers in C；Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad。",
+      "summary_en": "Daily brief (2026-05-12): Initialize and print 128-bit integers in C; Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-12 日报】Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad；Position or Perish: The Narrative Blueprint。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-12): Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad; Position or Perish: The Narrative Blueprint. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-12 日报】Initialize and print 128-bit integers in C；Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-12): Initialize and print 128-bit integers in C; Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-12）\n- Hacking the lehmer64 RNG\n- Why the Wannacry outbreak was so bad\n- Position or Perish: The Narrative Blueprint\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n- https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad\n- https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-12)\n- Hacking the lehmer64 RNG\n- Why the Wannacry outbreak was so bad\n- Position or Perish: The Narrative Blueprint\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n- https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad\n- https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-12）\n- Initialize and print 128-bit integers in C\n- Hacking the lehmer64 RNG\n- Why the Wannacry outbreak was so bad\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n- https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-12)\n- Initialize and print 128-bit integers in C\n- Hacking the lehmer64 RNG\n- Why the Wannacry outbreak was so bad\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n- https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/\n- https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-the-wannacry-outbreak-was-so-bad\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad；Position or Perish: The Narrative Blueprint。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad; Position or Perish: The Narrative Blueprint.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Initialize and print 128-bit integers in C；Hacking the lehmer64 RNG；Why the Wannacry outbreak was so bad。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Initialize and print 128-bit integers in C; Hacking the lehmer64 RNG; Why the Wannacry outbreak was so bad.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -322,7 +322,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
