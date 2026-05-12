@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-12T14:53:13Z",
+  "generated_at": "2026-05-12T15:48:24Z",
   "days": [
     {
       "date": "2026-05-12",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "johndcook.com (3)",
+        "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)",
-        "jeffgeerling.com (1)",
-        "joanwestenberg.com (1)"
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · Building Software Requires Digestion",
         "jeffgeerling.com · Bambu Lab is abusing the open source social contract",
         "experimental-history.com · Shame them, shun them, ban them, beat them!",
         "johndcook.com · Initialize and print 128-bit integers in C",
         "johndcook.com · Hacking the lehmer64 RNG",
-        "dfarq.homeip.net · Why the Wannacry outbreak was so bad",
-        "joanwestenberg.com · Position or Perish: The Narrative Blueprint"
+        "dfarq.homeip.net · Why the Wannacry outbreak was so bad"
       ],
       "key_points": [
-        "Bambu Lab is abusing the open source social contract",
-        "Shame them, shun them, ban them, beat them!",
-        "Initialize and print 128-bit integers in C",
-        "Hacking the lehmer64 RNG"
-      ],
-      "key_points_zh": [
-        "Bambu Lab is abusing the open source social contract",
-        "Shame them, shun them, ban them, beat them!",
-        "Initialize and print 128-bit integers in C",
-        "Hacking the lehmer64 RNG"
-      ],
-      "key_points_en": [
-        "Bambu Lab is abusing the open source social contract",
-        "Shame them, shun them, ban them, beat them!",
-        "Initialize and print 128-bit integers in C",
-        "Hacking the lehmer64 RNG"
-      ],
-      "tweet_drafts": [
+        "Building Software Requires Digestion",
         "Bambu Lab is abusing the open source social contract",
         "Shame them, shun them, ban them, beat them!",
         "Initialize and print 128-bit integers in C"
       ],
+      "key_points_zh": [
+        "Building Software Requires Digestion",
+        "Bambu Lab is abusing the open source social contract",
+        "Shame them, shun them, ban them, beat them!",
+        "Initialize and print 128-bit integers in C"
+      ],
+      "key_points_en": [
+        "Building Software Requires Digestion",
+        "Bambu Lab is abusing the open source social contract",
+        "Shame them, shun them, ban them, beat them!",
+        "Initialize and print 128-bit integers in C"
+      ],
+      "tweet_drafts": [
+        "Building Software Requires Digestion",
+        "Bambu Lab is abusing the open source social contract",
+        "Shame them, shun them, ban them, beat them!"
+      ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Building Software Requires Digestion",
+          "link": "https://blog.jim-nielsen.com/2026/software-requires-digestion/"
+        },
         {
           "feed_title": "jeffgeerling.com",
           "title": "Bambu Lab is abusing the open source social contract",
@@ -53,27 +58,22 @@
           "feed_title": "experimental-history.com",
           "title": "Shame them, shun them, ban them, beat them!",
           "link": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Initialize and print 128-bit integers in C",
-          "link": "https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/"
         }
       ],
-      "summary_zh": "2026-05-12 技术日报：Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C。",
-      "summary_en": "Daily brief (2026-05-12): Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C.",
+      "summary_zh": "2026-05-12 技术日报：Building Software Requires Digestion；Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!。",
+      "summary_en": "Daily brief (2026-05-12): Building Software Requires Digestion; Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-12 日报】Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-12): Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-12 日报】Building Software Requires Digestion；Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-12): Building Software Requires Digestion; Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-12）\n- Bambu Lab is abusing the open source social contract\n- Shame them, shun them, ban them, beat them!\n- Initialize and print 128-bit integers in C\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-12)\n- Bambu Lab is abusing the open source social contract\n- Shame them, shun them, ban them, beat them!\n- Initialize and print 128-bit integers in C\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n- https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-12）\n- Building Software Requires Digestion\n- Bambu Lab is abusing the open source social contract\n- Shame them, shun them, ban them, beat them!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/software-requires-digestion/\n- https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-12)\n- Building Software Requires Digestion\n- Bambu Lab is abusing the open source social contract\n- Shame them, shun them, ban them, beat them!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/software-requires-digestion/\n- https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\n- https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!；Initialize and print 128-bit integers in C。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!; Initialize and print 128-bit integers in C.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Building Software Requires Digestion；Bambu Lab is abusing the open source social contract；Shame them, shun them, ban them, beat them!。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Building Software Requires Digestion; Bambu Lab is abusing the open source social contract; Shame them, shun them, ban them, beat them!.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -322,7 +322,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1382,33 +1382,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -1422,25 +1422,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

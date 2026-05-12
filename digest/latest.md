@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-12 14:52:58 UTC
+Generated at: 2026-05-12 15:48:10 UTC
 
-- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) (`jeffgeerling.com`)
+- [Building Software Requires Digestion](https://blog.jim-nielsen.com/2026/software-requires-digestion/) (`blog.jim-nielsen.com`)
