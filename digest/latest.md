@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-12 09:51:02 UTC
+Generated at: 2026-05-12 10:45:35 UTC
 
-- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) (`matklad.github.io`)
+- [Position or Perish: The Narrative Blueprint](https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/) (`joanwestenberg.com`)
