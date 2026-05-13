@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-05-12T22:48:56Z",
+  "generated_at": "2026-05-13T06:54:44Z",
   "days": [
+    {
+      "date": "2026-05-13",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · CSP Allow-list Experiment",
+        "daringfireball.net · ★ Nextpad++",
+        "utcc.utoronto.ca/~cks · In praise of the Linux kernel netconsole (in the right circumstances)"
+      ],
+      "key_points": [
+        "CSP Allow-list Experiment",
+        "★ Nextpad++",
+        "In praise of the Linux kernel netconsole (in the right circumstances)"
+      ],
+      "key_points_zh": [
+        "CSP Allow-list Experiment",
+        "★ Nextpad++",
+        "In praise of the Linux kernel netconsole (in the right circumstances)"
+      ],
+      "key_points_en": [
+        "CSP Allow-list Experiment",
+        "★ Nextpad++",
+        "In praise of the Linux kernel netconsole (in the right circumstances)"
+      ],
+      "tweet_drafts": [
+        "CSP Allow-list Experiment",
+        "★ Nextpad++",
+        "In praise of the Linux kernel netconsole (in the right circumstances)"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "CSP Allow-list Experiment",
+          "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "★ Nextpad++",
+          "link": "https://daringfireball.net/2026/05/nextpad"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "In praise of the Linux kernel netconsole (in the right circumstances)",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics"
+        }
+      ],
+      "summary_zh": "2026-05-13 技术日报：CSP Allow-list Experiment；★ Nextpad++；In praise of the Linux kernel netconsole (in the right circumstances)。",
+      "summary_en": "Daily brief (2026-05-13): CSP Allow-list Experiment; ★ Nextpad++; In praise of the Linux kernel netconsole (in the right circumstances).",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-13 日报】CSP Allow-list Experiment；★ Nextpad++；In praise of the Linux kernel netconsole (in the right circumstances)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-13): CSP Allow-list Experiment; ★ Nextpad++; In praise of the Linux kernel netconsole (in the right circumstances). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-13）\n- CSP Allow-list Experiment\n- ★ Nextpad++\n- In praise of the Linux kernel netconsole (in the right circumstances)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/13/csp-allow/#atom-everything\n- https://daringfireball.net/2026/05/nextpad\n- https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-13)\n- CSP Allow-list Experiment\n- ★ Nextpad++\n- In praise of the Linux kernel netconsole (in the right circumstances)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/13/csp-allow/#atom-everything\n- https://daringfireball.net/2026/05/nextpad\n- https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：CSP Allow-list Experiment；★ Nextpad++；In praise of the Linux kernel netconsole (in the right circumstances)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: CSP Allow-list Experiment; ★ Nextpad++; In praise of the Linux kernel netconsole (in the right circumstances).\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-05-12",
       "total": 22,
@@ -322,7 +389,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1262,12 +1329,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1283,8 +1350,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -2201,82 +2268,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users；Patch Tuesday, April 2026 Edition；Trusted access for the next era of cyber defense。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users; Patch Tuesday, April 2026 Edition; Trusted access for the next era of cyber defense.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-13",
-      "total": 21,
-      "feeds": [
-        "daringfireball.net (6)",
-        "simonwillison.net (3)",
-        "johndcook.com (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Object Oriented Programming in Ada",
-        "daringfireball.net · [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
-        "simonwillison.net · Quoting Steve Yegge",
-        "daringfireball.net · Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier",
-        "daringfireball.net · John Martellaro, RIP",
-        "daringfireball.net · Marcin Wichary Visits the Large Scale Systems Museum"
-      ],
-      "key_points": [
-        "Object Oriented Programming in Ada",
-        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
-        "Quoting Steve Yegge",
-        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier"
-      ],
-      "key_points_zh": [
-        "Object Oriented Programming in Ada",
-        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
-        "Quoting Steve Yegge",
-        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier"
-      ],
-      "key_points_en": [
-        "Object Oriented Programming in Ada",
-        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
-        "Quoting Steve Yegge",
-        "Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier"
-      ],
-      "tweet_drafts": [
-        "Object Oriented Programming in Ada",
-        "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
-        "Quoting Steve Yegge"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Object Oriented Programming in Ada",
-          "link": "https://entropicthoughts.com/object-oriented-programming-in-ada"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents",
-          "link": "https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Steve Yegge",
-          "link": "https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-04-13 技术日报：Object Oriented Programming in Ada；[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents；Quoting Steve Yegge。",
-      "summary_en": "Daily brief (2026-04-13): Object Oriented Programming in Ada; [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents; Quoting Steve Yegge.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-13 日报】Object Oriented Programming in Ada；[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents；Quoting Steve Yegge。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-13): Object Oriented Programming in Ada; [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents; Quoting Steve Yegge. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-13）\n- Object Oriented Programming in Ada\n- [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents\n- Quoting Steve Yegge\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/object-oriented-programming-in-ada\n- https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-13)\n- Object Oriented Programming in Ada\n- [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents\n- Quoting Steve Yegge\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/object-oriented-programming-in-ada\n- https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Object Oriented Programming in Ada；[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents；Quoting Steve Yegge。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Object Oriented Programming in Ada; [Sponsor] WorkOS FGA: The Authorization Layer for AI Agents; Quoting Steve Yegge.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

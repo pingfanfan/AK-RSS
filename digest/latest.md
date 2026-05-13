@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-12 22:48:43 UTC
+Generated at: 2026-05-13 06:54:30 UTC
 
-- [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything) (`simonwillison.net`)
+- [CSP Allow-list Experiment](https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) (`simonwillison.net`)
+- [★ Nextpad++](https://daringfireball.net/2026/05/nextpad) (`daringfireball.net`)
+- [In praise of the Linux kernel netconsole (in the right circumstances)](https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics) (`utcc.utoronto.ca/~cks`)
