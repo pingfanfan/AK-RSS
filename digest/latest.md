@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-13 16:16:45 UTC
+Generated at: 2026-05-13 17:14:26 UTC
 
-- [Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)](https://pluralistic.net/2026/05/13/vibe-governance/) (`pluralistic.net`)
-- [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/) (`buttondown.com/hillelwayne`)
+- [Quoting Boris Mann](https://simonwillison.net/2026/May/13/boris-mann/#atom-everything) (`simonwillison.net`)
+- [The case of the hang when the user changed keyboard layouts](https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318) (`devblogs.microsoft.com/oldnewthing`)
+- [Ideal failures](https://danieldelaney.net/ideal-failures/) (`danieldelaney.net`)
