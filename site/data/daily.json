@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-13T11:17:17Z",
+  "generated_at": "2026-05-13T12:12:27Z",
   "days": [
     {
       "date": "2026-05-13",
-      "total": 6,
+      "total": 8,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
+        "evanhahn.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Stupidly Simple SVG Sparklines",
         "dfarq.homeip.net · How Shark Tank’s Kevin O’Leary became rich",
         "nesbitt.io · Showing Our Work",
         "simonwillison.net · CSP Allow-list Experiment",
         "daringfireball.net · ★ Nextpad++",
-        "utcc.utoronto.ca/~cks · In praise of the Linux kernel netconsole (in the right circumstances)",
-        "seangoedecke.com · AI datacenters in space do not have a cooling problem"
+        "utcc.utoronto.ca/~cks · In praise of the Linux kernel netconsole (in the right circumstances)"
       ],
       "key_points": [
-        "How Shark Tank’s Kevin O’Leary became rich",
-        "Showing Our Work",
-        "CSP Allow-list Experiment",
-        "★ Nextpad++"
-      ],
-      "key_points_zh": [
-        "How Shark Tank’s Kevin O’Leary became rich",
-        "Showing Our Work",
-        "CSP Allow-list Experiment",
-        "★ Nextpad++"
-      ],
-      "key_points_en": [
-        "How Shark Tank’s Kevin O’Leary became rich",
-        "Showing Our Work",
-        "CSP Allow-list Experiment",
-        "★ Nextpad++"
-      ],
-      "tweet_drafts": [
+        "Stupidly Simple SVG Sparklines",
         "How Shark Tank’s Kevin O’Leary became rich",
         "Showing Our Work",
         "CSP Allow-list Experiment"
       ],
+      "key_points_zh": [
+        "Stupidly Simple SVG Sparklines",
+        "How Shark Tank’s Kevin O’Leary became rich",
+        "Showing Our Work",
+        "CSP Allow-list Experiment"
+      ],
+      "key_points_en": [
+        "Stupidly Simple SVG Sparklines",
+        "How Shark Tank’s Kevin O’Leary became rich",
+        "Showing Our Work",
+        "CSP Allow-list Experiment"
+      ],
+      "tweet_drafts": [
+        "Stupidly Simple SVG Sparklines",
+        "How Shark Tank’s Kevin O’Leary became rich",
+        "Showing Our Work"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Stupidly Simple SVG Sparklines",
+          "link": "https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "How Shark Tank’s Kevin O’Leary became rich",
@@ -53,27 +58,22 @@
           "feed_title": "nesbitt.io",
           "title": "Showing Our Work",
           "link": "https://nesbitt.io/2026/05/13/showing-our-work.html"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "CSP Allow-list Experiment",
-          "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-13 技术日报：How Shark Tank’s Kevin O’Leary became rich；Showing Our Work；CSP Allow-list Experiment。",
-      "summary_en": "Daily brief (2026-05-13): How Shark Tank’s Kevin O’Leary became rich; Showing Our Work; CSP Allow-list Experiment.",
+      "summary_zh": "2026-05-13 技术日报：Stupidly Simple SVG Sparklines；How Shark Tank’s Kevin O’Leary became rich；Showing Our Work。",
+      "summary_en": "Daily brief (2026-05-13): Stupidly Simple SVG Sparklines; How Shark Tank’s Kevin O’Leary became rich; Showing Our Work.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-13 日报】How Shark Tank’s Kevin O’Leary became rich；Showing Our Work；CSP Allow-list Experiment。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-13): How Shark Tank’s Kevin O’Leary became rich; Showing Our Work; CSP Allow-list Experiment. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-13 日报】Stupidly Simple SVG Sparklines；How Shark Tank’s Kevin O’Leary became rich；Showing Our Work。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-13): Stupidly Simple SVG Sparklines; How Shark Tank’s Kevin O’Leary became rich; Showing Our Work. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-13）\n- How Shark Tank’s Kevin O’Leary became rich\n- Showing Our Work\n- CSP Allow-list Experiment\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/how-shark-tanks-kevin-oleary-became-rich/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-shark-tanks-kevin-oleary-became-rich\n- https://nesbitt.io/2026/05/13/showing-our-work.html\n- https://simonwillison.net/2026/May/13/csp-allow/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-13)\n- How Shark Tank’s Kevin O’Leary became rich\n- Showing Our Work\n- CSP Allow-list Experiment\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/how-shark-tanks-kevin-oleary-became-rich/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-shark-tanks-kevin-oleary-became-rich\n- https://nesbitt.io/2026/05/13/showing-our-work.html\n- https://simonwillison.net/2026/May/13/csp-allow/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-13）\n- Stupidly Simple SVG Sparklines\n- How Shark Tank’s Kevin O’Leary became rich\n- Showing Our Work\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/\n- https://dfarq.homeip.net/how-shark-tanks-kevin-oleary-became-rich/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-shark-tanks-kevin-oleary-became-rich\n- https://nesbitt.io/2026/05/13/showing-our-work.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-13)\n- Stupidly Simple SVG Sparklines\n- How Shark Tank’s Kevin O’Leary became rich\n- Showing Our Work\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/\n- https://dfarq.homeip.net/how-shark-tanks-kevin-oleary-became-rich/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-shark-tanks-kevin-oleary-became-rich\n- https://nesbitt.io/2026/05/13/showing-our-work.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How Shark Tank’s Kevin O’Leary became rich；Showing Our Work；CSP Allow-list Experiment。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How Shark Tank’s Kevin O’Leary became rich; Showing Our Work; CSP Allow-list Experiment.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Stupidly Simple SVG Sparklines；How Shark Tank’s Kevin O’Leary became rich；Showing Our Work。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Stupidly Simple SVG Sparklines; How Shark Tank’s Kevin O’Leary became rich; Showing Our Work.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -398,7 +398,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -929,8 +929,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -1458,33 +1458,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -1498,25 +1498,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
