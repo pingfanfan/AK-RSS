@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-13 07:57:21 UTC
+Generated at: 2026-05-13 09:04:26 UTC
 
-- [AI datacenters in space do not have a cooling problem](https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/) (`seangoedecke.com`)
