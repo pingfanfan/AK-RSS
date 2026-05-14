@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-14 15:14:51 UTC
+Generated at: 2026-05-14 16:12:59 UTC
 
-- [The First Democratic Tech Alliance Assembly](https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/) (`berthub.eu`)
+- [Managed agents are the new Lambda](https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
