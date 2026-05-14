@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-05-14T06:53:45Z",
+  "generated_at": "2026-05-14T07:54:13Z",
   "days": [
     {
       "date": "2026-05-14",
-      "total": 5,
+      "total": 6,
       "feeds": [
+        "idiallo.com (1)",
         "simonwillison.net (1)",
         "susam.net (1)",
         "tedium.co (1)",
@@ -12,6 +13,7 @@
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · It's funny because it's true",
         "tedium.co · The Biz Reaper",
         "troyhunt.com · Welcoming the Bahamian Government to Have I Been Pwned",
         "utcc.utoronto.ca/~cks · Going from a ZFS object ID to its path the easier way",
@@ -19,29 +21,34 @@
         "simonwillison.net · Welcome to the Datasette blog"
       ],
       "key_points": [
-        "The Biz Reaper",
-        "Welcoming the Bahamian Government to Have I Been Pwned",
-        "Going from a ZFS object ID to its path the easier way",
-        "Commenting Guidelines"
-      ],
-      "key_points_zh": [
-        "The Biz Reaper",
-        "Welcoming the Bahamian Government to Have I Been Pwned",
-        "Going from a ZFS object ID to its path the easier way",
-        "Commenting Guidelines"
-      ],
-      "key_points_en": [
-        "The Biz Reaper",
-        "Welcoming the Bahamian Government to Have I Been Pwned",
-        "Going from a ZFS object ID to its path the easier way",
-        "Commenting Guidelines"
-      ],
-      "tweet_drafts": [
+        "It's funny because it's true",
         "The Biz Reaper",
         "Welcoming the Bahamian Government to Have I Been Pwned",
         "Going from a ZFS object ID to its path the easier way"
       ],
+      "key_points_zh": [
+        "It's funny because it's true",
+        "The Biz Reaper",
+        "Welcoming the Bahamian Government to Have I Been Pwned",
+        "Going from a ZFS object ID to its path the easier way"
+      ],
+      "key_points_en": [
+        "It's funny because it's true",
+        "The Biz Reaper",
+        "Welcoming the Bahamian Government to Have I Been Pwned",
+        "Going from a ZFS object ID to its path the easier way"
+      ],
+      "tweet_drafts": [
+        "It's funny because it's true",
+        "The Biz Reaper",
+        "Welcoming the Bahamian Government to Have I Been Pwned"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "It's funny because it's true",
+          "link": "https://idiallo.com/byte-size/its-funny-because-its-true?src=feed"
+        },
         {
           "feed_title": "tedium.co",
           "title": "The Biz Reaper",
@@ -51,27 +58,22 @@
           "feed_title": "troyhunt.com",
           "title": "Welcoming the Bahamian Government to Have I Been Pwned",
           "link": "https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Going from a ZFS object ID to its path the easier way",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath"
         }
       ],
-      "summary_zh": "2026-05-14 技术日报：The Biz Reaper；Welcoming the Bahamian Government to Have I Been Pwned；Going from a ZFS object ID to its path the easier way。",
-      "summary_en": "Daily brief (2026-05-14): The Biz Reaper; Welcoming the Bahamian Government to Have I Been Pwned; Going from a ZFS object ID to its path the easier way.",
+      "summary_zh": "2026-05-14 技术日报：It's funny because it's true；The Biz Reaper；Welcoming the Bahamian Government to Have I Been Pwned。",
+      "summary_en": "Daily brief (2026-05-14): It's funny because it's true; The Biz Reaper; Welcoming the Bahamian Government to Have I Been Pwned.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-14 日报】The Biz Reaper；Welcoming the Bahamian Government to Have I Been Pwned；Going from a ZFS object ID to its path the easier way。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-14): The Biz Reaper; Welcoming the Bahamian Government to Have I Been Pwned; Going from a ZFS object ID to its path the easier way. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-14 日报】It's funny because it's true；The Biz Reaper；Welcoming the Bahamian Government to Have I Been Pwned。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-14): It's funny because it's true; The Biz Reaper; Welcoming the Bahamian Government to Have I Been Pwned. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-14）\n- The Biz Reaper\n- Welcoming the Bahamian Government to Have I Been Pwned\n- Going from a ZFS object ID to its path the easier way\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis\n- https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/\n- https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-14)\n- The Biz Reaper\n- Welcoming the Bahamian Government to Have I Been Pwned\n- Going from a ZFS object ID to its path the easier way\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis\n- https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/\n- https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-14）\n- It's funny because it's true\n- The Biz Reaper\n- Welcoming the Bahamian Government to Have I Been Pwned\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/its-funny-because-its-true?src=feed\n- https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis\n- https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-14)\n- It's funny because it's true\n- The Biz Reaper\n- Welcoming the Bahamian Government to Have I Been Pwned\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/its-funny-because-its-true?src=feed\n- https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis\n- https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Biz Reaper；Welcoming the Bahamian Government to Have I Been Pwned；Going from a ZFS object ID to its path the easier way。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Biz Reaper; Welcoming the Bahamian Government to Have I Been Pwned; Going from a ZFS object ID to its path the easier way.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：It's funny because it's true；The Biz Reaper；Welcoming the Bahamian Government to Have I Been Pwned。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: It's funny because it's true; The Biz Reaper; Welcoming the Bahamian Government to Have I Been Pwned.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1003,8 +1005,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -1412,12 +1414,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1433,8 +1435,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1532,33 +1534,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -1572,25 +1574,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1912,33 +1914,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -1952,25 +1954,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
