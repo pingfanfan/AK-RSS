@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-14 20:04:14 UTC
+Generated at: 2026-05-14 20:54:59 UTC
 
-- [Tim Cook Is in Trump’s Executive Entourage for China Summit](https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html) (`daringfireball.net`)
+- [Geoffrey Fowler and the Launch of the Youth AI Safety Institute](https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going) (`daringfireball.net`)
+- [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/) (`xeiaso.net`)
+- [Building a clock from salvaged Vacuum Fluorescent Displays](https://maurycyz.com/projects/tubeclock/) (`maurycyz.com`)
