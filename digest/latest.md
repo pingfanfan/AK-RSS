@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-15 20:03:27 UTC
+Generated at: 2026-05-15 20:46:20 UTC
 
-- [Search engine results are truly terrible](https://maurycyz.com/misc/search/) (`maurycyz.com`)
+- [Wanton Destruction of CBS Property](https://www.youtube.com/watch?v=eBKWKu2Rqxc) (`daringfireball.net`)
