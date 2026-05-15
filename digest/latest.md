@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-15 18:44:16 UTC
+Generated at: 2026-05-15 19:29:06 UTC
 
-- [Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks](https://aluminium-os.com/) (`daringfireball.net`)
+- [Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking](https://dropoverapp.com/) (`daringfireball.net`)
