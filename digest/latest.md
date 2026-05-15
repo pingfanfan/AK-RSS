@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-15 17:59:59 UTC
+Generated at: 2026-05-15 18:44:16 UTC
 
-- [QR code generator](https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything) (`simonwillison.net`)
+- [Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks](https://aluminium-os.com/) (`daringfireball.net`)
