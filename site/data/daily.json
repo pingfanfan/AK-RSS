@@ -1,38 +1,43 @@
 {
-  "generated_at": "2026-05-16T06:41:39Z",
+  "generated_at": "2026-05-16T07:34:09Z",
   "days": [
     {
       "date": "2026-05-16",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "daringfireball.net (1)",
+        "seangoedecke.com (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
         "utcc.utoronto.ca/~cks · Getting C code navigation even for Debian (or Ubuntu) packages",
         "daringfireball.net · The Talk Show: ‘A Sociopathic Father’",
+        "seangoedecke.com · DeepSeek-V4-Flash makes LLM steering interesting again",
         "simonwillison.net · inaturalist-clumper 0.1"
       ],
       "key_points": [
         "Getting C code navigation even for Debian (or Ubuntu) packages",
         "The Talk Show: ‘A Sociopathic Father’",
+        "DeepSeek-V4-Flash makes LLM steering interesting again",
         "inaturalist-clumper 0.1"
       ],
       "key_points_zh": [
         "Getting C code navigation even for Debian (or Ubuntu) packages",
         "The Talk Show: ‘A Sociopathic Father’",
+        "DeepSeek-V4-Flash makes LLM steering interesting again",
         "inaturalist-clumper 0.1"
       ],
       "key_points_en": [
         "Getting C code navigation even for Debian (or Ubuntu) packages",
         "The Talk Show: ‘A Sociopathic Father’",
+        "DeepSeek-V4-Flash makes LLM steering interesting again",
         "inaturalist-clumper 0.1"
       ],
       "tweet_drafts": [
         "Getting C code navigation even for Debian (or Ubuntu) packages",
         "The Talk Show: ‘A Sociopathic Father’",
-        "inaturalist-clumper 0.1"
+        "DeepSeek-V4-Flash makes LLM steering interesting again"
       ],
       "sources": [
         {
@@ -46,25 +51,25 @@
           "link": "https://daringfireball.net/thetalkshow/2026/05/15/ep-447"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "inaturalist-clumper 0.1",
-          "link": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything"
+          "feed_title": "seangoedecke.com",
+          "title": "DeepSeek-V4-Flash makes LLM steering interesting again",
+          "link": "https://seangoedecke.com/steering-vectors/"
         }
       ],
-      "summary_zh": "2026-05-16 技术日报：Getting C code navigation even for Debian (or Ubuntu) packages；The Talk Show: ‘A Sociopathic Father’；inaturalist-clumper 0.1。",
-      "summary_en": "Daily brief (2026-05-16): Getting C code navigation even for Debian (or Ubuntu) packages; The Talk Show: ‘A Sociopathic Father’; inaturalist-clumper 0.1.",
+      "summary_zh": "2026-05-16 技术日报：Getting C code navigation even for Debian (or Ubuntu) packages；The Talk Show: ‘A Sociopathic Father’；DeepSeek-V4-Flash makes LLM steering interesting again。",
+      "summary_en": "Daily brief (2026-05-16): Getting C code navigation even for Debian (or Ubuntu) packages; The Talk Show: ‘A Sociopathic Father’; DeepSeek-V4-Flash makes LLM steering interesting again.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-16 日报】Getting C code navigation even for Debian (or Ubuntu) packages；The Talk Show: ‘A Sociopathic Father’；inaturalist-clumper 0.1。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-16): Getting C code navigation even for Debian (or Ubuntu) packages; The Talk Show: ‘A Sociopathic Father’; inaturalist-clumper 0.1. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-16 日报】Getting C code navigation even for Debian (or Ubuntu) packages；The Talk Show: ‘A Sociopathic Father’；DeepSeek-V4-Flash makes LLM steering interesting again。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-16): Getting C code navigation even for Debian (or Ubuntu) packages; The Talk Show: ‘A Sociopathic Father’; DeepSeek-V4-Flash makes LLM steering interesting again. Actionable takeaways included. What would you ship next? #AI #Engineering"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-16）\n- Getting C code navigation even for Debian (or Ubuntu) packages\n- The Talk Show: ‘A Sociopathic Father’\n- inaturalist-clumper 0.1\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs\n- https://daringfireball.net/thetalkshow/2026/05/15/ep-447\n- https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-16)\n- Getting C code navigation even for Debian (or Ubuntu) packages\n- The Talk Show: ‘A Sociopathic Father’\n- inaturalist-clumper 0.1\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs\n- https://daringfireball.net/thetalkshow/2026/05/15/ep-447\n- https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-16）\n- Getting C code navigation even for Debian (or Ubuntu) packages\n- The Talk Show: ‘A Sociopathic Father’\n- DeepSeek-V4-Flash makes LLM steering interesting again\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs\n- https://daringfireball.net/thetalkshow/2026/05/15/ep-447\n- https://seangoedecke.com/steering-vectors/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-16)\n- Getting C code navigation even for Debian (or Ubuntu) packages\n- The Talk Show: ‘A Sociopathic Father’\n- DeepSeek-V4-Flash makes LLM steering interesting again\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs\n- https://daringfireball.net/thetalkshow/2026/05/15/ep-447\n- https://seangoedecke.com/steering-vectors/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Getting C code navigation even for Debian (or Ubuntu) packages；The Talk Show: ‘A Sociopathic Father’；inaturalist-clumper 0.1。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Getting C code navigation even for Debian (or Ubuntu) packages; The Talk Show: ‘A Sociopathic Father’; inaturalist-clumper 0.1.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Getting C code navigation even for Debian (or Ubuntu) packages；The Talk Show: ‘A Sociopathic Father’；DeepSeek-V4-Flash makes LLM steering interesting again。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Getting C code navigation even for Debian (or Ubuntu) packages; The Talk Show: ‘A Sociopathic Father’; DeepSeek-V4-Flash makes LLM steering interesting again.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -617,7 +622,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2057,33 +2062,33 @@
       "highlights": [
         "simonwillison.net · Headless everything for personal AI",
         "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "blog.jim-nielsen.com · Hook It Up to the Machine",
+        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
         "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
         "geohot.github.io · What is freedom?"
       ],
       "key_points": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_zh": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "key_points_en": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
+        "Hook It Up to the Machine",
+        "Big tech clouds worden niet veiliger met stapels papier"
       ],
       "tweet_drafts": [
         "Headless everything for personal AI",
         "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
+        "Hook It Up to the Machine"
       ],
       "sources": [
         {
@@ -2097,25 +2102,25 @@
           "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
         },
         {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Hook It Up to the Machine",
+          "link": "https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/"
         }
       ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
+      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。",
+      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Hook It Up to the Machine\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Hook It Up to the Machine。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Hook It Up to the Machine.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
