@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-16T18:46:27Z",
+  "generated_at": "2026-05-16T19:23:01Z",
   "days": [
     {
       "date": "2026-05-16",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "simonwillison.net (2)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
+        "dwarkesh.com (1)",
         "miguelgrinberg.com (1)",
-        "pluralistic.net (1)",
-        "seangoedecke.com (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "dwarkesh.com · The mistake of conflating intelligence and power",
         "simonwillison.net · Quoting Julia Evans",
         "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
         "construction-physics.com · Reading List 05/16/26",
         "pluralistic.net · Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)",
-        "utcc.utoronto.ca/~cks · Getting C code navigation even for Debian (or Ubuntu) packages",
-        "daringfireball.net · The Talk Show: ‘A Sociopathic Father’"
+        "utcc.utoronto.ca/~cks · Getting C code navigation even for Debian (or Ubuntu) packages"
       ],
       "key_points": [
-        "Quoting Julia Evans",
-        "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
-        "Reading List 05/16/26",
-        "Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)"
-      ],
-      "key_points_zh": [
-        "Quoting Julia Evans",
-        "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
-        "Reading List 05/16/26",
-        "Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)"
-      ],
-      "key_points_en": [
-        "Quoting Julia Evans",
-        "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
-        "Reading List 05/16/26",
-        "Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)"
-      ],
-      "tweet_drafts": [
+        "The mistake of conflating intelligence and power",
         "Quoting Julia Evans",
         "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
         "Reading List 05/16/26"
       ],
+      "key_points_zh": [
+        "The mistake of conflating intelligence and power",
+        "Quoting Julia Evans",
+        "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
+        "Reading List 05/16/26"
+      ],
+      "key_points_en": [
+        "The mistake of conflating intelligence and power",
+        "Quoting Julia Evans",
+        "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
+        "Reading List 05/16/26"
+      ],
+      "tweet_drafts": [
+        "The mistake of conflating intelligence and power",
+        "Quoting Julia Evans",
+        "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web"
+      ],
       "sources": [
+        {
+          "feed_title": "dwarkesh.com",
+          "title": "The mistake of conflating intelligence and power",
+          "link": "https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Julia Evans",
@@ -53,27 +58,22 @@
           "feed_title": "miguelgrinberg.com",
           "title": "SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web",
           "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web"
-        },
-        {
-          "feed_title": "construction-physics.com",
-          "title": "Reading List 05/16/26",
-          "link": "https://www.construction-physics.com/p/reading-list-051626"
         }
       ],
-      "summary_zh": "2026-05-16 技术日报：Quoting Julia Evans；SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web；Reading List 05/16/26。",
-      "summary_en": "Daily brief (2026-05-16): Quoting Julia Evans; SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web; Reading List 05/16/26.",
+      "summary_zh": "2026-05-16 技术日报：The mistake of conflating intelligence and power；Quoting Julia Evans；SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web。",
+      "summary_en": "Daily brief (2026-05-16): The mistake of conflating intelligence and power; Quoting Julia Evans; SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-16 日报】Quoting Julia Evans；SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web；Reading List 05/16/26。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-16): Quoting Julia Evans; SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web; Reading List 05/16/26. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-16 日报】The mistake of conflating intelligence and power；Quoting Julia Evans；SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-16): The mistake of conflating intelligence and power; Quoting Julia Evans; SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-16）\n- Quoting Julia Evans\n- SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web\n- Reading List 05/16/26\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/16/julia-evans/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web\n- https://www.construction-physics.com/p/reading-list-051626\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-16)\n- Quoting Julia Evans\n- SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web\n- Reading List 05/16/26\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/16/julia-evans/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web\n- https://www.construction-physics.com/p/reading-list-051626\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-16）\n- The mistake of conflating intelligence and power\n- Quoting Julia Evans\n- SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence\n- https://simonwillison.net/2026/May/16/julia-evans/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-16)\n- The mistake of conflating intelligence and power\n- Quoting Julia Evans\n- SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence\n- https://simonwillison.net/2026/May/16/julia-evans/#atom-everything\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Julia Evans；SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web；Reading List 05/16/26。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Julia Evans; SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web; Reading List 05/16/26.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The mistake of conflating intelligence and power；Quoting Julia Evans；SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The mistake of conflating intelligence and power; Quoting Julia Evans; SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -626,7 +626,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1566,12 +1566,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1587,8 +1587,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
