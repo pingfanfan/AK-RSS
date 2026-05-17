@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-17T15:46:20Z",
+  "generated_at": "2026-05-17T16:17:24Z",
   "days": [
     {
       "date": "2026-05-17",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "borretti.me (1)",
         "idiallo.com (1)",
         "oldvcr.blogspot.com (1)",
         "seangoedecke.com (1)",
         "shkspr.mobi (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · GDS weighs in on the NHS's decision to retreat from Open Source",
         "idiallo.com · In the Empire's Defense",
         "shkspr.mobi · GDS weighs in on the NHS's decision to retreat from Open Source",
         "utcc.utoronto.ca/~cks · Our servers seem to have surprisingly low power consumption",
         "oldvcr.blogspot.com · The Tomy Tutor and the state of 1983 home computers",
-        "borretti.me · The Applicability of Spaced Repetition",
         "seangoedecke.com · How I use LLMs as a staff engineer in 2026"
       ],
       "key_points": [
-        "In the Empire's Defense",
         "GDS weighs in on the NHS's decision to retreat from Open Source",
+        "In the Empire's Defense",
         "Our servers seem to have surprisingly low power consumption",
         "The Tomy Tutor and the state of 1983 home computers"
       ],
       "key_points_zh": [
-        "In the Empire's Defense",
         "GDS weighs in on the NHS's decision to retreat from Open Source",
+        "In the Empire's Defense",
         "Our servers seem to have surprisingly low power consumption",
         "The Tomy Tutor and the state of 1983 home computers"
       ],
       "key_points_en": [
-        "In the Empire's Defense",
         "GDS weighs in on the NHS's decision to retreat from Open Source",
+        "In the Empire's Defense",
         "Our servers seem to have surprisingly low power consumption",
         "The Tomy Tutor and the state of 1983 home computers"
       ],
       "tweet_drafts": [
-        "In the Empire's Defense",
         "GDS weighs in on the NHS's decision to retreat from Open Source",
+        "In the Empire's Defense",
         "Our servers seem to have surprisingly low power consumption"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+          "link": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "In the Empire's Defense",
@@ -53,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
           "link": "https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Our servers seem to have surprisingly low power consumption",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption"
         }
       ],
-      "summary_zh": "2026-05-17 技术日报：In the Empire's Defense；GDS weighs in on the NHS's decision to retreat from Open Source；Our servers seem to have surprisingly low power consumption。",
-      "summary_en": "Daily brief (2026-05-17): In the Empire's Defense; GDS weighs in on the NHS's decision to retreat from Open Source; Our servers seem to have surprisingly low power consumption.",
+      "summary_zh": "2026-05-17 技术日报：GDS weighs in on the NHS's decision to retreat from Open Source；In the Empire's Defense；Our servers seem to have surprisingly low power consumption。",
+      "summary_en": "Daily brief (2026-05-17): GDS weighs in on the NHS's decision to retreat from Open Source; In the Empire's Defense; Our servers seem to have surprisingly low power consumption.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-17 日报】In the Empire's Defense；GDS weighs in on the NHS's decision to retreat from Open Source；Our servers seem to have surprisingly low power consumption。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-17): In the Empire's Defense; GDS weighs in on the NHS's decision to retreat from Open Source; Our servers seem to have surprisingly low power consumption. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
+          "zh": "【2026-05-17 日报】GDS weighs in on the NHS's decision to retreat from Open Source；In the Empire's Defense；Our servers seem to have surprisingly low power consumption。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-17): GDS weighs in on the NHS's decision to retreat from Open Source; In the Empire's Defense; Our servers seem to have surprisingly low power consumption. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-17）\n- In the Empire's Defense\n- GDS weighs in on the NHS's decision to retreat from Open Source\n- Our servers seem to have surprisingly low power consumption\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/the-empire-won?src=feed\n- https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-17)\n- In the Empire's Defense\n- GDS weighs in on the NHS's decision to retreat from Open Source\n- Our servers seem to have surprisingly low power consumption\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/the-empire-won?src=feed\n- https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-17）\n- GDS weighs in on the NHS's decision to retreat from Open Source\n- In the Empire's Defense\n- Our servers seem to have surprisingly low power consumption\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything\n- https://idiallo.com/blog/the-empire-won?src=feed\n- https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-17)\n- GDS weighs in on the NHS's decision to retreat from Open Source\n- In the Empire's Defense\n- Our servers seem to have surprisingly low power consumption\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything\n- https://idiallo.com/blog/the-empire-won?src=feed\n- https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：In the Empire's Defense；GDS weighs in on the NHS's decision to retreat from Open Source；Our servers seem to have surprisingly low power consumption。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: In the Empire's Defense; GDS weighs in on the NHS's decision to retreat from Open Source; Our servers seem to have surprisingly low power consumption.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：GDS weighs in on the NHS's decision to retreat from Open Source；In the Empire's Defense；Our servers seem to have surprisingly low power consumption。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: GDS weighs in on the NHS's decision to retreat from Open Source; In the Empire's Defense; Our servers seem to have surprisingly low power consumption.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -702,7 +702,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1762,33 +1762,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "filfre.net · This Week on The Analog Antiquarian",
         "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
+        "filfre.net · This Week on The Analog Antiquarian",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "★ Norwegian Boating Licenses and Generational Law",
+        "This Week on The Analog Antiquarian"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "This Week on The Analog Antiquarian"
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "sources": [
         {
@@ -1802,25 +1802,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "filfre.net",
-          "title": "This Week on The Analog Antiquarian",
-          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
+          "feed_title": "daringfireball.net",
+          "title": "★ Norwegian Boating Licenses and Generational Law",
+          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
