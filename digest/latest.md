@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-18 13:01:59 UTC
+Generated at: 2026-05-18 14:37:57 UTC
 
-- [Don't call yourself a Software Engineer, you are an AI Enabled Engineer.](https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed) (`idiallo.com`)
+- [Always Be Blaming](https://matklad.github.io/2026/05/18/always-be-blaming.html) (`matklad.github.io`)
