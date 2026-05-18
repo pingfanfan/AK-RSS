@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-05-18T10:24:41Z",
+  "generated_at": "2026-05-18T11:44:15Z",
   "days": [
     {
       "date": "2026-05-18",
-      "total": 5,
+      "total": 6,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "ericmigi.com (1)",
         "it-notes.dragas.net (1)",
         "seangoedecke.com (1)",
@@ -12,6 +13,7 @@
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Cyberrebate.com: The worst dotcom-era idea?",
         "it-notes.dragas.net · FediMeteo, HAProxy, and the art of not wasting snac threads",
         "troyhunt.com · Weekly Update 504",
         "utcc.utoronto.ca/~cks · Unicode and Emoji in terminals, or my simple but difficult wish",
@@ -19,29 +21,34 @@
         "ericmigi.com · How I Use My Index 01 + Production Update"
       ],
       "key_points": [
-        "FediMeteo, HAProxy, and the art of not wasting snac threads",
-        "Weekly Update 504",
-        "Unicode and Emoji in terminals, or my simple but difficult wish",
-        "The just-say-no engineer was a ZIRP phenomenon"
-      ],
-      "key_points_zh": [
-        "FediMeteo, HAProxy, and the art of not wasting snac threads",
-        "Weekly Update 504",
-        "Unicode and Emoji in terminals, or my simple but difficult wish",
-        "The just-say-no engineer was a ZIRP phenomenon"
-      ],
-      "key_points_en": [
-        "FediMeteo, HAProxy, and the art of not wasting snac threads",
-        "Weekly Update 504",
-        "Unicode and Emoji in terminals, or my simple but difficult wish",
-        "The just-say-no engineer was a ZIRP phenomenon"
-      ],
-      "tweet_drafts": [
+        "Cyberrebate.com: The worst dotcom-era idea?",
         "FediMeteo, HAProxy, and the art of not wasting snac threads",
         "Weekly Update 504",
         "Unicode and Emoji in terminals, or my simple but difficult wish"
       ],
+      "key_points_zh": [
+        "Cyberrebate.com: The worst dotcom-era idea?",
+        "FediMeteo, HAProxy, and the art of not wasting snac threads",
+        "Weekly Update 504",
+        "Unicode and Emoji in terminals, or my simple but difficult wish"
+      ],
+      "key_points_en": [
+        "Cyberrebate.com: The worst dotcom-era idea?",
+        "FediMeteo, HAProxy, and the art of not wasting snac threads",
+        "Weekly Update 504",
+        "Unicode and Emoji in terminals, or my simple but difficult wish"
+      ],
+      "tweet_drafts": [
+        "Cyberrebate.com: The worst dotcom-era idea?",
+        "FediMeteo, HAProxy, and the art of not wasting snac threads",
+        "Weekly Update 504"
+      ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Cyberrebate.com: The worst dotcom-era idea?",
+          "link": "https://dfarq.homeip.net/cyberrebate-com-the-worst-dotcom-era-idea/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=cyberrebate-com-the-worst-dotcom-era-idea"
+        },
         {
           "feed_title": "it-notes.dragas.net",
           "title": "FediMeteo, HAProxy, and the art of not wasting snac threads",
@@ -51,27 +58,22 @@
           "feed_title": "troyhunt.com",
           "title": "Weekly Update 504",
           "link": "https://www.troyhunt.com/weekly-update-504/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Unicode and Emoji in terminals, or my simple but difficult wish",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals"
         }
       ],
-      "summary_zh": "2026-05-18 技术日报：FediMeteo, HAProxy, and the art of not wasting snac threads；Weekly Update 504；Unicode and Emoji in terminals, or my simple but difficult wish。",
-      "summary_en": "Daily brief (2026-05-18): FediMeteo, HAProxy, and the art of not wasting snac threads; Weekly Update 504; Unicode and Emoji in terminals, or my simple but difficult wish.",
+      "summary_zh": "2026-05-18 技术日报：Cyberrebate.com: The worst dotcom-era idea?；FediMeteo, HAProxy, and the art of not wasting snac threads；Weekly Update 504。",
+      "summary_en": "Daily brief (2026-05-18): Cyberrebate.com: The worst dotcom-era idea?; FediMeteo, HAProxy, and the art of not wasting snac threads; Weekly Update 504.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-18 日报】FediMeteo, HAProxy, and the art of not wasting snac threads；Weekly Update 504；Unicode and Emoji in terminals, or my simple but difficult wish。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-18): FediMeteo, HAProxy, and the art of not wasting snac threads; Weekly Update 504; Unicode and Emoji in terminals, or my simple but difficult wish. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-18 日报】Cyberrebate.com: The worst dotcom-era idea?；FediMeteo, HAProxy, and the art of not wasting snac threads；Weekly Update 504。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-18): Cyberrebate.com: The worst dotcom-era idea?; FediMeteo, HAProxy, and the art of not wasting snac threads; Weekly Update 504. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-18）\n- FediMeteo, HAProxy, and the art of not wasting snac threads\n- Weekly Update 504\n- Unicode and Emoji in terminals, or my simple but difficult wish\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/\n- https://www.troyhunt.com/weekly-update-504/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-18)\n- FediMeteo, HAProxy, and the art of not wasting snac threads\n- Weekly Update 504\n- Unicode and Emoji in terminals, or my simple but difficult wish\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/\n- https://www.troyhunt.com/weekly-update-504/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-18）\n- Cyberrebate.com: The worst dotcom-era idea?\n- FediMeteo, HAProxy, and the art of not wasting snac threads\n- Weekly Update 504\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/cyberrebate-com-the-worst-dotcom-era-idea/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=cyberrebate-com-the-worst-dotcom-era-idea\n- https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/\n- https://www.troyhunt.com/weekly-update-504/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-18)\n- Cyberrebate.com: The worst dotcom-era idea?\n- FediMeteo, HAProxy, and the art of not wasting snac threads\n- Weekly Update 504\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/cyberrebate-com-the-worst-dotcom-era-idea/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=cyberrebate-com-the-worst-dotcom-era-idea\n- https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/\n- https://www.troyhunt.com/weekly-update-504/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：FediMeteo, HAProxy, and the art of not wasting snac threads；Weekly Update 504；Unicode and Emoji in terminals, or my simple but difficult wish。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: FediMeteo, HAProxy, and the art of not wasting snac threads; Weekly Update 504; Unicode and Emoji in terminals, or my simple but difficult wish.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Cyberrebate.com: The worst dotcom-era idea?；FediMeteo, HAProxy, and the art of not wasting snac threads；Weekly Update 504。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Cyberrebate.com: The worst dotcom-era idea?; FediMeteo, HAProxy, and the art of not wasting snac threads; Weekly Update 504.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -776,7 +778,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1716,12 +1718,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1737,8 +1739,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
