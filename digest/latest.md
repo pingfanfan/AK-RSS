@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-18 11:44:01 UTC
+Generated at: 2026-05-18 13:01:59 UTC
 
-- [Cyberrebate.com: The worst dotcom-era idea?](https://dfarq.homeip.net/cyberrebate-com-the-worst-dotcom-era-idea/?utm_source=rss&utm_medium=rss&utm_campaign=cyberrebate-com-the-worst-dotcom-era-idea) (`dfarq.homeip.net`)
+- [Don't call yourself a Software Engineer, you are an AI Enabled Engineer.](https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed) (`idiallo.com`)
