@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-18 18:08:46 UTC
+Generated at: 2026-05-18 19:04:40 UTC
 
-- [Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict](https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ) (`daringfireball.net`)
+- [Writing an LLM from scratch, part 32i -- Interventions: what is in the noise?](https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise) (`gilesthomas.com`)
