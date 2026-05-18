@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-18 16:07:19 UTC
+Generated at: 2026-05-18 17:20:30 UTC
 
-- [The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments](https://en.wikipedia.org/wiki/Alaska_Permanent_Fund) (`daringfireball.net`)
-- [Something’s Rotten in the State of macOS Icon Design](https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/) (`blog.jim-nielsen.com`)
+- [Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose](https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything) (`simonwillison.net`)
+- [Define ‘Boom’ Please](https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH) (`daringfireball.net`)
