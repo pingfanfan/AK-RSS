@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-18 22:17:37 UTC
+Generated at: 2026-05-18 22:45:42 UTC
 
-- [Human Bottlenecks](https://borretti.me/article/human-bottlenecks) (`borretti.me`)
