@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-19 11:34:07 UTC
+Generated at: 2026-05-19 12:54:42 UTC
 
-- [Microsoft Antitrust case of 1998](https://dfarq.homeip.net/microsoft-antitrust-case-of-1998/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-antitrust-case-of-1998) (`dfarq.homeip.net`)
+- [Approximating Markov’s equation](https://www.johndcook.com/blog/2026/05/19/zagiers-equation/) (`johndcook.com`)
+- [Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★](https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/) (`shkspr.mobi`)
+- [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html) (`nesbitt.io`)
