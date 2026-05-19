@@ -1,59 +1,75 @@
 {
-  "generated_at": "2026-05-19T07:04:12Z",
+  "generated_at": "2026-05-19T08:37:40Z",
   "days": [
     {
       "date": "2026-05-19",
-      "total": 2,
+      "total": 4,
       "feeds": [
+        "antirez.com (1)",
         "daringfireball.net (1)",
+        "pluralistic.net (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "antirez.com · Alternatives for the EDIT tool of LLM agents",
+        "pluralistic.net · Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
         "daringfireball.net · [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.",
         "simonwillison.net · The last six months in LLMs in five minutes"
       ],
       "key_points": [
+        "Alternatives for the EDIT tool of LLM agents",
+        "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
         "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
         "The last six months in LLMs in five minutes"
       ],
       "key_points_zh": [
+        "Alternatives for the EDIT tool of LLM agents",
+        "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
         "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
         "The last six months in LLMs in five minutes"
       ],
       "key_points_en": [
+        "Alternatives for the EDIT tool of LLM agents",
+        "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
         "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
         "The last six months in LLMs in five minutes"
       ],
       "tweet_drafts": [
-        "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
-        "The last six months in LLMs in five minutes"
+        "Alternatives for the EDIT tool of LLM agents",
+        "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
+        "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them"
       ],
       "sources": [
+        {
+          "feed_title": "antirez.com",
+          "title": "Alternatives for the EDIT tool of LLM agents",
+          "link": "http://antirez.com/news/166"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: There's no such thing as \"age verification\" (19 May 2026)",
+          "link": "https://pluralistic.net/2026/05/19/shes-dead-of-course/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.",
           "link": "https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The last six months in LLMs in five minutes",
-          "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-19 技术日报：[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them；The last six months in LLMs in five minutes。",
-      "summary_en": "Daily brief (2026-05-19): [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them; The last six months in LLMs in five minutes.",
+      "summary_zh": "2026-05-19 技术日报：Alternatives for the EDIT tool of LLM agents；Pluralistic: There's no such thing as \"age verification\" (19 May 2026)；[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them。",
+      "summary_en": "Daily brief (2026-05-19): Alternatives for the EDIT tool of LLM agents; Pluralistic: There's no such thing as \"age verification\" (19 May 2026); [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-19 日报】[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them；The last six months in LLMs in five minutes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-19): [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them; The last six months in LLMs in five minutes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-19 日报】Alternatives for the EDIT tool of LLM agents；Pluralistic: There's no such thing as \"age verification\" (19 May 2026)；[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-19): Alternatives for the EDIT tool of LLM agents; Pluralistic: There's no such thing as \"age verification\" (19 May 2026); [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them. Actionable takeaways included. W"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-19）\n- [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them\n- The last six months in LLMs in five minutes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-19)\n- [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them\n- The last six months in LLMs in five minutes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-19）\n- Alternatives for the EDIT tool of LLM agents\n- Pluralistic: There's no such thing as \"age verification\" (19 May 2026)\n- [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/166\n- https://pluralistic.net/2026/05/19/shes-dead-of-course/\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-19)\n- Alternatives for the EDIT tool of LLM agents\n- Pluralistic: There's no such thing as \"age verification\" (19 May 2026)\n- [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/166\n- https://pluralistic.net/2026/05/19/shes-dead-of-course/\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them；The last six months in LLMs in five minutes。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them; The last six months in LLMs in five minutes.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Alternatives for the EDIT tool of LLM agents；Pluralistic: There's no such thing as \"age verification\" (19 May 2026)；[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Alternatives for the EDIT tool of LLM agents; Pluralistic: There's no such thing as \"age verification\" (19 May 2026); [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1365,8 +1381,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -1774,12 +1790,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1795,8 +1811,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
