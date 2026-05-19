@@ -1,49 +1,110 @@
 {
-  "generated_at": "2026-05-18T22:45:55Z",
+  "generated_at": "2026-05-19T07:04:12Z",
   "days": [
     {
+      "date": "2026-05-19",
+      "total": 2,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.",
+        "simonwillison.net · The last six months in LLMs in five minutes"
+      ],
+      "key_points": [
+        "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
+        "The last six months in LLMs in five minutes"
+      ],
+      "key_points_zh": [
+        "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
+        "The last six months in LLMs in five minutes"
+      ],
+      "key_points_en": [
+        "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
+        "The last six months in LLMs in five minutes"
+      ],
+      "tweet_drafts": [
+        "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them",
+        "The last six months in LLMs in five minutes"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.",
+          "link": "https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "The last six months in LLMs in five minutes",
+          "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-05-19 技术日报：[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them；The last six months in LLMs in five minutes。",
+      "summary_en": "Daily brief (2026-05-19): [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them; The last six months in LLMs in five minutes.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-19 日报】[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them；The last six months in LLMs in five minutes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-19): [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them; The last six months in LLMs in five minutes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-19）\n- [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them\n- The last six months in LLMs in five minutes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-19)\n- [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them\n- The last six months in LLMs in five minutes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://workos.com/docs/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q22026\n- https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them；The last six months in LLMs in five minutes。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them; The last six months in LLMs in five minutes.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-05-18",
-      "total": 15,
+      "total": 17,
       "feeds": [
         "daringfireball.net (3)",
         "blog.jim-nielsen.com (1)",
         "borretti.me (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "ericmigi.com (1)",
-        "idiallo.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Pythagorean Addition",
         "krebsonsecurity.com · CISA Admin Leaked AWS GovCloud Keys on Github",
         "blog.jim-nielsen.com · Something’s Rotten in the State of macOS Icon Design",
         "daringfireball.net · Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict",
         "daringfireball.net · Define ‘Boom’ Please",
-        "daringfireball.net · The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments",
-        "simonwillison.net · Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose"
+        "daringfireball.net · The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments"
       ],
       "key_points": [
-        "CISA Admin Leaked AWS GovCloud Keys on Github",
-        "Something’s Rotten in the State of macOS Icon Design",
-        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict",
-        "Define ‘Boom’ Please"
-      ],
-      "key_points_zh": [
-        "CISA Admin Leaked AWS GovCloud Keys on Github",
-        "Something’s Rotten in the State of macOS Icon Design",
-        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict",
-        "Define ‘Boom’ Please"
-      ],
-      "key_points_en": [
-        "CISA Admin Leaked AWS GovCloud Keys on Github",
-        "Something’s Rotten in the State of macOS Icon Design",
-        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict",
-        "Define ‘Boom’ Please"
-      ],
-      "tweet_drafts": [
+        "Pythagorean Addition",
         "CISA Admin Leaked AWS GovCloud Keys on Github",
         "Something’s Rotten in the State of macOS Icon Design",
         "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict"
       ],
+      "key_points_zh": [
+        "Pythagorean Addition",
+        "CISA Admin Leaked AWS GovCloud Keys on Github",
+        "Something’s Rotten in the State of macOS Icon Design",
+        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict"
+      ],
+      "key_points_en": [
+        "Pythagorean Addition",
+        "CISA Admin Leaked AWS GovCloud Keys on Github",
+        "Something’s Rotten in the State of macOS Icon Design",
+        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict"
+      ],
+      "tweet_drafts": [
+        "Pythagorean Addition",
+        "CISA Admin Leaked AWS GovCloud Keys on Github",
+        "Something’s Rotten in the State of macOS Icon Design"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Pythagorean Addition",
+          "link": "https://entropicthoughts.com/pythagorean-addition"
+        },
         {
           "feed_title": "krebsonsecurity.com",
           "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
@@ -53,27 +114,22 @@
           "feed_title": "blog.jim-nielsen.com",
           "title": "Something’s Rotten in the State of macOS Icon Design",
           "link": "https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict",
-          "link": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ"
         }
       ],
-      "summary_zh": "2026-05-18 技术日报：CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design；Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict。",
-      "summary_en": "Daily brief (2026-05-18): CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design; Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict.",
+      "summary_zh": "2026-05-18 技术日报：Pythagorean Addition；CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design。",
+      "summary_en": "Daily brief (2026-05-18): Pythagorean Addition; CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-18 日报】CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design；Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-18): CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design; Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict. Actionable takeaways included. What would you ship next? #AI"
+          "zh": "【2026-05-18 日报】Pythagorean Addition；CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-18): Pythagorean Addition; CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-18）\n- CISA Admin Leaked AWS GovCloud Keys on Github\n- Something’s Rotten in the State of macOS Icon Design\n- Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\n- https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/\n- https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-18)\n- CISA Admin Leaked AWS GovCloud Keys on Github\n- Something’s Rotten in the State of macOS Icon Design\n- Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\n- https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/\n- https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-18）\n- Pythagorean Addition\n- CISA Admin Leaked AWS GovCloud Keys on Github\n- Something’s Rotten in the State of macOS Icon Design\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/pythagorean-addition\n- https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\n- https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-18)\n- Pythagorean Addition\n- CISA Admin Leaked AWS GovCloud Keys on Github\n- Something’s Rotten in the State of macOS Icon Design\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/pythagorean-addition\n- https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\n- https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design；Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design; Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pythagorean Addition；CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pythagorean Addition; CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2201,82 +2257,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Spaced Repetition: Beginner Guide/FAQ；DF Paraphernalia: T-Shirts and Hoodies Are Back；llm-openrouter 0.6。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Spaced Repetition: Beginner Guide/FAQ; DF Paraphernalia: T-Shirts and Hoodies Are Back; llm-openrouter 0.6.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-19",
-      "total": 10,
-      "feeds": [
-        "simonwillison.net (2)",
-        "abortretry.fail (1)",
-        "berthub.eu (1)",
-        "blog.jim-nielsen.com (1)",
-        "daringfireball.net (1)",
-        "geohot.github.io (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Headless everything for personal AI",
-        "abortretry.fail · Hitachi Ltd, Part II",
-        "berthub.eu · Big tech clouds worden niet veiliger met stapels papier",
-        "blog.jim-nielsen.com · Hook It Up to the Machine",
-        "daringfireball.net · Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’",
-        "geohot.github.io · What is freedom?"
-      ],
-      "key_points": [
-        "Headless everything for personal AI",
-        "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
-      ],
-      "key_points_zh": [
-        "Headless everything for personal AI",
-        "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
-      ],
-      "key_points_en": [
-        "Headless everything for personal AI",
-        "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier",
-        "Hook It Up to the Machine"
-      ],
-      "tweet_drafts": [
-        "Headless everything for personal AI",
-        "Hitachi Ltd, Part II",
-        "Big tech clouds worden niet veiliger met stapels papier"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Headless everything for personal AI",
-          "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything"
-        },
-        {
-          "feed_title": "abortretry.fail",
-          "title": "Hitachi Ltd, Part II",
-          "link": "https://www.abortretry.fail/p/hitachi-ltd-part-ii"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "Big tech clouds worden niet veiliger met stapels papier",
-          "link": "https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/"
-        }
-      ],
-      "summary_zh": "2026-04-19 技术日报：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。",
-      "summary_en": "Daily brief (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-19 日报】Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-19): Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-19）\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-19)\n- Headless everything for personal AI\n- Hitachi Ltd, Part II\n- Big tech clouds worden niet veiliger met stapels papier\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything\n- https://www.abortretry.fail/p/hitachi-ltd-part-ii\n- https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Headless everything for personal AI；Hitachi Ltd, Part II；Big tech clouds worden niet veiliger met stapels papier。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Headless everything for personal AI; Hitachi Ltd, Part II; Big tech clouds worden niet veiliger met stapels papier.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
