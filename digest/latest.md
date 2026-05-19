@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-19 15:05:49 UTC
+Generated at: 2026-05-19 16:32:18 UTC
 
-- [Wi-Wi Is Wireless Time Sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/) (`jeffgeerling.com`)
+- [Andrej Karpathy Joined Anthropic](https://x.com/karpathy/status/2056753169888334312) (`daringfireball.net`)
+- [AI Is Too Expensive](https://www.wheresyoured.at/ai-is-too-expensive/) (`wheresyoured.at`)
