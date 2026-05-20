@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-05-20T20:38:49Z",
+  "generated_at": "2026-05-20T21:31:14Z",
   "days": [
     {
       "date": "2026-05-20",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "simonwillison.net (3)",
         "buttondown.com/hillelwayne (1)",
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "geohot.github.io (1)",
-        "johndcook.com (1)",
-        "seangoedecke.com (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
         "simonwillison.net · How fast is 10 tokens per second really?",
         "simonwillison.net · Google I/O, Gemini Spark, Antigravity",
         "buttondown.com/hillelwayne · Assumptions weaken properties",
         "shkspr.mobi · [RSS Club] Let's meet up AFK",
-        "dfarq.homeip.net · Kaypro II launched May 20, 1982",
-        "geohot.github.io · What will better AI mean?"
+        "dfarq.homeip.net · Kaypro II launched May 20, 1982"
       ],
       "key_points": [
-        "How fast is 10 tokens per second really?",
-        "Google I/O, Gemini Spark, Antigravity",
-        "Assumptions weaken properties",
-        "[RSS Club] Let's meet up AFK"
-      ],
-      "key_points_zh": [
-        "How fast is 10 tokens per second really?",
-        "Google I/O, Gemini Spark, Antigravity",
-        "Assumptions weaken properties",
-        "[RSS Club] Let's meet up AFK"
-      ],
-      "key_points_en": [
-        "How fast is 10 tokens per second really?",
-        "Google I/O, Gemini Spark, Antigravity",
-        "Assumptions weaken properties",
-        "[RSS Club] Let's meet up AFK"
-      ],
-      "tweet_drafts": [
+        "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
         "How fast is 10 tokens per second really?",
         "Google I/O, Gemini Spark, Antigravity",
         "Assumptions weaken properties"
       ],
+      "key_points_zh": [
+        "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
+        "How fast is 10 tokens per second really?",
+        "Google I/O, Gemini Spark, Antigravity",
+        "Assumptions weaken properties"
+      ],
+      "key_points_en": [
+        "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
+        "How fast is 10 tokens per second really?",
+        "Google I/O, Gemini Spark, Antigravity",
+        "Assumptions weaken properties"
+      ],
+      "tweet_drafts": [
+        "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
+        "How fast is 10 tokens per second really?",
+        "Google I/O, Gemini Spark, Antigravity"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
+          "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB\u0026smid=url-share"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "How fast is 10 tokens per second really?",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Google I/O, Gemini Spark, Antigravity",
           "link": "https://simonwillison.net/2026/May/20/google-io/#atom-everything"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "Assumptions weaken properties",
-          "link": "https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/"
         }
       ],
-      "summary_zh": "2026-05-20 技术日报：How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties。",
-      "summary_en": "Daily brief (2026-05-20): How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties.",
+      "summary_zh": "2026-05-20 技术日报：NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’；How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity。",
+      "summary_en": "Daily brief (2026-05-20): NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’; How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-20 日报】How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-20): How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-20 日报】NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’；How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-20): NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’; How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity. Actionable takeaways included. What would you ship next? #AI #Engi"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-20）\n- How fast is 10 tokens per second really?\n- Google I/O, Gemini Spark, Antigravity\n- Assumptions weaken properties\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n- https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-20)\n- How fast is 10 tokens per second really?\n- Google I/O, Gemini Spark, Antigravity\n- Assumptions weaken properties\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n- https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-20）\n- NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’\n- How fast is 10 tokens per second really?\n- Google I/O, Gemini Spark, Antigravity\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB\u0026smid=url-share\n- https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-20)\n- NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’\n- How fast is 10 tokens per second really?\n- Google I/O, Gemini Spark, Antigravity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB\u0026smid=url-share\n- https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’；How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’; How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -930,7 +930,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1870,12 +1870,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -1891,8 +1891,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
