@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-20 22:27:29 UTC
+Generated at: 2026-05-20 22:56:53 UTC
 
-- ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/) (`xeiaso.net`)
+- [Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything) (`simonwillison.net`)
+- [Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance](https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/) (`micahflee.com`)
