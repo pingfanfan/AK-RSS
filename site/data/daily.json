@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-05-19T22:50:05Z",
+  "generated_at": "2026-05-20T07:03:49Z",
   "days": [
     {
+      "date": "2026-05-20",
+      "total": 3,
+      "feeds": [
+        "johndcook.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Notes about reading messages with the Python email packages",
+        "johndcook.com · Square root of x² − 1",
+        "simonwillison.net · llm-gemini 0.32"
+      ],
+      "key_points": [
+        "Notes about reading messages with the Python email packages",
+        "Square root of x² − 1",
+        "llm-gemini 0.32"
+      ],
+      "key_points_zh": [
+        "Notes about reading messages with the Python email packages",
+        "Square root of x² − 1",
+        "llm-gemini 0.32"
+      ],
+      "key_points_en": [
+        "Notes about reading messages with the Python email packages",
+        "Square root of x² − 1",
+        "llm-gemini 0.32"
+      ],
+      "tweet_drafts": [
+        "Notes about reading messages with the Python email packages",
+        "Square root of x² − 1",
+        "llm-gemini 0.32"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Notes about reading messages with the Python email packages",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Square root of x² − 1",
+          "link": "https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "llm-gemini 0.32",
+          "link": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-05-20 技术日报：Notes about reading messages with the Python email packages；Square root of x² − 1；llm-gemini 0.32。",
+      "summary_en": "Daily brief (2026-05-20): Notes about reading messages with the Python email packages; Square root of x² − 1; llm-gemini 0.32.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-20 日报】Notes about reading messages with the Python email packages；Square root of x² − 1；llm-gemini 0.32。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-20): Notes about reading messages with the Python email packages; Square root of x² − 1; llm-gemini 0.32. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-20）\n- Notes about reading messages with the Python email packages\n- Square root of x² − 1\n- llm-gemini 0.32\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes\n- https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/\n- https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-20)\n- Notes about reading messages with the Python email packages\n- Square root of x² − 1\n- llm-gemini 0.32\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes\n- https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/\n- https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Notes about reading messages with the Python email packages；Square root of x² − 1；llm-gemini 0.32。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Notes about reading messages with the Python email packages; Square root of x² − 1; llm-gemini 0.32.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-05-19",
-      "total": 13,
+      "total": 15,
       "feeds": [
         "daringfireball.net (2)",
         "simonwillison.net (2)",
         "antirez.com (1)",
-        "dfarq.homeip.net (1)",
-        "jeffgeerling.com (1)",
-        "johndcook.com (1)"
+        "danieldelaney.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
         "simonwillison.net · Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -18,7 +85,7 @@
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
         "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "johndcook.com · Approximating Markov’s equation"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -854,7 +921,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2201,82 +2268,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users；Where's the raccoon with the ham radio? (ChatGPT Images 2.0)；An AI Odyssey, Part 4: Astounding Coding Agents。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: [UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month \"Pro\" Subscription Plan For New Users; Where's the raccoon with the ham radio? (ChatGPT Images 2.0); An AI Odyssey, Part 4: Astounding Coding Agents.\nI turned them into an action-ready daily brief you can"
-        }
-      }
-    },
-    {
-      "date": "2026-04-20",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (2)",
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Spaced Repetition: Beginner Guide/FAQ",
-        "daringfireball.net · DF Paraphernalia: T-Shirts and Hoodies Are Back",
-        "simonwillison.net · llm-openrouter 0.6",
-        "wheresyoured.at · Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Reduce Rate Limits",
-        "daringfireball.net · Apple’s Annual Environmental Progress Report",
-        "pluralistic.net · Pluralistic: Comrade Trump (20 Apr 2026)"
-      ],
-      "key_points": [
-        "Spaced Repetition: Beginner Guide/FAQ",
-        "DF Paraphernalia: T-Shirts and Hoodies Are Back",
-        "llm-openrouter 0.6",
-        "Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Reduce Rate Limits"
-      ],
-      "key_points_zh": [
-        "Spaced Repetition: Beginner Guide/FAQ",
-        "DF Paraphernalia: T-Shirts and Hoodies Are Back",
-        "llm-openrouter 0.6",
-        "Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Reduce Rate Limits"
-      ],
-      "key_points_en": [
-        "Spaced Repetition: Beginner Guide/FAQ",
-        "DF Paraphernalia: T-Shirts and Hoodies Are Back",
-        "llm-openrouter 0.6",
-        "Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Reduce Rate Limits"
-      ],
-      "tweet_drafts": [
-        "Spaced Repetition: Beginner Guide/FAQ",
-        "DF Paraphernalia: T-Shirts and Hoodies Are Back",
-        "llm-openrouter 0.6"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Spaced Repetition: Beginner Guide/FAQ",
-          "link": "https://entropicthoughts.com/spaced-repetition-beginner-guide-faq"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "DF Paraphernalia: T-Shirts and Hoodies Are Back",
-          "link": "https://store.daringfireball.net/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "llm-openrouter 0.6",
-          "link": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-04-20 技术日报：Spaced Repetition: Beginner Guide/FAQ；DF Paraphernalia: T-Shirts and Hoodies Are Back；llm-openrouter 0.6。",
-      "summary_en": "Daily brief (2026-04-20): Spaced Repetition: Beginner Guide/FAQ; DF Paraphernalia: T-Shirts and Hoodies Are Back; llm-openrouter 0.6.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-20 日报】Spaced Repetition: Beginner Guide/FAQ；DF Paraphernalia: T-Shirts and Hoodies Are Back；llm-openrouter 0.6。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-20): Spaced Repetition: Beginner Guide/FAQ; DF Paraphernalia: T-Shirts and Hoodies Are Back; llm-openrouter 0.6. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-20）\n- Spaced Repetition: Beginner Guide/FAQ\n- DF Paraphernalia: T-Shirts and Hoodies Are Back\n- llm-openrouter 0.6\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/spaced-repetition-beginner-guide-faq\n- https://store.daringfireball.net/\n- https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-20)\n- Spaced Repetition: Beginner Guide/FAQ\n- DF Paraphernalia: T-Shirts and Hoodies Are Back\n- llm-openrouter 0.6\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/spaced-repetition-beginner-guide-faq\n- https://store.daringfireball.net/\n- https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Spaced Repetition: Beginner Guide/FAQ；DF Paraphernalia: T-Shirts and Hoodies Are Back；llm-openrouter 0.6。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Spaced Repetition: Beginner Guide/FAQ; DF Paraphernalia: T-Shirts and Hoodies Are Back; llm-openrouter 0.6.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
