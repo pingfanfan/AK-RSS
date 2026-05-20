@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-05-20T11:28:29Z",
+  "generated_at": "2026-05-20T12:19:49Z",
   "days": [
     {
       "date": "2026-05-20",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "seangoedecke.com (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · [RSS Club] Let's meet up AFK",
         "dfarq.homeip.net · Kaypro II launched May 20, 1982",
         "utcc.utoronto.ca/~cks · Notes about reading messages with the Python email packages",
         "johndcook.com · Square root of x² − 1",
@@ -19,29 +21,34 @@
         "simonwillison.net · llm-gemini 0.32"
       ],
       "key_points": [
-        "Kaypro II launched May 20, 1982",
-        "Notes about reading messages with the Python email packages",
-        "Square root of x² − 1",
-        "Prompts are technical debt too"
-      ],
-      "key_points_zh": [
-        "Kaypro II launched May 20, 1982",
-        "Notes about reading messages with the Python email packages",
-        "Square root of x² − 1",
-        "Prompts are technical debt too"
-      ],
-      "key_points_en": [
-        "Kaypro II launched May 20, 1982",
-        "Notes about reading messages with the Python email packages",
-        "Square root of x² − 1",
-        "Prompts are technical debt too"
-      ],
-      "tweet_drafts": [
+        "[RSS Club] Let's meet up AFK",
         "Kaypro II launched May 20, 1982",
         "Notes about reading messages with the Python email packages",
         "Square root of x² − 1"
       ],
+      "key_points_zh": [
+        "[RSS Club] Let's meet up AFK",
+        "Kaypro II launched May 20, 1982",
+        "Notes about reading messages with the Python email packages",
+        "Square root of x² − 1"
+      ],
+      "key_points_en": [
+        "[RSS Club] Let's meet up AFK",
+        "Kaypro II launched May 20, 1982",
+        "Notes about reading messages with the Python email packages",
+        "Square root of x² − 1"
+      ],
+      "tweet_drafts": [
+        "[RSS Club] Let's meet up AFK",
+        "Kaypro II launched May 20, 1982",
+        "Notes about reading messages with the Python email packages"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "[RSS Club] Let's meet up AFK",
+          "link": "https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Kaypro II launched May 20, 1982",
@@ -51,27 +58,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Notes about reading messages with the Python email packages",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Square root of x² − 1",
-          "link": "https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/"
         }
       ],
-      "summary_zh": "2026-05-20 技术日报：Kaypro II launched May 20, 1982；Notes about reading messages with the Python email packages；Square root of x² − 1。",
-      "summary_en": "Daily brief (2026-05-20): Kaypro II launched May 20, 1982; Notes about reading messages with the Python email packages; Square root of x² − 1.",
+      "summary_zh": "2026-05-20 技术日报：[RSS Club] Let's meet up AFK；Kaypro II launched May 20, 1982；Notes about reading messages with the Python email packages。",
+      "summary_en": "Daily brief (2026-05-20): [RSS Club] Let's meet up AFK; Kaypro II launched May 20, 1982; Notes about reading messages with the Python email packages.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-20 日报】Kaypro II launched May 20, 1982；Notes about reading messages with the Python email packages；Square root of x² − 1。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-20): Kaypro II launched May 20, 1982; Notes about reading messages with the Python email packages; Square root of x² − 1. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-20 日报】[RSS Club] Let's meet up AFK；Kaypro II launched May 20, 1982；Notes about reading messages with the Python email packages。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-20): [RSS Club] Let's meet up AFK; Kaypro II launched May 20, 1982; Notes about reading messages with the Python email packages. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-20）\n- Kaypro II launched May 20, 1982\n- Notes about reading messages with the Python email packages\n- Square root of x² − 1\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/kaypro-ii-launched-may-20-1982/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=kaypro-ii-launched-may-20-1982\n- https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes\n- https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-20)\n- Kaypro II launched May 20, 1982\n- Notes about reading messages with the Python email packages\n- Square root of x² − 1\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/kaypro-ii-launched-may-20-1982/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=kaypro-ii-launched-may-20-1982\n- https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes\n- https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-20）\n- [RSS Club] Let's meet up AFK\n- Kaypro II launched May 20, 1982\n- Notes about reading messages with the Python email packages\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/\n- https://dfarq.homeip.net/kaypro-ii-launched-may-20-1982/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=kaypro-ii-launched-may-20-1982\n- https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-20)\n- [RSS Club] Let's meet up AFK\n- Kaypro II launched May 20, 1982\n- Notes about reading messages with the Python email packages\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/\n- https://dfarq.homeip.net/kaypro-ii-launched-may-20-1982/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=kaypro-ii-launched-may-20-1982\n- https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Kaypro II launched May 20, 1982；Notes about reading messages with the Python email packages；Square root of x² − 1。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Kaypro II launched May 20, 1982; Notes about reading messages with the Python email packages; Square root of x² − 1.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：[RSS Club] Let's meet up AFK；Kaypro II launched May 20, 1982；Notes about reading messages with the Python email packages。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [RSS Club] Let's meet up AFK; Kaypro II launched May 20, 1982; Notes about reading messages with the Python email packages.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1459,8 +1461,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
