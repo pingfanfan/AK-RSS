@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-20 17:59:07 UTC
+Generated at: 2026-05-20 18:58:50 UTC
 
-- [What will better AI mean?](https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html) (`geohot.github.io`)
+- [How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything) (`simonwillison.net`)

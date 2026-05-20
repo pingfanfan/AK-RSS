@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:59:22Z",
+  "generated_at": "2026-05-20T18:59:04Z",
   "days": [
     {
       "date": "2026-05-20",
-      "total": 9,
+      "total": 10,
       "feeds": [
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "buttondown.com/hillelwayne (1)",
         "dfarq.homeip.net (1)",
         "geohot.github.io (1)",
@@ -13,37 +13,42 @@
         "seangoedecke.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · How fast is 10 tokens per second really?",
         "simonwillison.net · Google I/O, Gemini Spark, Antigravity",
         "buttondown.com/hillelwayne · Assumptions weaken properties",
         "shkspr.mobi · [RSS Club] Let's meet up AFK",
         "dfarq.homeip.net · Kaypro II launched May 20, 1982",
-        "geohot.github.io · What will better AI mean?",
-        "utcc.utoronto.ca/~cks · Notes about reading messages with the Python email packages"
+        "geohot.github.io · What will better AI mean?"
       ],
       "key_points": [
-        "Google I/O, Gemini Spark, Antigravity",
-        "Assumptions weaken properties",
-        "[RSS Club] Let's meet up AFK",
-        "Kaypro II launched May 20, 1982"
-      ],
-      "key_points_zh": [
-        "Google I/O, Gemini Spark, Antigravity",
-        "Assumptions weaken properties",
-        "[RSS Club] Let's meet up AFK",
-        "Kaypro II launched May 20, 1982"
-      ],
-      "key_points_en": [
-        "Google I/O, Gemini Spark, Antigravity",
-        "Assumptions weaken properties",
-        "[RSS Club] Let's meet up AFK",
-        "Kaypro II launched May 20, 1982"
-      ],
-      "tweet_drafts": [
+        "How fast is 10 tokens per second really?",
         "Google I/O, Gemini Spark, Antigravity",
         "Assumptions weaken properties",
         "[RSS Club] Let's meet up AFK"
       ],
+      "key_points_zh": [
+        "How fast is 10 tokens per second really?",
+        "Google I/O, Gemini Spark, Antigravity",
+        "Assumptions weaken properties",
+        "[RSS Club] Let's meet up AFK"
+      ],
+      "key_points_en": [
+        "How fast is 10 tokens per second really?",
+        "Google I/O, Gemini Spark, Antigravity",
+        "Assumptions weaken properties",
+        "[RSS Club] Let's meet up AFK"
+      ],
+      "tweet_drafts": [
+        "How fast is 10 tokens per second really?",
+        "Google I/O, Gemini Spark, Antigravity",
+        "Assumptions weaken properties"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "How fast is 10 tokens per second really?",
+          "link": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Google I/O, Gemini Spark, Antigravity",
@@ -53,27 +58,22 @@
           "feed_title": "buttondown.com/hillelwayne",
           "title": "Assumptions weaken properties",
           "link": "https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "[RSS Club] Let's meet up AFK",
-          "link": "https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/"
         }
       ],
-      "summary_zh": "2026-05-20 技术日报：Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties；[RSS Club] Let's meet up AFK。",
-      "summary_en": "Daily brief (2026-05-20): Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties; [RSS Club] Let's meet up AFK.",
+      "summary_zh": "2026-05-20 技术日报：How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties。",
+      "summary_en": "Daily brief (2026-05-20): How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-20 日报】Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties；[RSS Club] Let's meet up AFK。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-20): Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties; [RSS Club] Let's meet up AFK. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-20 日报】How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-20): How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-20）\n- Google I/O, Gemini Spark, Antigravity\n- Assumptions weaken properties\n- [RSS Club] Let's meet up AFK\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n- https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/\n- https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-20)\n- Google I/O, Gemini Spark, Antigravity\n- Assumptions weaken properties\n- [RSS Club] Let's meet up AFK\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n- https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/\n- https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-20）\n- How fast is 10 tokens per second really?\n- Google I/O, Gemini Spark, Antigravity\n- Assumptions weaken properties\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n- https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-20)\n- How fast is 10 tokens per second really?\n- Google I/O, Gemini Spark, Antigravity\n- Assumptions weaken properties\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything\n- https://simonwillison.net/2026/May/20/google-io/#atom-everything\n- https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties；[RSS Club] Let's meet up AFK。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties; [RSS Club] Let's meet up AFK.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：How fast is 10 tokens per second really?；Google I/O, Gemini Spark, Antigravity；Assumptions weaken properties。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How fast is 10 tokens per second really?; Google I/O, Gemini Spark, Antigravity; Assumptions weaken properties.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -930,7 +930,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1990,33 +1990,33 @@
       "highlights": [
         "wheresyoured.at · Premium: How OpenAI Kills Oracle",
         "dwarkesh.com · Blog prize for big questions about AI",
-        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "filfre.net · This Week on The Analog Antiquarian",
+        "daringfireball.net · ★ Norwegian Boating Licenses and Generational Law",
         "geohot.github.io · A Mutating AI Powered Virus",
         "daringfireball.net · ★ ‘We Don’t Serve Their Kind Here’"
       ],
       "key_points": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_zh": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "key_points_en": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law",
-        "This Week on The Analog Antiquarian"
+        "This Week on The Analog Antiquarian",
+        "★ Norwegian Boating Licenses and Generational Law"
       ],
       "tweet_drafts": [
         "Premium: How OpenAI Kills Oracle",
         "Blog prize for big questions about AI",
-        "★ Norwegian Boating Licenses and Generational Law"
+        "This Week on The Analog Antiquarian"
       ],
       "sources": [
         {
@@ -2030,25 +2030,25 @@
           "link": "https://www.dwarkesh.com/p/blog-prize"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "★ Norwegian Boating Licenses and Generational Law",
-          "link": "https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law"
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/"
         }
       ],
-      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。",
-      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.",
+      "summary_zh": "2026-04-24 技术日报：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-04-24 日报】Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-04-24): Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- ★ Norwegian Boating Licenses and Generational Law\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-24）\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-24)\n- Premium: How OpenAI Kills Oracle\n- Blog prize for big questions about AI\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/how-openai-kills-oracle/\n- https://www.dwarkesh.com/p/blog-prize\n- https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
