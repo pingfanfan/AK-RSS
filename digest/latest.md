@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-21 11:36:30 UTC
+Generated at: 2026-05-21 12:55:44 UTC
 
-- [Whale Fall](https://shkspr.mobi/blog/2026/05/whale-fall/) (`shkspr.mobi`)
-- [RFC: Artificial Contributors to Open Source](https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html) (`nesbitt.io`)
-- [Microsoft’s attempted merger with Intuit](https://dfarq.homeip.net/microsofts-attempted-merger-with-intuit/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-attempted-merger-with-intuit) (`dfarq.homeip.net`)
+- [The Rise of Build-to-Rent Housing](https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing) (`construction-physics.com`)
+- [Digitale autonomie: wat kunnen organisaties NU doen](https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/) (`berthub.eu`)
