@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-21 19:31:57 UTC
+Generated at: 2026-05-21 20:31:04 UTC
 
-- [Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup](https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/) (`daringfireball.net`)
+- [Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) (`simonwillison.net`)
