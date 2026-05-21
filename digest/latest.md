@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-21 22:02:39 UTC
+Generated at: 2026-05-21 22:51:45 UTC
 
-- ["No way to prevent this" say users of only package manager where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/) (`xeiaso.net`)
-- [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/) (`krebsonsecurity.com`)
+- [TIL: Symlinking NixOS Dotfiles](https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html) (`matklad.github.io`)
+- [Notes on respectfully getting a personal copy of a website's contents](https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving) (`utcc.utoronto.ca/~cks`)
