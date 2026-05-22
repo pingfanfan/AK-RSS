@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-05-22T13:17:06Z",
+  "generated_at": "2026-05-22T14:15:55Z",
   "days": [
+    {
+      "date": "2026-06-01",
+      "total": 1,
+      "feeds": [
+        "brutecat.com (1)"
+      ],
+      "highlights": [
+        "brutecat.com · StubZero: $148,337 RCE in Google Cloud Production"
+      ],
+      "key_points": [
+        "StubZero: $148,337 RCE in Google Cloud Production"
+      ],
+      "key_points_zh": [
+        "StubZero: $148,337 RCE in Google Cloud Production"
+      ],
+      "key_points_en": [
+        "StubZero: $148,337 RCE in Google Cloud Production"
+      ],
+      "tweet_drafts": [
+        "StubZero: $148,337 RCE in Google Cloud Production"
+      ],
+      "sources": [
+        {
+          "feed_title": "brutecat.com",
+          "title": "StubZero: $148,337 RCE in Google Cloud Production",
+          "link": "https://brutecat.com/articles/google-cloud-rce"
+        }
+      ],
+      "summary_zh": "2026-06-01 技术日报：StubZero: $148,337 RCE in Google Cloud Production。",
+      "summary_en": "Daily brief (2026-06-01): StubZero: $148,337 RCE in Google Cloud Production.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-01 日报】StubZero: $148,337 RCE in Google Cloud Production。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-01): StubZero: $148,337 RCE in Google Cloud Production. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-01）\n- StubZero: $148,337 RCE in Google Cloud Production\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://brutecat.com/articles/google-cloud-rce\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-01)\n- StubZero: $148,337 RCE in Google Cloud Production\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://brutecat.com/articles/google-cloud-rce\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：StubZero: $148,337 RCE in Google Cloud Production。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: StubZero: $148,337 RCE in Google Cloud Production.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-05-22",
       "total": 4,
@@ -1078,7 +1123,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2197,82 +2242,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Premium: How OpenAI Kills Oracle；Blog prize for big questions about AI；★ Norwegian Boating Licenses and Generational Law。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Premium: How OpenAI Kills Oracle; Blog prize for big questions about AI; ★ Norwegian Boating Licenses and Generational Law.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-23",
-      "total": 21,
-      "feeds": [
-        "daringfireball.net (5)",
-        "simonwillison.net (3)",
-        "johndcook.com (2)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Extract PDF text in your browser with LiteParse for the web",
-        "daringfireball.net · Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "daringfireball.net · Nilay Patel: ‘Beware Software Brain’",
-        "simonwillison.net · A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-        "daringfireball.net · Eight for Eight",
-        "daringfireball.net · Microsoft Offers Voluntary Retirement to Long-Serving Employees"
-      ],
-      "key_points": [
-        "Extract PDF text in your browser with LiteParse for the web",
-        "Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
-      ],
-      "key_points_zh": [
-        "Extract PDF text in your browser with LiteParse for the web",
-        "Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
-      ],
-      "key_points_en": [
-        "Extract PDF text in your browser with LiteParse for the web",
-        "Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "Nilay Patel: ‘Beware Software Brain’",
-        "A pelican for GPT-5.5 via the semi-official Codex backdoor API"
-      ],
-      "tweet_drafts": [
-        "Extract PDF text in your browser with LiteParse for the web",
-        "Trump’s Blog Has Somehow Lost $1.1 Billion",
-        "Nilay Patel: ‘Beware Software Brain’"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Extract PDF text in your browser with LiteParse for the web",
-          "link": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Trump’s Blog Has Somehow Lost $1.1 Billion",
-          "link": "https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Nilay Patel: ‘Beware Software Brain’",
-          "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation"
-        }
-      ],
-      "summary_zh": "2026-04-23 技术日报：Extract PDF text in your browser with LiteParse for the web；Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’。",
-      "summary_en": "Daily brief (2026-04-23): Extract PDF text in your browser with LiteParse for the web; Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-23 日报】Extract PDF text in your browser with LiteParse for the web；Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-23): Extract PDF text in your browser with LiteParse for the web; Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-23）\n- Extract PDF text in your browser with LiteParse for the web\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-23)\n- Extract PDF text in your browser with LiteParse for the web\n- Trump’s Blog Has Somehow Lost $1.1 Billion\n- Nilay Patel: ‘Beware Software Brain’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything\n- https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/\n- https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Extract PDF text in your browser with LiteParse for the web；Trump’s Blog Has Somehow Lost $1.1 Billion；Nilay Patel: ‘Beware Software Brain’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Extract PDF text in your browser with LiteParse for the web; Trump’s Blog Has Somehow Lost $1.1 Billion; Nilay Patel: ‘Beware Software Brain’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
