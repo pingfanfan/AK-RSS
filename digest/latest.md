@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-23 14:06:05 UTC
+Generated at: 2026-05-23 14:49:56 UTC
 
-- [Real and imaginary parts](https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/) (`johndcook.com`)
+- [There is only one bad AI scenario](https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html) (`geohot.github.io`)
