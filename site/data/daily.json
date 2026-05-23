@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:46:10Z",
+  "generated_at": "2026-05-23T08:37:52Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,43 +48,50 @@
     },
     {
       "date": "2026-05-23",
-      "total": 4,
+      "total": 5,
       "feeds": [
+        "berthub.eu (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
         "susam.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "berthub.eu · Some notes on how we ended up with Palantir \u0026 how to replace it",
         "johndcook.com · Building complex functions out of real parts",
         "utcc.utoronto.ca/~cks · My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
         "idiallo.com · The commencement speech that shook the world",
         "susam.net · Don't Roll Your Own ..."
       ],
       "key_points": [
-        "Building complex functions out of real parts",
-        "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
-        "The commencement speech that shook the world",
-        "Don't Roll Your Own"
-      ],
-      "key_points_zh": [
-        "Building complex functions out of real parts",
-        "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
-        "The commencement speech that shook the world",
-        "Don't Roll Your Own"
-      ],
-      "key_points_en": [
-        "Building complex functions out of real parts",
-        "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
-        "The commencement speech that shook the world",
-        "Don't Roll Your Own"
-      ],
-      "tweet_drafts": [
+        "Some notes on how we ended up with Palantir \u0026 how to replace it",
         "Building complex functions out of real parts",
         "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
         "The commencement speech that shook the world"
       ],
+      "key_points_zh": [
+        "Some notes on how we ended up with Palantir \u0026 how to replace it",
+        "Building complex functions out of real parts",
+        "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
+        "The commencement speech that shook the world"
+      ],
+      "key_points_en": [
+        "Some notes on how we ended up with Palantir \u0026 how to replace it",
+        "Building complex functions out of real parts",
+        "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
+        "The commencement speech that shook the world"
+      ],
+      "tweet_drafts": [
+        "Some notes on how we ended up with Palantir \u0026 how to replace it",
+        "Building complex functions out of real parts",
+        "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "berthub.eu",
+          "title": "Some notes on how we ended up with Palantir \u0026 how to replace it",
+          "link": "https://berthub.eu/articles/posts/some-notes-on-palantir/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Building complex functions out of real parts",
@@ -94,27 +101,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "The commencement speech that shook the world",
-          "link": "https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed"
         }
       ],
-      "summary_zh": "2026-05-23 技术日报：Building complex functions out of real parts；My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)；The commencement speech that shook the world。",
-      "summary_en": "Daily brief (2026-05-23): Building complex functions out of real parts; My views on Flymake and Flycheck in GNU Emacs (as of mid 2026); The commencement speech that shook the world.",
+      "summary_zh": "2026-05-23 技术日报：Some notes on how we ended up with Palantir \u0026 how to replace it；Building complex functions out of real parts；My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)。",
+      "summary_en": "Daily brief (2026-05-23): Some notes on how we ended up with Palantir \u0026 how to replace it; Building complex functions out of real parts; My views on Flymake and Flycheck in GNU Emacs (as of mid 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-23 日报】Building complex functions out of real parts；My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)；The commencement speech that shook the world。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-23): Building complex functions out of real parts; My views on Flymake and Flycheck in GNU Emacs (as of mid 2026); The commencement speech that shook the world. Actionable takeaways included. What would you ship next? #AI #Engineering #Bu"
+          "zh": "【2026-05-23 日报】Some notes on how we ended up with Palantir \u0026 how to replace it；Building complex functions out of real parts；My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-23): Some notes on how we ended up with Palantir \u0026 how to replace it; Building complex functions out of real parts; My views on Flymake and Flycheck in GNU Emacs (as of mid 2026). Actionable takeaways included. What would you ship next? #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-23）\n- Building complex functions out of real parts\n- My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)\n- The commencement speech that shook the world\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck\n- https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-23)\n- Building complex functions out of real parts\n- My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)\n- The commencement speech that shook the world\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck\n- https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-23）\n- Some notes on how we ended up with Palantir \u0026 how to replace it\n- Building complex functions out of real parts\n- My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/some-notes-on-palantir/\n- https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-23)\n- Some notes on how we ended up with Palantir \u0026 how to replace it\n- Building complex functions out of real parts\n- My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/some-notes-on-palantir/\n- https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Building complex functions out of real parts；My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)；The commencement speech that shook the world。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Building complex functions out of real parts; My views on Flymake and Flycheck in GNU Emacs (as of mid 2026); The commencement speech that shook the world.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Some notes on how we ended up with Palantir \u0026 how to replace it；Building complex functions out of real parts；My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Some notes on how we ended up with Palantir \u0026 how to replace it; Building complex functions out of real parts; My views on Flymake and Flycheck in GNU Emacs (as of mid 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
