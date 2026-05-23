@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T14:50:09Z",
+  "generated_at": "2026-05-23T15:21:07Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-05-23",
-      "total": 10,
+      "total": 11,
       "feeds": [
-        "johndcook.com (2)",
+        "johndcook.com (3)",
         "berthub.eu (1)",
         "construction-physics.com (1)",
         "geohot.github.io (1)",
@@ -58,37 +58,42 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "johndcook.com · Hilbert transform as an infinite matrix",
         "johndcook.com · Real and imaginary parts",
         "construction-physics.com · Reading List 05/23/26",
         "shkspr.mobi · Which age-gates should be skill-gates and vice-versa?",
         "nesbitt.io · This Week in Package Management: 23 May 2026",
-        "berthub.eu · Some notes on how we ended up with Palantir \u0026 how to replace it",
-        "geohot.github.io · There is only one bad AI scenario"
+        "berthub.eu · Some notes on how we ended up with Palantir \u0026 how to replace it"
       ],
       "key_points": [
-        "Real and imaginary parts",
-        "Reading List 05/23/26",
-        "Which age-gates should be skill-gates and vice-versa?",
-        "This Week in Package Management: 23 May 2026"
-      ],
-      "key_points_zh": [
-        "Real and imaginary parts",
-        "Reading List 05/23/26",
-        "Which age-gates should be skill-gates and vice-versa?",
-        "This Week in Package Management: 23 May 2026"
-      ],
-      "key_points_en": [
-        "Real and imaginary parts",
-        "Reading List 05/23/26",
-        "Which age-gates should be skill-gates and vice-versa?",
-        "This Week in Package Management: 23 May 2026"
-      ],
-      "tweet_drafts": [
+        "Hilbert transform as an infinite matrix",
         "Real and imaginary parts",
         "Reading List 05/23/26",
         "Which age-gates should be skill-gates and vice-versa?"
       ],
+      "key_points_zh": [
+        "Hilbert transform as an infinite matrix",
+        "Real and imaginary parts",
+        "Reading List 05/23/26",
+        "Which age-gates should be skill-gates and vice-versa?"
+      ],
+      "key_points_en": [
+        "Hilbert transform as an infinite matrix",
+        "Real and imaginary parts",
+        "Reading List 05/23/26",
+        "Which age-gates should be skill-gates and vice-versa?"
+      ],
+      "tweet_drafts": [
+        "Hilbert transform as an infinite matrix",
+        "Real and imaginary parts",
+        "Reading List 05/23/26"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Hilbert transform as an infinite matrix",
+          "link": "https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Real and imaginary parts",
@@ -98,27 +103,22 @@
           "feed_title": "construction-physics.com",
           "title": "Reading List 05/23/26",
           "link": "https://www.construction-physics.com/p/reading-list-052326"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Which age-gates should be skill-gates and vice-versa?",
-          "link": "https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/"
         }
       ],
-      "summary_zh": "2026-05-23 技术日报：Real and imaginary parts；Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?。",
-      "summary_en": "Daily brief (2026-05-23): Real and imaginary parts; Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?.",
+      "summary_zh": "2026-05-23 技术日报：Hilbert transform as an infinite matrix；Real and imaginary parts；Reading List 05/23/26。",
+      "summary_en": "Daily brief (2026-05-23): Hilbert transform as an infinite matrix; Real and imaginary parts; Reading List 05/23/26.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-23 日报】Real and imaginary parts；Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-23): Real and imaginary parts; Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-23 日报】Hilbert transform as an infinite matrix；Real and imaginary parts；Reading List 05/23/26。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-23): Hilbert transform as an infinite matrix; Real and imaginary parts; Reading List 05/23/26. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-23）\n- Real and imaginary parts\n- Reading List 05/23/26\n- Which age-gates should be skill-gates and vice-versa?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/\n- https://www.construction-physics.com/p/reading-list-052326\n- https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-23)\n- Real and imaginary parts\n- Reading List 05/23/26\n- Which age-gates should be skill-gates and vice-versa?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/\n- https://www.construction-physics.com/p/reading-list-052326\n- https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-23）\n- Hilbert transform as an infinite matrix\n- Real and imaginary parts\n- Reading List 05/23/26\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/\n- https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/\n- https://www.construction-physics.com/p/reading-list-052326\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-23)\n- Hilbert transform as an infinite matrix\n- Real and imaginary parts\n- Reading List 05/23/26\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/\n- https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/\n- https://www.construction-physics.com/p/reading-list-052326\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Real and imaginary parts；Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Real and imaginary parts; Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Hilbert transform as an infinite matrix；Real and imaginary parts；Reading List 05/23/26。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Hilbert transform as an infinite matrix; Real and imaginary parts; Reading List 05/23/26.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -366,8 +366,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1734,8 +1734,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -2143,12 +2143,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -2164,8 +2164,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
