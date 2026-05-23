@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T13:28:56Z",
+  "generated_at": "2026-05-23T14:06:18Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-23",
-      "total": 8,
+      "total": 9,
       "feeds": [
+        "johndcook.com (2)",
         "berthub.eu (1)",
         "construction-physics.com (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)"
       ],
       "highlights": [
+        "johndcook.com · Real and imaginary parts",
         "construction-physics.com · Reading List 05/23/26",
         "shkspr.mobi · Which age-gates should be skill-gates and vice-versa?",
         "nesbitt.io · This Week in Package Management: 23 May 2026",
         "berthub.eu · Some notes on how we ended up with Palantir \u0026 how to replace it",
-        "johndcook.com · Building complex functions out of real parts",
-        "utcc.utoronto.ca/~cks · My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)"
+        "johndcook.com · Building complex functions out of real parts"
       ],
       "key_points": [
-        "Reading List 05/23/26",
-        "Which age-gates should be skill-gates and vice-versa?",
-        "This Week in Package Management: 23 May 2026",
-        "Some notes on how we ended up with Palantir \u0026 how to replace it"
-      ],
-      "key_points_zh": [
-        "Reading List 05/23/26",
-        "Which age-gates should be skill-gates and vice-versa?",
-        "This Week in Package Management: 23 May 2026",
-        "Some notes on how we ended up with Palantir \u0026 how to replace it"
-      ],
-      "key_points_en": [
-        "Reading List 05/23/26",
-        "Which age-gates should be skill-gates and vice-versa?",
-        "This Week in Package Management: 23 May 2026",
-        "Some notes on how we ended up with Palantir \u0026 how to replace it"
-      ],
-      "tweet_drafts": [
+        "Real and imaginary parts",
         "Reading List 05/23/26",
         "Which age-gates should be skill-gates and vice-versa?",
         "This Week in Package Management: 23 May 2026"
       ],
+      "key_points_zh": [
+        "Real and imaginary parts",
+        "Reading List 05/23/26",
+        "Which age-gates should be skill-gates and vice-versa?",
+        "This Week in Package Management: 23 May 2026"
+      ],
+      "key_points_en": [
+        "Real and imaginary parts",
+        "Reading List 05/23/26",
+        "Which age-gates should be skill-gates and vice-versa?",
+        "This Week in Package Management: 23 May 2026"
+      ],
+      "tweet_drafts": [
+        "Real and imaginary parts",
+        "Reading List 05/23/26",
+        "Which age-gates should be skill-gates and vice-versa?"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Real and imaginary parts",
+          "link": "https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Reading List 05/23/26",
@@ -98,27 +103,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Which age-gates should be skill-gates and vice-versa?",
           "link": "https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "This Week in Package Management: 23 May 2026",
-          "link": "https://nesbitt.io/2026/05/23/this-week-in-package-management.html"
         }
       ],
-      "summary_zh": "2026-05-23 技术日报：Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?；This Week in Package Management: 23 May 2026。",
-      "summary_en": "Daily brief (2026-05-23): Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?; This Week in Package Management: 23 May 2026.",
+      "summary_zh": "2026-05-23 技术日报：Real and imaginary parts；Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?。",
+      "summary_en": "Daily brief (2026-05-23): Real and imaginary parts; Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-23 日报】Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?；This Week in Package Management: 23 May 2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-23): Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?; This Week in Package Management: 23 May 2026. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-23 日报】Real and imaginary parts；Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-23): Real and imaginary parts; Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-23）\n- Reading List 05/23/26\n- Which age-gates should be skill-gates and vice-versa?\n- This Week in Package Management: 23 May 2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-052326\n- https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/\n- https://nesbitt.io/2026/05/23/this-week-in-package-management.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-23)\n- Reading List 05/23/26\n- Which age-gates should be skill-gates and vice-versa?\n- This Week in Package Management: 23 May 2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-052326\n- https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/\n- https://nesbitt.io/2026/05/23/this-week-in-package-management.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-23）\n- Real and imaginary parts\n- Reading List 05/23/26\n- Which age-gates should be skill-gates and vice-versa?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/\n- https://www.construction-physics.com/p/reading-list-052326\n- https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-23)\n- Real and imaginary parts\n- Reading List 05/23/26\n- Which age-gates should be skill-gates and vice-versa?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/\n- https://www.construction-physics.com/p/reading-list-052326\n- https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?；This Week in Package Management: 23 May 2026。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?; This Week in Package Management: 23 May 2026.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Real and imaginary parts；Reading List 05/23/26；Which age-gates should be skill-gates and vice-versa?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Real and imaginary parts; Reading List 05/23/26; Which age-gates should be skill-gates and vice-versa?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -366,8 +366,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1203,7 +1203,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1734,8 +1734,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
