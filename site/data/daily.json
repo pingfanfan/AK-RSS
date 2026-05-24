@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T17:19:41Z",
+  "generated_at": "2026-05-24T17:46:22Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-24",
-      "total": 8,
+      "total": 10,
       "feeds": [
         "utcc.utoronto.ca/~cks (2)",
+        "daringfireball.net (1)",
+        "geohot.github.io (1)",
         "lucumr.pocoo.org (1)",
         "michael.stapelberg.ch (1)",
-        "nesbitt.io (1)",
-        "susam.net (1)",
-        "troyhunt.com (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "daringfireball.net · Why Steve Kerr Stayed With the Warriors",
         "xania.org · Walking the dog with Claude",
         "utcc.utoronto.ca/~cks · An idea: user level WireGuard for UDP based encryption and authentication",
         "michael.stapelberg.ch · How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
         "nesbitt.io · Signing is for the bad days",
-        "troyhunt.com · Weekly Update 505",
-        "susam.net · Childhood Computing"
+        "geohot.github.io · The Eternal Sloptember"
       ],
       "key_points": [
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication",
-        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
-        "Signing is for the bad days"
-      ],
-      "key_points_zh": [
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication",
-        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
-        "Signing is for the bad days"
-      ],
-      "key_points_en": [
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication",
-        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
-        "Signing is for the bad days"
-      ],
-      "tweet_drafts": [
+        "Why Steve Kerr Stayed With the Warriors",
         "Walking the dog with Claude",
         "An idea: user level WireGuard for UDP based encryption and authentication",
         "How my minimal, memory-safe Go rsync steers clear of vulnerabilities"
       ],
+      "key_points_zh": [
+        "Why Steve Kerr Stayed With the Warriors",
+        "Walking the dog with Claude",
+        "An idea: user level WireGuard for UDP based encryption and authentication",
+        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities"
+      ],
+      "key_points_en": [
+        "Why Steve Kerr Stayed With the Warriors",
+        "Walking the dog with Claude",
+        "An idea: user level WireGuard for UDP based encryption and authentication",
+        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities"
+      ],
+      "tweet_drafts": [
+        "Why Steve Kerr Stayed With the Warriors",
+        "Walking the dog with Claude",
+        "An idea: user level WireGuard for UDP based encryption and authentication"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Why Steve Kerr Stayed With the Warriors",
+          "link": "https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry"
+        },
         {
           "feed_title": "xania.org",
           "title": "Walking the dog with Claude",
@@ -98,27 +103,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "An idea: user level WireGuard for UDP based encryption and authentication",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption"
-        },
-        {
-          "feed_title": "michael.stapelberg.ch",
-          "title": "How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
-          "link": "https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/"
         }
       ],
-      "summary_zh": "2026-05-24 技术日报：Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication；How my minimal, memory-safe Go rsync steers clear of vulnerabilities。",
-      "summary_en": "Daily brief (2026-05-24): Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication; How my minimal, memory-safe Go rsync steers clear of vulnerabilities.",
+      "summary_zh": "2026-05-24 技术日报：Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication。",
+      "summary_en": "Daily brief (2026-05-24): Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-24 日报】Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication；How my minimal, memory-safe Go rsync steers clear of vulnerabilities。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-24): Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication; How my minimal, memory-safe Go rsync steers clear of vulnerabilities. Actionable takeaways included. What would you ship next? #A"
+          "zh": "【2026-05-24 日报】Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-24): Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-24）\n- Walking the dog with Claude\n- An idea: user level WireGuard for UDP based encryption and authentication\n- How my minimal, memory-safe Go rsync steers clear of vulnerabilities\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n- https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption\n- https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-24)\n- Walking the dog with Claude\n- An idea: user level WireGuard for UDP based encryption and authentication\n- How my minimal, memory-safe Go rsync steers clear of vulnerabilities\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n- https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption\n- https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-24）\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n- An idea: user level WireGuard for UDP based encryption and authentication\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n- https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-24)\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n- An idea: user level WireGuard for UDP based encryption and authentication\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n- https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication；How my minimal, memory-safe Go rsync steers clear of vulnerabilities。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication; How my minimal, memory-safe Go rsync steers clear of vulnerabilities.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -442,8 +442,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1279,7 +1279,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
