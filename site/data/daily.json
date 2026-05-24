@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T18:16:27Z",
+  "generated_at": "2026-05-24T18:49:59Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-05-24",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "utcc.utoronto.ca/~cks (2)",
         "daringfireball.net (1)",
@@ -58,37 +58,42 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Armin Ronacher",
         "daringfireball.net · Why Steve Kerr Stayed With the Warriors",
         "xania.org · Walking the dog with Claude",
         "utcc.utoronto.ca/~cks · An idea: user level WireGuard for UDP based encryption and authentication",
         "michael.stapelberg.ch · How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
-        "nesbitt.io · Signing is for the bad days",
-        "geohot.github.io · The Eternal Sloptember"
+        "nesbitt.io · Signing is for the bad days"
       ],
       "key_points": [
-        "Why Steve Kerr Stayed With the Warriors",
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication",
-        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities"
-      ],
-      "key_points_zh": [
-        "Why Steve Kerr Stayed With the Warriors",
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication",
-        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities"
-      ],
-      "key_points_en": [
-        "Why Steve Kerr Stayed With the Warriors",
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication",
-        "How my minimal, memory-safe Go rsync steers clear of vulnerabilities"
-      ],
-      "tweet_drafts": [
+        "Quoting Armin Ronacher",
         "Why Steve Kerr Stayed With the Warriors",
         "Walking the dog with Claude",
         "An idea: user level WireGuard for UDP based encryption and authentication"
       ],
+      "key_points_zh": [
+        "Quoting Armin Ronacher",
+        "Why Steve Kerr Stayed With the Warriors",
+        "Walking the dog with Claude",
+        "An idea: user level WireGuard for UDP based encryption and authentication"
+      ],
+      "key_points_en": [
+        "Quoting Armin Ronacher",
+        "Why Steve Kerr Stayed With the Warriors",
+        "Walking the dog with Claude",
+        "An idea: user level WireGuard for UDP based encryption and authentication"
+      ],
+      "tweet_drafts": [
+        "Quoting Armin Ronacher",
+        "Why Steve Kerr Stayed With the Warriors",
+        "Walking the dog with Claude"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Armin Ronacher",
+          "link": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Why Steve Kerr Stayed With the Warriors",
@@ -98,27 +103,22 @@
           "feed_title": "xania.org",
           "title": "Walking the dog with Claude",
           "link": "http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "An idea: user level WireGuard for UDP based encryption and authentication",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption"
         }
       ],
-      "summary_zh": "2026-05-24 技术日报：Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication。",
-      "summary_en": "Daily brief (2026-05-24): Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication.",
+      "summary_zh": "2026-05-24 技术日报：Quoting Armin Ronacher；Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude。",
+      "summary_en": "Daily brief (2026-05-24): Quoting Armin Ronacher; Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-24 日报】Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-24): Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-24 日报】Quoting Armin Ronacher；Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-24): Quoting Armin Ronacher; Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-24）\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n- An idea: user level WireGuard for UDP based encryption and authentication\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n- https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-24)\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n- An idea: user level WireGuard for UDP based encryption and authentication\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n- https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-24）\n- Quoting Armin Ronacher\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-24)\n- Quoting Armin Ronacher\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude；An idea: user level WireGuard for UDP based encryption and authentication。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude; An idea: user level WireGuard for UDP based encryption and authentication.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Armin Ronacher；Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Armin Ronacher; Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -442,8 +442,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1279,7 +1279,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -1810,8 +1810,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
@@ -2219,12 +2219,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -2240,8 +2240,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
