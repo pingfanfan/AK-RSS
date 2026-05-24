@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T10:07:43Z",
+  "generated_at": "2026-05-24T10:57:07Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,38 +48,48 @@
     },
     {
       "date": "2026-05-24",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "nesbitt.io (1)",
         "susam.net (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Signing is for the bad days",
         "troyhunt.com · Weekly Update 505",
         "susam.net · Childhood Computing",
         "utcc.utoronto.ca/~cks · How our environment still needs the security boundary of Unix logins"
       ],
       "key_points": [
+        "Signing is for the bad days",
         "Weekly Update 505",
         "Childhood Computing",
         "How our environment still needs the security boundary of Unix logins"
       ],
       "key_points_zh": [
+        "Signing is for the bad days",
         "Weekly Update 505",
         "Childhood Computing",
         "How our environment still needs the security boundary of Unix logins"
       ],
       "key_points_en": [
+        "Signing is for the bad days",
         "Weekly Update 505",
         "Childhood Computing",
         "How our environment still needs the security boundary of Unix logins"
       ],
       "tweet_drafts": [
+        "Signing is for the bad days",
         "Weekly Update 505",
-        "Childhood Computing",
-        "How our environment still needs the security boundary of Unix logins"
+        "Childhood Computing"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Signing is for the bad days",
+          "link": "https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html"
+        },
         {
           "feed_title": "troyhunt.com",
           "title": "Weekly Update 505",
@@ -89,27 +99,22 @@
           "feed_title": "susam.net",
           "title": "Childhood Computing",
           "link": "https://susam.net/childhood-computing.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "How our environment still needs the security boundary of Unix logins",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity"
         }
       ],
-      "summary_zh": "2026-05-24 技术日报：Weekly Update 505；Childhood Computing；How our environment still needs the security boundary of Unix logins。",
-      "summary_en": "Daily brief (2026-05-24): Weekly Update 505; Childhood Computing; How our environment still needs the security boundary of Unix logins.",
+      "summary_zh": "2026-05-24 技术日报：Signing is for the bad days；Weekly Update 505；Childhood Computing。",
+      "summary_en": "Daily brief (2026-05-24): Signing is for the bad days; Weekly Update 505; Childhood Computing.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-24 日报】Weekly Update 505；Childhood Computing；How our environment still needs the security boundary of Unix logins。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-24): Weekly Update 505; Childhood Computing; How our environment still needs the security boundary of Unix logins. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-24 日报】Signing is for the bad days；Weekly Update 505；Childhood Computing。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-24): Signing is for the bad days; Weekly Update 505; Childhood Computing. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-24）\n- Weekly Update 505\n- Childhood Computing\n- How our environment still needs the security boundary of Unix logins\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/weekly-update-505/\n- https://susam.net/childhood-computing.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-24)\n- Weekly Update 505\n- Childhood Computing\n- How our environment still needs the security boundary of Unix logins\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/weekly-update-505/\n- https://susam.net/childhood-computing.html\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-24）\n- Signing is for the bad days\n- Weekly Update 505\n- Childhood Computing\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html\n- https://www.troyhunt.com/weekly-update-505/\n- https://susam.net/childhood-computing.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-24)\n- Signing is for the bad days\n- Weekly Update 505\n- Childhood Computing\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html\n- https://www.troyhunt.com/weekly-update-505/\n- https://susam.net/childhood-computing.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Weekly Update 505；Childhood Computing；How our environment still needs the security boundary of Unix logins。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Weekly Update 505; Childhood Computing; How our environment still needs the security boundary of Unix logins.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Signing is for the bad days；Weekly Update 505；Childhood Computing。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Signing is for the bad days; Weekly Update 505; Childhood Computing.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -433,8 +438,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1270,7 +1275,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2210,12 +2215,12 @@
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
         },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
+          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
         },
         {
           "feed_title": "daringfireball.net",
@@ -2231,8 +2236,8 @@
           "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
