@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T16:39:54Z",
+  "generated_at": "2026-05-25T17:30:00Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-05-25",
-      "total": 9,
+      "total": 11,
       "feeds": [
         "antirez.com (1)",
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "it-notes.dragas.net (1)",
         "joanwestenberg.com (1)",
-        "krebsonsecurity.com (1)",
-        "nesbitt.io (1)"
+        "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · The History of ‘OK’",
+        "utcc.utoronto.ca/~cks · Anti-robot techniques can be nice but the problem is, they're not static",
         "antirez.com · Distributing LLM inference in DwarfStar",
         "krebsonsecurity.com · Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
         "shkspr.mobi · PHP - simple way to send HTTP headers before a script ends",
-        "dfarq.homeip.net · Quantum Link: AOL before it was AOL",
-        "nesbitt.io · GitHub Actions security in Python packages",
-        "it-notes.dragas.net · FediMeteo, timezones, and the art of not breaking what already works"
+        "dfarq.homeip.net · Quantum Link: AOL before it was AOL"
       ],
       "key_points": [
+        "The History of ‘OK’",
+        "Anti-robot techniques can be nice but the problem is, they're not static",
         "Distributing LLM inference in DwarfStar",
-        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "PHP - simple way to send HTTP headers before a script ends",
-        "Quantum Link: AOL before it was AOL"
+        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks"
       ],
       "key_points_zh": [
+        "The History of ‘OK’",
+        "Anti-robot techniques can be nice but the problem is, they're not static",
         "Distributing LLM inference in DwarfStar",
-        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "PHP - simple way to send HTTP headers before a script ends",
-        "Quantum Link: AOL before it was AOL"
+        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks"
       ],
       "key_points_en": [
+        "The History of ‘OK’",
+        "Anti-robot techniques can be nice but the problem is, they're not static",
         "Distributing LLM inference in DwarfStar",
-        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "PHP - simple way to send HTTP headers before a script ends",
-        "Quantum Link: AOL before it was AOL"
+        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks"
       ],
       "tweet_drafts": [
-        "Distributing LLM inference in DwarfStar",
-        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "PHP - simple way to send HTTP headers before a script ends"
+        "The History of ‘OK’",
+        "Anti-robot techniques can be nice but the problem is, they're not static",
+        "Distributing LLM inference in DwarfStar"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "The History of ‘OK’",
+          "link": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Anti-robot techniques can be nice but the problem is, they're not static",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites"
+        },
         {
           "feed_title": "antirez.com",
           "title": "Distributing LLM inference in DwarfStar",
           "link": "http://antirez.com/news/167"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-          "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "PHP - simple way to send HTTP headers before a script ends",
-          "link": "https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/"
         }
       ],
-      "summary_zh": "2026-05-25 技术日报：Distributing LLM inference in DwarfStar；Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends。",
-      "summary_en": "Daily brief (2026-05-25): Distributing LLM inference in DwarfStar; Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends.",
+      "summary_zh": "2026-05-25 技术日报：The History of ‘OK’；Anti-robot techniques can be nice but the problem is, they're not static；Distributing LLM inference in DwarfStar。",
+      "summary_en": "Daily brief (2026-05-25): The History of ‘OK’; Anti-robot techniques can be nice but the problem is, they're not static; Distributing LLM inference in DwarfStar.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-25 日报】Distributing LLM inference in DwarfStar；Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-25): Distributing LLM inference in DwarfStar; Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends. Actionable takeaways included. What would you ship next? #AI #Eng"
+          "zh": "【2026-05-25 日报】The History of ‘OK’；Anti-robot techniques can be nice but the problem is, they're not static；Distributing LLM inference in DwarfStar。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-25): The History of ‘OK’; Anti-robot techniques can be nice but the problem is, they're not static; Distributing LLM inference in DwarfStar. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-25）\n- Distributing LLM inference in DwarfStar\n- Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks\n- PHP - simple way to send HTTP headers before a script ends\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/167\n- https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\n- https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-25)\n- Distributing LLM inference in DwarfStar\n- Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks\n- PHP - simple way to send HTTP headers before a script ends\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/167\n- https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\n- https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-25）\n- The History of ‘OK’\n- Anti-robot techniques can be nice but the problem is, they're not static\n- Distributing LLM inference in DwarfStar\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay\n- https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites\n- http://antirez.com/news/167\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-25)\n- The History of ‘OK’\n- Anti-robot techniques can be nice but the problem is, they're not static\n- Distributing LLM inference in DwarfStar\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay\n- https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites\n- http://antirez.com/news/167\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Distributing LLM inference in DwarfStar；Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Distributing LLM inference in DwarfStar; Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The History of ‘OK’；Anti-robot techniques can be nice but the problem is, they're not static；Distributing LLM inference in DwarfStar。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The History of ‘OK’; Anti-robot techniques can be nice but the problem is, they're not static; Distributing LLM inference in DwarfStar.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -518,8 +518,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1886,8 +1886,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
