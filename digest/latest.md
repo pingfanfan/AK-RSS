@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-25 20:26:32 UTC
+Generated at: 2026-05-25 20:52:27 UTC
 
-- [Solving the board game Quoridor](https://grantslatton.com/solving-quoridor) (`grantslatton.com`)
+- [Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap](https://daringfireball.net/linked/2014/01/29/haynes-aapl) (`daringfireball.net`)
