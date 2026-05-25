@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:45:46Z",
+  "generated_at": "2026-05-25T07:23:25Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -43,6 +43,73 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：StubZero: $148,337 RCE in Google Cloud Production。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: StubZero: $148,337 RCE in Google Cloud Production.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "total": 3,
+      "feeds": [
+        "it-notes.dragas.net (1)",
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "it-notes.dragas.net · FediMeteo, timezones, and the art of not breaking what already works",
+        "joanwestenberg.com · Why I can't stand the word \"driven\"",
+        "simonwillison.net · datasette 1.0a30"
+      ],
+      "key_points": [
+        "FediMeteo, timezones, and the art of not breaking what already works",
+        "Why I can't stand the word \"driven\"",
+        "datasette 1.0a30"
+      ],
+      "key_points_zh": [
+        "FediMeteo, timezones, and the art of not breaking what already works",
+        "Why I can't stand the word \"driven\"",
+        "datasette 1.0a30"
+      ],
+      "key_points_en": [
+        "FediMeteo, timezones, and the art of not breaking what already works",
+        "Why I can't stand the word \"driven\"",
+        "datasette 1.0a30"
+      ],
+      "tweet_drafts": [
+        "FediMeteo, timezones, and the art of not breaking what already works",
+        "Why I can't stand the word \"driven\"",
+        "datasette 1.0a30"
+      ],
+      "sources": [
+        {
+          "feed_title": "it-notes.dragas.net",
+          "title": "FediMeteo, timezones, and the art of not breaking what already works",
+          "link": "https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "Why I can't stand the word \"driven\"",
+          "link": "https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette 1.0a30",
+          "link": "https://simonwillison.net/2026/May/24/datasette/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-05-25 技术日报：FediMeteo, timezones, and the art of not breaking what already works；Why I can't stand the word \"driven\"；datasette 1.0a30。",
+      "summary_en": "Daily brief (2026-05-25): FediMeteo, timezones, and the art of not breaking what already works; Why I can't stand the word \"driven\"; datasette 1.0a30.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-25 日报】FediMeteo, timezones, and the art of not breaking what already works；Why I can't stand the word \"driven\"；datasette 1.0a30。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-25): FediMeteo, timezones, and the art of not breaking what already works; Why I can't stand the word \"driven\"; datasette 1.0a30. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-25）\n- FediMeteo, timezones, and the art of not breaking what already works\n- Why I can't stand the word \"driven\"\n- datasette 1.0a30\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/\n- https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/\n- https://simonwillison.net/2026/May/24/datasette/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-25)\n- FediMeteo, timezones, and the art of not breaking what already works\n- Why I can't stand the word \"driven\"\n- datasette 1.0a30\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/\n- https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/\n- https://simonwillison.net/2026/May/24/datasette/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：FediMeteo, timezones, and the art of not breaking what already works；Why I can't stand the word \"driven\"；datasette 1.0a30。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: FediMeteo, timezones, and the art of not breaking what already works; Why I can't stand the word \"driven\"; datasette 1.0a30.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -442,8 +509,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1279,7 +1346,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2171,81 +2238,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：The Loop: everything has happened before, and everything will happen again；Understanding systems；Yours Truly on The Vergecast。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: The Loop: everything has happened before, and everything will happen again; Understanding systems; Yours Truly on The Vergecast.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-26",
-      "total": 6,
-      "feeds": [
-        "blog.jim-nielsen.com (2)",
-        "computer.rip (1)",
-        "daringfireball.net (1)",
-        "miguelgrinberg.com (1)",
-        "utcc.utoronto.ca/~cks (1)"
-      ],
-      "highlights": [
-        "blog.jim-nielsen.com · Collective Speed Is Not the Summation of Individual Speed",
-        "blog.jim-nielsen.com · Collective Speed Is Not the Summation of Individual Speed",
-        "daringfireball.net · Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "miguelgrinberg.com · How Bitwarden Encrypts and Decrypts Secrets",
-        "utcc.utoronto.ca/~cks · Understanding the Ubuntu server installer initramfs",
-        "computer.rip · voice modems"
-      ],
-      "key_points": [
-        "Collective Speed Is Not the Summation of Individual Speed",
-        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "How Bitwarden Encrypts and Decrypts Secrets",
-        "Understanding the Ubuntu server installer initramfs"
-      ],
-      "key_points_zh": [
-        "Collective Speed Is Not the Summation of Individual Speed",
-        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "How Bitwarden Encrypts and Decrypts Secrets",
-        "Understanding the Ubuntu server installer initramfs"
-      ],
-      "key_points_en": [
-        "Collective Speed Is Not the Summation of Individual Speed",
-        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "How Bitwarden Encrypts and Decrypts Secrets",
-        "Understanding the Ubuntu server installer initramfs"
-      ],
-      "tweet_drafts": [
-        "Collective Speed Is Not the Summation of Individual Speed",
-        "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-        "How Bitwarden Encrypts and Decrypts Secrets"
-      ],
-      "sources": [
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Collective Speed Is Not the Summation of Individual Speed",
-          "link": "https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis",
-          "link": "https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/"
-        }
-      ],
-      "summary_zh": "2026-04-26 技术日报：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。",
-      "summary_en": "Daily brief (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-26 日报】Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-26): Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets. Actionable takeaways included"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-26）\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-26)\n- Collective Speed Is Not the Summation of Individual Speed\n- Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis\n- How Bitwarden Encrypts and Decrypts Secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/\n- https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/\n- https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Collective Speed Is Not the Summation of Individual Speed；Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis；How Bitwarden Encrypts and Decrypts Secrets。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Collective Speed Is Not the Summation of Individual Speed; Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis; How Bitwarden Encrypts and Decrypts Secrets.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
