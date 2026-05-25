@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-25 18:58:57 UTC
+Generated at: 2026-05-25 19:37:06 UTC
 
-- [Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information](https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information) (`daringfireball.net`)
+- [Thieves Are Texting Threats to Victims of iPhone Theft in London](https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L) (`daringfireball.net`)
