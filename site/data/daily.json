@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T14:07:07Z",
+  "generated_at": "2026-05-25T15:32:02Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-25",
-      "total": 8,
+      "total": 9,
       "feeds": [
+        "antirez.com (1)",
         "dfarq.homeip.net (1)",
         "it-notes.dragas.net (1)",
         "joanwestenberg.com (1)",
         "krebsonsecurity.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "antirez.com · Distributing LLM inference in DwarfStar",
         "krebsonsecurity.com · Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
         "shkspr.mobi · PHP - simple way to send HTTP headers before a script ends",
         "dfarq.homeip.net · Quantum Link: AOL before it was AOL",
         "nesbitt.io · GitHub Actions security in Python packages",
-        "it-notes.dragas.net · FediMeteo, timezones, and the art of not breaking what already works",
-        "pluralistic.net · Pluralistic: No honor among (ad-tech) thieves (25 May 2026)"
+        "it-notes.dragas.net · FediMeteo, timezones, and the art of not breaking what already works"
       ],
       "key_points": [
-        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "PHP - simple way to send HTTP headers before a script ends",
-        "Quantum Link: AOL before it was AOL",
-        "GitHub Actions security in Python packages"
-      ],
-      "key_points_zh": [
-        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "PHP - simple way to send HTTP headers before a script ends",
-        "Quantum Link: AOL before it was AOL",
-        "GitHub Actions security in Python packages"
-      ],
-      "key_points_en": [
-        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "PHP - simple way to send HTTP headers before a script ends",
-        "Quantum Link: AOL before it was AOL",
-        "GitHub Actions security in Python packages"
-      ],
-      "tweet_drafts": [
+        "Distributing LLM inference in DwarfStar",
         "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
         "PHP - simple way to send HTTP headers before a script ends",
         "Quantum Link: AOL before it was AOL"
       ],
+      "key_points_zh": [
+        "Distributing LLM inference in DwarfStar",
+        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "PHP - simple way to send HTTP headers before a script ends",
+        "Quantum Link: AOL before it was AOL"
+      ],
+      "key_points_en": [
+        "Distributing LLM inference in DwarfStar",
+        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "PHP - simple way to send HTTP headers before a script ends",
+        "Quantum Link: AOL before it was AOL"
+      ],
+      "tweet_drafts": [
+        "Distributing LLM inference in DwarfStar",
+        "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "PHP - simple way to send HTTP headers before a script ends"
+      ],
       "sources": [
+        {
+          "feed_title": "antirez.com",
+          "title": "Distributing LLM inference in DwarfStar",
+          "link": "http://antirez.com/news/167"
+        },
         {
           "feed_title": "krebsonsecurity.com",
           "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -98,27 +103,22 @@
           "feed_title": "shkspr.mobi",
           "title": "PHP - simple way to send HTTP headers before a script ends",
           "link": "https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Quantum Link: AOL before it was AOL",
-          "link": "https://dfarq.homeip.net/quantum-link-aol-before-it-was-aol/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=quantum-link-aol-before-it-was-aol"
         }
       ],
-      "summary_zh": "2026-05-25 技术日报：Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends；Quantum Link: AOL before it was AOL。",
-      "summary_en": "Daily brief (2026-05-25): Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends; Quantum Link: AOL before it was AOL.",
+      "summary_zh": "2026-05-25 技术日报：Distributing LLM inference in DwarfStar；Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends。",
+      "summary_en": "Daily brief (2026-05-25): Distributing LLM inference in DwarfStar; Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-25 日报】Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends；Quantum Link: AOL before it was AOL。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-25): Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends; Quantum Link: AOL before it was AOL. Actionable takeaways included. What would you ship next? #AI #Enginee"
+          "zh": "【2026-05-25 日报】Distributing LLM inference in DwarfStar；Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-25): Distributing LLM inference in DwarfStar; Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends. Actionable takeaways included. What would you ship next? #AI #Eng"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-25）\n- Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks\n- PHP - simple way to send HTTP headers before a script ends\n- Quantum Link: AOL before it was AOL\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\n- https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/\n- https://dfarq.homeip.net/quantum-link-aol-before-it-was-aol/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=quantum-link-aol-before-it-was-aol\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-25)\n- Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks\n- PHP - simple way to send HTTP headers before a script ends\n- Quantum Link: AOL before it was AOL\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\n- https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/\n- https://dfarq.homeip.net/quantum-link-aol-before-it-was-aol/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=quantum-link-aol-before-it-was-aol\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-25）\n- Distributing LLM inference in DwarfStar\n- Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks\n- PHP - simple way to send HTTP headers before a script ends\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/167\n- https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\n- https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-25)\n- Distributing LLM inference in DwarfStar\n- Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks\n- PHP - simple way to send HTTP headers before a script ends\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/167\n- https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\n- https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends；Quantum Link: AOL before it was AOL。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends; Quantum Link: AOL before it was AOL.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Distributing LLM inference in DwarfStar；Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks；PHP - simple way to send HTTP headers before a script ends。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Distributing LLM inference in DwarfStar; Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks; PHP - simple way to send HTTP headers before a script ends.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -518,8 +518,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1886,8 +1886,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
