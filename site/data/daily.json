@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T07:23:25Z",
+  "generated_at": "2026-05-25T08:48:10Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,36 +48,41 @@
     },
     {
       "date": "2026-05-25",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "it-notes.dragas.net (1)",
         "joanwestenberg.com (1)",
+        "pluralistic.net (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
         "it-notes.dragas.net · FediMeteo, timezones, and the art of not breaking what already works",
+        "pluralistic.net · Pluralistic: No honor among (ad-tech) thieves (25 May 2026)",
         "joanwestenberg.com · Why I can't stand the word \"driven\"",
         "simonwillison.net · datasette 1.0a30"
       ],
       "key_points": [
         "FediMeteo, timezones, and the art of not breaking what already works",
+        "Pluralistic: No honor among (ad-tech) thieves (25 May 2026)",
         "Why I can't stand the word \"driven\"",
         "datasette 1.0a30"
       ],
       "key_points_zh": [
         "FediMeteo, timezones, and the art of not breaking what already works",
+        "Pluralistic: No honor among (ad-tech) thieves (25 May 2026)",
         "Why I can't stand the word \"driven\"",
         "datasette 1.0a30"
       ],
       "key_points_en": [
         "FediMeteo, timezones, and the art of not breaking what already works",
+        "Pluralistic: No honor among (ad-tech) thieves (25 May 2026)",
         "Why I can't stand the word \"driven\"",
         "datasette 1.0a30"
       ],
       "tweet_drafts": [
         "FediMeteo, timezones, and the art of not breaking what already works",
-        "Why I can't stand the word \"driven\"",
-        "datasette 1.0a30"
+        "Pluralistic: No honor among (ad-tech) thieves (25 May 2026)",
+        "Why I can't stand the word \"driven\""
       ],
       "sources": [
         {
@@ -86,30 +91,30 @@
           "link": "https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/"
         },
         {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: No honor among (ad-tech) thieves (25 May 2026)",
+          "link": "https://pluralistic.net/2026/05/25/lying-spies/"
+        },
+        {
           "feed_title": "joanwestenberg.com",
           "title": "Why I can't stand the word \"driven\"",
           "link": "https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "datasette 1.0a30",
-          "link": "https://simonwillison.net/2026/May/24/datasette/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-25 技术日报：FediMeteo, timezones, and the art of not breaking what already works；Why I can't stand the word \"driven\"；datasette 1.0a30。",
-      "summary_en": "Daily brief (2026-05-25): FediMeteo, timezones, and the art of not breaking what already works; Why I can't stand the word \"driven\"; datasette 1.0a30.",
+      "summary_zh": "2026-05-25 技术日报：FediMeteo, timezones, and the art of not breaking what already works；Pluralistic: No honor among (ad-tech) thieves (25 May 2026)；Why I can't stand the word \"driven\"。",
+      "summary_en": "Daily brief (2026-05-25): FediMeteo, timezones, and the art of not breaking what already works; Pluralistic: No honor among (ad-tech) thieves (25 May 2026); Why I can't stand the word \"driven\".",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-25 日报】FediMeteo, timezones, and the art of not breaking what already works；Why I can't stand the word \"driven\"；datasette 1.0a30。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-25): FediMeteo, timezones, and the art of not breaking what already works; Why I can't stand the word \"driven\"; datasette 1.0a30. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-25 日报】FediMeteo, timezones, and the art of not breaking what already works；Pluralistic: No honor among (ad-tech) thieves (25 May 2026)；Why I can't stand the word \"driven\"。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-25): FediMeteo, timezones, and the art of not breaking what already works; Pluralistic: No honor among (ad-tech) thieves (25 May 2026); Why I can't stand the word \"driven\". Actionable takeaways included. What would you ship next? #AI #Eng"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-25）\n- FediMeteo, timezones, and the art of not breaking what already works\n- Why I can't stand the word \"driven\"\n- datasette 1.0a30\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/\n- https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/\n- https://simonwillison.net/2026/May/24/datasette/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-25)\n- FediMeteo, timezones, and the art of not breaking what already works\n- Why I can't stand the word \"driven\"\n- datasette 1.0a30\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/\n- https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/\n- https://simonwillison.net/2026/May/24/datasette/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-25）\n- FediMeteo, timezones, and the art of not breaking what already works\n- Pluralistic: No honor among (ad-tech) thieves (25 May 2026)\n- Why I can't stand the word \"driven\"\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/\n- https://pluralistic.net/2026/05/25/lying-spies/\n- https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-25)\n- FediMeteo, timezones, and the art of not breaking what already works\n- Pluralistic: No honor among (ad-tech) thieves (25 May 2026)\n- Why I can't stand the word \"driven\"\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/\n- https://pluralistic.net/2026/05/25/lying-spies/\n- https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：FediMeteo, timezones, and the art of not breaking what already works；Why I can't stand the word \"driven\"；datasette 1.0a30。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: FediMeteo, timezones, and the art of not breaking what already works; Why I can't stand the word \"driven\"; datasette 1.0a30.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：FediMeteo, timezones, and the art of not breaking what already works；Pluralistic: No honor among (ad-tech) thieves (25 May 2026)；Why I can't stand the word \"driven\"。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: FediMeteo, timezones, and the art of not breaking what already works; Pluralistic: No honor among (ad-tech) thieves (25 May 2026); Why I can't stand the word \"driven\".\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -509,8 +514,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1877,8 +1882,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
