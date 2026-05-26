@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T16:43:31Z",
+  "generated_at": "2026-05-26T17:58:33Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-05-26",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "simonwillison.net (2)",
         "daringfireball.net (1)",
@@ -58,37 +58,42 @@
         "experimental-history.com (1)"
       ],
       "highlights": [
+        "wheresyoured.at · Revenge of The Business Idiot",
         "experimental-history.com · Only insane people use the internet",
         "simonwillison.net · Microsoft Copilot Cowork Exfiltrates Files",
         "minimaxir.com · The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
         "johndcook.com · Expected IQ spread on a jury",
-        "dfarq.homeip.net · What happened to Tandy computers",
-        "derekthompson.org · The Great Depopulation"
+        "dfarq.homeip.net · What happened to Tandy computers"
       ],
       "key_points": [
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files",
-        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "Expected IQ spread on a jury"
-      ],
-      "key_points_zh": [
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files",
-        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "Expected IQ spread on a jury"
-      ],
-      "key_points_en": [
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files",
-        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "Expected IQ spread on a jury"
-      ],
-      "tweet_drafts": [
+        "Revenge of The Business Idiot",
         "Only insane people use the internet",
         "Microsoft Copilot Cowork Exfiltrates Files",
         "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
       ],
+      "key_points_zh": [
+        "Revenge of The Business Idiot",
+        "Only insane people use the internet",
+        "Microsoft Copilot Cowork Exfiltrates Files",
+        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
+      ],
+      "key_points_en": [
+        "Revenge of The Business Idiot",
+        "Only insane people use the internet",
+        "Microsoft Copilot Cowork Exfiltrates Files",
+        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
+      ],
+      "tweet_drafts": [
+        "Revenge of The Business Idiot",
+        "Only insane people use the internet",
+        "Microsoft Copilot Cowork Exfiltrates Files"
+      ],
       "sources": [
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "Revenge of The Business Idiot",
+          "link": "https://www.wheresyoured.at/the-revenge-of-the-business-idiot/"
+        },
         {
           "feed_title": "experimental-history.com",
           "title": "Only insane people use the internet",
@@ -98,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Microsoft Copilot Cowork Exfiltrates Files",
           "link": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything"
-        },
-        {
-          "feed_title": "minimaxir.com",
-          "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-          "link": "https://minimaxir.com/2026/05/openrouter-hy3/"
         }
       ],
-      "summary_zh": "2026-05-26 技术日报：Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files；The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin。",
-      "summary_en": "Daily brief (2026-05-26): Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files; The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin.",
+      "summary_zh": "2026-05-26 技术日报：Revenge of The Business Idiot；Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files。",
+      "summary_en": "Daily brief (2026-05-26): Revenge of The Business Idiot; Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-26 日报】Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files；The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-26): Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files; The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin. Actionable takeaways included. What would you ship next? #AI #Engineering"
+          "zh": "【2026-05-26 日报】Revenge of The Business Idiot；Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-26): Revenge of The Business Idiot; Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-26）\n- Only insane people use the internet\n- Microsoft Copilot Cowork Exfiltrates Files\n- The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n- https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything\n- https://minimaxir.com/2026/05/openrouter-hy3/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-26)\n- Only insane people use the internet\n- Microsoft Copilot Cowork Exfiltrates Files\n- The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n- https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything\n- https://minimaxir.com/2026/05/openrouter-hy3/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-26）\n- Revenge of The Business Idiot\n- Only insane people use the internet\n- Microsoft Copilot Cowork Exfiltrates Files\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n- https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-26)\n- Revenge of The Business Idiot\n- Only insane people use the internet\n- Microsoft Copilot Cowork Exfiltrates Files\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n- https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files；The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files; The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Revenge of The Business Idiot；Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Revenge of The Business Idiot; Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -594,8 +594,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1431,7 +1431,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
