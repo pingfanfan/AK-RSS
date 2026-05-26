@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T17:58:33Z",
+  "generated_at": "2026-05-26T18:54:50Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-26",
-      "total": 14,
+      "total": 15,
       "feeds": [
+        "johndcook.com (2)",
         "simonwillison.net (2)",
         "daringfireball.net (1)",
         "derekthompson.org (1)",
         "dfarq.homeip.net (1)",
-        "dynomight.net (1)",
-        "experimental-history.com (1)"
+        "dynomight.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Calculating the expected range of normal samples",
         "wheresyoured.at · Revenge of The Business Idiot",
         "experimental-history.com · Only insane people use the internet",
         "simonwillison.net · Microsoft Copilot Cowork Exfiltrates Files",
         "minimaxir.com · The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "johndcook.com · Expected IQ spread on a jury",
-        "dfarq.homeip.net · What happened to Tandy computers"
+        "johndcook.com · Expected IQ spread on a jury"
       ],
       "key_points": [
-        "Revenge of The Business Idiot",
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files",
-        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
-      ],
-      "key_points_zh": [
-        "Revenge of The Business Idiot",
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files",
-        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
-      ],
-      "key_points_en": [
-        "Revenge of The Business Idiot",
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files",
-        "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
-      ],
-      "tweet_drafts": [
+        "Calculating the expected range of normal samples",
         "Revenge of The Business Idiot",
         "Only insane people use the internet",
         "Microsoft Copilot Cowork Exfiltrates Files"
       ],
+      "key_points_zh": [
+        "Calculating the expected range of normal samples",
+        "Revenge of The Business Idiot",
+        "Only insane people use the internet",
+        "Microsoft Copilot Cowork Exfiltrates Files"
+      ],
+      "key_points_en": [
+        "Calculating the expected range of normal samples",
+        "Revenge of The Business Idiot",
+        "Only insane people use the internet",
+        "Microsoft Copilot Cowork Exfiltrates Files"
+      ],
+      "tweet_drafts": [
+        "Calculating the expected range of normal samples",
+        "Revenge of The Business Idiot",
+        "Only insane people use the internet"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Calculating the expected range of normal samples",
+          "link": "https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "Revenge of The Business Idiot",
@@ -98,27 +103,22 @@
           "feed_title": "experimental-history.com",
           "title": "Only insane people use the internet",
           "link": "https://www.experimental-history.com/p/only-insane-people-use-the-internet"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Microsoft Copilot Cowork Exfiltrates Files",
-          "link": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-26 技术日报：Revenge of The Business Idiot；Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files。",
-      "summary_en": "Daily brief (2026-05-26): Revenge of The Business Idiot; Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files.",
+      "summary_zh": "2026-05-26 技术日报：Calculating the expected range of normal samples；Revenge of The Business Idiot；Only insane people use the internet。",
+      "summary_en": "Daily brief (2026-05-26): Calculating the expected range of normal samples; Revenge of The Business Idiot; Only insane people use the internet.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-26 日报】Revenge of The Business Idiot；Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-26): Revenge of The Business Idiot; Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-26 日报】Calculating the expected range of normal samples；Revenge of The Business Idiot；Only insane people use the internet。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-26): Calculating the expected range of normal samples; Revenge of The Business Idiot; Only insane people use the internet. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-26）\n- Revenge of The Business Idiot\n- Only insane people use the internet\n- Microsoft Copilot Cowork Exfiltrates Files\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n- https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-26)\n- Revenge of The Business Idiot\n- Only insane people use the internet\n- Microsoft Copilot Cowork Exfiltrates Files\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n- https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-26）\n- Calculating the expected range of normal samples\n- Revenge of The Business Idiot\n- Only insane people use the internet\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-26)\n- Calculating the expected range of normal samples\n- Revenge of The Business Idiot\n- Only insane people use the internet\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Revenge of The Business Idiot；Only insane people use the internet；Microsoft Copilot Cowork Exfiltrates Files。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Revenge of The Business Idiot; Only insane people use the internet; Microsoft Copilot Cowork Exfiltrates Files.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Calculating the expected range of normal samples；Revenge of The Business Idiot；Only insane people use the internet。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Calculating the expected range of normal samples; Revenge of The Business Idiot; Only insane people use the internet.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1431,7 +1431,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
