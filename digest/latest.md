@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-26 10:20:34 UTC
+Generated at: 2026-05-26 12:50:38 UTC
 
-- [Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)](https://pluralistic.net/2026/05/26/the-ai-will-continue/) (`pluralistic.net`)
+- [The Great Depopulation](https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed) (`derekthompson.org`)
+- [90 % of the t distribution](https://entropicthoughts.com/ninety-percent-of-the-t-distribution) (`entropicthoughts.com`)
+- [What happened to Tandy computers](https://dfarq.homeip.net/what-happened-to-tandy-computers/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-tandy-computers) (`dfarq.homeip.net`)
