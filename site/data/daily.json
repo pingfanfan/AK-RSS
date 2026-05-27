@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T08:42:59Z",
+  "generated_at": "2026-05-27T10:21:39Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-27",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "berthub.eu (1)",
         "herman.bearblog.dev (1)",
         "idiallo.com (1)",
         "jeffgeerling.com (1)",
         "pluralistic.net (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "berthub.eu · Het Solvinity besluit in detail, en de mogelijke gevolgen",
         "pluralistic.net · Pluralistic: AI and a world without migrants (27 May 2026)",
         "herman.bearblog.dev · Resurfacing posts",
         "simonwillison.net · Quoting Kyle Ferrana",
         "utcc.utoronto.ca/~cks · My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
-        "jeffgeerling.com · I patched iozone for better disk benchmarks on modern macOS",
-        "idiallo.com · How Many Tokens Did You Burn Today"
+        "jeffgeerling.com · I patched iozone for better disk benchmarks on modern macOS"
       ],
       "key_points": [
-        "Pluralistic: AI and a world without migrants (27 May 2026)",
-        "Resurfacing posts",
-        "Quoting Kyle Ferrana",
-        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)"
-      ],
-      "key_points_zh": [
-        "Pluralistic: AI and a world without migrants (27 May 2026)",
-        "Resurfacing posts",
-        "Quoting Kyle Ferrana",
-        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)"
-      ],
-      "key_points_en": [
-        "Pluralistic: AI and a world without migrants (27 May 2026)",
-        "Resurfacing posts",
-        "Quoting Kyle Ferrana",
-        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)"
-      ],
-      "tweet_drafts": [
+        "Het Solvinity besluit in detail, en de mogelijke gevolgen",
         "Pluralistic: AI and a world without migrants (27 May 2026)",
         "Resurfacing posts",
         "Quoting Kyle Ferrana"
       ],
+      "key_points_zh": [
+        "Het Solvinity besluit in detail, en de mogelijke gevolgen",
+        "Pluralistic: AI and a world without migrants (27 May 2026)",
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana"
+      ],
+      "key_points_en": [
+        "Het Solvinity besluit in detail, en de mogelijke gevolgen",
+        "Pluralistic: AI and a world without migrants (27 May 2026)",
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana"
+      ],
+      "tweet_drafts": [
+        "Het Solvinity besluit in detail, en de mogelijke gevolgen",
+        "Pluralistic: AI and a world without migrants (27 May 2026)",
+        "Resurfacing posts"
+      ],
       "sources": [
+        {
+          "feed_title": "berthub.eu",
+          "title": "Het Solvinity besluit in detail, en de mogelijke gevolgen",
+          "link": "https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: AI and a world without migrants (27 May 2026)",
@@ -98,27 +103,22 @@
           "feed_title": "herman.bearblog.dev",
           "title": "Resurfacing posts",
           "link": "https://herman.bearblog.dev/resurfacing-posts/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Kyle Ferrana",
-          "link": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-27 技术日报：Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts；Quoting Kyle Ferrana。",
-      "summary_en": "Daily brief (2026-05-27): Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts; Quoting Kyle Ferrana.",
+      "summary_zh": "2026-05-27 技术日报：Het Solvinity besluit in detail, en de mogelijke gevolgen；Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts。",
+      "summary_en": "Daily brief (2026-05-27): Het Solvinity besluit in detail, en de mogelijke gevolgen; Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-27 日报】Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts；Quoting Kyle Ferrana。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-27): Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts; Quoting Kyle Ferrana. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-27 日报】Het Solvinity besluit in detail, en de mogelijke gevolgen；Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-27): Het Solvinity besluit in detail, en de mogelijke gevolgen; Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-27）\n- Pluralistic: AI and a world without migrants (27 May 2026)\n- Resurfacing posts\n- Quoting Kyle Ferrana\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/05/27/unnecessariat/\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-27)\n- Pluralistic: AI and a world without migrants (27 May 2026)\n- Resurfacing posts\n- Quoting Kyle Ferrana\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/05/27/unnecessariat/\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-27）\n- Het Solvinity besluit in detail, en de mogelijke gevolgen\n- Pluralistic: AI and a world without migrants (27 May 2026)\n- Resurfacing posts\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/\n- https://pluralistic.net/2026/05/27/unnecessariat/\n- https://herman.bearblog.dev/resurfacing-posts/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-27)\n- Het Solvinity besluit in detail, en de mogelijke gevolgen\n- Pluralistic: AI and a world without migrants (27 May 2026)\n- Resurfacing posts\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/\n- https://pluralistic.net/2026/05/27/unnecessariat/\n- https://herman.bearblog.dev/resurfacing-posts/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts；Quoting Kyle Ferrana。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts; Quoting Kyle Ferrana.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Het Solvinity besluit in detail, en de mogelijke gevolgen；Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Het Solvinity besluit in detail, en de mogelijke gevolgen; Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1507,7 +1507,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
