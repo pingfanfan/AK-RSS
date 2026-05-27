@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T22:53:03Z",
+  "generated_at": "2026-05-27T07:17:14Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -43,6 +43,80 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：StubZero: $148,337 RCE in Google Cloud Production。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: StubZero: $148,337 RCE in Google Cloud Production.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-05-27",
+      "total": 5,
+      "feeds": [
+        "herman.bearblog.dev (1)",
+        "idiallo.com (1)",
+        "jeffgeerling.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "herman.bearblog.dev · Resurfacing posts",
+        "simonwillison.net · Quoting Kyle Ferrana",
+        "utcc.utoronto.ca/~cks · My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
+        "jeffgeerling.com · I patched iozone for better disk benchmarks on modern macOS",
+        "idiallo.com · How Many Tokens Did You Burn Today"
+      ],
+      "key_points": [
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana",
+        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
+        "I patched iozone for better disk benchmarks on modern macOS"
+      ],
+      "key_points_zh": [
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana",
+        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
+        "I patched iozone for better disk benchmarks on modern macOS"
+      ],
+      "key_points_en": [
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana",
+        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
+        "I patched iozone for better disk benchmarks on modern macOS"
+      ],
+      "tweet_drafts": [
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana",
+        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)"
+      ],
+      "sources": [
+        {
+          "feed_title": "herman.bearblog.dev",
+          "title": "Resurfacing posts",
+          "link": "https://herman.bearblog.dev/resurfacing-posts/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Kyle Ferrana",
+          "link": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026"
+        }
+      ],
+      "summary_zh": "2026-05-27 技术日报：Resurfacing posts；Quoting Kyle Ferrana；My views on some Python LSP servers in GNU Emacs (as of mid 2026)。",
+      "summary_en": "Daily brief (2026-05-27): Resurfacing posts; Quoting Kyle Ferrana; My views on some Python LSP servers in GNU Emacs (as of mid 2026).",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-27 日报】Resurfacing posts；Quoting Kyle Ferrana；My views on some Python LSP servers in GNU Emacs (as of mid 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-27): Resurfacing posts; Quoting Kyle Ferrana; My views on some Python LSP servers in GNU Emacs (as of mid 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-27）\n- Resurfacing posts\n- Quoting Kyle Ferrana\n- My views on some Python LSP servers in GNU Emacs (as of mid 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-27)\n- Resurfacing posts\n- Quoting Kyle Ferrana\n- My views on some Python LSP servers in GNU Emacs (as of mid 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Resurfacing posts；Quoting Kyle Ferrana；My views on some Python LSP servers in GNU Emacs (as of mid 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Resurfacing posts; Quoting Kyle Ferrana; My views on some Python LSP servers in GNU Emacs (as of mid 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2171,82 +2245,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’；LLM 0.32a0 is a major backwards-compatible refactor；Reiner Pope – The math behind how LLMs are trained and served。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’; LLM 0.32a0 is a major backwards-compatible refactor; Reiner Pope – The math behind how LLMs are trained and served.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-28",
-      "total": 21,
-      "feeds": [
-        "simonwillison.net (3)",
-        "johndcook.com (2)",
-        "wheresyoured.at (2)",
-        "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "wheresyoured.at · OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
-        "simonwillison.net · Quoting OpenAI Codex base_instructions",
-        "johndcook.com · Turning a trick into a technique",
-        "experimental-history.com · The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
-        "wheresyoured.at · AI's Economics Don't Make Sense",
-        "buttondown.com/hillelwayne · Illegal vs Unwanted States"
-      ],
-      "key_points": [
-        "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
-        "Quoting OpenAI Codex base_instructions",
-        "Turning a trick into a technique",
-        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree"
-      ],
-      "key_points_zh": [
-        "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
-        "Quoting OpenAI Codex base_instructions",
-        "Turning a trick into a technique",
-        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree"
-      ],
-      "key_points_en": [
-        "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
-        "Quoting OpenAI Codex base_instructions",
-        "Turning a trick into a technique",
-        "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree"
-      ],
-      "tweet_drafts": [
-        "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
-        "Quoting OpenAI Codex base_instructions",
-        "Turning a trick into a technique"
-      ],
-      "sources": [
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
-          "link": "https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting OpenAI Codex base_instructions",
-          "link": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Turning a trick into a technique",
-          "link": "https://www.johndcook.com/blog/2026/04/28/even-series-trick/"
-        }
-      ],
-      "summary_zh": "2026-04-28 技术日报：OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)；Quoting OpenAI Codex base_instructions；Turning a trick into a technique。",
-      "summary_en": "Daily brief (2026-04-28): OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow); Quoting OpenAI Codex base_instructions; Turning a trick into a technique.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-28 日报】OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)；Quoting OpenAI Codex base_instructions；Turning a trick into a technique。我把可执行建议整理好了，欢迎转发讨论。#技术趋",
-          "en": "AK-RSS Daily (2026-04-28): OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow); Quoting OpenAI Codex base_instructions; Turning a trick into a technique. Actionab"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-28）\n- OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)\n- Quoting OpenAI Codex base_instructions\n- Turning a trick into a technique\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/\n- https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything\n- https://www.johndcook.com/blog/2026/04/28/even-series-trick/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-28)\n- OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)\n- Quoting OpenAI Codex base_instructions\n- Turning a trick into a technique\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/\n- https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything\n- https://www.johndcook.com/blog/2026/04/28/even-series-trick/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)；Quoting OpenAI Codex base_instructions；Turning a trick into a technique。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow); Quoting OpenAI Codex base_instructions; Turning a trick into a technique.\nI turned them into an action-ready daily brief you ca"
         }
       }
     }
