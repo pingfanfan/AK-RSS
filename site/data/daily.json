@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T07:17:14Z",
+  "generated_at": "2026-05-27T08:42:59Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-05-27",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "herman.bearblog.dev (1)",
         "idiallo.com (1)",
         "jeffgeerling.com (1)",
+        "pluralistic.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: AI and a world without migrants (27 May 2026)",
         "herman.bearblog.dev · Resurfacing posts",
         "simonwillison.net · Quoting Kyle Ferrana",
         "utcc.utoronto.ca/~cks · My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
@@ -64,29 +66,34 @@
         "idiallo.com · How Many Tokens Did You Burn Today"
       ],
       "key_points": [
-        "Resurfacing posts",
-        "Quoting Kyle Ferrana",
-        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
-        "I patched iozone for better disk benchmarks on modern macOS"
-      ],
-      "key_points_zh": [
-        "Resurfacing posts",
-        "Quoting Kyle Ferrana",
-        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
-        "I patched iozone for better disk benchmarks on modern macOS"
-      ],
-      "key_points_en": [
-        "Resurfacing posts",
-        "Quoting Kyle Ferrana",
-        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
-        "I patched iozone for better disk benchmarks on modern macOS"
-      ],
-      "tweet_drafts": [
+        "Pluralistic: AI and a world without migrants (27 May 2026)",
         "Resurfacing posts",
         "Quoting Kyle Ferrana",
         "My views on some Python LSP servers in GNU Emacs (as of mid 2026)"
       ],
+      "key_points_zh": [
+        "Pluralistic: AI and a world without migrants (27 May 2026)",
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana",
+        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)"
+      ],
+      "key_points_en": [
+        "Pluralistic: AI and a world without migrants (27 May 2026)",
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana",
+        "My views on some Python LSP servers in GNU Emacs (as of mid 2026)"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: AI and a world without migrants (27 May 2026)",
+        "Resurfacing posts",
+        "Quoting Kyle Ferrana"
+      ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: AI and a world without migrants (27 May 2026)",
+          "link": "https://pluralistic.net/2026/05/27/unnecessariat/"
+        },
         {
           "feed_title": "herman.bearblog.dev",
           "title": "Resurfacing posts",
@@ -96,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Kyle Ferrana",
           "link": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "My views on some Python LSP servers in GNU Emacs (as of mid 2026)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026"
         }
       ],
-      "summary_zh": "2026-05-27 技术日报：Resurfacing posts；Quoting Kyle Ferrana；My views on some Python LSP servers in GNU Emacs (as of mid 2026)。",
-      "summary_en": "Daily brief (2026-05-27): Resurfacing posts; Quoting Kyle Ferrana; My views on some Python LSP servers in GNU Emacs (as of mid 2026).",
+      "summary_zh": "2026-05-27 技术日报：Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts；Quoting Kyle Ferrana。",
+      "summary_en": "Daily brief (2026-05-27): Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts; Quoting Kyle Ferrana.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-27 日报】Resurfacing posts；Quoting Kyle Ferrana；My views on some Python LSP servers in GNU Emacs (as of mid 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-27): Resurfacing posts; Quoting Kyle Ferrana; My views on some Python LSP servers in GNU Emacs (as of mid 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-27 日报】Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts；Quoting Kyle Ferrana。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-27): Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts; Quoting Kyle Ferrana. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-27）\n- Resurfacing posts\n- Quoting Kyle Ferrana\n- My views on some Python LSP servers in GNU Emacs (as of mid 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-27)\n- Resurfacing posts\n- Quoting Kyle Ferrana\n- My views on some Python LSP servers in GNU Emacs (as of mid 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-27）\n- Pluralistic: AI and a world without migrants (27 May 2026)\n- Resurfacing posts\n- Quoting Kyle Ferrana\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/05/27/unnecessariat/\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-27)\n- Pluralistic: AI and a world without migrants (27 May 2026)\n- Resurfacing posts\n- Quoting Kyle Ferrana\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/05/27/unnecessariat/\n- https://herman.bearblog.dev/resurfacing-posts/\n- https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Resurfacing posts；Quoting Kyle Ferrana；My views on some Python LSP servers in GNU Emacs (as of mid 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Resurfacing posts; Quoting Kyle Ferrana; My views on some Python LSP servers in GNU Emacs (as of mid 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: AI and a world without migrants (27 May 2026)；Resurfacing posts；Quoting Kyle Ferrana。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: AI and a world without migrants (27 May 2026); Resurfacing posts; Quoting Kyle Ferrana.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1505,7 +1507,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2036,8 +2038,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
