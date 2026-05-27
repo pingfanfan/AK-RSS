@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T19:15:31Z",
+  "generated_at": "2026-05-27T20:14:20Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-27",
-      "total": 13,
+      "total": 15,
       "feeds": [
         "simonwillison.net (2)",
         "berthub.eu (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
-        "idiallo.com (1)",
-        "jeffgeerling.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Solutions to the Exercises",
         "simonwillison.net · I think Anthropic and OpenAI have found product-market fit",
         "johndcook.com · The Meta logo and fitting Besace curves",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1",
         "terriblesoftware.org · Using My Fucking Brain",
-        "shkspr.mobi · Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆",
-        "dfarq.homeip.net · AMD K6-2 released May 28, 1998",
-        "nesbitt.io · CHAOSS Metrics in 2026"
+        "shkspr.mobi · Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆"
       ],
       "key_points": [
+        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
         "I think Anthropic and OpenAI have found product-market fit",
         "The Meta logo and fitting Besace curves",
-        "Using My Fucking Brain",
-        "Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1"
       ],
       "key_points_zh": [
+        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
         "I think Anthropic and OpenAI have found product-market fit",
         "The Meta logo and fitting Besace curves",
-        "Using My Fucking Brain",
-        "Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1"
       ],
       "key_points_en": [
+        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
         "I think Anthropic and OpenAI have found product-market fit",
         "The Meta logo and fitting Besace curves",
-        "Using My Fucking Brain",
-        "Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1"
       ],
       "tweet_drafts": [
+        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
         "I think Anthropic and OpenAI have found product-market fit",
-        "The Meta logo and fitting Besace curves",
-        "Using My Fucking Brain"
+        "The Meta logo and fitting Besace curves"
       ],
       "sources": [
+        {
+          "feed_title": "miguelgrinberg.com",
+          "title": "SQLAlchemy 2 In Practice - Solutions to the Exercises",
+          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "I think Anthropic and OpenAI have found product-market fit",
@@ -98,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "The Meta logo and fitting Besace curves",
           "link": "https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/"
-        },
-        {
-          "feed_title": "terriblesoftware.org",
-          "title": "Using My Fucking Brain",
-          "link": "https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/"
         }
       ],
-      "summary_zh": "2026-05-27 技术日报：I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves；Using My Fucking Brain。",
-      "summary_en": "Daily brief (2026-05-27): I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves; Using My Fucking Brain.",
+      "summary_zh": "2026-05-27 技术日报：SQLAlchemy 2 In Practice - Solutions to the Exercises；I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves。",
+      "summary_en": "Daily brief (2026-05-27): SQLAlchemy 2 In Practice - Solutions to the Exercises; I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-27 日报】I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves；Using My Fucking Brain。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-27): I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves; Using My Fucking Brain. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-27 日报】SQLAlchemy 2 In Practice - Solutions to the Exercises；I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-27): SQLAlchemy 2 In Practice - Solutions to the Exercises; I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves. Actionable takeaways included. What would you ship next? #AI #Engineering #Bu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-27）\n- I think Anthropic and OpenAI have found product-market fit\n- The Meta logo and fitting Besace curves\n- Using My Fucking Brain\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything\n- https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/\n- https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-27)\n- I think Anthropic and OpenAI have found product-market fit\n- The Meta logo and fitting Besace curves\n- Using My Fucking Brain\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything\n- https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/\n- https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-27）\n- SQLAlchemy 2 In Practice - Solutions to the Exercises\n- I think Anthropic and OpenAI have found product-market fit\n- The Meta logo and fitting Besace curves\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises\n- https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything\n- https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-27)\n- SQLAlchemy 2 In Practice - Solutions to the Exercises\n- I think Anthropic and OpenAI have found product-market fit\n- The Meta logo and fitting Besace curves\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises\n- https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything\n- https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves；Using My Fucking Brain。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves; Using My Fucking Brain.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：SQLAlchemy 2 In Practice - Solutions to the Exercises；I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: SQLAlchemy 2 In Practice - Solutions to the Exercises; I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -670,8 +670,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1507,7 +1507,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2038,8 +2038,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
