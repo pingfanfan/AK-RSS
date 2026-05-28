@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-28 14:42:59 UTC
+Generated at: 2026-05-28 16:24:42 UTC
 
-- [Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) (`daringfireball.net`)
-- [Tuning in FM Radio on a 3D Printer Heatbed](https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/) (`jeffgeerling.com`)
+- [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/) (`xeiaso.net`)
+- [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html) (`nesbitt.io`)
+- [Knowing about things is cheaper than knowing things](https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/) (`buttondown.com/hillelwayne`)
