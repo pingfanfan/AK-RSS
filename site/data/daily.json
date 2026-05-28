@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:23:28Z",
+  "generated_at": "2026-05-28T11:43:21Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,75 +48,77 @@
     },
     {
       "date": "2026-05-28",
-      "total": 5,
+      "total": 8,
       "feeds": [
+        "chiark.greenend.org.uk/~sgtatham (1)",
         "eli.thegreenplace.net (1)",
         "joanwestenberg.com (1)",
         "johndcook.com (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "nesbitt.io (1)",
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: Hold on for dear life (28 May 2026)",
+        "nesbitt.io · Package managers that package package managers",
         "eli.thegreenplace.net · Notes on Fourier series",
         "utcc.utoronto.ca/~cks · Using typing in Python leads to different sorts of code",
         "johndcook.com · Turning K-L divergence into a metric",
-        "joanwestenberg.com · The Costco theory of the internet",
-        "simonwillison.net · sqlite AGENTS.md"
+        "joanwestenberg.com · The Costco theory of the internet"
       ],
       "key_points": [
+        "Pluralistic: Hold on for dear life (28 May 2026)",
+        "Package managers that package package managers",
         "Notes on Fourier series",
-        "Using typing in Python leads to different sorts of code",
-        "Turning K-L divergence into a metric",
-        "The Costco theory of the internet"
+        "Using typing in Python leads to different sorts of code"
       ],
       "key_points_zh": [
+        "Pluralistic: Hold on for dear life (28 May 2026)",
+        "Package managers that package package managers",
         "Notes on Fourier series",
-        "Using typing in Python leads to different sorts of code",
-        "Turning K-L divergence into a metric",
-        "The Costco theory of the internet"
+        "Using typing in Python leads to different sorts of code"
       ],
       "key_points_en": [
+        "Pluralistic: Hold on for dear life (28 May 2026)",
+        "Package managers that package package managers",
         "Notes on Fourier series",
-        "Using typing in Python leads to different sorts of code",
-        "Turning K-L divergence into a metric",
-        "The Costco theory of the internet"
+        "Using typing in Python leads to different sorts of code"
       ],
       "tweet_drafts": [
-        "Notes on Fourier series",
-        "Using typing in Python leads to different sorts of code",
-        "Turning K-L divergence into a metric"
+        "Pluralistic: Hold on for dear life (28 May 2026)",
+        "Package managers that package package managers",
+        "Notes on Fourier series"
       ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Hold on for dear life (28 May 2026)",
+          "link": "https://pluralistic.net/2026/05/28/we-live-in-a-society/"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package managers that package package managers",
+          "link": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html"
+        },
         {
           "feed_title": "eli.thegreenplace.net",
           "title": "Notes on Fourier series",
           "link": "https://eli.thegreenplace.net/2026/notes-on-fourier-series/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Using typing in Python leads to different sorts of code",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Turning K-L divergence into a metric",
-          "link": "https://www.johndcook.com/blog/2026/05/27/jensen-shannon/"
         }
       ],
-      "summary_zh": "2026-05-28 技术日报：Notes on Fourier series；Using typing in Python leads to different sorts of code；Turning K-L divergence into a metric。",
-      "summary_en": "Daily brief (2026-05-28): Notes on Fourier series; Using typing in Python leads to different sorts of code; Turning K-L divergence into a metric.",
+      "summary_zh": "2026-05-28 技术日报：Pluralistic: Hold on for dear life (28 May 2026)；Package managers that package package managers；Notes on Fourier series。",
+      "summary_en": "Daily brief (2026-05-28): Pluralistic: Hold on for dear life (28 May 2026); Package managers that package package managers; Notes on Fourier series.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-28 日报】Notes on Fourier series；Using typing in Python leads to different sorts of code；Turning K-L divergence into a metric。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-28): Notes on Fourier series; Using typing in Python leads to different sorts of code; Turning K-L divergence into a metric. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-28 日报】Pluralistic: Hold on for dear life (28 May 2026)；Package managers that package package managers；Notes on Fourier series。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-28): Pluralistic: Hold on for dear life (28 May 2026); Package managers that package package managers; Notes on Fourier series. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-28）\n- Notes on Fourier series\n- Using typing in Python leads to different sorts of code\n- Turning K-L divergence into a metric\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/notes-on-fourier-series/\n- https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode\n- https://www.johndcook.com/blog/2026/05/27/jensen-shannon/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-28)\n- Notes on Fourier series\n- Using typing in Python leads to different sorts of code\n- Turning K-L divergence into a metric\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/notes-on-fourier-series/\n- https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode\n- https://www.johndcook.com/blog/2026/05/27/jensen-shannon/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-28）\n- Pluralistic: Hold on for dear life (28 May 2026)\n- Package managers that package package managers\n- Notes on Fourier series\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/05/28/we-live-in-a-society/\n- https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html\n- https://eli.thegreenplace.net/2026/notes-on-fourier-series/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-28)\n- Pluralistic: Hold on for dear life (28 May 2026)\n- Package managers that package package managers\n- Notes on Fourier series\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/05/28/we-live-in-a-society/\n- https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html\n- https://eli.thegreenplace.net/2026/notes-on-fourier-series/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Notes on Fourier series；Using typing in Python leads to different sorts of code；Turning K-L divergence into a metric。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Notes on Fourier series; Using typing in Python leads to different sorts of code; Turning K-L divergence into a metric.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: Hold on for dear life (28 May 2026)；Package managers that package package managers；Notes on Fourier series。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Hold on for dear life (28 May 2026); Package managers that package package managers; Notes on Fourier series.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
