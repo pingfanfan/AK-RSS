@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T22:57:50Z",
+  "generated_at": "2026-05-28T07:10:17Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -47,8 +47,82 @@
       }
     },
     {
+      "date": "2026-05-28",
+      "total": 5,
+      "feeds": [
+        "eli.thegreenplace.net (1)",
+        "joanwestenberg.com (1)",
+        "johndcook.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "eli.thegreenplace.net · Notes on Fourier series",
+        "utcc.utoronto.ca/~cks · Using typing in Python leads to different sorts of code",
+        "johndcook.com · Turning K-L divergence into a metric",
+        "joanwestenberg.com · The Costco theory of the internet",
+        "simonwillison.net · sqlite AGENTS.md"
+      ],
+      "key_points": [
+        "Notes on Fourier series",
+        "Using typing in Python leads to different sorts of code",
+        "Turning K-L divergence into a metric",
+        "The Costco theory of the internet"
+      ],
+      "key_points_zh": [
+        "Notes on Fourier series",
+        "Using typing in Python leads to different sorts of code",
+        "Turning K-L divergence into a metric",
+        "The Costco theory of the internet"
+      ],
+      "key_points_en": [
+        "Notes on Fourier series",
+        "Using typing in Python leads to different sorts of code",
+        "Turning K-L divergence into a metric",
+        "The Costco theory of the internet"
+      ],
+      "tweet_drafts": [
+        "Notes on Fourier series",
+        "Using typing in Python leads to different sorts of code",
+        "Turning K-L divergence into a metric"
+      ],
+      "sources": [
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Notes on Fourier series",
+          "link": "https://eli.thegreenplace.net/2026/notes-on-fourier-series/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Using typing in Python leads to different sorts of code",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Turning K-L divergence into a metric",
+          "link": "https://www.johndcook.com/blog/2026/05/27/jensen-shannon/"
+        }
+      ],
+      "summary_zh": "2026-05-28 技术日报：Notes on Fourier series；Using typing in Python leads to different sorts of code；Turning K-L divergence into a metric。",
+      "summary_en": "Daily brief (2026-05-28): Notes on Fourier series; Using typing in Python leads to different sorts of code; Turning K-L divergence into a metric.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-28 日报】Notes on Fourier series；Using typing in Python leads to different sorts of code；Turning K-L divergence into a metric。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-28): Notes on Fourier series; Using typing in Python leads to different sorts of code; Turning K-L divergence into a metric. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-28）\n- Notes on Fourier series\n- Using typing in Python leads to different sorts of code\n- Turning K-L divergence into a metric\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/notes-on-fourier-series/\n- https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode\n- https://www.johndcook.com/blog/2026/05/27/jensen-shannon/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-28)\n- Notes on Fourier series\n- Using typing in Python leads to different sorts of code\n- Turning K-L divergence into a metric\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/notes-on-fourier-series/\n- https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode\n- https://www.johndcook.com/blog/2026/05/27/jensen-shannon/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Notes on Fourier series；Using typing in Python leads to different sorts of code；Turning K-L divergence into a metric。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Notes on Fourier series; Using typing in Python leads to different sorts of code; Turning K-L divergence into a metric.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-05-27",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "simonwillison.net (2)",
         "berthub.eu (1)",
@@ -1507,7 +1581,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2171,82 +2245,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Quoting Andrew Kelley；We need RSS for sharing abundant vibe-coded apps；I’m Starting to Wonder What They’re Smoking Over There at MacRumors。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Quoting Andrew Kelley; We need RSS for sharing abundant vibe-coded apps; I’m Starting to Wonder What They’re Smoking Over There at MacRumors.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-29",
-      "total": 13,
-      "feeds": [
-        "daringfireball.net (4)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "jeffgeerling.com (1)",
-        "joanwestenberg.com (1)",
-        "shkspr.mobi (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’",
-        "simonwillison.net · LLM 0.32a0  is a major backwards-compatible refactor",
-        "dwarkesh.com · Reiner Pope – The math behind how LLMs are trained and served",
-        "jeffgeerling.com · Raspberry Pi Connect may control Windows soon",
-        "daringfireball.net · ‘Elon Musk Appeared More Petty Than Prepared’",
-        "daringfireball.net · ‘Sordid and Small’"
-      ],
-      "key_points": [
-        "Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’",
-        "LLM 0.32a0 is a major backwards-compatible refactor",
-        "Reiner Pope – The math behind how LLMs are trained and served",
-        "Raspberry Pi Connect may control Windows soon"
-      ],
-      "key_points_zh": [
-        "Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’",
-        "LLM 0.32a0 is a major backwards-compatible refactor",
-        "Reiner Pope – The math behind how LLMs are trained and served",
-        "Raspberry Pi Connect may control Windows soon"
-      ],
-      "key_points_en": [
-        "Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’",
-        "LLM 0.32a0 is a major backwards-compatible refactor",
-        "Reiner Pope – The math behind how LLMs are trained and served",
-        "Raspberry Pi Connect may control Windows soon"
-      ],
-      "tweet_drafts": [
-        "Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’",
-        "LLM 0.32a0 is a major backwards-compatible refactor",
-        "Reiner Pope – The math behind how LLMs are trained and served"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’",
-          "link": "https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "LLM 0.32a0  is a major backwards-compatible refactor",
-          "link": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "Reiner Pope – The math behind how LLMs are trained and served",
-          "link": "https://www.dwarkesh.com/p/reiner-pope"
-        }
-      ],
-      "summary_zh": "2026-04-29 技术日报：Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’；LLM 0.32a0 is a major backwards-compatible refactor；Reiner Pope – The math behind how LLMs are trained and served。",
-      "summary_en": "Daily brief (2026-04-29): Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’; LLM 0.32a0 is a major backwards-compatible refactor; Reiner Pope – The math behind how LLMs are trained and served.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-29 日报】Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’；LLM 0.32a0 is a major backwards-compatible refactor；Reiner Pope – The math behind how LLMs are trained and served。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-29): Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’; LLM 0.32a0 is a major backwards-compatible refactor; Reiner Pope – The math behind how LLMs are trained and served. Actionable takeaways included. What would yo"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-29）\n- Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’\n- LLM 0.32a0 is a major backwards-compatible refactor\n- Reiner Pope – The math behind how LLMs are trained and served\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/\n- https://simonwillison.net/2026/Apr/29/llm/#atom-everything\n- https://www.dwarkesh.com/p/reiner-pope\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-29)\n- Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’\n- LLM 0.32a0 is a major backwards-compatible refactor\n- Reiner Pope – The math behind how LLMs are trained and served\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/\n- https://simonwillison.net/2026/Apr/29/llm/#atom-everything\n- https://www.dwarkesh.com/p/reiner-pope\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’；LLM 0.32a0 is a major backwards-compatible refactor；Reiner Pope – The math behind how LLMs are trained and served。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’; LLM 0.32a0 is a major backwards-compatible refactor; Reiner Pope – The math behind how LLMs are trained and served.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
