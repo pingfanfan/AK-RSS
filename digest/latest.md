@@ -1,7 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-28 16:24:42 UTC
+Generated at: 2026-05-28 17:40:32 UTC
 
-- [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/) (`xeiaso.net`)
-- [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html) (`nesbitt.io`)
-- [Knowing about things is cheaper than knowing things](https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/) (`buttondown.com/hillelwayne`)
+- [Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras](https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv) (`daringfireball.net`)
