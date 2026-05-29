@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T11:38:58Z",
+  "generated_at": "2026-05-29T12:55:24Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-05-29",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "johndcook.com · Online (one-pass) algorithms",
         "shkspr.mobi · The UK Government's Low Value Purchase System is a Waste of Time",
         "dfarq.homeip.net · Why people say CRTs don’t have pixels",
         "nesbitt.io · Composer’s dependency policies",
@@ -64,29 +66,34 @@
         "utcc.utoronto.ca/~cks · The Go language server can do some impressive code navigation"
       ],
       "key_points": [
-        "The UK Government's Low Value Purchase System is a Waste of Time",
-        "Why people say CRTs don’t have pixels",
-        "Composer’s dependency policies",
-        "datasette 1.0a31"
-      ],
-      "key_points_zh": [
-        "The UK Government's Low Value Purchase System is a Waste of Time",
-        "Why people say CRTs don’t have pixels",
-        "Composer’s dependency policies",
-        "datasette 1.0a31"
-      ],
-      "key_points_en": [
-        "The UK Government's Low Value Purchase System is a Waste of Time",
-        "Why people say CRTs don’t have pixels",
-        "Composer’s dependency policies",
-        "datasette 1.0a31"
-      ],
-      "tweet_drafts": [
+        "Online (one-pass) algorithms",
         "The UK Government's Low Value Purchase System is a Waste of Time",
         "Why people say CRTs don’t have pixels",
         "Composer’s dependency policies"
       ],
+      "key_points_zh": [
+        "Online (one-pass) algorithms",
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels",
+        "Composer’s dependency policies"
+      ],
+      "key_points_en": [
+        "Online (one-pass) algorithms",
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels",
+        "Composer’s dependency policies"
+      ],
+      "tweet_drafts": [
+        "Online (one-pass) algorithms",
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Online (one-pass) algorithms",
+          "link": "https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "The UK Government's Low Value Purchase System is a Waste of Time",
@@ -96,27 +103,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Why people say CRTs don’t have pixels",
           "link": "https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Composer’s dependency policies",
-          "link": "https://nesbitt.io/2026/05/29/composer-dependency-policies.html"
         }
       ],
-      "summary_zh": "2026-05-29 技术日报：The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels；Composer’s dependency policies。",
-      "summary_en": "Daily brief (2026-05-29): The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels; Composer’s dependency policies.",
+      "summary_zh": "2026-05-29 技术日报：Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels。",
+      "summary_en": "Daily brief (2026-05-29): Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-29 日报】The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels；Composer’s dependency policies。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-29): The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels; Composer’s dependency policies. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-29 日报】Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-29): Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-29）\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n- Composer’s dependency policies\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n- https://nesbitt.io/2026/05/29/composer-dependency-policies.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-29)\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n- Composer’s dependency policies\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n- https://nesbitt.io/2026/05/29/composer-dependency-policies.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-29）\n- Online (one-pass) algorithms\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-29)\n- Online (one-pass) algorithms\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels；Composer’s dependency policies。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels; Composer’s dependency policies.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1657,7 +1659,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
