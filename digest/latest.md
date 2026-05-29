@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-29 15:43:40 UTC
+Generated at: 2026-05-29 17:04:41 UTC
 
-- [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) (`jeffgeerling.com`)
+- [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly) (`daringfireball.net`)
+- [Premium: What If...We're In An AI Bubble? (Part 3)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/) (`wheresyoured.at`)
