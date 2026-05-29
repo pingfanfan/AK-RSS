@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:16:58Z",
+  "generated_at": "2026-05-29T11:38:58Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,57 +48,75 @@
     },
     {
       "date": "2026-05-29",
-      "total": 2,
+      "total": 5,
       "feeds": [
+        "dfarq.homeip.net (1)",
+        "nesbitt.io (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · The UK Government's Low Value Purchase System is a Waste of Time",
+        "dfarq.homeip.net · Why people say CRTs don’t have pixels",
+        "nesbitt.io · Composer’s dependency policies",
         "simonwillison.net · datasette 1.0a31",
         "utcc.utoronto.ca/~cks · The Go language server can do some impressive code navigation"
       ],
       "key_points": [
-        "datasette 1.0a31",
-        "The Go language server can do some impressive code navigation"
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels",
+        "Composer’s dependency policies",
+        "datasette 1.0a31"
       ],
       "key_points_zh": [
-        "datasette 1.0a31",
-        "The Go language server can do some impressive code navigation"
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels",
+        "Composer’s dependency policies",
+        "datasette 1.0a31"
       ],
       "key_points_en": [
-        "datasette 1.0a31",
-        "The Go language server can do some impressive code navigation"
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels",
+        "Composer’s dependency policies",
+        "datasette 1.0a31"
       ],
       "tweet_drafts": [
-        "datasette 1.0a31",
-        "The Go language server can do some impressive code navigation"
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels",
+        "Composer’s dependency policies"
       ],
       "sources": [
         {
-          "feed_title": "simonwillison.net",
-          "title": "datasette 1.0a31",
-          "link": "https://simonwillison.net/2026/May/29/datasette/#atom-everything"
+          "feed_title": "shkspr.mobi",
+          "title": "The UK Government's Low Value Purchase System is a Waste of Time",
+          "link": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/"
         },
         {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "The Go language server can do some impressive code navigation",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation"
+          "feed_title": "dfarq.homeip.net",
+          "title": "Why people say CRTs don’t have pixels",
+          "link": "https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Composer’s dependency policies",
+          "link": "https://nesbitt.io/2026/05/29/composer-dependency-policies.html"
         }
       ],
-      "summary_zh": "2026-05-29 技术日报：datasette 1.0a31；The Go language server can do some impressive code navigation。",
-      "summary_en": "Daily brief (2026-05-29): datasette 1.0a31; The Go language server can do some impressive code navigation.",
+      "summary_zh": "2026-05-29 技术日报：The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels；Composer’s dependency policies。",
+      "summary_en": "Daily brief (2026-05-29): The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels; Composer’s dependency policies.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-29 日报】datasette 1.0a31；The Go language server can do some impressive code navigation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-29): datasette 1.0a31; The Go language server can do some impressive code navigation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-29 日报】The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels；Composer’s dependency policies。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-29): The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels; Composer’s dependency policies. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-29）\n- datasette 1.0a31\n- The Go language server can do some impressive code navigation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/29/datasette/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-29)\n- datasette 1.0a31\n- The Go language server can do some impressive code navigation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/29/datasette/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-29）\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n- Composer’s dependency policies\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n- https://nesbitt.io/2026/05/29/composer-dependency-policies.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-29)\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n- Composer’s dependency policies\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n- https://nesbitt.io/2026/05/29/composer-dependency-policies.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：datasette 1.0a31；The Go language server can do some impressive code navigation。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: datasette 1.0a31; The Go language server can do some impressive code navigation.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels；Composer’s dependency policies。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels; Composer’s dependency policies.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -118,8 +136,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -802,8 +820,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -2170,8 +2188,8 @@
         "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "simonwillison.net · iNaturalist Sightings",
         "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment"
+        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
       ],
       "key_points": [
         "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
