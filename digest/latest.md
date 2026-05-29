@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-29 12:55:10 UTC
+Generated at: 2026-05-29 14:03:03 UTC
 
-- [Online (one-pass) algorithms](https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/) (`johndcook.com`)
+- [What's going on with Gemini?](https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
