@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-28 23:00:16 UTC
+Generated at: 2026-05-29 07:10:22 UTC
 
-- [Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2](https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365) (`devblogs.microsoft.com/oldnewthing`)
+- [datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) (`simonwillison.net`)
+- [The Go language server can do some impressive code navigation](https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation) (`utcc.utoronto.ca/~cks`)

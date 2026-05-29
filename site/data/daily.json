@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T23:00:30Z",
+  "generated_at": "2026-05-29T07:10:36Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -47,6 +47,62 @@
       }
     },
     {
+      "date": "2026-05-29",
+      "total": 2,
+      "feeds": [
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · datasette 1.0a31",
+        "utcc.utoronto.ca/~cks · The Go language server can do some impressive code navigation"
+      ],
+      "key_points": [
+        "datasette 1.0a31",
+        "The Go language server can do some impressive code navigation"
+      ],
+      "key_points_zh": [
+        "datasette 1.0a31",
+        "The Go language server can do some impressive code navigation"
+      ],
+      "key_points_en": [
+        "datasette 1.0a31",
+        "The Go language server can do some impressive code navigation"
+      ],
+      "tweet_drafts": [
+        "datasette 1.0a31",
+        "The Go language server can do some impressive code navigation"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette 1.0a31",
+          "link": "https://simonwillison.net/2026/May/29/datasette/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "The Go language server can do some impressive code navigation",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation"
+        }
+      ],
+      "summary_zh": "2026-05-29 技术日报：datasette 1.0a31；The Go language server can do some impressive code navigation。",
+      "summary_en": "Daily brief (2026-05-29): datasette 1.0a31; The Go language server can do some impressive code navigation.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-29 日报】datasette 1.0a31；The Go language server can do some impressive code navigation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-29): datasette 1.0a31; The Go language server can do some impressive code navigation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-29）\n- datasette 1.0a31\n- The Go language server can do some impressive code navigation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/29/datasette/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-29)\n- datasette 1.0a31\n- The Go language server can do some impressive code navigation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/29/datasette/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：datasette 1.0a31；The Go language server can do some impressive code navigation。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: datasette 1.0a31; The Go language server can do some impressive code navigation.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-05-28",
       "total": 17,
       "feeds": [
@@ -62,8 +118,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -746,8 +802,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -2171,82 +2227,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet；Tim Cook’s Clever Solution to the Tariff Refund Puzzle；iNaturalist Sightings。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet; Tim Cook’s Clever Solution to the Tariff Refund Puzzle; iNaturalist Sightings.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-04-30",
-      "total": 18,
-      "feeds": [
-        "simonwillison.net (3)",
-        "daringfireball.net (2)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dynomight.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Quoting Andrew Kelley",
-        "simonwillison.net · We need RSS for sharing abundant vibe-coded apps",
-        "daringfireball.net · I’m Starting to Wonder What They’re Smoking Over There at MacRumors",
-        "johndcook.com · Three ways to differentiate ReLU",
-        "pluralistic.net · Pluralistic: How not to ban surveillance pricing (30 Apr 2026)",
-        "daringfireball.net · New Banksy in London"
-      ],
-      "key_points": [
-        "Quoting Andrew Kelley",
-        "We need RSS for sharing abundant vibe-coded apps",
-        "I’m Starting to Wonder What They’re Smoking Over There at MacRumors",
-        "Three ways to differentiate ReLU"
-      ],
-      "key_points_zh": [
-        "Quoting Andrew Kelley",
-        "We need RSS for sharing abundant vibe-coded apps",
-        "I’m Starting to Wonder What They’re Smoking Over There at MacRumors",
-        "Three ways to differentiate ReLU"
-      ],
-      "key_points_en": [
-        "Quoting Andrew Kelley",
-        "We need RSS for sharing abundant vibe-coded apps",
-        "I’m Starting to Wonder What They’re Smoking Over There at MacRumors",
-        "Three ways to differentiate ReLU"
-      ],
-      "tweet_drafts": [
-        "Quoting Andrew Kelley",
-        "We need RSS for sharing abundant vibe-coded apps",
-        "I’m Starting to Wonder What They’re Smoking Over There at MacRumors"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Andrew Kelley",
-          "link": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "We need RSS for sharing abundant vibe-coded apps",
-          "link": "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "I’m Starting to Wonder What They’re Smoking Over There at MacRumors",
-          "link": "https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/"
-        }
-      ],
-      "summary_zh": "2026-04-30 技术日报：Quoting Andrew Kelley；We need RSS for sharing abundant vibe-coded apps；I’m Starting to Wonder What They’re Smoking Over There at MacRumors。",
-      "summary_en": "Daily brief (2026-04-30): Quoting Andrew Kelley; We need RSS for sharing abundant vibe-coded apps; I’m Starting to Wonder What They’re Smoking Over There at MacRumors.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-04-30 日报】Quoting Andrew Kelley；We need RSS for sharing abundant vibe-coded apps；I’m Starting to Wonder What They’re Smoking Over There at MacRumors。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-04-30): Quoting Andrew Kelley; We need RSS for sharing abundant vibe-coded apps; I’m Starting to Wonder What They’re Smoking Over There at MacRumors. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-04-30）\n- Quoting Andrew Kelley\n- We need RSS for sharing abundant vibe-coded apps\n- I’m Starting to Wonder What They’re Smoking Over There at MacRumors\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything\n- https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything\n- https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-04-30)\n- Quoting Andrew Kelley\n- We need RSS for sharing abundant vibe-coded apps\n- I’m Starting to Wonder What They’re Smoking Over There at MacRumors\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything\n- https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything\n- https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Andrew Kelley；We need RSS for sharing abundant vibe-coded apps；I’m Starting to Wonder What They’re Smoking Over There at MacRumors。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Andrew Kelley; We need RSS for sharing abundant vibe-coded apps; I’m Starting to Wonder What They’re Smoking Over There at MacRumors.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
