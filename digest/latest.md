@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-29 14:03:03 UTC
+Generated at: 2026-05-29 15:43:40 UTC
 
-- [What's going on with Gemini?](https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
+- [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) (`jeffgeerling.com`)

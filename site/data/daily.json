@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T14:03:18Z",
+  "generated_at": "2026-05-29T15:43:53Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-29",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "jeffgeerling.com (1)",
         "johndcook.com (1)",
         "martinalderson.com (1)",
         "nesbitt.io (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms",
         "shkspr.mobi · The UK Government's Low Value Purchase System is a Waste of Time",
         "dfarq.homeip.net · Why people say CRTs don’t have pixels",
         "nesbitt.io · Composer’s dependency policies",
-        "simonwillison.net · datasette 1.0a31",
-        "utcc.utoronto.ca/~cks · The Go language server can do some impressive code navigation"
+        "simonwillison.net · datasette 1.0a31"
       ],
       "key_points": [
-        "Online (one-pass) algorithms",
-        "The UK Government's Low Value Purchase System is a Waste of Time",
-        "Why people say CRTs don’t have pixels",
-        "Composer’s dependency policies"
-      ],
-      "key_points_zh": [
-        "Online (one-pass) algorithms",
-        "The UK Government's Low Value Purchase System is a Waste of Time",
-        "Why people say CRTs don’t have pixels",
-        "Composer’s dependency policies"
-      ],
-      "key_points_en": [
-        "Online (one-pass) algorithms",
-        "The UK Government's Low Value Purchase System is a Waste of Time",
-        "Why people say CRTs don’t have pixels",
-        "Composer’s dependency policies"
-      ],
-      "tweet_drafts": [
+        "It's hard to justify buying a Framework 12",
         "Online (one-pass) algorithms",
         "The UK Government's Low Value Purchase System is a Waste of Time",
         "Why people say CRTs don’t have pixels"
       ],
+      "key_points_zh": [
+        "It's hard to justify buying a Framework 12",
+        "Online (one-pass) algorithms",
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels"
+      ],
+      "key_points_en": [
+        "It's hard to justify buying a Framework 12",
+        "Online (one-pass) algorithms",
+        "The UK Government's Low Value Purchase System is a Waste of Time",
+        "Why people say CRTs don’t have pixels"
+      ],
+      "tweet_drafts": [
+        "It's hard to justify buying a Framework 12",
+        "Online (one-pass) algorithms",
+        "The UK Government's Low Value Purchase System is a Waste of Time"
+      ],
       "sources": [
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "It's hard to justify buying a Framework 12",
+          "link": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Online (one-pass) algorithms",
@@ -98,27 +103,22 @@
           "feed_title": "shkspr.mobi",
           "title": "The UK Government's Low Value Purchase System is a Waste of Time",
           "link": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Why people say CRTs don’t have pixels",
-          "link": "https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels"
         }
       ],
-      "summary_zh": "2026-05-29 技术日报：Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels。",
-      "summary_en": "Daily brief (2026-05-29): Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels.",
+      "summary_zh": "2026-05-29 技术日报：It's hard to justify buying a Framework 12；Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time。",
+      "summary_en": "Daily brief (2026-05-29): It's hard to justify buying a Framework 12; Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-29 日报】Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-29): Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-29 日报】It's hard to justify buying a Framework 12；Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-29): It's hard to justify buying a Framework 12; Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-29）\n- Online (one-pass) algorithms\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-29)\n- Online (one-pass) algorithms\n- The UK Government's Low Value Purchase System is a Waste of Time\n- Why people say CRTs don’t have pixels\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n- https://dfarq.homeip.net/why-people-say-crts-dont-have-pixels/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-people-say-crts-dont-have-pixels\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-29）\n- It's hard to justify buying a Framework 12\n- Online (one-pass) algorithms\n- The UK Government's Low Value Purchase System is a Waste of Time\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/\n- https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-29)\n- It's hard to justify buying a Framework 12\n- Online (one-pass) algorithms\n- The UK Government's Low Value Purchase System is a Waste of Time\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/\n- https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/\n- https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time；Why people say CRTs don’t have pixels。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time; Why people say CRTs don’t have pixels.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：It's hard to justify buying a Framework 12；Online (one-pass) algorithms；The UK Government's Low Value Purchase System is a Waste of Time。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: It's hard to justify buying a Framework 12; Online (one-pass) algorithms; The UK Government's Low Value Purchase System is a Waste of Time.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -822,8 +822,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -1659,7 +1659,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
