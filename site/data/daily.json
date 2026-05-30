@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T11:56:50Z",
+  "generated_at": "2026-05-30T12:25:16Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,38 +48,48 @@
     },
     {
       "date": "2026-05-30",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "construction-physics.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "construction-physics.com · Reading List 05/30/26",
         "nesbitt.io · This Week in Package Management: 30 May 2026",
         "pluralistic.net · Pluralistic: Carneyism without Carney (30 May 2026)",
         "utcc.utoronto.ca/~cks · Our servers mostly don't seem to have high peak power usage"
       ],
       "key_points": [
+        "Reading List 05/30/26",
         "This Week in Package Management: 30 May 2026",
         "Pluralistic: Carneyism without Carney (30 May 2026)",
         "Our servers mostly don't seem to have high peak power usage"
       ],
       "key_points_zh": [
+        "Reading List 05/30/26",
         "This Week in Package Management: 30 May 2026",
         "Pluralistic: Carneyism without Carney (30 May 2026)",
         "Our servers mostly don't seem to have high peak power usage"
       ],
       "key_points_en": [
+        "Reading List 05/30/26",
         "This Week in Package Management: 30 May 2026",
         "Pluralistic: Carneyism without Carney (30 May 2026)",
         "Our servers mostly don't seem to have high peak power usage"
       ],
       "tweet_drafts": [
+        "Reading List 05/30/26",
         "This Week in Package Management: 30 May 2026",
-        "Pluralistic: Carneyism without Carney (30 May 2026)",
-        "Our servers mostly don't seem to have high peak power usage"
+        "Pluralistic: Carneyism without Carney (30 May 2026)"
       ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Reading List 05/30/26",
+          "link": "https://www.construction-physics.com/p/reading-list-053026"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "This Week in Package Management: 30 May 2026",
@@ -89,27 +99,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Carneyism without Carney (30 May 2026)",
           "link": "https://pluralistic.net/2026/05/30/rupture/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Our servers mostly don't seem to have high peak power usage",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption"
         }
       ],
-      "summary_zh": "2026-05-30 技术日报：This Week in Package Management: 30 May 2026；Pluralistic: Carneyism without Carney (30 May 2026)；Our servers mostly don't seem to have high peak power usage。",
-      "summary_en": "Daily brief (2026-05-30): This Week in Package Management: 30 May 2026; Pluralistic: Carneyism without Carney (30 May 2026); Our servers mostly don't seem to have high peak power usage.",
+      "summary_zh": "2026-05-30 技术日报：Reading List 05/30/26；This Week in Package Management: 30 May 2026；Pluralistic: Carneyism without Carney (30 May 2026)。",
+      "summary_en": "Daily brief (2026-05-30): Reading List 05/30/26; This Week in Package Management: 30 May 2026; Pluralistic: Carneyism without Carney (30 May 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-30 日报】This Week in Package Management: 30 May 2026；Pluralistic: Carneyism without Carney (30 May 2026)；Our servers mostly don't seem to have high peak power usage。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-30): This Week in Package Management: 30 May 2026; Pluralistic: Carneyism without Carney (30 May 2026); Our servers mostly don't seem to have high peak power usage. Actionable takeaways included. What would you ship next? #AI #Engineering"
+          "zh": "【2026-05-30 日报】Reading List 05/30/26；This Week in Package Management: 30 May 2026；Pluralistic: Carneyism without Carney (30 May 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-30): Reading List 05/30/26; This Week in Package Management: 30 May 2026; Pluralistic: Carneyism without Carney (30 May 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-30）\n- This Week in Package Management: 30 May 2026\n- Pluralistic: Carneyism without Carney (30 May 2026)\n- Our servers mostly don't seem to have high peak power usage\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/05/30/this-week-in-package-management.html\n- https://pluralistic.net/2026/05/30/rupture/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-30)\n- This Week in Package Management: 30 May 2026\n- Pluralistic: Carneyism without Carney (30 May 2026)\n- Our servers mostly don't seem to have high peak power usage\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/05/30/this-week-in-package-management.html\n- https://pluralistic.net/2026/05/30/rupture/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-30）\n- Reading List 05/30/26\n- This Week in Package Management: 30 May 2026\n- Pluralistic: Carneyism without Carney (30 May 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-053026\n- https://nesbitt.io/2026/05/30/this-week-in-package-management.html\n- https://pluralistic.net/2026/05/30/rupture/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-30)\n- Reading List 05/30/26\n- This Week in Package Management: 30 May 2026\n- Pluralistic: Carneyism without Carney (30 May 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-053026\n- https://nesbitt.io/2026/05/30/this-week-in-package-management.html\n- https://pluralistic.net/2026/05/30/rupture/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：This Week in Package Management: 30 May 2026；Pluralistic: Carneyism without Carney (30 May 2026)；Our servers mostly don't seem to have high peak power usage。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: This Week in Package Management: 30 May 2026; Pluralistic: Carneyism without Carney (30 May 2026); Our servers mostly don't seem to have high peak power usage.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Reading List 05/30/26；This Week in Package Management: 30 May 2026；Pluralistic: Carneyism without Carney (30 May 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Reading List 05/30/26; This Week in Package Management: 30 May 2026; Pluralistic: Carneyism without Carney (30 May 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -889,8 +894,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
