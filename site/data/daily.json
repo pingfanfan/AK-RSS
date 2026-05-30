@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T21:46:20Z",
+  "generated_at": "2026-05-30T22:17:42Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,9 +48,9 @@
     },
     {
       "date": "2026-05-30",
-      "total": 13,
+      "total": 14,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "daringfireball.net (2)",
         "construction-physics.com (1)",
         "evanhahn.com (1)",
@@ -58,37 +58,42 @@
         "maurycyz.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · How we contain Claude across products",
         "johndcook.com · Spot checking polynomial identities",
         "simonwillison.net · Running Python ASGI apps in the browser via Pyodide + a service worker",
         "simonwillison.net · I Am Retiring from Tech to Live Offline",
         "simonwillison.net · Quoting Daniel Jalkut",
-        "righto.com · Microcode inside the Intel 8087 floating-point chip: register exchange",
-        "daringfireball.net · Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’"
+        "righto.com · Microcode inside the Intel 8087 floating-point chip: register exchange"
       ],
       "key_points": [
-        "Spot checking polynomial identities",
-        "Running Python ASGI apps in the browser via Pyodide + a service worker",
-        "I Am Retiring from Tech to Live Offline",
-        "Quoting Daniel Jalkut"
-      ],
-      "key_points_zh": [
-        "Spot checking polynomial identities",
-        "Running Python ASGI apps in the browser via Pyodide + a service worker",
-        "I Am Retiring from Tech to Live Offline",
-        "Quoting Daniel Jalkut"
-      ],
-      "key_points_en": [
-        "Spot checking polynomial identities",
-        "Running Python ASGI apps in the browser via Pyodide + a service worker",
-        "I Am Retiring from Tech to Live Offline",
-        "Quoting Daniel Jalkut"
-      ],
-      "tweet_drafts": [
+        "How we contain Claude across products",
         "Spot checking polynomial identities",
         "Running Python ASGI apps in the browser via Pyodide + a service worker",
         "I Am Retiring from Tech to Live Offline"
       ],
+      "key_points_zh": [
+        "How we contain Claude across products",
+        "Spot checking polynomial identities",
+        "Running Python ASGI apps in the browser via Pyodide + a service worker",
+        "I Am Retiring from Tech to Live Offline"
+      ],
+      "key_points_en": [
+        "How we contain Claude across products",
+        "Spot checking polynomial identities",
+        "Running Python ASGI apps in the browser via Pyodide + a service worker",
+        "I Am Retiring from Tech to Live Offline"
+      ],
+      "tweet_drafts": [
+        "How we contain Claude across products",
+        "Spot checking polynomial identities",
+        "Running Python ASGI apps in the browser via Pyodide + a service worker"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "How we contain Claude across products",
+          "link": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Spot checking polynomial identities",
@@ -98,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
           "link": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "I Am Retiring from Tech to Live Offline",
-          "link": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything"
         }
       ],
-      "summary_zh": "2026-05-30 技术日报：Spot checking polynomial identities；Running Python ASGI apps in the browser via Pyodide + a service worker；I Am Retiring from Tech to Live Offline。",
-      "summary_en": "Daily brief (2026-05-30): Spot checking polynomial identities; Running Python ASGI apps in the browser via Pyodide + a service worker; I Am Retiring from Tech to Live Offline.",
+      "summary_zh": "2026-05-30 技术日报：How we contain Claude across products；Spot checking polynomial identities；Running Python ASGI apps in the browser via Pyodide + a service worker。",
+      "summary_en": "Daily brief (2026-05-30): How we contain Claude across products; Spot checking polynomial identities; Running Python ASGI apps in the browser via Pyodide + a service worker.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-30 日报】Spot checking polynomial identities；Running Python ASGI apps in the browser via Pyodide + a service worker；I Am Retiring from Tech to Live Offline。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-30): Spot checking polynomial identities; Running Python ASGI apps in the browser via Pyodide + a service worker; I Am Retiring from Tech to Live Offline. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
+          "zh": "【2026-05-30 日报】How we contain Claude across products；Spot checking polynomial identities；Running Python ASGI apps in the browser via Pyodide + a service worker。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-30): How we contain Claude across products; Spot checking polynomial identities; Running Python ASGI apps in the browser via Pyodide + a service worker. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPub"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-30）\n- Spot checking polynomial identities\n- Running Python ASGI apps in the browser via Pyodide + a service worker\n- I Am Retiring from Tech to Live Offline\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/\n- https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything\n- https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-30)\n- Spot checking polynomial identities\n- Running Python ASGI apps in the browser via Pyodide + a service worker\n- I Am Retiring from Tech to Live Offline\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/\n- https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything\n- https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-30）\n- How we contain Claude across products\n- Spot checking polynomial identities\n- Running Python ASGI apps in the browser via Pyodide + a service worker\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything\n- https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/\n- https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-30)\n- How we contain Claude across products\n- Spot checking polynomial identities\n- Running Python ASGI apps in the browser via Pyodide + a service worker\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything\n- https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/\n- https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Spot checking polynomial identities；Running Python ASGI apps in the browser via Pyodide + a service worker；I Am Retiring from Tech to Live Offline。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Spot checking polynomial identities; Running Python ASGI apps in the browser via Pyodide + a service worker; I Am Retiring from Tech to Live Offline.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：How we contain Claude across products；Spot checking polynomial identities；Running Python ASGI apps in the browser via Pyodide + a service worker。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How we contain Claude across products; Spot checking polynomial identities; Running Python ASGI apps in the browser via Pyodide + a service worker.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -137,27 +137,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1735,7 +1735,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
