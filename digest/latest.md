@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-30 20:18:55 UTC
+Generated at: 2026-05-30 20:45:16 UTC
 
-- [I Am Retiring from Tech to Live Offline](https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything) (`simonwillison.net`)
+- [Arp 114:](https://maurycyz.com/astro/arp114/) (`maurycyz.com`)
