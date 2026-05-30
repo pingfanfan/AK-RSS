@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T22:54:43Z",
+  "generated_at": "2026-05-30T06:54:17Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -47,41 +47,86 @@
       }
     },
     {
+      "date": "2026-05-30",
+      "total": 1,
+      "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Our servers mostly don't seem to have high peak power usage"
+      ],
+      "key_points": [
+        "Our servers mostly don't seem to have high peak power usage"
+      ],
+      "key_points_zh": [
+        "Our servers mostly don't seem to have high peak power usage"
+      ],
+      "key_points_en": [
+        "Our servers mostly don't seem to have high peak power usage"
+      ],
+      "tweet_drafts": [
+        "Our servers mostly don't seem to have high peak power usage"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Our servers mostly don't seem to have high peak power usage",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption"
+        }
+      ],
+      "summary_zh": "2026-05-30 技术日报：Our servers mostly don't seem to have high peak power usage。",
+      "summary_en": "Daily brief (2026-05-30): Our servers mostly don't seem to have high peak power usage.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-05-30 日报】Our servers mostly don't seem to have high peak power usage。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-30): Our servers mostly don't seem to have high peak power usage. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-05-30）\n- Our servers mostly don't seem to have high peak power usage\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-30)\n- Our servers mostly don't seem to have high peak power usage\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Our servers mostly don't seem to have high peak power usage。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Our servers mostly don't seem to have high peak power usage.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-05-29",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "johndcook.com (1)",
-        "martinalderson.com (1)",
-        "nesbitt.io (1)"
+        "martinalderson.com (1)"
       ],
       "highlights": [
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms",
-        "shkspr.mobi · The UK Government's Low Value Purchase System is a Waste of Time",
-        "dfarq.homeip.net · Why people say CRTs don’t have pixels"
+        "shkspr.mobi · The UK Government's Low Value Purchase System is a Waste of Time"
       ],
       "key_points": [
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
         "It's hard to justify buying a Framework 12",
-        "Online (one-pass) algorithms"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
         "It's hard to justify buying a Framework 12",
-        "Online (one-pass) algorithms"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
         "It's hard to justify buying a Framework 12",
-        "Online (one-pass) algorithms"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "Premium: What If...We're In An AI Bubble? (Part 3)",
@@ -1659,7 +1704,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2171,82 +2216,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：How backups work depends on the goals of the people setting them up；Sightings；Scaling, stretching and shifting sinusoids。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: How backups work depends on the goals of the people setting them up; Sightings; Scaling, stretching and shifting sinusoids.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-01",
-      "total": 16,
-      "feeds": [
-        "daringfireball.net (3)",
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "evanhahn.com (1)",
-        "filfre.net (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
-        "daringfireball.net · Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
-        "simonwillison.net · iNaturalist Sightings",
-        "filfre.net · The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
-        "devblogs.microsoft.com/oldnewthing · Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
-        "jeffgeerling.com · SBC Clusters are a terrible value, but they're fun anyway"
-      ],
-      "key_points": [
-        "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
-        "Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
-        "iNaturalist Sightings",
-        "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain"
-      ],
-      "key_points_zh": [
-        "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
-        "Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
-        "iNaturalist Sightings",
-        "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain"
-      ],
-      "key_points_en": [
-        "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
-        "Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
-        "iNaturalist Sightings",
-        "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain"
-      ],
-      "tweet_drafts": [
-        "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
-        "Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
-        "iNaturalist Sightings"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
-          "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
-          "link": "https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "iNaturalist Sightings",
-          "link": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-05-01 技术日报：Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet；Tim Cook’s Clever Solution to the Tariff Refund Puzzle；iNaturalist Sightings。",
-      "summary_en": "Daily brief (2026-05-01): Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet; Tim Cook’s Clever Solution to the Tariff Refund Puzzle; iNaturalist Sightings.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-01 日报】Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet；Tim Cook’s Clever Solution to the Tariff Refund Puzzle；iNaturalist Sightings。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-01): Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet; Tim Cook’s Clever Solution to the Tariff Refund Puzzle; iNaturalist Sightings. Actionable takeaways included. What would you ship n"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-01）\n- Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet\n- Tim Cook’s Clever Solution to the Tariff Refund Puzzle\n- iNaturalist Sightings\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.bbc.com/news/articles/c5y7yvgy0w6o\n- https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/\n- https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-01)\n- Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet\n- Tim Cook’s Clever Solution to the Tariff Refund Puzzle\n- iNaturalist Sightings\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.bbc.com/news/articles/c5y7yvgy0w6o\n- https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/\n- https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet；Tim Cook’s Clever Solution to the Tariff Refund Puzzle；iNaturalist Sightings。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet; Tim Cook’s Clever Solution to the Tariff Refund Puzzle; iNaturalist Sightings.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
