@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-30 10:31:14 UTC
+Generated at: 2026-05-30 11:27:46 UTC
 
-- [Pluralistic: Carneyism without Carney (30 May 2026)](https://pluralistic.net/2026/05/30/rupture/) (`pluralistic.net`)
+- [This Week in Package Management: 30 May 2026](https://nesbitt.io/2026/05/30/this-week-in-package-management.html) (`nesbitt.io`)
