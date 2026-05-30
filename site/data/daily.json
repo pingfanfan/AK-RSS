@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T19:54:53Z",
+  "generated_at": "2026-05-30T20:19:09Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-30",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "daringfireball.net (2)",
+        "simonwillison.net (2)",
         "construction-physics.com (1)",
         "evanhahn.com (1)",
         "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "righto.com (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · I Am Retiring from Tech to Live Offline",
         "simonwillison.net · Quoting Daniel Jalkut",
         "righto.com · Microcode inside the Intel 8087 floating-point chip: register exchange",
         "daringfireball.net · Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
         "daringfireball.net · Yours Truly on TBPN Yesterday",
-        "construction-physics.com · Reading List 05/30/26",
-        "nesbitt.io · This Week in Package Management: 30 May 2026"
+        "construction-physics.com · Reading List 05/30/26"
       ],
       "key_points": [
-        "Quoting Daniel Jalkut",
-        "Microcode inside the Intel 8087 floating-point chip: register exchange",
-        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
-        "Yours Truly on TBPN Yesterday"
-      ],
-      "key_points_zh": [
-        "Quoting Daniel Jalkut",
-        "Microcode inside the Intel 8087 floating-point chip: register exchange",
-        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
-        "Yours Truly on TBPN Yesterday"
-      ],
-      "key_points_en": [
-        "Quoting Daniel Jalkut",
-        "Microcode inside the Intel 8087 floating-point chip: register exchange",
-        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
-        "Yours Truly on TBPN Yesterday"
-      ],
-      "tweet_drafts": [
+        "I Am Retiring from Tech to Live Offline",
         "Quoting Daniel Jalkut",
         "Microcode inside the Intel 8087 floating-point chip: register exchange",
         "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’"
       ],
+      "key_points_zh": [
+        "I Am Retiring from Tech to Live Offline",
+        "Quoting Daniel Jalkut",
+        "Microcode inside the Intel 8087 floating-point chip: register exchange",
+        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’"
+      ],
+      "key_points_en": [
+        "I Am Retiring from Tech to Live Offline",
+        "Quoting Daniel Jalkut",
+        "Microcode inside the Intel 8087 floating-point chip: register exchange",
+        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’"
+      ],
+      "tweet_drafts": [
+        "I Am Retiring from Tech to Live Offline",
+        "Quoting Daniel Jalkut",
+        "Microcode inside the Intel 8087 floating-point chip: register exchange"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "I Am Retiring from Tech to Live Offline",
+          "link": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Daniel Jalkut",
@@ -98,27 +103,22 @@
           "feed_title": "righto.com",
           "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
           "link": "http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
-          "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
         }
       ],
-      "summary_zh": "2026-05-30 技术日报：Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’。",
-      "summary_en": "Daily brief (2026-05-30): Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’.",
+      "summary_zh": "2026-05-30 技术日报：I Am Retiring from Tech to Live Offline；Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange。",
+      "summary_en": "Daily brief (2026-05-30): I Am Retiring from Tech to Live Offline; Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-30 日报】Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-30): Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’. Actionable takeaways included. What would you ship n"
+          "zh": "【2026-05-30 日报】I Am Retiring from Tech to Live Offline；Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-30): I Am Retiring from Tech to Live Offline; Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-30）\n- Quoting Daniel Jalkut\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n- Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n- https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-30)\n- Quoting Daniel Jalkut\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n- Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n- https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-30）\n- I Am Retiring from Tech to Live Offline\n- Quoting Daniel Jalkut\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything\n- https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-30)\n- I Am Retiring from Tech to Live Offline\n- Quoting Daniel Jalkut\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything\n- https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：I Am Retiring from Tech to Live Offline；Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: I Am Retiring from Tech to Live Offline; Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -137,27 +137,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -214,8 +214,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1735,7 +1735,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
