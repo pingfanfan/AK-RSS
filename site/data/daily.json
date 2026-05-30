@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T17:21:29Z",
+  "generated_at": "2026-05-30T17:48:38Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-05-30",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "daringfireball.net (2)",
         "construction-physics.com (1)",
@@ -58,37 +58,42 @@
         "righto.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Daniel Jalkut",
         "righto.com · Microcode inside the Intel 8087 floating-point chip: register exchange",
         "daringfireball.net · Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
         "daringfireball.net · Yours Truly on TBPN Yesterday",
         "construction-physics.com · Reading List 05/30/26",
-        "nesbitt.io · This Week in Package Management: 30 May 2026",
-        "pluralistic.net · Pluralistic: Carneyism without Carney (30 May 2026)"
+        "nesbitt.io · This Week in Package Management: 30 May 2026"
       ],
       "key_points": [
-        "Microcode inside the Intel 8087 floating-point chip: register exchange",
-        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
-        "Yours Truly on TBPN Yesterday",
-        "Reading List 05/30/26"
-      ],
-      "key_points_zh": [
-        "Microcode inside the Intel 8087 floating-point chip: register exchange",
-        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
-        "Yours Truly on TBPN Yesterday",
-        "Reading List 05/30/26"
-      ],
-      "key_points_en": [
-        "Microcode inside the Intel 8087 floating-point chip: register exchange",
-        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
-        "Yours Truly on TBPN Yesterday",
-        "Reading List 05/30/26"
-      ],
-      "tweet_drafts": [
+        "Quoting Daniel Jalkut",
         "Microcode inside the Intel 8087 floating-point chip: register exchange",
         "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
         "Yours Truly on TBPN Yesterday"
       ],
+      "key_points_zh": [
+        "Quoting Daniel Jalkut",
+        "Microcode inside the Intel 8087 floating-point chip: register exchange",
+        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
+        "Yours Truly on TBPN Yesterday"
+      ],
+      "key_points_en": [
+        "Quoting Daniel Jalkut",
+        "Microcode inside the Intel 8087 floating-point chip: register exchange",
+        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
+        "Yours Truly on TBPN Yesterday"
+      ],
+      "tweet_drafts": [
+        "Quoting Daniel Jalkut",
+        "Microcode inside the Intel 8087 floating-point chip: register exchange",
+        "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Daniel Jalkut",
+          "link": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything"
+        },
         {
           "feed_title": "righto.com",
           "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
@@ -98,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’",
           "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Yours Truly on TBPN Yesterday",
-          "link": "https://www.youtube.com/live/sQVwLUxFdMY?t=1997"
         }
       ],
-      "summary_zh": "2026-05-30 技术日报：Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’；Yours Truly on TBPN Yesterday。",
-      "summary_en": "Daily brief (2026-05-30): Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’; Yours Truly on TBPN Yesterday.",
+      "summary_zh": "2026-05-30 技术日报：Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’。",
+      "summary_en": "Daily brief (2026-05-30): Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-30 日报】Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’；Yours Truly on TBPN Yesterday。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-30): Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’; Yours Truly on TBPN Yesterday. Actionable takeaways included. What would yo"
+          "zh": "【2026-05-30 日报】Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-30): Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’. Actionable takeaways included. What would you ship n"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-30）\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n- Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’\n- Yours Truly on TBPN Yesterday\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n- https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\n- https://www.youtube.com/live/sQVwLUxFdMY?t=1997\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-30)\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n- Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’\n- Yours Truly on TBPN Yesterday\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n- https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\n- https://www.youtube.com/live/sQVwLUxFdMY?t=1997\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-30）\n- Quoting Daniel Jalkut\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n- Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n- https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-30)\n- Quoting Daniel Jalkut\n- Microcode inside the Intel 8087 floating-point chip: register exchange\n- Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything\n- http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html\n- https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’；Yours Truly on TBPN Yesterday。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’; Yours Truly on TBPN Yesterday.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Daniel Jalkut；Microcode inside the Intel 8087 floating-point chip: register exchange；Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Daniel Jalkut; Microcode inside the Intel 8087 floating-point chip: register exchange; Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -898,8 +898,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
