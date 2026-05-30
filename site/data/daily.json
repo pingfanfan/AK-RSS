@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T06:54:17Z",
+  "generated_at": "2026-05-30T07:51:46Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -93,9 +93,9 @@
     },
     {
       "date": "2026-05-29",
-      "total": 11,
+      "total": 12,
       "feeds": [
-        "daringfireball.net (1)",
+        "daringfireball.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
@@ -103,37 +103,42 @@
         "martinalderson.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
-        "johndcook.com · Online (one-pass) algorithms",
-        "shkspr.mobi · The UK Government's Low Value Purchase System is a Waste of Time"
+        "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
-        "Premium: What If...We're In An AI Bubble? (Part 3)",
-        "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
-      ],
-      "key_points_zh": [
-        "Premium: What If...We're In An AI Bubble? (Part 3)",
-        "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
-      ],
-      "key_points_en": [
-        "Premium: What If...We're In An AI Bubble? (Part 3)",
-        "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
-      ],
-      "tweet_drafts": [
+        "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
         "It's hard to justify buying a Framework 12"
       ],
+      "key_points_zh": [
+        "★ What Is a Dickover?",
+        "Premium: What If...We're In An AI Bubble? (Part 3)",
+        "One Group, Clearly, Is Deranged",
+        "It's hard to justify buying a Framework 12"
+      ],
+      "key_points_en": [
+        "★ What Is a Dickover?",
+        "Premium: What If...We're In An AI Bubble? (Part 3)",
+        "One Group, Clearly, Is Deranged",
+        "It's hard to justify buying a Framework 12"
+      ],
+      "tweet_drafts": [
+        "★ What Is a Dickover?",
+        "Premium: What If...We're In An AI Bubble? (Part 3)",
+        "One Group, Clearly, Is Deranged"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "★ What Is a Dickover?",
+          "link": "https://daringfireball.net/2026/05/what_is_a_dickover"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "Premium: What If...We're In An AI Bubble? (Part 3)",
@@ -143,27 +148,22 @@
           "feed_title": "daringfireball.net",
           "title": "One Group, Clearly, Is Deranged",
           "link": "https://paulkrugman.substack.com/p/whos-deranged-exactly"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "It's hard to justify buying a Framework 12",
-          "link": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/"
         }
       ],
-      "summary_zh": "2026-05-29 技术日报：Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged；It's hard to justify buying a Framework 12。",
-      "summary_en": "Daily brief (2026-05-29): Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged; It's hard to justify buying a Framework 12.",
+      "summary_zh": "2026-05-29 技术日报：★ What Is a Dickover?；Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged。",
+      "summary_en": "Daily brief (2026-05-29): ★ What Is a Dickover?; Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-29 日报】Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged；It's hard to justify buying a Framework 12。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-29): Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged; It's hard to justify buying a Framework 12. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-29 日报】★ What Is a Dickover?；Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-29): ★ What Is a Dickover?; Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-29）\n- Premium: What If...We're In An AI Bubble? (Part 3)\n- One Group, Clearly, Is Deranged\n- It's hard to justify buying a Framework 12\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/\n- https://paulkrugman.substack.com/p/whos-deranged-exactly\n- https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-29)\n- Premium: What If...We're In An AI Bubble? (Part 3)\n- One Group, Clearly, Is Deranged\n- It's hard to justify buying a Framework 12\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/\n- https://paulkrugman.substack.com/p/whos-deranged-exactly\n- https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-29）\n- ★ What Is a Dickover?\n- Premium: What If...We're In An AI Bubble? (Part 3)\n- One Group, Clearly, Is Deranged\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/05/what_is_a_dickover\n- https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/\n- https://paulkrugman.substack.com/p/whos-deranged-exactly\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-29)\n- ★ What Is a Dickover?\n- Premium: What If...We're In An AI Bubble? (Part 3)\n- One Group, Clearly, Is Deranged\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/05/what_is_a_dickover\n- https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/\n- https://paulkrugman.substack.com/p/whos-deranged-exactly\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged；It's hard to justify buying a Framework 12。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged; It's hard to justify buying a Framework 12.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：★ What Is a Dickover?；Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ What Is a Dickover?; Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -867,8 +867,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
