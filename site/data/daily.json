@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T16:23:03Z",
+  "generated_at": "2026-05-31T16:48:13Z",
   "days": [
     {
       "date": "2026-06-01",
@@ -48,47 +48,52 @@
     },
     {
       "date": "2026-05-31",
-      "total": 7,
+      "total": 8,
       "feeds": [
+        "simonwillison.net (2)",
         "johndcook.com (1)",
         "oldvcr.blogspot.com (1)",
         "seangoedecke.com (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
         "tedium.co (1)"
       ],
       "highlights": [
+        "simonwillison.net · The solution might be cancelling my AI subscription",
         "johndcook.com · Another Gaussian approximation",
         "shkspr.mobi · Who are the actors in the UK's 2015 passport?",
         "oldvcr.blogspot.com · Ahoy, DECmate II! the little PDP-8 that could",
         "simonwillison.net · Quoting Karen Kwok for Reuters Breakingviews",
-        "tedium.co · One \u0026udm After Another",
-        "seangoedecke.com · Build agents, not pipelines"
+        "tedium.co · One \u0026udm After Another"
       ],
       "key_points": [
-        "Another Gaussian approximation",
-        "Who are the actors in the UK's 2015 passport?",
-        "Ahoy, DECmate II! the little PDP-8 that could",
-        "Quoting Karen Kwok for Reuters Breakingviews"
-      ],
-      "key_points_zh": [
-        "Another Gaussian approximation",
-        "Who are the actors in the UK's 2015 passport?",
-        "Ahoy, DECmate II! the little PDP-8 that could",
-        "Quoting Karen Kwok for Reuters Breakingviews"
-      ],
-      "key_points_en": [
-        "Another Gaussian approximation",
-        "Who are the actors in the UK's 2015 passport?",
-        "Ahoy, DECmate II! the little PDP-8 that could",
-        "Quoting Karen Kwok for Reuters Breakingviews"
-      ],
-      "tweet_drafts": [
+        "The solution might be cancelling my AI subscription",
         "Another Gaussian approximation",
         "Who are the actors in the UK's 2015 passport?",
         "Ahoy, DECmate II! the little PDP-8 that could"
       ],
+      "key_points_zh": [
+        "The solution might be cancelling my AI subscription",
+        "Another Gaussian approximation",
+        "Who are the actors in the UK's 2015 passport?",
+        "Ahoy, DECmate II! the little PDP-8 that could"
+      ],
+      "key_points_en": [
+        "The solution might be cancelling my AI subscription",
+        "Another Gaussian approximation",
+        "Who are the actors in the UK's 2015 passport?",
+        "Ahoy, DECmate II! the little PDP-8 that could"
+      ],
+      "tweet_drafts": [
+        "The solution might be cancelling my AI subscription",
+        "Another Gaussian approximation",
+        "Who are the actors in the UK's 2015 passport?"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "The solution might be cancelling my AI subscription",
+          "link": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Another Gaussian approximation",
@@ -98,27 +103,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Who are the actors in the UK's 2015 passport?",
           "link": "https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/"
-        },
-        {
-          "feed_title": "oldvcr.blogspot.com",
-          "title": "Ahoy, DECmate II! the little PDP-8 that could",
-          "link": "https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html"
         }
       ],
-      "summary_zh": "2026-05-31 技术日报：Another Gaussian approximation；Who are the actors in the UK's 2015 passport?；Ahoy, DECmate II! the little PDP-8 that could。",
-      "summary_en": "Daily brief (2026-05-31): Another Gaussian approximation; Who are the actors in the UK's 2015 passport?; Ahoy, DECmate II! the little PDP-8 that could.",
+      "summary_zh": "2026-05-31 技术日报：The solution might be cancelling my AI subscription；Another Gaussian approximation；Who are the actors in the UK's 2015 passport?。",
+      "summary_en": "Daily brief (2026-05-31): The solution might be cancelling my AI subscription; Another Gaussian approximation; Who are the actors in the UK's 2015 passport?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-05-31 日报】Another Gaussian approximation；Who are the actors in the UK's 2015 passport?；Ahoy, DECmate II! the little PDP-8 that could。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-31): Another Gaussian approximation; Who are the actors in the UK's 2015 passport?; Ahoy, DECmate II! the little PDP-8 that could. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-05-31 日报】The solution might be cancelling my AI subscription；Another Gaussian approximation；Who are the actors in the UK's 2015 passport?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-05-31): The solution might be cancelling my AI subscription; Another Gaussian approximation; Who are the actors in the UK's 2015 passport?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-05-31）\n- Another Gaussian approximation\n- Who are the actors in the UK's 2015 passport?\n- Ahoy, DECmate II! the little PDP-8 that could\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/\n- https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/\n- https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-31)\n- Another Gaussian approximation\n- Who are the actors in the UK's 2015 passport?\n- Ahoy, DECmate II! the little PDP-8 that could\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/\n- https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/\n- https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-05-31）\n- The solution might be cancelling my AI subscription\n- Another Gaussian approximation\n- Who are the actors in the UK's 2015 passport?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything\n- https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/\n- https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-05-31)\n- The solution might be cancelling my AI subscription\n- Another Gaussian approximation\n- Who are the actors in the UK's 2015 passport?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything\n- https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/\n- https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Another Gaussian approximation；Who are the actors in the UK's 2015 passport?；Ahoy, DECmate II! the little PDP-8 that could。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Another Gaussian approximation; Who are the actors in the UK's 2015 passport?; Ahoy, DECmate II! the little PDP-8 that could.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The solution might be cancelling my AI subscription；Another Gaussian approximation；Who are the actors in the UK's 2015 passport?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The solution might be cancelling my AI subscription; Another Gaussian approximation; Who are the actors in the UK's 2015 passport?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -290,8 +290,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1811,7 +1811,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",

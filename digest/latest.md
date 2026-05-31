@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-05-31 16:22:49 UTC
+Generated at: 2026-05-31 16:47:59 UTC
 
-- [Another Gaussian approximation](https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/) (`johndcook.com`)
+- [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) (`simonwillison.net`)
