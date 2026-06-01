@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-06-01T16:00:02Z",
+  "generated_at": "2026-06-01T18:11:22Z",
   "days": [
     {
       "date": "2026-06-01",
-      "total": 14,
+      "total": 17,
       "feeds": [
+        "daringfireball.net (2)",
         "johndcook.com (2)",
         "troyhunt.com (2)",
         "abortretry.fail (1)",
         "brutecat.com (1)",
-        "daringfireball.net (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "krebsonsecurity.com · Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+        "daringfireball.net · Amazon Made AI Podcasts for Products",
         "johndcook.com · It’s not just Taylor series",
         "johndcook.com · Subscribe by email",
         "dfarq.homeip.net · Intel 8088s and non-Intel non-clones",
-        "nesbitt.io · The Infosec Phrasebook",
-        "pluralistic.net · Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)",
-        "troyhunt.com · 1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever"
+        "nesbitt.io · The Infosec Phrasebook"
       ],
       "key_points": [
+        "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+        "Amazon Made AI Podcasts for Products",
         "It’s not just Taylor series",
-        "Subscribe by email",
-        "Intel 8088s and non-Intel non-clones",
-        "The Infosec Phrasebook"
+        "Subscribe by email"
       ],
       "key_points_zh": [
+        "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+        "Amazon Made AI Podcasts for Products",
         "It’s not just Taylor series",
-        "Subscribe by email",
-        "Intel 8088s and non-Intel non-clones",
-        "The Infosec Phrasebook"
+        "Subscribe by email"
       ],
       "key_points_en": [
+        "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+        "Amazon Made AI Podcasts for Products",
         "It’s not just Taylor series",
-        "Subscribe by email",
-        "Intel 8088s and non-Intel non-clones",
-        "The Infosec Phrasebook"
+        "Subscribe by email"
       ],
       "tweet_drafts": [
-        "It’s not just Taylor series",
-        "Subscribe by email",
-        "Intel 8088s and non-Intel non-clones"
+        "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+        "Amazon Made AI Podcasts for Products",
+        "It’s not just Taylor series"
       ],
       "sources": [
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+          "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Amazon Made AI Podcasts for Products",
+          "link": "https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "It’s not just Taylor series",
           "link": "https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Subscribe by email",
-          "link": "https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Intel 8088s and non-Intel non-clones",
-          "link": "https://dfarq.homeip.net/intel-8088s-and-non-intel-non-clones/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-8088s-and-non-intel-non-clones"
         }
       ],
-      "summary_zh": "2026-06-01 技术日报：It’s not just Taylor series；Subscribe by email；Intel 8088s and non-Intel non-clones。",
-      "summary_en": "Daily brief (2026-06-01): It’s not just Taylor series; Subscribe by email; Intel 8088s and non-Intel non-clones.",
+      "summary_zh": "2026-06-01 技术日报：Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts；Amazon Made AI Podcasts for Products；It’s not just Taylor series。",
+      "summary_en": "Daily brief (2026-06-01): Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts; Amazon Made AI Podcasts for Products; It’s not just Taylor series.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-01 日报】It’s not just Taylor series；Subscribe by email；Intel 8088s and non-Intel non-clones。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-01): It’s not just Taylor series; Subscribe by email; Intel 8088s and non-Intel non-clones. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-01 日报】Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts；Amazon Made AI Podcasts for Products；It’s not just Taylor series。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-01): Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts; Amazon Made AI Podcasts for Products; It’s not just Taylor series. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-01）\n- It’s not just Taylor series\n- Subscribe by email\n- Intel 8088s and non-Intel non-clones\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/\n- https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/\n- https://dfarq.homeip.net/intel-8088s-and-non-intel-non-clones/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-8088s-and-non-intel-non-clones\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-01)\n- It’s not just Taylor series\n- Subscribe by email\n- Intel 8088s and non-Intel non-clones\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/\n- https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/\n- https://dfarq.homeip.net/intel-8088s-and-non-intel-non-clones/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=intel-8088s-and-non-intel-non-clones\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-01）\n- Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts\n- Amazon Made AI Podcasts for Products\n- It’s not just Taylor series\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/\n- https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4\n- https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-01)\n- Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts\n- Amazon Made AI Podcasts for Products\n- It’s not just Taylor series\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/\n- https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4\n- https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：It’s not just Taylor series；Subscribe by email；Intel 8088s and non-Intel non-clones。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: It’s not just Taylor series; Subscribe by email; Intel 8088s and non-Intel non-clones.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts；Amazon Made AI Podcasts for Products；It’s not just Taylor series。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts; Amazon Made AI Podcasts for Products; It’s not just Taylor series.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -321,8 +321,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1842,7 +1842,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
