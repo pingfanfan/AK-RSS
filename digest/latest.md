@@ -1,7 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-01 09:42:57 UTC
+Generated at: 2026-06-01 11:54:26 UTC
 
-- [Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/) (`seangoedecke.com`)
-- [Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)](https://pluralistic.net/2026/06/01/doikayt/) (`pluralistic.net`)
-- [1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) (`troyhunt.com`)
+- [Subscribe by email](https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/) (`johndcook.com`)
+- [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html) (`nesbitt.io`)
+- [Intel 8088s and non-Intel non-clones](https://dfarq.homeip.net/intel-8088s-and-non-intel-non-clones/?utm_source=rss&utm_medium=rss&utm_campaign=intel-8088s-and-non-intel-non-clones) (`dfarq.homeip.net`)
