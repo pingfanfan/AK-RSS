@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-01 13:49:43 UTC
+Generated at: 2026-06-01 15:59:50 UTC
 
-- [It’s not just Taylor series](https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/) (`johndcook.com`)
