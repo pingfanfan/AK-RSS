@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-01 19:59:55 UTC
+Generated at: 2026-06-01 21:16:25 UTC
 
-- [The web is changing, and we are not going back](https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed) (`idiallo.com`)
-- [The art and engineering of Silpheed](https://fabiensanglard.net/silpheed/index.html) (`fabiensanglard.net`)
-- [Joining the IndieWeb - #1: Microformats](https://tomrenner.com/posts/joining-the-indieweb-1/) (`tomrenner.com`)
+- [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything) (`simonwillison.net`)
+- [‘We Are Living in Pinocchio’s World’](https://om.co/2026/05/25/we-are-living-in-pinocchios-world/) (`daringfireball.net`)
