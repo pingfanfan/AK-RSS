@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-02 21:59:28 UTC
+Generated at: 2026-06-02 22:49:25 UTC
 
-- [Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year](https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741) (`daringfireball.net`)
+- [Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) (`simonwillison.net`)
