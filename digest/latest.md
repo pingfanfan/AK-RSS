@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-02 22:49:25 UTC
+Generated at: 2026-06-03 07:31:19 UTC
 
-- [Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) (`simonwillison.net`)
+- [Rotation revisited: Another unidirectional algorithm](https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376) (`devblogs.microsoft.com/oldnewthing`)
+- [A wish for automatic or semi-automatic disk setup in Linux server installers](https://utcc.utoronto.ca/~cks/space/blog/linux/InstallerAutomatedDiskSetupWish) (`utcc.utoronto.ca/~cks`)
+- [Welcoming the Philippine Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/) (`troyhunt.com`)
