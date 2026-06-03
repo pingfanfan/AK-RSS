@@ -1,77 +1,79 @@
 {
-  "generated_at": "2026-06-03T14:31:55Z",
+  "generated_at": "2026-06-03T16:31:12Z",
   "days": [
     {
       "date": "2026-06-03",
-      "total": 5,
+      "total": 7,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
+        "nesbitt.io (1)",
         "shkspr.mobi (1)",
         "simonwillison.net (1)",
-        "troyhunt.com (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "troyhunt.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Naively summing an alternating series",
+        "nesbitt.io · Skills Registry Threat Models",
         "simonwillison.net · Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
         "shkspr.mobi · London Data Store Relaunch",
         "dfarq.homeip.net · GE Widescreen 1000: Big time TV for big budgets",
-        "troyhunt.com · Welcoming the Philippine Government to Have I Been Pwned",
-        "utcc.utoronto.ca/~cks · A wish for automatic or semi-automatic disk setup in Linux server installers"
+        "troyhunt.com · Welcoming the Philippine Government to Have I Been Pwned"
       ],
       "key_points": [
+        "Naively summing an alternating series",
+        "Skills Registry Threat Models",
         "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-        "London Data Store Relaunch",
-        "GE Widescreen 1000: Big time TV for big budgets",
-        "Welcoming the Philippine Government to Have I Been Pwned"
+        "London Data Store Relaunch"
       ],
       "key_points_zh": [
+        "Naively summing an alternating series",
+        "Skills Registry Threat Models",
         "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-        "London Data Store Relaunch",
-        "GE Widescreen 1000: Big time TV for big budgets",
-        "Welcoming the Philippine Government to Have I Been Pwned"
+        "London Data Store Relaunch"
       ],
       "key_points_en": [
+        "Naively summing an alternating series",
+        "Skills Registry Threat Models",
         "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-        "London Data Store Relaunch",
-        "GE Widescreen 1000: Big time TV for big budgets",
-        "Welcoming the Philippine Government to Have I Been Pwned"
+        "London Data Store Relaunch"
       ],
       "tweet_drafts": [
-        "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-        "London Data Store Relaunch",
-        "GE Widescreen 1000: Big time TV for big budgets"
+        "Naively summing an alternating series",
+        "Skills Registry Threat Models",
+        "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Naively summing an alternating series",
+          "link": "https://www.johndcook.com/blog/2026/06/03/naive-sum/"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Skills Registry Threat Models",
+          "link": "https://nesbitt.io/2026/06/03/skills-registry-threat-models.html"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
           "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "London Data Store Relaunch",
-          "link": "https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "GE Widescreen 1000: Big time TV for big budgets",
-          "link": "https://dfarq.homeip.net/ge-widescreen-1000/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ge-widescreen-1000"
         }
       ],
-      "summary_zh": "2026-06-03 技术日报：Uber Caps Usage of AI Tools Like Claude Code to Manage Costs；London Data Store Relaunch；GE Widescreen 1000: Big time TV for big budgets。",
-      "summary_en": "Daily brief (2026-06-03): Uber Caps Usage of AI Tools Like Claude Code to Manage Costs; London Data Store Relaunch; GE Widescreen 1000: Big time TV for big budgets.",
+      "summary_zh": "2026-06-03 技术日报：Naively summing an alternating series；Skills Registry Threat Models；Uber Caps Usage of AI Tools Like Claude Code to Manage Costs。",
+      "summary_en": "Daily brief (2026-06-03): Naively summing an alternating series; Skills Registry Threat Models; Uber Caps Usage of AI Tools Like Claude Code to Manage Costs.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-03 日报】Uber Caps Usage of AI Tools Like Claude Code to Manage Costs；London Data Store Relaunch；GE Widescreen 1000: Big time TV for big budgets。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-03): Uber Caps Usage of AI Tools Like Claude Code to Manage Costs; London Data Store Relaunch; GE Widescreen 1000: Big time TV for big budgets. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-03 日报】Naively summing an alternating series；Skills Registry Threat Models；Uber Caps Usage of AI Tools Like Claude Code to Manage Costs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-03): Naively summing an alternating series; Skills Registry Threat Models; Uber Caps Usage of AI Tools Like Claude Code to Manage Costs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-03）\n- Uber Caps Usage of AI Tools Like Claude Code to Manage Costs\n- London Data Store Relaunch\n- GE Widescreen 1000: Big time TV for big budgets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything\n- https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/\n- https://dfarq.homeip.net/ge-widescreen-1000/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ge-widescreen-1000\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-03)\n- Uber Caps Usage of AI Tools Like Claude Code to Manage Costs\n- London Data Store Relaunch\n- GE Widescreen 1000: Big time TV for big budgets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything\n- https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/\n- https://dfarq.homeip.net/ge-widescreen-1000/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ge-widescreen-1000\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-03）\n- Naively summing an alternating series\n- Skills Registry Threat Models\n- Uber Caps Usage of AI Tools Like Claude Code to Manage Costs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/03/naive-sum/\n- https://nesbitt.io/2026/06/03/skills-registry-threat-models.html\n- https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-03)\n- Naively summing an alternating series\n- Skills Registry Threat Models\n- Uber Caps Usage of AI Tools Like Claude Code to Manage Costs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/03/naive-sum/\n- https://nesbitt.io/2026/06/03/skills-registry-threat-models.html\n- https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Uber Caps Usage of AI Tools Like Claude Code to Manage Costs；London Data Store Relaunch；GE Widescreen 1000: Big time TV for big budgets。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Uber Caps Usage of AI Tools Like Claude Code to Manage Costs; London Data Store Relaunch; GE Widescreen 1000: Big time TV for big budgets.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Naively summing an alternating series；Skills Registry Threat Models；Uber Caps Usage of AI Tools Like Claude Code to Manage Costs。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Naively summing an alternating series; Skills Registry Threat Models; Uber Caps Usage of AI Tools Like Claude Code to Manage Costs.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -394,27 +396,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -471,8 +473,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1992,7 +1994,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
+        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",

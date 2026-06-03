@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-03 14:31:40 UTC
+Generated at: 2026-06-03 16:30:57 UTC
 
-- [London Data Store Relaunch](https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/) (`shkspr.mobi`)
+- [Naively summing an alternating series](https://www.johndcook.com/blog/2026/06/03/naive-sum/) (`johndcook.com`)
+- [Skills Registry Threat Models](https://nesbitt.io/2026/06/03/skills-registry-threat-models.html) (`nesbitt.io`)
