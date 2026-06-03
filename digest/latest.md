@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-03 12:56:22 UTC
+Generated at: 2026-06-03 14:31:40 UTC
 
-- [Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) (`simonwillison.net`)
+- [London Data Store Relaunch](https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/) (`shkspr.mobi`)
