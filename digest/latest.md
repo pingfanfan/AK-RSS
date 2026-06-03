@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-03 11:18:44 UTC
+Generated at: 2026-06-03 12:56:22 UTC
 
-- [GE Widescreen 1000: Big time TV for big budgets](https://dfarq.homeip.net/ge-widescreen-1000/?utm_source=rss&utm_medium=rss&utm_campaign=ge-widescreen-1000) (`dfarq.homeip.net`)
+- [Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) (`simonwillison.net`)
