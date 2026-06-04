@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-04 16:30:31 UTC
+Generated at: 2026-06-04 17:50:35 UTC
 
-- [How Long Does It Take to Plan a Bridge?](https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge) (`construction-physics.com`)
-- [Alex Imas and Phil Trammell – What remains scarce after AGI?](https://www.dwarkesh.com/p/alex-imas-phil-trammell) (`dwarkesh.com`)
+- [Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) (`simonwillison.net`)
+- [Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous](https://gemini.google/mac/) (`daringfireball.net`)
+- [Integrating smooth periodic functions](https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/) (`johndcook.com`)
