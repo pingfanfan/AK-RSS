@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-06-04T20:38:45Z",
+  "generated_at": "2026-06-04T21:29:52Z",
   "days": [
     {
-      "date": "2026-06-04",
-      "total": 20,
+      "date": "2026-06-09",
+      "total": 1,
       "feeds": [
-        "daringfireball.net (6)",
+        "xeiaso.net (1)"
+      ],
+      "highlights": [
+        "xeiaso.net · Giving your Go apps Tigris superpowers"
+      ],
+      "key_points": [
+        "Giving your Go apps Tigris superpowers"
+      ],
+      "key_points_zh": [
+        "Giving your Go apps Tigris superpowers"
+      ],
+      "key_points_en": [
+        "Giving your Go apps Tigris superpowers"
+      ],
+      "tweet_drafts": [
+        "Giving your Go apps Tigris superpowers"
+      ],
+      "sources": [
+        {
+          "feed_title": "xeiaso.net",
+          "title": "Giving your Go apps Tigris superpowers",
+          "link": "https://www.tigrisdata.com/blog/storage-sdk-go/"
+        }
+      ],
+      "summary_zh": "2026-06-09 技术日报：Giving your Go apps Tigris superpowers。",
+      "summary_en": "Daily brief (2026-06-09): Giving your Go apps Tigris superpowers.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-09 日报】Giving your Go apps Tigris superpowers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-09): Giving your Go apps Tigris superpowers. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-09）\n- Giving your Go apps Tigris superpowers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.tigrisdata.com/blog/storage-sdk-go/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-09)\n- Giving your Go apps Tigris superpowers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.tigrisdata.com/blog/storage-sdk-go/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Giving your Go apps Tigris superpowers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Giving your Go apps Tigris superpowers.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "total": 21,
+      "feeds": [
+        "daringfireball.net (7)",
         "johndcook.com (3)",
         "borretti.me (1)",
         "construction-physics.com (1)",
@@ -13,37 +58,42 @@
         "dwarkesh.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · ‘The Insider’",
         "daringfireball.net · ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
         "johndcook.com · The Latin of Linux",
         "utcc.utoronto.ca/~cks · The Emacs packages that I use (as of June 2026)",
         "daringfireball.net · Lingon and Lingon Pro 10",
-        "daringfireball.net · Remember When Chrome Went Bad on MacOS?",
-        "daringfireball.net · Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous"
+        "daringfireball.net · Remember When Chrome Went Bad on MacOS?"
       ],
       "key_points": [
-        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "The Latin of Linux",
-        "The Emacs packages that I use (as of June 2026)",
-        "Lingon and Lingon Pro 10"
-      ],
-      "key_points_zh": [
-        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "The Latin of Linux",
-        "The Emacs packages that I use (as of June 2026)",
-        "Lingon and Lingon Pro 10"
-      ],
-      "key_points_en": [
-        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "The Latin of Linux",
-        "The Emacs packages that I use (as of June 2026)",
-        "Lingon and Lingon Pro 10"
-      ],
-      "tweet_drafts": [
+        "‘The Insider’",
         "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
         "The Latin of Linux",
         "The Emacs packages that I use (as of June 2026)"
       ],
+      "key_points_zh": [
+        "‘The Insider’",
+        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
+        "The Latin of Linux",
+        "The Emacs packages that I use (as of June 2026)"
+      ],
+      "key_points_en": [
+        "‘The Insider’",
+        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
+        "The Latin of Linux",
+        "The Emacs packages that I use (as of June 2026)"
+      ],
+      "tweet_drafts": [
+        "‘The Insider’",
+        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
+        "The Latin of Linux"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "‘The Insider’",
+          "link": "https://letterboxd.com/film/the-insider/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
@@ -53,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "The Latin of Linux",
           "link": "https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "The Emacs packages that I use (as of June 2026)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06"
         }
       ],
-      "summary_zh": "2026-06-04 技术日报：‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux；The Emacs packages that I use (as of June 2026)。",
-      "summary_en": "Daily brief (2026-06-04): ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux; The Emacs packages that I use (as of June 2026).",
+      "summary_zh": "2026-06-04 技术日报：‘The Insider’；‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux。",
+      "summary_en": "Daily brief (2026-06-04): ‘The Insider’; ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-04 日报】‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux；The Emacs packages that I use (as of June 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-04): ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux; The Emacs packages that I use (as of June 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-04 日报】‘The Insider’；‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-04): ‘The Insider’; ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-04）\n- ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’\n- The Latin of Linux\n- The Emacs packages that I use (as of June 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ\n- https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-04)\n- ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’\n- The Latin of Linux\n- The Emacs packages that I use (as of June 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ\n- https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-04）\n- ‘The Insider’\n- ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’\n- The Latin of Linux\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://letterboxd.com/film/the-insider/\n- https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ\n- https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-04)\n- ‘The Insider’\n- ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’\n- The Latin of Linux\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://letterboxd.com/film/the-insider/\n- https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ\n- https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux；The Emacs packages that I use (as of June 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux; The Emacs packages that I use (as of June 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：‘The Insider’；‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ‘The Insider’; ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2070,7 +2115,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Prolost Watches 1.0；llm-gemini 0.31；Big Words。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Prolost Watches 1.0; llm-gemini 0.31; Big Words.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-06",
-      "total": 22,
-      "feeds": [
-        "daringfireball.net (3)",
-        "johndcook.com (3)",
-        "simonwillison.net (3)",
-        "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Article previews in RSS",
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
-        "daringfireball.net · Broadcast Booths Around Baseball Tip Their Caps to John Sterling",
-        "johndcook.com · Triangular analog of the squircle",
-        "daringfireball.net · Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding",
-        "buttondown.com/hillelwayne · New Logic for Programmers (and the future of this newsletter)"
-      ],
-      "key_points": [
-        "Article previews in RSS",
-        "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
-        "Broadcast Booths Around Baseball Tip Their Caps to John Sterling",
-        "Triangular analog of the squircle"
-      ],
-      "key_points_zh": [
-        "Article previews in RSS",
-        "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
-        "Broadcast Booths Around Baseball Tip Their Caps to John Sterling",
-        "Triangular analog of the squircle"
-      ],
-      "key_points_en": [
-        "Article previews in RSS",
-        "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
-        "Broadcast Booths Around Baseball Tip Their Caps to John Sterling",
-        "Triangular analog of the squircle"
-      ],
-      "tweet_drafts": [
-        "Article previews in RSS",
-        "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
-        "Broadcast Booths Around Baseball Tip Their Caps to John Sterling"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Article previews in RSS",
-          "link": "https://entropicthoughts.com/article-previews-in-rss"
-        },
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy",
-          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Broadcast Booths Around Baseball Tip Their Caps to John Sterling",
-          "link": "https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls"
-        }
-      ],
-      "summary_zh": "2026-05-06 技术日报：Article previews in RSS；SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy；Broadcast Booths Around Baseball Tip Their Caps to John Sterling。",
-      "summary_en": "Daily brief (2026-05-06): Article previews in RSS; SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy; Broadcast Booths Around Baseball Tip Their Caps to John Sterling.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-06 日报】Article previews in RSS；SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy；Broadcast Booths Around Baseball Tip Their Caps to John Sterling。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-06): Article previews in RSS; SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy; Broadcast Booths Around Baseball Tip Their Caps to John Sterling. Actionable takeaways included. What would you ship next? #AI #Engineering #Buil"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-06）\n- Article previews in RSS\n- SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy\n- Broadcast Booths Around Baseball Tip Their Caps to John Sterling\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/article-previews-in-rss\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy\n- https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-06)\n- Article previews in RSS\n- SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy\n- Broadcast Booths Around Baseball Tip Their Caps to John Sterling\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/article-previews-in-rss\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy\n- https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Article previews in RSS；SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy；Broadcast Booths Around Baseball Tip Their Caps to John Sterling。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Article previews in RSS; SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy; Broadcast Booths Around Baseball Tip Their Caps to John Sterling.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
