@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-04 11:29:06 UTC
+Generated at: 2026-06-04 12:31:06 UTC
 
-- [gittuf - a signed log for git refs](https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html) (`nesbitt.io`)
-- [AMD 486DX4 released June 4, 1995](https://dfarq.homeip.net/amd-486dx4-released-june-4-1995/?utm_source=rss&utm_medium=rss&utm_campaign=amd-486dx4-released-june-4-1995) (`dfarq.homeip.net`)
+- [Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★](https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/) (`shkspr.mobi`)
