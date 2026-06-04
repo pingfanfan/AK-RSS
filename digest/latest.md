@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-04 19:39:40 UTC
+Generated at: 2026-06-04 20:38:30 UTC
 
-- [Lingon and Lingon Pro 10](https://www.peterborgapps.com/lingon/) (`daringfireball.net`)
-- [The Emacs packages that I use (as of June 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06) (`utcc.utoronto.ca/~cks`)
+- [‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ) (`daringfireball.net`)
+- [The Latin of Linux](https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/) (`johndcook.com`)
