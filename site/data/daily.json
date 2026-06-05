@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T13:55:57Z",
+  "generated_at": "2026-06-05T14:59:23Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-06-05",
-      "total": 8,
+      "total": 10,
       "feeds": [
         "simonwillison.net (2)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
         "it-notes.dragas.net (1)",
-        "joanwestenberg.com (1)"
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "jeffgeerling.com · I tested every IP KVM in my Homelab",
         "johndcook.com · Mr. Bessel’s eponymous functions",
+        "nesbitt.io · Install-script allowlists",
         "simonwillison.net · Quoting Andreas Kling",
         "dfarq.homeip.net · First Commodore PET sold, June 5, 1977",
-        "it-notes.dragas.net · Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
-        "herman.bearblog.dev · The Giant's Cup",
-        "joanwestenberg.com · AI-indecision is a recursive trap. Don't get stuck."
+        "it-notes.dragas.net · Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you"
       ],
       "key_points": [
+        "I tested every IP KVM in my Homelab",
         "Mr. Bessel’s eponymous functions",
-        "Quoting Andreas Kling",
-        "First Commodore PET sold, June 5, 1977",
-        "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you"
+        "Install-script allowlists",
+        "Quoting Andreas Kling"
       ],
       "key_points_zh": [
+        "I tested every IP KVM in my Homelab",
         "Mr. Bessel’s eponymous functions",
-        "Quoting Andreas Kling",
-        "First Commodore PET sold, June 5, 1977",
-        "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you"
+        "Install-script allowlists",
+        "Quoting Andreas Kling"
       ],
       "key_points_en": [
+        "I tested every IP KVM in my Homelab",
         "Mr. Bessel’s eponymous functions",
-        "Quoting Andreas Kling",
-        "First Commodore PET sold, June 5, 1977",
-        "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you"
+        "Install-script allowlists",
+        "Quoting Andreas Kling"
       ],
       "tweet_drafts": [
+        "I tested every IP KVM in my Homelab",
         "Mr. Bessel’s eponymous functions",
-        "Quoting Andreas Kling",
-        "First Commodore PET sold, June 5, 1977"
+        "Install-script allowlists"
       ],
       "sources": [
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "I tested every IP KVM in my Homelab",
+          "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Mr. Bessel’s eponymous functions",
           "link": "https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Andreas Kling",
-          "link": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "First Commodore PET sold, June 5, 1977",
-          "link": "https://dfarq.homeip.net/first-commodore-pet-sold-june-5-1977/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-commodore-pet-sold-june-5-1977"
+          "feed_title": "nesbitt.io",
+          "title": "Install-script allowlists",
+          "link": "https://nesbitt.io/2026/06/05/install-script-allowlists.html"
         }
       ],
-      "summary_zh": "2026-06-05 技术日报：Mr. Bessel’s eponymous functions；Quoting Andreas Kling；First Commodore PET sold, June 5, 1977。",
-      "summary_en": "Daily brief (2026-06-05): Mr. Bessel’s eponymous functions; Quoting Andreas Kling; First Commodore PET sold, June 5, 1977.",
+      "summary_zh": "2026-06-05 技术日报：I tested every IP KVM in my Homelab；Mr. Bessel’s eponymous functions；Install-script allowlists。",
+      "summary_en": "Daily brief (2026-06-05): I tested every IP KVM in my Homelab; Mr. Bessel’s eponymous functions; Install-script allowlists.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-05 日报】Mr. Bessel’s eponymous functions；Quoting Andreas Kling；First Commodore PET sold, June 5, 1977。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-05): Mr. Bessel’s eponymous functions; Quoting Andreas Kling; First Commodore PET sold, June 5, 1977. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-05 日报】I tested every IP KVM in my Homelab；Mr. Bessel’s eponymous functions；Install-script allowlists。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-05): I tested every IP KVM in my Homelab; Mr. Bessel’s eponymous functions; Install-script allowlists. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-05）\n- Mr. Bessel’s eponymous functions\n- Quoting Andreas Kling\n- First Commodore PET sold, June 5, 1977\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/\n- https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything\n- https://dfarq.homeip.net/first-commodore-pet-sold-june-5-1977/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-commodore-pet-sold-june-5-1977\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-05)\n- Mr. Bessel’s eponymous functions\n- Quoting Andreas Kling\n- First Commodore PET sold, June 5, 1977\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/\n- https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything\n- https://dfarq.homeip.net/first-commodore-pet-sold-june-5-1977/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=first-commodore-pet-sold-june-5-1977\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-05）\n- I tested every IP KVM in my Homelab\n- Mr. Bessel’s eponymous functions\n- Install-script allowlists\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/\n- https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/\n- https://nesbitt.io/2026/06/05/install-script-allowlists.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-05)\n- I tested every IP KVM in my Homelab\n- Mr. Bessel’s eponymous functions\n- Install-script allowlists\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/\n- https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/\n- https://nesbitt.io/2026/06/05/install-script-allowlists.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Mr. Bessel’s eponymous functions；Quoting Andreas Kling；First Commodore PET sold, June 5, 1977。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Mr. Bessel’s eponymous functions; Quoting Andreas Kling; First Commodore PET sold, June 5, 1977.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：I tested every IP KVM in my Homelab；Mr. Bessel’s eponymous functions；Install-script allowlists。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: I tested every IP KVM in my Homelab; Mr. Bessel’s eponymous functions; Install-script allowlists.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -593,27 +593,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2191,7 +2191,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
