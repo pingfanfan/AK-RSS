@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T07:20:25Z",
+  "generated_at": "2026-06-05T08:43:44Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,41 +48,43 @@
     },
     {
       "date": "2026-06-05",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "daringfireball.net (1)",
+        "herman.bearblog.dev (1)",
         "it-notes.dragas.net (1)",
         "joanwestenberg.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
         "it-notes.dragas.net · Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "herman.bearblog.dev · The Giant's Cup",
         "joanwestenberg.com · AI-indecision is a recursive trap. Don't get stuck.",
         "daringfireball.net · Some People Rooted for The Empire in ‘Star Wars’, Too",
         "simonwillison.net · AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
       ],
       "key_points": [
         "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "The Giant's Cup",
         "AI-indecision is a recursive trap. Don't get stuck",
-        "Some People Rooted for The Empire in ‘Star Wars’, Too",
-        "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
+        "Some People Rooted for The Empire in ‘Star Wars’, Too"
       ],
       "key_points_zh": [
         "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "The Giant's Cup",
         "AI-indecision is a recursive trap. Don't get stuck",
-        "Some People Rooted for The Empire in ‘Star Wars’, Too",
-        "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
+        "Some People Rooted for The Empire in ‘Star Wars’, Too"
       ],
       "key_points_en": [
         "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "The Giant's Cup",
         "AI-indecision is a recursive trap. Don't get stuck",
-        "Some People Rooted for The Empire in ‘Star Wars’, Too",
-        "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
+        "Some People Rooted for The Empire in ‘Star Wars’, Too"
       ],
       "tweet_drafts": [
         "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
-        "AI-indecision is a recursive trap. Don't get stuck",
-        "Some People Rooted for The Empire in ‘Star Wars’, Too"
+        "The Giant's Cup",
+        "AI-indecision is a recursive trap. Don't get stuck"
       ],
       "sources": [
         {
@@ -91,30 +93,30 @@
           "link": "https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/"
         },
         {
+          "feed_title": "herman.bearblog.dev",
+          "title": "The Giant's Cup",
+          "link": "https://herman.bearblog.dev/the-giants-cup/"
+        },
+        {
           "feed_title": "joanwestenberg.com",
           "title": "AI-indecision is a recursive trap. Don't get stuck.",
           "link": "https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Some People Rooted for The Empire in ‘Star Wars’, Too",
-          "link": "https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553"
         }
       ],
-      "summary_zh": "2026-06-05 技术日报：Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；AI-indecision is a recursive trap. Don't get stuck；Some People Rooted for The Empire in ‘Star Wars’, Too",
-      "summary_en": "Daily brief (2026-06-05): Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; AI-indecision is a recursive trap. Don't get stuck; Some People Rooted for The Empire in ‘Sta",
+      "summary_zh": "2026-06-05 技术日报：Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；The Giant's Cup；AI-indecision is a recursive trap. Don't get stuck。",
+      "summary_en": "Daily brief (2026-06-05): Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; The Giant's Cup; AI-indecision is a recursive trap. Don't get stuck.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-05 日报】Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；AI-indecision is a recursive trap. Don't get stuck；Some People Rooted for The Empire in ‘Star Wars’, Too。",
-          "en": "AK-RSS Daily (2026-06-05): Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; AI-indecision is a recursive trap. Don't get stuck; Some People Rooted for The Empire in ‘St"
+          "zh": "【2026-06-05 日报】Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；The Giant's Cup；AI-indecision is a recursive trap. Don't get stuck。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-05): Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; The Giant's Cup; AI-indecision is a recursive trap. Don't get stuck. Actionable takeaways in"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-05）\n- Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you\n- AI-indecision is a recursive trap. Don't get stuck\n- Some People Rooted for The Empire in ‘Star Wars’, Too\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/\n- https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/\n- https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-05)\n- Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you\n- AI-indecision is a recursive trap. Don't get stuck\n- Some People Rooted for The Empire in ‘Star Wars’, Too\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/\n- https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/\n- https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-05）\n- Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you\n- The Giant's Cup\n- AI-indecision is a recursive trap. Don't get stuck\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/\n- https://herman.bearblog.dev/the-giants-cup/\n- https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-05)\n- Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you\n- The Giant's Cup\n- AI-indecision is a recursive trap. Don't get stuck\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/\n- https://herman.bearblog.dev/the-giants-cup/\n- https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；AI-indecision is a recursive trap. Don't get stuck；Some People Rooted for The Empire in ‘Star Wars’, Too。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; AI-indecision is a recursive trap. Don't get stuck; Some People Rooted for The Empire in ‘Star Wars’, Too.\nI turned them into an action-r"
+          "zh": "今天最值得看的 3 个点：Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；The Giant's Cup；AI-indecision is a recursive trap. Don't get stuck。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; The Giant's Cup; AI-indecision is a recursive trap. Don't get stuck.\nI turned them into an action-ready daily brief you can use right awa"
         }
       }
     },
@@ -589,27 +591,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -666,8 +668,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2187,7 +2189,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "idiallo.com · Hi stranger"
+        "devblogs.microsoft.com/oldnewthing · Developing more confidence when tracking renames via Read­Directory­ChangesW"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
