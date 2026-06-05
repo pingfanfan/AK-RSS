@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T22:54:20Z",
+  "generated_at": "2026-06-05T07:20:25Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -47,15 +47,87 @@
       }
     },
     {
+      "date": "2026-06-05",
+      "total": 4,
+      "feeds": [
+        "daringfireball.net (1)",
+        "it-notes.dragas.net (1)",
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "it-notes.dragas.net · Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "joanwestenberg.com · AI-indecision is a recursive trap. Don't get stuck.",
+        "daringfireball.net · Some People Rooted for The Empire in ‘Star Wars’, Too",
+        "simonwillison.net · AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
+      ],
+      "key_points": [
+        "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "AI-indecision is a recursive trap. Don't get stuck",
+        "Some People Rooted for The Empire in ‘Star Wars’, Too",
+        "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
+      ],
+      "key_points_zh": [
+        "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "AI-indecision is a recursive trap. Don't get stuck",
+        "Some People Rooted for The Empire in ‘Star Wars’, Too",
+        "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
+      ],
+      "key_points_en": [
+        "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "AI-indecision is a recursive trap. Don't get stuck",
+        "Some People Rooted for The Empire in ‘Star Wars’, Too",
+        "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy"
+      ],
+      "tweet_drafts": [
+        "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+        "AI-indecision is a recursive trap. Don't get stuck",
+        "Some People Rooted for The Empire in ‘Star Wars’, Too"
+      ],
+      "sources": [
+        {
+          "feed_title": "it-notes.dragas.net",
+          "title": "Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you",
+          "link": "https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "AI-indecision is a recursive trap. Don't get stuck.",
+          "link": "https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Some People Rooted for The Empire in ‘Star Wars’, Too",
+          "link": "https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553"
+        }
+      ],
+      "summary_zh": "2026-06-05 技术日报：Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；AI-indecision is a recursive trap. Don't get stuck；Some People Rooted for The Empire in ‘Star Wars’, Too",
+      "summary_en": "Daily brief (2026-06-05): Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; AI-indecision is a recursive trap. Don't get stuck; Some People Rooted for The Empire in ‘Sta",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-05 日报】Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；AI-indecision is a recursive trap. Don't get stuck；Some People Rooted for The Empire in ‘Star Wars’, Too。",
+          "en": "AK-RSS Daily (2026-06-05): Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; AI-indecision is a recursive trap. Don't get stuck; Some People Rooted for The Empire in ‘St"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-05）\n- Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you\n- AI-indecision is a recursive trap. Don't get stuck\n- Some People Rooted for The Empire in ‘Star Wars’, Too\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/\n- https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/\n- https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-05)\n- Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you\n- AI-indecision is a recursive trap. Don't get stuck\n- Some People Rooted for The Empire in ‘Star Wars’, Too\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/\n- https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/\n- https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you；AI-indecision is a recursive trap. Don't get stuck；Some People Rooted for The Empire in ‘Star Wars’, Too。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you; AI-indecision is a recursive trap. Don't get stuck; Some People Rooted for The Empire in ‘Star Wars’, Too.\nI turned them into an action-r"
+        }
+      }
+    },
+    {
       "date": "2026-06-04",
-      "total": 21,
+      "total": 22,
       "feeds": [
         "daringfireball.net (7)",
         "johndcook.com (3)",
         "borretti.me (1)",
         "construction-physics.com (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)"
+        "devblogs.microsoft.com/oldnewthing (1)",
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
         "daringfireball.net · ‘The Insider’",
@@ -594,8 +666,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2115,7 +2187,7 @@
         "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
         "filfre.net · This Week on The Analog Antiquarian",
         "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
+        "idiallo.com · Hi stranger"
       ],
       "key_points": [
         "Using Claude Code: The Unreasonable Effectiveness of HTML",
@@ -2171,82 +2243,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Using Claude Code: The Unreasonable Effectiveness of HTML；George Orwell's review of Russel's Power: A New Social Analysis；David Reich – Why the Bronze Age was an inflection point in human evolution。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Using Claude Code: The Unreasonable Effectiveness of HTML; George Orwell's review of Russel's Power: A New Social Analysis; David Reich – Why the Bronze Age was an inflection point in human evolution.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-07",
-      "total": 18,
-      "feeds": [
-        "simonwillison.net (3)",
-        "daringfireball.net (2)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "it-notes.dragas.net (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Prolost Watches 1.0",
-        "simonwillison.net · llm-gemini 0.31",
-        "simonwillison.net · Big Words",
-        "johndcook.com · Smoothed polygons",
-        "simonwillison.net · Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-        "construction-physics.com · How Long Do We Wait For New Inventions?"
-      ],
-      "key_points": [
-        "Prolost Watches 1.0",
-        "llm-gemini 0.31",
-        "Big Words",
-        "Smoothed polygons"
-      ],
-      "key_points_zh": [
-        "Prolost Watches 1.0",
-        "llm-gemini 0.31",
-        "Big Words",
-        "Smoothed polygons"
-      ],
-      "key_points_en": [
-        "Prolost Watches 1.0",
-        "llm-gemini 0.31",
-        "Big Words",
-        "Smoothed polygons"
-      ],
-      "tweet_drafts": [
-        "Prolost Watches 1.0",
-        "llm-gemini 0.31",
-        "Big Words"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Prolost Watches 1.0",
-          "link": "https://prolost.com/blog/prolostwatches"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "llm-gemini 0.31",
-          "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Big Words",
-          "link": "https://simonwillison.net/2026/May/7/big-words/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-05-07 技术日报：Prolost Watches 1.0；llm-gemini 0.31；Big Words。",
-      "summary_en": "Daily brief (2026-05-07): Prolost Watches 1.0; llm-gemini 0.31; Big Words.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-07 日报】Prolost Watches 1.0；llm-gemini 0.31；Big Words。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-07): Prolost Watches 1.0; llm-gemini 0.31; Big Words. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-07）\n- Prolost Watches 1.0\n- llm-gemini 0.31\n- Big Words\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://prolost.com/blog/prolostwatches\n- https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything\n- https://simonwillison.net/2026/May/7/big-words/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-07)\n- Prolost Watches 1.0\n- llm-gemini 0.31\n- Big Words\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://prolost.com/blog/prolostwatches\n- https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything\n- https://simonwillison.net/2026/May/7/big-words/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Prolost Watches 1.0；llm-gemini 0.31；Big Words。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Prolost Watches 1.0; llm-gemini 0.31; Big Words.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
