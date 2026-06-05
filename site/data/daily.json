@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:29:03Z",
+  "generated_at": "2026-06-05T22:52:20Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,22 +48,22 @@
     },
     {
       "date": "2026-06-05",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "herman.bearblog.dev (1)",
-        "it-notes.dragas.net (1)",
-        "jeffgeerling.com (1)"
+        "it-notes.dragas.net (1)"
       ],
       "highlights": [
         "pluralistic.net · Pluralistic: Refining humanity (05 Jun 2026)",
         "daringfireball.net · Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links",
         "wheresyoured.at · Premium: The Hater's Guide To The AI Bubble 3.0",
         "daringfireball.net · Checking in on Perplexity",
-        "jeffgeerling.com · I tested every IP KVM in my Homelab",
-        "johndcook.com · Mr. Bessel’s eponymous functions"
+        "devblogs.microsoft.com/oldnewthing · The back cover of C++: The Programming Language also raises questions not answered by the front cover",
+        "jeffgeerling.com · I tested every IP KVM in my Homelab"
       ],
       "key_points": [
         "Pluralistic: Refining humanity (05 Jun 2026)",
@@ -593,27 +593,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1354,8 +1354,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
