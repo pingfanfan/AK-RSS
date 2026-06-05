@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-05 14:59:09 UTC
+Generated at: 2026-06-05 16:03:46 UTC
 
-- [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) (`jeffgeerling.com`)
-- [Install-script allowlists](https://nesbitt.io/2026/06/05/install-script-allowlists.html) (`nesbitt.io`)
+- [Checking in on Perplexity](https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity) (`daringfireball.net`)
+- [Premium: The Hater's Guide To The AI Bubble 3.0](https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/) (`wheresyoured.at`)
