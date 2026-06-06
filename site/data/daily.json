@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T09:45:40Z",
+  "generated_at": "2026-06-06T10:34:44Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,43 +48,50 @@
     },
     {
       "date": "2026-06-06",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "idiallo.com (1)",
         "joanwestenberg.com (1)",
+        "nesbitt.io (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · This Week in Package Management: 6 June 2026",
         "simonwillison.net · micropython-wasm 0.1a2",
         "joanwestenberg.com · In pursuit of desirable difficulties",
         "utcc.utoronto.ca/~cks · It seems unlikely that I'll have basic ARM servers to deal with",
         "idiallo.com · Why all the PRs?"
       ],
       "key_points": [
-        "micropython-wasm 0.1a2",
-        "In pursuit of desirable difficulties",
-        "It seems unlikely that I'll have basic ARM servers to deal with",
-        "Why all the PRs?"
-      ],
-      "key_points_zh": [
-        "micropython-wasm 0.1a2",
-        "In pursuit of desirable difficulties",
-        "It seems unlikely that I'll have basic ARM servers to deal with",
-        "Why all the PRs?"
-      ],
-      "key_points_en": [
-        "micropython-wasm 0.1a2",
-        "In pursuit of desirable difficulties",
-        "It seems unlikely that I'll have basic ARM servers to deal with",
-        "Why all the PRs?"
-      ],
-      "tweet_drafts": [
+        "This Week in Package Management: 6 June 2026",
         "micropython-wasm 0.1a2",
         "In pursuit of desirable difficulties",
         "It seems unlikely that I'll have basic ARM servers to deal with"
       ],
+      "key_points_zh": [
+        "This Week in Package Management: 6 June 2026",
+        "micropython-wasm 0.1a2",
+        "In pursuit of desirable difficulties",
+        "It seems unlikely that I'll have basic ARM servers to deal with"
+      ],
+      "key_points_en": [
+        "This Week in Package Management: 6 June 2026",
+        "micropython-wasm 0.1a2",
+        "In pursuit of desirable difficulties",
+        "It seems unlikely that I'll have basic ARM servers to deal with"
+      ],
+      "tweet_drafts": [
+        "This Week in Package Management: 6 June 2026",
+        "micropython-wasm 0.1a2",
+        "In pursuit of desirable difficulties"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "This Week in Package Management: 6 June 2026",
+          "link": "https://nesbitt.io/2026/06/06/this-week-in-package-management.html"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "micropython-wasm 0.1a2",
@@ -94,27 +101,22 @@
           "feed_title": "joanwestenberg.com",
           "title": "In pursuit of desirable difficulties",
           "link": "https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "It seems unlikely that I'll have basic ARM servers to deal with",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely"
         }
       ],
-      "summary_zh": "2026-06-06 技术日报：micropython-wasm 0.1a2；In pursuit of desirable difficulties；It seems unlikely that I'll have basic ARM servers to deal with。",
-      "summary_en": "Daily brief (2026-06-06): micropython-wasm 0.1a2; In pursuit of desirable difficulties; It seems unlikely that I'll have basic ARM servers to deal with.",
+      "summary_zh": "2026-06-06 技术日报：This Week in Package Management: 6 June 2026；micropython-wasm 0.1a2；In pursuit of desirable difficulties。",
+      "summary_en": "Daily brief (2026-06-06): This Week in Package Management: 6 June 2026; micropython-wasm 0.1a2; In pursuit of desirable difficulties.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-06 日报】micropython-wasm 0.1a2；In pursuit of desirable difficulties；It seems unlikely that I'll have basic ARM servers to deal with。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-06): micropython-wasm 0.1a2; In pursuit of desirable difficulties; It seems unlikely that I'll have basic ARM servers to deal with. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-06 日报】This Week in Package Management: 6 June 2026；micropython-wasm 0.1a2；In pursuit of desirable difficulties。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-06): This Week in Package Management: 6 June 2026; micropython-wasm 0.1a2; In pursuit of desirable difficulties. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-06）\n- micropython-wasm 0.1a2\n- In pursuit of desirable difficulties\n- It seems unlikely that I'll have basic ARM servers to deal with\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything\n- https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-06)\n- micropython-wasm 0.1a2\n- In pursuit of desirable difficulties\n- It seems unlikely that I'll have basic ARM servers to deal with\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything\n- https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-06）\n- This Week in Package Management: 6 June 2026\n- micropython-wasm 0.1a2\n- In pursuit of desirable difficulties\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/06/06/this-week-in-package-management.html\n- https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything\n- https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-06)\n- This Week in Package Management: 6 June 2026\n- micropython-wasm 0.1a2\n- In pursuit of desirable difficulties\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/06/06/this-week-in-package-management.html\n- https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything\n- https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：micropython-wasm 0.1a2；In pursuit of desirable difficulties；It seems unlikely that I'll have basic ARM servers to deal with。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: micropython-wasm 0.1a2; In pursuit of desirable difficulties; It seems unlikely that I'll have basic ARM servers to deal with.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：This Week in Package Management: 6 June 2026；micropython-wasm 0.1a2；In pursuit of desirable difficulties。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: This Week in Package Management: 6 June 2026; micropython-wasm 0.1a2; In pursuit of desirable difficulties.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -665,27 +667,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
