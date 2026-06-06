@@ -1,5 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-05 22:52:05 UTC
+Generated at: 2026-06-06 06:57:39 UTC
 
-- [The back cover of C++: The Programming Language also raises questions not answered by the front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391) (`devblogs.microsoft.com/oldnewthing`)
+- [micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) (`simonwillison.net`)
+- [Why all the PRs?](https://idiallo.com/blog/why-all-the-prs) (`idiallo.com`)
+- [It seems unlikely that I'll have basic ARM servers to deal with](https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely) (`utcc.utoronto.ca/~cks`)
+- [In pursuit of desirable difficulties](https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/) (`joanwestenberg.com`)

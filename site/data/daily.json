@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:52:20Z",
+  "generated_at": "2026-06-06T06:57:53Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -43,6 +43,78 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Giving your Go apps Tigris superpowers。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Giving your Go apps Tigris superpowers.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "total": 4,
+      "feeds": [
+        "idiallo.com (1)",
+        "joanwestenberg.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · micropython-wasm 0.1a2",
+        "joanwestenberg.com · In pursuit of desirable difficulties",
+        "utcc.utoronto.ca/~cks · It seems unlikely that I'll have basic ARM servers to deal with",
+        "idiallo.com · Why all the PRs?"
+      ],
+      "key_points": [
+        "micropython-wasm 0.1a2",
+        "In pursuit of desirable difficulties",
+        "It seems unlikely that I'll have basic ARM servers to deal with",
+        "Why all the PRs?"
+      ],
+      "key_points_zh": [
+        "micropython-wasm 0.1a2",
+        "In pursuit of desirable difficulties",
+        "It seems unlikely that I'll have basic ARM servers to deal with",
+        "Why all the PRs?"
+      ],
+      "key_points_en": [
+        "micropython-wasm 0.1a2",
+        "In pursuit of desirable difficulties",
+        "It seems unlikely that I'll have basic ARM servers to deal with",
+        "Why all the PRs?"
+      ],
+      "tweet_drafts": [
+        "micropython-wasm 0.1a2",
+        "In pursuit of desirable difficulties",
+        "It seems unlikely that I'll have basic ARM servers to deal with"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "micropython-wasm 0.1a2",
+          "link": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything"
+        },
+        {
+          "feed_title": "joanwestenberg.com",
+          "title": "In pursuit of desirable difficulties",
+          "link": "https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "It seems unlikely that I'll have basic ARM servers to deal with",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely"
+        }
+      ],
+      "summary_zh": "2026-06-06 技术日报：micropython-wasm 0.1a2；In pursuit of desirable difficulties；It seems unlikely that I'll have basic ARM servers to deal with。",
+      "summary_en": "Daily brief (2026-06-06): micropython-wasm 0.1a2; In pursuit of desirable difficulties; It seems unlikely that I'll have basic ARM servers to deal with.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-06 日报】micropython-wasm 0.1a2；In pursuit of desirable difficulties；It seems unlikely that I'll have basic ARM servers to deal with。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-06): micropython-wasm 0.1a2; In pursuit of desirable difficulties; It seems unlikely that I'll have basic ARM servers to deal with. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-06）\n- micropython-wasm 0.1a2\n- In pursuit of desirable difficulties\n- It seems unlikely that I'll have basic ARM servers to deal with\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything\n- https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-06)\n- micropython-wasm 0.1a2\n- In pursuit of desirable difficulties\n- It seems unlikely that I'll have basic ARM servers to deal with\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything\n- https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/\n- https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：micropython-wasm 0.1a2；In pursuit of desirable difficulties；It seems unlikely that I'll have basic ARM servers to deal with。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: micropython-wasm 0.1a2; In pursuit of desirable difficulties; It seems unlikely that I'll have basic ARM servers to deal with.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -670,8 +742,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2171,82 +2243,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Using a Python 3 LSP server with Python 2 code works (more or less)；Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)；Reading List 05/09/2026。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Using a Python 3 LSP server with Python 2 code works (more or less); Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026); Reading List 05/09/2026.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-08",
-      "total": 21,
-      "feeds": [
-        "berthub.eu (1)",
-        "borretti.me (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "filfre.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Using Claude Code: The Unreasonable Effectiveness of HTML",
-        "berthub.eu · George Orwell's review of Russel's Power: A New Social Analysis",
-        "dwarkesh.com · David Reich – Why the Bronze Age was an inflection point in human evolution",
-        "filfre.net · This Week on The Analog Antiquarian",
-        "wheresyoured.at · Premium: AI's Circular Psychosis",
-        "jeffgeerling.com · HomePod mini feels like magic, but it's just good timing"
-      ],
-      "key_points": [
-        "Using Claude Code: The Unreasonable Effectiveness of HTML",
-        "George Orwell's review of Russel's Power: A New Social Analysis",
-        "David Reich – Why the Bronze Age was an inflection point in human evolution",
-        "This Week on The Analog Antiquarian"
-      ],
-      "key_points_zh": [
-        "Using Claude Code: The Unreasonable Effectiveness of HTML",
-        "George Orwell's review of Russel's Power: A New Social Analysis",
-        "David Reich – Why the Bronze Age was an inflection point in human evolution",
-        "This Week on The Analog Antiquarian"
-      ],
-      "key_points_en": [
-        "Using Claude Code: The Unreasonable Effectiveness of HTML",
-        "George Orwell's review of Russel's Power: A New Social Analysis",
-        "David Reich – Why the Bronze Age was an inflection point in human evolution",
-        "This Week on The Analog Antiquarian"
-      ],
-      "tweet_drafts": [
-        "Using Claude Code: The Unreasonable Effectiveness of HTML",
-        "George Orwell's review of Russel's Power: A New Social Analysis",
-        "David Reich – Why the Bronze Age was an inflection point in human evolution"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
-          "link": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "George Orwell's review of Russel's Power: A New Social Analysis",
-          "link": "https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "David Reich – Why the Bronze Age was an inflection point in human evolution",
-          "link": "https://www.dwarkesh.com/p/david-reich-2"
-        }
-      ],
-      "summary_zh": "2026-05-08 技术日报：Using Claude Code: The Unreasonable Effectiveness of HTML；George Orwell's review of Russel's Power: A New Social Analysis；David Reich – Why the Bronze Age was an inflection point in human evolution。",
-      "summary_en": "Daily brief (2026-05-08): Using Claude Code: The Unreasonable Effectiveness of HTML; George Orwell's review of Russel's Power: A New Social Analysis; David Reich – Why the Bronze Age was an inflection point in human evolution.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-08 日报】Using Claude Code: The Unreasonable Effectiveness of HTML；George Orwell's review of Russel's Power: A New Social Analysis；David Reich – Why the Bronze Age was an inflection point in human evolution。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-08): Using Claude Code: The Unreasonable Effectiveness of HTML; George Orwell's review of Russel's Power: A New Social Analysis; David Reich – Why the Bronze Age was an inflection point in human evolution. Actionable takeaways included. W"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-08）\n- Using Claude Code: The Unreasonable Effectiveness of HTML\n- George Orwell's review of Russel's Power: A New Social Analysis\n- David Reich – Why the Bronze Age was an inflection point in human evolution\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything\n- https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/\n- https://www.dwarkesh.com/p/david-reich-2\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-08)\n- Using Claude Code: The Unreasonable Effectiveness of HTML\n- George Orwell's review of Russel's Power: A New Social Analysis\n- David Reich – Why the Bronze Age was an inflection point in human evolution\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything\n- https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/\n- https://www.dwarkesh.com/p/david-reich-2\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Using Claude Code: The Unreasonable Effectiveness of HTML；George Orwell's review of Russel's Power: A New Social Analysis；David Reich – Why the Bronze Age was an inflection point in human evolution。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Using Claude Code: The Unreasonable Effectiveness of HTML; George Orwell's review of Russel's Power: A New Social Analysis; David Reich – Why the Bronze Age was an inflection point in human evolution.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
