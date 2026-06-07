@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-07 20:32:20 UTC
+Generated at: 2026-06-07 21:23:41 UTC
 
-- [Aitken acceleration before Aitken](https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/) (`johndcook.com`)
