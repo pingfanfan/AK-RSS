@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T10:52:25Z",
+  "generated_at": "2026-06-07T11:31:25Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,15 +48,17 @@
     },
     {
       "date": "2026-06-07",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "antirez.com (1)",
+        "berthub.eu (1)",
         "daringfireball.net (1)",
         "eli.thegreenplace.net (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "berthub.eu · KPN Interactieve TV zonder Experia Box",
         "antirez.com · A new era for software testing",
         "tedium.co · Copping My Style",
         "utcc.utoronto.ca/~cks · 'Vim' has many faces",
@@ -64,29 +66,34 @@
         "eli.thegreenplace.net · Thoughts on starting new projects with LLM agents"
       ],
       "key_points": [
-        "A new era for software testing",
-        "Copping My Style",
-        "'Vim' has many faces",
-        "Halide Mark III"
-      ],
-      "key_points_zh": [
-        "A new era for software testing",
-        "Copping My Style",
-        "'Vim' has many faces",
-        "Halide Mark III"
-      ],
-      "key_points_en": [
-        "A new era for software testing",
-        "Copping My Style",
-        "'Vim' has many faces",
-        "Halide Mark III"
-      ],
-      "tweet_drafts": [
+        "KPN Interactieve TV zonder Experia Box",
         "A new era for software testing",
         "Copping My Style",
         "'Vim' has many faces"
       ],
+      "key_points_zh": [
+        "KPN Interactieve TV zonder Experia Box",
+        "A new era for software testing",
+        "Copping My Style",
+        "'Vim' has many faces"
+      ],
+      "key_points_en": [
+        "KPN Interactieve TV zonder Experia Box",
+        "A new era for software testing",
+        "Copping My Style",
+        "'Vim' has many faces"
+      ],
+      "tweet_drafts": [
+        "KPN Interactieve TV zonder Experia Box",
+        "A new era for software testing",
+        "Copping My Style"
+      ],
       "sources": [
+        {
+          "feed_title": "berthub.eu",
+          "title": "KPN Interactieve TV zonder Experia Box",
+          "link": "https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/"
+        },
         {
           "feed_title": "antirez.com",
           "title": "A new era for software testing",
@@ -96,27 +103,22 @@
           "feed_title": "tedium.co",
           "title": "Copping My Style",
           "link": "https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "'Vim' has many faces",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces"
         }
       ],
-      "summary_zh": "2026-06-07 技术日报：A new era for software testing；Copping My Style；'Vim' has many faces。",
-      "summary_en": "Daily brief (2026-06-07): A new era for software testing; Copping My Style; 'Vim' has many faces.",
+      "summary_zh": "2026-06-07 技术日报：KPN Interactieve TV zonder Experia Box；A new era for software testing；Copping My Style。",
+      "summary_en": "Daily brief (2026-06-07): KPN Interactieve TV zonder Experia Box; A new era for software testing; Copping My Style.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-07 日报】A new era for software testing；Copping My Style；'Vim' has many faces。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-07): A new era for software testing; Copping My Style; 'Vim' has many faces. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-07 日报】KPN Interactieve TV zonder Experia Box；A new era for software testing；Copping My Style。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-07): KPN Interactieve TV zonder Experia Box; A new era for software testing; Copping My Style. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-07）\n- A new era for software testing\n- Copping My Style\n- 'Vim' has many faces\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-07)\n- A new era for software testing\n- Copping My Style\n- 'Vim' has many faces\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-07）\n- KPN Interactieve TV zonder Experia Box\n- A new era for software testing\n- Copping My Style\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-07)\n- KPN Interactieve TV zonder Experia Box\n- A new era for software testing\n- Copping My Style\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A new era for software testing；Copping My Style；'Vim' has many faces。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A new era for software testing; Copping My Style; 'Vim' has many faces.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：KPN Interactieve TV zonder Experia Box；A new era for software testing；Copping My Style。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: KPN Interactieve TV zonder Experia Box; A new era for software testing; Copping My Style.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -743,27 +745,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1504,8 +1506,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
