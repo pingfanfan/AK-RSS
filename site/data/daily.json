@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T22:47:44Z",
+  "generated_at": "2026-06-07T07:16:26Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -43,6 +43,78 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Giving your Go apps Tigris superpowers。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Giving your Go apps Tigris superpowers.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "total": 4,
+      "feeds": [
+        "daringfireball.net (1)",
+        "eli.thegreenplace.net (1)",
+        "tedium.co (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "tedium.co · Copping My Style",
+        "utcc.utoronto.ca/~cks · 'Vim' has many faces",
+        "daringfireball.net · Halide Mark III",
+        "eli.thegreenplace.net · Thoughts on starting new projects with LLM agents"
+      ],
+      "key_points": [
+        "Copping My Style",
+        "'Vim' has many faces",
+        "Halide Mark III",
+        "Thoughts on starting new projects with LLM agents"
+      ],
+      "key_points_zh": [
+        "Copping My Style",
+        "'Vim' has many faces",
+        "Halide Mark III",
+        "Thoughts on starting new projects with LLM agents"
+      ],
+      "key_points_en": [
+        "Copping My Style",
+        "'Vim' has many faces",
+        "Halide Mark III",
+        "Thoughts on starting new projects with LLM agents"
+      ],
+      "tweet_drafts": [
+        "Copping My Style",
+        "'Vim' has many faces",
+        "Halide Mark III"
+      ],
+      "sources": [
+        {
+          "feed_title": "tedium.co",
+          "title": "Copping My Style",
+          "link": "https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "'Vim' has many faces",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Halide Mark III",
+          "link": "https://www.lux.camera/halide-mark-iii/"
+        }
+      ],
+      "summary_zh": "2026-06-07 技术日报：Copping My Style；'Vim' has many faces；Halide Mark III。",
+      "summary_en": "Daily brief (2026-06-07): Copping My Style; 'Vim' has many faces; Halide Mark III.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-07 日报】Copping My Style；'Vim' has many faces；Halide Mark III。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-07): Copping My Style; 'Vim' has many faces; Halide Mark III. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-07）\n- Copping My Style\n- 'Vim' has many faces\n- Halide Mark III\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n- https://www.lux.camera/halide-mark-iii/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-07)\n- Copping My Style\n- 'Vim' has many faces\n- Halide Mark III\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n- https://www.lux.camera/halide-mark-iii/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Copping My Style；'Vim' has many faces；Halide Mark III。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Copping My Style; 'Vim' has many faces; Halide Mark III.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2171,82 +2243,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Out With the JS, In With the HTML；The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Out With the JS, In With the HTML; The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-09",
-      "total": 11,
-      "feeds": [
-        "utcc.utoronto.ca/~cks (2)",
-        "computer.rip (1)",
-        "construction-physics.com (1)",
-        "geohot.github.io (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
-      ],
-      "highlights": [
-        "utcc.utoronto.ca/~cks · Using a Python 3 LSP server with Python 2 code works (more or less)",
-        "pluralistic.net · Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
-        "construction-physics.com · Reading List 05/09/2026",
-        "shkspr.mobi · Book Review: The Names by Florence Knapp ★★⯪☆☆",
-        "nesbitt.io · The Mismeasure of Open Source",
-        "geohot.github.io · The Real Singularity is the Friends We Made Along the Way"
-      ],
-      "key_points": [
-        "Using a Python 3 LSP server with Python 2 code works (more or less)",
-        "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
-        "Reading List 05/09/2026",
-        "Book Review: The Names by Florence Knapp ★★⯪☆☆"
-      ],
-      "key_points_zh": [
-        "Using a Python 3 LSP server with Python 2 code works (more or less)",
-        "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
-        "Reading List 05/09/2026",
-        "Book Review: The Names by Florence Knapp ★★⯪☆☆"
-      ],
-      "key_points_en": [
-        "Using a Python 3 LSP server with Python 2 code works (more or less)",
-        "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
-        "Reading List 05/09/2026",
-        "Book Review: The Names by Florence Knapp ★★⯪☆☆"
-      ],
-      "tweet_drafts": [
-        "Using a Python 3 LSP server with Python 2 code works (more or less)",
-        "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
-        "Reading List 05/09/2026"
-      ],
-      "sources": [
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Using a Python 3 LSP server with Python 2 code works (more or less)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
-          "link": "https://pluralistic.net/2026/05/09/cossie-livvie-crissie/"
-        },
-        {
-          "feed_title": "construction-physics.com",
-          "title": "Reading List 05/09/2026",
-          "link": "https://www.construction-physics.com/p/reading-list-05092026"
-        }
-      ],
-      "summary_zh": "2026-05-09 技术日报：Using a Python 3 LSP server with Python 2 code works (more or less)；Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)；Reading List 05/09/2026。",
-      "summary_en": "Daily brief (2026-05-09): Using a Python 3 LSP server with Python 2 code works (more or less); Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026); Reading List 05/09/2026.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-09 日报】Using a Python 3 LSP server with Python 2 code works (more or less)；Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)；Reading List 05/09/2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-09): Using a Python 3 LSP server with Python 2 code works (more or less); Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026); Reading List 05/09/2026. Actionable takeaways included. What would you ship next? #AI #Engine"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-09）\n- Using a Python 3 LSP server with Python 2 code works (more or less)\n- Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)\n- Reading List 05/09/2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP\n- https://pluralistic.net/2026/05/09/cossie-livvie-crissie/\n- https://www.construction-physics.com/p/reading-list-05092026\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-09)\n- Using a Python 3 LSP server with Python 2 code works (more or less)\n- Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)\n- Reading List 05/09/2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP\n- https://pluralistic.net/2026/05/09/cossie-livvie-crissie/\n- https://www.construction-physics.com/p/reading-list-05092026\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Using a Python 3 LSP server with Python 2 code works (more or less)；Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)；Reading List 05/09/2026。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Using a Python 3 LSP server with Python 2 code works (more or less); Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026); Reading List 05/09/2026.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
