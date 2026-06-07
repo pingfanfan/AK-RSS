@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T08:31:59Z",
+  "generated_at": "2026-06-07T09:59:23Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,43 +48,50 @@
     },
     {
       "date": "2026-06-07",
-      "total": 4,
+      "total": 5,
       "feeds": [
+        "antirez.com (1)",
         "daringfireball.net (1)",
         "eli.thegreenplace.net (1)",
         "tedium.co (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "antirez.com · A new era for software testing",
         "tedium.co · Copping My Style",
         "utcc.utoronto.ca/~cks · 'Vim' has many faces",
         "daringfireball.net · Halide Mark III",
         "eli.thegreenplace.net · Thoughts on starting new projects with LLM agents"
       ],
       "key_points": [
-        "Copping My Style",
-        "'Vim' has many faces",
-        "Halide Mark III",
-        "Thoughts on starting new projects with LLM agents"
-      ],
-      "key_points_zh": [
-        "Copping My Style",
-        "'Vim' has many faces",
-        "Halide Mark III",
-        "Thoughts on starting new projects with LLM agents"
-      ],
-      "key_points_en": [
-        "Copping My Style",
-        "'Vim' has many faces",
-        "Halide Mark III",
-        "Thoughts on starting new projects with LLM agents"
-      ],
-      "tweet_drafts": [
+        "A new era for software testing",
         "Copping My Style",
         "'Vim' has many faces",
         "Halide Mark III"
       ],
+      "key_points_zh": [
+        "A new era for software testing",
+        "Copping My Style",
+        "'Vim' has many faces",
+        "Halide Mark III"
+      ],
+      "key_points_en": [
+        "A new era for software testing",
+        "Copping My Style",
+        "'Vim' has many faces",
+        "Halide Mark III"
+      ],
+      "tweet_drafts": [
+        "A new era for software testing",
+        "Copping My Style",
+        "'Vim' has many faces"
+      ],
       "sources": [
+        {
+          "feed_title": "antirez.com",
+          "title": "A new era for software testing",
+          "link": "http://antirez.com/news/168"
+        },
         {
           "feed_title": "tedium.co",
           "title": "Copping My Style",
@@ -94,27 +101,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "'Vim' has many faces",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Halide Mark III",
-          "link": "https://www.lux.camera/halide-mark-iii/"
         }
       ],
-      "summary_zh": "2026-06-07 技术日报：Copping My Style；'Vim' has many faces；Halide Mark III。",
-      "summary_en": "Daily brief (2026-06-07): Copping My Style; 'Vim' has many faces; Halide Mark III.",
+      "summary_zh": "2026-06-07 技术日报：A new era for software testing；Copping My Style；'Vim' has many faces。",
+      "summary_en": "Daily brief (2026-06-07): A new era for software testing; Copping My Style; 'Vim' has many faces.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-07 日报】Copping My Style；'Vim' has many faces；Halide Mark III。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-07): Copping My Style; 'Vim' has many faces; Halide Mark III. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-07 日报】A new era for software testing；Copping My Style；'Vim' has many faces。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-07): A new era for software testing; Copping My Style; 'Vim' has many faces. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-07）\n- Copping My Style\n- 'Vim' has many faces\n- Halide Mark III\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n- https://www.lux.camera/halide-mark-iii/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-07)\n- Copping My Style\n- 'Vim' has many faces\n- Halide Mark III\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n- https://www.lux.camera/halide-mark-iii/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-07）\n- A new era for software testing\n- Copping My Style\n- 'Vim' has many faces\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-07)\n- A new era for software testing\n- Copping My Style\n- 'Vim' has many faces\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n- https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Copping My Style；'Vim' has many faces；Halide Mark III。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Copping My Style; 'Vim' has many faces; Halide Mark III.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A new era for software testing；Copping My Style；'Vim' has many faces。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A new era for software testing; Copping My Style; 'Vim' has many faces.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -741,27 +743,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
