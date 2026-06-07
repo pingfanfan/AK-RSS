@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-07 21:50:30 UTC
+Generated at: 2026-06-07 22:19:44 UTC
 
-- [Arp 297:](https://maurycyz.com/astro/arp297/) (`maurycyz.com`)
+- [Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/) (`seangoedecke.com`)
