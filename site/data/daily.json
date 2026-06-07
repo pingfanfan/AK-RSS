@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T16:30:24Z",
+  "generated_at": "2026-06-07T16:58:09Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,77 +48,77 @@
     },
     {
       "date": "2026-06-07",
-      "total": 6,
+      "total": 8,
       "feeds": [
         "antirez.com (1)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
         "eli.thegreenplace.net (1)",
-        "tedium.co (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "johndcook.com (1)",
+        "righto.com (1)"
       ],
       "highlights": [
+        "righto.com · Powering up a module from the IBM 604: an electronic calculator from 1948",
+        "johndcook.com · A crank formula for π",
         "berthub.eu · KPN Interactieve TV zonder Experia Box",
         "antirez.com · A new era for software testing",
         "tedium.co · Copping My Style",
-        "utcc.utoronto.ca/~cks · 'Vim' has many faces",
-        "daringfireball.net · Halide Mark III",
-        "eli.thegreenplace.net · Thoughts on starting new projects with LLM agents"
+        "utcc.utoronto.ca/~cks · 'Vim' has many faces"
       ],
       "key_points": [
+        "Powering up a module from the IBM 604: an electronic calculator from 1948",
+        "A crank formula for π",
         "KPN Interactieve TV zonder Experia Box",
-        "A new era for software testing",
-        "Copping My Style",
-        "'Vim' has many faces"
+        "A new era for software testing"
       ],
       "key_points_zh": [
+        "Powering up a module from the IBM 604: an electronic calculator from 1948",
+        "A crank formula for π",
         "KPN Interactieve TV zonder Experia Box",
-        "A new era for software testing",
-        "Copping My Style",
-        "'Vim' has many faces"
+        "A new era for software testing"
       ],
       "key_points_en": [
+        "Powering up a module from the IBM 604: an electronic calculator from 1948",
+        "A crank formula for π",
         "KPN Interactieve TV zonder Experia Box",
-        "A new era for software testing",
-        "Copping My Style",
-        "'Vim' has many faces"
+        "A new era for software testing"
       ],
       "tweet_drafts": [
-        "KPN Interactieve TV zonder Experia Box",
-        "A new era for software testing",
-        "Copping My Style"
+        "Powering up a module from the IBM 604: an electronic calculator from 1948",
+        "A crank formula for π",
+        "KPN Interactieve TV zonder Experia Box"
       ],
       "sources": [
+        {
+          "feed_title": "righto.com",
+          "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+          "link": "http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "A crank formula for π",
+          "link": "https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/"
+        },
         {
           "feed_title": "berthub.eu",
           "title": "KPN Interactieve TV zonder Experia Box",
           "link": "https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/"
-        },
-        {
-          "feed_title": "antirez.com",
-          "title": "A new era for software testing",
-          "link": "http://antirez.com/news/168"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Copping My Style",
-          "link": "https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary"
         }
       ],
-      "summary_zh": "2026-06-07 技术日报：KPN Interactieve TV zonder Experia Box；A new era for software testing；Copping My Style。",
-      "summary_en": "Daily brief (2026-06-07): KPN Interactieve TV zonder Experia Box; A new era for software testing; Copping My Style.",
+      "summary_zh": "2026-06-07 技术日报：Powering up a module from the IBM 604: an electronic calculator from 1948；A crank formula for π；KPN Interactieve TV zonder Experia Box。",
+      "summary_en": "Daily brief (2026-06-07): Powering up a module from the IBM 604: an electronic calculator from 1948; A crank formula for π; KPN Interactieve TV zonder Experia Box.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-07 日报】KPN Interactieve TV zonder Experia Box；A new era for software testing；Copping My Style。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-07): KPN Interactieve TV zonder Experia Box; A new era for software testing; Copping My Style. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-07 日报】Powering up a module from the IBM 604: an electronic calculator from 1948；A crank formula for π；KPN Interactieve TV zonder Experia Box。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-07): Powering up a module from the IBM 604: an electronic calculator from 1948; A crank formula for π; KPN Interactieve TV zonder Experia Box. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-07）\n- KPN Interactieve TV zonder Experia Box\n- A new era for software testing\n- Copping My Style\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-07)\n- KPN Interactieve TV zonder Experia Box\n- A new era for software testing\n- Copping My Style\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/\n- http://antirez.com/news/168\n- https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-07）\n- Powering up a module from the IBM 604: an electronic calculator from 1948\n- A crank formula for π\n- KPN Interactieve TV zonder Experia Box\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html\n- https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/\n- https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-07)\n- Powering up a module from the IBM 604: an electronic calculator from 1948\n- A crank formula for π\n- KPN Interactieve TV zonder Experia Box\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html\n- https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/\n- https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：KPN Interactieve TV zonder Experia Box；A new era for software testing；Copping My Style。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: KPN Interactieve TV zonder Experia Box; A new era for software testing; Copping My Style.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Powering up a module from the IBM 604: an electronic calculator from 1948；A crank formula for π；KPN Interactieve TV zonder Experia Box。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Powering up a module from the IBM 604: an electronic calculator from 1948; A crank formula for π; KPN Interactieve TV zonder Experia Box.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -822,8 +822,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1506,8 +1506,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
