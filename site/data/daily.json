@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:48:35Z",
+  "generated_at": "2026-06-08T07:30:19Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -47,46 +47,102 @@
       }
     },
     {
+      "date": "2026-06-08",
+      "total": 2,
+      "feeds": [
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Should we care any more about Googlebot crawling our sites?",
+        "simonwillison.net · datasette-agent-edit 0.1a0"
+      ],
+      "key_points": [
+        "Should we care any more about Googlebot crawling our sites?",
+        "datasette-agent-edit 0.1a0"
+      ],
+      "key_points_zh": [
+        "Should we care any more about Googlebot crawling our sites?",
+        "datasette-agent-edit 0.1a0"
+      ],
+      "key_points_en": [
+        "Should we care any more about Googlebot crawling our sites?",
+        "datasette-agent-edit 0.1a0"
+      ],
+      "tweet_drafts": [
+        "Should we care any more about Googlebot crawling our sites?",
+        "datasette-agent-edit 0.1a0"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Should we care any more about Googlebot crawling our sites?",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette-agent-edit 0.1a0",
+          "link": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-06-08 技术日报：Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。",
+      "summary_en": "Daily brief (2026-06-08): Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-08 日报】Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-08): Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-08）\n- Should we care any more about Googlebot crawling our sites?\n- datasette-agent-edit 0.1a0\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling\n- https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-08)\n- Should we care any more about Googlebot crawling our sites?\n- datasette-agent-edit 0.1a0\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling\n- https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-07",
-      "total": 11,
+      "total": 13,
       "feeds": [
         "johndcook.com (3)",
         "antirez.com (1)",
         "berthub.eu (1)",
+        "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
-        "eli.thegreenplace.net (1)",
-        "maurycyz.com (1)"
+        "eli.thegreenplace.net (1)"
       ],
       "highlights": [
         "johndcook.com · Aitken acceleration before Aitken",
         "johndcook.com · The Laplace limit",
+        "blog.jim-nielsen.com · Coding Is Designing",
         "righto.com · Powering up a module from the IBM 604: an electronic calculator from 1948",
         "johndcook.com · A crank formula for π",
-        "berthub.eu · KPN Interactieve TV zonder Experia Box",
-        "antirez.com · A new era for software testing"
+        "berthub.eu · KPN Interactieve TV zonder Experia Box"
       ],
       "key_points": [
         "Aitken acceleration before Aitken",
         "The Laplace limit",
-        "Powering up a module from the IBM 604: an electronic calculator from 1948",
-        "A crank formula for π"
+        "Coding Is Designing",
+        "Powering up a module from the IBM 604: an electronic calculator from 1948"
       ],
       "key_points_zh": [
         "Aitken acceleration before Aitken",
         "The Laplace limit",
-        "Powering up a module from the IBM 604: an electronic calculator from 1948",
-        "A crank formula for π"
+        "Coding Is Designing",
+        "Powering up a module from the IBM 604: an electronic calculator from 1948"
       ],
       "key_points_en": [
         "Aitken acceleration before Aitken",
         "The Laplace limit",
-        "Powering up a module from the IBM 604: an electronic calculator from 1948",
-        "A crank formula for π"
+        "Coding Is Designing",
+        "Powering up a module from the IBM 604: an electronic calculator from 1948"
       ],
       "tweet_drafts": [
         "Aitken acceleration before Aitken",
         "The Laplace limit",
-        "Powering up a module from the IBM 604: an electronic calculator from 1948"
+        "Coding Is Designing"
       ],
       "sources": [
         {
@@ -100,25 +156,25 @@
           "link": "https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/"
         },
         {
-          "feed_title": "righto.com",
-          "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-          "link": "http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Coding Is Designing",
+          "link": "https://blog.jim-nielsen.com/2026/code-is-design/"
         }
       ],
-      "summary_zh": "2026-06-07 技术日报：Aitken acceleration before Aitken；The Laplace limit；Powering up a module from the IBM 604: an electronic calculator from 1948。",
-      "summary_en": "Daily brief (2026-06-07): Aitken acceleration before Aitken; The Laplace limit; Powering up a module from the IBM 604: an electronic calculator from 1948.",
+      "summary_zh": "2026-06-07 技术日报：Aitken acceleration before Aitken；The Laplace limit；Coding Is Designing。",
+      "summary_en": "Daily brief (2026-06-07): Aitken acceleration before Aitken; The Laplace limit; Coding Is Designing.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-07 日报】Aitken acceleration before Aitken；The Laplace limit；Powering up a module from the IBM 604: an electronic calculator from 1948。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-07): Aitken acceleration before Aitken; The Laplace limit; Powering up a module from the IBM 604: an electronic calculator from 1948. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-07 日报】Aitken acceleration before Aitken；The Laplace limit；Coding Is Designing。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-07): Aitken acceleration before Aitken; The Laplace limit; Coding Is Designing. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-07）\n- Aitken acceleration before Aitken\n- The Laplace limit\n- Powering up a module from the IBM 604: an electronic calculator from 1948\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/\n- https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/\n- http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-07)\n- Aitken acceleration before Aitken\n- The Laplace limit\n- Powering up a module from the IBM 604: an electronic calculator from 1948\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/\n- https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/\n- http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-07）\n- Aitken acceleration before Aitken\n- The Laplace limit\n- Coding Is Designing\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/\n- https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/\n- https://blog.jim-nielsen.com/2026/code-is-design/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-07)\n- Aitken acceleration before Aitken\n- The Laplace limit\n- Coding Is Designing\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/\n- https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/\n- https://blog.jim-nielsen.com/2026/code-is-design/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Aitken acceleration before Aitken；The Laplace limit；Powering up a module from the IBM 604: an electronic calculator from 1948。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Aitken acceleration before Aitken; The Laplace limit; Powering up a module from the IBM 604: an electronic calculator from 1948.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Aitken acceleration before Aitken；The Laplace limit；Coding Is Designing。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Aitken acceleration before Aitken; The Laplace limit; Coding Is Designing.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -822,8 +878,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2171,82 +2227,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Welcoming the Bangladesh Government to Have I Been Pwned；Regatta Starting Stations – Chi-squared Continued；iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Welcoming the Bangladesh Government to Have I Been Pwned; Regatta Starting Stations – Chi-squared Continued; iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026.\nI turned them into an action-ready daily brief you can"
-        }
-      }
-    },
-    {
-      "date": "2026-05-10",
-      "total": 7,
-      "feeds": [
-        "johndcook.com (2)",
-        "blog.jim-nielsen.com (1)",
-        "nesbitt.io (1)",
-        "seangoedecke.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
-      ],
-      "highlights": [
-        "blog.jim-nielsen.com · Out With the JS, In With the HTML",
-        "johndcook.com · The linear algebra of bit twiddling",
-        "johndcook.com · Reverse engineering Mersenne Twister with Linear Algebra",
-        "simonwillison.net · Quoting Andrew Quinn",
-        "shkspr.mobi · [RSS Club] A Sneak Preview of Upcoming Posts",
-        "nesbitt.io · Madame Semver Will See You Now"
-      ],
-      "key_points": [
-        "Out With the JS, In With the HTML",
-        "The linear algebra of bit twiddling",
-        "Reverse engineering Mersenne Twister with Linear Algebra",
-        "Quoting Andrew Quinn"
-      ],
-      "key_points_zh": [
-        "Out With the JS, In With the HTML",
-        "The linear algebra of bit twiddling",
-        "Reverse engineering Mersenne Twister with Linear Algebra",
-        "Quoting Andrew Quinn"
-      ],
-      "key_points_en": [
-        "Out With the JS, In With the HTML",
-        "The linear algebra of bit twiddling",
-        "Reverse engineering Mersenne Twister with Linear Algebra",
-        "Quoting Andrew Quinn"
-      ],
-      "tweet_drafts": [
-        "Out With the JS, In With the HTML",
-        "The linear algebra of bit twiddling",
-        "Reverse engineering Mersenne Twister with Linear Algebra"
-      ],
-      "sources": [
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Out With the JS, In With the HTML",
-          "link": "https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "The linear algebra of bit twiddling",
-          "link": "https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Reverse engineering Mersenne Twister with Linear Algebra",
-          "link": "https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/"
-        }
-      ],
-      "summary_zh": "2026-05-10 技术日报：Out With the JS, In With the HTML；The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra。",
-      "summary_en": "Daily brief (2026-05-10): Out With the JS, In With the HTML; The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-10 日报】Out With the JS, In With the HTML；The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-10): Out With the JS, In With the HTML; The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-10）\n- Out With the JS, In With the HTML\n- The linear algebra of bit twiddling\n- Reverse engineering Mersenne Twister with Linear Algebra\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/\n- https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-10)\n- Out With the JS, In With the HTML\n- The linear algebra of bit twiddling\n- Reverse engineering Mersenne Twister with Linear Algebra\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/\n- https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/\n- https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Out With the JS, In With the HTML；The linear algebra of bit twiddling；Reverse engineering Mersenne Twister with Linear Algebra。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Out With the JS, In With the HTML; The linear algebra of bit twiddling; Reverse engineering Mersenne Twister with Linear Algebra.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
