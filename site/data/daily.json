@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T09:09:08Z",
+  "generated_at": "2026-06-08T11:12:31Z",
   "days": [
     {
       "date": "2026-06-09",
@@ -48,32 +48,43 @@
     },
     {
       "date": "2026-06-08",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "nesbitt.io (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Package Manager Patents",
         "utcc.utoronto.ca/~cks · Should we care any more about Googlebot crawling our sites?",
         "simonwillison.net · datasette-agent-edit 0.1a0"
       ],
       "key_points": [
+        "Package Manager Patents",
         "Should we care any more about Googlebot crawling our sites?",
         "datasette-agent-edit 0.1a0"
       ],
       "key_points_zh": [
+        "Package Manager Patents",
         "Should we care any more about Googlebot crawling our sites?",
         "datasette-agent-edit 0.1a0"
       ],
       "key_points_en": [
+        "Package Manager Patents",
         "Should we care any more about Googlebot crawling our sites?",
         "datasette-agent-edit 0.1a0"
       ],
       "tweet_drafts": [
+        "Package Manager Patents",
         "Should we care any more about Googlebot crawling our sites?",
         "datasette-agent-edit 0.1a0"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Manager Patents",
+          "link": "https://nesbitt.io/2026/06/08/package-manager-patents.html"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Should we care any more about Googlebot crawling our sites?",
@@ -85,20 +96,20 @@
           "link": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-08 技术日报：Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。",
-      "summary_en": "Daily brief (2026-06-08): Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0.",
+      "summary_zh": "2026-06-08 技术日报：Package Manager Patents；Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。",
+      "summary_en": "Daily brief (2026-06-08): Package Manager Patents; Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-08 日报】Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-08): Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-08 日报】Package Manager Patents；Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-08): Package Manager Patents; Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-08）\n- Should we care any more about Googlebot crawling our sites?\n- datasette-agent-edit 0.1a0\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling\n- https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-08)\n- Should we care any more about Googlebot crawling our sites?\n- datasette-agent-edit 0.1a0\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling\n- https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-08）\n- Package Manager Patents\n- Should we care any more about Googlebot crawling our sites?\n- datasette-agent-edit 0.1a0\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/06/08/package-manager-patents.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling\n- https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-08)\n- Package Manager Patents\n- Should we care any more about Googlebot crawling our sites?\n- datasette-agent-edit 0.1a0\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/06/08/package-manager-patents.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling\n- https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Package Manager Patents；Should we care any more about Googlebot crawling our sites?；datasette-agent-edit 0.1a0。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Package Manager Patents; Should we care any more about Googlebot crawling our sites?; datasette-agent-edit 0.1a0.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -878,8 +889,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1562,8 +1573,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
