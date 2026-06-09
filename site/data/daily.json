@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-09T13:49:12Z",
+  "generated_at": "2026-06-09T16:04:03Z",
   "days": [
     {
       "date": "2026-06-09",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
+        "herman.bearblog.dev (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "simonwillison.net (1)",
-        "steveblank.com (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "herman.bearblog.dev · Active recall",
         "pluralistic.net · Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
         "steveblank.com · Incorruptible",
         "dfarq.homeip.net · Apple II: Launched June 10, 1977",
         "nesbitt.io · Forms of Open Source Government",
-        "daringfireball.net · [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration",
-        "utcc.utoronto.ca/~cks · Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
+        "daringfireball.net · [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration"
       ],
       "key_points": [
-        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-        "Incorruptible",
-        "Apple II: Launched June 10, 1977",
-        "Forms of Open Source Government"
-      ],
-      "key_points_zh": [
-        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-        "Incorruptible",
-        "Apple II: Launched June 10, 1977",
-        "Forms of Open Source Government"
-      ],
-      "key_points_en": [
-        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-        "Incorruptible",
-        "Apple II: Launched June 10, 1977",
-        "Forms of Open Source Government"
-      ],
-      "tweet_drafts": [
+        "Active recall",
         "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
         "Incorruptible",
         "Apple II: Launched June 10, 1977"
       ],
+      "key_points_zh": [
+        "Active recall",
+        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
+        "Incorruptible",
+        "Apple II: Launched June 10, 1977"
+      ],
+      "key_points_en": [
+        "Active recall",
+        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
+        "Incorruptible",
+        "Apple II: Launched June 10, 1977"
+      ],
+      "tweet_drafts": [
+        "Active recall",
+        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
+        "Incorruptible"
+      ],
       "sources": [
+        {
+          "feed_title": "herman.bearblog.dev",
+          "title": "Active recall",
+          "link": "https://herman.bearblog.dev/active-recall/"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
@@ -53,27 +58,22 @@
           "feed_title": "steveblank.com",
           "title": "Incorruptible",
           "link": "https://steveblank.com/2026/06/09/incorruptible/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Apple II: Launched June 10, 1977",
-          "link": "https://dfarq.homeip.net/apple-ii-launched-june-10-1977/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=apple-ii-launched-june-10-1977"
         }
       ],
-      "summary_zh": "2026-06-09 技术日报：Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible；Apple II: Launched June 10, 1977。",
-      "summary_en": "Daily brief (2026-06-09): Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible; Apple II: Launched June 10, 1977.",
+      "summary_zh": "2026-06-09 技术日报：Active recall；Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible。",
+      "summary_en": "Daily brief (2026-06-09): Active recall; Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-09 日报】Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible；Apple II: Launched June 10, 1977。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-09): Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible; Apple II: Launched June 10, 1977. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-09 日报】Active recall；Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-09): Active recall; Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-09）\n- Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)\n- Incorruptible\n- Apple II: Launched June 10, 1977\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/06/09/deliver-us/\n- https://steveblank.com/2026/06/09/incorruptible/\n- https://dfarq.homeip.net/apple-ii-launched-june-10-1977/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=apple-ii-launched-june-10-1977\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-09)\n- Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)\n- Incorruptible\n- Apple II: Launched June 10, 1977\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/06/09/deliver-us/\n- https://steveblank.com/2026/06/09/incorruptible/\n- https://dfarq.homeip.net/apple-ii-launched-june-10-1977/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=apple-ii-launched-june-10-1977\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-09）\n- Active recall\n- Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)\n- Incorruptible\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://herman.bearblog.dev/active-recall/\n- https://pluralistic.net/2026/06/09/deliver-us/\n- https://steveblank.com/2026/06/09/incorruptible/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-09)\n- Active recall\n- Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)\n- Incorruptible\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://herman.bearblog.dev/active-recall/\n- https://pluralistic.net/2026/06/09/deliver-us/\n- https://steveblank.com/2026/06/09/incorruptible/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible；Apple II: Launched June 10, 1977。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible; Apple II: Launched June 10, 1977.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Active recall；Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Active recall; Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -852,27 +852,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -929,8 +929,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
