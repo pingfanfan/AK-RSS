@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-06-09T16:04:03Z",
+  "generated_at": "2026-06-09T17:16:21Z",
   "days": [
     {
       "date": "2026-06-09",
-      "total": 9,
+      "total": 11,
       "feeds": [
-        "daringfireball.net (1)",
+        "daringfireball.net (2)",
         "dfarq.homeip.net (1)",
+        "experimental-history.com (1)",
         "herman.bearblog.dev (1)",
         "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "simonwillison.net (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "experimental-history.com · Stop eating Lady Gaga's Oreos",
+        "daringfireball.net · Apple’s WWDC Announcement of the New Apple Intelligence System",
         "herman.bearblog.dev · Active recall",
         "pluralistic.net · Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
         "steveblank.com · Incorruptible",
-        "dfarq.homeip.net · Apple II: Launched June 10, 1977",
-        "nesbitt.io · Forms of Open Source Government",
-        "daringfireball.net · [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration"
+        "dfarq.homeip.net · Apple II: Launched June 10, 1977"
       ],
       "key_points": [
+        "Stop eating Lady Gaga's Oreos",
+        "Apple’s WWDC Announcement of the New Apple Intelligence System",
         "Active recall",
-        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-        "Incorruptible",
-        "Apple II: Launched June 10, 1977"
+        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)"
       ],
       "key_points_zh": [
+        "Stop eating Lady Gaga's Oreos",
+        "Apple’s WWDC Announcement of the New Apple Intelligence System",
         "Active recall",
-        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-        "Incorruptible",
-        "Apple II: Launched June 10, 1977"
+        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)"
       ],
       "key_points_en": [
+        "Stop eating Lady Gaga's Oreos",
+        "Apple’s WWDC Announcement of the New Apple Intelligence System",
         "Active recall",
-        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-        "Incorruptible",
-        "Apple II: Launched June 10, 1977"
+        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)"
       ],
       "tweet_drafts": [
-        "Active recall",
-        "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-        "Incorruptible"
+        "Stop eating Lady Gaga's Oreos",
+        "Apple’s WWDC Announcement of the New Apple Intelligence System",
+        "Active recall"
       ],
       "sources": [
+        {
+          "feed_title": "experimental-history.com",
+          "title": "Stop eating Lady Gaga's Oreos",
+          "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple’s WWDC Announcement of the New Apple Intelligence System",
+          "link": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/"
+        },
         {
           "feed_title": "herman.bearblog.dev",
           "title": "Active recall",
           "link": "https://herman.bearblog.dev/active-recall/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)",
-          "link": "https://pluralistic.net/2026/06/09/deliver-us/"
-        },
-        {
-          "feed_title": "steveblank.com",
-          "title": "Incorruptible",
-          "link": "https://steveblank.com/2026/06/09/incorruptible/"
         }
       ],
-      "summary_zh": "2026-06-09 技术日报：Active recall；Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible。",
-      "summary_en": "Daily brief (2026-06-09): Active recall; Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible.",
+      "summary_zh": "2026-06-09 技术日报：Stop eating Lady Gaga's Oreos；Apple’s WWDC Announcement of the New Apple Intelligence System；Active recall。",
+      "summary_en": "Daily brief (2026-06-09): Stop eating Lady Gaga's Oreos; Apple’s WWDC Announcement of the New Apple Intelligence System; Active recall.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-09 日报】Active recall；Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-09): Active recall; Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-09 日报】Stop eating Lady Gaga's Oreos；Apple’s WWDC Announcement of the New Apple Intelligence System；Active recall。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-09): Stop eating Lady Gaga's Oreos; Apple’s WWDC Announcement of the New Apple Intelligence System; Active recall. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-09）\n- Active recall\n- Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)\n- Incorruptible\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://herman.bearblog.dev/active-recall/\n- https://pluralistic.net/2026/06/09/deliver-us/\n- https://steveblank.com/2026/06/09/incorruptible/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-09)\n- Active recall\n- Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)\n- Incorruptible\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://herman.bearblog.dev/active-recall/\n- https://pluralistic.net/2026/06/09/deliver-us/\n- https://steveblank.com/2026/06/09/incorruptible/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-09）\n- Stop eating Lady Gaga's Oreos\n- Apple’s WWDC Announcement of the New Apple Intelligence System\n- Active recall\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos\n- https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/\n- https://herman.bearblog.dev/active-recall/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-09)\n- Stop eating Lady Gaga's Oreos\n- Apple’s WWDC Announcement of the New Apple Intelligence System\n- Active recall\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos\n- https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/\n- https://herman.bearblog.dev/active-recall/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Active recall；Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026)；Incorruptible。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Active recall; Pluralistic: Naomi Kritzer's \"Obstetrix\" (09 Jun 2026); Incorruptible.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Stop eating Lady Gaga's Oreos；Apple’s WWDC Announcement of the New Apple Intelligence System；Active recall。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Stop eating Lady Gaga's Oreos; Apple’s WWDC Announcement of the New Apple Intelligence System; Active recall.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1613,8 +1613,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
