@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-09 18:12:42 UTC
+Generated at: 2026-06-09 19:13:42 UTC
 
-- [Apple WWDC 2026 Keynote](https://www.youtube.com/watch?v=hF8swzNR1-o) (`daringfireball.net`)
+- [Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) (`simonwillison.net`)
