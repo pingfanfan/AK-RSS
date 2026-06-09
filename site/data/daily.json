@@ -1,94 +1,126 @@
 {
-  "generated_at": "2026-06-08T22:57:59Z",
+  "generated_at": "2026-06-09T07:05:52Z",
   "days": [
     {
       "date": "2026-06-09",
-      "total": 1,
+      "total": 4,
       "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
-        "xeiaso.net · Giving your Go apps Tigris superpowers"
+        "daringfireball.net · [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration",
+        "utcc.utoronto.ca/~cks · Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
+        "xeiaso.net · Giving your Go apps Tigris superpowers",
+        "simonwillison.net · Siri AI at WWDC 2026"
       ],
       "key_points": [
-        "Giving your Go apps Tigris superpowers"
+        "[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration",
+        "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
+        "Giving your Go apps Tigris superpowers",
+        "Siri AI at WWDC 2026"
       ],
       "key_points_zh": [
-        "Giving your Go apps Tigris superpowers"
+        "[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration",
+        "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
+        "Giving your Go apps Tigris superpowers",
+        "Siri AI at WWDC 2026"
       ],
       "key_points_en": [
-        "Giving your Go apps Tigris superpowers"
+        "[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration",
+        "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
+        "Giving your Go apps Tigris superpowers",
+        "Siri AI at WWDC 2026"
       ],
       "tweet_drafts": [
+        "[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration",
+        "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
         "Giving your Go apps Tigris superpowers"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration",
+          "link": "https://youtu.be/Dqp_b8GHLXU?t=1074"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark"
+        },
         {
           "feed_title": "xeiaso.net",
           "title": "Giving your Go apps Tigris superpowers",
           "link": "https://www.tigrisdata.com/blog/storage-sdk-go/"
         }
       ],
-      "summary_zh": "2026-06-09 技术日报：Giving your Go apps Tigris superpowers。",
-      "summary_en": "Daily brief (2026-06-09): Giving your Go apps Tigris superpowers.",
+      "summary_zh": "2026-06-09 技术日报：[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration；Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks；Giving your Go apps Tigris superpowers。",
+      "summary_en": "Daily brief (2026-06-09): [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration; Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks; Giving your Go apps Tigris superpowers.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-09 日报】Giving your Go apps Tigris superpowers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-09): Giving your Go apps Tigris superpowers. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-09 日报】[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration；Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks；Giving your Go apps Tigris superpowers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-09): [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration; Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks; Giving your Go apps Tigris superpowers. Actionable takeaways included. What would"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-09）\n- Giving your Go apps Tigris superpowers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.tigrisdata.com/blog/storage-sdk-go/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-09)\n- Giving your Go apps Tigris superpowers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.tigrisdata.com/blog/storage-sdk-go/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-09）\n- [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration\n- Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks\n- Giving your Go apps Tigris superpowers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://youtu.be/Dqp_b8GHLXU?t=1074\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark\n- https://www.tigrisdata.com/blog/storage-sdk-go/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-09)\n- [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration\n- Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks\n- Giving your Go apps Tigris superpowers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://youtu.be/Dqp_b8GHLXU?t=1074\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark\n- https://www.tigrisdata.com/blog/storage-sdk-go/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Giving your Go apps Tigris superpowers。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Giving your Go apps Tigris superpowers.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration；Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks；Giving your Go apps Tigris superpowers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration; Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks; Giving your Go apps Tigris superpowers.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-06-08",
-      "total": 12,
+      "total": 15,
       "feeds": [
         "berthub.eu (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
-        "filfre.net (1)",
-        "idiallo.com (1)",
-        "martinalderson.com (1)"
+        "entropicthoughts.com (1)",
+        "filfre.net (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · LLMs and almost good code",
         "idiallo.com · ppclp.ai announces 100x Productivity Gains",
         "dwarkesh.com · The sample efficiency black hole",
         "wheresyoured.at · AI Is Slowing Down",
         "filfre.net · Planescape: Torment, Part 2: …to the Desktop",
-        "steveblank.com · Hacking for Defense @ Stanford 2026 – Lessons Learned Presentations",
-        "shkspr.mobi · How many consecutive hyphens can you have in a domain name?"
+        "devblogs.microsoft.com/oldnewthing · Rotation revisited: Shuffling more than three blocks, and other small notes"
       ],
       "key_points": [
-        "ppclp.ai announces 100x Productivity Gains",
-        "The sample efficiency black hole",
-        "AI Is Slowing Down",
-        "Planescape: Torment, Part 2: …to the Desktop"
-      ],
-      "key_points_zh": [
-        "ppclp.ai announces 100x Productivity Gains",
-        "The sample efficiency black hole",
-        "AI Is Slowing Down",
-        "Planescape: Torment, Part 2: …to the Desktop"
-      ],
-      "key_points_en": [
-        "ppclp.ai announces 100x Productivity Gains",
-        "The sample efficiency black hole",
-        "AI Is Slowing Down",
-        "Planescape: Torment, Part 2: …to the Desktop"
-      ],
-      "tweet_drafts": [
+        "LLMs and almost good code",
         "ppclp.ai announces 100x Productivity Gains",
         "The sample efficiency black hole",
         "AI Is Slowing Down"
       ],
+      "key_points_zh": [
+        "LLMs and almost good code",
+        "ppclp.ai announces 100x Productivity Gains",
+        "The sample efficiency black hole",
+        "AI Is Slowing Down"
+      ],
+      "key_points_en": [
+        "LLMs and almost good code",
+        "ppclp.ai announces 100x Productivity Gains",
+        "The sample efficiency black hole",
+        "AI Is Slowing Down"
+      ],
+      "tweet_drafts": [
+        "LLMs and almost good code",
+        "ppclp.ai announces 100x Productivity Gains",
+        "The sample efficiency black hole"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "LLMs and almost good code",
+          "link": "https://entropicthoughts.com/llms-and-almost-good-code"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "ppclp.ai announces 100x Productivity Gains",
@@ -98,27 +130,22 @@
           "feed_title": "dwarkesh.com",
           "title": "The sample efficiency black hole",
           "link": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "AI Is Slowing Down",
-          "link": "https://www.wheresyoured.at/ai-is-slowing-down/"
         }
       ],
-      "summary_zh": "2026-06-08 技术日报：ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole；AI Is Slowing Down。",
-      "summary_en": "Daily brief (2026-06-08): ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole; AI Is Slowing Down.",
+      "summary_zh": "2026-06-08 技术日报：LLMs and almost good code；ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole。",
+      "summary_en": "Daily brief (2026-06-08): LLMs and almost good code; ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-08 日报】ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole；AI Is Slowing Down。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-08): ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole; AI Is Slowing Down. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-08 日报】LLMs and almost good code；ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-08): LLMs and almost good code; ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-08）\n- ppclp.ai announces 100x Productivity Gains\n- The sample efficiency black hole\n- AI Is Slowing Down\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/100x-productivity-gain\n- https://www.dwarkesh.com/p/the-sample-efficiency-black-hole\n- https://www.wheresyoured.at/ai-is-slowing-down/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-08)\n- ppclp.ai announces 100x Productivity Gains\n- The sample efficiency black hole\n- AI Is Slowing Down\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/100x-productivity-gain\n- https://www.dwarkesh.com/p/the-sample-efficiency-black-hole\n- https://www.wheresyoured.at/ai-is-slowing-down/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-08）\n- LLMs and almost good code\n- ppclp.ai announces 100x Productivity Gains\n- The sample efficiency black hole\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/llms-and-almost-good-code\n- https://idiallo.com/blog/100x-productivity-gain\n- https://www.dwarkesh.com/p/the-sample-efficiency-black-hole\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-08)\n- LLMs and almost good code\n- ppclp.ai announces 100x Productivity Gains\n- The sample efficiency black hole\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/llms-and-almost-good-code\n- https://idiallo.com/blog/100x-productivity-gain\n- https://www.dwarkesh.com/p/the-sample-efficiency-black-hole\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole；AI Is Slowing Down。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole; AI Is Slowing Down.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：LLMs and almost good code；ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: LLMs and almost good code; ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -898,8 +925,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1582,8 +1609,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
