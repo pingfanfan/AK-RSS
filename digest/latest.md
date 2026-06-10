@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-10 21:17:42 UTC
+Generated at: 2026-06-10 22:12:07 UTC
 
-- [Please, use a link!](https://idiallo.com/blog/use-a-link-please) (`idiallo.com`)
+- [My Firefox addons as of Firefox 151 (and the current development version)](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons) (`utcc.utoronto.ca/~cks`)
