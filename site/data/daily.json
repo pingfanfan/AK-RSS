@@ -1,40 +1,52 @@
 {
-  "generated_at": "2026-06-11T09:03:22Z",
+  "generated_at": "2026-06-11T11:02:12Z",
   "days": [
     {
       "date": "2026-06-11",
-      "total": 3,
+      "total": 5,
       "feeds": [
+        "brutecat.com (1)",
         "daringfireball.net (1)",
         "johndcook.com (1)",
+        "nesbitt.io (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "nesbitt.io · What Happened to tea.xyz",
         "simonwillison.net · Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
         "daringfireball.net · Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+        "brutecat.com · Hacking Google with A.I. for $500,000",
         "johndcook.com · Formally proving a calculation with Claude and Lean"
       ],
       "key_points": [
+        "What Happened to tea.xyz",
         "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
         "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
-        "Formally proving a calculation with Claude and Lean"
+        "Hacking Google with A.I. for $500,000"
       ],
       "key_points_zh": [
+        "What Happened to tea.xyz",
         "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
         "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
-        "Formally proving a calculation with Claude and Lean"
+        "Hacking Google with A.I. for $500,000"
       ],
       "key_points_en": [
+        "What Happened to tea.xyz",
         "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
         "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
-        "Formally proving a calculation with Claude and Lean"
+        "Hacking Google with A.I. for $500,000"
       ],
       "tweet_drafts": [
+        "What Happened to tea.xyz",
         "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-        "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
-        "Formally proving a calculation with Claude and Lean"
+        "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "What Happened to tea.xyz",
+          "link": "https://nesbitt.io/2026/06/11/what-happened-to-tea.html"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
@@ -44,27 +56,22 @@
           "feed_title": "daringfireball.net",
           "title": "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
           "link": "https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Formally proving a calculation with Claude and Lean",
-          "link": "https://www.johndcook.com/blog/2026/06/10/claude-and-lean/"
         }
       ],
-      "summary_zh": "2026-06-11 技术日报：Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage；Formally proving a calculation with Claude and Lean。",
-      "summary_en": "Daily brief (2026-06-11): Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage; Formally proving a calculation with Claude and Lean.",
+      "summary_zh": "2026-06-11 技术日报：What Happened to tea.xyz；Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage。",
+      "summary_en": "Daily brief (2026-06-11): What Happened to tea.xyz; Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-11 日报】Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage；Formally proving a calculation with Claude and Lean。我把可执行建议整理好了，欢迎转发讨论。#技术",
-          "en": "AK-RSS Daily (2026-06-11): Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage; Formally proving a calculation with Claude and Lean. Actiona"
+          "zh": "【2026-06-11 日报】What Happened to tea.xyz；Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-11): What Happened to tea.xyz; Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage. Actionable takeaways included. Wha"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-11）\n- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\n- Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage\n- Formally proving a calculation with Claude and Lean\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything\n- https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/\n- https://www.johndcook.com/blog/2026/06/10/claude-and-lean/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-11)\n- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\n- Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage\n- Formally proving a calculation with Claude and Lean\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything\n- https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/\n- https://www.johndcook.com/blog/2026/06/10/claude-and-lean/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-11）\n- What Happened to tea.xyz\n- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\n- Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/06/11/what-happened-to-tea.html\n- https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything\n- https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-11)\n- What Happened to tea.xyz\n- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\n- Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/06/11/what-happened-to-tea.html\n- https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything\n- https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage；Formally proving a calculation with Claude and Lean。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage; Formally proving a calculation with Claude and Lean.\nI turned them into an action-ready daily brief you c"
+          "zh": "今天最值得看的 3 个点：What Happened to tea.xyz；Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What Happened to tea.xyz; Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1756,8 +1763,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
