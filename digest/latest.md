@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-11 15:46:21 UTC
+Generated at: 2026-06-11 17:08:44 UTC
 
-- [Pluralistic: The world has moved on (11 Jun 2026)](https://pluralistic.net/2026/06/11/lapsarianism/) (`pluralistic.net`)
+- [My Portable Heater](https://feed.tedium.co/link/15204/17359582/gigabyte-aorus-5060-ti-ai-box-egpu-review) (`tedium.co`)
