@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-06-10T23:01:35Z",
+  "generated_at": "2026-06-11T07:30:09Z",
   "days": [
     {
+      "date": "2026-06-11",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "johndcook.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "daringfireball.net · Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+        "johndcook.com · Formally proving a calculation with Claude and Lean"
+      ],
+      "key_points": [
+        "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+        "Formally proving a calculation with Claude and Lean"
+      ],
+      "key_points_zh": [
+        "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+        "Formally proving a calculation with Claude and Lean"
+      ],
+      "key_points_en": [
+        "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+        "Formally proving a calculation with Claude and Lean"
+      ],
+      "tweet_drafts": [
+        "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+        "Formally proving a calculation with Claude and Lean"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+          "link": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+          "link": "https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Formally proving a calculation with Claude and Lean",
+          "link": "https://www.johndcook.com/blog/2026/06/10/claude-and-lean/"
+        }
+      ],
+      "summary_zh": "2026-06-11 技术日报：Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage；Formally proving a calculation with Claude and Lean。",
+      "summary_en": "Daily brief (2026-06-11): Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage; Formally proving a calculation with Claude and Lean.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-11 日报】Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage；Formally proving a calculation with Claude and Lean。我把可执行建议整理好了，欢迎转发讨论。#技术",
+          "en": "AK-RSS Daily (2026-06-11): Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage; Formally proving a calculation with Claude and Lean. Actiona"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-11）\n- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\n- Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage\n- Formally proving a calculation with Claude and Lean\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything\n- https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/\n- https://www.johndcook.com/blog/2026/06/10/claude-and-lean/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-11)\n- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude\n- Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage\n- Formally proving a calculation with Claude and Lean\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything\n- https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/\n- https://www.johndcook.com/blog/2026/06/10/claude-and-lean/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude；Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage；Formally proving a calculation with Claude and Lean。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude; Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage; Formally proving a calculation with Claude and Lean.\nI turned them into an action-ready daily brief you c"
+        }
+      }
+    },
+    {
       "date": "2026-06-10",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "simonwillison.net (3)",
         "utcc.utoronto.ca/~cks (2)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
-        "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
+        "devblogs.microsoft.com/oldnewthing (1)",
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
         "utcc.utoronto.ca/~cks · My Firefox addons as of Firefox 151 (and the current development version)",
@@ -928,27 +995,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1005,8 +1072,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Software Engineers are Obsolete；Quoting Boris Mann；Points are a weird and inconsistent unit of measure。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Software Engineers are Obsolete; Quoting Boris Mann; Points are a weird and inconsistent unit of measure.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-12",
-      "total": 22,
-      "feeds": [
-        "daringfireball.net (5)",
-        "johndcook.com (3)",
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "dfarq.homeip.net (1)",
-        "experimental-history.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Quoting Mitchell Hashimoto",
-        "krebsonsecurity.com · Patch Tuesday, May 2026 Edition",
-        "daringfireball.net · Kagi Snaps",
-        "daringfireball.net · Seriously, Give Kagi a Try",
-        "daringfireball.net · Search Ads as a Vector for Travel Scams",
-        "blog.jim-nielsen.com · Building Software Requires Digestion"
-      ],
-      "key_points": [
-        "Quoting Mitchell Hashimoto",
-        "Patch Tuesday, May 2026 Edition",
-        "Kagi Snaps",
-        "Seriously, Give Kagi a Try"
-      ],
-      "key_points_zh": [
-        "Quoting Mitchell Hashimoto",
-        "Patch Tuesday, May 2026 Edition",
-        "Kagi Snaps",
-        "Seriously, Give Kagi a Try"
-      ],
-      "key_points_en": [
-        "Quoting Mitchell Hashimoto",
-        "Patch Tuesday, May 2026 Edition",
-        "Kagi Snaps",
-        "Seriously, Give Kagi a Try"
-      ],
-      "tweet_drafts": [
-        "Quoting Mitchell Hashimoto",
-        "Patch Tuesday, May 2026 Edition",
-        "Kagi Snaps"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Mitchell Hashimoto",
-          "link": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Patch Tuesday, May 2026 Edition",
-          "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Kagi Snaps",
-          "link": "https://help.kagi.com/kagi/features/snaps.html"
-        }
-      ],
-      "summary_zh": "2026-05-12 技术日报：Quoting Mitchell Hashimoto；Patch Tuesday, May 2026 Edition；Kagi Snaps。",
-      "summary_en": "Daily brief (2026-05-12): Quoting Mitchell Hashimoto; Patch Tuesday, May 2026 Edition; Kagi Snaps.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-12 日报】Quoting Mitchell Hashimoto；Patch Tuesday, May 2026 Edition；Kagi Snaps。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-12): Quoting Mitchell Hashimoto; Patch Tuesday, May 2026 Edition; Kagi Snaps. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-12）\n- Quoting Mitchell Hashimoto\n- Patch Tuesday, May 2026 Edition\n- Kagi Snaps\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything\n- https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/\n- https://help.kagi.com/kagi/features/snaps.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-12)\n- Quoting Mitchell Hashimoto\n- Patch Tuesday, May 2026 Edition\n- Kagi Snaps\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything\n- https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/\n- https://help.kagi.com/kagi/features/snaps.html\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Mitchell Hashimoto；Patch Tuesday, May 2026 Edition；Kagi Snaps。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Mitchell Hashimoto; Patch Tuesday, May 2026 Edition; Kagi Snaps.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
