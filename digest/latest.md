@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-11 11:01:59 UTC
+Generated at: 2026-06-11 12:44:32 UTC
 
-- [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html) (`nesbitt.io`)
-- [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai) (`brutecat.com`)
+- [Biological Evolution and Information Acquisition](https://www.construction-physics.com/p/biological-evolution-and-information) (`construction-physics.com`)
+- [The failed 3Com and US Robotics merger](https://dfarq.homeip.net/the-failed-3com-and-us-robotics-merger/?utm_source=rss&utm_medium=rss&utm_campaign=the-failed-3com-and-us-robotics-merger) (`dfarq.homeip.net`)
