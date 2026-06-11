@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-11 17:08:44 UTC
+Generated at: 2026-06-11 18:30:28 UTC
 
-- [My Portable Heater](https://feed.tedium.co/link/15204/17359582/gigabyte-aorus-5060-ti-ai-box-egpu-review) (`tedium.co`)
+- [datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) (`simonwillison.net`)
