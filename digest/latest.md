@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-11 14:15:15 UTC
+Generated at: 2026-06-11 15:46:21 UTC
 
-- [Solving a chess puzzle with Claude and Prolog](https://www.johndcook.com/blog/2026/06/11/prolog-claude/) (`johndcook.com`)
+- [Pluralistic: The world has moved on (11 Jun 2026)](https://pluralistic.net/2026/06/11/lapsarianism/) (`pluralistic.net`)
