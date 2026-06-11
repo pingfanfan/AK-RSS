@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-11T19:48:35Z",
+  "generated_at": "2026-06-11T20:44:06Z",
   "days": [
     {
       "date": "2026-06-11",
-      "total": 11,
+      "total": 12,
       "feeds": [
+        "daringfireball.net (2)",
         "johndcook.com (2)",
         "simonwillison.net (2)",
         "brutecat.com (1)",
         "construction-physics.com (1)",
-        "daringfireball.net (1)",
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
         "simonwillison.net · datasette 1.0a33",
         "pluralistic.net · Pluralistic: The world has moved on (11 Jun 2026)",
         "johndcook.com · Solving a chess puzzle with Claude and Prolog",
         "construction-physics.com · Biological Evolution and Information Acquisition",
-        "dfarq.homeip.net · The failed 3Com and US Robotics merger",
-        "nesbitt.io · What Happened to tea.xyz"
+        "dfarq.homeip.net · The failed 3Com and US Robotics merger"
       ],
       "key_points": [
-        "datasette 1.0a33",
-        "Pluralistic: The world has moved on (11 Jun 2026)",
-        "Solving a chess puzzle with Claude and Prolog",
-        "Biological Evolution and Information Acquisition"
-      ],
-      "key_points_zh": [
-        "datasette 1.0a33",
-        "Pluralistic: The world has moved on (11 Jun 2026)",
-        "Solving a chess puzzle with Claude and Prolog",
-        "Biological Evolution and Information Acquisition"
-      ],
-      "key_points_en": [
-        "datasette 1.0a33",
-        "Pluralistic: The world has moved on (11 Jun 2026)",
-        "Solving a chess puzzle with Claude and Prolog",
-        "Biological Evolution and Information Acquisition"
-      ],
-      "tweet_drafts": [
+        "Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
         "datasette 1.0a33",
         "Pluralistic: The world has moved on (11 Jun 2026)",
         "Solving a chess puzzle with Claude and Prolog"
       ],
+      "key_points_zh": [
+        "Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
+        "datasette 1.0a33",
+        "Pluralistic: The world has moved on (11 Jun 2026)",
+        "Solving a chess puzzle with Claude and Prolog"
+      ],
+      "key_points_en": [
+        "Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
+        "datasette 1.0a33",
+        "Pluralistic: The world has moved on (11 Jun 2026)",
+        "Solving a chess puzzle with Claude and Prolog"
+      ],
+      "tweet_drafts": [
+        "Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
+        "datasette 1.0a33",
+        "Pluralistic: The world has moved on (11 Jun 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
+          "link": "https://www.youtube.com/watch?v=iEho3brGB64"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "datasette 1.0a33",
@@ -53,27 +58,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: The world has moved on (11 Jun 2026)",
           "link": "https://pluralistic.net/2026/06/11/lapsarianism/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Solving a chess puzzle with Claude and Prolog",
-          "link": "https://www.johndcook.com/blog/2026/06/11/prolog-claude/"
         }
       ],
-      "summary_zh": "2026-06-11 技术日报：datasette 1.0a33；Pluralistic: The world has moved on (11 Jun 2026)；Solving a chess puzzle with Claude and Prolog。",
-      "summary_en": "Daily brief (2026-06-11): datasette 1.0a33; Pluralistic: The world has moved on (11 Jun 2026); Solving a chess puzzle with Claude and Prolog.",
+      "summary_zh": "2026-06-11 技术日报：Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film；datasette 1.0a33；Pluralistic: The world has moved on (11 Jun 2026)。",
+      "summary_en": "Daily brief (2026-06-11): Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film; datasette 1.0a33; Pluralistic: The world has moved on (11 Jun 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-11 日报】datasette 1.0a33；Pluralistic: The world has moved on (11 Jun 2026)；Solving a chess puzzle with Claude and Prolog。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-11): datasette 1.0a33; Pluralistic: The world has moved on (11 Jun 2026); Solving a chess puzzle with Claude and Prolog. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-11 日报】Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film；datasette 1.0a33；Pluralistic: The world has moved on (11 Jun 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-11): Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film; datasette 1.0a33; Pluralistic: The world has moved on (11 Jun 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-11）\n- datasette 1.0a33\n- Pluralistic: The world has moved on (11 Jun 2026)\n- Solving a chess puzzle with Claude and Prolog\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/11/datasette/#atom-everything\n- https://pluralistic.net/2026/06/11/lapsarianism/\n- https://www.johndcook.com/blog/2026/06/11/prolog-claude/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-11)\n- datasette 1.0a33\n- Pluralistic: The world has moved on (11 Jun 2026)\n- Solving a chess puzzle with Claude and Prolog\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/11/datasette/#atom-everything\n- https://pluralistic.net/2026/06/11/lapsarianism/\n- https://www.johndcook.com/blog/2026/06/11/prolog-claude/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-11）\n- Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film\n- datasette 1.0a33\n- Pluralistic: The world has moved on (11 Jun 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.youtube.com/watch?v=iEho3brGB64\n- https://simonwillison.net/2026/Jun/11/datasette/#atom-everything\n- https://pluralistic.net/2026/06/11/lapsarianism/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-11)\n- Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film\n- datasette 1.0a33\n- Pluralistic: The world has moved on (11 Jun 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.youtube.com/watch?v=iEho3brGB64\n- https://simonwillison.net/2026/Jun/11/datasette/#atom-everything\n- https://pluralistic.net/2026/06/11/lapsarianism/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：datasette 1.0a33；Pluralistic: The world has moved on (11 Jun 2026)；Solving a chess puzzle with Claude and Prolog。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: datasette 1.0a33; Pluralistic: The world has moved on (11 Jun 2026); Solving a chess puzzle with Claude and Prolog.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film；datasette 1.0a33；Pluralistic: The world has moved on (11 Jun 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film; datasette 1.0a33; Pluralistic: The world has moved on (11 Jun 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
