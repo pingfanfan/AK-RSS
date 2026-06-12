@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-12 15:37:16 UTC
+Generated at: 2026-06-12 16:55:15 UTC
 
-- [You can finally power on a Mac remotely](https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/) (`jeffgeerling.com`)
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/) (`filfre.net`)

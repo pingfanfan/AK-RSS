@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-12T15:37:30Z",
+  "generated_at": "2026-06-12T16:55:29Z",
   "days": [
     {
       "date": "2026-06-12",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "nesbitt.io (2)",
         "dfarq.homeip.net (1)",
+        "filfre.net (1)",
         "idiallo.com (1)",
         "jeffgeerling.com (1)",
-        "miguelgrinberg.com (1)",
-        "shkspr.mobi (1)"
+        "miguelgrinberg.com (1)"
       ],
       "highlights": [
+        "filfre.net · This Week on The Analog Antiquarian",
         "jeffgeerling.com · You can finally power on a Mac remotely",
         "idiallo.com · I can never fully embrace LLMs for code",
         "shkspr.mobi · Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
         "dfarq.homeip.net · Intel’s Pentium FDIV bug and recall",
-        "nesbitt.io · Joint Guidance on Vulnerability Naming and Disclosure",
         "nesbitt.io · How Open Source Projects Change Hands"
       ],
       "key_points": [
-        "You can finally power on a Mac remotely",
-        "I can never fully embrace LLMs for code",
-        "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
-        "Intel’s Pentium FDIV bug and recall"
-      ],
-      "key_points_zh": [
-        "You can finally power on a Mac remotely",
-        "I can never fully embrace LLMs for code",
-        "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
-        "Intel’s Pentium FDIV bug and recall"
-      ],
-      "key_points_en": [
-        "You can finally power on a Mac remotely",
-        "I can never fully embrace LLMs for code",
-        "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
-        "Intel’s Pentium FDIV bug and recall"
-      ],
-      "tweet_drafts": [
+        "This Week on The Analog Antiquarian",
         "You can finally power on a Mac remotely",
         "I can never fully embrace LLMs for code",
         "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★"
       ],
+      "key_points_zh": [
+        "This Week on The Analog Antiquarian",
+        "You can finally power on a Mac remotely",
+        "I can never fully embrace LLMs for code",
+        "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★"
+      ],
+      "key_points_en": [
+        "This Week on The Analog Antiquarian",
+        "You can finally power on a Mac remotely",
+        "I can never fully embrace LLMs for code",
+        "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★"
+      ],
+      "tweet_drafts": [
+        "This Week on The Analog Antiquarian",
+        "You can finally power on a Mac remotely",
+        "I can never fully embrace LLMs for code"
+      ],
       "sources": [
+        {
+          "feed_title": "filfre.net",
+          "title": "This Week on The Analog Antiquarian",
+          "link": "https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/"
+        },
         {
           "feed_title": "jeffgeerling.com",
           "title": "You can finally power on a Mac remotely",
@@ -53,27 +58,22 @@
           "feed_title": "idiallo.com",
           "title": "I can never fully embrace LLMs for code",
           "link": "https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
-          "link": "https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/"
         }
       ],
-      "summary_zh": "2026-06-12 技术日报：You can finally power on a Mac remotely；I can never fully embrace LLMs for code；Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★。",
-      "summary_en": "Daily brief (2026-06-12): You can finally power on a Mac remotely; I can never fully embrace LLMs for code; Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★.",
+      "summary_zh": "2026-06-12 技术日报：This Week on The Analog Antiquarian；You can finally power on a Mac remotely；I can never fully embrace LLMs for code。",
+      "summary_en": "Daily brief (2026-06-12): This Week on The Analog Antiquarian; You can finally power on a Mac remotely; I can never fully embrace LLMs for code.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-12 日报】You can finally power on a Mac remotely；I can never fully embrace LLMs for code；Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-12): You can finally power on a Mac remotely; I can never fully embrace LLMs for code; Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-12 日报】This Week on The Analog Antiquarian；You can finally power on a Mac remotely；I can never fully embrace LLMs for code。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-12): This Week on The Analog Antiquarian; You can finally power on a Mac remotely; I can never fully embrace LLMs for code. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-12）\n- You can finally power on a Mac remotely\n- I can never fully embrace LLMs for code\n- Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/\n- https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code\n- https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-12)\n- You can finally power on a Mac remotely\n- I can never fully embrace LLMs for code\n- Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/\n- https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code\n- https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-12）\n- This Week on The Analog Antiquarian\n- You can finally power on a Mac remotely\n- I can never fully embrace LLMs for code\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/\n- https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/\n- https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-12)\n- This Week on The Analog Antiquarian\n- You can finally power on a Mac remotely\n- I can never fully embrace LLMs for code\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/\n- https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/\n- https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：You can finally power on a Mac remotely；I can never fully embrace LLMs for code；Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: You can finally power on a Mac remotely; I can never fully embrace LLMs for code; Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：This Week on The Analog Antiquarian；You can finally power on a Mac remotely；I can never fully embrace LLMs for code。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: This Week on The Analog Antiquarian; You can finally power on a Mac remotely; I can never fully embrace LLMs for code.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1080,27 +1080,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1841,8 +1841,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
