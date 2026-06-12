@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-12 14:05:05 UTC
+Generated at: 2026-06-12 15:37:16 UTC
 
-- [Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★](https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/) (`shkspr.mobi`)
+- [You can finally power on a Mac remotely](https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/) (`jeffgeerling.com`)
