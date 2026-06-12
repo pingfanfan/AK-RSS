@@ -1,34 +1,45 @@
 {
-  "generated_at": "2026-06-12T08:51:07Z",
+  "generated_at": "2026-06-12T10:27:45Z",
   "days": [
     {
       "date": "2026-06-12",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "miguelgrinberg.com (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "miguelgrinberg.com · I Am Not a Reverse Centaur",
         "utcc.utoronto.ca/~cks · Why disk warranties are useful at work but not for me at home",
         "simonwillison.net · Claude Fable is relentlessly proactive"
       ],
       "key_points": [
+        "I Am Not a Reverse Centaur",
         "Why disk warranties are useful at work but not for me at home",
         "Claude Fable is relentlessly proactive"
       ],
       "key_points_zh": [
+        "I Am Not a Reverse Centaur",
         "Why disk warranties are useful at work but not for me at home",
         "Claude Fable is relentlessly proactive"
       ],
       "key_points_en": [
+        "I Am Not a Reverse Centaur",
         "Why disk warranties are useful at work but not for me at home",
         "Claude Fable is relentlessly proactive"
       ],
       "tweet_drafts": [
+        "I Am Not a Reverse Centaur",
         "Why disk warranties are useful at work but not for me at home",
         "Claude Fable is relentlessly proactive"
       ],
       "sources": [
+        {
+          "feed_title": "miguelgrinberg.com",
+          "title": "I Am Not a Reverse Centaur",
+          "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Why disk warranties are useful at work but not for me at home",
@@ -40,20 +51,20 @@
           "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-12 技术日报：Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。",
-      "summary_en": "Daily brief (2026-06-12): Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive.",
+      "summary_zh": "2026-06-12 技术日报：I Am Not a Reverse Centaur；Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。",
+      "summary_en": "Daily brief (2026-06-12): I Am Not a Reverse Centaur; Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-12 日报】Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-12): Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-12 日报】I Am Not a Reverse Centaur；Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-12): I Am Not a Reverse Centaur; Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-12）\n- Why disk warranties are useful at work but not for me at home\n- Claude Fable is relentlessly proactive\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork\n- https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-12)\n- Why disk warranties are useful at work but not for me at home\n- Claude Fable is relentlessly proactive\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork\n- https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-12）\n- I Am Not a Reverse Centaur\n- Why disk warranties are useful at work but not for me at home\n- Claude Fable is relentlessly proactive\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork\n- https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-12)\n- I Am Not a Reverse Centaur\n- Why disk warranties are useful at work but not for me at home\n- Claude Fable is relentlessly proactive\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork\n- https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：I Am Not a Reverse Centaur；Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: I Am Not a Reverse Centaur; Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1060,27 +1071,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1137,8 +1148,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1821,8 +1832,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
