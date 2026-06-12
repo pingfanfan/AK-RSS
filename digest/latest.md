@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-12 17:44:35 UTC
+Generated at: 2026-06-12 18:33:49 UTC
 
-- [Premium: The Silicon Valley Bubble (Part 1)](https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/) (`wheresyoured.at`)
+- [Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything) (`simonwillison.net`)

@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-12T17:44:49Z",
+  "generated_at": "2026-06-12T18:34:04Z",
   "days": [
     {
       "date": "2026-06-12",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "nesbitt.io (2)",
+        "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
         "filfre.net (1)",
         "idiallo.com (1)",
-        "jeffgeerling.com (1)",
-        "miguelgrinberg.com (1)"
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
         "jeffgeerling.com · You can finally power on a Mac remotely",
         "idiallo.com · I can never fully embrace LLMs for code",
-        "shkspr.mobi · Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
-        "dfarq.homeip.net · Intel’s Pentium FDIV bug and recall"
+        "shkspr.mobi · Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★"
       ],
       "key_points": [
-        "Premium: The Silicon Valley Bubble (Part 1)",
-        "This Week on The Analog Antiquarian",
-        "You can finally power on a Mac remotely",
-        "I can never fully embrace LLMs for code"
-      ],
-      "key_points_zh": [
-        "Premium: The Silicon Valley Bubble (Part 1)",
-        "This Week on The Analog Antiquarian",
-        "You can finally power on a Mac remotely",
-        "I can never fully embrace LLMs for code"
-      ],
-      "key_points_en": [
-        "Premium: The Silicon Valley Bubble (Part 1)",
-        "This Week on The Analog Antiquarian",
-        "You can finally power on a Mac remotely",
-        "I can never fully embrace LLMs for code"
-      ],
-      "tweet_drafts": [
+        "Quoting Andrew Singleton",
         "Premium: The Silicon Valley Bubble (Part 1)",
         "This Week on The Analog Antiquarian",
         "You can finally power on a Mac remotely"
       ],
+      "key_points_zh": [
+        "Quoting Andrew Singleton",
+        "Premium: The Silicon Valley Bubble (Part 1)",
+        "This Week on The Analog Antiquarian",
+        "You can finally power on a Mac remotely"
+      ],
+      "key_points_en": [
+        "Quoting Andrew Singleton",
+        "Premium: The Silicon Valley Bubble (Part 1)",
+        "This Week on The Analog Antiquarian",
+        "You can finally power on a Mac remotely"
+      ],
+      "tweet_drafts": [
+        "Quoting Andrew Singleton",
+        "Premium: The Silicon Valley Bubble (Part 1)",
+        "This Week on The Analog Antiquarian"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Andrew Singleton",
+          "link": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "Premium: The Silicon Valley Bubble (Part 1)",
@@ -53,27 +58,22 @@
           "feed_title": "filfre.net",
           "title": "This Week on The Analog Antiquarian",
           "link": "https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "You can finally power on a Mac remotely",
-          "link": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/"
         }
       ],
-      "summary_zh": "2026-06-12 技术日报：Premium: The Silicon Valley Bubble (Part 1)；This Week on The Analog Antiquarian；You can finally power on a Mac remotely。",
-      "summary_en": "Daily brief (2026-06-12): Premium: The Silicon Valley Bubble (Part 1); This Week on The Analog Antiquarian; You can finally power on a Mac remotely.",
+      "summary_zh": "2026-06-12 技术日报：Quoting Andrew Singleton；Premium: The Silicon Valley Bubble (Part 1)；This Week on The Analog Antiquarian。",
+      "summary_en": "Daily brief (2026-06-12): Quoting Andrew Singleton; Premium: The Silicon Valley Bubble (Part 1); This Week on The Analog Antiquarian.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-12 日报】Premium: The Silicon Valley Bubble (Part 1)；This Week on The Analog Antiquarian；You can finally power on a Mac remotely。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-12): Premium: The Silicon Valley Bubble (Part 1); This Week on The Analog Antiquarian; You can finally power on a Mac remotely. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-12 日报】Quoting Andrew Singleton；Premium: The Silicon Valley Bubble (Part 1)；This Week on The Analog Antiquarian。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-12): Quoting Andrew Singleton; Premium: The Silicon Valley Bubble (Part 1); This Week on The Analog Antiquarian. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-12）\n- Premium: The Silicon Valley Bubble (Part 1)\n- This Week on The Analog Antiquarian\n- You can finally power on a Mac remotely\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/\n- https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/\n- https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-12)\n- Premium: The Silicon Valley Bubble (Part 1)\n- This Week on The Analog Antiquarian\n- You can finally power on a Mac remotely\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/\n- https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/\n- https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-12）\n- Quoting Andrew Singleton\n- Premium: The Silicon Valley Bubble (Part 1)\n- This Week on The Analog Antiquarian\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything\n- https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/\n- https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-12)\n- Quoting Andrew Singleton\n- Premium: The Silicon Valley Bubble (Part 1)\n- This Week on The Analog Antiquarian\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything\n- https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/\n- https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Premium: The Silicon Valley Bubble (Part 1)；This Week on The Analog Antiquarian；You can finally power on a Mac remotely。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Premium: The Silicon Valley Bubble (Part 1); This Week on The Analog Antiquarian; You can finally power on a Mac remotely.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Andrew Singleton；Premium: The Silicon Valley Bubble (Part 1)；This Week on The Analog Antiquarian。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Andrew Singleton; Premium: The Silicon Valley Bubble (Part 1); This Week on The Analog Antiquarian.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
