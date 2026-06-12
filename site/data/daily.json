@@ -1,24 +1,80 @@
 {
-  "generated_at": "2026-06-11T22:31:56Z",
+  "generated_at": "2026-06-12T07:28:27Z",
   "days": [
     {
+      "date": "2026-06-12",
+      "total": 2,
+      "feeds": [
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Why disk warranties are useful at work but not for me at home",
+        "simonwillison.net · Claude Fable is relentlessly proactive"
+      ],
+      "key_points": [
+        "Why disk warranties are useful at work but not for me at home",
+        "Claude Fable is relentlessly proactive"
+      ],
+      "key_points_zh": [
+        "Why disk warranties are useful at work but not for me at home",
+        "Claude Fable is relentlessly proactive"
+      ],
+      "key_points_en": [
+        "Why disk warranties are useful at work but not for me at home",
+        "Claude Fable is relentlessly proactive"
+      ],
+      "tweet_drafts": [
+        "Why disk warranties are useful at work but not for me at home",
+        "Claude Fable is relentlessly proactive"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Why disk warranties are useful at work but not for me at home",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Claude Fable is relentlessly proactive",
+          "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-06-12 技术日报：Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。",
+      "summary_en": "Daily brief (2026-06-12): Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-12 日报】Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-12): Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-12）\n- Why disk warranties are useful at work but not for me at home\n- Claude Fable is relentlessly proactive\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork\n- https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-12)\n- Why disk warranties are useful at work but not for me at home\n- Claude Fable is relentlessly proactive\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork\n- https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Why disk warranties are useful at work but not for me at home；Claude Fable is relentlessly proactive。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Why disk warranties are useful at work but not for me at home; Claude Fable is relentlessly proactive.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-11",
-      "total": 13,
+      "total": 15,
       "feeds": [
         "daringfireball.net (3)",
         "johndcook.com (2)",
         "simonwillison.net (2)",
         "brutecat.com (1)",
         "construction-physics.com (1)",
-        "dfarq.homeip.net (1)"
+        "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
         "daringfireball.net · Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’",
         "daringfireball.net · Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film",
         "simonwillison.net · datasette 1.0a33",
         "pluralistic.net · Pluralistic: The world has moved on (11 Jun 2026)",
-        "johndcook.com · Solving a chess puzzle with Claude and Prolog",
-        "construction-physics.com · Biological Evolution and Information Acquisition"
+        "devblogs.microsoft.com/oldnewthing · Understanding the rationale behind a rule when trying to circumvent it",
+        "johndcook.com · Solving a chess puzzle with Claude and Prolog"
       ],
       "key_points": [
         "Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’",
@@ -1004,27 +1060,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1765,8 +1821,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -2202,82 +2258,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Not so locked in any more；Quoting Mitchell Hashimoto；A few words on DS4。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Not so locked in any more; Quoting Mitchell Hashimoto; A few words on DS4.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-13",
-      "total": 15,
-      "feeds": [
-        "simonwillison.net (2)",
-        "buttondown.com/hillelwayne (1)",
-        "danieldelaney.net (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "idiallo.com · Software Engineers are Obsolete",
-        "simonwillison.net · Quoting Boris Mann",
-        "buttondown.com/hillelwayne · Points are a weird and inconsistent unit of measure",
-        "pluralistic.net · Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)",
-        "devblogs.microsoft.com/oldnewthing · The case of the hang when the user changed keyboard layouts",
-        "shkspr.mobi · Stupidly Simple SVG Sparklines"
-      ],
-      "key_points": [
-        "Software Engineers are Obsolete",
-        "Quoting Boris Mann",
-        "Points are a weird and inconsistent unit of measure",
-        "Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)"
-      ],
-      "key_points_zh": [
-        "Software Engineers are Obsolete",
-        "Quoting Boris Mann",
-        "Points are a weird and inconsistent unit of measure",
-        "Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)"
-      ],
-      "key_points_en": [
-        "Software Engineers are Obsolete",
-        "Quoting Boris Mann",
-        "Points are a weird and inconsistent unit of measure",
-        "Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)"
-      ],
-      "tweet_drafts": [
-        "Software Engineers are Obsolete",
-        "Quoting Boris Mann",
-        "Points are a weird and inconsistent unit of measure"
-      ],
-      "sources": [
-        {
-          "feed_title": "idiallo.com",
-          "title": "Software Engineers are Obsolete",
-          "link": "https://idiallo.com/blog/everyone-is-better-than-you?src=feed"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Boris Mann",
-          "link": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "Points are a weird and inconsistent unit of measure",
-          "link": "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/"
-        }
-      ],
-      "summary_zh": "2026-05-13 技术日报：Software Engineers are Obsolete；Quoting Boris Mann；Points are a weird and inconsistent unit of measure。",
-      "summary_en": "Daily brief (2026-05-13): Software Engineers are Obsolete; Quoting Boris Mann; Points are a weird and inconsistent unit of measure.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-13 日报】Software Engineers are Obsolete；Quoting Boris Mann；Points are a weird and inconsistent unit of measure。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-13): Software Engineers are Obsolete; Quoting Boris Mann; Points are a weird and inconsistent unit of measure. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-13）\n- Software Engineers are Obsolete\n- Quoting Boris Mann\n- Points are a weird and inconsistent unit of measure\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/everyone-is-better-than-you?src=feed\n- https://simonwillison.net/2026/May/13/boris-mann/#atom-everything\n- https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-13)\n- Software Engineers are Obsolete\n- Quoting Boris Mann\n- Points are a weird and inconsistent unit of measure\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/everyone-is-better-than-you?src=feed\n- https://simonwillison.net/2026/May/13/boris-mann/#atom-everything\n- https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Software Engineers are Obsolete；Quoting Boris Mann；Points are a weird and inconsistent unit of measure。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Software Engineers are Obsolete; Quoting Boris Mann; Points are a weird and inconsistent unit of measure.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
