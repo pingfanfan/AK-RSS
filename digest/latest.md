@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-12 20:39:52 UTC
+Generated at: 2026-06-12 21:29:53 UTC
 
-- [Why are cached input tokens cheaper with AI services?](https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/) (`xeiaso.net`)
+- [Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)](https://pluralistic.net/2026/06/12/compelled-speech/) (`pluralistic.net`)
