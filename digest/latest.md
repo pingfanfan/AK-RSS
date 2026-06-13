@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-13 11:33:52 UTC
+Generated at: 2026-06-13 12:28:23 UTC
 
-- [This Week in Package Management: 13 June 2026](https://nesbitt.io/2026/06/13/this-week-in-package-management.html) (`nesbitt.io`)
+- [Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/) (`lucumr.pocoo.org`)
+- [Reading List 06/13/2026](https://www.construction-physics.com/p/reading-list-06132026) (`construction-physics.com`)
