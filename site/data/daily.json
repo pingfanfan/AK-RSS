@@ -1,16 +1,88 @@
 {
-  "generated_at": "2026-06-13T22:48:23Z",
+  "generated_at": "2026-06-14T07:27:57Z",
   "days": [
     {
+      "date": "2026-06-14",
+      "total": 4,
+      "feeds": [
+        "eli.thegreenplace.net (1)",
+        "oldvcr.blogspot.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "eli.thegreenplace.net · Plugins case study: Pluggy",
+        "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
+        "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
+        "simonwillison.net · Publishing WASM wheels to PyPI for use with Pyodide"
+      ],
+      "key_points": [
+        "Plugins case study: Pluggy",
+        "Linux distribution packaging and third party 'package' systems",
+        "Building a serial and VGA \"everything console\"",
+        "Publishing WASM wheels to PyPI for use with Pyodide"
+      ],
+      "key_points_zh": [
+        "Plugins case study: Pluggy",
+        "Linux distribution packaging and third party 'package' systems",
+        "Building a serial and VGA \"everything console\"",
+        "Publishing WASM wheels to PyPI for use with Pyodide"
+      ],
+      "key_points_en": [
+        "Plugins case study: Pluggy",
+        "Linux distribution packaging and third party 'package' systems",
+        "Building a serial and VGA \"everything console\"",
+        "Publishing WASM wheels to PyPI for use with Pyodide"
+      ],
+      "tweet_drafts": [
+        "Plugins case study: Pluggy",
+        "Linux distribution packaging and third party 'package' systems",
+        "Building a serial and VGA \"everything console\""
+      ],
+      "sources": [
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Plugins case study: Pluggy",
+          "link": "https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Linux distribution packaging and third party 'package' systems",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers"
+        },
+        {
+          "feed_title": "oldvcr.blogspot.com",
+          "title": "Building a serial and VGA \"everything console\"",
+          "link": "https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
+        }
+      ],
+      "summary_zh": "2026-06-14 技术日报：Plugins case study: Pluggy；Linux distribution packaging and third party 'package' systems；Building a serial and VGA \"everything console\"。",
+      "summary_en": "Daily brief (2026-06-14): Plugins case study: Pluggy; Linux distribution packaging and third party 'package' systems; Building a serial and VGA \"everything console\".",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-14 日报】Plugins case study: Pluggy；Linux distribution packaging and third party 'package' systems；Building a serial and VGA \"everything console\"。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-14): Plugins case study: Pluggy; Linux distribution packaging and third party 'package' systems; Building a serial and VGA \"everything console\". Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-14）\n- Plugins case study: Pluggy\n- Linux distribution packaging and third party 'package' systems\n- Building a serial and VGA \"everything console\"\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers\n- https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-14)\n- Plugins case study: Pluggy\n- Linux distribution packaging and third party 'package' systems\n- Building a serial and VGA \"everything console\"\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers\n- https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Plugins case study: Pluggy；Linux distribution packaging and third party 'package' systems；Building a serial and VGA \"everything console\"。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Plugins case study: Pluggy; Linux distribution packaging and third party 'package' systems; Building a serial and VGA \"everything console\".\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-13",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "daringfireball.net (3)",
         "borretti.me (1)",
         "construction-physics.com (1)",
         "johndcook.com (1)",
         "lucumr.pocoo.org (1)",
-        "nesbitt.io (1)"
+        "maurycyz.com (1)"
       ],
       "highlights": [
         "johndcook.com · RSA munitions T-shirt",
@@ -79,14 +151,14 @@
     },
     {
       "date": "2026-06-12",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "nesbitt.io (2)",
         "simonwillison.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "filfre.net (1)",
-        "idiallo.com (1)",
-        "jeffgeerling.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
         "pluralistic.net · Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -94,7 +166,7 @@
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
         "jeffgeerling.com · You can finally power on a Mac remotely",
-        "idiallo.com · I can never fully embrace LLMs for code"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1233,8 +1305,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1917,8 +1989,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices；★ AI Is Technology, Not a Product；Warelay -\u003e OpenClaw。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices; ★ AI Is Technology, Not a Product; Warelay -\u003e OpenClaw.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-15",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (4)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "johndcook.com (1)",
-        "maurycyz.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Wanton Destruction of CBS Property",
-        "daringfireball.net · Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking",
-        "daringfireball.net · Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks",
-        "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 1)",
-        "dwarkesh.com · Eric Jang – Building AlphaGo from scratch",
-        "devblogs.microsoft.com/oldnewthing · The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS"
-      ],
-      "key_points": [
-        "Wanton Destruction of CBS Property",
-        "Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking",
-        "Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks",
-        "Premium: What If...We're In An AI Bubble? (Part 1)"
-      ],
-      "key_points_zh": [
-        "Wanton Destruction of CBS Property",
-        "Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking",
-        "Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks",
-        "Premium: What If...We're In An AI Bubble? (Part 1)"
-      ],
-      "key_points_en": [
-        "Wanton Destruction of CBS Property",
-        "Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking",
-        "Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks",
-        "Premium: What If...We're In An AI Bubble? (Part 1)"
-      ],
-      "tweet_drafts": [
-        "Wanton Destruction of CBS Property",
-        "Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking",
-        "Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Wanton Destruction of CBS Property",
-          "link": "https://www.youtube.com/watch?v=eBKWKu2Rqxc"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking",
-          "link": "https://dropoverapp.com/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks",
-          "link": "https://aluminium-os.com/"
-        }
-      ],
-      "summary_zh": "2026-05-15 技术日报：Wanton Destruction of CBS Property；Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking；Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks。",
-      "summary_en": "Daily brief (2026-05-15): Wanton Destruction of CBS Property; Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking; Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-15 日报】Wanton Destruction of CBS Property；Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking；Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-15): Wanton Destruction of CBS Property; Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking; Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks. Actionable takeaways included. What would you ship next? #AI #Engin"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-15）\n- Wanton Destruction of CBS Property\n- Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking\n- Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.youtube.com/watch?v=eBKWKu2Rqxc\n- https://dropoverapp.com/\n- https://aluminium-os.com/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-15)\n- Wanton Destruction of CBS Property\n- Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking\n- Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.youtube.com/watch?v=eBKWKu2Rqxc\n- https://dropoverapp.com/\n- https://aluminium-os.com/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Wanton Destruction of CBS Property；Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking；Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Wanton Destruction of CBS Property; Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking; Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
