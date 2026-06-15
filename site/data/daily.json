@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-15T12:08:03Z",
+  "generated_at": "2026-06-15T14:35:47Z",
   "days": [
     {
       "date": "2026-06-15",
-      "total": 7,
+      "total": 9,
       "feeds": [
+        "berthub.eu (1)",
         "dfarq.homeip.net (1)",
+        "martinalderson.com (1)",
         "seangoedecke.com (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "tomrenner.com (1)",
-        "troyhunt.com (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "berthub.eu · EU \u0026 Civil Society need to progress on Digital Autonomy",
         "shkspr.mobi · [RSS Club] What happens to old posts?",
         "dfarq.homeip.net · GIF’s June 1987 debut",
         "troyhunt.com · Weekly Update 508",
         "utcc.utoronto.ca/~cks · Systemd-resolved and sticking (or not) to what distributions do",
-        "simonwillison.net · Quoting Julia Evans",
-        "tomrenner.com · Things that made me think: Open Source trust relationships, knowledge without provenance, and theory building"
+        "simonwillison.net · Quoting Julia Evans"
       ],
       "key_points": [
-        "[RSS Club] What happens to old posts?",
-        "GIF’s June 1987 debut",
-        "Weekly Update 508",
-        "Systemd-resolved and sticking (or not) to what distributions do"
-      ],
-      "key_points_zh": [
-        "[RSS Club] What happens to old posts?",
-        "GIF’s June 1987 debut",
-        "Weekly Update 508",
-        "Systemd-resolved and sticking (or not) to what distributions do"
-      ],
-      "key_points_en": [
-        "[RSS Club] What happens to old posts?",
-        "GIF’s June 1987 debut",
-        "Weekly Update 508",
-        "Systemd-resolved and sticking (or not) to what distributions do"
-      ],
-      "tweet_drafts": [
+        "EU \u0026 Civil Society need to progress on Digital Autonomy",
         "[RSS Club] What happens to old posts?",
         "GIF’s June 1987 debut",
         "Weekly Update 508"
       ],
+      "key_points_zh": [
+        "EU \u0026 Civil Society need to progress on Digital Autonomy",
+        "[RSS Club] What happens to old posts?",
+        "GIF’s June 1987 debut",
+        "Weekly Update 508"
+      ],
+      "key_points_en": [
+        "EU \u0026 Civil Society need to progress on Digital Autonomy",
+        "[RSS Club] What happens to old posts?",
+        "GIF’s June 1987 debut",
+        "Weekly Update 508"
+      ],
+      "tweet_drafts": [
+        "EU \u0026 Civil Society need to progress on Digital Autonomy",
+        "[RSS Club] What happens to old posts?",
+        "GIF’s June 1987 debut"
+      ],
       "sources": [
+        {
+          "feed_title": "berthub.eu",
+          "title": "EU \u0026 Civil Society need to progress on Digital Autonomy",
+          "link": "https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "[RSS Club] What happens to old posts?",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "GIF’s June 1987 debut",
           "link": "https://dfarq.homeip.net/gifs-june-1987-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gifs-june-1987-debut"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 508",
-          "link": "https://www.troyhunt.com/weekly-update-508/"
         }
       ],
-      "summary_zh": "2026-06-15 技术日报：[RSS Club] What happens to old posts?；GIF’s June 1987 debut；Weekly Update 508。",
-      "summary_en": "Daily brief (2026-06-15): [RSS Club] What happens to old posts?; GIF’s June 1987 debut; Weekly Update 508.",
+      "summary_zh": "2026-06-15 技术日报：EU \u0026 Civil Society need to progress on Digital Autonomy；[RSS Club] What happens to old posts?；GIF’s June 1987 debut。",
+      "summary_en": "Daily brief (2026-06-15): EU \u0026 Civil Society need to progress on Digital Autonomy; [RSS Club] What happens to old posts?; GIF’s June 1987 debut.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-15 日报】[RSS Club] What happens to old posts?；GIF’s June 1987 debut；Weekly Update 508。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-15): [RSS Club] What happens to old posts?; GIF’s June 1987 debut; Weekly Update 508. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-15 日报】EU \u0026 Civil Society need to progress on Digital Autonomy；[RSS Club] What happens to old posts?；GIF’s June 1987 debut。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-15): EU \u0026 Civil Society need to progress on Digital Autonomy; [RSS Club] What happens to old posts?; GIF’s June 1987 debut. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-15）\n- [RSS Club] What happens to old posts?\n- GIF’s June 1987 debut\n- Weekly Update 508\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/\n- https://dfarq.homeip.net/gifs-june-1987-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gifs-june-1987-debut\n- https://www.troyhunt.com/weekly-update-508/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-15)\n- [RSS Club] What happens to old posts?\n- GIF’s June 1987 debut\n- Weekly Update 508\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/\n- https://dfarq.homeip.net/gifs-june-1987-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gifs-june-1987-debut\n- https://www.troyhunt.com/weekly-update-508/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-15）\n- EU \u0026 Civil Society need to progress on Digital Autonomy\n- [RSS Club] What happens to old posts?\n- GIF’s June 1987 debut\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/\n- https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/\n- https://dfarq.homeip.net/gifs-june-1987-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gifs-june-1987-debut\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-15)\n- EU \u0026 Civil Society need to progress on Digital Autonomy\n- [RSS Club] What happens to old posts?\n- GIF’s June 1987 debut\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/\n- https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/\n- https://dfarq.homeip.net/gifs-june-1987-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=gifs-june-1987-debut\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[RSS Club] What happens to old posts?；GIF’s June 1987 debut；Weekly Update 508。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [RSS Club] What happens to old posts?; GIF’s June 1987 debut; Weekly Update 508.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：EU \u0026 Civil Society need to progress on Digital Autonomy；[RSS Club] What happens to old posts?；GIF’s June 1987 debut。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: EU \u0026 Civil Society need to progress on Digital Autonomy; [RSS Club] What happens to old posts?; GIF’s June 1987 debut.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -245,8 +245,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
