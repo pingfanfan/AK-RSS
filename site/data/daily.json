@@ -1,10 +1,83 @@
 {
-  "generated_at": "2026-06-14T22:50:44Z",
+  "generated_at": "2026-06-15T07:45:32Z",
   "days": [
     {
-      "date": "2026-06-14",
-      "total": 5,
+      "date": "2026-06-15",
+      "total": 4,
       "feeds": [
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)",
+        "troyhunt.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "troyhunt.com · Weekly Update 508",
+        "utcc.utoronto.ca/~cks · Systemd-resolved and sticking (or not) to what distributions do",
+        "simonwillison.net · Quoting Julia Evans",
+        "seangoedecke.com · AI GPUs probably live longer than three years"
+      ],
+      "key_points": [
+        "Weekly Update 508",
+        "Systemd-resolved and sticking (or not) to what distributions do",
+        "Quoting Julia Evans",
+        "AI GPUs probably live longer than three years"
+      ],
+      "key_points_zh": [
+        "Weekly Update 508",
+        "Systemd-resolved and sticking (or not) to what distributions do",
+        "Quoting Julia Evans",
+        "AI GPUs probably live longer than three years"
+      ],
+      "key_points_en": [
+        "Weekly Update 508",
+        "Systemd-resolved and sticking (or not) to what distributions do",
+        "Quoting Julia Evans",
+        "AI GPUs probably live longer than three years"
+      ],
+      "tweet_drafts": [
+        "Weekly Update 508",
+        "Systemd-resolved and sticking (or not) to what distributions do",
+        "Quoting Julia Evans"
+      ],
+      "sources": [
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 508",
+          "link": "https://www.troyhunt.com/weekly-update-508/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Systemd-resolved and sticking (or not) to what distributions do",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Julia Evans",
+          "link": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-06-15 技术日报：Weekly Update 508；Systemd-resolved and sticking (or not) to what distributions do；Quoting Julia Evans。",
+      "summary_en": "Daily brief (2026-06-15): Weekly Update 508; Systemd-resolved and sticking (or not) to what distributions do; Quoting Julia Evans.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-15 日报】Weekly Update 508；Systemd-resolved and sticking (or not) to what distributions do；Quoting Julia Evans。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-15): Weekly Update 508; Systemd-resolved and sticking (or not) to what distributions do; Quoting Julia Evans. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-15）\n- Weekly Update 508\n- Systemd-resolved and sticking (or not) to what distributions do\n- Quoting Julia Evans\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/weekly-update-508/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot\n- https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-15)\n- Weekly Update 508\n- Systemd-resolved and sticking (or not) to what distributions do\n- Quoting Julia Evans\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/weekly-update-508/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot\n- https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Weekly Update 508；Systemd-resolved and sticking (or not) to what distributions do；Quoting Julia Evans。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Weekly Update 508; Systemd-resolved and sticking (or not) to what distributions do; Quoting Julia Evans.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "total": 6,
+      "feeds": [
+        "computer.rip (1)",
         "eli.thegreenplace.net (1)",
         "oldvcr.blogspot.com (1)",
         "shkspr.mobi (1)",
@@ -16,6 +89,7 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
+        "computer.rip · from hookswitch to grave",
         "simonwillison.net · Publishing WASM wheels to PyPI for use with Pyodide"
       ],
       "key_points": [
@@ -1230,27 +1304,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1307,8 +1381,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -1991,8 +2065,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -2200,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：How to be inspired without copying；GDS weighs in on the NHS's decision to retreat from Open Source；In the Empire's Defense。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: How to be inspired without copying; GDS weighs in on the NHS's decision to retreat from Open Source; In the Empire's Defense.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-16",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (4)",
-        "simonwillison.net (3)",
-        "construction-physics.com (1)",
-        "dwarkesh.com (1)",
-        "evanhahn.com (1)",
-        "miguelgrinberg.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices",
-        "daringfireball.net · ★ AI Is Technology, Not a Product",
-        "simonwillison.net · Warelay -\u003e OpenClaw",
-        "daringfireball.net · ArXiv to Ban Researchers for a Year if They Submit AI Slop",
-        "dwarkesh.com · The mistake of conflating intelligence and power",
-        "simonwillison.net · Quoting Julia Evans"
-      ],
-      "key_points": [
-        "Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices",
-        "★ AI Is Technology, Not a Product",
-        "Warelay -\u003e OpenClaw",
-        "ArXiv to Ban Researchers for a Year if They Submit AI Slop"
-      ],
-      "key_points_zh": [
-        "Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices",
-        "★ AI Is Technology, Not a Product",
-        "Warelay -\u003e OpenClaw",
-        "ArXiv to Ban Researchers for a Year if They Submit AI Slop"
-      ],
-      "key_points_en": [
-        "Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices",
-        "★ AI Is Technology, Not a Product",
-        "Warelay -\u003e OpenClaw",
-        "ArXiv to Ban Researchers for a Year if They Submit AI Slop"
-      ],
-      "tweet_drafts": [
-        "Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices",
-        "★ AI Is Technology, Not a Product",
-        "Warelay -\u003e OpenClaw"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices",
-          "link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ AI Is Technology, Not a Product",
-          "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Warelay -\u003e OpenClaw",
-          "link": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-05-16 技术日报：Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices；★ AI Is Technology, Not a Product；Warelay -\u003e OpenClaw。",
-      "summary_en": "Daily brief (2026-05-16): Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices; ★ AI Is Technology, Not a Product; Warelay -\u003e OpenClaw.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-16 日报】Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices；★ AI Is Technology, Not a Product；Warelay -\u003e OpenClaw。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-16): Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices; ★ AI Is Technology, Not a Product; Warelay -\u003e OpenClaw. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-16）\n- Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices\n- ★ AI Is Technology, Not a Product\n- Warelay -\u003e OpenClaw\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/\n- https://daringfireball.net/2026/05/ai_is_technology_not_a_product\n- https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-16)\n- Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices\n- ★ AI Is Technology, Not a Product\n- Warelay -\u003e OpenClaw\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/\n- https://daringfireball.net/2026/05/ai_is_technology_not_a_product\n- https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices；★ AI Is Technology, Not a Product；Warelay -\u003e OpenClaw。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices; ★ AI Is Technology, Not a Product; Warelay -\u003e OpenClaw.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
