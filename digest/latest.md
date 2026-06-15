@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-15 14:35:33 UTC
+Generated at: 2026-06-15 16:34:36 UTC
 
-- [A brief history of KV cache compression developments](https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
-- [EU & Civil Society need to progress on Digital Autonomy](https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/) (`berthub.eu`)
+- ["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) (`simonwillison.net`)
+- [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) (`pluralistic.net`)
