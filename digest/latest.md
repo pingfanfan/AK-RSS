@@ -1,6 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-15 18:28:44 UTC
+Generated at: 2026-06-15 19:48:56 UTC
 
-- [WorkOS Launches Auth.md — an Open Protocol for Agent Registration](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) (`daringfireball.net`)
-- [Writing Prolog with ChatGPT](https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/) (`johndcook.com`)
+- [The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) (`daringfireball.net`)
+- [Quaternion Rotations, Claude, and Lean](https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/) (`johndcook.com`)
+- [Arp 185:](https://maurycyz.com/astro/arp185/) (`maurycyz.com`)
+- [AI's Brokenomics](https://www.wheresyoured.at/brokenomics/) (`wheresyoured.at`)
