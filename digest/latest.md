@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-15 16:34:36 UTC
+Generated at: 2026-06-15 18:28:44 UTC
 
-- ["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) (`simonwillison.net`)
-- [Pluralistic: AI and amateurism (15 Jun 2026) Pluralistic: AI and amateurism (15 Jun 2026)](https://pluralistic.net/2026/06/15/vernacular/) (`pluralistic.net`)
+- [WorkOS Launches Auth.md — an Open Protocol for Agent Registration](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) (`daringfireball.net`)
+- [Writing Prolog with ChatGPT](https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/) (`johndcook.com`)
