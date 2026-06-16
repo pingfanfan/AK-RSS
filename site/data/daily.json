@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-16T20:01:19Z",
+  "generated_at": "2026-06-16T21:27:54Z",
   "days": [
     {
       "date": "2026-06-16",
-      "total": 16,
+      "total": 17,
       "feeds": [
         "johndcook.com (3)",
         "simonwillison.net (2)",
@@ -13,37 +13,42 @@
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "idiallo.com · Debugging on Prod",
         "aresluna.org · Key, in sight",
         "johndcook.com · Partial fraction decomposition",
         "dwarkesh.com · Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
         "daringfireball.net · New in the App Store: Personalized Recommendations",
-        "simonwillison.net · Quoting Georgi Gerganov",
-        "berthub.eu · Do not invite big-tech to join your digital autonomy discussion"
+        "simonwillison.net · Quoting Georgi Gerganov"
       ],
       "key_points": [
-        "Key, in sight",
-        "Partial fraction decomposition",
-        "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
-        "New in the App Store: Personalized Recommendations"
-      ],
-      "key_points_zh": [
-        "Key, in sight",
-        "Partial fraction decomposition",
-        "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
-        "New in the App Store: Personalized Recommendations"
-      ],
-      "key_points_en": [
-        "Key, in sight",
-        "Partial fraction decomposition",
-        "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
-        "New in the App Store: Personalized Recommendations"
-      ],
-      "tweet_drafts": [
+        "Debugging on Prod",
         "Key, in sight",
         "Partial fraction decomposition",
         "Ada Palmer – Machiavelli is the most misunderstood thinker of all time"
       ],
+      "key_points_zh": [
+        "Debugging on Prod",
+        "Key, in sight",
+        "Partial fraction decomposition",
+        "Ada Palmer – Machiavelli is the most misunderstood thinker of all time"
+      ],
+      "key_points_en": [
+        "Debugging on Prod",
+        "Key, in sight",
+        "Partial fraction decomposition",
+        "Ada Palmer – Machiavelli is the most misunderstood thinker of all time"
+      ],
+      "tweet_drafts": [
+        "Debugging on Prod",
+        "Key, in sight",
+        "Partial fraction decomposition"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Debugging on Prod",
+          "link": "https://idiallo.com/blog/debugging-on-prod"
+        },
         {
           "feed_title": "aresluna.org",
           "title": "Key, in sight",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "Partial fraction decomposition",
           "link": "https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "Ada Palmer – Machiavelli is the most misunderstood thinker of all time",
-          "link": "https://www.dwarkesh.com/p/ada-palmer-2"
         }
       ],
-      "summary_zh": "2026-06-16 技术日报：Key, in sight；Partial fraction decomposition；Ada Palmer – Machiavelli is the most misunderstood thinker of all time。",
-      "summary_en": "Daily brief (2026-06-16): Key, in sight; Partial fraction decomposition; Ada Palmer – Machiavelli is the most misunderstood thinker of all time.",
+      "summary_zh": "2026-06-16 技术日报：Debugging on Prod；Key, in sight；Partial fraction decomposition。",
+      "summary_en": "Daily brief (2026-06-16): Debugging on Prod; Key, in sight; Partial fraction decomposition.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-16 日报】Key, in sight；Partial fraction decomposition；Ada Palmer – Machiavelli is the most misunderstood thinker of all time。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-16): Key, in sight; Partial fraction decomposition; Ada Palmer – Machiavelli is the most misunderstood thinker of all time. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-16 日报】Debugging on Prod；Key, in sight；Partial fraction decomposition。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-16): Debugging on Prod; Key, in sight; Partial fraction decomposition. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-16）\n- Key, in sight\n- Partial fraction decomposition\n- Ada Palmer – Machiavelli is the most misunderstood thinker of all time\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://aresluna.org/key-in-sight\n- https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/\n- https://www.dwarkesh.com/p/ada-palmer-2\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-16)\n- Key, in sight\n- Partial fraction decomposition\n- Ada Palmer – Machiavelli is the most misunderstood thinker of all time\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://aresluna.org/key-in-sight\n- https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/\n- https://www.dwarkesh.com/p/ada-palmer-2\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-16）\n- Debugging on Prod\n- Key, in sight\n- Partial fraction decomposition\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/debugging-on-prod\n- https://aresluna.org/key-in-sight\n- https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-16)\n- Debugging on Prod\n- Key, in sight\n- Partial fraction decomposition\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/debugging-on-prod\n- https://aresluna.org/key-in-sight\n- https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Key, in sight；Partial fraction decomposition；Ada Palmer – Machiavelli is the most misunderstood thinker of all time。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Key, in sight; Partial fraction decomposition; Ada Palmer – Machiavelli is the most misunderstood thinker of all time.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Debugging on Prod；Key, in sight；Partial fraction decomposition。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Debugging on Prod; Key, in sight; Partial fraction decomposition.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -169,8 +169,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
