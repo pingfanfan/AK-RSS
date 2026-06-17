@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-06-16T23:00:09Z",
+  "generated_at": "2026-06-17T07:38:53Z",
   "days": [
     {
+      "date": "2026-06-17",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · \u003cclick-to-play\u003e — a still that plays",
+        "utcc.utoronto.ca/~cks · Why servers running Ubuntu can stall on boot for two minutes",
+        "daringfireball.net · Checking In on the iOS Continental Fun-Gap Drift"
+      ],
+      "key_points": [
+        "\u003cclick-to-play\u003e — a still that plays",
+        "Why servers running Ubuntu can stall on boot for two minutes",
+        "Checking In on the iOS Continental Fun-Gap Drift"
+      ],
+      "key_points_zh": [
+        "\u003cclick-to-play\u003e — a still that plays",
+        "Why servers running Ubuntu can stall on boot for two minutes",
+        "Checking In on the iOS Continental Fun-Gap Drift"
+      ],
+      "key_points_en": [
+        "\u003cclick-to-play\u003e — a still that plays",
+        "Why servers running Ubuntu can stall on boot for two minutes",
+        "Checking In on the iOS Continental Fun-Gap Drift"
+      ],
+      "tweet_drafts": [
+        "\u003cclick-to-play\u003e — a still that plays",
+        "Why servers running Ubuntu can stall on boot for two minutes",
+        "Checking In on the iOS Continental Fun-Gap Drift"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "\u003cclick-to-play\u003e — a still that plays",
+          "link": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Why servers running Ubuntu can stall on boot for two minutes",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Checking In on the iOS Continental Fun-Gap Drift",
+          "link": "https://daringfireball.net/2024/09/ios_continental_drift_fun_gap"
+        }
+      ],
+      "summary_zh": "2026-06-17 技术日报：\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes；Checking In on the iOS Continental Fun-Gap Drift。",
+      "summary_en": "Daily brief (2026-06-17): \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes; Checking In on the iOS Continental Fun-Gap Drift.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-17 日报】\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes；Checking In on the iOS Continental Fun-Gap Drift。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-17): \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes; Checking In on the iOS Continental Fun-Gap Drift. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-17）\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n- Checking In on the iOS Continental Fun-Gap Drift\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n- https://daringfireball.net/2024/09/ios_continental_drift_fun_gap\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-17)\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n- Checking In on the iOS Continental Fun-Gap Drift\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n- https://daringfireball.net/2024/09/ios_continental_drift_fun_gap\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes；Checking In on the iOS Continental Fun-Gap Drift。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes; Checking In on the iOS Continental Fun-Gap Drift.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-16",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "johndcook.com (3)",
         "simonwillison.net (2)",
         "aresluna.org (1)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
-        "dfarq.homeip.net (1)"
+        "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
         "idiallo.com · Debugging on Prod",
@@ -2145,8 +2212,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Gemini 3.5 Flash: more expensive, but Google plan to use it for everything；The hardware needs of our mail system (as of mid 2026)；AI Is Too Expensive。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Gemini 3.5 Flash: more expensive, but Google plan to use it for everything; The hardware needs of our mail system (as of mid 2026); AI Is Too Expensive.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-18",
-      "total": 17,
-      "feeds": [
-        "daringfireball.net (3)",
-        "blog.jim-nielsen.com (1)",
-        "borretti.me (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Pythagorean Addition",
-        "krebsonsecurity.com · CISA Admin Leaked AWS GovCloud Keys on Github",
-        "blog.jim-nielsen.com · Something’s Rotten in the State of macOS Icon Design",
-        "daringfireball.net · Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict",
-        "daringfireball.net · Define ‘Boom’ Please",
-        "daringfireball.net · The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments"
-      ],
-      "key_points": [
-        "Pythagorean Addition",
-        "CISA Admin Leaked AWS GovCloud Keys on Github",
-        "Something’s Rotten in the State of macOS Icon Design",
-        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict"
-      ],
-      "key_points_zh": [
-        "Pythagorean Addition",
-        "CISA Admin Leaked AWS GovCloud Keys on Github",
-        "Something’s Rotten in the State of macOS Icon Design",
-        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict"
-      ],
-      "key_points_en": [
-        "Pythagorean Addition",
-        "CISA Admin Leaked AWS GovCloud Keys on Github",
-        "Something’s Rotten in the State of macOS Icon Design",
-        "Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict"
-      ],
-      "tweet_drafts": [
-        "Pythagorean Addition",
-        "CISA Admin Leaked AWS GovCloud Keys on Github",
-        "Something’s Rotten in the State of macOS Icon Design"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Pythagorean Addition",
-          "link": "https://entropicthoughts.com/pythagorean-addition"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-          "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Something’s Rotten in the State of macOS Icon Design",
-          "link": "https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/"
-        }
-      ],
-      "summary_zh": "2026-05-18 技术日报：Pythagorean Addition；CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design。",
-      "summary_en": "Daily brief (2026-05-18): Pythagorean Addition; CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-18 日报】Pythagorean Addition；CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-18): Pythagorean Addition; CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-18）\n- Pythagorean Addition\n- CISA Admin Leaked AWS GovCloud Keys on Github\n- Something’s Rotten in the State of macOS Icon Design\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/pythagorean-addition\n- https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\n- https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-18)\n- Pythagorean Addition\n- CISA Admin Leaked AWS GovCloud Keys on Github\n- Something’s Rotten in the State of macOS Icon Design\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/pythagorean-addition\n- https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\n- https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Pythagorean Addition；CISA Admin Leaked AWS GovCloud Keys on Github；Something’s Rotten in the State of macOS Icon Design。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pythagorean Addition; CISA Admin Leaked AWS GovCloud Keys on Github; Something’s Rotten in the State of macOS Icon Design.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
