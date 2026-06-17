@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-06-17T09:29:54Z",
+  "generated_at": "2026-06-17T11:15:51Z",
   "days": [
     {
       "date": "2026-06-17",
-      "total": 3,
+      "total": 4,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · How a Microsoft product from June 1979 led to the IBM PC",
         "simonwillison.net · \u003cclick-to-play\u003e — a still that plays",
         "utcc.utoronto.ca/~cks · Why servers running Ubuntu can stall on boot for two minutes",
         "daringfireball.net · Checking In on the iOS Continental Fun-Gap Drift"
       ],
       "key_points": [
+        "How a Microsoft product from June 1979 led to the IBM PC",
         "\u003cclick-to-play\u003e — a still that plays",
         "Why servers running Ubuntu can stall on boot for two minutes",
         "Checking In on the iOS Continental Fun-Gap Drift"
       ],
       "key_points_zh": [
+        "How a Microsoft product from June 1979 led to the IBM PC",
         "\u003cclick-to-play\u003e — a still that plays",
         "Why servers running Ubuntu can stall on boot for two minutes",
         "Checking In on the iOS Continental Fun-Gap Drift"
       ],
       "key_points_en": [
+        "How a Microsoft product from June 1979 led to the IBM PC",
         "\u003cclick-to-play\u003e — a still that plays",
         "Why servers running Ubuntu can stall on boot for two minutes",
         "Checking In on the iOS Continental Fun-Gap Drift"
       ],
       "tweet_drafts": [
+        "How a Microsoft product from June 1979 led to the IBM PC",
         "\u003cclick-to-play\u003e — a still that plays",
-        "Why servers running Ubuntu can stall on boot for two minutes",
-        "Checking In on the iOS Continental Fun-Gap Drift"
+        "Why servers running Ubuntu can stall on boot for two minutes"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "How a Microsoft product from June 1979 led to the IBM PC",
+          "link": "https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "\u003cclick-to-play\u003e — a still that plays",
@@ -44,27 +54,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Why servers running Ubuntu can stall on boot for two minutes",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Checking In on the iOS Continental Fun-Gap Drift",
-          "link": "https://daringfireball.net/2024/09/ios_continental_drift_fun_gap"
         }
       ],
-      "summary_zh": "2026-06-17 技术日报：\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes；Checking In on the iOS Continental Fun-Gap Drift。",
-      "summary_en": "Daily brief (2026-06-17): \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes; Checking In on the iOS Continental Fun-Gap Drift.",
+      "summary_zh": "2026-06-17 技术日报：How a Microsoft product from June 1979 led to the IBM PC；\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes。",
+      "summary_en": "Daily brief (2026-06-17): How a Microsoft product from June 1979 led to the IBM PC; \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-17 日报】\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes；Checking In on the iOS Continental Fun-Gap Drift。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-17): \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes; Checking In on the iOS Continental Fun-Gap Drift. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
+          "zh": "【2026-06-17 日报】How a Microsoft product from June 1979 led to the IBM PC；\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-17): How a Microsoft product from June 1979 led to the IBM PC; \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes. Actionable takeaways included. What would you ship next? #AI #Engineering #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-17）\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n- Checking In on the iOS Continental Fun-Gap Drift\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n- https://daringfireball.net/2024/09/ios_continental_drift_fun_gap\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-17)\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n- Checking In on the iOS Continental Fun-Gap Drift\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n- https://daringfireball.net/2024/09/ios_continental_drift_fun_gap\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-17）\n- How a Microsoft product from June 1979 led to the IBM PC\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-17)\n- How a Microsoft product from June 1979 led to the IBM PC\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes；Checking In on the iOS Continental Fun-Gap Drift。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes; Checking In on the iOS Continental Fun-Gap Drift.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：How a Microsoft product from June 1979 led to the IBM PC；\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How a Microsoft product from June 1979 led to the IBM PC; \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -236,8 +241,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1528,8 +1533,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
