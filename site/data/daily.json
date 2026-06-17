@@ -1,75 +1,78 @@
 {
-  "generated_at": "2026-06-17T14:10:33Z",
+  "generated_at": "2026-06-17T15:43:48Z",
   "days": [
     {
       "date": "2026-06-17",
-      "total": 4,
+      "total": 6,
       "feeds": [
-        "daringfireball.net (1)",
+        "daringfireball.net (2)",
         "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "daringfireball.net · Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
+        "johndcook.com · Formalizing a ring theorem with Lean 4 and Claude",
         "dfarq.homeip.net · How a Microsoft product from June 1979 led to the IBM PC",
         "simonwillison.net · \u003cclick-to-play\u003e — a still that plays",
         "utcc.utoronto.ca/~cks · Why servers running Ubuntu can stall on boot for two minutes",
         "daringfireball.net · Checking In on the iOS Continental Fun-Gap Drift"
       ],
       "key_points": [
+        "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
+        "Formalizing a ring theorem with Lean 4 and Claude",
         "How a Microsoft product from June 1979 led to the IBM PC",
-        "\u003cclick-to-play\u003e — a still that plays",
-        "Why servers running Ubuntu can stall on boot for two minutes",
-        "Checking In on the iOS Continental Fun-Gap Drift"
+        "\u003cclick-to-play\u003e — a still that plays"
       ],
       "key_points_zh": [
+        "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
+        "Formalizing a ring theorem with Lean 4 and Claude",
         "How a Microsoft product from June 1979 led to the IBM PC",
-        "\u003cclick-to-play\u003e — a still that plays",
-        "Why servers running Ubuntu can stall on boot for two minutes",
-        "Checking In on the iOS Continental Fun-Gap Drift"
+        "\u003cclick-to-play\u003e — a still that plays"
       ],
       "key_points_en": [
+        "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
+        "Formalizing a ring theorem with Lean 4 and Claude",
         "How a Microsoft product from June 1979 led to the IBM PC",
-        "\u003cclick-to-play\u003e — a still that plays",
-        "Why servers running Ubuntu can stall on boot for two minutes",
-        "Checking In on the iOS Continental Fun-Gap Drift"
+        "\u003cclick-to-play\u003e — a still that plays"
       ],
       "tweet_drafts": [
-        "How a Microsoft product from June 1979 led to the IBM PC",
-        "\u003cclick-to-play\u003e — a still that plays",
-        "Why servers running Ubuntu can stall on boot for two minutes"
+        "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
+        "Formalizing a ring theorem with Lean 4 and Claude",
+        "How a Microsoft product from June 1979 led to the IBM PC"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
+          "link": "https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Formalizing a ring theorem with Lean 4 and Claude",
+          "link": "https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "How a Microsoft product from June 1979 led to the IBM PC",
           "link": "https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "\u003cclick-to-play\u003e — a still that plays",
-          "link": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Why servers running Ubuntu can stall on boot for two minutes",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier"
         }
       ],
-      "summary_zh": "2026-06-17 技术日报：How a Microsoft product from June 1979 led to the IBM PC；\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes。",
-      "summary_en": "Daily brief (2026-06-17): How a Microsoft product from June 1979 led to the IBM PC; \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes.",
+      "summary_zh": "2026-06-17 技术日报：Yours Truly on MacBreak Weekly: Is the New Siri AI Good?；Formalizing a ring theorem with Lean 4 and Claude；How a Microsoft product from June 1979 led to the IBM PC。",
+      "summary_en": "Daily brief (2026-06-17): Yours Truly on MacBreak Weekly: Is the New Siri AI Good?; Formalizing a ring theorem with Lean 4 and Claude; How a Microsoft product from June 1979 led to the IBM PC.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-17 日报】How a Microsoft product from June 1979 led to the IBM PC；\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-17): How a Microsoft product from June 1979 led to the IBM PC; \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+          "zh": "【2026-06-17 日报】Yours Truly on MacBreak Weekly: Is the New Siri AI Good?；Formalizing a ring theorem with Lean 4 and Claude；How a Microsoft product from June 1979 led to the IBM PC。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-17): Yours Truly on MacBreak Weekly: Is the New Siri AI Good?; Formalizing a ring theorem with Lean 4 and Claude; How a Microsoft product from June 1979 led to the IBM PC. Actionable takeaways included. What would you ship next? #AI #Engi"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-17）\n- How a Microsoft product from June 1979 led to the IBM PC\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-17)\n- How a Microsoft product from June 1979 led to the IBM PC\n- \u003cclick-to-play\u003e — a still that plays\n- Why servers running Ubuntu can stall on boot for two minutes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc\n- https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-17）\n- Yours Truly on MacBreak Weekly: Is the New Siri AI Good?\n- Formalizing a ring theorem with Lean 4 and Claude\n- How a Microsoft product from June 1979 led to the IBM PC\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false\n- https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/\n- https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-17)\n- Yours Truly on MacBreak Weekly: Is the New Siri AI Good?\n- Formalizing a ring theorem with Lean 4 and Claude\n- How a Microsoft product from June 1979 led to the IBM PC\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false\n- https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/\n- https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How a Microsoft product from June 1979 led to the IBM PC；\u003cclick-to-play\u003e — a still that plays；Why servers running Ubuntu can stall on boot for two minutes。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How a Microsoft product from June 1979 led to the IBM PC; \u003cclick-to-play\u003e — a still that plays; Why servers running Ubuntu can stall on boot for two minutes.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Yours Truly on MacBreak Weekly: Is the New Siri AI Good?；Formalizing a ring theorem with Lean 4 and Claude；How a Microsoft product from June 1979 led to the IBM PC。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Yours Truly on MacBreak Weekly: Is the New Siri AI Good?; Formalizing a ring theorem with Lean 4 and Claude; How a Microsoft product from June 1979 led to the IBM PC.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -393,8 +396,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1456,27 +1459,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1533,8 +1536,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2217,8 +2220,8 @@
         "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
         "wheresyoured.at · AI Is Too Expensive",
         "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
+        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?"
       ],
       "key_points": [
         "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
