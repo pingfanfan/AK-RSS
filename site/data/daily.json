@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-17T17:54:48Z",
+  "generated_at": "2026-06-17T18:43:58Z",
   "days": [
     {
       "date": "2026-06-17",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "daringfireball.net (2)",
         "simonwillison.net (2)",
@@ -13,37 +13,42 @@
         "johndcook.com (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: The (real) dead economy theory (17 Jun 2026)",
         "terriblesoftware.org · You Got Faster. Your Company Didn’t.",
         "simonwillison.net · Quoting Charity Majors",
         "buttondown.com/hillelwayne · Logic for Programmers v0.15, Livecoding",
         "daringfireball.net · Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
-        "johndcook.com · Formalizing a ring theorem with Lean 4 and Claude",
-        "dfarq.homeip.net · How a Microsoft product from June 1979 led to the IBM PC"
+        "johndcook.com · Formalizing a ring theorem with Lean 4 and Claude"
       ],
       "key_points": [
-        "You Got Faster. Your Company Didn’t",
-        "Quoting Charity Majors",
-        "Logic for Programmers v0.15, Livecoding",
-        "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?"
-      ],
-      "key_points_zh": [
-        "You Got Faster. Your Company Didn’t",
-        "Quoting Charity Majors",
-        "Logic for Programmers v0.15, Livecoding",
-        "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?"
-      ],
-      "key_points_en": [
-        "You Got Faster. Your Company Didn’t",
-        "Quoting Charity Majors",
-        "Logic for Programmers v0.15, Livecoding",
-        "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?"
-      ],
-      "tweet_drafts": [
+        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
         "You Got Faster. Your Company Didn’t",
         "Quoting Charity Majors",
         "Logic for Programmers v0.15, Livecoding"
       ],
+      "key_points_zh": [
+        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+        "You Got Faster. Your Company Didn’t",
+        "Quoting Charity Majors",
+        "Logic for Programmers v0.15, Livecoding"
+      ],
+      "key_points_en": [
+        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+        "You Got Faster. Your Company Didn’t",
+        "Quoting Charity Majors",
+        "Logic for Programmers v0.15, Livecoding"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+        "You Got Faster. Your Company Didn’t",
+        "Quoting Charity Majors"
+      ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+          "link": "https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/"
+        },
         {
           "feed_title": "terriblesoftware.org",
           "title": "You Got Faster. Your Company Didn’t.",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Charity Majors",
           "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "Logic for Programmers v0.15, Livecoding",
-          "link": "https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/"
         }
       ],
-      "summary_zh": "2026-06-17 技术日报：You Got Faster. Your Company Didn’t；Quoting Charity Majors；Logic for Programmers v0.15, Livecoding。",
-      "summary_en": "Daily brief (2026-06-17): You Got Faster. Your Company Didn’t; Quoting Charity Majors; Logic for Programmers v0.15, Livecoding.",
+      "summary_zh": "2026-06-17 技术日报：Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t；Quoting Charity Majors。",
+      "summary_en": "Daily brief (2026-06-17): Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t; Quoting Charity Majors.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-17 日报】You Got Faster. Your Company Didn’t；Quoting Charity Majors；Logic for Programmers v0.15, Livecoding。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-17): You Got Faster. Your Company Didn’t; Quoting Charity Majors; Logic for Programmers v0.15, Livecoding. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-17 日报】Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t；Quoting Charity Majors。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-17): Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t; Quoting Charity Majors. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-17）\n- You Got Faster. Your Company Didn’t\n- Quoting Charity Majors\n- Logic for Programmers v0.15, Livecoding\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n- https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything\n- https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-17)\n- You Got Faster. Your Company Didn’t\n- Quoting Charity Majors\n- Logic for Programmers v0.15, Livecoding\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n- https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything\n- https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-17）\n- Pluralistic: The (real) dead economy theory (17 Jun 2026)\n- You Got Faster. Your Company Didn’t\n- Quoting Charity Majors\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n- https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-17)\n- Pluralistic: The (real) dead economy theory (17 Jun 2026)\n- You Got Faster. Your Company Didn’t\n- Quoting Charity Majors\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n- https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：You Got Faster. Your Company Didn’t；Quoting Charity Majors；Logic for Programmers v0.15, Livecoding。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: You Got Faster. Your Company Didn’t; Quoting Charity Majors; Logic for Programmers v0.15, Livecoding.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t；Quoting Charity Majors。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t; Quoting Charity Majors.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -245,8 +245,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1460,27 +1460,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
