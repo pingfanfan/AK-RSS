@@ -1,121 +1,130 @@
 {
-  "generated_at": "2026-06-18T10:56:51Z",
+  "generated_at": "2026-06-18T12:08:56Z",
   "days": [
     {
       "date": "2026-06-18",
-      "total": 4,
+      "total": 6,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)",
         "xeiaso.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Book Review: The Great When by Alan Moore ★★★★☆",
+        "dfarq.homeip.net · Windows ME released June 19, 2000",
         "utcc.utoronto.ca/~cks · How to correctly not wait for network carrier in Netplan",
         "daringfireball.net · Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
         "xeiaso.net · I hate compilers",
         "simonwillison.net · GLM-5.2 is probably the most powerful text-only open weights LLM"
       ],
       "key_points": [
+        "Book Review: The Great When by Alan Moore ★★★★☆",
+        "Windows ME released June 19, 2000",
         "How to correctly not wait for network carrier in Netplan",
-        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
-        "I hate compilers",
-        "GLM-5.2 is probably the most powerful text-only open weights LLM"
+        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly"
       ],
       "key_points_zh": [
+        "Book Review: The Great When by Alan Moore ★★★★☆",
+        "Windows ME released June 19, 2000",
         "How to correctly not wait for network carrier in Netplan",
-        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
-        "I hate compilers",
-        "GLM-5.2 is probably the most powerful text-only open weights LLM"
+        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly"
       ],
       "key_points_en": [
+        "Book Review: The Great When by Alan Moore ★★★★☆",
+        "Windows ME released June 19, 2000",
         "How to correctly not wait for network carrier in Netplan",
-        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
-        "I hate compilers",
-        "GLM-5.2 is probably the most powerful text-only open weights LLM"
+        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly"
       ],
       "tweet_drafts": [
-        "How to correctly not wait for network carrier in Netplan",
-        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
-        "I hate compilers"
+        "Book Review: The Great When by Alan Moore ★★★★☆",
+        "Windows ME released June 19, 2000",
+        "How to correctly not wait for network carrier in Netplan"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Book Review: The Great When by Alan Moore ★★★★☆",
+          "link": "https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Windows ME released June 19, 2000",
+          "link": "https://dfarq.homeip.net/windows-me-released-june-19-2000/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-me-released-june-19-2000"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "How to correctly not wait for network carrier in Netplan",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
-          "link": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8"
-        },
-        {
-          "feed_title": "xeiaso.net",
-          "title": "I hate compilers",
-          "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/"
         }
       ],
-      "summary_zh": "2026-06-18 技术日报：How to correctly not wait for network carrier in Netplan；Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly；I hate compilers。",
-      "summary_en": "Daily brief (2026-06-18): How to correctly not wait for network carrier in Netplan; Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly; I hate compilers.",
+      "summary_zh": "2026-06-18 技术日报：Book Review: The Great When by Alan Moore ★★★★☆；Windows ME released June 19, 2000；How to correctly not wait for network carrier in Netplan。",
+      "summary_en": "Daily brief (2026-06-18): Book Review: The Great When by Alan Moore ★★★★☆; Windows ME released June 19, 2000; How to correctly not wait for network carrier in Netplan.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-18 日报】How to correctly not wait for network carrier in Netplan；Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly；I hate compilers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-18): How to correctly not wait for network carrier in Netplan; Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly; I hate compilers. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-18 日报】Book Review: The Great When by Alan Moore ★★★★☆；Windows ME released June 19, 2000；How to correctly not wait for network carrier in Netplan。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-18): Book Review: The Great When by Alan Moore ★★★★☆; Windows ME released June 19, 2000; How to correctly not wait for network carrier in Netplan. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-18）\n- How to correctly not wait for network carrier in Netplan\n- Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly\n- I hate compilers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII\n- https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8\n- https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-18)\n- How to correctly not wait for network carrier in Netplan\n- Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly\n- I hate compilers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII\n- https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8\n- https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-18）\n- Book Review: The Great When by Alan Moore ★★★★☆\n- Windows ME released June 19, 2000\n- How to correctly not wait for network carrier in Netplan\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/\n- https://dfarq.homeip.net/windows-me-released-june-19-2000/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-me-released-june-19-2000\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-18)\n- Book Review: The Great When by Alan Moore ★★★★☆\n- Windows ME released June 19, 2000\n- How to correctly not wait for network carrier in Netplan\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/\n- https://dfarq.homeip.net/windows-me-released-june-19-2000/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-me-released-june-19-2000\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How to correctly not wait for network carrier in Netplan；Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly；I hate compilers。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How to correctly not wait for network carrier in Netplan; Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly; I hate compilers.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Book Review: The Great When by Alan Moore ★★★★☆；Windows ME released June 19, 2000；How to correctly not wait for network carrier in Netplan。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Book Review: The Great When by Alan Moore ★★★★☆; Windows ME released June 19, 2000; How to correctly not wait for network carrier in Netplan.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-06-17",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "daringfireball.net (2)",
         "simonwillison.net (2)",
         "buttondown.com/hillelwayne (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "geohot.github.io (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · GLM 5.2 playing text adventures",
         "pluralistic.net · Pluralistic: The (real) dead economy theory (17 Jun 2026)",
         "terriblesoftware.org · You Got Faster. Your Company Didn’t.",
         "simonwillison.net · Quoting Charity Majors",
         "buttondown.com/hillelwayne · Logic for Programmers v0.15, Livecoding",
-        "daringfireball.net · Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
-        "johndcook.com · Formalizing a ring theorem with Lean 4 and Claude"
+        "daringfireball.net · Yours Truly on MacBreak Weekly: Is the New Siri AI Good?"
       ],
       "key_points": [
-        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
-        "You Got Faster. Your Company Didn’t",
-        "Quoting Charity Majors",
-        "Logic for Programmers v0.15, Livecoding"
-      ],
-      "key_points_zh": [
-        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
-        "You Got Faster. Your Company Didn’t",
-        "Quoting Charity Majors",
-        "Logic for Programmers v0.15, Livecoding"
-      ],
-      "key_points_en": [
-        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
-        "You Got Faster. Your Company Didn’t",
-        "Quoting Charity Majors",
-        "Logic for Programmers v0.15, Livecoding"
-      ],
-      "tweet_drafts": [
+        "GLM 5.2 playing text adventures",
         "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
         "You Got Faster. Your Company Didn’t",
         "Quoting Charity Majors"
       ],
+      "key_points_zh": [
+        "GLM 5.2 playing text adventures",
+        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+        "You Got Faster. Your Company Didn’t",
+        "Quoting Charity Majors"
+      ],
+      "key_points_en": [
+        "GLM 5.2 playing text adventures",
+        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+        "You Got Faster. Your Company Didn’t",
+        "Quoting Charity Majors"
+      ],
+      "tweet_drafts": [
+        "GLM 5.2 playing text adventures",
+        "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+        "You Got Faster. Your Company Didn’t"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "GLM 5.2 playing text adventures",
+          "link": "https://entropicthoughts.com/glm-5-2-playing-text-adventures"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
@@ -125,27 +134,22 @@
           "feed_title": "terriblesoftware.org",
           "title": "You Got Faster. Your Company Didn’t.",
           "link": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Charity Majors",
-          "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-17 技术日报：Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t；Quoting Charity Majors。",
-      "summary_en": "Daily brief (2026-06-17): Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t; Quoting Charity Majors.",
+      "summary_zh": "2026-06-17 技术日报：GLM 5.2 playing text adventures；Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t。",
+      "summary_en": "Daily brief (2026-06-17): GLM 5.2 playing text adventures; Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-17 日报】Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t；Quoting Charity Majors。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-17): Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t; Quoting Charity Majors. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-17 日报】GLM 5.2 playing text adventures；Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-17): GLM 5.2 playing text adventures; Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-17）\n- Pluralistic: The (real) dead economy theory (17 Jun 2026)\n- You Got Faster. Your Company Didn’t\n- Quoting Charity Majors\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n- https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-17)\n- Pluralistic: The (real) dead economy theory (17 Jun 2026)\n- You Got Faster. Your Company Didn’t\n- Quoting Charity Majors\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n- https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-17）\n- GLM 5.2 playing text adventures\n- Pluralistic: The (real) dead economy theory (17 Jun 2026)\n- You Got Faster. Your Company Didn’t\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/glm-5-2-playing-text-adventures\n- https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-17)\n- GLM 5.2 playing text adventures\n- Pluralistic: The (real) dead economy theory (17 Jun 2026)\n- You Got Faster. Your Company Didn’t\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/glm-5-2-playing-text-adventures\n- https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/\n- https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t；Quoting Charity Majors。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t; Quoting Charity Majors.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：GLM 5.2 playing text adventures；Pluralistic: The (real) dead economy theory (17 Jun 2026)；You Got Faster. Your Company Didn’t。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: GLM 5.2 playing text adventures; Pluralistic: The (real) dead economy theory (17 Jun 2026); You Got Faster. Your Company Didn’t.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -469,8 +473,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1532,27 +1536,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
