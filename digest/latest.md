@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-18 18:42:49 UTC
+Generated at: 2026-06-18 19:41:47 UTC
 
-- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) (`krebsonsecurity.com`)
+- [Cotypist – Smart Autocomplete Utility for Mac](https://cotypist.app/) (`daringfireball.net`)
+- [You don’t understand, prices can’t go down](https://geohot.github.io//blog/jekyll/update/2026/06/18/prices-cant-go-down.html) (`geohot.github.io`)
