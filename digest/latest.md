@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-18 17:33:15 UTC
+Generated at: 2026-06-18 18:42:49 UTC
 
-- [New Domain for Sign In With Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) (`daringfireball.net`)
+- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) (`krebsonsecurity.com`)
