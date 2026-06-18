@@ -1,16 +1,88 @@
 {
-  "generated_at": "2026-06-17T22:31:03Z",
+  "generated_at": "2026-06-18T07:31:13Z",
   "days": [
     {
+      "date": "2026-06-18",
+      "total": 4,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)",
+        "xeiaso.net (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · How to correctly not wait for network carrier in Netplan",
+        "daringfireball.net · Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
+        "xeiaso.net · I hate compilers",
+        "simonwillison.net · GLM-5.2 is probably the most powerful text-only open weights LLM"
+      ],
+      "key_points": [
+        "How to correctly not wait for network carrier in Netplan",
+        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
+        "I hate compilers",
+        "GLM-5.2 is probably the most powerful text-only open weights LLM"
+      ],
+      "key_points_zh": [
+        "How to correctly not wait for network carrier in Netplan",
+        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
+        "I hate compilers",
+        "GLM-5.2 is probably the most powerful text-only open weights LLM"
+      ],
+      "key_points_en": [
+        "How to correctly not wait for network carrier in Netplan",
+        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
+        "I hate compilers",
+        "GLM-5.2 is probably the most powerful text-only open weights LLM"
+      ],
+      "tweet_drafts": [
+        "How to correctly not wait for network carrier in Netplan",
+        "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
+        "I hate compilers"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "How to correctly not wait for network carrier in Netplan",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly",
+          "link": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8"
+        },
+        {
+          "feed_title": "xeiaso.net",
+          "title": "I hate compilers",
+          "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/"
+        }
+      ],
+      "summary_zh": "2026-06-18 技术日报：How to correctly not wait for network carrier in Netplan；Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly；I hate compilers。",
+      "summary_en": "Daily brief (2026-06-18): How to correctly not wait for network carrier in Netplan; Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly; I hate compilers.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-18 日报】How to correctly not wait for network carrier in Netplan；Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly；I hate compilers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-18): How to correctly not wait for network carrier in Netplan; Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly; I hate compilers. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-18）\n- How to correctly not wait for network carrier in Netplan\n- Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly\n- I hate compilers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII\n- https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8\n- https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-18)\n- How to correctly not wait for network carrier in Netplan\n- Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly\n- I hate compilers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII\n- https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8\n- https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：How to correctly not wait for network carrier in Netplan；Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly；I hate compilers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: How to correctly not wait for network carrier in Netplan; Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly; I hate compilers.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-17",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "daringfireball.net (2)",
         "simonwillison.net (2)",
         "buttondown.com/hillelwayne (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "geohot.github.io (1)",
-        "johndcook.com (1)"
+        "geohot.github.io (1)"
       ],
       "highlights": [
         "pluralistic.net · Pluralistic: The (real) dead economy theory (17 Jun 2026)",
@@ -397,8 +469,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1460,27 +1532,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1537,8 +1609,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance；Quoting SpaceX S-1；The stock market returns 4 %。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance; Quoting SpaceX S-1; The stock market returns 4 %.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-19",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (2)",
-        "simonwillison.net (2)",
-        "antirez.com (1)",
-        "danieldelaney.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "utcc.utoronto.ca/~cks · The hardware needs of our mail system (as of mid 2026)",
-        "wheresyoured.at · AI Is Too Expensive",
-        "daringfireball.net · Andrej Karpathy Joined Anthropic",
-        "devblogs.microsoft.com/oldnewthing · What is the history of the ERROR_ARENA_TRASHED error code?",
-        "jeffgeerling.com · Wi-Wi Is Wireless Time Sync at 1 nanosecond"
-      ],
-      "key_points": [
-        "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "The hardware needs of our mail system (as of mid 2026)",
-        "AI Is Too Expensive",
-        "Andrej Karpathy Joined Anthropic"
-      ],
-      "key_points_zh": [
-        "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "The hardware needs of our mail system (as of mid 2026)",
-        "AI Is Too Expensive",
-        "Andrej Karpathy Joined Anthropic"
-      ],
-      "key_points_en": [
-        "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "The hardware needs of our mail system (as of mid 2026)",
-        "AI Is Too Expensive",
-        "Andrej Karpathy Joined Anthropic"
-      ],
-      "tweet_drafts": [
-        "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "The hardware needs of our mail system (as of mid 2026)",
-        "AI Is Too Expensive"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-          "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "The hardware needs of our mail system (as of mid 2026)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMailSystemHardware"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "AI Is Too Expensive",
-          "link": "https://www.wheresyoured.at/ai-is-too-expensive/"
-        }
-      ],
-      "summary_zh": "2026-05-19 技术日报：Gemini 3.5 Flash: more expensive, but Google plan to use it for everything；The hardware needs of our mail system (as of mid 2026)；AI Is Too Expensive。",
-      "summary_en": "Daily brief (2026-05-19): Gemini 3.5 Flash: more expensive, but Google plan to use it for everything; The hardware needs of our mail system (as of mid 2026); AI Is Too Expensive.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-19 日报】Gemini 3.5 Flash: more expensive, but Google plan to use it for everything；The hardware needs of our mail system (as of mid 2026)；AI Is Too Expensive。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-19): Gemini 3.5 Flash: more expensive, but Google plan to use it for everything; The hardware needs of our mail system (as of mid 2026); AI Is Too Expensive. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-19）\n- Gemini 3.5 Flash: more expensive, but Google plan to use it for everything\n- The hardware needs of our mail system (as of mid 2026)\n- AI Is Too Expensive\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMailSystemHardware\n- https://www.wheresyoured.at/ai-is-too-expensive/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-19)\n- Gemini 3.5 Flash: more expensive, but Google plan to use it for everything\n- The hardware needs of our mail system (as of mid 2026)\n- AI Is Too Expensive\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMailSystemHardware\n- https://www.wheresyoured.at/ai-is-too-expensive/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Gemini 3.5 Flash: more expensive, but Google plan to use it for everything；The hardware needs of our mail system (as of mid 2026)；AI Is Too Expensive。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Gemini 3.5 Flash: more expensive, but Google plan to use it for everything; The hardware needs of our mail system (as of mid 2026); AI Is Too Expensive.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
