@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-19 15:08:18 UTC
+Generated at: 2026-06-19 16:20:39 UTC
 
-- [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/) (`overreacted.io`)
+- [Jerry Seinfeld Tries Out Snap’s Specs](https://youtu.be/siM8NW24QPs?t=217) (`daringfireball.net`)
+- [The Goldilocks Principle in Fantasy Strategy](https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/) (`filfre.net`)
