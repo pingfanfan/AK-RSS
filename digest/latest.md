@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-19 13:59:37 UTC
+Generated at: 2026-06-19 15:08:18 UTC
 
-- [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/) (`blog.jim-nielsen.com`)
+- [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/) (`overreacted.io`)
