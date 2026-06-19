@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-06-19T12:44:19Z",
+  "generated_at": "2026-06-19T13:59:52Z",
   "days": [
     {
       "date": "2026-06-19",
-      "total": 5,
+      "total": 6,
       "feeds": [
+        "blog.jim-nielsen.com (1)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
@@ -12,6 +13,7 @@
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · Full Page Paralysis",
         "construction-physics.com · Converting Coal Plants to Natural Gas",
         "dfarq.homeip.net · Jay Miner, Atari and Amiga computer designer",
         "utcc.utoronto.ca/~cks · Some reasons why your server may not be doing a UEFI network boot",
@@ -19,29 +21,34 @@
         "simonwillison.net · Datasette Apps: Host custom HTML applications inside Datasette"
       ],
       "key_points": [
-        "Converting Coal Plants to Natural Gas",
-        "Jay Miner, Atari and Amiga computer designer",
-        "Some reasons why your server may not be doing a UEFI network boot",
-        "Verizon, Formerly Menace Mobile"
-      ],
-      "key_points_zh": [
-        "Converting Coal Plants to Natural Gas",
-        "Jay Miner, Atari and Amiga computer designer",
-        "Some reasons why your server may not be doing a UEFI network boot",
-        "Verizon, Formerly Menace Mobile"
-      ],
-      "key_points_en": [
-        "Converting Coal Plants to Natural Gas",
-        "Jay Miner, Atari and Amiga computer designer",
-        "Some reasons why your server may not be doing a UEFI network boot",
-        "Verizon, Formerly Menace Mobile"
-      ],
-      "tweet_drafts": [
+        "Full Page Paralysis",
         "Converting Coal Plants to Natural Gas",
         "Jay Miner, Atari and Amiga computer designer",
         "Some reasons why your server may not be doing a UEFI network boot"
       ],
+      "key_points_zh": [
+        "Full Page Paralysis",
+        "Converting Coal Plants to Natural Gas",
+        "Jay Miner, Atari and Amiga computer designer",
+        "Some reasons why your server may not be doing a UEFI network boot"
+      ],
+      "key_points_en": [
+        "Full Page Paralysis",
+        "Converting Coal Plants to Natural Gas",
+        "Jay Miner, Atari and Amiga computer designer",
+        "Some reasons why your server may not be doing a UEFI network boot"
+      ],
+      "tweet_drafts": [
+        "Full Page Paralysis",
+        "Converting Coal Plants to Natural Gas",
+        "Jay Miner, Atari and Amiga computer designer"
+      ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Full Page Paralysis",
+          "link": "https://blog.jim-nielsen.com/2026/full-page-paralysis/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Converting Coal Plants to Natural Gas",
@@ -51,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Jay Miner, Atari and Amiga computer designer",
           "link": "https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Some reasons why your server may not be doing a UEFI network boot",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot"
         }
       ],
-      "summary_zh": "2026-06-19 技术日报：Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer；Some reasons why your server may not be doing a UEFI network boot。",
-      "summary_en": "Daily brief (2026-06-19): Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer; Some reasons why your server may not be doing a UEFI network boot.",
+      "summary_zh": "2026-06-19 技术日报：Full Page Paralysis；Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer。",
+      "summary_en": "Daily brief (2026-06-19): Full Page Paralysis; Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-19 日报】Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer；Some reasons why your server may not be doing a UEFI network boot。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-19): Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer; Some reasons why your server may not be doing a UEFI network boot. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildI"
+          "zh": "【2026-06-19 日报】Full Page Paralysis；Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-19): Full Page Paralysis; Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-19）\n- Converting Coal Plants to Natural Gas\n- Jay Miner, Atari and Amiga computer designer\n- Some reasons why your server may not be doing a UEFI network boot\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/converting-coal-plants-to-natural\n- https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-19)\n- Converting Coal Plants to Natural Gas\n- Jay Miner, Atari and Amiga computer designer\n- Some reasons why your server may not be doing a UEFI network boot\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/converting-coal-plants-to-natural\n- https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-19）\n- Full Page Paralysis\n- Converting Coal Plants to Natural Gas\n- Jay Miner, Atari and Amiga computer designer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/full-page-paralysis/\n- https://www.construction-physics.com/p/converting-coal-plants-to-natural\n- https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-19)\n- Full Page Paralysis\n- Converting Coal Plants to Natural Gas\n- Jay Miner, Atari and Amiga computer designer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/full-page-paralysis/\n- https://www.construction-physics.com/p/converting-coal-plants-to-natural\n- https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer；Some reasons why your server may not be doing a UEFI network boot。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer; Some reasons why your server may not be doing a UEFI network boot.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Full Page Paralysis；Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Full Page Paralysis; Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -395,8 +397,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -547,8 +549,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1610,27 +1612,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
