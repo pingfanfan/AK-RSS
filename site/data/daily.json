@@ -1,70 +1,77 @@
 {
-  "generated_at": "2026-06-19T11:04:18Z",
+  "generated_at": "2026-06-19T12:44:19Z",
   "days": [
     {
       "date": "2026-06-19",
-      "total": 3,
+      "total": 5,
       "feeds": [
+        "construction-physics.com (1)",
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "construction-physics.com · Converting Coal Plants to Natural Gas",
+        "dfarq.homeip.net · Jay Miner, Atari and Amiga computer designer",
         "utcc.utoronto.ca/~cks · Some reasons why your server may not be doing a UEFI network boot",
         "daringfireball.net · Verizon, Formerly Menace Mobile",
         "simonwillison.net · Datasette Apps: Host custom HTML applications inside Datasette"
       ],
       "key_points": [
+        "Converting Coal Plants to Natural Gas",
+        "Jay Miner, Atari and Amiga computer designer",
         "Some reasons why your server may not be doing a UEFI network boot",
-        "Verizon, Formerly Menace Mobile",
-        "Datasette Apps: Host custom HTML applications inside Datasette"
+        "Verizon, Formerly Menace Mobile"
       ],
       "key_points_zh": [
+        "Converting Coal Plants to Natural Gas",
+        "Jay Miner, Atari and Amiga computer designer",
         "Some reasons why your server may not be doing a UEFI network boot",
-        "Verizon, Formerly Menace Mobile",
-        "Datasette Apps: Host custom HTML applications inside Datasette"
+        "Verizon, Formerly Menace Mobile"
       ],
       "key_points_en": [
+        "Converting Coal Plants to Natural Gas",
+        "Jay Miner, Atari and Amiga computer designer",
         "Some reasons why your server may not be doing a UEFI network boot",
-        "Verizon, Formerly Menace Mobile",
-        "Datasette Apps: Host custom HTML applications inside Datasette"
+        "Verizon, Formerly Menace Mobile"
       ],
       "tweet_drafts": [
-        "Some reasons why your server may not be doing a UEFI network boot",
-        "Verizon, Formerly Menace Mobile",
-        "Datasette Apps: Host custom HTML applications inside Datasette"
+        "Converting Coal Plants to Natural Gas",
+        "Jay Miner, Atari and Amiga computer designer",
+        "Some reasons why your server may not be doing a UEFI network boot"
       ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Converting Coal Plants to Natural Gas",
+          "link": "https://www.construction-physics.com/p/converting-coal-plants-to-natural"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Jay Miner, Atari and Amiga computer designer",
+          "link": "https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "Some reasons why your server may not be doing a UEFI network boot",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Verizon, Formerly Menace Mobile",
-          "link": "https://www.youtube.com/watch?v=lzmntndEXWo"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-          "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-19 技术日报：Some reasons why your server may not be doing a UEFI network boot；Verizon, Formerly Menace Mobile；Datasette Apps: Host custom HTML applications inside Datasette。",
-      "summary_en": "Daily brief (2026-06-19): Some reasons why your server may not be doing a UEFI network boot; Verizon, Formerly Menace Mobile; Datasette Apps: Host custom HTML applications inside Datasette.",
+      "summary_zh": "2026-06-19 技术日报：Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer；Some reasons why your server may not be doing a UEFI network boot。",
+      "summary_en": "Daily brief (2026-06-19): Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer; Some reasons why your server may not be doing a UEFI network boot.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-19 日报】Some reasons why your server may not be doing a UEFI network boot；Verizon, Formerly Menace Mobile；Datasette Apps: Host custom HTML applications inside Datasette。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-19): Some reasons why your server may not be doing a UEFI network boot; Verizon, Formerly Menace Mobile; Datasette Apps: Host custom HTML applications inside Datasette. Actionable takeaways included. What would you ship next? #AI #Enginee"
+          "zh": "【2026-06-19 日报】Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer；Some reasons why your server may not be doing a UEFI network boot。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-19): Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer; Some reasons why your server may not be doing a UEFI network boot. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-19）\n- Some reasons why your server may not be doing a UEFI network boot\n- Verizon, Formerly Menace Mobile\n- Datasette Apps: Host custom HTML applications inside Datasette\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n- https://www.youtube.com/watch?v=lzmntndEXWo\n- https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-19)\n- Some reasons why your server may not be doing a UEFI network boot\n- Verizon, Formerly Menace Mobile\n- Datasette Apps: Host custom HTML applications inside Datasette\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n- https://www.youtube.com/watch?v=lzmntndEXWo\n- https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-19）\n- Converting Coal Plants to Natural Gas\n- Jay Miner, Atari and Amiga computer designer\n- Some reasons why your server may not be doing a UEFI network boot\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/converting-coal-plants-to-natural\n- https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-19)\n- Converting Coal Plants to Natural Gas\n- Jay Miner, Atari and Amiga computer designer\n- Some reasons why your server may not be doing a UEFI network boot\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/converting-coal-plants-to-natural\n- https://dfarq.homeip.net/jay-miner-atari-and-amiga-computer-designer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=jay-miner-atari-and-amiga-computer-designer\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Some reasons why your server may not be doing a UEFI network boot；Verizon, Formerly Menace Mobile；Datasette Apps: Host custom HTML applications inside Datasette。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Some reasons why your server may not be doing a UEFI network boot; Verizon, Formerly Menace Mobile; Datasette Apps: Host custom HTML applications inside Datasette.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Converting Coal Plants to Natural Gas；Jay Miner, Atari and Amiga computer designer；Some reasons why your server may not be doing a UEFI network boot。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Converting Coal Plants to Natural Gas; Jay Miner, Atari and Amiga computer designer; Some reasons why your server may not be doing a UEFI network boot.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -388,8 +395,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1680,8 +1687,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
