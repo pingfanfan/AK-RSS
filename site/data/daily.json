@@ -1,9 +1,76 @@
 {
-  "generated_at": "2026-06-18T22:34:58Z",
+  "generated_at": "2026-06-19T07:42:12Z",
   "days": [
     {
+      "date": "2026-06-19",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Some reasons why your server may not be doing a UEFI network boot",
+        "daringfireball.net · Verizon, Formerly Menace Mobile",
+        "simonwillison.net · Datasette Apps: Host custom HTML applications inside Datasette"
+      ],
+      "key_points": [
+        "Some reasons why your server may not be doing a UEFI network boot",
+        "Verizon, Formerly Menace Mobile",
+        "Datasette Apps: Host custom HTML applications inside Datasette"
+      ],
+      "key_points_zh": [
+        "Some reasons why your server may not be doing a UEFI network boot",
+        "Verizon, Formerly Menace Mobile",
+        "Datasette Apps: Host custom HTML applications inside Datasette"
+      ],
+      "key_points_en": [
+        "Some reasons why your server may not be doing a UEFI network boot",
+        "Verizon, Formerly Menace Mobile",
+        "Datasette Apps: Host custom HTML applications inside Datasette"
+      ],
+      "tweet_drafts": [
+        "Some reasons why your server may not be doing a UEFI network boot",
+        "Verizon, Formerly Menace Mobile",
+        "Datasette Apps: Host custom HTML applications inside Datasette"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Some reasons why your server may not be doing a UEFI network boot",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Verizon, Formerly Menace Mobile",
+          "link": "https://www.youtube.com/watch?v=lzmntndEXWo"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+          "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-06-19 技术日报：Some reasons why your server may not be doing a UEFI network boot；Verizon, Formerly Menace Mobile；Datasette Apps: Host custom HTML applications inside Datasette。",
+      "summary_en": "Daily brief (2026-06-19): Some reasons why your server may not be doing a UEFI network boot; Verizon, Formerly Menace Mobile; Datasette Apps: Host custom HTML applications inside Datasette.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-19 日报】Some reasons why your server may not be doing a UEFI network boot；Verizon, Formerly Menace Mobile；Datasette Apps: Host custom HTML applications inside Datasette。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-19): Some reasons why your server may not be doing a UEFI network boot; Verizon, Formerly Menace Mobile; Datasette Apps: Host custom HTML applications inside Datasette. Actionable takeaways included. What would you ship next? #AI #Enginee"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-19）\n- Some reasons why your server may not be doing a UEFI network boot\n- Verizon, Formerly Menace Mobile\n- Datasette Apps: Host custom HTML applications inside Datasette\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n- https://www.youtube.com/watch?v=lzmntndEXWo\n- https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-19)\n- Some reasons why your server may not be doing a UEFI network boot\n- Verizon, Formerly Menace Mobile\n- Datasette Apps: Host custom HTML applications inside Datasette\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot\n- https://www.youtube.com/watch?v=lzmntndEXWo\n- https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Some reasons why your server may not be doing a UEFI network boot；Verizon, Formerly Menace Mobile；Datasette Apps: Host custom HTML applications inside Datasette。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Some reasons why your server may not be doing a UEFI network boot; Verizon, Formerly Menace Mobile; Datasette Apps: Host custom HTML applications inside Datasette.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-18",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (4)",
         "aresluna.org (1)",
@@ -473,8 +540,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Notes on respectfully getting a personal copy of a website's contents；Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada；Datasette Agent。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Notes on respectfully getting a personal copy of a website's contents; Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada; Datasette Agent.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-20",
-      "total": 17,
-      "feeds": [
-        "simonwillison.net (4)",
-        "buttondown.com/hillelwayne (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "micahflee.com · Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-        "simonwillison.net · Quoting SpaceX S-1",
-        "entropicthoughts.com · The stock market returns 4 %",
-        "daringfireball.net · NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
-        "simonwillison.net · How fast is 10 tokens per second really?",
-        "simonwillison.net · Google I/O, Gemini Spark, Antigravity"
-      ],
-      "key_points": [
-        "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-        "Quoting SpaceX S-1",
-        "The stock market returns 4 %",
-        "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’"
-      ],
-      "key_points_zh": [
-        "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-        "Quoting SpaceX S-1",
-        "The stock market returns 4 %",
-        "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’"
-      ],
-      "key_points_en": [
-        "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-        "Quoting SpaceX S-1",
-        "The stock market returns 4 %",
-        "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’"
-      ],
-      "tweet_drafts": [
-        "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-        "Quoting SpaceX S-1",
-        "The stock market returns 4 %"
-      ],
-      "sources": [
-        {
-          "feed_title": "micahflee.com",
-          "title": "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
-          "link": "https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting SpaceX S-1",
-          "link": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything"
-        },
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "The stock market returns 4 %",
-          "link": "https://entropicthoughts.com/stock-market-returns-4-percent"
-        }
-      ],
-      "summary_zh": "2026-05-20 技术日报：Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance；Quoting SpaceX S-1；The stock market returns 4 %。",
-      "summary_en": "Daily brief (2026-05-20): Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance; Quoting SpaceX S-1; The stock market returns 4 %.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-20 日报】Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance；Quoting SpaceX S-1；The stock market returns 4 %。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-20): Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance; Quoting SpaceX S-1; The stock market returns 4 %. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-20）\n- Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance\n- Quoting SpaceX S-1\n- The stock market returns 4 %\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/\n- https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything\n- https://entropicthoughts.com/stock-market-returns-4-percent\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-20)\n- Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance\n- Quoting SpaceX S-1\n- The stock market returns 4 %\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/\n- https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything\n- https://entropicthoughts.com/stock-market-returns-4-percent\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance；Quoting SpaceX S-1；The stock market returns 4 %。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance; Quoting SpaceX S-1; The stock market returns 4 %.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
