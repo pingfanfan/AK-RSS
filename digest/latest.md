@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-19 16:20:39 UTC
+Generated at: 2026-06-19 17:14:32 UTC
 
-- [Jerry Seinfeld Tries Out Snap’s Specs](https://youtu.be/siM8NW24QPs?t=217) (`daringfireball.net`)
-- [The Goldilocks Principle in Fantasy Strategy](https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/) (`filfre.net`)
+- [Snap Launches Ad Campaign for Specs Starring Michael Caine](https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/) (`daringfireball.net`)
+- [Premium: The Silicon Valley Bubble (Part 2)](https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-2/) (`wheresyoured.at`)
+- [The data black hole at the center of AI](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2) (`dwarkesh.com`)
