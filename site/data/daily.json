@@ -1,49 +1,126 @@
 {
-  "generated_at": "2026-06-19T22:45:11Z",
+  "generated_at": "2026-06-20T07:13:04Z",
   "days": [
     {
-      "date": "2026-06-19",
-      "total": 14,
+      "date": "2026-06-20",
+      "total": 4,
       "feeds": [
-        "daringfireball.net (4)",
-        "blog.jim-nielsen.com (1)",
-        "construction-physics.com (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "filfre.net (1)"
+        "daringfireball.net (1)",
+        "idiallo.com (1)",
+        "oldvcr.blogspot.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · I know Kung-fu",
+        "utcc.utoronto.ca/~cks · Limiting web server bandwidth the brute force way",
+        "oldvcr.blogspot.com · Bobby Prince has died",
+        "daringfireball.net · Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer"
+      ],
+      "key_points": [
+        "I know Kung-fu",
+        "Limiting web server bandwidth the brute force way",
+        "Bobby Prince has died",
+        "Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer"
+      ],
+      "key_points_zh": [
+        "I know Kung-fu",
+        "Limiting web server bandwidth the brute force way",
+        "Bobby Prince has died",
+        "Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer"
+      ],
+      "key_points_en": [
+        "I know Kung-fu",
+        "Limiting web server bandwidth the brute force way",
+        "Bobby Prince has died",
+        "Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer"
+      ],
+      "tweet_drafts": [
+        "I know Kung-fu",
+        "Limiting web server bandwidth the brute force way",
+        "Bobby Prince has died"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "I know Kung-fu",
+          "link": "https://idiallo.com/blog/i-know-kung-fu"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Limiting web server bandwidth the brute force way",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit"
+        },
+        {
+          "feed_title": "oldvcr.blogspot.com",
+          "title": "Bobby Prince has died",
+          "link": "https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html"
+        }
+      ],
+      "summary_zh": "2026-06-20 技术日报：I know Kung-fu；Limiting web server bandwidth the brute force way；Bobby Prince has died。",
+      "summary_en": "Daily brief (2026-06-20): I know Kung-fu; Limiting web server bandwidth the brute force way; Bobby Prince has died.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-20 日报】I know Kung-fu；Limiting web server bandwidth the brute force way；Bobby Prince has died。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-20): I know Kung-fu; Limiting web server bandwidth the brute force way; Bobby Prince has died. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-20）\n- I know Kung-fu\n- Limiting web server bandwidth the brute force way\n- Bobby Prince has died\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/i-know-kung-fu\n- https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit\n- https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-20)\n- I know Kung-fu\n- Limiting web server bandwidth the brute force way\n- Bobby Prince has died\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/i-know-kung-fu\n- https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit\n- https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：I know Kung-fu；Limiting web server bandwidth the brute force way；Bobby Prince has died。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: I know Kung-fu; Limiting web server bandwidth the brute force way; Bobby Prince has died.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "total": 17,
+      "feeds": [
+        "daringfireball.net (4)",
+        "simonwillison.net (2)",
+        "blog.jim-nielsen.com (1)",
+        "construction-physics.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
+        "dfarq.homeip.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Sean Lynch",
         "pluralistic.net · Pluralistic: The Big Con (19 Jun 2026)",
         "blog.jim-nielsen.com · Full Page Paralysis",
         "daringfireball.net · Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 2)",
-        "dwarkesh.com · The data black hole at the center of AI",
-        "daringfireball.net · Snap Launches Ad Campaign for Specs Starring Michael Caine"
+        "dwarkesh.com · The data black hole at the center of AI"
       ],
       "key_points": [
-        "Pluralistic: The Big Con (19 Jun 2026)",
-        "Full Page Paralysis",
-        "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro",
-        "Premium: The Silicon Valley Bubble (Part 2)"
-      ],
-      "key_points_zh": [
-        "Pluralistic: The Big Con (19 Jun 2026)",
-        "Full Page Paralysis",
-        "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro",
-        "Premium: The Silicon Valley Bubble (Part 2)"
-      ],
-      "key_points_en": [
-        "Pluralistic: The Big Con (19 Jun 2026)",
-        "Full Page Paralysis",
-        "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro",
-        "Premium: The Silicon Valley Bubble (Part 2)"
-      ],
-      "tweet_drafts": [
+        "Quoting Sean Lynch",
         "Pluralistic: The Big Con (19 Jun 2026)",
         "Full Page Paralysis",
         "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro"
       ],
+      "key_points_zh": [
+        "Quoting Sean Lynch",
+        "Pluralistic: The Big Con (19 Jun 2026)",
+        "Full Page Paralysis",
+        "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro"
+      ],
+      "key_points_en": [
+        "Quoting Sean Lynch",
+        "Pluralistic: The Big Con (19 Jun 2026)",
+        "Full Page Paralysis",
+        "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro"
+      ],
+      "tweet_drafts": [
+        "Quoting Sean Lynch",
+        "Pluralistic: The Big Con (19 Jun 2026)",
+        "Full Page Paralysis"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Sean Lynch",
+          "link": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: The Big Con (19 Jun 2026)",
@@ -53,27 +130,22 @@
           "feed_title": "blog.jim-nielsen.com",
           "title": "Full Page Paralysis",
           "link": "https://blog.jim-nielsen.com/2026/full-page-paralysis/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro",
-          "link": "https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293"
         }
       ],
-      "summary_zh": "2026-06-19 技术日报：Pluralistic: The Big Con (19 Jun 2026)；Full Page Paralysis；Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro。",
-      "summary_en": "Daily brief (2026-06-19): Pluralistic: The Big Con (19 Jun 2026); Full Page Paralysis; Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro.",
+      "summary_zh": "2026-06-19 技术日报：Quoting Sean Lynch；Pluralistic: The Big Con (19 Jun 2026)；Full Page Paralysis。",
+      "summary_en": "Daily brief (2026-06-19): Quoting Sean Lynch; Pluralistic: The Big Con (19 Jun 2026); Full Page Paralysis.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-19 日报】Pluralistic: The Big Con (19 Jun 2026)；Full Page Paralysis；Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-19): Pluralistic: The Big Con (19 Jun 2026); Full Page Paralysis; Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-19 日报】Quoting Sean Lynch；Pluralistic: The Big Con (19 Jun 2026)；Full Page Paralysis。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-19): Quoting Sean Lynch; Pluralistic: The Big Con (19 Jun 2026); Full Page Paralysis. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-19）\n- Pluralistic: The Big Con (19 Jun 2026)\n- Full Page Paralysis\n- Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/06/19/too-big-to-fact-check/\n- https://blog.jim-nielsen.com/2026/full-page-paralysis/\n- https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-19)\n- Pluralistic: The Big Con (19 Jun 2026)\n- Full Page Paralysis\n- Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/06/19/too-big-to-fact-check/\n- https://blog.jim-nielsen.com/2026/full-page-paralysis/\n- https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-19）\n- Quoting Sean Lynch\n- Pluralistic: The Big Con (19 Jun 2026)\n- Full Page Paralysis\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything\n- https://pluralistic.net/2026/06/19/too-big-to-fact-check/\n- https://blog.jim-nielsen.com/2026/full-page-paralysis/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-19)\n- Quoting Sean Lynch\n- Pluralistic: The Big Con (19 Jun 2026)\n- Full Page Paralysis\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything\n- https://pluralistic.net/2026/06/19/too-big-to-fact-check/\n- https://blog.jim-nielsen.com/2026/full-page-paralysis/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: The Big Con (19 Jun 2026)；Full Page Paralysis；Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: The Big Con (19 Jun 2026); Full Page Paralysis; Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Sean Lynch；Pluralistic: The Big Con (19 Jun 2026)；Full Page Paralysis。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Sean Lynch; Pluralistic: The Big Con (19 Jun 2026); Full Page Paralysis.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -397,8 +469,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -549,8 +621,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1689,8 +1761,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：The memory shortage is causing a repricing of consumer electronics；★ The Fonts of the U.S. Federal Courts；News about Raspberry Pi 6 and Microcontroller Development。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: The memory shortage is causing a repricing of consumer electronics; ★ The Fonts of the U.S. Federal Courts; News about Raspberry Pi 6 and Microcontroller Development.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-21",
-      "total": 24,
-      "feeds": [
-        "daringfireball.net (3)",
-        "johndcook.com (2)",
-        "utcc.utoronto.ca/~cks (2)",
-        "xeiaso.net (2)",
-        "berthub.eu (1)",
-        "blog.jim-nielsen.com (1)"
-      ],
-      "highlights": [
-        "utcc.utoronto.ca/~cks · Notes on respectfully getting a personal copy of a website's contents",
-        "krebsonsecurity.com · Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-        "simonwillison.net · Datasette Agent",
-        "daringfireball.net · Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup",
-        "blog.jim-nielsen.com · Book Notes: “Poor Charlie’s Almanack”",
-        "johndcook.com · Couth and uncouth function pairs"
-      ],
-      "key_points": [
-        "Notes on respectfully getting a personal copy of a website's contents",
-        "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-        "Datasette Agent",
-        "Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup"
-      ],
-      "key_points_zh": [
-        "Notes on respectfully getting a personal copy of a website's contents",
-        "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-        "Datasette Agent",
-        "Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup"
-      ],
-      "key_points_en": [
-        "Notes on respectfully getting a personal copy of a website's contents",
-        "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-        "Datasette Agent",
-        "Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup"
-      ],
-      "tweet_drafts": [
-        "Notes on respectfully getting a personal copy of a website's contents",
-        "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-        "Datasette Agent"
-      ],
-      "sources": [
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Notes on respectfully getting a personal copy of a website's contents",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-          "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Datasette Agent",
-          "link": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-05-21 技术日报：Notes on respectfully getting a personal copy of a website's contents；Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada；Datasette Agent。",
-      "summary_en": "Daily brief (2026-05-21): Notes on respectfully getting a personal copy of a website's contents; Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada; Datasette Agent.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-21 日报】Notes on respectfully getting a personal copy of a website's contents；Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada；Datasette Agent。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-21): Notes on respectfully getting a personal copy of a website's contents; Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada; Datasette Agent. Actionable takeaways included. What would you ship next? #AI #Engineering"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-21）\n- Notes on respectfully getting a personal copy of a website's contents\n- Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada\n- Datasette Agent\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving\n- https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/\n- https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-21)\n- Notes on respectfully getting a personal copy of a website's contents\n- Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada\n- Datasette Agent\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving\n- https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/\n- https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Notes on respectfully getting a personal copy of a website's contents；Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada；Datasette Agent。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Notes on respectfully getting a personal copy of a website's contents; Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada; Datasette Agent.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
