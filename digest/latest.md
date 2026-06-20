@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-20 12:28:52 UTC
+Generated at: 2026-06-20 13:04:13 UTC
 
-- [Reading List 06/20/26](https://www.construction-physics.com/p/reading-list-062026) (`construction-physics.com`)
