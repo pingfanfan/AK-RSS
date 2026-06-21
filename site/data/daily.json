@@ -1,16 +1,61 @@
 {
-  "generated_at": "2026-06-20T22:50:16Z",
+  "generated_at": "2026-06-21T07:30:08Z",
   "days": [
     {
+      "date": "2026-06-21",
+      "total": 1,
+      "feeds": [
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · PyPy and Python 3 for us"
+      ],
+      "key_points": [
+        "PyPy and Python 3 for us"
+      ],
+      "key_points_zh": [
+        "PyPy and Python 3 for us"
+      ],
+      "key_points_en": [
+        "PyPy and Python 3 for us"
+      ],
+      "tweet_drafts": [
+        "PyPy and Python 3 for us"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "PyPy and Python 3 for us",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs"
+        }
+      ],
+      "summary_zh": "2026-06-21 技术日报：PyPy and Python 3 for us。",
+      "summary_en": "Daily brief (2026-06-21): PyPy and Python 3 for us.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-21 日报】PyPy and Python 3 for us。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-21): PyPy and Python 3 for us. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-21）\n- PyPy and Python 3 for us\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-21)\n- PyPy and Python 3 for us\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：PyPy and Python 3 for us。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: PyPy and Python 3 for us.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-20",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "oldvcr.blogspot.com (1)"
+        "maurycyz.com (1)",
+        "nesbitt.io (1)"
       ],
       "highlights": [
         "johndcook.com · All pieces on a 6 by 5 board",
@@ -473,8 +518,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -625,8 +670,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1688,27 +1733,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：On the \u003cdl\u003e；Reverse engineering circuitry in a Spacelab computer from 1980；Hilbert transform as an infinite matrix。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: On the \u003cdl\u003e; Reverse engineering circuitry in a Spacelab computer from 1980; Hilbert transform as an infinite matrix.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-22",
-      "total": 16,
-      "feeds": [
-        "daringfireball.net (4)",
-        "simonwillison.net (2)",
-        "wheresyoured.at (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · The memory shortage is causing a repricing of consumer electronics",
-        "daringfireball.net · ★ The Fonts of the U.S. Federal Courts",
-        "jeffgeerling.com · News about Raspberry Pi 6 and Microcontroller Development",
-        "idiallo.com · How to Talk to Your Coworkers",
-        "daringfireball.net · The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)",
-        "daringfireball.net · Zero Sum Problems and Apple Sports"
-      ],
-      "key_points": [
-        "The memory shortage is causing a repricing of consumer electronics",
-        "★ The Fonts of the U.S. Federal Courts",
-        "News about Raspberry Pi 6 and Microcontroller Development",
-        "How to Talk to Your Coworkers"
-      ],
-      "key_points_zh": [
-        "The memory shortage is causing a repricing of consumer electronics",
-        "★ The Fonts of the U.S. Federal Courts",
-        "News about Raspberry Pi 6 and Microcontroller Development",
-        "How to Talk to Your Coworkers"
-      ],
-      "key_points_en": [
-        "The memory shortage is causing a repricing of consumer electronics",
-        "★ The Fonts of the U.S. Federal Courts",
-        "News about Raspberry Pi 6 and Microcontroller Development",
-        "How to Talk to Your Coworkers"
-      ],
-      "tweet_drafts": [
-        "The memory shortage is causing a repricing of consumer electronics",
-        "★ The Fonts of the U.S. Federal Courts",
-        "News about Raspberry Pi 6 and Microcontroller Development"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The memory shortage is causing a repricing of consumer electronics",
-          "link": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ The Fonts of the U.S. Federal Courts",
-          "link": "https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "News about Raspberry Pi 6 and Microcontroller Development",
-          "link": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/"
-        }
-      ],
-      "summary_zh": "2026-05-22 技术日报：The memory shortage is causing a repricing of consumer electronics；★ The Fonts of the U.S. Federal Courts；News about Raspberry Pi 6 and Microcontroller Development。",
-      "summary_en": "Daily brief (2026-05-22): The memory shortage is causing a repricing of consumer electronics; ★ The Fonts of the U.S. Federal Courts; News about Raspberry Pi 6 and Microcontroller Development.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-22 日报】The memory shortage is causing a repricing of consumer electronics；★ The Fonts of the U.S. Federal Courts；News about Raspberry Pi 6 and Microcontroller Development。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-22): The memory shortage is causing a repricing of consumer electronics; ★ The Fonts of the U.S. Federal Courts; News about Raspberry Pi 6 and Microcontroller Development. Actionable takeaways included. What would you ship next? #AI #Engi"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-22）\n- The memory shortage is causing a repricing of consumer electronics\n- ★ The Fonts of the U.S. Federal Courts\n- News about Raspberry Pi 6 and Microcontroller Development\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything\n- https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts\n- https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-22)\n- The memory shortage is causing a repricing of consumer electronics\n- ★ The Fonts of the U.S. Federal Courts\n- News about Raspberry Pi 6 and Microcontroller Development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything\n- https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts\n- https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：The memory shortage is causing a repricing of consumer electronics；★ The Fonts of the U.S. Federal Courts；News about Raspberry Pi 6 and Microcontroller Development。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The memory shortage is causing a repricing of consumer electronics; ★ The Fonts of the U.S. Federal Courts; News about Raspberry Pi 6 and Microcontroller Development.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
