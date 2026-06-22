@@ -1,45 +1,124 @@
 {
-  "generated_at": "2026-06-21T22:34:05Z",
+  "generated_at": "2026-06-22T07:46:59Z",
   "days": [
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "total": 4,
       "feeds": [
+        "idiallo.com (1)",
+        "johndcook.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "idiallo.com · Everything you say CAN and WILL be used against you",
+        "utcc.utoronto.ca/~cks · Configuration is a liability, just like code",
+        "johndcook.com · Queens on a prime order board",
+        "simonwillison.net · sqlite-utils 4.0rc1 adds migrations and nested transactions"
+      ],
+      "key_points": [
+        "Everything you say CAN and WILL be used against you",
+        "Configuration is a liability, just like code",
+        "Queens on a prime order board",
+        "sqlite-utils 4.0rc1 adds migrations and nested transactions"
+      ],
+      "key_points_zh": [
+        "Everything you say CAN and WILL be used against you",
+        "Configuration is a liability, just like code",
+        "Queens on a prime order board",
+        "sqlite-utils 4.0rc1 adds migrations and nested transactions"
+      ],
+      "key_points_en": [
+        "Everything you say CAN and WILL be used against you",
+        "Configuration is a liability, just like code",
+        "Queens on a prime order board",
+        "sqlite-utils 4.0rc1 adds migrations and nested transactions"
+      ],
+      "tweet_drafts": [
+        "Everything you say CAN and WILL be used against you",
+        "Configuration is a liability, just like code",
+        "Queens on a prime order board"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Everything you say CAN and WILL be used against you",
+          "link": "https://idiallo.com/blog/the-right-to-remain-silent"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Configuration is a liability, just like code",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Queens on a prime order board",
+          "link": "https://www.johndcook.com/blog/2026/06/21/queens-prime/"
+        }
+      ],
+      "summary_zh": "2026-06-22 技术日报：Everything you say CAN and WILL be used against you；Configuration is a liability, just like code；Queens on a prime order board。",
+      "summary_en": "Daily brief (2026-06-22): Everything you say CAN and WILL be used against you; Configuration is a liability, just like code; Queens on a prime order board.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-22 日报】Everything you say CAN and WILL be used against you；Configuration is a liability, just like code；Queens on a prime order board。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-22): Everything you say CAN and WILL be used against you; Configuration is a liability, just like code; Queens on a prime order board. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-22）\n- Everything you say CAN and WILL be used against you\n- Configuration is a liability, just like code\n- Queens on a prime order board\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/the-right-to-remain-silent\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability\n- https://www.johndcook.com/blog/2026/06/21/queens-prime/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-22)\n- Everything you say CAN and WILL be used against you\n- Configuration is a liability, just like code\n- Queens on a prime order board\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/the-right-to-remain-silent\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability\n- https://www.johndcook.com/blog/2026/06/21/queens-prime/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Everything you say CAN and WILL be used against you；Configuration is a liability, just like code；Queens on a prime order board。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Everything you say CAN and WILL be used against you; Configuration is a liability, just like code; Queens on a prime order board.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "total": 5,
+      "feeds": [
         "borretti.me (1)",
+        "daringfireball.net (1)",
         "geohot.github.io (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "daringfireball.net · Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
         "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
-        "Temporary Cloudflare Accounts for AI agents",
-        "The doom justifies the valuation",
-        "PyPy and Python 3 for us",
-        "On Vulgar Materialism"
-      ],
-      "key_points_zh": [
-        "Temporary Cloudflare Accounts for AI agents",
-        "The doom justifies the valuation",
-        "PyPy and Python 3 for us",
-        "On Vulgar Materialism"
-      ],
-      "key_points_en": [
-        "Temporary Cloudflare Accounts for AI agents",
-        "The doom justifies the valuation",
-        "PyPy and Python 3 for us",
-        "On Vulgar Materialism"
-      ],
-      "tweet_drafts": [
+        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
         "Temporary Cloudflare Accounts for AI agents",
         "The doom justifies the valuation",
         "PyPy and Python 3 for us"
       ],
+      "key_points_zh": [
+        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
+        "Temporary Cloudflare Accounts for AI agents",
+        "The doom justifies the valuation",
+        "PyPy and Python 3 for us"
+      ],
+      "key_points_en": [
+        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
+        "Temporary Cloudflare Accounts for AI agents",
+        "The doom justifies the valuation",
+        "PyPy and Python 3 for us"
+      ],
+      "tweet_drafts": [
+        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
+        "Temporary Cloudflare Accounts for AI agents",
+        "The doom justifies the valuation"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
+          "link": "https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Temporary Cloudflare Accounts for AI agents",
@@ -49,27 +128,22 @@
           "feed_title": "geohot.github.io",
           "title": "The doom justifies the valuation",
           "link": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "PyPy and Python 3 for us",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs"
         }
       ],
-      "summary_zh": "2026-06-21 技术日报：Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation；PyPy and Python 3 for us。",
-      "summary_en": "Daily brief (2026-06-21): Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation; PyPy and Python 3 for us.",
+      "summary_zh": "2026-06-21 技术日报：Before and After: MacOS 27 Golden Gate Beta 1’s App Icons；Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation。",
+      "summary_en": "Daily brief (2026-06-21): Before and After: MacOS 27 Golden Gate Beta 1’s App Icons; Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-21 日报】Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation；PyPy and Python 3 for us。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-21): Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation; PyPy and Python 3 for us. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-21 日报】Before and After: MacOS 27 Golden Gate Beta 1’s App Icons；Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-21): Before and After: MacOS 27 Golden Gate Beta 1’s App Icons; Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-21）\n- Temporary Cloudflare Accounts for AI agents\n- The doom justifies the valuation\n- PyPy and Python 3 for us\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything\n- https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\n- https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-21)\n- Temporary Cloudflare Accounts for AI agents\n- The doom justifies the valuation\n- PyPy and Python 3 for us\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything\n- https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\n- https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-21）\n- Before and After: MacOS 27 Golden Gate Beta 1’s App Icons\n- Temporary Cloudflare Accounts for AI agents\n- The doom justifies the valuation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison\n- https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything\n- https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-21)\n- Before and After: MacOS 27 Golden Gate Beta 1’s App Icons\n- Temporary Cloudflare Accounts for AI agents\n- The doom justifies the valuation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison\n- https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything\n- https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation；PyPy and Python 3 for us。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation; PyPy and Python 3 for us.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Before and After: MacOS 27 Golden Gate Beta 1’s App Icons；Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Before and After: MacOS 27 Golden Gate Beta 1’s App Icons; Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -545,8 +619,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -697,8 +771,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1760,27 +1834,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2198,82 +2272,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Quoting Armin Ronacher；Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Quoting Armin Ronacher; Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-23",
-      "total": 13,
-      "feeds": [
-        "johndcook.com (3)",
-        "berthub.eu (1)",
-        "construction-physics.com (1)",
-        "geohot.github.io (1)",
-        "idiallo.com (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · On the \u003cdl\u003e",
-        "righto.com · Reverse engineering circuitry in a Spacelab computer from 1980",
-        "johndcook.com · Hilbert transform as an infinite matrix",
-        "johndcook.com · Real and imaginary parts",
-        "construction-physics.com · Reading List 05/23/26",
-        "shkspr.mobi · Which age-gates should be skill-gates and vice-versa?"
-      ],
-      "key_points": [
-        "On the \u003cdl\u003e",
-        "Reverse engineering circuitry in a Spacelab computer from 1980",
-        "Hilbert transform as an infinite matrix",
-        "Real and imaginary parts"
-      ],
-      "key_points_zh": [
-        "On the \u003cdl\u003e",
-        "Reverse engineering circuitry in a Spacelab computer from 1980",
-        "Hilbert transform as an infinite matrix",
-        "Real and imaginary parts"
-      ],
-      "key_points_en": [
-        "On the \u003cdl\u003e",
-        "Reverse engineering circuitry in a Spacelab computer from 1980",
-        "Hilbert transform as an infinite matrix",
-        "Real and imaginary parts"
-      ],
-      "tweet_drafts": [
-        "On the \u003cdl\u003e",
-        "Reverse engineering circuitry in a Spacelab computer from 1980",
-        "Hilbert transform as an infinite matrix"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "On the \u003cdl\u003e",
-          "link": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything"
-        },
-        {
-          "feed_title": "righto.com",
-          "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-          "link": "http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Hilbert transform as an infinite matrix",
-          "link": "https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/"
-        }
-      ],
-      "summary_zh": "2026-05-23 技术日报：On the \u003cdl\u003e；Reverse engineering circuitry in a Spacelab computer from 1980；Hilbert transform as an infinite matrix。",
-      "summary_en": "Daily brief (2026-05-23): On the \u003cdl\u003e; Reverse engineering circuitry in a Spacelab computer from 1980; Hilbert transform as an infinite matrix.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-23 日报】On the \u003cdl\u003e；Reverse engineering circuitry in a Spacelab computer from 1980；Hilbert transform as an infinite matrix。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-23): On the \u003cdl\u003e; Reverse engineering circuitry in a Spacelab computer from 1980; Hilbert transform as an infinite matrix. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-23）\n- On the \u003cdl\u003e\n- Reverse engineering circuitry in a Spacelab computer from 1980\n- Hilbert transform as an infinite matrix\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything\n- http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\n- https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-23)\n- On the \u003cdl\u003e\n- Reverse engineering circuitry in a Spacelab computer from 1980\n- Hilbert transform as an infinite matrix\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything\n- http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\n- https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：On the \u003cdl\u003e；Reverse engineering circuitry in a Spacelab computer from 1980；Hilbert transform as an infinite matrix。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: On the \u003cdl\u003e; Reverse engineering circuitry in a Spacelab computer from 1980; Hilbert transform as an infinite matrix.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
