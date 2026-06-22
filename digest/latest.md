@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-22 11:59:00 UTC
+Generated at: 2026-06-22 14:06:24 UTC
 
-- [Cybersecurity for the paranoid business traveller](https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/) (`shkspr.mobi`)
-- [AMD Athlon: AMD’s game changing CPU from 1999](https://dfarq.homeip.net/amd-athlon-amds-game-changing-cpu-from-1999/?utm_source=rss&utm_medium=rss&utm_campaign=amd-athlon-amds-game-changing-cpu-from-1999) (`dfarq.homeip.net`)
+- [Pledging Another $400,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026) (`mitchellh.com`)
+- [Consistency, But in Excellence Not Appearance](https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/) (`blog.jim-nielsen.com`)
