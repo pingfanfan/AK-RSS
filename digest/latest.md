@@ -1,7 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-23 16:01:12 UTC
+Generated at: 2026-06-23 17:14:34 UTC
 
-- [Sunsetting a Package Manager](https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html) (`nesbitt.io`)
-- [Cargo Culture](https://www.wheresyoured.at/cargo-culture/) (`wheresyoured.at`)
-- [The most wonderful thing that happened to Tommy McHugh](https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened) (`experimental-history.com`)
+- [The Talk Show: ‘Perp Walk for Selfies’](https://daringfireball.net/thetalkshow/2026/06/23/ep-450) (`daringfireball.net`)
+- [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) (`krebsonsecurity.com`)
+- [The worthlessness of vitamin D is mildly exaggerated](https://dynomight.net/vitamin-d/) (`dynomight.net`)
