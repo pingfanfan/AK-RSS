@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-23 19:12:18 UTC
+Generated at: 2026-06-23 20:12:52 UTC
 
-- [Liminality](https://geohot.github.io//blog/jekyll/update/2026/06/23/liminality.html) (`geohot.github.io`)
+- [OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) (`simonwillison.net`)
+- [Tagged data in Haskell (SICP 2.4.2)](https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell) (`entropicthoughts.com`)
