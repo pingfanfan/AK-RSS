@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-06-22T22:59:46Z",
+  "generated_at": "2026-06-23T07:06:22Z",
   "days": [
+    {
+      "date": "2026-06-23",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · The quiet issue of lurking settings (and how it bit me)",
+        "daringfireball.net · Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’",
+        "simonwillison.net · Prompt Injection as Role Confusion"
+      ],
+      "key_points": [
+        "The quiet issue of lurking settings (and how it bit me)",
+        "Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’",
+        "Prompt Injection as Role Confusion"
+      ],
+      "key_points_zh": [
+        "The quiet issue of lurking settings (and how it bit me)",
+        "Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’",
+        "Prompt Injection as Role Confusion"
+      ],
+      "key_points_en": [
+        "The quiet issue of lurking settings (and how it bit me)",
+        "Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’",
+        "Prompt Injection as Role Confusion"
+      ],
+      "tweet_drafts": [
+        "The quiet issue of lurking settings (and how it bit me)",
+        "Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’",
+        "Prompt Injection as Role Confusion"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "The quiet issue of lurking settings (and how it bit me)",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’",
+          "link": "https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Prompt Injection as Role Confusion",
+          "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-06-23 技术日报：The quiet issue of lurking settings (and how it bit me)；Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’；Prompt Injection as Role Confusion。",
+      "summary_en": "Daily brief (2026-06-23): The quiet issue of lurking settings (and how it bit me); Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’; Prompt Injection as Role Confusion.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-23 日报】The quiet issue of lurking settings (and how it bit me)；Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’；Prompt Injection as Role Confusion。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-23): The quiet issue of lurking settings (and how it bit me); Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’; Prompt Injection as Role Confusion. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-23）\n- The quiet issue of lurking settings (and how it bit me)\n- Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’\n- Prompt Injection as Role Confusion\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings\n- https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2\n- https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-23)\n- The quiet issue of lurking settings (and how it bit me)\n- Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’\n- Prompt Injection as Role Confusion\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings\n- https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2\n- https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：The quiet issue of lurking settings (and how it bit me)；Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’；Prompt Injection as Role Confusion。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The quiet issue of lurking settings (and how it bit me); Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’; Prompt Injection as Role Confusion.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-06-22",
       "total": 14,
@@ -625,8 +692,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -777,8 +844,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1840,27 +1907,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -1917,8 +1984,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Welcoming the Bhutanese Government to Have I Been Pwned；90 % of the t distribution；Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Welcoming the Bhutanese Government to Have I Been Pwned; 90 % of the t distribution; Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "total": 11,
-      "feeds": [
-        "utcc.utoronto.ca/~cks (2)",
-        "daringfireball.net (1)",
-        "geohot.github.io (1)",
-        "lucumr.pocoo.org (1)",
-        "michael.stapelberg.ch (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Quoting Armin Ronacher",
-        "daringfireball.net · Why Steve Kerr Stayed With the Warriors",
-        "xania.org · Walking the dog with Claude",
-        "utcc.utoronto.ca/~cks · An idea: user level WireGuard for UDP based encryption and authentication",
-        "michael.stapelberg.ch · How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
-        "nesbitt.io · Signing is for the bad days"
-      ],
-      "key_points": [
-        "Quoting Armin Ronacher",
-        "Why Steve Kerr Stayed With the Warriors",
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication"
-      ],
-      "key_points_zh": [
-        "Quoting Armin Ronacher",
-        "Why Steve Kerr Stayed With the Warriors",
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication"
-      ],
-      "key_points_en": [
-        "Quoting Armin Ronacher",
-        "Why Steve Kerr Stayed With the Warriors",
-        "Walking the dog with Claude",
-        "An idea: user level WireGuard for UDP based encryption and authentication"
-      ],
-      "tweet_drafts": [
-        "Quoting Armin Ronacher",
-        "Why Steve Kerr Stayed With the Warriors",
-        "Walking the dog with Claude"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Armin Ronacher",
-          "link": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Why Steve Kerr Stayed With the Warriors",
-          "link": "https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry"
-        },
-        {
-          "feed_title": "xania.org",
-          "title": "Walking the dog with Claude",
-          "link": "http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss"
-        }
-      ],
-      "summary_zh": "2026-05-24 技术日报：Quoting Armin Ronacher；Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude。",
-      "summary_en": "Daily brief (2026-05-24): Quoting Armin Ronacher; Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-24 日报】Quoting Armin Ronacher；Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-24): Quoting Armin Ronacher; Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-24）\n- Quoting Armin Ronacher\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-24)\n- Quoting Armin Ronacher\n- Why Steve Kerr Stayed With the Warriors\n- Walking the dog with Claude\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything\n- https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry\n- http://xania.org/202605/walking-the-dog?utm_source=feed\u0026utm_medium=rss\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Armin Ronacher；Why Steve Kerr Stayed With the Warriors；Walking the dog with Claude。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Armin Ronacher; Why Steve Kerr Stayed With the Warriors; Walking the dog with Claude.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
