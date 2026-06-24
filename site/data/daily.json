@@ -1,49 +1,121 @@
 {
-  "generated_at": "2026-06-23T22:54:57Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "days": [
     {
-      "date": "2026-06-23",
-      "total": 15,
+      "date": "2026-06-24",
+      "total": 3,
       "feeds": [
+        "johndcook.com (1)",
+        "troyhunt.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "troyhunt.com · Weekly Update 509",
+        "utcc.utoronto.ca/~cks · Two versions of a 'is SSH up on a machine' check",
+        "johndcook.com · Regular expressions that work “everywhere”"
+      ],
+      "key_points": [
+        "Weekly Update 509",
+        "Two versions of a 'is SSH up on a machine' check",
+        "Regular expressions that work “everywhere”"
+      ],
+      "key_points_zh": [
+        "Weekly Update 509",
+        "Two versions of a 'is SSH up on a machine' check",
+        "Regular expressions that work “everywhere”"
+      ],
+      "key_points_en": [
+        "Weekly Update 509",
+        "Two versions of a 'is SSH up on a machine' check",
+        "Regular expressions that work “everywhere”"
+      ],
+      "tweet_drafts": [
+        "Weekly Update 509",
+        "Two versions of a 'is SSH up on a machine' check",
+        "Regular expressions that work “everywhere”"
+      ],
+      "sources": [
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 509",
+          "link": "https://www.troyhunt.com/weekly-update-509/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Two versions of a 'is SSH up on a machine' check",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Regular expressions that work “everywhere”",
+          "link": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/"
+        }
+      ],
+      "summary_zh": "2026-06-24 技术日报：Weekly Update 509；Two versions of a 'is SSH up on a machine' check；Regular expressions that work “everywhere”。",
+      "summary_en": "Daily brief (2026-06-24): Weekly Update 509; Two versions of a 'is SSH up on a machine' check; Regular expressions that work “everywhere”.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-24 日报】Weekly Update 509；Two versions of a 'is SSH up on a machine' check；Regular expressions that work “everywhere”。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-24): Weekly Update 509; Two versions of a 'is SSH up on a machine' check; Regular expressions that work “everywhere”. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-24）\n- Weekly Update 509\n- Two versions of a 'is SSH up on a machine' check\n- Regular expressions that work “everywhere”\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/weekly-update-509/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions\n- https://www.johndcook.com/blog/2026/06/23/regex-everywhere/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-24)\n- Weekly Update 509\n- Two versions of a 'is SSH up on a machine' check\n- Regular expressions that work “everywhere”\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/weekly-update-509/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions\n- https://www.johndcook.com/blog/2026/06/23/regex-everywhere/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Weekly Update 509；Two versions of a 'is SSH up on a machine' check；Regular expressions that work “everywhere”。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Weekly Update 509; Two versions of a 'is SSH up on a machine' check; Regular expressions that work “everywhere”.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "total": 16,
+      "feeds": [
+        "simonwillison.net (3)",
         "daringfireball.net (2)",
-        "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "experimental-history.com (1)",
         "geohot.github.io (1)"
       ],
       "highlights": [
+        "simonwillison.net · datasette 1.0a35",
         "simonwillison.net · OPFS + Pyodide test harness",
         "daringfireball.net · The Talk Show: ‘Perp Walk for Selfies’",
         "krebsonsecurity.com · Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
         "experimental-history.com · The most wonderful thing that happened to Tommy McHugh",
-        "wheresyoured.at · Cargo Culture",
-        "pluralistic.net · Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)"
+        "wheresyoured.at · Cargo Culture"
       ],
       "key_points": [
-        "OPFS + Pyodide test harness",
-        "The Talk Show: ‘Perp Walk for Selfies’",
-        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-        "The most wonderful thing that happened to Tommy McHugh"
-      ],
-      "key_points_zh": [
-        "OPFS + Pyodide test harness",
-        "The Talk Show: ‘Perp Walk for Selfies’",
-        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-        "The most wonderful thing that happened to Tommy McHugh"
-      ],
-      "key_points_en": [
-        "OPFS + Pyodide test harness",
-        "The Talk Show: ‘Perp Walk for Selfies’",
-        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-        "The most wonderful thing that happened to Tommy McHugh"
-      ],
-      "tweet_drafts": [
+        "datasette 1.0a35",
         "OPFS + Pyodide test harness",
         "The Talk Show: ‘Perp Walk for Selfies’",
         "Scattered Spider Hackers Plead Guilty on Day 1 of Trial"
       ],
+      "key_points_zh": [
+        "datasette 1.0a35",
+        "OPFS + Pyodide test harness",
+        "The Talk Show: ‘Perp Walk for Selfies’",
+        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial"
+      ],
+      "key_points_en": [
+        "datasette 1.0a35",
+        "OPFS + Pyodide test harness",
+        "The Talk Show: ‘Perp Walk for Selfies’",
+        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial"
+      ],
+      "tweet_drafts": [
+        "datasette 1.0a35",
+        "OPFS + Pyodide test harness",
+        "The Talk Show: ‘Perp Walk for Selfies’"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette 1.0a35",
+          "link": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "OPFS + Pyodide test harness",
@@ -53,27 +125,22 @@
           "feed_title": "daringfireball.net",
           "title": "The Talk Show: ‘Perp Walk for Selfies’",
           "link": "https://daringfireball.net/thetalkshow/2026/06/23/ep-450"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-          "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/"
         }
       ],
-      "summary_zh": "2026-06-23 技术日报：OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’；Scattered Spider Hackers Plead Guilty on Day 1 of Trial。",
-      "summary_en": "Daily brief (2026-06-23): OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’; Scattered Spider Hackers Plead Guilty on Day 1 of Trial.",
+      "summary_zh": "2026-06-23 技术日报：datasette 1.0a35；OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’。",
+      "summary_en": "Daily brief (2026-06-23): datasette 1.0a35; OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-23 日报】OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’；Scattered Spider Hackers Plead Guilty on Day 1 of Trial。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-23): OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’; Scattered Spider Hackers Plead Guilty on Day 1 of Trial. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-23 日报】datasette 1.0a35；OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-23): datasette 1.0a35; OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-23）\n- OPFS + Pyodide test harness\n- The Talk Show: ‘Perp Walk for Selfies’\n- Scattered Spider Hackers Plead Guilty on Day 1 of Trial\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/06/23/ep-450\n- https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-23)\n- OPFS + Pyodide test harness\n- The Talk Show: ‘Perp Walk for Selfies’\n- Scattered Spider Hackers Plead Guilty on Day 1 of Trial\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/06/23/ep-450\n- https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-23）\n- datasette 1.0a35\n- OPFS + Pyodide test harness\n- The Talk Show: ‘Perp Walk for Selfies’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/23/datasette/#atom-everything\n- https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/06/23/ep-450\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-23)\n- datasette 1.0a35\n- OPFS + Pyodide test harness\n- The Talk Show: ‘Perp Walk for Selfies’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/23/datasette/#atom-everything\n- https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/06/23/ep-450\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’；Scattered Spider Hackers Plead Guilty on Day 1 of Trial。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’; Scattered Spider Hackers Plead Guilty on Day 1 of Trial.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：datasette 1.0a35；OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: datasette 1.0a35; OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -169,8 +236,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -701,8 +768,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -853,8 +920,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -1993,8 +2060,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Calculating the expected range of normal samples；Revenge of The Business Idiot；Only insane people use the internet。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Calculating the expected range of normal samples; Revenge of The Business Idiot; Only insane people use the internet.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-25",
-      "total": 18,
-      "feeds": [
-        "daringfireball.net (4)",
-        "antirez.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)",
-        "grantslatton.com (1)"
-      ],
-      "highlights": [
-        "troyhunt.com · Welcoming the Bhutanese Government to Have I Been Pwned",
-        "entropicthoughts.com · 90 % of the t distribution",
-        "daringfireball.net · Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap",
-        "grantslatton.com · Solving the board game Quoridor",
-        "daringfireball.net · Thieves Are Texting Threats to Victims of iPhone Theft in London",
-        "daringfireball.net · Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information"
-      ],
-      "key_points": [
-        "Welcoming the Bhutanese Government to Have I Been Pwned",
-        "90 % of the t distribution",
-        "Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap",
-        "Solving the board game Quoridor"
-      ],
-      "key_points_zh": [
-        "Welcoming the Bhutanese Government to Have I Been Pwned",
-        "90 % of the t distribution",
-        "Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap",
-        "Solving the board game Quoridor"
-      ],
-      "key_points_en": [
-        "Welcoming the Bhutanese Government to Have I Been Pwned",
-        "90 % of the t distribution",
-        "Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap",
-        "Solving the board game Quoridor"
-      ],
-      "tweet_drafts": [
-        "Welcoming the Bhutanese Government to Have I Been Pwned",
-        "90 % of the t distribution",
-        "Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap"
-      ],
-      "sources": [
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Welcoming the Bhutanese Government to Have I Been Pwned",
-          "link": "https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/"
-        },
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "90 % of the t distribution",
-          "link": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap",
-          "link": "https://daringfireball.net/linked/2014/01/29/haynes-aapl"
-        }
-      ],
-      "summary_zh": "2026-05-25 技术日报：Welcoming the Bhutanese Government to Have I Been Pwned；90 % of the t distribution；Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap。",
-      "summary_en": "Daily brief (2026-05-25): Welcoming the Bhutanese Government to Have I Been Pwned; 90 % of the t distribution; Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-25 日报】Welcoming the Bhutanese Government to Have I Been Pwned；90 % of the t distribution；Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-25): Welcoming the Bhutanese Government to Have I Been Pwned; 90 % of the t distribution; Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap. Actionable takeaways included. What would you shi"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-25）\n- Welcoming the Bhutanese Government to Have I Been Pwned\n- 90 % of the t distribution\n- Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/\n- https://entropicthoughts.com/ninety-percent-of-the-t-distribution\n- https://daringfireball.net/linked/2014/01/29/haynes-aapl\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-25)\n- Welcoming the Bhutanese Government to Have I Been Pwned\n- 90 % of the t distribution\n- Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/\n- https://entropicthoughts.com/ninety-percent-of-the-t-distribution\n- https://daringfireball.net/linked/2014/01/29/haynes-aapl\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Welcoming the Bhutanese Government to Have I Been Pwned；90 % of the t distribution；Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Welcoming the Bhutanese Government to Have I Been Pwned; 90 % of the t distribution; Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
