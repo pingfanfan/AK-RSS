@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T19:02:49Z",
+  "generated_at": "2026-06-24T20:06:49Z",
   "days": [
     {
       "date": "2026-06-24",
-      "total": 12,
+      "total": 13,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "blog.jim-nielsen.com (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
@@ -13,37 +13,42 @@
         "refactoringenglish.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · WebKit in Safari 27 Beta",
         "blog.jim-nielsen.com · Blogging Can Just Be Stating The Obvious",
         "daringfireball.net · [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
         "simonwillison.net · Quoting Tom MacWright",
         "daringfireball.net · Designed in California: An Apple History Podcast",
-        "jeffgeerling.com · Framework's 10G Ethernet module exposes USB-C's complexity",
-        "shkspr.mobi · Auth0 PHP - manually authenticating JWT idTokens"
+        "jeffgeerling.com · Framework's 10G Ethernet module exposes USB-C's complexity"
       ],
       "key_points": [
-        "Blogging Can Just Be Stating The Obvious",
-        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
-        "Quoting Tom MacWright",
-        "Designed in California: An Apple History Podcast"
-      ],
-      "key_points_zh": [
-        "Blogging Can Just Be Stating The Obvious",
-        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
-        "Quoting Tom MacWright",
-        "Designed in California: An Apple History Podcast"
-      ],
-      "key_points_en": [
-        "Blogging Can Just Be Stating The Obvious",
-        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
-        "Quoting Tom MacWright",
-        "Designed in California: An Apple History Podcast"
-      ],
-      "tweet_drafts": [
+        "WebKit in Safari 27 Beta",
         "Blogging Can Just Be Stating The Obvious",
         "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
         "Quoting Tom MacWright"
       ],
+      "key_points_zh": [
+        "WebKit in Safari 27 Beta",
+        "Blogging Can Just Be Stating The Obvious",
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
+        "Quoting Tom MacWright"
+      ],
+      "key_points_en": [
+        "WebKit in Safari 27 Beta",
+        "Blogging Can Just Be Stating The Obvious",
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
+        "Quoting Tom MacWright"
+      ],
+      "tweet_drafts": [
+        "WebKit in Safari 27 Beta",
+        "Blogging Can Just Be Stating The Obvious",
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "WebKit in Safari 27 Beta",
+          "link": "https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/"
+        },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Blogging Can Just Be Stating The Obvious",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
           "link": "http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Tom MacWright",
-          "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-24 技术日报：Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It；Quoting Tom MacWright。",
-      "summary_en": "Daily brief (2026-06-24): Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It; Quoting Tom MacWright.",
+      "summary_zh": "2026-06-24 技术日报：WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It。",
+      "summary_en": "Daily brief (2026-06-24): WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-24 日报】Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It；Quoting Tom MacWright。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-24): Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It; Quoting Tom MacWright. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-24 日报】WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-24): WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-24）\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n- Quoting Tom MacWright\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-24)\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n- Quoting Tom MacWright\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-24）\n- WebKit in Safari 27 Beta\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-24)\n- WebKit in Safari 27 Beta\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It；Quoting Tom MacWright。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It; Quoting Tom MacWright.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

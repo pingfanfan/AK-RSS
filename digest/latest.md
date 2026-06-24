@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-24 19:02:35 UTC
+Generated at: 2026-06-24 20:06:34 UTC
 
-- [Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) (`simonwillison.net`)
-- [[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.](http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) (`daringfireball.net`)
+- [WebKit in Safari 27 Beta](https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/) (`daringfireball.net`)
+- [10Gb/s Ethernet: what I had to (re)learn](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned) (`gilesthomas.com`)
