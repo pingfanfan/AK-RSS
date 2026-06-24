@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-06-24T11:24:58Z",
+  "generated_at": "2026-06-24T12:15:06Z",
   "days": [
     {
       "date": "2026-06-24",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
+        "shkspr.mobi (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Auth0 PHP - manually authenticating JWT idTokens",
         "dfarq.homeip.net · Windows 98 shipped June 25, 1998",
         "troyhunt.com · Weekly Update 509",
         "utcc.utoronto.ca/~cks · Two versions of a 'is SSH up on a machine' check",
         "johndcook.com · Regular expressions that work “everywhere”"
       ],
       "key_points": [
-        "Windows 98 shipped June 25, 1998",
-        "Weekly Update 509",
-        "Two versions of a 'is SSH up on a machine' check",
-        "Regular expressions that work “everywhere”"
-      ],
-      "key_points_zh": [
-        "Windows 98 shipped June 25, 1998",
-        "Weekly Update 509",
-        "Two versions of a 'is SSH up on a machine' check",
-        "Regular expressions that work “everywhere”"
-      ],
-      "key_points_en": [
-        "Windows 98 shipped June 25, 1998",
-        "Weekly Update 509",
-        "Two versions of a 'is SSH up on a machine' check",
-        "Regular expressions that work “everywhere”"
-      ],
-      "tweet_drafts": [
+        "Auth0 PHP - manually authenticating JWT idTokens",
         "Windows 98 shipped June 25, 1998",
         "Weekly Update 509",
         "Two versions of a 'is SSH up on a machine' check"
       ],
+      "key_points_zh": [
+        "Auth0 PHP - manually authenticating JWT idTokens",
+        "Windows 98 shipped June 25, 1998",
+        "Weekly Update 509",
+        "Two versions of a 'is SSH up on a machine' check"
+      ],
+      "key_points_en": [
+        "Auth0 PHP - manually authenticating JWT idTokens",
+        "Windows 98 shipped June 25, 1998",
+        "Weekly Update 509",
+        "Two versions of a 'is SSH up on a machine' check"
+      ],
+      "tweet_drafts": [
+        "Auth0 PHP - manually authenticating JWT idTokens",
+        "Windows 98 shipped June 25, 1998",
+        "Weekly Update 509"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Auth0 PHP - manually authenticating JWT idTokens",
+          "link": "https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Windows 98 shipped June 25, 1998",
@@ -49,27 +56,22 @@
           "feed_title": "troyhunt.com",
           "title": "Weekly Update 509",
           "link": "https://www.troyhunt.com/weekly-update-509/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Two versions of a 'is SSH up on a machine' check",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions"
         }
       ],
-      "summary_zh": "2026-06-24 技术日报：Windows 98 shipped June 25, 1998；Weekly Update 509；Two versions of a 'is SSH up on a machine' check。",
-      "summary_en": "Daily brief (2026-06-24): Windows 98 shipped June 25, 1998; Weekly Update 509; Two versions of a 'is SSH up on a machine' check.",
+      "summary_zh": "2026-06-24 技术日报：Auth0 PHP - manually authenticating JWT idTokens；Windows 98 shipped June 25, 1998；Weekly Update 509。",
+      "summary_en": "Daily brief (2026-06-24): Auth0 PHP - manually authenticating JWT idTokens; Windows 98 shipped June 25, 1998; Weekly Update 509.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-24 日报】Windows 98 shipped June 25, 1998；Weekly Update 509；Two versions of a 'is SSH up on a machine' check。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-24): Windows 98 shipped June 25, 1998; Weekly Update 509; Two versions of a 'is SSH up on a machine' check. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-24 日报】Auth0 PHP - manually authenticating JWT idTokens；Windows 98 shipped June 25, 1998；Weekly Update 509。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-24): Auth0 PHP - manually authenticating JWT idTokens; Windows 98 shipped June 25, 1998; Weekly Update 509. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-24）\n- Windows 98 shipped June 25, 1998\n- Weekly Update 509\n- Two versions of a 'is SSH up on a machine' check\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/windows-98-shipped-june-25-1998/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-98-shipped-june-25-1998\n- https://www.troyhunt.com/weekly-update-509/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-24)\n- Windows 98 shipped June 25, 1998\n- Weekly Update 509\n- Two versions of a 'is SSH up on a machine' check\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/windows-98-shipped-june-25-1998/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-98-shipped-june-25-1998\n- https://www.troyhunt.com/weekly-update-509/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-24）\n- Auth0 PHP - manually authenticating JWT idTokens\n- Windows 98 shipped June 25, 1998\n- Weekly Update 509\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/\n- https://dfarq.homeip.net/windows-98-shipped-june-25-1998/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-98-shipped-june-25-1998\n- https://www.troyhunt.com/weekly-update-509/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-24)\n- Auth0 PHP - manually authenticating JWT idTokens\n- Windows 98 shipped June 25, 1998\n- Weekly Update 509\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/\n- https://dfarq.homeip.net/windows-98-shipped-june-25-1998/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-98-shipped-june-25-1998\n- https://www.troyhunt.com/weekly-update-509/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Windows 98 shipped June 25, 1998；Weekly Update 509；Two versions of a 'is SSH up on a machine' check。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Windows 98 shipped June 25, 1998; Weekly Update 509; Two versions of a 'is SSH up on a machine' check.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Auth0 PHP - manually authenticating JWT idTokens；Windows 98 shipped June 25, 1998；Weekly Update 509。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Auth0 PHP - manually authenticating JWT idTokens; Windows 98 shipped June 25, 1998; Weekly Update 509.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -925,8 +927,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2065,8 +2067,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
