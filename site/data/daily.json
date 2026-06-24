@@ -1,77 +1,79 @@
 {
-  "generated_at": "2026-06-24T13:15:05Z",
+  "generated_at": "2026-06-24T14:15:15Z",
   "days": [
     {
       "date": "2026-06-24",
-      "total": 5,
+      "total": 7,
       "feeds": [
+        "blog.jim-nielsen.com (1)",
         "dfarq.homeip.net (1)",
+        "jeffgeerling.com (1)",
         "johndcook.com (1)",
         "shkspr.mobi (1)",
-        "troyhunt.com (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "troyhunt.com (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · Blogging Can Just Be Stating The Obvious",
+        "jeffgeerling.com · Framework's 10G Ethernet module exposes USB-C's complexity",
         "shkspr.mobi · Auth0 PHP - manually authenticating JWT idTokens",
         "dfarq.homeip.net · Windows 98 shipped June 25, 1998",
         "troyhunt.com · Weekly Update 509",
-        "utcc.utoronto.ca/~cks · Two versions of a 'is SSH up on a machine' check",
-        "johndcook.com · Regular expressions that work “everywhere”"
+        "utcc.utoronto.ca/~cks · Two versions of a 'is SSH up on a machine' check"
       ],
       "key_points": [
+        "Blogging Can Just Be Stating The Obvious",
+        "Framework's 10G Ethernet module exposes USB-C's complexity",
         "Auth0 PHP - manually authenticating JWT idTokens",
-        "Windows 98 shipped June 25, 1998",
-        "Weekly Update 509",
-        "Two versions of a 'is SSH up on a machine' check"
+        "Windows 98 shipped June 25, 1998"
       ],
       "key_points_zh": [
+        "Blogging Can Just Be Stating The Obvious",
+        "Framework's 10G Ethernet module exposes USB-C's complexity",
         "Auth0 PHP - manually authenticating JWT idTokens",
-        "Windows 98 shipped June 25, 1998",
-        "Weekly Update 509",
-        "Two versions of a 'is SSH up on a machine' check"
+        "Windows 98 shipped June 25, 1998"
       ],
       "key_points_en": [
+        "Blogging Can Just Be Stating The Obvious",
+        "Framework's 10G Ethernet module exposes USB-C's complexity",
         "Auth0 PHP - manually authenticating JWT idTokens",
-        "Windows 98 shipped June 25, 1998",
-        "Weekly Update 509",
-        "Two versions of a 'is SSH up on a machine' check"
+        "Windows 98 shipped June 25, 1998"
       ],
       "tweet_drafts": [
-        "Auth0 PHP - manually authenticating JWT idTokens",
-        "Windows 98 shipped June 25, 1998",
-        "Weekly Update 509"
+        "Blogging Can Just Be Stating The Obvious",
+        "Framework's 10G Ethernet module exposes USB-C's complexity",
+        "Auth0 PHP - manually authenticating JWT idTokens"
       ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Blogging Can Just Be Stating The Obvious",
+          "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+          "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Auth0 PHP - manually authenticating JWT idTokens",
           "link": "https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Windows 98 shipped June 25, 1998",
-          "link": "https://dfarq.homeip.net/windows-98-shipped-june-25-1998/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-98-shipped-june-25-1998"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 509",
-          "link": "https://www.troyhunt.com/weekly-update-509/"
         }
       ],
-      "summary_zh": "2026-06-24 技术日报：Auth0 PHP - manually authenticating JWT idTokens；Windows 98 shipped June 25, 1998；Weekly Update 509。",
-      "summary_en": "Daily brief (2026-06-24): Auth0 PHP - manually authenticating JWT idTokens; Windows 98 shipped June 25, 1998; Weekly Update 509.",
+      "summary_zh": "2026-06-24 技术日报：Blogging Can Just Be Stating The Obvious；Framework's 10G Ethernet module exposes USB-C's complexity；Auth0 PHP - manually authenticating JWT idTokens。",
+      "summary_en": "Daily brief (2026-06-24): Blogging Can Just Be Stating The Obvious; Framework's 10G Ethernet module exposes USB-C's complexity; Auth0 PHP - manually authenticating JWT idTokens.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-24 日报】Auth0 PHP - manually authenticating JWT idTokens；Windows 98 shipped June 25, 1998；Weekly Update 509。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-24): Auth0 PHP - manually authenticating JWT idTokens; Windows 98 shipped June 25, 1998; Weekly Update 509. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-24 日报】Blogging Can Just Be Stating The Obvious；Framework's 10G Ethernet module exposes USB-C's complexity；Auth0 PHP - manually authenticating JWT idTokens。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-24): Blogging Can Just Be Stating The Obvious; Framework's 10G Ethernet module exposes USB-C's complexity; Auth0 PHP - manually authenticating JWT idTokens. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-24）\n- Auth0 PHP - manually authenticating JWT idTokens\n- Windows 98 shipped June 25, 1998\n- Weekly Update 509\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/\n- https://dfarq.homeip.net/windows-98-shipped-june-25-1998/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-98-shipped-june-25-1998\n- https://www.troyhunt.com/weekly-update-509/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-24)\n- Auth0 PHP - manually authenticating JWT idTokens\n- Windows 98 shipped June 25, 1998\n- Weekly Update 509\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/\n- https://dfarq.homeip.net/windows-98-shipped-june-25-1998/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=windows-98-shipped-june-25-1998\n- https://www.troyhunt.com/weekly-update-509/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-24）\n- Blogging Can Just Be Stating The Obvious\n- Framework's 10G Ethernet module exposes USB-C's complexity\n- Auth0 PHP - manually authenticating JWT idTokens\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\n- https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-24)\n- Blogging Can Just Be Stating The Obvious\n- Framework's 10G Ethernet module exposes USB-C's complexity\n- Auth0 PHP - manually authenticating JWT idTokens\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\n- https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Auth0 PHP - manually authenticating JWT idTokens；Windows 98 shipped June 25, 1998；Weekly Update 509。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Auth0 PHP - manually authenticating JWT idTokens; Windows 98 shipped June 25, 1998; Weekly Update 509.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Blogging Can Just Be Stating The Obvious；Framework's 10G Ethernet module exposes USB-C's complexity；Auth0 PHP - manually authenticating JWT idTokens。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Blogging Can Just Be Stating The Obvious; Framework's 10G Ethernet module exposes USB-C's complexity; Auth0 PHP - manually authenticating JWT idTokens.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -243,8 +245,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -927,8 +929,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2067,8 +2069,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
