@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-24 21:56:14 UTC
+Generated at: 2026-06-24 22:27:18 UTC
 
-- [WebKit Always Enables the Copy Menu Item in Every App](https://lapcatsoftware.com/articles/2026/6/5.html) (`daringfireball.net`)
