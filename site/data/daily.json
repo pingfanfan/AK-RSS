@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T21:01:50Z",
+  "generated_at": "2026-06-24T21:56:29Z",
   "days": [
     {
       "date": "2026-06-24",
-      "total": 13,
+      "total": 14,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
         "blog.jim-nielsen.com (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
@@ -13,37 +13,42 @@
         "refactoringenglish.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · WebKit Always Enables the Copy Menu Item in Every App",
         "daringfireball.net · WebKit in Safari 27 Beta",
         "blog.jim-nielsen.com · Blogging Can Just Be Stating The Obvious",
         "daringfireball.net · [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
         "simonwillison.net · Quoting Tom MacWright",
-        "daringfireball.net · Designed in California: An Apple History Podcast",
-        "jeffgeerling.com · Framework's 10G Ethernet module exposes USB-C's complexity"
+        "daringfireball.net · Designed in California: An Apple History Podcast"
       ],
       "key_points": [
-        "WebKit in Safari 27 Beta",
-        "Blogging Can Just Be Stating The Obvious",
-        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
-        "Quoting Tom MacWright"
-      ],
-      "key_points_zh": [
-        "WebKit in Safari 27 Beta",
-        "Blogging Can Just Be Stating The Obvious",
-        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
-        "Quoting Tom MacWright"
-      ],
-      "key_points_en": [
-        "WebKit in Safari 27 Beta",
-        "Blogging Can Just Be Stating The Obvious",
-        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
-        "Quoting Tom MacWright"
-      ],
-      "tweet_drafts": [
+        "WebKit Always Enables the Copy Menu Item in Every App",
         "WebKit in Safari 27 Beta",
         "Blogging Can Just Be Stating The Obvious",
         "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It"
       ],
+      "key_points_zh": [
+        "WebKit Always Enables the Copy Menu Item in Every App",
+        "WebKit in Safari 27 Beta",
+        "Blogging Can Just Be Stating The Obvious",
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It"
+      ],
+      "key_points_en": [
+        "WebKit Always Enables the Copy Menu Item in Every App",
+        "WebKit in Safari 27 Beta",
+        "Blogging Can Just Be Stating The Obvious",
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It"
+      ],
+      "tweet_drafts": [
+        "WebKit Always Enables the Copy Menu Item in Every App",
+        "WebKit in Safari 27 Beta",
+        "Blogging Can Just Be Stating The Obvious"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "WebKit Always Enables the Copy Menu Item in Every App",
+          "link": "https://lapcatsoftware.com/articles/2026/6/5.html"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "WebKit in Safari 27 Beta",
@@ -53,27 +58,22 @@
           "feed_title": "blog.jim-nielsen.com",
           "title": "Blogging Can Just Be Stating The Obvious",
           "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
-          "link": "http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026"
         }
       ],
-      "summary_zh": "2026-06-24 技术日报：WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It。",
-      "summary_en": "Daily brief (2026-06-24): WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
+      "summary_zh": "2026-06-24 技术日报：WebKit Always Enables the Copy Menu Item in Every App；WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious。",
+      "summary_en": "Daily brief (2026-06-24): WebKit Always Enables the Copy Menu Item in Every App; WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-24 日报】WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-24): WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-24 日报】WebKit Always Enables the Copy Menu Item in Every App；WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-24): WebKit Always Enables the Copy Menu Item in Every App; WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-24）\n- WebKit in Safari 27 Beta\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-24)\n- WebKit in Safari 27 Beta\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-24）\n- WebKit Always Enables the Copy Menu Item in Every App\n- WebKit in Safari 27 Beta\n- Blogging Can Just Be Stating The Obvious\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://lapcatsoftware.com/articles/2026/6/5.html\n- https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-24)\n- WebKit Always Enables the Copy Menu Item in Every App\n- WebKit in Safari 27 Beta\n- Blogging Can Just Be Stating The Obvious\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://lapcatsoftware.com/articles/2026/6/5.html\n- https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：WebKit Always Enables the Copy Menu Item in Every App；WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: WebKit Always Enables the Copy Menu Item in Every App; WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1992,27 +1992,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2069,8 +2069,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
