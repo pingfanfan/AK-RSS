@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-24 18:06:43 UTC
+Generated at: 2026-06-24 19:02:35 UTC
 
-- ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/) (`xeiaso.net`)
+- [Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) (`simonwillison.net`)
+- [[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.](http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) (`daringfireball.net`)

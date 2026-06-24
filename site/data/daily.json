@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-24T18:06:58Z",
+  "generated_at": "2026-06-24T19:02:49Z",
   "days": [
     {
       "date": "2026-06-24",
-      "total": 10,
+      "total": 12,
       "feeds": [
+        "daringfireball.net (2)",
         "blog.jim-nielsen.com (1)",
-        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "johndcook.com (1)",
@@ -14,34 +14,34 @@
       ],
       "highlights": [
         "blog.jim-nielsen.com · Blogging Can Just Be Stating The Obvious",
+        "daringfireball.net · [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
+        "simonwillison.net · Quoting Tom MacWright",
         "daringfireball.net · Designed in California: An Apple History Podcast",
         "jeffgeerling.com · Framework's 10G Ethernet module exposes USB-C's complexity",
-        "shkspr.mobi · Auth0 PHP - manually authenticating JWT idTokens",
-        "dfarq.homeip.net · Windows 98 shipped June 25, 1998",
-        "troyhunt.com · Weekly Update 509"
+        "shkspr.mobi · Auth0 PHP - manually authenticating JWT idTokens"
       ],
       "key_points": [
         "Blogging Can Just Be Stating The Obvious",
-        "Designed in California: An Apple History Podcast",
-        "Framework's 10G Ethernet module exposes USB-C's complexity",
-        "Auth0 PHP - manually authenticating JWT idTokens"
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
+        "Quoting Tom MacWright",
+        "Designed in California: An Apple History Podcast"
       ],
       "key_points_zh": [
         "Blogging Can Just Be Stating The Obvious",
-        "Designed in California: An Apple History Podcast",
-        "Framework's 10G Ethernet module exposes USB-C's complexity",
-        "Auth0 PHP - manually authenticating JWT idTokens"
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
+        "Quoting Tom MacWright",
+        "Designed in California: An Apple History Podcast"
       ],
       "key_points_en": [
         "Blogging Can Just Be Stating The Obvious",
-        "Designed in California: An Apple History Podcast",
-        "Framework's 10G Ethernet module exposes USB-C's complexity",
-        "Auth0 PHP - manually authenticating JWT idTokens"
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
+        "Quoting Tom MacWright",
+        "Designed in California: An Apple History Podcast"
       ],
       "tweet_drafts": [
         "Blogging Can Just Be Stating The Obvious",
-        "Designed in California: An Apple History Podcast",
-        "Framework's 10G Ethernet module exposes USB-C's complexity"
+        "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It",
+        "Quoting Tom MacWright"
       ],
       "sources": [
         {
@@ -51,29 +51,29 @@
         },
         {
           "feed_title": "daringfireball.net",
-          "title": "Designed in California: An Apple History Podcast",
-          "link": "https://designed.fm/"
+          "title": "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
+          "link": "http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-          "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/"
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Tom MacWright",
+          "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-24 技术日报：Blogging Can Just Be Stating The Obvious；Designed in California: An Apple History Podcast；Framework's 10G Ethernet module exposes USB-C's complexity。",
-      "summary_en": "Daily brief (2026-06-24): Blogging Can Just Be Stating The Obvious; Designed in California: An Apple History Podcast; Framework's 10G Ethernet module exposes USB-C's complexity.",
+      "summary_zh": "2026-06-24 技术日报：Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It；Quoting Tom MacWright。",
+      "summary_en": "Daily brief (2026-06-24): Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It; Quoting Tom MacWright.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-24 日报】Blogging Can Just Be Stating The Obvious；Designed in California: An Apple History Podcast；Framework's 10G Ethernet module exposes USB-C's complexity。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-24): Blogging Can Just Be Stating The Obvious; Designed in California: An Apple History Podcast; Framework's 10G Ethernet module exposes USB-C's complexity. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildI"
+          "zh": "【2026-06-24 日报】Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It；Quoting Tom MacWright。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-24): Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It; Quoting Tom MacWright. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-24）\n- Blogging Can Just Be Stating The Obvious\n- Designed in California: An Apple History Podcast\n- Framework's 10G Ethernet module exposes USB-C's complexity\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- https://designed.fm/\n- https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-24)\n- Blogging Can Just Be Stating The Obvious\n- Designed in California: An Apple History Podcast\n- Framework's 10G Ethernet module exposes USB-C's complexity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- https://designed.fm/\n- https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-24）\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n- Quoting Tom MacWright\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-24)\n- Blogging Can Just Be Stating The Obvious\n- [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It\n- Quoting Tom MacWright\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\n- http://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Blogging Can Just Be Stating The Obvious；Designed in California: An Apple History Podcast；Framework's 10G Ethernet module exposes USB-C's complexity。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Blogging Can Just Be Stating The Obvious; Designed in California: An Apple History Podcast; Framework's 10G Ethernet module exposes USB-C's complexity.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Blogging Can Just Be Stating The Obvious；[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It；Quoting Tom MacWright。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Blogging Can Just Be Stating The Obvious; [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It; Quoting Tom MacWright.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -245,8 +245,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -2069,8 +2069,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
