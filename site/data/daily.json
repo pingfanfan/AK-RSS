@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T14:15:05Z",
+  "generated_at": "2026-06-25T15:26:40Z",
   "days": [
     {
       "date": "2026-06-25",
-      "total": 8,
+      "total": 9,
       "feeds": [
-        "johndcook.com (2)",
+        "johndcook.com (3)",
         "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
@@ -13,37 +13,42 @@
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Incircles and Excircles of Pythagorean triangles",
         "construction-physics.com · US Subways Build Too Many Cross Passages",
         "johndcook.com · Consecutive Pythagorean triangle sides",
         "dfarq.homeip.net · VA Linux’s transformation after leaving the hardware business",
         "nesbitt.io · Scrutineer: scanning open source without flooding maintainers",
-        "pluralistic.net · Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
-        "utcc.utoronto.ca/~cks · Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'"
+        "pluralistic.net · Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
       ],
       "key_points": [
-        "US Subways Build Too Many Cross Passages",
-        "Consecutive Pythagorean triangle sides",
-        "VA Linux’s transformation after leaving the hardware business",
-        "Scrutineer: scanning open source without flooding maintainers"
-      ],
-      "key_points_zh": [
-        "US Subways Build Too Many Cross Passages",
-        "Consecutive Pythagorean triangle sides",
-        "VA Linux’s transformation after leaving the hardware business",
-        "Scrutineer: scanning open source without flooding maintainers"
-      ],
-      "key_points_en": [
-        "US Subways Build Too Many Cross Passages",
-        "Consecutive Pythagorean triangle sides",
-        "VA Linux’s transformation after leaving the hardware business",
-        "Scrutineer: scanning open source without flooding maintainers"
-      ],
-      "tweet_drafts": [
+        "Incircles and Excircles of Pythagorean triangles",
         "US Subways Build Too Many Cross Passages",
         "Consecutive Pythagorean triangle sides",
         "VA Linux’s transformation after leaving the hardware business"
       ],
+      "key_points_zh": [
+        "Incircles and Excircles of Pythagorean triangles",
+        "US Subways Build Too Many Cross Passages",
+        "Consecutive Pythagorean triangle sides",
+        "VA Linux’s transformation after leaving the hardware business"
+      ],
+      "key_points_en": [
+        "Incircles and Excircles of Pythagorean triangles",
+        "US Subways Build Too Many Cross Passages",
+        "Consecutive Pythagorean triangle sides",
+        "VA Linux’s transformation after leaving the hardware business"
+      ],
+      "tweet_drafts": [
+        "Incircles and Excircles of Pythagorean triangles",
+        "US Subways Build Too Many Cross Passages",
+        "Consecutive Pythagorean triangle sides"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Incircles and Excircles of Pythagorean triangles",
+          "link": "https://www.johndcook.com/blog/2026/06/25/incircle-excircle/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "US Subways Build Too Many Cross Passages",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "Consecutive Pythagorean triangle sides",
           "link": "https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "VA Linux’s transformation after leaving the hardware business",
-          "link": "https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business"
         }
       ],
-      "summary_zh": "2026-06-25 技术日报：US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business。",
-      "summary_en": "Daily brief (2026-06-25): US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business.",
+      "summary_zh": "2026-06-25 技术日报：Incircles and Excircles of Pythagorean triangles；US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides。",
+      "summary_en": "Daily brief (2026-06-25): Incircles and Excircles of Pythagorean triangles; US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-25 日报】US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-25): US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-25 日报】Incircles and Excircles of Pythagorean triangles；US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-25): Incircles and Excircles of Pythagorean triangles; US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-25）\n- US Subways Build Too Many Cross Passages\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-25)\n- US Subways Build Too Many Cross Passages\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-25）\n- Incircles and Excircles of Pythagorean triangles\n- US Subways Build Too Many Cross Passages\n- Consecutive Pythagorean triangle sides\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/25/incircle-excircle/\n- https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-25)\n- Incircles and Excircles of Pythagorean triangles\n- US Subways Build Too Many Cross Passages\n- Consecutive Pythagorean triangle sides\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/25/incircle-excircle/\n- https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Incircles and Excircles of Pythagorean triangles；US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Incircles and Excircles of Pythagorean triangles; US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -321,8 +321,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -853,8 +853,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -2145,8 +2145,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
