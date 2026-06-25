@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-25T13:14:30Z",
+  "generated_at": "2026-06-25T14:15:05Z",
   "days": [
     {
       "date": "2026-06-25",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "johndcook.com (2)",
+        "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "construction-physics.com · US Subways Build Too Many Cross Passages",
         "johndcook.com · Consecutive Pythagorean triangle sides",
         "dfarq.homeip.net · VA Linux’s transformation after leaving the hardware business",
         "nesbitt.io · Scrutineer: scanning open source without flooding maintainers",
         "pluralistic.net · Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
-        "utcc.utoronto.ca/~cks · Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
-        "johndcook.com · The Star Trek lemma"
+        "utcc.utoronto.ca/~cks · Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'"
       ],
       "key_points": [
-        "Consecutive Pythagorean triangle sides",
-        "VA Linux’s transformation after leaving the hardware business",
-        "Scrutineer: scanning open source without flooding maintainers",
-        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
-      ],
-      "key_points_zh": [
-        "Consecutive Pythagorean triangle sides",
-        "VA Linux’s transformation after leaving the hardware business",
-        "Scrutineer: scanning open source without flooding maintainers",
-        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
-      ],
-      "key_points_en": [
-        "Consecutive Pythagorean triangle sides",
-        "VA Linux’s transformation after leaving the hardware business",
-        "Scrutineer: scanning open source without flooding maintainers",
-        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
-      ],
-      "tweet_drafts": [
+        "US Subways Build Too Many Cross Passages",
         "Consecutive Pythagorean triangle sides",
         "VA Linux’s transformation after leaving the hardware business",
         "Scrutineer: scanning open source without flooding maintainers"
       ],
+      "key_points_zh": [
+        "US Subways Build Too Many Cross Passages",
+        "Consecutive Pythagorean triangle sides",
+        "VA Linux’s transformation after leaving the hardware business",
+        "Scrutineer: scanning open source without flooding maintainers"
+      ],
+      "key_points_en": [
+        "US Subways Build Too Many Cross Passages",
+        "Consecutive Pythagorean triangle sides",
+        "VA Linux’s transformation after leaving the hardware business",
+        "Scrutineer: scanning open source without flooding maintainers"
+      ],
+      "tweet_drafts": [
+        "US Subways Build Too Many Cross Passages",
+        "Consecutive Pythagorean triangle sides",
+        "VA Linux’s transformation after leaving the hardware business"
+      ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "US Subways Build Too Many Cross Passages",
+          "link": "https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Consecutive Pythagorean triangle sides",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "VA Linux’s transformation after leaving the hardware business",
           "link": "https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Scrutineer: scanning open source without flooding maintainers",
-          "link": "https://nesbitt.io/2026/06/25/scrutineer.html"
         }
       ],
-      "summary_zh": "2026-06-25 技术日报：Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business；Scrutineer: scanning open source without flooding maintainers。",
-      "summary_en": "Daily brief (2026-06-25): Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business; Scrutineer: scanning open source without flooding maintainers.",
+      "summary_zh": "2026-06-25 技术日报：US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business。",
+      "summary_en": "Daily brief (2026-06-25): US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-25 日报】Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business；Scrutineer: scanning open source without flooding maintainers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-25): Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business; Scrutineer: scanning open source without flooding maintainers. Actionable takeaways included. What would you ship next? #AI #Engin"
+          "zh": "【2026-06-25 日报】US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-25): US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-25）\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n- Scrutineer: scanning open source without flooding maintainers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n- https://nesbitt.io/2026/06/25/scrutineer.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-25)\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n- Scrutineer: scanning open source without flooding maintainers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n- https://nesbitt.io/2026/06/25/scrutineer.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-25）\n- US Subways Build Too Many Cross Passages\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-25)\n- US Subways Build Too Many Cross Passages\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business；Scrutineer: scanning open source without flooding maintainers。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business; Scrutineer: scanning open source without flooding maintainers.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：US Subways Build Too Many Cross Passages；Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: US Subways Build Too Many Cross Passages; Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -321,8 +321,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1005,8 +1005,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2068,27 +2068,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2145,8 +2145,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
