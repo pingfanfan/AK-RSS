@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-06-24T22:53:13Z",
+  "generated_at": "2026-06-25T07:03:23Z",
   "days": [
+    {
+      "date": "2026-06-25",
+      "total": 3,
+      "feeds": [
+        "johndcook.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
+        "johndcook.com · The Star Trek lemma",
+        "simonwillison.net · simonw/browser-compat-db"
+      ],
+      "key_points": [
+        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
+        "The Star Trek lemma",
+        "simonw/browser-compat-db"
+      ],
+      "key_points_zh": [
+        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
+        "The Star Trek lemma",
+        "simonw/browser-compat-db"
+      ],
+      "key_points_en": [
+        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
+        "The Star Trek lemma",
+        "simonw/browser-compat-db"
+      ],
+      "tweet_drafts": [
+        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
+        "The Star Trek lemma",
+        "simonw/browser-compat-db"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "The Star Trek lemma",
+          "link": "https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "simonw/browser-compat-db",
+          "link": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-06-25 技术日报：Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'；The Star Trek lemma；simonw/browser-compat-db。",
+      "summary_en": "Daily brief (2026-06-25): Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'; The Star Trek lemma; simonw/browser-compat-db.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-25 日报】Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'；The Star Trek lemma；simonw/browser-compat-db。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-25): Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'; The Star Trek lemma; simonw/browser-compat-db. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-25）\n- Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'\n- The Star Trek lemma\n- simonw/browser-compat-db\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec\n- https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/\n- https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-25)\n- Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'\n- The Star Trek lemma\n- simonw/browser-compat-db\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec\n- https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/\n- https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'；The Star Trek lemma；simonw/browser-compat-db。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'; The Star Trek lemma; simonw/browser-compat-db.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-06-24",
       "total": 14,
@@ -245,8 +312,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1992,27 +2059,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2069,8 +2136,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：SQLAlchemy 2 In Practice - Solutions to the Exercises；I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: SQLAlchemy 2 In Practice - Solutions to the Exercises; I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-26",
-      "total": 16,
-      "feeds": [
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "daringfireball.net (1)",
-        "derekthompson.org (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "johndcook.com · Calculating the expected range of normal samples",
-        "wheresyoured.at · Revenge of The Business Idiot",
-        "experimental-history.com · Only insane people use the internet",
-        "simonwillison.net · Microsoft Copilot Cowork Exfiltrates Files",
-        "minimaxir.com · The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "devblogs.microsoft.com/oldnewthing · If C# and JavaScript lets me await a Windows Runtime asynchronous operation more than once, why not C++/WinRT?"
-      ],
-      "key_points": [
-        "Calculating the expected range of normal samples",
-        "Revenge of The Business Idiot",
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files"
-      ],
-      "key_points_zh": [
-        "Calculating the expected range of normal samples",
-        "Revenge of The Business Idiot",
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files"
-      ],
-      "key_points_en": [
-        "Calculating the expected range of normal samples",
-        "Revenge of The Business Idiot",
-        "Only insane people use the internet",
-        "Microsoft Copilot Cowork Exfiltrates Files"
-      ],
-      "tweet_drafts": [
-        "Calculating the expected range of normal samples",
-        "Revenge of The Business Idiot",
-        "Only insane people use the internet"
-      ],
-      "sources": [
-        {
-          "feed_title": "johndcook.com",
-          "title": "Calculating the expected range of normal samples",
-          "link": "https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Revenge of The Business Idiot",
-          "link": "https://www.wheresyoured.at/the-revenge-of-the-business-idiot/"
-        },
-        {
-          "feed_title": "experimental-history.com",
-          "title": "Only insane people use the internet",
-          "link": "https://www.experimental-history.com/p/only-insane-people-use-the-internet"
-        }
-      ],
-      "summary_zh": "2026-05-26 技术日报：Calculating the expected range of normal samples；Revenge of The Business Idiot；Only insane people use the internet。",
-      "summary_en": "Daily brief (2026-05-26): Calculating the expected range of normal samples; Revenge of The Business Idiot; Only insane people use the internet.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-26 日报】Calculating the expected range of normal samples；Revenge of The Business Idiot；Only insane people use the internet。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-26): Calculating the expected range of normal samples; Revenge of The Business Idiot; Only insane people use the internet. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-26）\n- Calculating the expected range of normal samples\n- Revenge of The Business Idiot\n- Only insane people use the internet\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-26)\n- Calculating the expected range of normal samples\n- Revenge of The Business Idiot\n- Only insane people use the internet\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/\n- https://www.wheresyoured.at/the-revenge-of-the-business-idiot/\n- https://www.experimental-history.com/p/only-insane-people-use-the-internet\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Calculating the expected range of normal samples；Revenge of The Business Idiot；Only insane people use the internet。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Calculating the expected range of normal samples; Revenge of The Business Idiot; Only insane people use the internet.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
