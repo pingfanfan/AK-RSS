@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-25 11:21:28 UTC
+Generated at: 2026-06-25 12:14:05 UTC
 
-- [VA Linux’s transformation after leaving the hardware business](https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss&utm_medium=rss&utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business) (`dfarq.homeip.net`)
+- [Consecutive Pythagorean triangle sides](https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/) (`johndcook.com`)
+- [Scrutineer: scanning open source without flooding maintainers](https://nesbitt.io/2026/06/25/scrutineer.html) (`nesbitt.io`)

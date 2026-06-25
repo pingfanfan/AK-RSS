@@ -1,77 +1,79 @@
 {
-  "generated_at": "2026-06-25T11:21:42Z",
+  "generated_at": "2026-06-25T12:14:19Z",
   "days": [
     {
       "date": "2026-06-25",
-      "total": 5,
+      "total": 7,
       "feeds": [
+        "johndcook.com (2)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "johndcook.com · Consecutive Pythagorean triangle sides",
         "dfarq.homeip.net · VA Linux’s transformation after leaving the hardware business",
+        "nesbitt.io · Scrutineer: scanning open source without flooding maintainers",
         "pluralistic.net · Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
         "utcc.utoronto.ca/~cks · Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
-        "johndcook.com · The Star Trek lemma",
-        "simonwillison.net · simonw/browser-compat-db"
+        "johndcook.com · The Star Trek lemma"
       ],
       "key_points": [
+        "Consecutive Pythagorean triangle sides",
         "VA Linux’s transformation after leaving the hardware business",
-        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
-        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
-        "The Star Trek lemma"
+        "Scrutineer: scanning open source without flooding maintainers",
+        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
       ],
       "key_points_zh": [
+        "Consecutive Pythagorean triangle sides",
         "VA Linux’s transformation after leaving the hardware business",
-        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
-        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
-        "The Star Trek lemma"
+        "Scrutineer: scanning open source without flooding maintainers",
+        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
       ],
       "key_points_en": [
+        "Consecutive Pythagorean triangle sides",
         "VA Linux’s transformation after leaving the hardware business",
-        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
-        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
-        "The Star Trek lemma"
+        "Scrutineer: scanning open source without flooding maintainers",
+        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)"
       ],
       "tweet_drafts": [
+        "Consecutive Pythagorean triangle sides",
         "VA Linux’s transformation after leaving the hardware business",
-        "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
-        "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'"
+        "Scrutineer: scanning open source without flooding maintainers"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Consecutive Pythagorean triangle sides",
+          "link": "https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "VA Linux’s transformation after leaving the hardware business",
           "link": "https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business"
         },
         {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
-          "link": "https://pluralistic.net/2026/06/25/thieve-different/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec"
+          "feed_title": "nesbitt.io",
+          "title": "Scrutineer: scanning open source without flooding maintainers",
+          "link": "https://nesbitt.io/2026/06/25/scrutineer.html"
         }
       ],
-      "summary_zh": "2026-06-25 技术日报：VA Linux’s transformation after leaving the hardware business；Pluralistic: Jailbreaking isn't theft (25 Jun 2026)；Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'。",
-      "summary_en": "Daily brief (2026-06-25): VA Linux’s transformation after leaving the hardware business; Pluralistic: Jailbreaking isn't theft (25 Jun 2026); Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'.",
+      "summary_zh": "2026-06-25 技术日报：Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business；Scrutineer: scanning open source without flooding maintainers。",
+      "summary_en": "Daily brief (2026-06-25): Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business; Scrutineer: scanning open source without flooding maintainers.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-25 日报】VA Linux’s transformation after leaving the hardware business；Pluralistic: Jailbreaking isn't theft (25 Jun 2026)；Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-25): VA Linux’s transformation after leaving the hardware business; Pluralistic: Jailbreaking isn't theft (25 Jun 2026); Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'. Actionable takeaways included."
+          "zh": "【2026-06-25 日报】Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business；Scrutineer: scanning open source without flooding maintainers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-25): Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business; Scrutineer: scanning open source without flooding maintainers. Actionable takeaways included. What would you ship next? #AI #Engin"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-25）\n- VA Linux’s transformation after leaving the hardware business\n- Pluralistic: Jailbreaking isn't theft (25 Jun 2026)\n- Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n- https://pluralistic.net/2026/06/25/thieve-different/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-25)\n- VA Linux’s transformation after leaving the hardware business\n- Pluralistic: Jailbreaking isn't theft (25 Jun 2026)\n- Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n- https://pluralistic.net/2026/06/25/thieve-different/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-25）\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n- Scrutineer: scanning open source without flooding maintainers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n- https://nesbitt.io/2026/06/25/scrutineer.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-25)\n- Consecutive Pythagorean triangle sides\n- VA Linux’s transformation after leaving the hardware business\n- Scrutineer: scanning open source without flooding maintainers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/\n- https://dfarq.homeip.net/va-linuxs-transformation-after-leaving-the-hardware-business/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=va-linuxs-transformation-after-leaving-the-hardware-business\n- https://nesbitt.io/2026/06/25/scrutineer.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：VA Linux’s transformation after leaving the hardware business；Pluralistic: Jailbreaking isn't theft (25 Jun 2026)；Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: VA Linux’s transformation after leaving the hardware business; Pluralistic: Jailbreaking isn't theft (25 Jun 2026); Some things on '\u003ccode\u003esystemctl kexec\u003c/code\u003e' as compared to '\u003ccode\u003ekexec -e\u003c/code\u003e'.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Consecutive Pythagorean triangle sides；VA Linux’s transformation after leaving the hardware business；Scrutineer: scanning open source without flooding maintainers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Consecutive Pythagorean triangle sides; VA Linux’s transformation after leaving the hardware business; Scrutineer: scanning open source without flooding maintainers.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -319,8 +321,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -2066,27 +2068,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
