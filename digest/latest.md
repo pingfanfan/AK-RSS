@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-25 20:12:27 UTC
+Generated at: 2026-06-25 21:03:40 UTC
 
-- [Hart’s theorem](https://www.johndcook.com/blog/2026/06/25/harts-theorem/) (`johndcook.com`)
+- [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/) (`daringfireball.net`)
