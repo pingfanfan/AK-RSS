@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-25 15:26:27 UTC
+Generated at: 2026-06-25 16:16:58 UTC
 
-- [Incircles and Excircles of Pythagorean triangles](https://www.johndcook.com/blog/2026/06/25/incircle-excircle/) (`johndcook.com`)
+- [Cancellation of Windows Runtime activities is asynchronous](https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465) (`devblogs.microsoft.com/oldnewthing`)
