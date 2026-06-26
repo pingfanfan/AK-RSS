@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-06-26T10:02:59Z",
+  "generated_at": "2026-06-26T11:27:05Z",
   "days": [
     {
       "date": "2026-06-26",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Spyglass: A web browsing pioneer’s IPO",
         "nesbitt.io · Incident Report: CVE-2026-LGTM",
         "utcc.utoronto.ca/~cks · You can't always trust a BMC's inventory of the server's hardware",
         "jeffgeerling.com · Quickly apply LUTs (color grading) with ffmpeg"
       ],
       "key_points": [
+        "Spyglass: A web browsing pioneer’s IPO",
         "Incident Report: CVE-2026-LGTM",
         "You can't always trust a BMC's inventory of the server's hardware",
         "Quickly apply LUTs (color grading) with ffmpeg"
       ],
       "key_points_zh": [
+        "Spyglass: A web browsing pioneer’s IPO",
         "Incident Report: CVE-2026-LGTM",
         "You can't always trust a BMC's inventory of the server's hardware",
         "Quickly apply LUTs (color grading) with ffmpeg"
       ],
       "key_points_en": [
+        "Spyglass: A web browsing pioneer’s IPO",
         "Incident Report: CVE-2026-LGTM",
         "You can't always trust a BMC's inventory of the server's hardware",
         "Quickly apply LUTs (color grading) with ffmpeg"
       ],
       "tweet_drafts": [
+        "Spyglass: A web browsing pioneer’s IPO",
         "Incident Report: CVE-2026-LGTM",
-        "You can't always trust a BMC's inventory of the server's hardware",
-        "Quickly apply LUTs (color grading) with ffmpeg"
+        "You can't always trust a BMC's inventory of the server's hardware"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Spyglass: A web browsing pioneer’s IPO",
+          "link": "https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=spyglass-a-web-browsing-pioneers-ipo"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "Incident Report: CVE-2026-LGTM",
@@ -44,27 +54,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "You can't always trust a BMC's inventory of the server's hardware",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "Quickly apply LUTs (color grading) with ffmpeg",
-          "link": "https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/"
         }
       ],
-      "summary_zh": "2026-06-26 技术日报：Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware；Quickly apply LUTs (color grading) with ffmpeg。",
-      "summary_en": "Daily brief (2026-06-26): Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware; Quickly apply LUTs (color grading) with ffmpeg.",
+      "summary_zh": "2026-06-26 技术日报：Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware。",
+      "summary_en": "Daily brief (2026-06-26): Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-26 日报】Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware；Quickly apply LUTs (color grading) with ffmpeg。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-26): Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware; Quickly apply LUTs (color grading) with ffmpeg. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubl"
+          "zh": "【2026-06-26 日报】Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-26): Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-26）\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n- Quickly apply LUTs (color grading) with ffmpeg\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n- https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-26)\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n- Quickly apply LUTs (color grading) with ffmpeg\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n- https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-26）\n- Spyglass: A web browsing pioneer’s IPO\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=spyglass-a-web-browsing-pioneers-ipo\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-26)\n- Spyglass: A web browsing pioneer’s IPO\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=spyglass-a-web-browsing-pioneers-ipo\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware；Quickly apply LUTs (color grading) with ffmpeg。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware; Quickly apply LUTs (color grading) with ffmpeg.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -388,8 +393,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -2135,27 +2140,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
