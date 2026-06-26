@@ -1,49 +1,121 @@
 {
-  "generated_at": "2026-06-25T22:38:18Z",
+  "generated_at": "2026-06-26T07:10:02Z",
   "days": [
     {
-      "date": "2026-06-25",
-      "total": 16,
+      "date": "2026-06-26",
+      "total": 3,
       "feeds": [
-        "johndcook.com (4)",
-        "daringfireball.net (3)",
-        "simonwillison.net (2)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
+        "jeffgeerling.com (1)",
+        "nesbitt.io (1)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "nesbitt.io · Incident Report: CVE-2026-LGTM",
+        "utcc.utoronto.ca/~cks · You can't always trust a BMC's inventory of the server's hardware",
+        "jeffgeerling.com · Quickly apply LUTs (color grading) with ffmpeg"
+      ],
+      "key_points": [
+        "Incident Report: CVE-2026-LGTM",
+        "You can't always trust a BMC's inventory of the server's hardware",
+        "Quickly apply LUTs (color grading) with ffmpeg"
+      ],
+      "key_points_zh": [
+        "Incident Report: CVE-2026-LGTM",
+        "You can't always trust a BMC's inventory of the server's hardware",
+        "Quickly apply LUTs (color grading) with ffmpeg"
+      ],
+      "key_points_en": [
+        "Incident Report: CVE-2026-LGTM",
+        "You can't always trust a BMC's inventory of the server's hardware",
+        "Quickly apply LUTs (color grading) with ffmpeg"
+      ],
+      "tweet_drafts": [
+        "Incident Report: CVE-2026-LGTM",
+        "You can't always trust a BMC's inventory of the server's hardware",
+        "Quickly apply LUTs (color grading) with ffmpeg"
+      ],
+      "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Incident Report: CVE-2026-LGTM",
+          "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "You can't always trust a BMC's inventory of the server's hardware",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Quickly apply LUTs (color grading) with ffmpeg",
+          "link": "https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/"
+        }
+      ],
+      "summary_zh": "2026-06-26 技术日报：Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware；Quickly apply LUTs (color grading) with ffmpeg。",
+      "summary_en": "Daily brief (2026-06-26): Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware; Quickly apply LUTs (color grading) with ffmpeg.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-26 日报】Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware；Quickly apply LUTs (color grading) with ffmpeg。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-26): Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware; Quickly apply LUTs (color grading) with ffmpeg. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubl"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-26）\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n- Quickly apply LUTs (color grading) with ffmpeg\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n- https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-26)\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n- Quickly apply LUTs (color grading) with ffmpeg\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n- https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware；Quickly apply LUTs (color grading) with ffmpeg。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware; Quickly apply LUTs (color grading) with ffmpeg.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "total": 19,
+      "feeds": [
+        "daringfireball.net (4)",
+        "johndcook.com (4)",
+        "simonwillison.net (2)",
+        "blog.jim-nielsen.com (1)",
+        "borretti.me (1)",
+        "construction-physics.com (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)",
         "daringfireball.net · ★ Spensive Thoughts",
         "simonwillison.net · AI and Liability",
         "daringfireball.net · Om Malik, 1966-2026",
         "johndcook.com · Hart’s theorem",
-        "daringfireball.net · Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods",
-        "johndcook.com · Incircles and Excircles of Pythagorean triangles"
+        "blog.jim-nielsen.com · My Om Malik Story"
       ],
       "key_points": [
-        "★ Spensive Thoughts",
-        "AI and Liability",
-        "Om Malik, 1966-2026",
-        "Hart’s theorem"
-      ],
-      "key_points_zh": [
-        "★ Spensive Thoughts",
-        "AI and Liability",
-        "Om Malik, 1966-2026",
-        "Hart’s theorem"
-      ],
-      "key_points_en": [
-        "★ Spensive Thoughts",
-        "AI and Liability",
-        "Om Malik, 1966-2026",
-        "Hart’s theorem"
-      ],
-      "tweet_drafts": [
+        "Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)",
         "★ Spensive Thoughts",
         "AI and Liability",
         "Om Malik, 1966-2026"
       ],
+      "key_points_zh": [
+        "Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)",
+        "★ Spensive Thoughts",
+        "AI and Liability",
+        "Om Malik, 1966-2026"
+      ],
+      "key_points_en": [
+        "Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)",
+        "★ Spensive Thoughts",
+        "AI and Liability",
+        "Om Malik, 1966-2026"
+      ],
+      "tweet_drafts": [
+        "Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)",
+        "★ Spensive Thoughts",
+        "AI and Liability"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)",
+          "link": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "★ Spensive Thoughts",
@@ -53,27 +125,22 @@
           "feed_title": "simonwillison.net",
           "title": "AI and Liability",
           "link": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Om Malik, 1966-2026",
-          "link": "https://om.co/2026/06/24/1966-2026/"
         }
       ],
-      "summary_zh": "2026-06-25 技术日报：★ Spensive Thoughts；AI and Liability；Om Malik, 1966-2026。",
-      "summary_en": "Daily brief (2026-06-25): ★ Spensive Thoughts; AI and Liability; Om Malik, 1966-2026.",
+      "summary_zh": "2026-06-25 技术日报：Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)；★ Spensive Thoughts；AI and Liability。",
+      "summary_en": "Daily brief (2026-06-25): Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame); ★ Spensive Thoughts; AI and Liability.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-25 日报】★ Spensive Thoughts；AI and Liability；Om Malik, 1966-2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-25): ★ Spensive Thoughts; AI and Liability; Om Malik, 1966-2026. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-25 日报】Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)；★ Spensive Thoughts；AI and Liability。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-25): Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame); ★ Spensive Thoughts; AI and Liability. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-25）\n- ★ Spensive Thoughts\n- AI and Liability\n- Om Malik, 1966-2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/06/spensive_thoughts\n- https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything\n- https://om.co/2026/06/24/1966-2026/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-25)\n- ★ Spensive Thoughts\n- AI and Liability\n- Om Malik, 1966-2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/06/spensive_thoughts\n- https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything\n- https://om.co/2026/06/24/1966-2026/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-25）\n- Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)\n- ★ Spensive Thoughts\n- AI and Liability\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps\n- https://daringfireball.net/2026/06/spensive_thoughts\n- https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-25)\n- Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)\n- ★ Spensive Thoughts\n- AI and Liability\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps\n- https://daringfireball.net/2026/06/spensive_thoughts\n- https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ Spensive Thoughts；AI and Liability；Om Malik, 1966-2026。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ Spensive Thoughts; AI and Liability; Om Malik, 1966-2026.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)；★ Spensive Thoughts；AI and Liability。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame); ★ Spensive Thoughts; AI and Liability.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -853,8 +920,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -2068,27 +2135,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2145,8 +2212,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras；Knowing about things is cheaper than knowing things；Protestware for coding agents。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras; Knowing about things is cheaper than knowing things; Protestware for coding agents.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-27",
-      "total": 16,
-      "feeds": [
-        "simonwillison.net (2)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "herman.bearblog.dev (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "miguelgrinberg.com · SQLAlchemy 2 In Practice - Solutions to the Exercises",
-        "simonwillison.net · I think Anthropic and OpenAI have found product-market fit",
-        "johndcook.com · The Meta logo and fitting Besace curves",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1",
-        "terriblesoftware.org · Using My Fucking Brain",
-        "shkspr.mobi · Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆"
-      ],
-      "key_points": [
-        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
-        "I think Anthropic and OpenAI have found product-market fit",
-        "The Meta logo and fitting Besace curves",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1"
-      ],
-      "key_points_zh": [
-        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
-        "I think Anthropic and OpenAI have found product-market fit",
-        "The Meta logo and fitting Besace curves",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1"
-      ],
-      "key_points_en": [
-        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
-        "I think Anthropic and OpenAI have found product-market fit",
-        "The Meta logo and fitting Besace curves",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1"
-      ],
-      "tweet_drafts": [
-        "SQLAlchemy 2 In Practice - Solutions to the Exercises",
-        "I think Anthropic and OpenAI have found product-market fit",
-        "The Meta logo and fitting Besace curves"
-      ],
-      "sources": [
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "SQLAlchemy 2 In Practice - Solutions to the Exercises",
-          "link": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "link": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "The Meta logo and fitting Besace curves",
-          "link": "https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/"
-        }
-      ],
-      "summary_zh": "2026-05-27 技术日报：SQLAlchemy 2 In Practice - Solutions to the Exercises；I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves。",
-      "summary_en": "Daily brief (2026-05-27): SQLAlchemy 2 In Practice - Solutions to the Exercises; I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-27 日报】SQLAlchemy 2 In Practice - Solutions to the Exercises；I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-27): SQLAlchemy 2 In Practice - Solutions to the Exercises; I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves. Actionable takeaways included. What would you ship next? #AI #Engineering #Bu"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-27）\n- SQLAlchemy 2 In Practice - Solutions to the Exercises\n- I think Anthropic and OpenAI have found product-market fit\n- The Meta logo and fitting Besace curves\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises\n- https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything\n- https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-27)\n- SQLAlchemy 2 In Practice - Solutions to the Exercises\n- I think Anthropic and OpenAI have found product-market fit\n- The Meta logo and fitting Besace curves\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises\n- https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything\n- https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：SQLAlchemy 2 In Practice - Solutions to the Exercises；I think Anthropic and OpenAI have found product-market fit；The Meta logo and fitting Besace curves。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: SQLAlchemy 2 In Practice - Solutions to the Exercises; I think Anthropic and OpenAI have found product-market fit; The Meta logo and fitting Besace curves.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
