@@ -1,45 +1,54 @@
 {
-  "generated_at": "2026-06-26T11:27:05Z",
+  "generated_at": "2026-06-26T12:15:12Z",
   "days": [
     {
       "date": "2026-06-26",
-      "total": 4,
+      "total": 6,
       "feeds": [
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "nesbitt.io (1)",
+        "seangoedecke.com (1)",
+        "shkspr.mobi (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
         "dfarq.homeip.net · Spyglass: A web browsing pioneer’s IPO",
         "nesbitt.io · Incident Report: CVE-2026-LGTM",
         "utcc.utoronto.ca/~cks · You can't always trust a BMC's inventory of the server's hardware",
-        "jeffgeerling.com · Quickly apply LUTs (color grading) with ffmpeg"
+        "jeffgeerling.com · Quickly apply LUTs (color grading) with ffmpeg",
+        "seangoedecke.com · AI inference is obviously profitable"
       ],
       "key_points": [
-        "Spyglass: A web browsing pioneer’s IPO",
-        "Incident Report: CVE-2026-LGTM",
-        "You can't always trust a BMC's inventory of the server's hardware",
-        "Quickly apply LUTs (color grading) with ffmpeg"
-      ],
-      "key_points_zh": [
-        "Spyglass: A web browsing pioneer’s IPO",
-        "Incident Report: CVE-2026-LGTM",
-        "You can't always trust a BMC's inventory of the server's hardware",
-        "Quickly apply LUTs (color grading) with ffmpeg"
-      ],
-      "key_points_en": [
-        "Spyglass: A web browsing pioneer’s IPO",
-        "Incident Report: CVE-2026-LGTM",
-        "You can't always trust a BMC's inventory of the server's hardware",
-        "Quickly apply LUTs (color grading) with ffmpeg"
-      ],
-      "tweet_drafts": [
+        "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
         "Spyglass: A web browsing pioneer’s IPO",
         "Incident Report: CVE-2026-LGTM",
         "You can't always trust a BMC's inventory of the server's hardware"
       ],
+      "key_points_zh": [
+        "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
+        "Spyglass: A web browsing pioneer’s IPO",
+        "Incident Report: CVE-2026-LGTM",
+        "You can't always trust a BMC's inventory of the server's hardware"
+      ],
+      "key_points_en": [
+        "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
+        "Spyglass: A web browsing pioneer’s IPO",
+        "Incident Report: CVE-2026-LGTM",
+        "You can't always trust a BMC's inventory of the server's hardware"
+      ],
+      "tweet_drafts": [
+        "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
+        "Spyglass: A web browsing pioneer’s IPO",
+        "Incident Report: CVE-2026-LGTM"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Review: Gamrombo PS5 controller - including Linux set up ★★★★☆",
+          "link": "https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Spyglass: A web browsing pioneer’s IPO",
@@ -49,27 +58,22 @@
           "feed_title": "nesbitt.io",
           "title": "Incident Report: CVE-2026-LGTM",
           "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "You can't always trust a BMC's inventory of the server's hardware",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory"
         }
       ],
-      "summary_zh": "2026-06-26 技术日报：Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware。",
-      "summary_en": "Daily brief (2026-06-26): Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware.",
+      "summary_zh": "2026-06-26 技术日报：Review: Gamrombo PS5 controller - including Linux set up ★★★★☆；Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM。",
+      "summary_en": "Daily brief (2026-06-26): Review: Gamrombo PS5 controller - including Linux set up ★★★★☆; Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-26 日报】Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-26): Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-26 日报】Review: Gamrombo PS5 controller - including Linux set up ★★★★☆；Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-26): Review: Gamrombo PS5 controller - including Linux set up ★★★★☆; Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-26）\n- Spyglass: A web browsing pioneer’s IPO\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=spyglass-a-web-browsing-pioneers-ipo\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-26)\n- Spyglass: A web browsing pioneer’s IPO\n- Incident Report: CVE-2026-LGTM\n- You can't always trust a BMC's inventory of the server's hardware\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=spyglass-a-web-browsing-pioneers-ipo\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n- https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-26）\n- Review: Gamrombo PS5 controller - including Linux set up ★★★★☆\n- Spyglass: A web browsing pioneer’s IPO\n- Incident Report: CVE-2026-LGTM\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/\n- https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=spyglass-a-web-browsing-pioneers-ipo\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-26)\n- Review: Gamrombo PS5 controller - including Linux set up ★★★★☆\n- Spyglass: A web browsing pioneer’s IPO\n- Incident Report: CVE-2026-LGTM\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/\n- https://dfarq.homeip.net/spyglass-a-web-browsing-pioneers-ipo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=spyglass-a-web-browsing-pioneers-ipo\n- https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM；You can't always trust a BMC's inventory of the server's hardware。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM; You can't always trust a BMC's inventory of the server's hardware.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Review: Gamrombo PS5 controller - including Linux set up ★★★★☆；Spyglass: A web browsing pioneer’s IPO；Incident Report: CVE-2026-LGTM。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Review: Gamrombo PS5 controller - including Linux set up ★★★★☆; Spyglass: A web browsing pioneer’s IPO; Incident Report: CVE-2026-LGTM.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -393,8 +397,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -925,8 +929,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
