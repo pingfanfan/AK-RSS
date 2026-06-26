@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-26T21:01:01Z",
+  "generated_at": "2026-06-26T21:51:45Z",
   "days": [
     {
       "date": "2026-06-26",
-      "total": 13,
+      "total": 14,
       "feeds": [
+        "simonwillison.net (3)",
         "daringfireball.net (2)",
-        "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
         "dynomight.net (1)",
         "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Timothy B. Lee",
         "simonwillison.net · What happened after 2,000 people tried to hack my AI assistant",
         "wheresyoured.at · Premium: Notes From The Bubble, Volume 1",
         "simonwillison.net · Incident Report: CVE-2026-LGTM",
         "daringfireball.net · Apple’s Full Statement on Yesterday’s Price Increases",
-        "dwarkesh.com · The next big breakthrough will be AIs learning on the job",
-        "daringfireball.net · The Price-Hiked Apple TV 4K Is 4 Years Old"
+        "dwarkesh.com · The next big breakthrough will be AIs learning on the job"
       ],
       "key_points": [
-        "What happened after 2,000 people tried to hack my AI assistant",
-        "Premium: Notes From The Bubble, Volume 1",
-        "Incident Report: CVE-2026-LGTM",
-        "Apple’s Full Statement on Yesterday’s Price Increases"
-      ],
-      "key_points_zh": [
-        "What happened after 2,000 people tried to hack my AI assistant",
-        "Premium: Notes From The Bubble, Volume 1",
-        "Incident Report: CVE-2026-LGTM",
-        "Apple’s Full Statement on Yesterday’s Price Increases"
-      ],
-      "key_points_en": [
-        "What happened after 2,000 people tried to hack my AI assistant",
-        "Premium: Notes From The Bubble, Volume 1",
-        "Incident Report: CVE-2026-LGTM",
-        "Apple’s Full Statement on Yesterday’s Price Increases"
-      ],
-      "tweet_drafts": [
+        "Quoting Timothy B. Lee",
         "What happened after 2,000 people tried to hack my AI assistant",
         "Premium: Notes From The Bubble, Volume 1",
         "Incident Report: CVE-2026-LGTM"
       ],
+      "key_points_zh": [
+        "Quoting Timothy B. Lee",
+        "What happened after 2,000 people tried to hack my AI assistant",
+        "Premium: Notes From The Bubble, Volume 1",
+        "Incident Report: CVE-2026-LGTM"
+      ],
+      "key_points_en": [
+        "Quoting Timothy B. Lee",
+        "What happened after 2,000 people tried to hack my AI assistant",
+        "Premium: Notes From The Bubble, Volume 1",
+        "Incident Report: CVE-2026-LGTM"
+      ],
+      "tweet_drafts": [
+        "Quoting Timothy B. Lee",
+        "What happened after 2,000 people tried to hack my AI assistant",
+        "Premium: Notes From The Bubble, Volume 1"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Timothy B. Lee",
+          "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "What happened after 2,000 people tried to hack my AI assistant",
@@ -53,27 +58,22 @@
           "feed_title": "wheresyoured.at",
           "title": "Premium: Notes From The Bubble, Volume 1",
           "link": "https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Incident Report: CVE-2026-LGTM",
-          "link": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-26 技术日报：What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1；Incident Report: CVE-2026-LGTM。",
-      "summary_en": "Daily brief (2026-06-26): What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1; Incident Report: CVE-2026-LGTM.",
+      "summary_zh": "2026-06-26 技术日报：Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1。",
+      "summary_en": "Daily brief (2026-06-26): Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-26 日报】What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1；Incident Report: CVE-2026-LGTM。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-26): What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1; Incident Report: CVE-2026-LGTM. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-26 日报】Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-26): Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-26）\n- What happened after 2,000 people tried to hack my AI assistant\n- Premium: Notes From The Bubble, Volume 1\n- Incident Report: CVE-2026-LGTM\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n- https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/\n- https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-26)\n- What happened after 2,000 people tried to hack my AI assistant\n- Premium: Notes From The Bubble, Volume 1\n- Incident Report: CVE-2026-LGTM\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n- https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/\n- https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-26）\n- Quoting Timothy B. Lee\n- What happened after 2,000 people tried to hack my AI assistant\n- Premium: Notes From The Bubble, Volume 1\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n- https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-26)\n- Quoting Timothy B. Lee\n- What happened after 2,000 people tried to hack my AI assistant\n- Premium: Notes From The Bubble, Volume 1\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n- https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1；Incident Report: CVE-2026-LGTM。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1; Incident Report: CVE-2026-LGTM.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1081,8 +1081,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2144,27 +2144,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
