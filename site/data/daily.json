@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T22:22:46Z",
+  "generated_at": "2026-06-26T22:50:44Z",
   "days": [
     {
       "date": "2026-06-26",
-      "total": 14,
+      "total": 15,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "daringfireball.net (2)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
@@ -13,37 +13,42 @@
         "jeffgeerling.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Dean W. Ball",
         "simonwillison.net · Quoting Timothy B. Lee",
         "simonwillison.net · What happened after 2,000 people tried to hack my AI assistant",
         "wheresyoured.at · Premium: Notes From The Bubble, Volume 1",
         "simonwillison.net · Incident Report: CVE-2026-LGTM",
-        "daringfireball.net · Apple’s Full Statement on Yesterday’s Price Increases",
-        "dwarkesh.com · The next big breakthrough will be AIs learning on the job"
+        "daringfireball.net · Apple’s Full Statement on Yesterday’s Price Increases"
       ],
       "key_points": [
-        "Quoting Timothy B. Lee",
-        "What happened after 2,000 people tried to hack my AI assistant",
-        "Premium: Notes From The Bubble, Volume 1",
-        "Incident Report: CVE-2026-LGTM"
-      ],
-      "key_points_zh": [
-        "Quoting Timothy B. Lee",
-        "What happened after 2,000 people tried to hack my AI assistant",
-        "Premium: Notes From The Bubble, Volume 1",
-        "Incident Report: CVE-2026-LGTM"
-      ],
-      "key_points_en": [
-        "Quoting Timothy B. Lee",
-        "What happened after 2,000 people tried to hack my AI assistant",
-        "Premium: Notes From The Bubble, Volume 1",
-        "Incident Report: CVE-2026-LGTM"
-      ],
-      "tweet_drafts": [
+        "Quoting Dean W. Ball",
         "Quoting Timothy B. Lee",
         "What happened after 2,000 people tried to hack my AI assistant",
         "Premium: Notes From The Bubble, Volume 1"
       ],
+      "key_points_zh": [
+        "Quoting Dean W. Ball",
+        "Quoting Timothy B. Lee",
+        "What happened after 2,000 people tried to hack my AI assistant",
+        "Premium: Notes From The Bubble, Volume 1"
+      ],
+      "key_points_en": [
+        "Quoting Dean W. Ball",
+        "Quoting Timothy B. Lee",
+        "What happened after 2,000 people tried to hack my AI assistant",
+        "Premium: Notes From The Bubble, Volume 1"
+      ],
+      "tweet_drafts": [
+        "Quoting Dean W. Ball",
+        "Quoting Timothy B. Lee",
+        "What happened after 2,000 people tried to hack my AI assistant"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Dean W. Ball",
+          "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Timothy B. Lee",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "What happened after 2,000 people tried to hack my AI assistant",
           "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Premium: Notes From The Bubble, Volume 1",
-          "link": "https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/"
         }
       ],
-      "summary_zh": "2026-06-26 技术日报：Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1。",
-      "summary_en": "Daily brief (2026-06-26): Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1.",
+      "summary_zh": "2026-06-26 技术日报：Quoting Dean W. Ball；Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant。",
+      "summary_en": "Daily brief (2026-06-26): Quoting Dean W. Ball; Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-26 日报】Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-26): Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-26 日报】Quoting Dean W. Ball；Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-26): Quoting Dean W. Ball; Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-26）\n- Quoting Timothy B. Lee\n- What happened after 2,000 people tried to hack my AI assistant\n- Premium: Notes From The Bubble, Volume 1\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n- https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-26)\n- Quoting Timothy B. Lee\n- What happened after 2,000 people tried to hack my AI assistant\n- Premium: Notes From The Bubble, Volume 1\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n- https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-26）\n- Quoting Dean W. Ball\n- Quoting Timothy B. Lee\n- What happened after 2,000 people tried to hack my AI assistant\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything\n- https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-26)\n- Quoting Dean W. Ball\n- Quoting Timothy B. Lee\n- What happened after 2,000 people tried to hack my AI assistant\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything\n- https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything\n- https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant；Premium: Notes From The Bubble, Volume 1。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant; Premium: Notes From The Bubble, Volume 1.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Dean W. Ball；Quoting Timothy B. Lee；What happened after 2,000 people tried to hack my AI assistant。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Dean W. Ball; Quoting Timothy B. Lee; What happened after 2,000 people tried to hack my AI assistant.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1081,8 +1081,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2221,8 +2221,8 @@
         "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
         "nesbitt.io · Protestware for coding agents",
         "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed"
+        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
       ],
       "key_points": [
         "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
