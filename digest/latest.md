@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-26 17:06:54 UTC
+Generated at: 2026-06-26 18:04:35 UTC
 
-- [Apple’s Full Statement on Yesterday’s Price Increases](https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/) (`daringfireball.net`)
-- [Blink if you’re human](https://dynomight.net/blink/) (`dynomight.net`)
+- [Incident Report: CVE-2026-LGTM](https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything) (`simonwillison.net`)
