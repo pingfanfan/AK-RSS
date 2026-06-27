@@ -1,16 +1,88 @@
 {
-  "generated_at": "2026-06-26T22:50:44Z",
+  "generated_at": "2026-06-27T06:58:13Z",
   "days": [
     {
+      "date": "2026-06-27",
+      "total": 4,
+      "feeds": [
+        "daringfireball.net (1)",
+        "idiallo.com (1)",
+        "johndcook.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "idiallo.com · All Chinese Models Will Be Illegal in 3... 2... 1...",
+        "utcc.utoronto.ca/~cks · How your Ubuntu 26.04 server boots with a software RAID array root filesystem",
+        "johndcook.com · Writing down harmonic numbers",
+        "daringfireball.net · ★ Om"
+      ],
+      "key_points": [
+        "All Chinese Models Will Be Illegal in 3... 2... 1",
+        "How your Ubuntu 26.04 server boots with a software RAID array root filesystem",
+        "Writing down harmonic numbers",
+        "★ Om"
+      ],
+      "key_points_zh": [
+        "All Chinese Models Will Be Illegal in 3... 2... 1",
+        "How your Ubuntu 26.04 server boots with a software RAID array root filesystem",
+        "Writing down harmonic numbers",
+        "★ Om"
+      ],
+      "key_points_en": [
+        "All Chinese Models Will Be Illegal in 3... 2... 1",
+        "How your Ubuntu 26.04 server boots with a software RAID array root filesystem",
+        "Writing down harmonic numbers",
+        "★ Om"
+      ],
+      "tweet_drafts": [
+        "All Chinese Models Will Be Illegal in 3... 2... 1",
+        "How your Ubuntu 26.04 server boots with a software RAID array root filesystem",
+        "Writing down harmonic numbers"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "All Chinese Models Will Be Illegal in 3... 2... 1...",
+          "link": "https://idiallo.com/blog/all-chinese-models-will-be-illegal"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "How your Ubuntu 26.04 server boots with a software RAID array root filesystem",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Writing down harmonic numbers",
+          "link": "https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/"
+        }
+      ],
+      "summary_zh": "2026-06-27 技术日报：All Chinese Models Will Be Illegal in 3... 2... 1；How your Ubuntu 26.04 server boots with a software RAID array root filesystem；Writing down harmonic numbers。",
+      "summary_en": "Daily brief (2026-06-27): All Chinese Models Will Be Illegal in 3... 2... 1; How your Ubuntu 26.04 server boots with a software RAID array root filesystem; Writing down harmonic numbers.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-27 日报】All Chinese Models Will Be Illegal in 3... 2... 1；How your Ubuntu 26.04 server boots with a software RAID array root filesystem；Writing down harmonic numbers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-27): All Chinese Models Will Be Illegal in 3... 2... 1; How your Ubuntu 26.04 server boots with a software RAID array root filesystem; Writing down harmonic numbers. Actionable takeaways included. What would you ship next? #AI #Engineerin"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-27）\n- All Chinese Models Will Be Illegal in 3... 2... 1\n- How your Ubuntu 26.04 server boots with a software RAID array root filesystem\n- Writing down harmonic numbers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/all-chinese-models-will-be-illegal\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot\n- https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-27)\n- All Chinese Models Will Be Illegal in 3... 2... 1\n- How your Ubuntu 26.04 server boots with a software RAID array root filesystem\n- Writing down harmonic numbers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/all-chinese-models-will-be-illegal\n- https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot\n- https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：All Chinese Models Will Be Illegal in 3... 2... 1；How your Ubuntu 26.04 server boots with a software RAID array root filesystem；Writing down harmonic numbers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: All Chinese Models Will Be Illegal in 3... 2... 1; How your Ubuntu 26.04 server boots with a software RAID array root filesystem; Writing down harmonic numbers.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-26",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "simonwillison.net (4)",
         "daringfireball.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
-        "dynomight.net (1)",
-        "jeffgeerling.com (1)"
+        "dynomight.net (1)"
       ],
       "highlights": [
         "simonwillison.net · Quoting Dean W. Ball",
@@ -397,8 +469,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -929,8 +1001,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1081,8 +1153,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2144,27 +2216,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "jeffgeerling.com · It's hard to justify buying a Framework 12",
+        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
+        "It's hard to justify buying a Framework 12"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ What Is a Dickover?；Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ What Is a Dickover?; Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-28",
-      "total": 17,
-      "feeds": [
-        "daringfireball.net (2)",
-        "nesbitt.io (2)",
-        "buttondown.com/hillelwayne (1)",
-        "chiark.greenend.org.uk/~sgtatham (1)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
-        "buttondown.com/hillelwayne · Knowing about things is cheaper than knowing things",
-        "nesbitt.io · Protestware for coding agents",
-        "daringfireball.net · Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity",
-        "jeffgeerling.com · Tuning in FM Radio on a 3D Printer Heatbed",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2"
-      ],
-      "key_points": [
-        "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
-        "Knowing about things is cheaper than knowing things",
-        "Protestware for coding agents",
-        "Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity"
-      ],
-      "key_points_zh": [
-        "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
-        "Knowing about things is cheaper than knowing things",
-        "Protestware for coding agents",
-        "Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity"
-      ],
-      "key_points_en": [
-        "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
-        "Knowing about things is cheaper than knowing things",
-        "Protestware for coding agents",
-        "Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity"
-      ],
-      "tweet_drafts": [
-        "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
-        "Knowing about things is cheaper than knowing things",
-        "Protestware for coding agents"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras",
-          "link": "https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "Knowing about things is cheaper than knowing things",
-          "link": "https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "Protestware for coding agents",
-          "link": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html"
-        }
-      ],
-      "summary_zh": "2026-05-28 技术日报：Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras；Knowing about things is cheaper than knowing things；Protestware for coding agents。",
-      "summary_en": "Daily brief (2026-05-28): Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras; Knowing about things is cheaper than knowing things; Protestware for coding agents.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-28 日报】Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras；Knowing about things is cheaper than knowing things；Protestware for coding agents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-28): Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras; Knowing about things is cheaper than knowing things; Protestware for coding agents. Actionable takeaways included. What would you ship next? #AI #Engi"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-28）\n- Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras\n- Knowing about things is cheaper than knowing things\n- Protestware for coding agents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv\n- https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/\n- https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-28)\n- Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras\n- Knowing about things is cheaper than knowing things\n- Protestware for coding agents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv\n- https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/\n- https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras；Knowing about things is cheaper than knowing things；Protestware for coding agents。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras; Knowing about things is cheaper than knowing things; Protestware for coding agents.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
