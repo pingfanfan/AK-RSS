@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-27 11:56:56 UTC
+Generated at: 2026-06-27 12:28:39 UTC
 
-- [Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)](https://pluralistic.net/2026/06/27/zuckerstreisand-2/) (`pluralistic.net`)
+- [Reading List 06/27/26](https://www.construction-physics.com/p/reading-list-062726) (`construction-physics.com`)
