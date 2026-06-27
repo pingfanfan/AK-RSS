@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-27T19:27:57Z",
+  "generated_at": "2026-06-27T19:56:12Z",
   "days": [
     {
       "date": "2026-06-27",
-      "total": 12,
+      "total": 13,
       "feeds": [
+        "daringfireball.net (3)",
         "johndcook.com (3)",
-        "daringfireball.net (2)",
         "construction-physics.com (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models",
         "daringfireball.net · The Steam Machine",
         "johndcook.com · When will the decimals in a/b repeat?",
         "tedium.co · Hazy Memory",
         "johndcook.com · Height of harmonic numbers",
-        "construction-physics.com · Reading List 06/27/26",
-        "pluralistic.net · Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)"
+        "construction-physics.com · Reading List 06/27/26"
       ],
       "key_points": [
-        "The Steam Machine",
-        "When will the decimals in a/b repeat?",
-        "Hazy Memory",
-        "Height of harmonic numbers"
-      ],
-      "key_points_zh": [
-        "The Steam Machine",
-        "When will the decimals in a/b repeat?",
-        "Hazy Memory",
-        "Height of harmonic numbers"
-      ],
-      "key_points_en": [
-        "The Steam Machine",
-        "When will the decimals in a/b repeat?",
-        "Hazy Memory",
-        "Height of harmonic numbers"
-      ],
-      "tweet_drafts": [
+        "OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models",
         "The Steam Machine",
         "When will the decimals in a/b repeat?",
         "Hazy Memory"
       ],
+      "key_points_zh": [
+        "OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models",
+        "The Steam Machine",
+        "When will the decimals in a/b repeat?",
+        "Hazy Memory"
+      ],
+      "key_points_en": [
+        "OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models",
+        "The Steam Machine",
+        "When will the decimals in a/b repeat?",
+        "Hazy Memory"
+      ],
+      "tweet_drafts": [
+        "OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models",
+        "The Steam Machine",
+        "When will the decimals in a/b repeat?"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models",
+          "link": "https://openai.com/index/previewing-gpt-5-6-sol/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "The Steam Machine",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "When will the decimals in a/b repeat?",
           "link": "https://www.johndcook.com/blog/2026/06/27/decimal-period/"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Hazy Memory",
-          "link": "https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration"
         }
       ],
-      "summary_zh": "2026-06-27 技术日报：The Steam Machine；When will the decimals in a/b repeat?；Hazy Memory。",
-      "summary_en": "Daily brief (2026-06-27): The Steam Machine; When will the decimals in a/b repeat?; Hazy Memory.",
+      "summary_zh": "2026-06-27 技术日报：OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models；The Steam Machine；When will the decimals in a/b repeat?。",
+      "summary_en": "Daily brief (2026-06-27): OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models; The Steam Machine; When will the decimals in a/b repeat?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-27 日报】The Steam Machine；When will the decimals in a/b repeat?；Hazy Memory。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-27): The Steam Machine; When will the decimals in a/b repeat?; Hazy Memory. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-27 日报】OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models；The Steam Machine；When will the decimals in a/b repeat?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-27): OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models; The Steam Machine; When will the decimals in a/b repeat?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-27）\n- The Steam Machine\n- When will the decimals in a/b repeat?\n- Hazy Memory\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE\u0026utm_medium=gift-link\n- https://www.johndcook.com/blog/2026/06/27/decimal-period/\n- https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-27)\n- The Steam Machine\n- When will the decimals in a/b repeat?\n- Hazy Memory\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE\u0026utm_medium=gift-link\n- https://www.johndcook.com/blog/2026/06/27/decimal-period/\n- https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-27）\n- OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models\n- The Steam Machine\n- When will the decimals in a/b repeat?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://openai.com/index/previewing-gpt-5-6-sol/\n- https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE\u0026utm_medium=gift-link\n- https://www.johndcook.com/blog/2026/06/27/decimal-period/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-27)\n- OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models\n- The Steam Machine\n- When will the decimals in a/b repeat?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://openai.com/index/previewing-gpt-5-6-sol/\n- https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE\u0026utm_medium=gift-link\n- https://www.johndcook.com/blog/2026/06/27/decimal-period/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Steam Machine；When will the decimals in a/b repeat?；Hazy Memory。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Steam Machine; When will the decimals in a/b repeat?; Hazy Memory.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models；The Steam Machine；When will the decimals in a/b repeat?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models; The Steam Machine; When will the decimals in a/b repeat?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2220,27 +2220,27 @@
         "daringfireball.net · ★ What Is a Dickover?",
         "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
         "daringfireball.net · One Group, Clearly, Is Deranged",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
+        "jeffgeerling.com · It's hard to justify buying a Framework 12",
         "johndcook.com · Online (one-pass) algorithms"
       ],
       "key_points": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_zh": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "key_points_en": [
         "★ What Is a Dickover?",
         "Premium: What If...We're In An AI Bubble? (Part 3)",
         "One Group, Clearly, Is Deranged",
-        "It's hard to justify buying a Framework 12"
+        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
       ],
       "tweet_drafts": [
         "★ What Is a Dickover?",
