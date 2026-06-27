@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-27 21:47:35 UTC
+Generated at: 2026-06-27 22:19:25 UTC
 
-- [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s) (`aresluna.org`)
+- [Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup](https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/) (`daringfireball.net`)
