@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-27 22:19:25 UTC
+Generated at: 2026-06-27 22:46:47 UTC
 
-- [Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup](https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/) (`daringfireball.net`)
+- [Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022](https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/) (`daringfireball.net`)
