@@ -1,16 +1,90 @@
 {
-  "generated_at": "2026-06-27T22:47:02Z",
+  "generated_at": "2026-06-28T07:14:10Z",
   "days": [
     {
+      "date": "2026-06-28",
+      "total": 5,
+      "feeds": [
+        "daringfireball.net (1)",
+        "idiallo.com (1)",
+        "johndcook.com (1)",
+        "oldvcr.blogspot.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "idiallo.com · The Laziest Generation",
+        "oldvcr.blogspot.com · Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+        "utcc.utoronto.ca/~cks · Go interfaces, reflection, and binary size",
+        "johndcook.com · Brace expansion tree",
+        "daringfireball.net · ★ Bernie Sanders: Ideologue and Economic Ignoramus"
+      ],
+      "key_points": [
+        "The Laziest Generation",
+        "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+        "Go interfaces, reflection, and binary size",
+        "Brace expansion tree"
+      ],
+      "key_points_zh": [
+        "The Laziest Generation",
+        "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+        "Go interfaces, reflection, and binary size",
+        "Brace expansion tree"
+      ],
+      "key_points_en": [
+        "The Laziest Generation",
+        "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+        "Go interfaces, reflection, and binary size",
+        "Brace expansion tree"
+      ],
+      "tweet_drafts": [
+        "The Laziest Generation",
+        "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+        "Go interfaces, reflection, and binary size"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "The Laziest Generation",
+          "link": "https://idiallo.com/blog/the-laziest-generation"
+        },
+        {
+          "feed_title": "oldvcr.blogspot.com",
+          "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+          "link": "https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Go interfaces, reflection, and binary size",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfacesReflectAndBinarySize"
+        }
+      ],
+      "summary_zh": "2026-06-28 技术日报：The Laziest Generation；Working around dragons with the Lemote Yeeloong laptop and OpenBSD；Go interfaces, reflection, and binary size。",
+      "summary_en": "Daily brief (2026-06-28): The Laziest Generation; Working around dragons with the Lemote Yeeloong laptop and OpenBSD; Go interfaces, reflection, and binary size.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-28 日报】The Laziest Generation；Working around dragons with the Lemote Yeeloong laptop and OpenBSD；Go interfaces, reflection, and binary size。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-28): The Laziest Generation; Working around dragons with the Lemote Yeeloong laptop and OpenBSD; Go interfaces, reflection, and binary size. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-28）\n- The Laziest Generation\n- Working around dragons with the Lemote Yeeloong laptop and OpenBSD\n- Go interfaces, reflection, and binary size\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/the-laziest-generation\n- https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfacesReflectAndBinarySize\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-28)\n- The Laziest Generation\n- Working around dragons with the Lemote Yeeloong laptop and OpenBSD\n- Go interfaces, reflection, and binary size\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/the-laziest-generation\n- https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfacesReflectAndBinarySize\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：The Laziest Generation；Working around dragons with the Lemote Yeeloong laptop and OpenBSD；Go interfaces, reflection, and binary size。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Laziest Generation; Working around dragons with the Lemote Yeeloong laptop and OpenBSD; Go interfaces, reflection, and binary size.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-27",
-      "total": 18,
+      "total": 19,
       "feeds": [
         "daringfireball.net (7)",
         "johndcook.com (3)",
         "aresluna.org (1)",
         "construction-physics.com (1)",
         "idiallo.com (1)",
-        "nesbitt.io (1)"
+        "maurycyz.com (1)"
       ],
       "highlights": [
         "daringfireball.net · Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022",
@@ -1005,8 +1079,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -2202,82 +2276,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：How we contain Claude across products；Spot checking polynomial identities；Running Python ASGI apps in the browser via Pyodide + a service worker。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: How we contain Claude across products; Spot checking polynomial identities; Running Python ASGI apps in the browser via Pyodide + a service worker.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-29",
-      "total": 13,
-      "feeds": [
-        "daringfireball.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "jeffgeerling.com (1)",
-        "johndcook.com (1)",
-        "martinalderson.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ★ What Is a Dickover?",
-        "wheresyoured.at · Premium: What If...We're In An AI Bubble? (Part 3)",
-        "daringfireball.net · One Group, Clearly, Is Deranged",
-        "devblogs.microsoft.com/oldnewthing · Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3",
-        "jeffgeerling.com · It's hard to justify buying a Framework 12",
-        "johndcook.com · Online (one-pass) algorithms"
-      ],
-      "key_points": [
-        "★ What Is a Dickover?",
-        "Premium: What If...We're In An AI Bubble? (Part 3)",
-        "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
-      ],
-      "key_points_zh": [
-        "★ What Is a Dickover?",
-        "Premium: What If...We're In An AI Bubble? (Part 3)",
-        "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
-      ],
-      "key_points_en": [
-        "★ What Is a Dickover?",
-        "Premium: What If...We're In An AI Bubble? (Part 3)",
-        "One Group, Clearly, Is Deranged",
-        "Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3"
-      ],
-      "tweet_drafts": [
-        "★ What Is a Dickover?",
-        "Premium: What If...We're In An AI Bubble? (Part 3)",
-        "One Group, Clearly, Is Deranged"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ What Is a Dickover?",
-          "link": "https://daringfireball.net/2026/05/what_is_a_dickover"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Premium: What If...We're In An AI Bubble? (Part 3)",
-          "link": "https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "One Group, Clearly, Is Deranged",
-          "link": "https://paulkrugman.substack.com/p/whos-deranged-exactly"
-        }
-      ],
-      "summary_zh": "2026-05-29 技术日报：★ What Is a Dickover?；Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged。",
-      "summary_en": "Daily brief (2026-05-29): ★ What Is a Dickover?; Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-29 日报】★ What Is a Dickover?；Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-29): ★ What Is a Dickover?; Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-29）\n- ★ What Is a Dickover?\n- Premium: What If...We're In An AI Bubble? (Part 3)\n- One Group, Clearly, Is Deranged\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/05/what_is_a_dickover\n- https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/\n- https://paulkrugman.substack.com/p/whos-deranged-exactly\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-29)\n- ★ What Is a Dickover?\n- Premium: What If...We're In An AI Bubble? (Part 3)\n- One Group, Clearly, Is Deranged\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/05/what_is_a_dickover\n- https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/\n- https://paulkrugman.substack.com/p/whos-deranged-exactly\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：★ What Is a Dickover?；Premium: What If...We're In An AI Bubble? (Part 3)；One Group, Clearly, Is Deranged。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ What Is a Dickover?; Premium: What If...We're In An AI Bubble? (Part 3); One Group, Clearly, Is Deranged.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
