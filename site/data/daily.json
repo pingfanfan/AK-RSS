@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-06-29T11:12:42Z",
+  "generated_at": "2026-06-29T12:50:01Z",
   "days": [
     {
       "date": "2026-06-29",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
+        "johndcook.com (1)",
         "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "johndcook.com · Who you gonna believe: Grok or the docs?",
         "dfarq.homeip.net · What happened to Altavista",
         "nesbitt.io · Unbundling the standard library",
         "utcc.utoronto.ca/~cks · There's a plague of Googlebot impersonation going on (in June 2026)",
         "idiallo.com · I turned my prologue into a short video"
       ],
       "key_points": [
-        "What happened to Altavista",
-        "Unbundling the standard library",
-        "There's a plague of Googlebot impersonation going on (in June 2026)",
-        "I turned my prologue into a short video"
-      ],
-      "key_points_zh": [
-        "What happened to Altavista",
-        "Unbundling the standard library",
-        "There's a plague of Googlebot impersonation going on (in June 2026)",
-        "I turned my prologue into a short video"
-      ],
-      "key_points_en": [
-        "What happened to Altavista",
-        "Unbundling the standard library",
-        "There's a plague of Googlebot impersonation going on (in June 2026)",
-        "I turned my prologue into a short video"
-      ],
-      "tweet_drafts": [
+        "Who you gonna believe: Grok or the docs?",
         "What happened to Altavista",
         "Unbundling the standard library",
         "There's a plague of Googlebot impersonation going on (in June 2026)"
       ],
+      "key_points_zh": [
+        "Who you gonna believe: Grok or the docs?",
+        "What happened to Altavista",
+        "Unbundling the standard library",
+        "There's a plague of Googlebot impersonation going on (in June 2026)"
+      ],
+      "key_points_en": [
+        "Who you gonna believe: Grok or the docs?",
+        "What happened to Altavista",
+        "Unbundling the standard library",
+        "There's a plague of Googlebot impersonation going on (in June 2026)"
+      ],
+      "tweet_drafts": [
+        "Who you gonna believe: Grok or the docs?",
+        "What happened to Altavista",
+        "Unbundling the standard library"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Who you gonna believe: Grok or the docs?",
+          "link": "https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "What happened to Altavista",
@@ -49,27 +56,22 @@
           "feed_title": "nesbitt.io",
           "title": "Unbundling the standard library",
           "link": "https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "There's a plague of Googlebot impersonation going on (in June 2026)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague"
         }
       ],
-      "summary_zh": "2026-06-29 技术日报：What happened to Altavista；Unbundling the standard library；There's a plague of Googlebot impersonation going on (in June 2026)。",
-      "summary_en": "Daily brief (2026-06-29): What happened to Altavista; Unbundling the standard library; There's a plague of Googlebot impersonation going on (in June 2026).",
+      "summary_zh": "2026-06-29 技术日报：Who you gonna believe: Grok or the docs?；What happened to Altavista；Unbundling the standard library。",
+      "summary_en": "Daily brief (2026-06-29): Who you gonna believe: Grok or the docs?; What happened to Altavista; Unbundling the standard library.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-29 日报】What happened to Altavista；Unbundling the standard library；There's a plague of Googlebot impersonation going on (in June 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-29): What happened to Altavista; Unbundling the standard library; There's a plague of Googlebot impersonation going on (in June 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-29 日报】Who you gonna believe: Grok or the docs?；What happened to Altavista；Unbundling the standard library。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-29): Who you gonna believe: Grok or the docs?; What happened to Altavista; Unbundling the standard library. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-29）\n- What happened to Altavista\n- Unbundling the standard library\n- There's a plague of Googlebot impersonation going on (in June 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/what-happened-to-altavista/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-altavista\n- https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-29)\n- What happened to Altavista\n- Unbundling the standard library\n- There's a plague of Googlebot impersonation going on (in June 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/what-happened-to-altavista/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-altavista\n- https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-29）\n- Who you gonna believe: Grok or the docs?\n- What happened to Altavista\n- Unbundling the standard library\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/\n- https://dfarq.homeip.net/what-happened-to-altavista/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-altavista\n- https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-29)\n- Who you gonna believe: Grok or the docs?\n- What happened to Altavista\n- Unbundling the standard library\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/\n- https://dfarq.homeip.net/what-happened-to-altavista/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-altavista\n- https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What happened to Altavista；Unbundling the standard library；There's a plague of Googlebot impersonation going on (in June 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What happened to Altavista; Unbundling the standard library; There's a plague of Googlebot impersonation going on (in June 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Who you gonna believe: Grok or the docs?；What happened to Altavista；Unbundling the standard library。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Who you gonna believe: Grok or the docs?; What happened to Altavista; Unbundling the standard library.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -621,8 +623,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1305,8 +1307,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
