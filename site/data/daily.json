@@ -1,59 +1,75 @@
 {
-  "generated_at": "2026-06-29T09:10:54Z",
+  "generated_at": "2026-06-29T11:12:42Z",
   "days": [
     {
       "date": "2026-06-29",
-      "total": 2,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "idiallo.com (1)",
+        "nesbitt.io (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · What happened to Altavista",
+        "nesbitt.io · Unbundling the standard library",
         "utcc.utoronto.ca/~cks · There's a plague of Googlebot impersonation going on (in June 2026)",
         "idiallo.com · I turned my prologue into a short video"
       ],
       "key_points": [
+        "What happened to Altavista",
+        "Unbundling the standard library",
         "There's a plague of Googlebot impersonation going on (in June 2026)",
         "I turned my prologue into a short video"
       ],
       "key_points_zh": [
+        "What happened to Altavista",
+        "Unbundling the standard library",
         "There's a plague of Googlebot impersonation going on (in June 2026)",
         "I turned my prologue into a short video"
       ],
       "key_points_en": [
+        "What happened to Altavista",
+        "Unbundling the standard library",
         "There's a plague of Googlebot impersonation going on (in June 2026)",
         "I turned my prologue into a short video"
       ],
       "tweet_drafts": [
-        "There's a plague of Googlebot impersonation going on (in June 2026)",
-        "I turned my prologue into a short video"
+        "What happened to Altavista",
+        "Unbundling the standard library",
+        "There's a plague of Googlebot impersonation going on (in June 2026)"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "What happened to Altavista",
+          "link": "https://dfarq.homeip.net/what-happened-to-altavista/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-altavista"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Unbundling the standard library",
+          "link": "https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html"
+        },
         {
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "There's a plague of Googlebot impersonation going on (in June 2026)",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "I turned my prologue into a short video",
-          "link": "https://idiallo.com/byte-size/my-prologue-to-short-video"
         }
       ],
-      "summary_zh": "2026-06-29 技术日报：There's a plague of Googlebot impersonation going on (in June 2026)；I turned my prologue into a short video。",
-      "summary_en": "Daily brief (2026-06-29): There's a plague of Googlebot impersonation going on (in June 2026); I turned my prologue into a short video.",
+      "summary_zh": "2026-06-29 技术日报：What happened to Altavista；Unbundling the standard library；There's a plague of Googlebot impersonation going on (in June 2026)。",
+      "summary_en": "Daily brief (2026-06-29): What happened to Altavista; Unbundling the standard library; There's a plague of Googlebot impersonation going on (in June 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-29 日报】There's a plague of Googlebot impersonation going on (in June 2026)；I turned my prologue into a short video。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-29): There's a plague of Googlebot impersonation going on (in June 2026); I turned my prologue into a short video. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-06-29 日报】What happened to Altavista；Unbundling the standard library；There's a plague of Googlebot impersonation going on (in June 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-29): What happened to Altavista; Unbundling the standard library; There's a plague of Googlebot impersonation going on (in June 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-29）\n- There's a plague of Googlebot impersonation going on (in June 2026)\n- I turned my prologue into a short video\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague\n- https://idiallo.com/byte-size/my-prologue-to-short-video\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-29)\n- There's a plague of Googlebot impersonation going on (in June 2026)\n- I turned my prologue into a short video\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague\n- https://idiallo.com/byte-size/my-prologue-to-short-video\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-29）\n- What happened to Altavista\n- Unbundling the standard library\n- There's a plague of Googlebot impersonation going on (in June 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/what-happened-to-altavista/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-altavista\n- https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-29)\n- What happened to Altavista\n- Unbundling the standard library\n- There's a plague of Googlebot impersonation going on (in June 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/what-happened-to-altavista/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-altavista\n- https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html\n- https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：There's a plague of Googlebot impersonation going on (in June 2026)；I turned my prologue into a short video。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: There's a plague of Googlebot impersonation going on (in June 2026); I turned my prologue into a short video.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What happened to Altavista；Unbundling the standard library；There's a plague of Googlebot impersonation going on (in June 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What happened to Altavista; Unbundling the standard library; There's a plague of Googlebot impersonation going on (in June 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
