@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-29 20:33:06 UTC
+Generated at: 2026-06-29 21:28:23 UTC
 
-- [Precise, consistent, reliable code coverage](https://jyn.dev/talks/coverage/) (`jyn.dev`)
