@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-29 19:31:13 UTC
+Generated at: 2026-06-29 20:33:06 UTC
 
-- [Count the number of Safari tabs](https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything) (`simonwillison.net`)
+- [Precise, consistent, reliable code coverage](https://jyn.dev/talks/coverage/) (`jyn.dev`)
