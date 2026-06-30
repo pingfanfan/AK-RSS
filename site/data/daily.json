@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T07:09:31Z",
+  "generated_at": "2026-06-30T08:37:20Z",
   "days": [
     {
       "date": "2026-06-30",
@@ -77,47 +77,52 @@
     },
     {
       "date": "2026-06-29",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
+        "entropicthoughts.com (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Data-directed programming in Haskell (SICP 2.4.3)",
         "simonwillison.net · Count the number of Safari tabs",
         "pluralistic.net · Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
         "simonwillison.net · Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
         "devblogs.microsoft.com/oldnewthing · The evolution of window and class extra bytes in Windows",
-        "johndcook.com · Who you gonna believe: Grok or the docs?",
-        "dfarq.homeip.net · What happened to Altavista"
+        "johndcook.com · Who you gonna believe: Grok or the docs?"
       ],
       "key_points": [
-        "Count the number of Safari tabs",
-        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "The evolution of window and class extra bytes in Windows"
-      ],
-      "key_points_zh": [
-        "Count the number of Safari tabs",
-        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "The evolution of window and class extra bytes in Windows"
-      ],
-      "key_points_en": [
-        "Count the number of Safari tabs",
-        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "The evolution of window and class extra bytes in Windows"
-      ],
-      "tweet_drafts": [
+        "Data-directed programming in Haskell (SICP 2.4.3)",
         "Count the number of Safari tabs",
         "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
         "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
       ],
+      "key_points_zh": [
+        "Data-directed programming in Haskell (SICP 2.4.3)",
+        "Count the number of Safari tabs",
+        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
+        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
+      ],
+      "key_points_en": [
+        "Data-directed programming in Haskell (SICP 2.4.3)",
+        "Count the number of Safari tabs",
+        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
+        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
+      ],
+      "tweet_drafts": [
+        "Data-directed programming in Haskell (SICP 2.4.3)",
+        "Count the number of Safari tabs",
+        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Data-directed programming in Haskell (SICP 2.4.3)",
+          "link": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Count the number of Safari tabs",
@@ -127,27 +132,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
           "link": "https://pluralistic.net/2026/06/29/arsonist-firefighters/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-          "link": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything"
         }
       ],
-      "summary_zh": "2026-06-29 技术日报：Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)；Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding。",
-      "summary_en": "Daily brief (2026-06-29): Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026); Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding.",
+      "summary_zh": "2026-06-29 技术日报：Data-directed programming in Haskell (SICP 2.4.3)；Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)。",
+      "summary_en": "Daily brief (2026-06-29): Data-directed programming in Haskell (SICP 2.4.3); Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-29 日报】Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)；Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-29): Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026); Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding. Actionable takeaways included. What would you ship nex"
+          "zh": "【2026-06-29 日报】Data-directed programming in Haskell (SICP 2.4.3)；Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-29): Data-directed programming in Haskell (SICP 2.4.3); Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026). Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-29）\n- Count the number of Safari tabs\n- Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)\n- Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything\n- https://pluralistic.net/2026/06/29/arsonist-firefighters/\n- https://simonwillison.net/2026/Jun/29/ornith/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-29)\n- Count the number of Safari tabs\n- Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)\n- Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything\n- https://pluralistic.net/2026/06/29/arsonist-firefighters/\n- https://simonwillison.net/2026/Jun/29/ornith/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-29）\n- Data-directed programming in Haskell (SICP 2.4.3)\n- Count the number of Safari tabs\n- Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell\n- https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything\n- https://pluralistic.net/2026/06/29/arsonist-firefighters/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-29)\n- Data-directed programming in Haskell (SICP 2.4.3)\n- Count the number of Safari tabs\n- Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell\n- https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything\n- https://pluralistic.net/2026/06/29/arsonist-firefighters/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)；Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026); Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Data-directed programming in Haskell (SICP 2.4.3)；Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Data-directed programming in Haskell (SICP 2.4.3); Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -699,8 +699,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1231,8 +1231,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1383,8 +1383,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
