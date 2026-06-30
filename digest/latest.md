@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-30 19:05:44 UTC
+Generated at: 2026-06-30 20:11:10 UTC
 
-- [★ The Supreme Court Rules That Law Enforcement’s Use of ‘Geofence Warrant’ Was a ‘Search’ (But May Be Moot, Technically, Since 2024)](https://daringfireball.net/2026/06/scotus_geofence_warrant_search) (`daringfireball.net`)
-- [Distinguishing variables from parameters](https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/) (`johndcook.com`)
+- [Supreme Court Upholds Birthright Citizenship in 6-3 Decision](https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698) (`daringfireball.net`)
