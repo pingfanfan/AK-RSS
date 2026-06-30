@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-30T13:11:29Z",
+  "generated_at": "2026-06-30T14:15:49Z",
   "days": [
     {
       "date": "2026-06-30",
-      "total": 9,
+      "total": 11,
       "feeds": [
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
+        "evanhahn.com (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "devblogs.microsoft.com/oldnewthing · A compatibility note on the abuse of Windows window class extra bytes",
         "shkspr.mobi · Book Review: Fake Creativity by Blake Loch ★★★☆☆",
         "pluralistic.net · Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
         "dfarq.homeip.net · Apricot Computers: An underrated British brand",
         "nesbitt.io · Taking Roads and Bridges literally",
-        "idiallo.com · The Dating App Plot Device",
-        "utcc.utoronto.ca/~cks · As expected, using kexec to switch to a new Ubuntu kernel works"
+        "idiallo.com · The Dating App Plot Device"
       ],
       "key_points": [
-        "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
-        "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
-        "Apricot Computers: An underrated British brand",
-        "Taking Roads and Bridges literally"
-      ],
-      "key_points_zh": [
-        "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
-        "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
-        "Apricot Computers: An underrated British brand",
-        "Taking Roads and Bridges literally"
-      ],
-      "key_points_en": [
-        "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
-        "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
-        "Apricot Computers: An underrated British brand",
-        "Taking Roads and Bridges literally"
-      ],
-      "tweet_drafts": [
+        "A compatibility note on the abuse of Windows window class extra bytes",
         "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
         "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
         "Apricot Computers: An underrated British brand"
       ],
+      "key_points_zh": [
+        "A compatibility note on the abuse of Windows window class extra bytes",
+        "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
+        "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
+        "Apricot Computers: An underrated British brand"
+      ],
+      "key_points_en": [
+        "A compatibility note on the abuse of Windows window class extra bytes",
+        "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
+        "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
+        "Apricot Computers: An underrated British brand"
+      ],
+      "tweet_drafts": [
+        "A compatibility note on the abuse of Windows window class extra bytes",
+        "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
+        "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)"
+      ],
       "sources": [
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "A compatibility note on the abuse of Windows window class extra bytes",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Book Review: Fake Creativity by Blake Loch ★★★☆☆",
@@ -53,27 +58,22 @@
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
           "link": "https://pluralistic.net/2026/06/30/serenissima/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Apricot Computers: An underrated British brand",
-          "link": "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=apricot-computers-an-underrated-british-brand"
         }
       ],
-      "summary_zh": "2026-06-30 技术日报：Book Review: Fake Creativity by Blake Loch ★★★☆☆；Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)；Apricot Computers: An underrated British brand。",
-      "summary_en": "Daily brief (2026-06-30): Book Review: Fake Creativity by Blake Loch ★★★☆☆; Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026); Apricot Computers: An underrated British brand.",
+      "summary_zh": "2026-06-30 技术日报：A compatibility note on the abuse of Windows window class extra bytes；Book Review: Fake Creativity by Blake Loch ★★★☆☆；Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)。",
+      "summary_en": "Daily brief (2026-06-30): A compatibility note on the abuse of Windows window class extra bytes; Book Review: Fake Creativity by Blake Loch ★★★☆☆; Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-30 日报】Book Review: Fake Creativity by Blake Loch ★★★☆☆；Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)；Apricot Computers: An underrated British brand。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-30): Book Review: Fake Creativity by Blake Loch ★★★☆☆; Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026); Apricot Computers: An underrated British brand. Actionable takeaways included. What would you ship next? #AI #Engineering"
+          "zh": "【2026-06-30 日报】A compatibility note on the abuse of Windows window class extra bytes；Book Review: Fake Creativity by Blake Loch ★★★☆☆；Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-30): A compatibility note on the abuse of Windows window class extra bytes; Book Review: Fake Creativity by Blake Loch ★★★☆☆; Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026). Actionable takeaways included. What would you ship"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-30）\n- Book Review: Fake Creativity by Blake Loch ★★★☆☆\n- Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)\n- Apricot Computers: An underrated British brand\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/\n- https://pluralistic.net/2026/06/30/serenissima/\n- https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=apricot-computers-an-underrated-british-brand\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-30)\n- Book Review: Fake Creativity by Blake Loch ★★★☆☆\n- Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)\n- Apricot Computers: An underrated British brand\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/\n- https://pluralistic.net/2026/06/30/serenissima/\n- https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=apricot-computers-an-underrated-british-brand\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-30）\n- A compatibility note on the abuse of Windows window class extra bytes\n- Book Review: Fake Creativity by Blake Loch ★★★☆☆\n- Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488\n- https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/\n- https://pluralistic.net/2026/06/30/serenissima/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-30)\n- A compatibility note on the abuse of Windows window class extra bytes\n- Book Review: Fake Creativity by Blake Loch ★★★☆☆\n- Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488\n- https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/\n- https://pluralistic.net/2026/06/30/serenissima/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Book Review: Fake Creativity by Blake Loch ★★★☆☆；Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)；Apricot Computers: An underrated British brand。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Book Review: Fake Creativity by Blake Loch ★★★☆☆; Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026); Apricot Computers: An underrated British brand.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A compatibility note on the abuse of Windows window class extra bytes；Book Review: Fake Creativity by Blake Loch ★★★☆☆；Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A compatibility note on the abuse of Windows window class extra bytes; Book Review: Fake Creativity by Blake Loch ★★★☆☆; Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1233,8 +1233,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1385,8 +1385,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
