@@ -1,42 +1,116 @@
 {
-  "generated_at": "2026-06-29T22:47:41Z",
+  "generated_at": "2026-06-30T07:09:31Z",
   "days": [
     {
+      "date": "2026-06-30",
+      "total": 5,
+      "feeds": [
+        "daringfireball.net (1)",
+        "idiallo.com (1)",
+        "johndcook.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "idiallo.com · The Dating App Plot Device",
+        "utcc.utoronto.ca/~cks · As expected, using kexec to switch to a new Ubuntu kernel works",
+        "johndcook.com · Derivative equals inverse",
+        "daringfireball.net · Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos",
+        "simonwillison.net · HTML table extractor"
+      ],
+      "key_points": [
+        "The Dating App Plot Device",
+        "As expected, using kexec to switch to a new Ubuntu kernel works",
+        "Derivative equals inverse",
+        "Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos"
+      ],
+      "key_points_zh": [
+        "The Dating App Plot Device",
+        "As expected, using kexec to switch to a new Ubuntu kernel works",
+        "Derivative equals inverse",
+        "Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos"
+      ],
+      "key_points_en": [
+        "The Dating App Plot Device",
+        "As expected, using kexec to switch to a new Ubuntu kernel works",
+        "Derivative equals inverse",
+        "Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos"
+      ],
+      "tweet_drafts": [
+        "The Dating App Plot Device",
+        "As expected, using kexec to switch to a new Ubuntu kernel works",
+        "Derivative equals inverse"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "The Dating App Plot Device",
+          "link": "https://idiallo.com/blog/dating-plot-device"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "As expected, using kexec to switch to a new Ubuntu kernel works",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Derivative equals inverse",
+          "link": "https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/"
+        }
+      ],
+      "summary_zh": "2026-06-30 技术日报：The Dating App Plot Device；As expected, using kexec to switch to a new Ubuntu kernel works；Derivative equals inverse。",
+      "summary_en": "Daily brief (2026-06-30): The Dating App Plot Device; As expected, using kexec to switch to a new Ubuntu kernel works; Derivative equals inverse.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-06-30 日报】The Dating App Plot Device；As expected, using kexec to switch to a new Ubuntu kernel works；Derivative equals inverse。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-30): The Dating App Plot Device; As expected, using kexec to switch to a new Ubuntu kernel works; Derivative equals inverse. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-06-30）\n- The Dating App Plot Device\n- As expected, using kexec to switch to a new Ubuntu kernel works\n- Derivative equals inverse\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/dating-plot-device\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks\n- https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-30)\n- The Dating App Plot Device\n- As expected, using kexec to switch to a new Ubuntu kernel works\n- Derivative equals inverse\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/dating-plot-device\n- https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks\n- https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：The Dating App Plot Device；As expected, using kexec to switch to a new Ubuntu kernel works；Derivative equals inverse。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Dating App Plot Device; As expected, using kexec to switch to a new Ubuntu kernel works; Derivative equals inverse.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-06-29",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "simonwillison.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
         "simonwillison.net · Count the number of Safari tabs",
         "pluralistic.net · Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
         "simonwillison.net · Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+        "devblogs.microsoft.com/oldnewthing · The evolution of window and class extra bytes in Windows",
         "johndcook.com · Who you gonna believe: Grok or the docs?",
-        "dfarq.homeip.net · What happened to Altavista",
-        "nesbitt.io · Unbundling the standard library"
+        "dfarq.homeip.net · What happened to Altavista"
       ],
       "key_points": [
         "Count the number of Safari tabs",
         "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
         "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "Who you gonna believe: Grok or the docs?"
+        "The evolution of window and class extra bytes in Windows"
       ],
       "key_points_zh": [
         "Count the number of Safari tabs",
         "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
         "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "Who you gonna believe: Grok or the docs?"
+        "The evolution of window and class extra bytes in Windows"
       ],
       "key_points_en": [
         "Count the number of Safari tabs",
         "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
         "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "Who you gonna believe: Grok or the docs?"
+        "The evolution of window and class extra bytes in Windows"
       ],
       "tweet_drafts": [
         "Count the number of Safari tabs",
@@ -2202,82 +2276,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Is the Monaco Grand Prix decided at qualifying?；Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked；‘We Are Living in Pinocchio’s World’。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Is the Monaco Grand Prix decided at qualifying?; Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked; ‘We Are Living in Pinocchio’s World’.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "total": 10,
-      "feeds": [
-        "simonwillison.net (2)",
-        "computer.rip (1)",
-        "johndcook.com (1)",
-        "maurycyz.com (1)",
-        "oldvcr.blogspot.com (1)",
-        "seangoedecke.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · The solution might be cancelling my AI subscription",
-        "johndcook.com · Another Gaussian approximation",
-        "shkspr.mobi · Who are the actors in the UK's 2015 passport?",
-        "oldvcr.blogspot.com · Ahoy, DECmate II! the little PDP-8 that could",
-        "simonwillison.net · Quoting Karen Kwok for Reuters Breakingviews",
-        "tedium.co · One \u0026udm After Another"
-      ],
-      "key_points": [
-        "The solution might be cancelling my AI subscription",
-        "Another Gaussian approximation",
-        "Who are the actors in the UK's 2015 passport?",
-        "Ahoy, DECmate II! the little PDP-8 that could"
-      ],
-      "key_points_zh": [
-        "The solution might be cancelling my AI subscription",
-        "Another Gaussian approximation",
-        "Who are the actors in the UK's 2015 passport?",
-        "Ahoy, DECmate II! the little PDP-8 that could"
-      ],
-      "key_points_en": [
-        "The solution might be cancelling my AI subscription",
-        "Another Gaussian approximation",
-        "Who are the actors in the UK's 2015 passport?",
-        "Ahoy, DECmate II! the little PDP-8 that could"
-      ],
-      "tweet_drafts": [
-        "The solution might be cancelling my AI subscription",
-        "Another Gaussian approximation",
-        "Who are the actors in the UK's 2015 passport?"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The solution might be cancelling my AI subscription",
-          "link": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Another Gaussian approximation",
-          "link": "https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Who are the actors in the UK's 2015 passport?",
-          "link": "https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/"
-        }
-      ],
-      "summary_zh": "2026-05-31 技术日报：The solution might be cancelling my AI subscription；Another Gaussian approximation；Who are the actors in the UK's 2015 passport?。",
-      "summary_en": "Daily brief (2026-05-31): The solution might be cancelling my AI subscription; Another Gaussian approximation; Who are the actors in the UK's 2015 passport?.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-05-31 日报】The solution might be cancelling my AI subscription；Another Gaussian approximation；Who are the actors in the UK's 2015 passport?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-05-31): The solution might be cancelling my AI subscription; Another Gaussian approximation; Who are the actors in the UK's 2015 passport?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-05-31）\n- The solution might be cancelling my AI subscription\n- Another Gaussian approximation\n- Who are the actors in the UK's 2015 passport?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything\n- https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/\n- https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-05-31)\n- The solution might be cancelling my AI subscription\n- Another Gaussian approximation\n- Who are the actors in the UK's 2015 passport?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything\n- https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/\n- https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：The solution might be cancelling my AI subscription；Another Gaussian approximation；Who are the actors in the UK's 2015 passport?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The solution might be cancelling my AI subscription; Another Gaussian approximation; Who are the actors in the UK's 2015 passport?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
