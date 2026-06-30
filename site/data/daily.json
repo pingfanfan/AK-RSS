@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-06-30T17:10:39Z",
+  "generated_at": "2026-06-30T18:08:52Z",
   "days": [
     {
       "date": "2026-06-30",
-      "total": 18,
+      "total": 19,
       "feeds": [
         "daringfireball.net (3)",
+        "simonwillison.net (3)",
         "johndcook.com (2)",
-        "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · The AI Compass",
         "simonwillison.net · Have your agent record video demos of its work with shot-scraper video",
         "daringfireball.net · CMA Consultation on Mobile App Steering and NFC Access",
         "dwarkesh.com · Grant Sanderson – AI and the future of math",
         "daringfireball.net · U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open",
-        "troyhunt.com · Weekly Update 510: Live From Mallorca with Scott Helme",
-        "wheresyoured.at · The AI Industry Is Losing"
+        "troyhunt.com · Weekly Update 510: Live From Mallorca with Scott Helme"
       ],
       "key_points": [
-        "Have your agent record video demos of its work with shot-scraper video",
-        "CMA Consultation on Mobile App Steering and NFC Access",
-        "Grant Sanderson – AI and the future of math",
-        "U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open"
-      ],
-      "key_points_zh": [
-        "Have your agent record video demos of its work with shot-scraper video",
-        "CMA Consultation on Mobile App Steering and NFC Access",
-        "Grant Sanderson – AI and the future of math",
-        "U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open"
-      ],
-      "key_points_en": [
-        "Have your agent record video demos of its work with shot-scraper video",
-        "CMA Consultation on Mobile App Steering and NFC Access",
-        "Grant Sanderson – AI and the future of math",
-        "U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open"
-      ],
-      "tweet_drafts": [
+        "The AI Compass",
         "Have your agent record video demos of its work with shot-scraper video",
         "CMA Consultation on Mobile App Steering and NFC Access",
         "Grant Sanderson – AI and the future of math"
       ],
+      "key_points_zh": [
+        "The AI Compass",
+        "Have your agent record video demos of its work with shot-scraper video",
+        "CMA Consultation on Mobile App Steering and NFC Access",
+        "Grant Sanderson – AI and the future of math"
+      ],
+      "key_points_en": [
+        "The AI Compass",
+        "Have your agent record video demos of its work with shot-scraper video",
+        "CMA Consultation on Mobile App Steering and NFC Access",
+        "Grant Sanderson – AI and the future of math"
+      ],
+      "tweet_drafts": [
+        "The AI Compass",
+        "Have your agent record video demos of its work with shot-scraper video",
+        "CMA Consultation on Mobile App Steering and NFC Access"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "The AI Compass",
+          "link": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Have your agent record video demos of its work with shot-scraper video",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "CMA Consultation on Mobile App Steering and NFC Access",
           "link": "https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "Grant Sanderson – AI and the future of math",
-          "link": "https://www.dwarkesh.com/p/grant-sanderson-2"
         }
       ],
-      "summary_zh": "2026-06-30 技术日报：Have your agent record video demos of its work with shot-scraper video；CMA Consultation on Mobile App Steering and NFC Access；Grant Sanderson – AI and the future of math。",
-      "summary_en": "Daily brief (2026-06-30): Have your agent record video demos of its work with shot-scraper video; CMA Consultation on Mobile App Steering and NFC Access; Grant Sanderson – AI and the future of math.",
+      "summary_zh": "2026-06-30 技术日报：The AI Compass；Have your agent record video demos of its work with shot-scraper video；CMA Consultation on Mobile App Steering and NFC Access。",
+      "summary_en": "Daily brief (2026-06-30): The AI Compass; Have your agent record video demos of its work with shot-scraper video; CMA Consultation on Mobile App Steering and NFC Access.",
       "social_posts": {
         "x": {
-          "zh": "【2026-06-30 日报】Have your agent record video demos of its work with shot-scraper video；CMA Consultation on Mobile App Steering and NFC Access；Grant Sanderson – AI and the future of math。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-30): Have your agent record video demos of its work with shot-scraper video; CMA Consultation on Mobile App Steering and NFC Access; Grant Sanderson – AI and the future of math. Actionable takeaways included. What would you ship next? #AI"
+          "zh": "【2026-06-30 日报】The AI Compass；Have your agent record video demos of its work with shot-scraper video；CMA Consultation on Mobile App Steering and NFC Access。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-06-30): The AI Compass; Have your agent record video demos of its work with shot-scraper video; CMA Consultation on Mobile App Steering and NFC Access. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-06-30）\n- Have your agent record video demos of its work with shot-scraper video\n- CMA Consultation on Mobile App Steering and NFC Access\n- Grant Sanderson – AI and the future of math\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything\n- https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms\n- https://www.dwarkesh.com/p/grant-sanderson-2\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-30)\n- Have your agent record video demos of its work with shot-scraper video\n- CMA Consultation on Mobile App Steering and NFC Access\n- Grant Sanderson – AI and the future of math\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything\n- https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms\n- https://www.dwarkesh.com/p/grant-sanderson-2\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-06-30）\n- The AI Compass\n- Have your agent record video demos of its work with shot-scraper video\n- CMA Consultation on Mobile App Steering and NFC Access\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything\n- https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything\n- https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-06-30)\n- The AI Compass\n- Have your agent record video demos of its work with shot-scraper video\n- CMA Consultation on Mobile App Steering and NFC Access\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything\n- https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything\n- https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Have your agent record video demos of its work with shot-scraper video；CMA Consultation on Mobile App Steering and NFC Access；Grant Sanderson – AI and the future of math。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Have your agent record video demos of its work with shot-scraper video; CMA Consultation on Mobile App Steering and NFC Access; Grant Sanderson – AI and the future of math.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The AI Compass；Have your agent record video demos of its work with shot-scraper video；CMA Consultation on Mobile App Steering and NFC Access。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The AI Compass; Have your agent record video demos of its work with shot-scraper video; CMA Consultation on Mobile App Steering and NFC Access.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-06-30 17:10:21 UTC
+Generated at: 2026-06-30 18:08:38 UTC
 
-- [Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything) (`simonwillison.net`)
-- [CMA Consultation on Mobile App Steering and NFC Access](https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms) (`daringfireball.net`)
+- [The AI Compass](https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything) (`simonwillison.net`)
+- [10Gb/s Ethernet: what I actually did to get it working in my home](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did) (`gilesthomas.com`)
