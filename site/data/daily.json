@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-01T13:44:27Z",
+  "generated_at": "2026-07-01T14:55:10Z",
   "days": [
     {
       "date": "2026-07-01",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "berthub.eu (1)",
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
         "johndcook.com (1)",
-        "jyn.dev (1)",
-        "matduggan.com (1)"
+        "jyn.dev (1)"
       ],
       "highlights": [
+        "daringfireball.net · 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses",
         "matduggan.com · Clickhouse is winning the Observability Wars",
         "dfarq.homeip.net · The earliest surviving Tom’s Hardware Guide article",
         "nesbitt.io · The CRA is not about open source",
         "berthub.eu · Bulkdatasets AIVD en MIVD: de schaduw geheime dienst",
-        "utcc.utoronto.ca/~cks · Our long path from IPMI remote installs to network installs",
-        "eli.thegreenplace.net · Summary of reading: April - June 2026"
+        "utcc.utoronto.ca/~cks · Our long path from IPMI remote installs to network installs"
       ],
       "key_points": [
-        "Clickhouse is winning the Observability Wars",
-        "The earliest surviving Tom’s Hardware Guide article",
-        "The CRA is not about open source",
-        "Bulkdatasets AIVD en MIVD: de schaduw geheime dienst"
-      ],
-      "key_points_zh": [
-        "Clickhouse is winning the Observability Wars",
-        "The earliest surviving Tom’s Hardware Guide article",
-        "The CRA is not about open source",
-        "Bulkdatasets AIVD en MIVD: de schaduw geheime dienst"
-      ],
-      "key_points_en": [
-        "Clickhouse is winning the Observability Wars",
-        "The earliest surviving Tom’s Hardware Guide article",
-        "The CRA is not about open source",
-        "Bulkdatasets AIVD en MIVD: de schaduw geheime dienst"
-      ],
-      "tweet_drafts": [
+        "404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses",
         "Clickhouse is winning the Observability Wars",
         "The earliest surviving Tom’s Hardware Guide article",
         "The CRA is not about open source"
       ],
+      "key_points_zh": [
+        "404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses",
+        "Clickhouse is winning the Observability Wars",
+        "The earliest surviving Tom’s Hardware Guide article",
+        "The CRA is not about open source"
+      ],
+      "key_points_en": [
+        "404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses",
+        "Clickhouse is winning the Observability Wars",
+        "The earliest surviving Tom’s Hardware Guide article",
+        "The CRA is not about open source"
+      ],
+      "tweet_drafts": [
+        "404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses",
+        "Clickhouse is winning the Observability Wars",
+        "The earliest surviving Tom’s Hardware Guide article"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses",
+          "link": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/"
+        },
         {
           "feed_title": "matduggan.com",
           "title": "Clickhouse is winning the Observability Wars",
@@ -53,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "The earliest surviving Tom’s Hardware Guide article",
           "link": "https://dfarq.homeip.net/the-earliest-surviving-toms-hardware-guide-article/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-earliest-surviving-toms-hardware-guide-article"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "The CRA is not about open source",
-          "link": "https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html"
         }
       ],
-      "summary_zh": "2026-07-01 技术日报：Clickhouse is winning the Observability Wars；The earliest surviving Tom’s Hardware Guide article；The CRA is not about open source。",
-      "summary_en": "Daily brief (2026-07-01): Clickhouse is winning the Observability Wars; The earliest surviving Tom’s Hardware Guide article; The CRA is not about open source.",
+      "summary_zh": "2026-07-01 技术日报：404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses；Clickhouse is winning the Observability Wars；The earliest surviving Tom’s Hardware Guide article。",
+      "summary_en": "Daily brief (2026-07-01): 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses; Clickhouse is winning the Observability Wars; The earliest surviving Tom’s Hardware Guide article.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-01 日报】Clickhouse is winning the Observability Wars；The earliest surviving Tom’s Hardware Guide article；The CRA is not about open source。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-01): Clickhouse is winning the Observability Wars; The earliest surviving Tom’s Hardware Guide article; The CRA is not about open source. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-01 日报】404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses；Clickhouse is winning the Observability Wars；The earliest surviving Tom’s Hardware Guide article。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-01): 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses; Clickhouse is winning the Observability Wars; The earliest surviving Tom’s Hardware Guide article. Actionable takeaways included. What would"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-01）\n- Clickhouse is winning the Observability Wars\n- The earliest surviving Tom’s Hardware Guide article\n- The CRA is not about open source\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matduggan.com/clickhouse-is-winning-the-observability-wars/\n- https://dfarq.homeip.net/the-earliest-surviving-toms-hardware-guide-article/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-earliest-surviving-toms-hardware-guide-article\n- https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-01)\n- Clickhouse is winning the Observability Wars\n- The earliest surviving Tom’s Hardware Guide article\n- The CRA is not about open source\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matduggan.com/clickhouse-is-winning-the-observability-wars/\n- https://dfarq.homeip.net/the-earliest-surviving-toms-hardware-guide-article/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-earliest-surviving-toms-hardware-guide-article\n- https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-01）\n- 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses\n- Clickhouse is winning the Observability Wars\n- The earliest surviving Tom’s Hardware Guide article\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/\n- https://matduggan.com/clickhouse-is-winning-the-observability-wars/\n- https://dfarq.homeip.net/the-earliest-surviving-toms-hardware-guide-article/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-earliest-surviving-toms-hardware-guide-article\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-01)\n- 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses\n- Clickhouse is winning the Observability Wars\n- The earliest surviving Tom’s Hardware Guide article\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/\n- https://matduggan.com/clickhouse-is-winning-the-observability-wars/\n- https://dfarq.homeip.net/the-earliest-surviving-toms-hardware-guide-article/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-earliest-surviving-toms-hardware-guide-article\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Clickhouse is winning the Observability Wars；The earliest surviving Tom’s Hardware Guide article；The CRA is not about open source。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Clickhouse is winning the Observability Wars; The earliest surviving Tom’s Hardware Guide article; The CRA is not about open source.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses；Clickhouse is winning the Observability Wars；The earliest surviving Tom’s Hardware Guide article。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses; Clickhouse is winning the Observability Wars; The earliest surviving Tom’s Hardware Guide article.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -777,8 +777,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",

@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-01 13:44:12 UTC
+Generated at: 2026-07-01 14:54:56 UTC
 
-- [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/) (`matduggan.com`)
+- [404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses](https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/) (`daringfireball.net`)
