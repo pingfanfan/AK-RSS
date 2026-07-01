@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-30T22:57:17Z",
+  "generated_at": "2026-07-01T07:21:19Z",
   "days": [
+    {
+      "date": "2026-07-01",
+      "total": 4,
+      "feeds": [
+        "eli.thegreenplace.net (1)",
+        "johndcook.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Our long path from IPMI remote installs to network installs",
+        "eli.thegreenplace.net · Summary of reading: April - June 2026",
+        "johndcook.com · DNA Sequence Alignment and Kings",
+        "simonwillison.net · Quoting Anthropic"
+      ],
+      "key_points": [
+        "Our long path from IPMI remote installs to network installs",
+        "Summary of reading: April - June 2026",
+        "DNA Sequence Alignment and Kings",
+        "Quoting Anthropic"
+      ],
+      "key_points_zh": [
+        "Our long path from IPMI remote installs to network installs",
+        "Summary of reading: April - June 2026",
+        "DNA Sequence Alignment and Kings",
+        "Quoting Anthropic"
+      ],
+      "key_points_en": [
+        "Our long path from IPMI remote installs to network installs",
+        "Summary of reading: April - June 2026",
+        "DNA Sequence Alignment and Kings",
+        "Quoting Anthropic"
+      ],
+      "tweet_drafts": [
+        "Our long path from IPMI remote installs to network installs",
+        "Summary of reading: April - June 2026",
+        "DNA Sequence Alignment and Kings"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Our long path from IPMI remote installs to network installs",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls"
+        },
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Summary of reading: April - June 2026",
+          "link": "https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "DNA Sequence Alignment and Kings",
+          "link": "https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/"
+        }
+      ],
+      "summary_zh": "2026-07-01 技术日报：Our long path from IPMI remote installs to network installs；Summary of reading: April - June 2026；DNA Sequence Alignment and Kings。",
+      "summary_en": "Daily brief (2026-07-01): Our long path from IPMI remote installs to network installs; Summary of reading: April - June 2026; DNA Sequence Alignment and Kings.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-01 日报】Our long path from IPMI remote installs to network installs；Summary of reading: April - June 2026；DNA Sequence Alignment and Kings。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-01): Our long path from IPMI remote installs to network installs; Summary of reading: April - June 2026; DNA Sequence Alignment and Kings. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-01）\n- Our long path from IPMI remote installs to network installs\n- Summary of reading: April - June 2026\n- DNA Sequence Alignment and Kings\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls\n- https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/\n- https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-01)\n- Our long path from IPMI remote installs to network installs\n- Summary of reading: April - June 2026\n- DNA Sequence Alignment and Kings\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls\n- https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/\n- https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Our long path from IPMI remote installs to network installs；Summary of reading: April - June 2026；DNA Sequence Alignment and Kings。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Our long path from IPMI remote installs to network installs; Summary of reading: April - June 2026; DNA Sequence Alignment and Kings.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-06-30",
       "total": 25,
@@ -701,8 +773,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1233,8 +1305,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1385,8 +1457,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Microsoft's new MAI models；Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year；Apple, the Anti-‘Metaverse’ VR Company。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Microsoft's new MAI models; Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year; Apple, the Anti-‘Metaverse’ VR Company.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "total": 23,
-      "feeds": [
-        "daringfireball.net (3)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "troyhunt.com (2)",
-        "abortretry.fail (1)",
-        "brutecat.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Is the Monaco Grand Prix decided at qualifying?",
-        "simonwillison.net · Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-        "daringfireball.net · ‘We Are Living in Pinocchio’s World’",
-        "idiallo.com · The web is changing, and we are not going back",
-        "krebsonsecurity.com · Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-        "daringfireball.net · Amazon Made AI Podcasts for Products"
-      ],
-      "key_points": [
-        "Is the Monaco Grand Prix decided at qualifying?",
-        "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-        "‘We Are Living in Pinocchio’s World’",
-        "The web is changing, and we are not going back"
-      ],
-      "key_points_zh": [
-        "Is the Monaco Grand Prix decided at qualifying?",
-        "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-        "‘We Are Living in Pinocchio’s World’",
-        "The web is changing, and we are not going back"
-      ],
-      "key_points_en": [
-        "Is the Monaco Grand Prix decided at qualifying?",
-        "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-        "‘We Are Living in Pinocchio’s World’",
-        "The web is changing, and we are not going back"
-      ],
-      "tweet_drafts": [
-        "Is the Monaco Grand Prix decided at qualifying?",
-        "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-        "‘We Are Living in Pinocchio’s World’"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Is the Monaco Grand Prix decided at qualifying?",
-          "link": "https://entropicthoughts.com/is-monaco-decided-at-qualifying"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
-          "link": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘We Are Living in Pinocchio’s World’",
-          "link": "https://om.co/2026/05/25/we-are-living-in-pinocchios-world/"
-        }
-      ],
-      "summary_zh": "2026-06-01 技术日报：Is the Monaco Grand Prix decided at qualifying?；Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked；‘We Are Living in Pinocchio’s World’。",
-      "summary_en": "Daily brief (2026-06-01): Is the Monaco Grand Prix decided at qualifying?; Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked; ‘We Are Living in Pinocchio’s World’.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-01 日报】Is the Monaco Grand Prix decided at qualifying?；Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked；‘We Are Living in Pinocchio’s World’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-01): Is the Monaco Grand Prix decided at qualifying?; Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked; ‘We Are Living in Pinocchio’s World’. Actionable takeaways included. What would you ship"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-01）\n- Is the Monaco Grand Prix decided at qualifying?\n- Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked\n- ‘We Are Living in Pinocchio’s World’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/is-monaco-decided-at-qualifying\n- https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything\n- https://om.co/2026/05/25/we-are-living-in-pinocchios-world/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-01)\n- Is the Monaco Grand Prix decided at qualifying?\n- Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked\n- ‘We Are Living in Pinocchio’s World’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/is-monaco-decided-at-qualifying\n- https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything\n- https://om.co/2026/05/25/we-are-living-in-pinocchios-world/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Is the Monaco Grand Prix decided at qualifying?；Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked；‘We Are Living in Pinocchio’s World’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Is the Monaco Grand Prix decided at qualifying?; Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked; ‘We Are Living in Pinocchio’s World’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
