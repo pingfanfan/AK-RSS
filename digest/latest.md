@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-01 14:54:56 UTC
+Generated at: 2026-07-01 15:50:34 UTC
 
-- [404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses](https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/) (`daringfireball.net`)
+- [The Talk Show: ‘Taking Drugs to Get Fat’](https://daringfireball.net/thetalkshow/2026/06/30/ep-451) (`daringfireball.net`)
+- [Pluralistic: Technocarcinization (01 Jul 2026)](https://pluralistic.net/2026/07/01/ontogeny/) (`pluralistic.net`)
