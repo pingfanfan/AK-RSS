@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-02 18:21:14 UTC
+Generated at: 2026-07-02 19:57:48 UTC
 
-- [Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) (`simonwillison.net`)
-- [‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) (`daringfireball.net`)
-- [This Page Left Intentionally Blank](https://blog.jim-nielsen.com/2026/intentionally-blank/) (`blog.jim-nielsen.com`)
+- [Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) (`simonwillison.net`)
+- [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) (`krebsonsecurity.com`)
+- [Truth Social Is Still Just Trump’s Blog](https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog) (`daringfireball.net`)
+- [Understanding is the new bottleneck](https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html) (`geoffreylitt.com`)

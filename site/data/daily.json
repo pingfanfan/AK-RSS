@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-07-02T18:21:29Z",
+  "generated_at": "2026-07-02T19:58:02Z",
   "days": [
     {
       "date": "2026-07-02",
-      "total": 12,
+      "total": 16,
       "feeds": [
-        "daringfireball.net (3)",
+        "daringfireball.net (4)",
+        "simonwillison.net (2)",
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "pluralistic.net (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Truth Social Is Still Just Trump’s Blog",
+        "krebsonsecurity.com · FBI Seizes NetNut Proxy Platform, Popa Botnet",
         "blog.jim-nielsen.com · This Page Left Intentionally Blank",
+        "simonwillison.net · Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
         "daringfireball.net · ‘Why Is Meta Destroying Its Engineering Organization?’",
-        "simonwillison.net · Understand to participate",
-        "daringfireball.net · MG Siegler Got Banned From WhatsApp for No Reason",
-        "devblogs.microsoft.com/oldnewthing · The case of the thread executing from an unloaded third-party DLL",
-        "berthub.eu · Digitale Autonomie 2.0: en nu echt"
+        "simonwillison.net · Understand to participate"
       ],
       "key_points": [
+        "Truth Social Is Still Just Trump’s Blog",
+        "FBI Seizes NetNut Proxy Platform, Popa Botnet",
         "This Page Left Intentionally Blank",
-        "‘Why Is Meta Destroying Its Engineering Organization?’",
-        "Understand to participate",
-        "MG Siegler Got Banned From WhatsApp for No Reason"
+        "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts"
       ],
       "key_points_zh": [
+        "Truth Social Is Still Just Trump’s Blog",
+        "FBI Seizes NetNut Proxy Platform, Popa Botnet",
         "This Page Left Intentionally Blank",
-        "‘Why Is Meta Destroying Its Engineering Organization?’",
-        "Understand to participate",
-        "MG Siegler Got Banned From WhatsApp for No Reason"
+        "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts"
       ],
       "key_points_en": [
+        "Truth Social Is Still Just Trump’s Blog",
+        "FBI Seizes NetNut Proxy Platform, Popa Botnet",
         "This Page Left Intentionally Blank",
-        "‘Why Is Meta Destroying Its Engineering Organization?’",
-        "Understand to participate",
-        "MG Siegler Got Banned From WhatsApp for No Reason"
+        "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts"
       ],
       "tweet_drafts": [
-        "This Page Left Intentionally Blank",
-        "‘Why Is Meta Destroying Its Engineering Organization?’",
-        "Understand to participate"
+        "Truth Social Is Still Just Trump’s Blog",
+        "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+        "This Page Left Intentionally Blank"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Truth Social Is Still Just Trump’s Blog",
+          "link": "https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog"
+        },
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+          "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
+        },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "This Page Left Intentionally Blank",
           "link": "https://blog.jim-nielsen.com/2026/intentionally-blank/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘Why Is Meta Destroying Its Engineering Organization?’",
-          "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Understand to participate",
-          "link": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-02 技术日报：This Page Left Intentionally Blank；‘Why Is Meta Destroying Its Engineering Organization?’；Understand to participate。",
-      "summary_en": "Daily brief (2026-07-02): This Page Left Intentionally Blank; ‘Why Is Meta Destroying Its Engineering Organization?’; Understand to participate.",
+      "summary_zh": "2026-07-02 技术日报：Truth Social Is Still Just Trump’s Blog；FBI Seizes NetNut Proxy Platform, Popa Botnet；This Page Left Intentionally Blank。",
+      "summary_en": "Daily brief (2026-07-02): Truth Social Is Still Just Trump’s Blog; FBI Seizes NetNut Proxy Platform, Popa Botnet; This Page Left Intentionally Blank.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-02 日报】This Page Left Intentionally Blank；‘Why Is Meta Destroying Its Engineering Organization?’；Understand to participate。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-02): This Page Left Intentionally Blank; ‘Why Is Meta Destroying Its Engineering Organization?’; Understand to participate. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-02 日报】Truth Social Is Still Just Trump’s Blog；FBI Seizes NetNut Proxy Platform, Popa Botnet；This Page Left Intentionally Blank。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-02): Truth Social Is Still Just Trump’s Blog; FBI Seizes NetNut Proxy Platform, Popa Botnet; This Page Left Intentionally Blank. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-02）\n- This Page Left Intentionally Blank\n- ‘Why Is Meta Destroying Its Engineering Organization?’\n- Understand to participate\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/intentionally-blank/\n- https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering\n- https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-02)\n- This Page Left Intentionally Blank\n- ‘Why Is Meta Destroying Its Engineering Organization?’\n- Understand to participate\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/intentionally-blank/\n- https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering\n- https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-02）\n- Truth Social Is Still Just Trump’s Blog\n- FBI Seizes NetNut Proxy Platform, Popa Botnet\n- This Page Left Intentionally Blank\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog\n- https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n- https://blog.jim-nielsen.com/2026/intentionally-blank/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-02)\n- Truth Social Is Still Just Trump’s Blog\n- FBI Seizes NetNut Proxy Platform, Popa Botnet\n- This Page Left Intentionally Blank\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog\n- https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n- https://blog.jim-nielsen.com/2026/intentionally-blank/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：This Page Left Intentionally Blank；‘Why Is Meta Destroying Its Engineering Organization?’；Understand to participate。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: This Page Left Intentionally Blank; ‘Why Is Meta Destroying Its Engineering Organization?’; Understand to participate.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Truth Social Is Still Just Trump’s Blog；FBI Seizes NetNut Proxy Platform, Popa Botnet；This Page Left Intentionally Blank。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Truth Social Is Still Just Trump’s Blog; FBI Seizes NetNut Proxy Platform, Popa Botnet; This Page Left Intentionally Blank.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1385,8 +1385,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
