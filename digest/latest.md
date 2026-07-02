@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-02 20:57:51 UTC
+Generated at: 2026-07-02 22:01:56 UTC
 
-- [I Repeat Myself (5G vs. LTE Edition)](https://daringfireball.net/linked/2022/03/23/5g-battery-life) (`daringfireball.net`)
+- [Introducing the Safari MCP Server for Web Developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) (`daringfireball.net`)
