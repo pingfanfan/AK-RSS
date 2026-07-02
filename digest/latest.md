@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-02 12:24:16 UTC
+Generated at: 2026-07-02 14:33:19 UTC
 
-- [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/) (`shkspr.mobi`)
-- [Jack Tramiel and Atari](https://dfarq.homeip.net/jack-tramiel-and-atari/?utm_source=rss&utm_medium=rss&utm_campaign=jack-tramiel-and-atari) (`dfarq.homeip.net`)
+- [Digitale Autonomie 2.0: en nu echt](https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/) (`berthub.eu`)
