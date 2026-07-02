@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-02 16:30:50 UTC
+Generated at: 2026-07-02 18:21:14 UTC
 
-- [MG Siegler Got Banned From WhatsApp for No Reason](https://spyglass.org/whatsapp-ban/) (`daringfireball.net`)
-- [The case of the thread executing from an unloaded third-party DLL](https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500) (`devblogs.microsoft.com/oldnewthing`)
+- [Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) (`simonwillison.net`)
+- [‘Why Is Meta Destroying Its Engineering Organization?’](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) (`daringfireball.net`)
+- [This Page Left Intentionally Blank](https://blog.jim-nielsen.com/2026/intentionally-blank/) (`blog.jim-nielsen.com`)
