@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-02 10:16:44 UTC
+Generated at: 2026-07-02 12:24:16 UTC
 
-- [Pluralistic: The difference between "today's task" and "accretive work" (02 Jul 2026)](https://pluralistic.net/2026/07/02/canonization/) (`pluralistic.net`)
+- [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/) (`shkspr.mobi`)
+- [Jack Tramiel and Atari](https://dfarq.homeip.net/jack-tramiel-and-atari/?utm_source=rss&utm_medium=rss&utm_campaign=jack-tramiel-and-atari) (`dfarq.homeip.net`)
