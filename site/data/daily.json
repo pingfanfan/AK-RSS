@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T21:36:33Z",
+  "generated_at": "2026-07-03T22:51:01Z",
   "days": [
     {
       "date": "2026-07-03",
-      "total": 12,
+      "total": 13,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "filfre.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Open Source AI Gap Map",
         "simonwillison.net · Quoting Josh W. Comeau",
         "daringfireball.net · ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
         "simonwillison.net · Fable's judgement",
         "filfre.net · The Life and Times of Maxis, Part 1: SimEverything",
-        "simonwillison.net · June 2026 newsletter",
-        "devblogs.microsoft.com/oldnewthing · How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?"
+        "simonwillison.net · June 2026 newsletter"
       ],
       "key_points": [
-        "Quoting Josh W. Comeau",
-        "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-        "Fable's judgement",
-        "The Life and Times of Maxis, Part 1: SimEverything"
-      ],
-      "key_points_zh": [
-        "Quoting Josh W. Comeau",
-        "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-        "Fable's judgement",
-        "The Life and Times of Maxis, Part 1: SimEverything"
-      ],
-      "key_points_en": [
-        "Quoting Josh W. Comeau",
-        "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-        "Fable's judgement",
-        "The Life and Times of Maxis, Part 1: SimEverything"
-      ],
-      "tweet_drafts": [
+        "Open Source AI Gap Map",
         "Quoting Josh W. Comeau",
         "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
         "Fable's judgement"
       ],
+      "key_points_zh": [
+        "Open Source AI Gap Map",
+        "Quoting Josh W. Comeau",
+        "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+        "Fable's judgement"
+      ],
+      "key_points_en": [
+        "Open Source AI Gap Map",
+        "Quoting Josh W. Comeau",
+        "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+        "Fable's judgement"
+      ],
+      "tweet_drafts": [
+        "Open Source AI Gap Map",
+        "Quoting Josh W. Comeau",
+        "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Open Source AI Gap Map",
+          "link": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Josh W. Comeau",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
           "link": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Fable's judgement",
-          "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-03 技术日报：Quoting Josh W. Comeau；★ Claude’s Criminally Bad Electron Mac App Is an Inside Job；Fable's judgement。",
-      "summary_en": "Daily brief (2026-07-03): Quoting Josh W. Comeau; ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job; Fable's judgement.",
+      "summary_zh": "2026-07-03 技术日报：Open Source AI Gap Map；Quoting Josh W. Comeau；★ Claude’s Criminally Bad Electron Mac App Is an Inside Job。",
+      "summary_en": "Daily brief (2026-07-03): Open Source AI Gap Map; Quoting Josh W. Comeau; ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-03 日报】Quoting Josh W. Comeau；★ Claude’s Criminally Bad Electron Mac App Is an Inside Job；Fable's judgement。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-03): Quoting Josh W. Comeau; ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job; Fable's judgement. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-03 日报】Open Source AI Gap Map；Quoting Josh W. Comeau；★ Claude’s Criminally Bad Electron Mac App Is an Inside Job。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-03): Open Source AI Gap Map; Quoting Josh W. Comeau; ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-03）\n- Quoting Josh W. Comeau\n- ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job\n- Fable's judgement\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything\n- https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job\n- https://simonwillison.net/2026/Jul/3/judgement/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-03)\n- Quoting Josh W. Comeau\n- ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job\n- Fable's judgement\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything\n- https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job\n- https://simonwillison.net/2026/Jul/3/judgement/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-03）\n- Open Source AI Gap Map\n- Quoting Josh W. Comeau\n- ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything\n- https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything\n- https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-03)\n- Open Source AI Gap Map\n- Quoting Josh W. Comeau\n- ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything\n- https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything\n- https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Josh W. Comeau；★ Claude’s Criminally Bad Electron Mac App Is an Inside Job；Fable's judgement。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Josh W. Comeau; ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job; Fable's judgement.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Open Source AI Gap Map；Quoting Josh W. Comeau；★ Claude’s Criminally Bad Electron Mac App Is an Inside Job。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Open Source AI Gap Map; Quoting Josh W. Comeau; ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
