@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-03 18:43:10 UTC
+Generated at: 2026-07-03 20:07:05 UTC
 
-- [How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?](https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504) (`devblogs.microsoft.com/oldnewthing`)
+- [Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) (`simonwillison.net`)
