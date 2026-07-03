@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-02 23:33:32 UTC
+Generated at: 2026-07-03 08:42:34 UTC
 
-- [llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything) (`simonwillison.net`)
-- [April Report From Ookla: ‘A Return to mmWave 5G’](https://www.ookla.com/articles/a-return-to-mmwave-5g) (`daringfireball.net`)
+- [Discovering rsync's -W option and our use for it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse) (`utcc.utoronto.ca/~cks`)
+- [Swimming Pools, Pee, and Trying to Delete Your Data From the Internet](https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/) (`troyhunt.com`)

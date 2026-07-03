@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-07-02T23:33:47Z",
+  "generated_at": "2026-07-03T08:42:47Z",
   "days": [
+    {
+      "date": "2026-07-03",
+      "total": 2,
+      "feeds": [
+        "troyhunt.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "troyhunt.com · Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+        "utcc.utoronto.ca/~cks · Discovering rsync's -W option and our use for it"
+      ],
+      "key_points": [
+        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+        "Discovering rsync's -W option and our use for it"
+      ],
+      "key_points_zh": [
+        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+        "Discovering rsync's -W option and our use for it"
+      ],
+      "key_points_en": [
+        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+        "Discovering rsync's -W option and our use for it"
+      ],
+      "tweet_drafts": [
+        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+        "Discovering rsync's -W option and our use for it"
+      ],
+      "sources": [
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
+          "link": "https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Discovering rsync's -W option and our use for it",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse"
+        }
+      ],
+      "summary_zh": "2026-07-03 技术日报：Swimming Pools, Pee, and Trying to Delete Your Data From the Internet；Discovering rsync's -W option and our use for it。",
+      "summary_en": "Daily brief (2026-07-03): Swimming Pools, Pee, and Trying to Delete Your Data From the Internet; Discovering rsync's -W option and our use for it.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-03 日报】Swimming Pools, Pee, and Trying to Delete Your Data From the Internet；Discovering rsync's -W option and our use for it。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-03): Swimming Pools, Pee, and Trying to Delete Your Data From the Internet; Discovering rsync's -W option and our use for it. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-03）\n- Swimming Pools, Pee, and Trying to Delete Your Data From the Internet\n- Discovering rsync's -W option and our use for it\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-03)\n- Swimming Pools, Pee, and Trying to Delete Your Data From the Internet\n- Discovering rsync's -W option and our use for it\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Swimming Pools, Pee, and Trying to Delete Your Data From the Internet；Discovering rsync's -W option and our use for it。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Swimming Pools, Pee, and Trying to Delete Your Data From the Internet; Discovering rsync's -W option and our use for it.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-07-02",
       "total": 20,
@@ -853,8 +909,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1385,8 +1441,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -2202,82 +2258,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：‘The Insider’；‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ‘The Insider’; ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "total": 14,
-      "feeds": [
-        "daringfireball.net (3)",
-        "utcc.utoronto.ca/~cks (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "evanhahn.com (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · The ‘60 Minutes’ Purge",
-        "idiallo.com · Now that your newsletter is AI-generated, I've Unsubscribed",
-        "utcc.utoronto.ca/~cks · My GNU Emacs completion setup (as of June 2026)",
-        "daringfireball.net · CBS News Fires Scott Pelley of ‘60 Minutes’",
-        "daringfireball.net · The Underworld Market to Remove the Recording Indicator Light on Meta Glasses",
-        "johndcook.com · Naively summing an alternating series"
-      ],
-      "key_points": [
-        "The ‘60 Minutes’ Purge",
-        "Now that your newsletter is AI-generated, I've Unsubscribed",
-        "My GNU Emacs completion setup (as of June 2026)",
-        "CBS News Fires Scott Pelley of ‘60 Minutes’"
-      ],
-      "key_points_zh": [
-        "The ‘60 Minutes’ Purge",
-        "Now that your newsletter is AI-generated, I've Unsubscribed",
-        "My GNU Emacs completion setup (as of June 2026)",
-        "CBS News Fires Scott Pelley of ‘60 Minutes’"
-      ],
-      "key_points_en": [
-        "The ‘60 Minutes’ Purge",
-        "Now that your newsletter is AI-generated, I've Unsubscribed",
-        "My GNU Emacs completion setup (as of June 2026)",
-        "CBS News Fires Scott Pelley of ‘60 Minutes’"
-      ],
-      "tweet_drafts": [
-        "The ‘60 Minutes’ Purge",
-        "Now that your newsletter is AI-generated, I've Unsubscribed",
-        "My GNU Emacs completion setup (as of June 2026)"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The ‘60 Minutes’ Purge",
-          "link": "https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Now that your newsletter is AI-generated, I've Unsubscribed",
-          "link": "https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "My GNU Emacs completion setup (as of June 2026)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06"
-        }
-      ],
-      "summary_zh": "2026-06-03 技术日报：The ‘60 Minutes’ Purge；Now that your newsletter is AI-generated, I've Unsubscribed；My GNU Emacs completion setup (as of June 2026)。",
-      "summary_en": "Daily brief (2026-06-03): The ‘60 Minutes’ Purge; Now that your newsletter is AI-generated, I've Unsubscribed; My GNU Emacs completion setup (as of June 2026).",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-03 日报】The ‘60 Minutes’ Purge；Now that your newsletter is AI-generated, I've Unsubscribed；My GNU Emacs completion setup (as of June 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-03): The ‘60 Minutes’ Purge; Now that your newsletter is AI-generated, I've Unsubscribed; My GNU Emacs completion setup (as of June 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-03）\n- The ‘60 Minutes’ Purge\n- Now that your newsletter is AI-generated, I've Unsubscribed\n- My GNU Emacs completion setup (as of June 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/\n- https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-03)\n- The ‘60 Minutes’ Purge\n- Now that your newsletter is AI-generated, I've Unsubscribed\n- My GNU Emacs completion setup (as of June 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/\n- https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed\n- https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：The ‘60 Minutes’ Purge；Now that your newsletter is AI-generated, I've Unsubscribed；My GNU Emacs completion setup (as of June 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The ‘60 Minutes’ Purge; Now that your newsletter is AI-generated, I've Unsubscribed; My GNU Emacs completion setup (as of June 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
