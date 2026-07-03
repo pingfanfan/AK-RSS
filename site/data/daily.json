@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-07-03T11:22:27Z",
+  "generated_at": "2026-07-03T13:17:29Z",
   "days": [
     {
       "date": "2026-07-03",
-      "total": 4,
+      "total": 6,
       "feeds": [
+        "construction-physics.com (1)",
         "dfarq.homeip.net (1)",
+        "matduggan.com (1)",
         "pluralistic.net (1)",
         "troyhunt.com (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "matduggan.com · Midnight Train to Stockholm",
+        "construction-physics.com · The Fall and Rise of Screwworm",
         "dfarq.homeip.net · Compute!’s Gazette magazine, 1983-1995",
         "pluralistic.net · Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
         "troyhunt.com · Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
         "utcc.utoronto.ca/~cks · Discovering rsync's -W option and our use for it"
       ],
       "key_points": [
+        "Midnight Train to Stockholm",
+        "The Fall and Rise of Screwworm",
         "Compute!’s Gazette magazine, 1983-1995",
-        "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
-        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
-        "Discovering rsync's -W option and our use for it"
+        "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)"
       ],
       "key_points_zh": [
+        "Midnight Train to Stockholm",
+        "The Fall and Rise of Screwworm",
         "Compute!’s Gazette magazine, 1983-1995",
-        "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
-        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
-        "Discovering rsync's -W option and our use for it"
+        "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)"
       ],
       "key_points_en": [
+        "Midnight Train to Stockholm",
+        "The Fall and Rise of Screwworm",
         "Compute!’s Gazette magazine, 1983-1995",
-        "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
-        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
-        "Discovering rsync's -W option and our use for it"
+        "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)"
       ],
       "tweet_drafts": [
-        "Compute!’s Gazette magazine, 1983-1995",
-        "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
-        "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet"
+        "Midnight Train to Stockholm",
+        "The Fall and Rise of Screwworm",
+        "Compute!’s Gazette magazine, 1983-1995"
       ],
       "sources": [
+        {
+          "feed_title": "matduggan.com",
+          "title": "Midnight Train to Stockholm",
+          "link": "https://matduggan.com/midnight-train-to-stockholm/"
+        },
+        {
+          "feed_title": "construction-physics.com",
+          "title": "The Fall and Rise of Screwworm",
+          "link": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Compute!’s Gazette magazine, 1983-1995",
           "link": "https://dfarq.homeip.net/computes-gazette-magazine-1983-1995/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=computes-gazette-magazine-1983-1995"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)",
-          "link": "https://pluralistic.net/2026/07/03/rod-logic/"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
-          "link": "https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/"
         }
       ],
-      "summary_zh": "2026-07-03 技术日报：Compute!’s Gazette magazine, 1983-1995；Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)；Swimming Pools, Pee, and Trying to Delete Your Data From the Internet。",
-      "summary_en": "Daily brief (2026-07-03): Compute!’s Gazette magazine, 1983-1995; Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026); Swimming Pools, Pee, and Trying to Delete Your Data From the Internet.",
+      "summary_zh": "2026-07-03 技术日报：Midnight Train to Stockholm；The Fall and Rise of Screwworm；Compute!’s Gazette magazine, 1983-1995。",
+      "summary_en": "Daily brief (2026-07-03): Midnight Train to Stockholm; The Fall and Rise of Screwworm; Compute!’s Gazette magazine, 1983-1995.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-03 日报】Compute!’s Gazette magazine, 1983-1995；Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)；Swimming Pools, Pee, and Trying to Delete Your Data From the Internet。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-03): Compute!’s Gazette magazine, 1983-1995; Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026); Swimming Pools, Pee, and Trying to Delete Your Data From the Internet. Actionable takeaways included. What would"
+          "zh": "【2026-07-03 日报】Midnight Train to Stockholm；The Fall and Rise of Screwworm；Compute!’s Gazette magazine, 1983-1995。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-03): Midnight Train to Stockholm; The Fall and Rise of Screwworm; Compute!’s Gazette magazine, 1983-1995. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-03）\n- Compute!’s Gazette magazine, 1983-1995\n- Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)\n- Swimming Pools, Pee, and Trying to Delete Your Data From the Internet\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/computes-gazette-magazine-1983-1995/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=computes-gazette-magazine-1983-1995\n- https://pluralistic.net/2026/07/03/rod-logic/\n- https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-03)\n- Compute!’s Gazette magazine, 1983-1995\n- Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)\n- Swimming Pools, Pee, and Trying to Delete Your Data From the Internet\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/computes-gazette-magazine-1983-1995/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=computes-gazette-magazine-1983-1995\n- https://pluralistic.net/2026/07/03/rod-logic/\n- https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-03）\n- Midnight Train to Stockholm\n- The Fall and Rise of Screwworm\n- Compute!’s Gazette magazine, 1983-1995\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matduggan.com/midnight-train-to-stockholm/\n- https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm\n- https://dfarq.homeip.net/computes-gazette-magazine-1983-1995/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=computes-gazette-magazine-1983-1995\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-03)\n- Midnight Train to Stockholm\n- The Fall and Rise of Screwworm\n- Compute!’s Gazette magazine, 1983-1995\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matduggan.com/midnight-train-to-stockholm/\n- https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm\n- https://dfarq.homeip.net/computes-gazette-magazine-1983-1995/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=computes-gazette-magazine-1983-1995\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Compute!’s Gazette magazine, 1983-1995；Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)；Swimming Pools, Pee, and Trying to Delete Your Data From the Internet。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Compute!’s Gazette magazine, 1983-1995; Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026); Swimming Pools, Pee, and Trying to Delete Your Data From the Internet.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Midnight Train to Stockholm；The Fall and Rise of Screwworm；Compute!’s Gazette magazine, 1983-1995。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Midnight Train to Stockholm; The Fall and Rise of Screwworm; Compute!’s Gazette magazine, 1983-1995.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -925,8 +929,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1457,8 +1461,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1609,8 +1613,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
