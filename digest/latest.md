@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-03 13:17:15 UTC
+Generated at: 2026-07-03 15:31:00 UTC
 
-- [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) (`construction-physics.com`)
-- [Midnight Train to Stockholm](https://matduggan.com/midnight-train-to-stockholm/) (`matduggan.com`)
+- [June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything) (`simonwillison.net`)
