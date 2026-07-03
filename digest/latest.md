@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-03 17:08:12 UTC
+Generated at: 2026-07-03 18:43:10 UTC
 
-- [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/) (`filfre.net`)
+- [How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?](https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504) (`devblogs.microsoft.com/oldnewthing`)
