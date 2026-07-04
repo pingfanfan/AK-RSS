@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-04 11:50:42 UTC
+Generated at: 2026-07-04 12:52:52 UTC
 
-- [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html) (`nesbitt.io`)
+- [Combined 1D and 2D Barcodes](https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/) (`shkspr.mobi`)
+- [Reading List 07/04/26](https://www.construction-physics.com/p/reading-list-070426) (`construction-physics.com`)

@@ -1,70 +1,77 @@
 {
-  "generated_at": "2026-07-04T11:50:55Z",
+  "generated_at": "2026-07-04T12:53:06Z",
   "days": [
     {
       "date": "2026-07-04",
-      "total": 3,
+      "total": 5,
       "feeds": [
+        "construction-physics.com (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
+        "shkspr.mobi (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "construction-physics.com · Reading List 07/04/26",
+        "shkspr.mobi · Combined 1D and 2D Barcodes",
         "nesbitt.io · This Week in Package Management: 4 July 2026",
         "johndcook.com · Does additional data always reduce posterior variance?",
         "utcc.utoronto.ca/~cks · Go maps, hashes of map keys, and pointers: a little surprise"
       ],
       "key_points": [
+        "Reading List 07/04/26",
+        "Combined 1D and 2D Barcodes",
         "This Week in Package Management: 4 July 2026",
-        "Does additional data always reduce posterior variance?",
-        "Go maps, hashes of map keys, and pointers: a little surprise"
+        "Does additional data always reduce posterior variance?"
       ],
       "key_points_zh": [
+        "Reading List 07/04/26",
+        "Combined 1D and 2D Barcodes",
         "This Week in Package Management: 4 July 2026",
-        "Does additional data always reduce posterior variance?",
-        "Go maps, hashes of map keys, and pointers: a little surprise"
+        "Does additional data always reduce posterior variance?"
       ],
       "key_points_en": [
+        "Reading List 07/04/26",
+        "Combined 1D and 2D Barcodes",
         "This Week in Package Management: 4 July 2026",
-        "Does additional data always reduce posterior variance?",
-        "Go maps, hashes of map keys, and pointers: a little surprise"
+        "Does additional data always reduce posterior variance?"
       ],
       "tweet_drafts": [
-        "This Week in Package Management: 4 July 2026",
-        "Does additional data always reduce posterior variance?",
-        "Go maps, hashes of map keys, and pointers: a little surprise"
+        "Reading List 07/04/26",
+        "Combined 1D and 2D Barcodes",
+        "This Week in Package Management: 4 July 2026"
       ],
       "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Reading List 07/04/26",
+          "link": "https://www.construction-physics.com/p/reading-list-070426"
+        },
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Combined 1D and 2D Barcodes",
+          "link": "https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/"
+        },
         {
           "feed_title": "nesbitt.io",
           "title": "This Week in Package Management: 4 July 2026",
           "link": "https://nesbitt.io/2026/07/04/this-week-in-package-management.html"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Does additional data always reduce posterior variance?",
-          "link": "https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Go maps, hashes of map keys, and pointers: a little surprise",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers"
         }
       ],
-      "summary_zh": "2026-07-04 技术日报：This Week in Package Management: 4 July 2026；Does additional data always reduce posterior variance?；Go maps, hashes of map keys, and pointers: a little surprise。",
-      "summary_en": "Daily brief (2026-07-04): This Week in Package Management: 4 July 2026; Does additional data always reduce posterior variance?; Go maps, hashes of map keys, and pointers: a little surprise.",
+      "summary_zh": "2026-07-04 技术日报：Reading List 07/04/26；Combined 1D and 2D Barcodes；This Week in Package Management: 4 July 2026。",
+      "summary_en": "Daily brief (2026-07-04): Reading List 07/04/26; Combined 1D and 2D Barcodes; This Week in Package Management: 4 July 2026.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-04 日报】This Week in Package Management: 4 July 2026；Does additional data always reduce posterior variance?；Go maps, hashes of map keys, and pointers: a little surprise。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-04): This Week in Package Management: 4 July 2026; Does additional data always reduce posterior variance?; Go maps, hashes of map keys, and pointers: a little surprise. Actionable takeaways included. What would you ship next? #AI #Enginee"
+          "zh": "【2026-07-04 日报】Reading List 07/04/26；Combined 1D and 2D Barcodes；This Week in Package Management: 4 July 2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-04): Reading List 07/04/26; Combined 1D and 2D Barcodes; This Week in Package Management: 4 July 2026. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-04）\n- This Week in Package Management: 4 July 2026\n- Does additional data always reduce posterior variance?\n- Go maps, hashes of map keys, and pointers: a little surprise\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/07/04/this-week-in-package-management.html\n- https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-04)\n- This Week in Package Management: 4 July 2026\n- Does additional data always reduce posterior variance?\n- Go maps, hashes of map keys, and pointers: a little surprise\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/07/04/this-week-in-package-management.html\n- https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-04）\n- Reading List 07/04/26\n- Combined 1D and 2D Barcodes\n- This Week in Package Management: 4 July 2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-070426\n- https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/\n- https://nesbitt.io/2026/07/04/this-week-in-package-management.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-04)\n- Reading List 07/04/26\n- Combined 1D and 2D Barcodes\n- This Week in Package Management: 4 July 2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-070426\n- https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/\n- https://nesbitt.io/2026/07/04/this-week-in-package-management.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：This Week in Package Management: 4 July 2026；Does additional data always reduce posterior variance?；Go maps, hashes of map keys, and pointers: a little surprise。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: This Week in Package Management: 4 July 2026; Does additional data always reduce posterior variance?; Go maps, hashes of map keys, and pointers: a little surprise.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Reading List 07/04/26；Combined 1D and 2D Barcodes；This Week in Package Management: 4 July 2026。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Reading List 07/04/26; Combined 1D and 2D Barcodes; This Week in Package Management: 4 July 2026.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -996,8 +1003,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
