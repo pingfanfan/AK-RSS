@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-07-04T16:48:24Z",
+  "generated_at": "2026-07-04T17:52:46Z",
   "days": [
     {
       "date": "2026-07-04",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "construction-physics.com (1)",
+        "daringfireball.net (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
         "shkspr.mobi (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "daringfireball.net · Fantastical 4.1.15 Adds Calendar Mirroring",
         "construction-physics.com · Reading List 07/04/26",
         "shkspr.mobi · Combined 1D and 2D Barcodes",
         "nesbitt.io · This Week in Package Management: 4 July 2026",
@@ -19,29 +21,34 @@
         "utcc.utoronto.ca/~cks · Go maps, hashes of map keys, and pointers: a little surprise"
       ],
       "key_points": [
-        "Reading List 07/04/26",
-        "Combined 1D and 2D Barcodes",
-        "This Week in Package Management: 4 July 2026",
-        "Does additional data always reduce posterior variance?"
-      ],
-      "key_points_zh": [
-        "Reading List 07/04/26",
-        "Combined 1D and 2D Barcodes",
-        "This Week in Package Management: 4 July 2026",
-        "Does additional data always reduce posterior variance?"
-      ],
-      "key_points_en": [
-        "Reading List 07/04/26",
-        "Combined 1D and 2D Barcodes",
-        "This Week in Package Management: 4 July 2026",
-        "Does additional data always reduce posterior variance?"
-      ],
-      "tweet_drafts": [
+        "Fantastical 4.1.15 Adds Calendar Mirroring",
         "Reading List 07/04/26",
         "Combined 1D and 2D Barcodes",
         "This Week in Package Management: 4 July 2026"
       ],
+      "key_points_zh": [
+        "Fantastical 4.1.15 Adds Calendar Mirroring",
+        "Reading List 07/04/26",
+        "Combined 1D and 2D Barcodes",
+        "This Week in Package Management: 4 July 2026"
+      ],
+      "key_points_en": [
+        "Fantastical 4.1.15 Adds Calendar Mirroring",
+        "Reading List 07/04/26",
+        "Combined 1D and 2D Barcodes",
+        "This Week in Package Management: 4 July 2026"
+      ],
+      "tweet_drafts": [
+        "Fantastical 4.1.15 Adds Calendar Mirroring",
+        "Reading List 07/04/26",
+        "Combined 1D and 2D Barcodes"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Fantastical 4.1.15 Adds Calendar Mirroring",
+          "link": "https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "Reading List 07/04/26",
@@ -51,27 +58,22 @@
           "feed_title": "shkspr.mobi",
           "title": "Combined 1D and 2D Barcodes",
           "link": "https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "This Week in Package Management: 4 July 2026",
-          "link": "https://nesbitt.io/2026/07/04/this-week-in-package-management.html"
         }
       ],
-      "summary_zh": "2026-07-04 技术日报：Reading List 07/04/26；Combined 1D and 2D Barcodes；This Week in Package Management: 4 July 2026。",
-      "summary_en": "Daily brief (2026-07-04): Reading List 07/04/26; Combined 1D and 2D Barcodes; This Week in Package Management: 4 July 2026.",
+      "summary_zh": "2026-07-04 技术日报：Fantastical 4.1.15 Adds Calendar Mirroring；Reading List 07/04/26；Combined 1D and 2D Barcodes。",
+      "summary_en": "Daily brief (2026-07-04): Fantastical 4.1.15 Adds Calendar Mirroring; Reading List 07/04/26; Combined 1D and 2D Barcodes.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-04 日报】Reading List 07/04/26；Combined 1D and 2D Barcodes；This Week in Package Management: 4 July 2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-04): Reading List 07/04/26; Combined 1D and 2D Barcodes; This Week in Package Management: 4 July 2026. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-04 日报】Fantastical 4.1.15 Adds Calendar Mirroring；Reading List 07/04/26；Combined 1D and 2D Barcodes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-04): Fantastical 4.1.15 Adds Calendar Mirroring; Reading List 07/04/26; Combined 1D and 2D Barcodes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-04）\n- Reading List 07/04/26\n- Combined 1D and 2D Barcodes\n- This Week in Package Management: 4 July 2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-070426\n- https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/\n- https://nesbitt.io/2026/07/04/this-week-in-package-management.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-04)\n- Reading List 07/04/26\n- Combined 1D and 2D Barcodes\n- This Week in Package Management: 4 July 2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-070426\n- https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/\n- https://nesbitt.io/2026/07/04/this-week-in-package-management.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-04）\n- Fantastical 4.1.15 Adds Calendar Mirroring\n- Reading List 07/04/26\n- Combined 1D and 2D Barcodes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/\n- https://www.construction-physics.com/p/reading-list-070426\n- https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-04)\n- Fantastical 4.1.15 Adds Calendar Mirroring\n- Reading List 07/04/26\n- Combined 1D and 2D Barcodes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/\n- https://www.construction-physics.com/p/reading-list-070426\n- https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reading List 07/04/26；Combined 1D and 2D Barcodes；This Week in Package Management: 4 July 2026。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reading List 07/04/26; Combined 1D and 2D Barcodes; This Week in Package Management: 4 July 2026.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Fantastical 4.1.15 Adds Calendar Mirroring；Reading List 07/04/26；Combined 1D and 2D Barcodes。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Fantastical 4.1.15 Adds Calendar Mirroring; Reading List 07/04/26; Combined 1D and 2D Barcodes.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1687,8 +1689,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
