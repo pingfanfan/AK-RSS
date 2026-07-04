@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-07-03T22:51:01Z",
+  "generated_at": "2026-07-04T08:17:11Z",
   "days": [
+    {
+      "date": "2026-07-04",
+      "total": 2,
+      "feeds": [
+        "johndcook.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "johndcook.com · Does additional data always reduce posterior variance?",
+        "utcc.utoronto.ca/~cks · Go maps, hashes of map keys, and pointers: a little surprise"
+      ],
+      "key_points": [
+        "Does additional data always reduce posterior variance?",
+        "Go maps, hashes of map keys, and pointers: a little surprise"
+      ],
+      "key_points_zh": [
+        "Does additional data always reduce posterior variance?",
+        "Go maps, hashes of map keys, and pointers: a little surprise"
+      ],
+      "key_points_en": [
+        "Does additional data always reduce posterior variance?",
+        "Go maps, hashes of map keys, and pointers: a little surprise"
+      ],
+      "tweet_drafts": [
+        "Does additional data always reduce posterior variance?",
+        "Go maps, hashes of map keys, and pointers: a little surprise"
+      ],
+      "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Does additional data always reduce posterior variance?",
+          "link": "https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Go maps, hashes of map keys, and pointers: a little surprise",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers"
+        }
+      ],
+      "summary_zh": "2026-07-04 技术日报：Does additional data always reduce posterior variance?；Go maps, hashes of map keys, and pointers: a little surprise。",
+      "summary_en": "Daily brief (2026-07-04): Does additional data always reduce posterior variance?; Go maps, hashes of map keys, and pointers: a little surprise.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-04 日报】Does additional data always reduce posterior variance?；Go maps, hashes of map keys, and pointers: a little surprise。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-04): Does additional data always reduce posterior variance?; Go maps, hashes of map keys, and pointers: a little surprise. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-04）\n- Does additional data always reduce posterior variance?\n- Go maps, hashes of map keys, and pointers: a little surprise\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-04)\n- Does additional data always reduce posterior variance?\n- Go maps, hashes of map keys, and pointers: a little surprise\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Does additional data always reduce posterior variance?；Go maps, hashes of map keys, and pointers: a little surprise。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Does additional data always reduce posterior variance?; Go maps, hashes of map keys, and pointers: a little surprise.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-07-03",
       "total": 13,
@@ -1461,8 +1517,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -2202,82 +2258,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Pluralistic: Refining humanity (05 Jun 2026)；Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links；Premium: The Hater's Guide To The AI Bubble 3.0。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Pluralistic: Refining humanity (05 Jun 2026); Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links; Premium: The Hater's Guide To The AI Bubble 3.0.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "total": 23,
-      "feeds": [
-        "daringfireball.net (7)",
-        "johndcook.com (3)",
-        "borretti.me (1)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ‘The Insider’",
-        "daringfireball.net · ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "johndcook.com · The Latin of Linux",
-        "utcc.utoronto.ca/~cks · The Emacs packages that I use (as of June 2026)",
-        "daringfireball.net · Lingon and Lingon Pro 10",
-        "daringfireball.net · Remember When Chrome Went Bad on MacOS?"
-      ],
-      "key_points": [
-        "‘The Insider’",
-        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "The Latin of Linux",
-        "The Emacs packages that I use (as of June 2026)"
-      ],
-      "key_points_zh": [
-        "‘The Insider’",
-        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "The Latin of Linux",
-        "The Emacs packages that I use (as of June 2026)"
-      ],
-      "key_points_en": [
-        "‘The Insider’",
-        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "The Latin of Linux",
-        "The Emacs packages that I use (as of June 2026)"
-      ],
-      "tweet_drafts": [
-        "‘The Insider’",
-        "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-        "The Latin of Linux"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘The Insider’",
-          "link": "https://letterboxd.com/film/the-insider/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "The Latin of Linux",
-          "link": "https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/"
-        }
-      ],
-      "summary_zh": "2026-06-04 技术日报：‘The Insider’；‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux。",
-      "summary_en": "Daily brief (2026-06-04): ‘The Insider’; ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-04 日报】‘The Insider’；‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-04): ‘The Insider’; ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-04）\n- ‘The Insider’\n- ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’\n- The Latin of Linux\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://letterboxd.com/film/the-insider/\n- https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ\n- https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-04)\n- ‘The Insider’\n- ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’\n- The Latin of Linux\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://letterboxd.com/film/the-insider/\n- https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ\n- https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：‘The Insider’；‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’；The Latin of Linux。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ‘The Insider’; ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’; The Latin of Linux.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
