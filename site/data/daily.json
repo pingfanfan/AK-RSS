@@ -1,48 +1,69 @@
 {
-  "generated_at": "2026-07-04T23:27:29Z",
+  "generated_at": "2026-07-05T08:35:35Z",
   "days": [
     {
       "date": "2026-07-05",
-      "total": 1,
+      "total": 3,
       "feeds": [
-        "simonwillison.net (1)"
+        "simonwillison.net (2)",
+        "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "simonwillison.net · sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "utcc.utoronto.ca/~cks · What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "simonwillison.net · Building a World Map with only 500 bytes"
       ],
       "key_points": [
+        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "Building a World Map with only 500 bytes"
       ],
       "key_points_zh": [
+        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "Building a World Map with only 500 bytes"
       ],
       "key_points_en": [
+        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "Building a World Map with only 500 bytes"
       ],
       "tweet_drafts": [
+        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "Building a World Map with only 500 bytes"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Building a World Map with only 500 bytes",
           "link": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-05 技术日报：Building a World Map with only 500 bytes。",
-      "summary_en": "Daily brief (2026-07-05): Building a World Map with only 500 bytes.",
+      "summary_zh": "2026-07-05 技术日报：sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output；Building a World Map with only 500 bytes。",
+      "summary_en": "Daily brief (2026-07-05): sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output; Building a World Map with only 500 bytes.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-05 日报】Building a World Map with only 500 bytes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-05): Building a World Map with only 500 bytes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-05 日报】sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output；Building a World Map with only 500 bytes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-05): sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output; Building a World Map with only 500 bytes. Actionable takeaways included. What wou"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-05）\n- Building a World Map with only 500 bytes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-05)\n- Building a World Map with only 500 bytes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-05）\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n- Building a World Map with only 500 bytes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n- https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-05)\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n- Building a World Map with only 500 bytes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n- https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Building a World Map with only 500 bytes。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Building a World Map with only 500 bytes.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output；Building a World Map with only 500 bytes。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output; Building a World Map with only 500 bytes.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
