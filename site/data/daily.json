@@ -1,39 +1,121 @@
 {
-  "generated_at": "2026-07-05T22:45:30Z",
+  "generated_at": "2026-07-06T09:48:42Z",
   "days": [
     {
-      "date": "2026-07-05",
-      "total": 3,
+      "date": "2026-07-06",
+      "total": 4,
       "feeds": [
-        "simonwillison.net (2)",
+        "idiallo.com (1)",
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "idiallo.com · Amazon Basics, but for intellectual property.",
+        "simonwillison.net · sqlite-utils 4.0rc3",
+        "utcc.utoronto.ca/~cks · Sometimes it actually is the network: a war story",
+        "seangoedecke.com · C2PA only works if everything is signed"
+      ],
+      "key_points": [
+        "Amazon Basics, but for intellectual property",
+        "sqlite-utils 4.0rc3",
+        "Sometimes it actually is the network: a war story",
+        "C2PA only works if everything is signed"
+      ],
+      "key_points_zh": [
+        "Amazon Basics, but for intellectual property",
+        "sqlite-utils 4.0rc3",
+        "Sometimes it actually is the network: a war story",
+        "C2PA only works if everything is signed"
+      ],
+      "key_points_en": [
+        "Amazon Basics, but for intellectual property",
+        "sqlite-utils 4.0rc3",
+        "Sometimes it actually is the network: a war story",
+        "C2PA only works if everything is signed"
+      ],
+      "tweet_drafts": [
+        "Amazon Basics, but for intellectual property",
+        "sqlite-utils 4.0rc3",
+        "Sometimes it actually is the network: a war story"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Amazon Basics, but for intellectual property.",
+          "link": "https://idiallo.com/blog/amazon-basics-but-intellectual-property"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "sqlite-utils 4.0rc3",
+          "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Sometimes it actually is the network: a war story",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork"
+        }
+      ],
+      "summary_zh": "2026-07-06 技术日报：Amazon Basics, but for intellectual property；sqlite-utils 4.0rc3；Sometimes it actually is the network: a war story。",
+      "summary_en": "Daily brief (2026-07-06): Amazon Basics, but for intellectual property; sqlite-utils 4.0rc3; Sometimes it actually is the network: a war story.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-06 日报】Amazon Basics, but for intellectual property；sqlite-utils 4.0rc3；Sometimes it actually is the network: a war story。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-06): Amazon Basics, but for intellectual property; sqlite-utils 4.0rc3; Sometimes it actually is the network: a war story. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-06）\n- Amazon Basics, but for intellectual property\n- sqlite-utils 4.0rc3\n- Sometimes it actually is the network: a war story\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/amazon-basics-but-intellectual-property\n- https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-06)\n- Amazon Basics, but for intellectual property\n- sqlite-utils 4.0rc3\n- Sometimes it actually is the network: a war story\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/amazon-basics-but-intellectual-property\n- https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Amazon Basics, but for intellectual property；sqlite-utils 4.0rc3；Sometimes it actually is the network: a war story。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Amazon Basics, but for intellectual property; sqlite-utils 4.0rc3; Sometimes it actually is the network: a war story.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "total": 4,
+      "feeds": [
+        "simonwillison.net (2)",
+        "blog.jim-nielsen.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "blog.jim-nielsen.com · Making a Shuffle Button",
         "simonwillison.net · sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "utcc.utoronto.ca/~cks · What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "simonwillison.net · Building a World Map with only 500 bytes"
       ],
       "key_points": [
+        "Making a Shuffle Button",
         "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "Building a World Map with only 500 bytes"
       ],
       "key_points_zh": [
+        "Making a Shuffle Button",
         "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "Building a World Map with only 500 bytes"
       ],
       "key_points_en": [
+        "Making a Shuffle Button",
         "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
         "Building a World Map with only 500 bytes"
       ],
       "tweet_drafts": [
+        "Making a Shuffle Button",
         "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
-        "Building a World Map with only 500 bytes"
+        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output"
       ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Making a Shuffle Button",
+          "link": "https://blog.jim-nielsen.com/2026/notes-shuffle/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
@@ -43,27 +125,22 @@
           "feed_title": "utcc.utoronto.ca/~cks",
           "title": "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Building a World Map with only 500 bytes",
-          "link": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-05 技术日报：sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output；Building a World Map with only 500 bytes。",
-      "summary_en": "Daily brief (2026-07-05): sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output; Building a World Map with only 500 bytes.",
+      "summary_zh": "2026-07-05 技术日报：Making a Shuffle Button；sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output。",
+      "summary_en": "Daily brief (2026-07-05): Making a Shuffle Button; sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-05 日报】sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output；Building a World Map with only 500 bytes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-05): sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output; Building a World Map with only 500 bytes. Actionable takeaways included. What wou"
+          "zh": "【2026-07-05 日报】Making a Shuffle Button；sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-05): Making a Shuffle Button; sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-05）\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n- Building a World Map with only 500 bytes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n- https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-05)\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n- Building a World Map with only 500 bytes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n- https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-05）\n- Making a Shuffle Button\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/notes-shuffle/\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-05)\n- Making a Shuffle Button\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/notes-shuffle/\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output；Building a World Map with only 500 bytes。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output; Building a World Map with only 500 bytes.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Making a Shuffle Button；sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Making a Shuffle Button; sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1755,8 +1832,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2192,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Aitken acceleration before Aitken；The Laplace limit；Coding Is Designing。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Aitken acceleration before Aitken; The Laplace limit; Coding Is Designing.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "total": 14,
-      "feeds": [
-        "daringfireball.net (2)",
-        "construction-physics.com (1)",
-        "geohot.github.io (1)",
-        "idiallo.com (1)",
-        "joanwestenberg.com (1)",
-        "johndcook.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show",
-        "daringfireball.net · Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
-        "johndcook.com · From Kepler to Bessel",
-        "pluralistic.net · Pluralistic: Criticizing the everything machine (06 Jun 2026)",
-        "construction-physics.com · Reading List 06/06/26",
-        "shkspr.mobi · There's still no point in gigabit broadband"
-      ],
-      "key_points": [
-        "60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show",
-        "Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
-        "From Kepler to Bessel",
-        "Pluralistic: Criticizing the everything machine (06 Jun 2026)"
-      ],
-      "key_points_zh": [
-        "60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show",
-        "Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
-        "From Kepler to Bessel",
-        "Pluralistic: Criticizing the everything machine (06 Jun 2026)"
-      ],
-      "key_points_en": [
-        "60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show",
-        "Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
-        "From Kepler to Bessel",
-        "Pluralistic: Criticizing the everything machine (06 Jun 2026)"
-      ],
-      "tweet_drafts": [
-        "60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show",
-        "Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
-        "From Kepler to Bessel"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show",
-          "link": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
-          "link": "https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "From Kepler to Bessel",
-          "link": "https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/"
-        }
-      ],
-      "summary_zh": "2026-06-06 技术日报：60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show；Trump Lawyer Argues Trump Can Tear Down Statue of Liberty；From Kepler to Bessel。",
-      "summary_en": "Daily brief (2026-06-06): 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show; Trump Lawyer Argues Trump Can Tear Down Statue of Liberty; From Kepler to Bessel.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-06 日报】60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show；Trump Lawyer Argues Trump Can Tear Down Statue of Liberty；From Kepler to Bessel。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-06): 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show; Trump Lawyer Argues Trump Can Tear Down Statue of Liberty; From Kepler to Bessel. Actionable takeaways included. What would you ship next? #A"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-06）\n- 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show\n- Trump Lawyer Argues Trump Can Tear Down Statue of Liberty\n- From Kepler to Bessel\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z\n- https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer\n- https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-06)\n- 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show\n- Trump Lawyer Argues Trump Can Tear Down Statue of Liberty\n- From Kepler to Bessel\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z\n- https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer\n- https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show；Trump Lawyer Argues Trump Can Tear Down Statue of Liberty；From Kepler to Bessel。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show; Trump Lawyer Argues Trump Can Tear Down Statue of Liberty; From Kepler to Bessel.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
