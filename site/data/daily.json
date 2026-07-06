@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-06T16:46:15Z",
+  "generated_at": "2026-07-06T18:48:54Z",
   "days": [
     {
       "date": "2026-07-06",
-      "total": 13,
+      "total": 14,
       "feeds": [
+        "daringfireball.net (2)",
         "johndcook.com (2)",
-        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "idiallo.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Backblaze Versus Dropbox",
         "daringfireball.net · Jason Snell Ends His Column, and 28-Year Run, at Macworld",
         "wheresyoured.at · Premium: The Hater's Guide To SoftBank",
         "johndcook.com · Reproducing a geometry theorem diagram",
         "devblogs.microsoft.com/oldnewthing · I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind",
-        "johndcook.com · e approximation",
-        "shkspr.mobi · I'm just so bored of AI"
+        "johndcook.com · e approximation"
       ],
       "key_points": [
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
-        "Premium: The Hater's Guide To SoftBank",
-        "Reproducing a geometry theorem diagram",
-        "I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind"
-      ],
-      "key_points_zh": [
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
-        "Premium: The Hater's Guide To SoftBank",
-        "Reproducing a geometry theorem diagram",
-        "I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind"
-      ],
-      "key_points_en": [
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
-        "Premium: The Hater's Guide To SoftBank",
-        "Reproducing a geometry theorem diagram",
-        "I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind"
-      ],
-      "tweet_drafts": [
+        "Backblaze Versus Dropbox",
         "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
         "Premium: The Hater's Guide To SoftBank",
         "Reproducing a geometry theorem diagram"
       ],
+      "key_points_zh": [
+        "Backblaze Versus Dropbox",
+        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
+        "Premium: The Hater's Guide To SoftBank",
+        "Reproducing a geometry theorem diagram"
+      ],
+      "key_points_en": [
+        "Backblaze Versus Dropbox",
+        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
+        "Premium: The Hater's Guide To SoftBank",
+        "Reproducing a geometry theorem diagram"
+      ],
+      "tweet_drafts": [
+        "Backblaze Versus Dropbox",
+        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
+        "Premium: The Hater's Guide To SoftBank"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Backblaze Versus Dropbox",
+          "link": "https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
@@ -53,27 +58,22 @@
           "feed_title": "wheresyoured.at",
           "title": "Premium: The Hater's Guide To SoftBank",
           "link": "https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Reproducing a geometry theorem diagram",
-          "link": "https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/"
         }
       ],
-      "summary_zh": "2026-07-06 技术日报：Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank；Reproducing a geometry theorem diagram。",
-      "summary_en": "Daily brief (2026-07-06): Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank; Reproducing a geometry theorem diagram.",
+      "summary_zh": "2026-07-06 技术日报：Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank。",
+      "summary_en": "Daily brief (2026-07-06): Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-06 日报】Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank；Reproducing a geometry theorem diagram。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-06): Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank; Reproducing a geometry theorem diagram. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-06 日报】Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-06): Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-06）\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n- Premium: The Hater's Guide To SoftBank\n- Reproducing a geometry theorem diagram\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.macworld.com/article/3175482\n- https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/\n- https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-06)\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n- Premium: The Hater's Guide To SoftBank\n- Reproducing a geometry theorem diagram\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.macworld.com/article/3175482\n- https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/\n- https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-06）\n- Backblaze Versus Dropbox\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n- Premium: The Hater's Guide To SoftBank\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n- https://www.macworld.com/article/3175482\n- https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-06)\n- Backblaze Versus Dropbox\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n- Premium: The Hater's Guide To SoftBank\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n- https://www.macworld.com/article/3175482\n- https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank；Reproducing a geometry theorem diagram。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank; Reproducing a geometry theorem diagram.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1152,8 +1152,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1836,8 +1836,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
