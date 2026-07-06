@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-07-06T09:48:42Z",
+  "generated_at": "2026-07-06T13:36:18Z",
   "days": [
     {
       "date": "2026-07-06",
-      "total": 4,
+      "total": 8,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "idiallo.com (1)",
+        "johndcook.com (1)",
+        "mjg59.dreamwidth.org (1)",
         "seangoedecke.com (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "johndcook.com · e approximation",
+        "shkspr.mobi · I'm just so bored of AI",
+        "dfarq.homeip.net · Why IBM bought Lotus",
+        "mjg59.dreamwidth.org · My blog has moved",
         "idiallo.com · Amazon Basics, but for intellectual property.",
-        "simonwillison.net · sqlite-utils 4.0rc3",
-        "utcc.utoronto.ca/~cks · Sometimes it actually is the network: a war story",
-        "seangoedecke.com · C2PA only works if everything is signed"
+        "simonwillison.net · sqlite-utils 4.0rc3"
       ],
       "key_points": [
-        "Amazon Basics, but for intellectual property",
-        "sqlite-utils 4.0rc3",
-        "Sometimes it actually is the network: a war story",
-        "C2PA only works if everything is signed"
+        "e approximation",
+        "I'm just so bored of AI",
+        "Why IBM bought Lotus",
+        "My blog has moved"
       ],
       "key_points_zh": [
-        "Amazon Basics, but for intellectual property",
-        "sqlite-utils 4.0rc3",
-        "Sometimes it actually is the network: a war story",
-        "C2PA only works if everything is signed"
+        "e approximation",
+        "I'm just so bored of AI",
+        "Why IBM bought Lotus",
+        "My blog has moved"
       ],
       "key_points_en": [
-        "Amazon Basics, but for intellectual property",
-        "sqlite-utils 4.0rc3",
-        "Sometimes it actually is the network: a war story",
-        "C2PA only works if everything is signed"
+        "e approximation",
+        "I'm just so bored of AI",
+        "Why IBM bought Lotus",
+        "My blog has moved"
       ],
       "tweet_drafts": [
-        "Amazon Basics, but for intellectual property",
-        "sqlite-utils 4.0rc3",
-        "Sometimes it actually is the network: a war story"
+        "e approximation",
+        "I'm just so bored of AI",
+        "Why IBM bought Lotus"
       ],
       "sources": [
         {
-          "feed_title": "idiallo.com",
-          "title": "Amazon Basics, but for intellectual property.",
-          "link": "https://idiallo.com/blog/amazon-basics-but-intellectual-property"
+          "feed_title": "johndcook.com",
+          "title": "e approximation",
+          "link": "https://www.johndcook.com/blog/2026/07/06/e-approximation/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "sqlite-utils 4.0rc3",
-          "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything"
+          "feed_title": "shkspr.mobi",
+          "title": "I'm just so bored of AI",
+          "link": "https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/"
         },
         {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Sometimes it actually is the network: a war story",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork"
+          "feed_title": "dfarq.homeip.net",
+          "title": "Why IBM bought Lotus",
+          "link": "https://dfarq.homeip.net/why-ibm-bought-lotus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-ibm-bought-lotus"
         }
       ],
-      "summary_zh": "2026-07-06 技术日报：Amazon Basics, but for intellectual property；sqlite-utils 4.0rc3；Sometimes it actually is the network: a war story。",
-      "summary_en": "Daily brief (2026-07-06): Amazon Basics, but for intellectual property; sqlite-utils 4.0rc3; Sometimes it actually is the network: a war story.",
+      "summary_zh": "2026-07-06 技术日报：e approximation；I'm just so bored of AI；Why IBM bought Lotus。",
+      "summary_en": "Daily brief (2026-07-06): e approximation; I'm just so bored of AI; Why IBM bought Lotus.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-06 日报】Amazon Basics, but for intellectual property；sqlite-utils 4.0rc3；Sometimes it actually is the network: a war story。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-06): Amazon Basics, but for intellectual property; sqlite-utils 4.0rc3; Sometimes it actually is the network: a war story. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-06 日报】e approximation；I'm just so bored of AI；Why IBM bought Lotus。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-06): e approximation; I'm just so bored of AI; Why IBM bought Lotus. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-06）\n- Amazon Basics, but for intellectual property\n- sqlite-utils 4.0rc3\n- Sometimes it actually is the network: a war story\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/amazon-basics-but-intellectual-property\n- https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-06)\n- Amazon Basics, but for intellectual property\n- sqlite-utils 4.0rc3\n- Sometimes it actually is the network: a war story\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/amazon-basics-but-intellectual-property\n- https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-06）\n- e approximation\n- I'm just so bored of AI\n- Why IBM bought Lotus\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/07/06/e-approximation/\n- https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/\n- https://dfarq.homeip.net/why-ibm-bought-lotus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-ibm-bought-lotus\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-06)\n- e approximation\n- I'm just so bored of AI\n- Why IBM bought Lotus\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/07/06/e-approximation/\n- https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/\n- https://dfarq.homeip.net/why-ibm-bought-lotus/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-ibm-bought-lotus\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Amazon Basics, but for intellectual property；sqlite-utils 4.0rc3；Sometimes it actually is the network: a war story。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Amazon Basics, but for intellectual property; sqlite-utils 4.0rc3; Sometimes it actually is the network: a war story.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：e approximation；I'm just so bored of AI；Why IBM bought Lotus。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: e approximation; I'm just so bored of AI; Why IBM bought Lotus.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1148,8 +1152,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
