@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:48:54Z",
+  "generated_at": "2026-07-06T20:45:46Z",
   "days": [
     {
       "date": "2026-07-06",
-      "total": 14,
+      "total": 16,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "johndcook.com (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
@@ -13,37 +13,42 @@
         "idiallo.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Markdown Now Has a UTI in Apple’s Version 27 OSes",
         "daringfireball.net · Backblaze Versus Dropbox",
         "daringfireball.net · Jason Snell Ends His Column, and 28-Year Run, at Macworld",
         "wheresyoured.at · Premium: The Hater's Guide To SoftBank",
         "johndcook.com · Reproducing a geometry theorem diagram",
-        "devblogs.microsoft.com/oldnewthing · I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind",
-        "johndcook.com · e approximation"
+        "devblogs.microsoft.com/oldnewthing · I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind"
       ],
       "key_points": [
-        "Backblaze Versus Dropbox",
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
-        "Premium: The Hater's Guide To SoftBank",
-        "Reproducing a geometry theorem diagram"
-      ],
-      "key_points_zh": [
-        "Backblaze Versus Dropbox",
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
-        "Premium: The Hater's Guide To SoftBank",
-        "Reproducing a geometry theorem diagram"
-      ],
-      "key_points_en": [
-        "Backblaze Versus Dropbox",
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
-        "Premium: The Hater's Guide To SoftBank",
-        "Reproducing a geometry theorem diagram"
-      ],
-      "tweet_drafts": [
+        "Markdown Now Has a UTI in Apple’s Version 27 OSes",
         "Backblaze Versus Dropbox",
         "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
         "Premium: The Hater's Guide To SoftBank"
       ],
+      "key_points_zh": [
+        "Markdown Now Has a UTI in Apple’s Version 27 OSes",
+        "Backblaze Versus Dropbox",
+        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
+        "Premium: The Hater's Guide To SoftBank"
+      ],
+      "key_points_en": [
+        "Markdown Now Has a UTI in Apple’s Version 27 OSes",
+        "Backblaze Versus Dropbox",
+        "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
+        "Premium: The Hater's Guide To SoftBank"
+      ],
+      "tweet_drafts": [
+        "Markdown Now Has a UTI in Apple’s Version 27 OSes",
+        "Backblaze Versus Dropbox",
+        "Jason Snell Ends His Column, and 28-Year Run, at Macworld"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Markdown Now Has a UTI in Apple’s Version 27 OSes",
+          "link": "https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Backblaze Versus Dropbox",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Jason Snell Ends His Column, and 28-Year Run, at Macworld",
           "link": "https://www.macworld.com/article/3175482"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Premium: The Hater's Guide To SoftBank",
-          "link": "https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/"
         }
       ],
-      "summary_zh": "2026-07-06 技术日报：Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank。",
-      "summary_en": "Daily brief (2026-07-06): Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank.",
+      "summary_zh": "2026-07-06 技术日报：Markdown Now Has a UTI in Apple’s Version 27 OSes；Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld。",
+      "summary_en": "Daily brief (2026-07-06): Markdown Now Has a UTI in Apple’s Version 27 OSes; Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-06 日报】Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-06): Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-06 日报】Markdown Now Has a UTI in Apple’s Version 27 OSes；Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-06): Markdown Now Has a UTI in Apple’s Version 27 OSes; Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-06）\n- Backblaze Versus Dropbox\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n- Premium: The Hater's Guide To SoftBank\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n- https://www.macworld.com/article/3175482\n- https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-06)\n- Backblaze Versus Dropbox\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n- Premium: The Hater's Guide To SoftBank\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n- https://www.macworld.com/article/3175482\n- https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-06）\n- Markdown Now Has a UTI in Apple’s Version 27 OSes\n- Backblaze Versus Dropbox\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n- https://www.macworld.com/article/3175482\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-06)\n- Markdown Now Has a UTI in Apple’s Version 27 OSes\n- Backblaze Versus Dropbox\n- Jason Snell Ends His Column, and 28-Year Run, at Macworld\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n- https://www.macworld.com/article/3175482\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld；Premium: The Hater's Guide To SoftBank。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld; Premium: The Hater's Guide To SoftBank.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Markdown Now Has a UTI in Apple’s Version 27 OSes；Backblaze Versus Dropbox；Jason Snell Ends His Column, and 28-Year Run, at Macworld。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Markdown Now Has a UTI in Apple’s Version 27 OSes; Backblaze Versus Dropbox; Jason Snell Ends His Column, and 28-Year Run, at Macworld.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
