@@ -1,6 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-06 23:33:57 UTC
+Generated at: 2026-07-07 09:00:29 UTC
 
-- [★ Apple Should Eliminate the App Icon ‘Squircle Jail’](https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail) (`daringfireball.net`)
-- [Stephan's Quintet](https://maurycyz.com/astro/h92/) (`maurycyz.com`)
+- [tencent/Hy3](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) (`simonwillison.net`)
+- [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) (`seangoedecke.com`)
+- [Using Linux <code>tc</code> to limit the outgoing bandwidth of a web server](https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth) (`utcc.utoronto.ca/~cks`)
+- [A full body MRI earns you a year of smoking](https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump) (`entropicthoughts.com`)

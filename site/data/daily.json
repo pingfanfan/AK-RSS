@@ -1,47 +1,114 @@
 {
-  "generated_at": "2026-07-06T23:34:14Z",
+  "generated_at": "2026-07-07T09:00:43Z",
   "days": [
     {
+      "date": "2026-07-07",
+      "total": 3,
+      "feeds": [
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
+        "seangoedecke.com · Blog about things you don't understand yet",
+        "simonwillison.net · tencent/Hy3"
+      ],
+      "key_points": [
+        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
+        "Blog about things you don't understand yet",
+        "tencent/Hy3"
+      ],
+      "key_points_zh": [
+        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
+        "Blog about things you don't understand yet",
+        "tencent/Hy3"
+      ],
+      "key_points_en": [
+        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
+        "Blog about things you don't understand yet",
+        "tencent/Hy3"
+      ],
+      "tweet_drafts": [
+        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
+        "Blog about things you don't understand yet",
+        "tencent/Hy3"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "Blog about things you don't understand yet",
+          "link": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "tencent/Hy3",
+          "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-07-07 技术日报：Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server；Blog about things you don't understand yet；tencent/Hy3。",
+      "summary_en": "Daily brief (2026-07-07): Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server; Blog about things you don't understand yet; tencent/Hy3.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-07 日报】Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server；Blog about things you don't understand yet；tencent/Hy3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-07): Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server; Blog about things you don't understand yet; tencent/Hy3. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-07）\n- Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server\n- Blog about things you don't understand yet\n- tencent/Hy3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth\n- https://seangoedecke.com/blog-about-things-you-dont-understand-yet/\n- https://simonwillison.net/2026/Jul/6/hy3/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-07)\n- Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server\n- Blog about things you don't understand yet\n- tencent/Hy3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth\n- https://seangoedecke.com/blog-about-things-you-dont-understand-yet/\n- https://simonwillison.net/2026/Jul/6/hy3/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server；Blog about things you don't understand yet；tencent/Hy3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server; Blog about things you don't understand yet; tencent/Hy3.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-07-06",
-      "total": 18,
+      "total": 19,
       "feeds": [
         "daringfireball.net (4)",
         "johndcook.com (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
-        "idiallo.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
         "daringfireball.net · ★ Apple Should Eliminate the App Icon ‘Squircle Jail’",
+        "entropicthoughts.com · A full body MRI earns you a year of smoking",
         "daringfireball.net · Markdown Now Has a UTI in Apple’s Version 27 OSes",
         "daringfireball.net · Backblaze Versus Dropbox",
         "daringfireball.net · Jason Snell Ends His Column, and 28-Year Run, at Macworld",
-        "wheresyoured.at · Premium: The Hater's Guide To SoftBank",
-        "johndcook.com · Reproducing a geometry theorem diagram"
+        "wheresyoured.at · Premium: The Hater's Guide To SoftBank"
       ],
       "key_points": [
         "★ Apple Should Eliminate the App Icon ‘Squircle Jail’",
+        "A full body MRI earns you a year of smoking",
         "Markdown Now Has a UTI in Apple’s Version 27 OSes",
-        "Backblaze Versus Dropbox",
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld"
+        "Backblaze Versus Dropbox"
       ],
       "key_points_zh": [
         "★ Apple Should Eliminate the App Icon ‘Squircle Jail’",
+        "A full body MRI earns you a year of smoking",
         "Markdown Now Has a UTI in Apple’s Version 27 OSes",
-        "Backblaze Versus Dropbox",
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld"
+        "Backblaze Versus Dropbox"
       ],
       "key_points_en": [
         "★ Apple Should Eliminate the App Icon ‘Squircle Jail’",
+        "A full body MRI earns you a year of smoking",
         "Markdown Now Has a UTI in Apple’s Version 27 OSes",
-        "Backblaze Versus Dropbox",
-        "Jason Snell Ends His Column, and 28-Year Run, at Macworld"
+        "Backblaze Versus Dropbox"
       ],
       "tweet_drafts": [
         "★ Apple Should Eliminate the App Icon ‘Squircle Jail’",
-        "Markdown Now Has a UTI in Apple’s Version 27 OSes",
-        "Backblaze Versus Dropbox"
+        "A full body MRI earns you a year of smoking",
+        "Markdown Now Has a UTI in Apple’s Version 27 OSes"
       ],
       "sources": [
         {
@@ -50,30 +117,30 @@
           "link": "https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail"
         },
         {
-          "feed_title": "daringfireball.net",
-          "title": "Markdown Now Has a UTI in Apple’s Version 27 OSes",
-          "link": "https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown"
+          "feed_title": "entropicthoughts.com",
+          "title": "A full body MRI earns you a year of smoking",
+          "link": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump"
         },
         {
           "feed_title": "daringfireball.net",
-          "title": "Backblaze Versus Dropbox",
-          "link": "https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/"
+          "title": "Markdown Now Has a UTI in Apple’s Version 27 OSes",
+          "link": "https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown"
         }
       ],
-      "summary_zh": "2026-07-06 技术日报：★ Apple Should Eliminate the App Icon ‘Squircle Jail’；Markdown Now Has a UTI in Apple’s Version 27 OSes；Backblaze Versus Dropbox。",
-      "summary_en": "Daily brief (2026-07-06): ★ Apple Should Eliminate the App Icon ‘Squircle Jail’; Markdown Now Has a UTI in Apple’s Version 27 OSes; Backblaze Versus Dropbox.",
+      "summary_zh": "2026-07-06 技术日报：★ Apple Should Eliminate the App Icon ‘Squircle Jail’；A full body MRI earns you a year of smoking；Markdown Now Has a UTI in Apple’s Version 27 OSes。",
+      "summary_en": "Daily brief (2026-07-06): ★ Apple Should Eliminate the App Icon ‘Squircle Jail’; A full body MRI earns you a year of smoking; Markdown Now Has a UTI in Apple’s Version 27 OSes.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-06 日报】★ Apple Should Eliminate the App Icon ‘Squircle Jail’；Markdown Now Has a UTI in Apple’s Version 27 OSes；Backblaze Versus Dropbox。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-06): ★ Apple Should Eliminate the App Icon ‘Squircle Jail’; Markdown Now Has a UTI in Apple’s Version 27 OSes; Backblaze Versus Dropbox. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-06 日报】★ Apple Should Eliminate the App Icon ‘Squircle Jail’；A full body MRI earns you a year of smoking；Markdown Now Has a UTI in Apple’s Version 27 OSes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-06): ★ Apple Should Eliminate the App Icon ‘Squircle Jail’; A full body MRI earns you a year of smoking; Markdown Now Has a UTI in Apple’s Version 27 OSes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-06）\n- ★ Apple Should Eliminate the App Icon ‘Squircle Jail’\n- Markdown Now Has a UTI in Apple’s Version 27 OSes\n- Backblaze Versus Dropbox\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail\n- https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-06)\n- ★ Apple Should Eliminate the App Icon ‘Squircle Jail’\n- Markdown Now Has a UTI in Apple’s Version 27 OSes\n- Backblaze Versus Dropbox\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail\n- https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown\n- https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-06）\n- ★ Apple Should Eliminate the App Icon ‘Squircle Jail’\n- A full body MRI earns you a year of smoking\n- Markdown Now Has a UTI in Apple’s Version 27 OSes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail\n- https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump\n- https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-06)\n- ★ Apple Should Eliminate the App Icon ‘Squircle Jail’\n- A full body MRI earns you a year of smoking\n- Markdown Now Has a UTI in Apple’s Version 27 OSes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail\n- https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump\n- https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ Apple Should Eliminate the App Icon ‘Squircle Jail’；Markdown Now Has a UTI in Apple’s Version 27 OSes；Backblaze Versus Dropbox。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ Apple Should Eliminate the App Icon ‘Squircle Jail’; Markdown Now Has a UTI in Apple’s Version 27 OSes; Backblaze Versus Dropbox.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：★ Apple Should Eliminate the App Icon ‘Squircle Jail’；A full body MRI earns you a year of smoking；Markdown Now Has a UTI in Apple’s Version 27 OSes。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ Apple Should Eliminate the App Icon ‘Squircle Jail’; A full body MRI earns you a year of smoking; Markdown Now Has a UTI in Apple’s Version 27 OSes.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1684,8 +1751,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -2197,82 +2264,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：LLMs and almost good code；ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: LLMs and almost good code; ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "total": 13,
-      "feeds": [
-        "johndcook.com (3)",
-        "antirez.com (1)",
-        "berthub.eu (1)",
-        "blog.jim-nielsen.com (1)",
-        "daringfireball.net (1)",
-        "eli.thegreenplace.net (1)"
-      ],
-      "highlights": [
-        "johndcook.com · Aitken acceleration before Aitken",
-        "johndcook.com · The Laplace limit",
-        "blog.jim-nielsen.com · Coding Is Designing",
-        "righto.com · Powering up a module from the IBM 604: an electronic calculator from 1948",
-        "johndcook.com · A crank formula for π",
-        "berthub.eu · KPN Interactieve TV zonder Experia Box"
-      ],
-      "key_points": [
-        "Aitken acceleration before Aitken",
-        "The Laplace limit",
-        "Coding Is Designing",
-        "Powering up a module from the IBM 604: an electronic calculator from 1948"
-      ],
-      "key_points_zh": [
-        "Aitken acceleration before Aitken",
-        "The Laplace limit",
-        "Coding Is Designing",
-        "Powering up a module from the IBM 604: an electronic calculator from 1948"
-      ],
-      "key_points_en": [
-        "Aitken acceleration before Aitken",
-        "The Laplace limit",
-        "Coding Is Designing",
-        "Powering up a module from the IBM 604: an electronic calculator from 1948"
-      ],
-      "tweet_drafts": [
-        "Aitken acceleration before Aitken",
-        "The Laplace limit",
-        "Coding Is Designing"
-      ],
-      "sources": [
-        {
-          "feed_title": "johndcook.com",
-          "title": "Aitken acceleration before Aitken",
-          "link": "https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "The Laplace limit",
-          "link": "https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Coding Is Designing",
-          "link": "https://blog.jim-nielsen.com/2026/code-is-design/"
-        }
-      ],
-      "summary_zh": "2026-06-07 技术日报：Aitken acceleration before Aitken；The Laplace limit；Coding Is Designing。",
-      "summary_en": "Daily brief (2026-06-07): Aitken acceleration before Aitken; The Laplace limit; Coding Is Designing.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-07 日报】Aitken acceleration before Aitken；The Laplace limit；Coding Is Designing。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-07): Aitken acceleration before Aitken; The Laplace limit; Coding Is Designing. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-07）\n- Aitken acceleration before Aitken\n- The Laplace limit\n- Coding Is Designing\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/\n- https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/\n- https://blog.jim-nielsen.com/2026/code-is-design/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-07)\n- Aitken acceleration before Aitken\n- The Laplace limit\n- Coding Is Designing\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/\n- https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/\n- https://blog.jim-nielsen.com/2026/code-is-design/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Aitken acceleration before Aitken；The Laplace limit；Coding Is Designing。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Aitken acceleration before Aitken; The Laplace limit; Coding Is Designing.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
