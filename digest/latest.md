@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-07 15:21:03 UTC
+Generated at: 2026-07-07 17:29:35 UTC
 
-- [How did Windows 95 decide that a setup program ran?](https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508) (`devblogs.microsoft.com/oldnewthing`)
-- [Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)](https://pluralistic.net/2026/07/07/going-global/) (`pluralistic.net`)
+- [OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) (`daringfireball.net`)
+- [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/) (`wheresyoured.at`)
