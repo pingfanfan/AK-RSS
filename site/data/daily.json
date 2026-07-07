@@ -1,70 +1,79 @@
 {
-  "generated_at": "2026-07-07T09:00:43Z",
+  "generated_at": "2026-07-07T12:12:54Z",
   "days": [
     {
       "date": "2026-07-07",
-      "total": 3,
+      "total": 6,
       "feeds": [
+        "berthub.eu (1)",
+        "dfarq.homeip.net (1)",
+        "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "simonwillison.net (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · Ray Kassar, former Atari CEO",
+        "nesbitt.io · Content addressing in package managers",
+        "berthub.eu · Kort geding aandeelhouders Solvinity",
         "utcc.utoronto.ca/~cks · Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
         "seangoedecke.com · Blog about things you don't understand yet",
         "simonwillison.net · tencent/Hy3"
       ],
       "key_points": [
-        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
-        "Blog about things you don't understand yet",
-        "tencent/Hy3"
+        "Ray Kassar, former Atari CEO",
+        "Content addressing in package managers",
+        "Kort geding aandeelhouders Solvinity",
+        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server"
       ],
       "key_points_zh": [
-        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
-        "Blog about things you don't understand yet",
-        "tencent/Hy3"
+        "Ray Kassar, former Atari CEO",
+        "Content addressing in package managers",
+        "Kort geding aandeelhouders Solvinity",
+        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server"
       ],
       "key_points_en": [
-        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
-        "Blog about things you don't understand yet",
-        "tencent/Hy3"
+        "Ray Kassar, former Atari CEO",
+        "Content addressing in package managers",
+        "Kort geding aandeelhouders Solvinity",
+        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server"
       ],
       "tweet_drafts": [
-        "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
-        "Blog about things you don't understand yet",
-        "tencent/Hy3"
+        "Ray Kassar, former Atari CEO",
+        "Content addressing in package managers",
+        "Kort geding aandeelhouders Solvinity"
       ],
       "sources": [
         {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth"
+          "feed_title": "dfarq.homeip.net",
+          "title": "Ray Kassar, former Atari CEO",
+          "link": "https://dfarq.homeip.net/ray-kassar-former-atari-ceo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ray-kassar-former-atari-ceo"
         },
         {
-          "feed_title": "seangoedecke.com",
-          "title": "Blog about things you don't understand yet",
-          "link": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/"
+          "feed_title": "nesbitt.io",
+          "title": "Content addressing in package managers",
+          "link": "https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "tencent/Hy3",
-          "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything"
+          "feed_title": "berthub.eu",
+          "title": "Kort geding aandeelhouders Solvinity",
+          "link": "https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/"
         }
       ],
-      "summary_zh": "2026-07-07 技术日报：Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server；Blog about things you don't understand yet；tencent/Hy3。",
-      "summary_en": "Daily brief (2026-07-07): Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server; Blog about things you don't understand yet; tencent/Hy3.",
+      "summary_zh": "2026-07-07 技术日报：Ray Kassar, former Atari CEO；Content addressing in package managers；Kort geding aandeelhouders Solvinity。",
+      "summary_en": "Daily brief (2026-07-07): Ray Kassar, former Atari CEO; Content addressing in package managers; Kort geding aandeelhouders Solvinity.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-07 日报】Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server；Blog about things you don't understand yet；tencent/Hy3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-07): Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server; Blog about things you don't understand yet; tencent/Hy3. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-07 日报】Ray Kassar, former Atari CEO；Content addressing in package managers；Kort geding aandeelhouders Solvinity。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-07): Ray Kassar, former Atari CEO; Content addressing in package managers; Kort geding aandeelhouders Solvinity. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-07）\n- Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server\n- Blog about things you don't understand yet\n- tencent/Hy3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth\n- https://seangoedecke.com/blog-about-things-you-dont-understand-yet/\n- https://simonwillison.net/2026/Jul/6/hy3/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-07)\n- Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server\n- Blog about things you don't understand yet\n- tencent/Hy3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth\n- https://seangoedecke.com/blog-about-things-you-dont-understand-yet/\n- https://simonwillison.net/2026/Jul/6/hy3/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-07）\n- Ray Kassar, former Atari CEO\n- Content addressing in package managers\n- Kort geding aandeelhouders Solvinity\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/ray-kassar-former-atari-ceo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ray-kassar-former-atari-ceo\n- https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html\n- https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-07)\n- Ray Kassar, former Atari CEO\n- Content addressing in package managers\n- Kort geding aandeelhouders Solvinity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/ray-kassar-former-atari-ceo/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ray-kassar-former-atari-ceo\n- https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html\n- https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server；Blog about things you don't understand yet；tencent/Hy3。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Using Linux \u003ccode\u003etc\u003c/code\u003e to limit the outgoing bandwidth of a web server; Blog about things you don't understand yet; tencent/Hy3.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Ray Kassar, former Atari CEO；Content addressing in package managers；Kort geding aandeelhouders Solvinity。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Ray Kassar, former Atari CEO; Content addressing in package managers; Kort geding aandeelhouders Solvinity.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1219,8 +1228,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1903,8 +1912,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",

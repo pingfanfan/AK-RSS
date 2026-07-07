@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-07 09:00:29 UTC
+Generated at: 2026-07-07 12:12:39 UTC
 
-- [tencent/Hy3](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) (`simonwillison.net`)
-- [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) (`seangoedecke.com`)
-- [Using Linux <code>tc</code> to limit the outgoing bandwidth of a web server](https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth) (`utcc.utoronto.ca/~cks`)
-- [A full body MRI earns you a year of smoking](https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump) (`entropicthoughts.com`)
+- [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html) (`nesbitt.io`)
+- [Ray Kassar, former Atari CEO](https://dfarq.homeip.net/ray-kassar-former-atari-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=ray-kassar-former-atari-ceo) (`dfarq.homeip.net`)
+- [Kort geding aandeelhouders Solvinity](https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/) (`berthub.eu`)
