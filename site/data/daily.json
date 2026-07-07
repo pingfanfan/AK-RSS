@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-07T22:10:40Z",
+  "generated_at": "2026-07-07T23:26:20Z",
   "days": [
     {
       "date": "2026-07-07",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "simonwillison.net (2)",
+        "utcc.utoronto.ca/~cks (2)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "nesbitt.io (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "utcc.utoronto.ca/~cks · Our mixed building network wiring and its consequences",
         "simonwillison.net · sqlite-utils 4.0, now with database schema migrations",
         "wheresyoured.at · Let AI Burn",
         "daringfireball.net · OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
         "devblogs.microsoft.com/oldnewthing · How did Windows 95 decide that a setup program ran?",
-        "pluralistic.net · Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)",
-        "dfarq.homeip.net · Ray Kassar, former Atari CEO"
+        "pluralistic.net · Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)"
       ],
       "key_points": [
-        "sqlite-utils 4.0, now with database schema migrations",
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-        "How did Windows 95 decide that a setup program ran?"
-      ],
-      "key_points_zh": [
-        "sqlite-utils 4.0, now with database schema migrations",
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-        "How did Windows 95 decide that a setup program ran?"
-      ],
-      "key_points_en": [
-        "sqlite-utils 4.0, now with database schema migrations",
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-        "How did Windows 95 decide that a setup program ran?"
-      ],
-      "tweet_drafts": [
+        "Our mixed building network wiring and its consequences",
         "sqlite-utils 4.0, now with database schema migrations",
         "Let AI Burn",
         "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices"
       ],
+      "key_points_zh": [
+        "Our mixed building network wiring and its consequences",
+        "sqlite-utils 4.0, now with database schema migrations",
+        "Let AI Burn",
+        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices"
+      ],
+      "key_points_en": [
+        "Our mixed building network wiring and its consequences",
+        "sqlite-utils 4.0, now with database schema migrations",
+        "Let AI Burn",
+        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices"
+      ],
+      "tweet_drafts": [
+        "Our mixed building network wiring and its consequences",
+        "sqlite-utils 4.0, now with database schema migrations",
+        "Let AI Burn"
+      ],
       "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Our mixed building network wiring and its consequences",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "sqlite-utils 4.0, now with database schema migrations",
@@ -53,27 +58,22 @@
           "feed_title": "wheresyoured.at",
           "title": "Let AI Burn",
           "link": "https://www.wheresyoured.at/let-ai-burn/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-          "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
         }
       ],
-      "summary_zh": "2026-07-07 技术日报：sqlite-utils 4.0, now with database schema migrations；Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices。",
-      "summary_en": "Daily brief (2026-07-07): sqlite-utils 4.0, now with database schema migrations; Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices.",
+      "summary_zh": "2026-07-07 技术日报：Our mixed building network wiring and its consequences；sqlite-utils 4.0, now with database schema migrations；Let AI Burn。",
+      "summary_en": "Daily brief (2026-07-07): Our mixed building network wiring and its consequences; sqlite-utils 4.0, now with database schema migrations; Let AI Burn.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-07 日报】sqlite-utils 4.0, now with database schema migrations；Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-07): sqlite-utils 4.0, now with database schema migrations; Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices. Actionable takeaways included. What would you ship next? #AI #Engineering"
+          "zh": "【2026-07-07 日报】Our mixed building network wiring and its consequences；sqlite-utils 4.0, now with database schema migrations；Let AI Burn。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-07): Our mixed building network wiring and its consequences; sqlite-utils 4.0, now with database schema migrations; Let AI Burn. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-07）\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n- OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n- https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-07)\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n- OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n- https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-07）\n- Our mixed building network wiring and its consequences\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-07)\n- Our mixed building network wiring and its consequences\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：sqlite-utils 4.0, now with database schema migrations；Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: sqlite-utils 4.0, now with database schema migrations; Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Our mixed building network wiring and its consequences；sqlite-utils 4.0, now with database schema migrations；Let AI Burn。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Our mixed building network wiring and its consequences; sqlite-utils 4.0, now with database schema migrations; Let AI Burn.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1760,8 +1760,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
