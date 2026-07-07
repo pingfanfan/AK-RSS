@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-07T19:20:05Z",
+  "generated_at": "2026-07-07T21:00:17Z",
   "days": [
     {
       "date": "2026-07-07",
-      "total": 10,
+      "total": 11,
       "feeds": [
+        "simonwillison.net (2)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "simonwillison.net · sqlite-utils 4.0, now with database schema migrations",
         "wheresyoured.at · Let AI Burn",
         "daringfireball.net · OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
         "devblogs.microsoft.com/oldnewthing · How did Windows 95 decide that a setup program ran?",
         "pluralistic.net · Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)",
-        "dfarq.homeip.net · Ray Kassar, former Atari CEO",
-        "nesbitt.io · Content addressing in package managers"
+        "dfarq.homeip.net · Ray Kassar, former Atari CEO"
       ],
       "key_points": [
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-        "How did Windows 95 decide that a setup program ran?",
-        "Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)"
-      ],
-      "key_points_zh": [
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-        "How did Windows 95 decide that a setup program ran?",
-        "Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)"
-      ],
-      "key_points_en": [
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-        "How did Windows 95 decide that a setup program ran?",
-        "Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)"
-      ],
-      "tweet_drafts": [
+        "sqlite-utils 4.0, now with database schema migrations",
         "Let AI Burn",
         "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
         "How did Windows 95 decide that a setup program ran?"
       ],
+      "key_points_zh": [
+        "sqlite-utils 4.0, now with database schema migrations",
+        "Let AI Burn",
+        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
+        "How did Windows 95 decide that a setup program ran?"
+      ],
+      "key_points_en": [
+        "sqlite-utils 4.0, now with database schema migrations",
+        "Let AI Burn",
+        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
+        "How did Windows 95 decide that a setup program ran?"
+      ],
+      "tweet_drafts": [
+        "sqlite-utils 4.0, now with database schema migrations",
+        "Let AI Burn",
+        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "sqlite-utils 4.0, now with database schema migrations",
+          "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "Let AI Burn",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
           "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "How did Windows 95 decide that a setup program ran?",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508"
         }
       ],
-      "summary_zh": "2026-07-07 技术日报：Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices；How did Windows 95 decide that a setup program ran?。",
-      "summary_en": "Daily brief (2026-07-07): Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices; How did Windows 95 decide that a setup program ran?.",
+      "summary_zh": "2026-07-07 技术日报：sqlite-utils 4.0, now with database schema migrations；Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices。",
+      "summary_en": "Daily brief (2026-07-07): sqlite-utils 4.0, now with database schema migrations; Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-07 日报】Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices；How did Windows 95 decide that a setup program ran?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-07): Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices; How did Windows 95 decide that a setup program ran?. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+          "zh": "【2026-07-07 日报】sqlite-utils 4.0, now with database schema migrations；Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-07): sqlite-utils 4.0, now with database schema migrations; Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices. Actionable takeaways included. What would you ship next? #AI #Engineering"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-07）\n- Let AI Burn\n- OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices\n- How did Windows 95 decide that a setup program ran?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/let-ai-burn/\n- https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/\n- https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-07)\n- Let AI Burn\n- OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices\n- How did Windows 95 decide that a setup program ran?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/let-ai-burn/\n- https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/\n- https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-07）\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n- OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n- https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-07)\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n- OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n- https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices；How did Windows 95 decide that a setup program ran?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices; How did Windows 95 decide that a setup program ran?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：sqlite-utils 4.0, now with database schema migrations；Let AI Burn；OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: sqlite-utils 4.0, now with database schema migrations; Let AI Burn; OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1760,8 +1760,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -1912,8 +1912,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
