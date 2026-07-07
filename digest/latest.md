@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-07 12:12:39 UTC
+Generated at: 2026-07-07 15:21:03 UTC
 
-- [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html) (`nesbitt.io`)
-- [Ray Kassar, former Atari CEO](https://dfarq.homeip.net/ray-kassar-former-atari-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=ray-kassar-former-atari-ceo) (`dfarq.homeip.net`)
-- [Kort geding aandeelhouders Solvinity](https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/) (`berthub.eu`)
+- [How did Windows 95 decide that a setup program ran?](https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508) (`devblogs.microsoft.com/oldnewthing`)
+- [Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)](https://pluralistic.net/2026/07/07/going-global/) (`pluralistic.net`)
