@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-07-07T23:26:20Z",
+  "generated_at": "2026-07-08T08:02:49Z",
   "days": [
+    {
+      "date": "2026-07-08",
+      "total": 2,
+      "feeds": [
+        "idiallo.com (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "idiallo.com · And Then the Billionaire Paid Off $550 Million of Our Debts",
+        "utcc.utoronto.ca/~cks · Notes on pulling from multiple upstream Git mirrors"
+      ],
+      "key_points": [
+        "And Then the Billionaire Paid Off $550 Million of Our Debts",
+        "Notes on pulling from multiple upstream Git mirrors"
+      ],
+      "key_points_zh": [
+        "And Then the Billionaire Paid Off $550 Million of Our Debts",
+        "Notes on pulling from multiple upstream Git mirrors"
+      ],
+      "key_points_en": [
+        "And Then the Billionaire Paid Off $550 Million of Our Debts",
+        "Notes on pulling from multiple upstream Git mirrors"
+      ],
+      "tweet_drafts": [
+        "And Then the Billionaire Paid Off $550 Million of Our Debts",
+        "Notes on pulling from multiple upstream Git mirrors"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "And Then the Billionaire Paid Off $550 Million of Our Debts",
+          "link": "https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts"
+        },
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "Notes on pulling from multiple upstream Git mirrors",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors"
+        }
+      ],
+      "summary_zh": "2026-07-08 技术日报：And Then the Billionaire Paid Off $550 Million of Our Debts；Notes on pulling from multiple upstream Git mirrors。",
+      "summary_en": "Daily brief (2026-07-08): And Then the Billionaire Paid Off $550 Million of Our Debts; Notes on pulling from multiple upstream Git mirrors.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-08 日报】And Then the Billionaire Paid Off $550 Million of Our Debts；Notes on pulling from multiple upstream Git mirrors。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-08): And Then the Billionaire Paid Off $550 Million of Our Debts; Notes on pulling from multiple upstream Git mirrors. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-08）\n- And Then the Billionaire Paid Off $550 Million of Our Debts\n- Notes on pulling from multiple upstream Git mirrors\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-08)\n- And Then the Billionaire Paid Off $550 Million of Our Debts\n- Notes on pulling from multiple upstream Git mirrors\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：And Then the Billionaire Paid Off $550 Million of Our Debts；Notes on pulling from multiple upstream Git mirrors。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: And Then the Billionaire Paid Off $550 Million of Our Debts; Notes on pulling from multiple upstream Git mirrors.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-07-07",
       "total": 12,
@@ -1228,8 +1284,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -2197,82 +2253,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：A Record-Breaking Patch Tuesday for June 2026；Setting a custom price for a model in AgentsView；Apple OS 27: The Small Things。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: A Record-Breaking Patch Tuesday for June 2026; Setting a custom price for a model in AgentsView; Apple OS 27: The Small Things.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "total": 15,
-      "feeds": [
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "entropicthoughts.com (1)",
-        "filfre.net (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · LLMs and almost good code",
-        "idiallo.com · ppclp.ai announces 100x Productivity Gains",
-        "dwarkesh.com · The sample efficiency black hole",
-        "wheresyoured.at · AI Is Slowing Down",
-        "filfre.net · Planescape: Torment, Part 2: …to the Desktop",
-        "devblogs.microsoft.com/oldnewthing · Rotation revisited: Shuffling more than three blocks, and other small notes"
-      ],
-      "key_points": [
-        "LLMs and almost good code",
-        "ppclp.ai announces 100x Productivity Gains",
-        "The sample efficiency black hole",
-        "AI Is Slowing Down"
-      ],
-      "key_points_zh": [
-        "LLMs and almost good code",
-        "ppclp.ai announces 100x Productivity Gains",
-        "The sample efficiency black hole",
-        "AI Is Slowing Down"
-      ],
-      "key_points_en": [
-        "LLMs and almost good code",
-        "ppclp.ai announces 100x Productivity Gains",
-        "The sample efficiency black hole",
-        "AI Is Slowing Down"
-      ],
-      "tweet_drafts": [
-        "LLMs and almost good code",
-        "ppclp.ai announces 100x Productivity Gains",
-        "The sample efficiency black hole"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "LLMs and almost good code",
-          "link": "https://entropicthoughts.com/llms-and-almost-good-code"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "ppclp.ai announces 100x Productivity Gains",
-          "link": "https://idiallo.com/blog/100x-productivity-gain"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "The sample efficiency black hole",
-          "link": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole"
-        }
-      ],
-      "summary_zh": "2026-06-08 技术日报：LLMs and almost good code；ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole。",
-      "summary_en": "Daily brief (2026-06-08): LLMs and almost good code; ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-08 日报】LLMs and almost good code；ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-08): LLMs and almost good code; ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-08）\n- LLMs and almost good code\n- ppclp.ai announces 100x Productivity Gains\n- The sample efficiency black hole\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/llms-and-almost-good-code\n- https://idiallo.com/blog/100x-productivity-gain\n- https://www.dwarkesh.com/p/the-sample-efficiency-black-hole\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-08)\n- LLMs and almost good code\n- ppclp.ai announces 100x Productivity Gains\n- The sample efficiency black hole\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/llms-and-almost-good-code\n- https://idiallo.com/blog/100x-productivity-gain\n- https://www.dwarkesh.com/p/the-sample-efficiency-black-hole\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：LLMs and almost good code；ppclp.ai announces 100x Productivity Gains；The sample efficiency black hole。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: LLMs and almost good code; ppclp.ai announces 100x Productivity Gains; The sample efficiency black hole.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
