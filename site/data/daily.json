@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T19:01:25Z",
+  "generated_at": "2026-07-08T20:40:15Z",
   "days": [
     {
       "date": "2026-07-08",
-      "total": 12,
+      "total": 15,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "blog.jim-nielsen.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
@@ -13,67 +13,67 @@
         "idiallo.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Kenton Varda",
+        "daringfireball.net · ‘Searching for SmarterChild’ Kickstarter",
         "blog.jim-nielsen.com · Family Feud: Mac-assed Mac App Edition",
         "daringfireball.net · My Conversation With ELIZA",
         "experimental-history.com · The Decline of Deviance 2",
-        "daringfireball.net · App Icon Conventions From the Original Macintosh",
-        "devblogs.microsoft.com/oldnewthing · The other kind of control flow guard check: The combined validate and call",
-        "jeffgeerling.com · The Special Value Pi 4 was extremely short-lived"
+        "daringfireball.net · App Icon Conventions From the Original Macintosh"
       ],
       "key_points": [
+        "Quoting Kenton Varda",
+        "‘Searching for SmarterChild’ Kickstarter",
         "Family Feud: Mac-assed Mac App Edition",
-        "My Conversation With ELIZA",
-        "The Decline of Deviance 2",
-        "App Icon Conventions From the Original Macintosh"
+        "My Conversation With ELIZA"
       ],
       "key_points_zh": [
+        "Quoting Kenton Varda",
+        "‘Searching for SmarterChild’ Kickstarter",
         "Family Feud: Mac-assed Mac App Edition",
-        "My Conversation With ELIZA",
-        "The Decline of Deviance 2",
-        "App Icon Conventions From the Original Macintosh"
+        "My Conversation With ELIZA"
       ],
       "key_points_en": [
+        "Quoting Kenton Varda",
+        "‘Searching for SmarterChild’ Kickstarter",
         "Family Feud: Mac-assed Mac App Edition",
-        "My Conversation With ELIZA",
-        "The Decline of Deviance 2",
-        "App Icon Conventions From the Original Macintosh"
+        "My Conversation With ELIZA"
       ],
       "tweet_drafts": [
-        "Family Feud: Mac-assed Mac App Edition",
-        "My Conversation With ELIZA",
-        "The Decline of Deviance 2"
+        "Quoting Kenton Varda",
+        "‘Searching for SmarterChild’ Kickstarter",
+        "Family Feud: Mac-assed Mac App Edition"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Kenton Varda",
+          "link": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "‘Searching for SmarterChild’ Kickstarter",
+          "link": "https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator"
+        },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Family Feud: Mac-assed Mac App Edition",
           "link": "https://blog.jim-nielsen.com/2026/mac-assed-family-feud/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "My Conversation With ELIZA",
-          "link": "https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0"
-        },
-        {
-          "feed_title": "experimental-history.com",
-          "title": "The Decline of Deviance 2",
-          "link": "https://www.experimental-history.com/p/the-decline-of-deviance-2"
         }
       ],
-      "summary_zh": "2026-07-08 技术日报：Family Feud: Mac-assed Mac App Edition；My Conversation With ELIZA；The Decline of Deviance 2。",
-      "summary_en": "Daily brief (2026-07-08): Family Feud: Mac-assed Mac App Edition; My Conversation With ELIZA; The Decline of Deviance 2.",
+      "summary_zh": "2026-07-08 技术日报：Quoting Kenton Varda；‘Searching for SmarterChild’ Kickstarter；Family Feud: Mac-assed Mac App Edition。",
+      "summary_en": "Daily brief (2026-07-08): Quoting Kenton Varda; ‘Searching for SmarterChild’ Kickstarter; Family Feud: Mac-assed Mac App Edition.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-08 日报】Family Feud: Mac-assed Mac App Edition；My Conversation With ELIZA；The Decline of Deviance 2。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-08): Family Feud: Mac-assed Mac App Edition; My Conversation With ELIZA; The Decline of Deviance 2. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-08 日报】Quoting Kenton Varda；‘Searching for SmarterChild’ Kickstarter；Family Feud: Mac-assed Mac App Edition。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-08): Quoting Kenton Varda; ‘Searching for SmarterChild’ Kickstarter; Family Feud: Mac-assed Mac App Edition. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-08）\n- Family Feud: Mac-assed Mac App Edition\n- My Conversation With ELIZA\n- The Decline of Deviance 2\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/mac-assed-family-feud/\n- https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0\n- https://www.experimental-history.com/p/the-decline-of-deviance-2\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-08)\n- Family Feud: Mac-assed Mac App Edition\n- My Conversation With ELIZA\n- The Decline of Deviance 2\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/mac-assed-family-feud/\n- https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0\n- https://www.experimental-history.com/p/the-decline-of-deviance-2\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-08）\n- Quoting Kenton Varda\n- ‘Searching for SmarterChild’ Kickstarter\n- Family Feud: Mac-assed Mac App Edition\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything\n- https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator\n- https://blog.jim-nielsen.com/2026/mac-assed-family-feud/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-08)\n- Quoting Kenton Varda\n- ‘Searching for SmarterChild’ Kickstarter\n- Family Feud: Mac-assed Mac App Edition\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything\n- https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator\n- https://blog.jim-nielsen.com/2026/mac-assed-family-feud/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Family Feud: Mac-assed Mac App Edition；My Conversation With ELIZA；The Decline of Deviance 2。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Family Feud: Mac-assed Mac App Edition; My Conversation With ELIZA; The Decline of Deviance 2.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Kenton Varda；‘Searching for SmarterChild’ Kickstarter；Family Feud: Mac-assed Mac App Edition。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Kenton Varda; ‘Searching for SmarterChild’ Kickstarter; Family Feud: Mac-assed Mac App Edition.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1304,8 +1304,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1988,8 +1988,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
