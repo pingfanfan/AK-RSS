@@ -1,59 +1,75 @@
 {
-  "generated_at": "2026-07-08T10:32:41Z",
+  "generated_at": "2026-07-08T12:11:03Z",
   "days": [
     {
       "date": "2026-07-08",
-      "total": 2,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "idiallo.com (1)",
+        "shkspr.mobi (1)",
         "utcc.utoronto.ca/~cks (1)"
       ],
       "highlights": [
+        "shkspr.mobi · A bug which only affected left-handed users",
+        "dfarq.homeip.net · How Donkey Kong toppled Atari",
         "idiallo.com · And Then the Billionaire Paid Off $550 Million of Our Debts",
         "utcc.utoronto.ca/~cks · Notes on pulling from multiple upstream Git mirrors"
       ],
       "key_points": [
+        "A bug which only affected left-handed users",
+        "How Donkey Kong toppled Atari",
         "And Then the Billionaire Paid Off $550 Million of Our Debts",
         "Notes on pulling from multiple upstream Git mirrors"
       ],
       "key_points_zh": [
+        "A bug which only affected left-handed users",
+        "How Donkey Kong toppled Atari",
         "And Then the Billionaire Paid Off $550 Million of Our Debts",
         "Notes on pulling from multiple upstream Git mirrors"
       ],
       "key_points_en": [
+        "A bug which only affected left-handed users",
+        "How Donkey Kong toppled Atari",
         "And Then the Billionaire Paid Off $550 Million of Our Debts",
         "Notes on pulling from multiple upstream Git mirrors"
       ],
       "tweet_drafts": [
-        "And Then the Billionaire Paid Off $550 Million of Our Debts",
-        "Notes on pulling from multiple upstream Git mirrors"
+        "A bug which only affected left-handed users",
+        "How Donkey Kong toppled Atari",
+        "And Then the Billionaire Paid Off $550 Million of Our Debts"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "A bug which only affected left-handed users",
+          "link": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "How Donkey Kong toppled Atari",
+          "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-donkey-kong-toppled-atari"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "And Then the Billionaire Paid Off $550 Million of Our Debts",
           "link": "https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Notes on pulling from multiple upstream Git mirrors",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors"
         }
       ],
-      "summary_zh": "2026-07-08 技术日报：And Then the Billionaire Paid Off $550 Million of Our Debts；Notes on pulling from multiple upstream Git mirrors。",
-      "summary_en": "Daily brief (2026-07-08): And Then the Billionaire Paid Off $550 Million of Our Debts; Notes on pulling from multiple upstream Git mirrors.",
+      "summary_zh": "2026-07-08 技术日报：A bug which only affected left-handed users；How Donkey Kong toppled Atari；And Then the Billionaire Paid Off $550 Million of Our Debts。",
+      "summary_en": "Daily brief (2026-07-08): A bug which only affected left-handed users; How Donkey Kong toppled Atari; And Then the Billionaire Paid Off $550 Million of Our Debts.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-08 日报】And Then the Billionaire Paid Off $550 Million of Our Debts；Notes on pulling from multiple upstream Git mirrors。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-08): And Then the Billionaire Paid Off $550 Million of Our Debts; Notes on pulling from multiple upstream Git mirrors. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-08 日报】A bug which only affected left-handed users；How Donkey Kong toppled Atari；And Then the Billionaire Paid Off $550 Million of Our Debts。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-08): A bug which only affected left-handed users; How Donkey Kong toppled Atari; And Then the Billionaire Paid Off $550 Million of Our Debts. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-08）\n- And Then the Billionaire Paid Off $550 Million of Our Debts\n- Notes on pulling from multiple upstream Git mirrors\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-08)\n- And Then the Billionaire Paid Off $550 Million of Our Debts\n- Notes on pulling from multiple upstream Git mirrors\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts\n- https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-08）\n- A bug which only affected left-handed users\n- How Donkey Kong toppled Atari\n- And Then the Billionaire Paid Off $550 Million of Our Debts\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/\n- https://dfarq.homeip.net/how-donkey-kong-toppled-atari/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-donkey-kong-toppled-atari\n- https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-08)\n- A bug which only affected left-handed users\n- How Donkey Kong toppled Atari\n- And Then the Billionaire Paid Off $550 Million of Our Debts\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/\n- https://dfarq.homeip.net/how-donkey-kong-toppled-atari/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=how-donkey-kong-toppled-atari\n- https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：And Then the Billionaire Paid Off $550 Million of Our Debts；Notes on pulling from multiple upstream Git mirrors。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: And Then the Billionaire Paid Off $550 Million of Our Debts; Notes on pulling from multiple upstream Git mirrors.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A bug which only affected left-handed users；How Donkey Kong toppled Atari；And Then the Billionaire Paid Off $550 Million of Our Debts。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A bug which only affected left-handed users; How Donkey Kong toppled Atari; And Then the Billionaire Paid Off $550 Million of Our Debts.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1284,8 +1300,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -1968,8 +1984,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · You can finally power on a Mac remotely",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
+        "jeffgeerling.com · You can finally power on a Mac remotely"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
