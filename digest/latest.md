@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-09 18:46:34 UTC
+Generated at: 2026-07-09 20:29:55 UTC
 
-- [Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H) (`daringfireball.net`)
-- [Boxed In](https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints) (`tedium.co`)
+- [The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) (`simonwillison.net`)
+- [Today’s the Day OpenAI Fucked Up the ChatGPT Mac App](https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/) (`daringfireball.net`)
