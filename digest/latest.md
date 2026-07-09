@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-09 16:57:57 UTC
+Generated at: 2026-07-09 18:46:34 UTC
 
-- [Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) (`simonwillison.net`)
+- [Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H) (`daringfireball.net`)
+- [Boxed In](https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints) (`tedium.co`)

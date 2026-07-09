@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T16:58:12Z",
+  "generated_at": "2026-07-09T18:46:48Z",
   "days": [
     {
       "date": "2026-07-09",
-      "total": 10,
+      "total": 12,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
@@ -13,37 +13,42 @@
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "tedium.co · Boxed In",
         "simonwillison.net · Introducing Muse Spark 1.1",
         "daringfireball.net · Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
+        "daringfireball.net · Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
         "devblogs.microsoft.com/oldnewthing · I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
-        "dfarq.homeip.net · Monorail: Pioneering $999 PCs from 1996",
-        "nesbitt.io · Unboxed: Zig",
-        "pluralistic.net · Pluralistic: Post-political (09 Jul 2026)"
+        "dfarq.homeip.net · Monorail: Pioneering $999 PCs from 1996"
       ],
       "key_points": [
-        "Introducing Muse Spark 1.1",
-        "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
-        "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
-        "Monorail: Pioneering $999 PCs from 1996"
-      ],
-      "key_points_zh": [
-        "Introducing Muse Spark 1.1",
-        "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
-        "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
-        "Monorail: Pioneering $999 PCs from 1996"
-      ],
-      "key_points_en": [
-        "Introducing Muse Spark 1.1",
-        "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
-        "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
-        "Monorail: Pioneering $999 PCs from 1996"
-      ],
-      "tweet_drafts": [
+        "Boxed In",
         "Introducing Muse Spark 1.1",
         "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
         "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error"
       ],
+      "key_points_zh": [
+        "Boxed In",
+        "Introducing Muse Spark 1.1",
+        "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
+        "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error"
+      ],
+      "key_points_en": [
+        "Boxed In",
+        "Introducing Muse Spark 1.1",
+        "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
+        "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error"
+      ],
+      "tweet_drafts": [
+        "Boxed In",
+        "Introducing Muse Spark 1.1",
+        "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI"
+      ],
       "sources": [
+        {
+          "feed_title": "tedium.co",
+          "title": "Boxed In",
+          "link": "https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Introducing Muse Spark 1.1",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI",
           "link": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512"
         }
       ],
-      "summary_zh": "2026-07-09 技术日报：Introducing Muse Spark 1.1；Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI；I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error。",
-      "summary_en": "Daily brief (2026-07-09): Introducing Muse Spark 1.1; Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI; I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error.",
+      "summary_zh": "2026-07-09 技术日报：Boxed In；Introducing Muse Spark 1.1；Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI。",
+      "summary_en": "Daily brief (2026-07-09): Boxed In; Introducing Muse Spark 1.1; Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-09 日报】Introducing Muse Spark 1.1；Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI；I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-09): Introducing Muse Spark 1.1; Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI; I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error. Actionable takeaways included. What w"
+          "zh": "【2026-07-09 日报】Boxed In；Introducing Muse Spark 1.1；Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-09): Boxed In; Introducing Muse Spark 1.1; Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-09）\n- Introducing Muse Spark 1.1\n- Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI\n- I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything\n- https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html\n- https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-09)\n- Introducing Muse Spark 1.1\n- Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI\n- I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything\n- https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html\n- https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-09）\n- Boxed In\n- Introducing Muse Spark 1.1\n- Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints\n- https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything\n- https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-09)\n- Boxed In\n- Introducing Muse Spark 1.1\n- Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints\n- https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything\n- https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Introducing Muse Spark 1.1；Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI；I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Introducing Muse Spark 1.1; Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI; I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Boxed In；Introducing Muse Spark 1.1；Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Boxed In; Introducing Muse Spark 1.1; Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1912,8 +1912,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
