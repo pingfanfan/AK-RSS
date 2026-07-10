@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-07-09T23:02:50Z",
+  "generated_at": "2026-07-10T08:54:57Z",
   "days": [
     {
+      "date": "2026-07-10",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)",
+        "utcc.utoronto.ca/~cks (1)"
+      ],
+      "highlights": [
+        "utcc.utoronto.ca/~cks · An unusual way for your DHCP server to run out of dynamic IPs",
+        "simonwillison.net · Quoting OpenAI",
+        "daringfireball.net · Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI"
+      ],
+      "key_points": [
+        "An unusual way for your DHCP server to run out of dynamic IPs",
+        "Quoting OpenAI",
+        "Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI"
+      ],
+      "key_points_zh": [
+        "An unusual way for your DHCP server to run out of dynamic IPs",
+        "Quoting OpenAI",
+        "Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI"
+      ],
+      "key_points_en": [
+        "An unusual way for your DHCP server to run out of dynamic IPs",
+        "Quoting OpenAI",
+        "Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI"
+      ],
+      "tweet_drafts": [
+        "An unusual way for your DHCP server to run out of dynamic IPs",
+        "Quoting OpenAI",
+        "Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI"
+      ],
+      "sources": [
+        {
+          "feed_title": "utcc.utoronto.ca/~cks",
+          "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting OpenAI",
+          "link": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI",
+          "link": "https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe"
+        }
+      ],
+      "summary_zh": "2026-07-10 技术日报：An unusual way for your DHCP server to run out of dynamic IPs；Quoting OpenAI；Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI。",
+      "summary_en": "Daily brief (2026-07-10): An unusual way for your DHCP server to run out of dynamic IPs; Quoting OpenAI; Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-10 日报】An unusual way for your DHCP server to run out of dynamic IPs；Quoting OpenAI；Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-10): An unusual way for your DHCP server to run out of dynamic IPs; Quoting OpenAI; Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-10）\n- An unusual way for your DHCP server to run out of dynamic IPs\n- Quoting OpenAI\n- Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost\n- https://simonwillison.net/2026/Jul/10/openai/#atom-everything\n- https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-10)\n- An unusual way for your DHCP server to run out of dynamic IPs\n- Quoting OpenAI\n- Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost\n- https://simonwillison.net/2026/Jul/10/openai/#atom-everything\n- https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：An unusual way for your DHCP server to run out of dynamic IPs；Quoting OpenAI；Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: An unusual way for your DHCP server to run out of dynamic IPs; Quoting OpenAI; Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-07-09",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "daringfireball.net (4)",
         "simonwillison.net (3)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "maurycyz.com (1)",
+        "nesbitt.io (1)"
       ],
       "highlights": [
         "daringfireball.net · Today’s the Day OpenAI Fucked Up the ChatGPT Mac App",
@@ -1912,8 +1979,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
+        "computer.rip · from hookswitch to grave",
+        "maurycyz.com · Arp 185:"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
@@ -2064,8 +2131,8 @@
         "simonwillison.net · Quoting Andrew Singleton",
         "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
+        "jeffgeerling.com · You can finally power on a Mac remotely",
+        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?"
       ],
       "key_points": [
         "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
@@ -2197,82 +2264,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’；Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film；datasette 1.0a33。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’; Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film; datasette 1.0a33.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-10",
-      "total": 15,
-      "feeds": [
-        "simonwillison.net (3)",
-        "utcc.utoronto.ca/~cks (2)",
-        "blog.jim-nielsen.com (1)",
-        "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "utcc.utoronto.ca/~cks · My Firefox addons as of Firefox 151 (and the current development version)",
-        "idiallo.com · Please, use a link!",
-        "simonwillison.net · DiffusionGemma",
-        "blog.jim-nielsen.com · Being “Good” at Things",
-        "simonwillison.net · Quoting Jeremy Howard",
-        "krebsonsecurity.com · Who Runs the Ransomware Group ‘The Gentlemen?’"
-      ],
-      "key_points": [
-        "My Firefox addons as of Firefox 151 (and the current development version)",
-        "Please, use a link!",
-        "DiffusionGemma",
-        "Being “Good” at Things"
-      ],
-      "key_points_zh": [
-        "My Firefox addons as of Firefox 151 (and the current development version)",
-        "Please, use a link!",
-        "DiffusionGemma",
-        "Being “Good” at Things"
-      ],
-      "key_points_en": [
-        "My Firefox addons as of Firefox 151 (and the current development version)",
-        "Please, use a link!",
-        "DiffusionGemma",
-        "Being “Good” at Things"
-      ],
-      "tweet_drafts": [
-        "My Firefox addons as of Firefox 151 (and the current development version)",
-        "Please, use a link!",
-        "DiffusionGemma"
-      ],
-      "sources": [
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "My Firefox addons as of Firefox 151 (and the current development version)",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Please, use a link!",
-          "link": "https://idiallo.com/blog/use-a-link-please"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "DiffusionGemma",
-          "link": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-06-10 技术日报：My Firefox addons as of Firefox 151 (and the current development version)；Please, use a link!；DiffusionGemma。",
-      "summary_en": "Daily brief (2026-06-10): My Firefox addons as of Firefox 151 (and the current development version); Please, use a link!; DiffusionGemma.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-10 日报】My Firefox addons as of Firefox 151 (and the current development version)；Please, use a link!；DiffusionGemma。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-10): My Firefox addons as of Firefox 151 (and the current development version); Please, use a link!; DiffusionGemma. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-10）\n- My Firefox addons as of Firefox 151 (and the current development version)\n- Please, use a link!\n- DiffusionGemma\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons\n- https://idiallo.com/blog/use-a-link-please\n- https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-10)\n- My Firefox addons as of Firefox 151 (and the current development version)\n- Please, use a link!\n- DiffusionGemma\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons\n- https://idiallo.com/blog/use-a-link-please\n- https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：My Firefox addons as of Firefox 151 (and the current development version)；Please, use a link!；DiffusionGemma。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: My Firefox addons as of Firefox 151 (and the current development version); Please, use a link!; DiffusionGemma.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
