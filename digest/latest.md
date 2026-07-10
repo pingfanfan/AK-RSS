@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-10 08:54:43 UTC
+Generated at: 2026-07-10 11:39:18 UTC
 
-- [Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) (`simonwillison.net`)
-- [Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe) (`daringfireball.net`)
-- [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost) (`utcc.utoronto.ca/~cks`)
-- [The Tadpole galaxy:](https://maurycyz.com/astro/arp188/) (`maurycyz.com`)
+- [Game Review: Lovers In A Dangerous Spacetime ★★★☆☆](https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/) (`shkspr.mobi`)
+- [Gary Kildall’s death investigation](https://dfarq.homeip.net/gary-kildalls-death-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=gary-kildalls-death-investigation) (`dfarq.homeip.net`)
+- [Pluralistic: "Rights for robots" and the AI slavery fantasy (10 Jul 2026)](https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/) (`pluralistic.net`)
