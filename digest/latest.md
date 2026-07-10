@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-10 13:48:56 UTC
+Generated at: 2026-07-10 16:10:28 UTC
 
-- [Package Management as Org Chart](https://nesbitt.io/2026/07/10/package-management-as-org-chart.html) (`nesbitt.io`)
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) (`jeffgeerling.com`)
+- [The case of the mysterious changes to integers when there shouldn’t have been any code generation effect](https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514) (`devblogs.microsoft.com/oldnewthing`)
