@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-11 17:26:50 UTC
+Generated at: 2026-07-11 18:12:58 UTC
 
-- [Prefer STRICT tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) (`evanhahn.com`)
+- [Gurman on Tang Tan and Paul Meade](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple) (`daringfireball.net`)
+- [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html) (`geohot.github.io`)
