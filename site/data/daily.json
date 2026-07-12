@@ -1,49 +1,99 @@
 {
-  "generated_at": "2026-07-11T22:34:34Z",
+  "generated_at": "2026-07-12T07:53:14Z",
   "days": [
     {
-      "date": "2026-07-11",
-      "total": 13,
+      "date": "2026-07-12",
+      "total": 1,
       "feeds": [
-        "daringfireball.net (4)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · sqlite-utils 4.1"
+      ],
+      "key_points": [
+        "sqlite-utils 4.1"
+      ],
+      "key_points_zh": [
+        "sqlite-utils 4.1"
+      ],
+      "key_points_en": [
+        "sqlite-utils 4.1"
+      ],
+      "tweet_drafts": [
+        "sqlite-utils 4.1"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "sqlite-utils 4.1",
+          "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-07-12 技术日报：sqlite-utils 4.1。",
+      "summary_en": "Daily brief (2026-07-12): sqlite-utils 4.1.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-12 日报】sqlite-utils 4.1。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-12): sqlite-utils 4.1. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-12）\n- sqlite-utils 4.1\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-12)\n- sqlite-utils 4.1\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：sqlite-utils 4.1。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: sqlite-utils 4.1.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "total": 15,
+      "feeds": [
+        "daringfireball.net (5)",
         "berthub.eu (1)",
         "construction-physics.com (1)",
         "eli.thegreenplace.net (1)",
         "evanhahn.com (1)",
-        "geohot.github.io (1)"
+        "fabiensanglard.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Can Someone Explain to Me How to Get ‘ChatGPT Classic’?",
         "daringfireball.net · OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
         "johndcook.com · Progress on Gilbreath’s conjecture",
         "daringfireball.net · ★ Exactly Like Om Malik",
         "daringfireball.net · Gurman on Tang Tan and Paul Meade",
-        "construction-physics.com · Reading List 07/11/26",
-        "berthub.eu · Goede geluiden over digitale autonomie"
+        "construction-physics.com · Reading List 07/11/26"
       ],
       "key_points": [
-        "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
-        "Progress on Gilbreath’s conjecture",
-        "★ Exactly Like Om Malik",
-        "Gurman on Tang Tan and Paul Meade"
-      ],
-      "key_points_zh": [
-        "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
-        "Progress on Gilbreath’s conjecture",
-        "★ Exactly Like Om Malik",
-        "Gurman on Tang Tan and Paul Meade"
-      ],
-      "key_points_en": [
-        "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
-        "Progress on Gilbreath’s conjecture",
-        "★ Exactly Like Om Malik",
-        "Gurman on Tang Tan and Paul Meade"
-      ],
-      "tweet_drafts": [
+        "Can Someone Explain to Me How to Get ‘ChatGPT Classic’?",
         "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
         "Progress on Gilbreath’s conjecture",
         "★ Exactly Like Om Malik"
       ],
+      "key_points_zh": [
+        "Can Someone Explain to Me How to Get ‘ChatGPT Classic’?",
+        "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
+        "Progress on Gilbreath’s conjecture",
+        "★ Exactly Like Om Malik"
+      ],
+      "key_points_en": [
+        "Can Someone Explain to Me How to Get ‘ChatGPT Classic’?",
+        "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
+        "Progress on Gilbreath’s conjecture",
+        "★ Exactly Like Om Malik"
+      ],
+      "tweet_drafts": [
+        "Can Someone Explain to Me How to Get ‘ChatGPT Classic’?",
+        "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
+        "Progress on Gilbreath’s conjecture"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Can Someone Explain to Me How to Get ‘ChatGPT Classic’?",
+          "link": "https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "OpenAI Help Center Describes What Is Wrong With the New ChatGPT",
@@ -53,27 +103,22 @@
           "feed_title": "johndcook.com",
           "title": "Progress on Gilbreath’s conjecture",
           "link": "https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ Exactly Like Om Malik",
-          "link": "https://daringfireball.net/2026/07/exactly_like_om_malik"
         }
       ],
-      "summary_zh": "2026-07-11 技术日报：OpenAI Help Center Describes What Is Wrong With the New ChatGPT；Progress on Gilbreath’s conjecture；★ Exactly Like Om Malik。",
-      "summary_en": "Daily brief (2026-07-11): OpenAI Help Center Describes What Is Wrong With the New ChatGPT; Progress on Gilbreath’s conjecture; ★ Exactly Like Om Malik.",
+      "summary_zh": "2026-07-11 技术日报：Can Someone Explain to Me How to Get ‘ChatGPT Classic’?；OpenAI Help Center Describes What Is Wrong With the New ChatGPT；Progress on Gilbreath’s conjecture。",
+      "summary_en": "Daily brief (2026-07-11): Can Someone Explain to Me How to Get ‘ChatGPT Classic’?; OpenAI Help Center Describes What Is Wrong With the New ChatGPT; Progress on Gilbreath’s conjecture.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-11 日报】OpenAI Help Center Describes What Is Wrong With the New ChatGPT；Progress on Gilbreath’s conjecture；★ Exactly Like Om Malik。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-11): OpenAI Help Center Describes What Is Wrong With the New ChatGPT; Progress on Gilbreath’s conjecture; ★ Exactly Like Om Malik. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-11 日报】Can Someone Explain to Me How to Get ‘ChatGPT Classic’?；OpenAI Help Center Describes What Is Wrong With the New ChatGPT；Progress on Gilbreath’s conjecture。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-11): Can Someone Explain to Me How to Get ‘ChatGPT Classic’?; OpenAI Help Center Describes What Is Wrong With the New ChatGPT; Progress on Gilbreath’s conjecture. Actionable takeaways included. What would you ship next? #AI #Engineering #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-11）\n- OpenAI Help Center Describes What Is Wrong With the New ChatGPT\n- Progress on Gilbreath’s conjecture\n- ★ Exactly Like Om Malik\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\n- https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/\n- https://daringfireball.net/2026/07/exactly_like_om_malik\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-11)\n- OpenAI Help Center Describes What Is Wrong With the New ChatGPT\n- Progress on Gilbreath’s conjecture\n- ★ Exactly Like Om Malik\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\n- https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/\n- https://daringfireball.net/2026/07/exactly_like_om_malik\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-11）\n- Can Someone Explain to Me How to Get ‘ChatGPT Classic’?\n- OpenAI Help Center Describes What Is Wrong With the New ChatGPT\n- Progress on Gilbreath’s conjecture\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app\n- https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\n- https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-11)\n- Can Someone Explain to Me How to Get ‘ChatGPT Classic’?\n- OpenAI Help Center Describes What Is Wrong With the New ChatGPT\n- Progress on Gilbreath’s conjecture\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app\n- https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex\n- https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：OpenAI Help Center Describes What Is Wrong With the New ChatGPT；Progress on Gilbreath’s conjecture；★ Exactly Like Om Malik。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: OpenAI Help Center Describes What Is Wrong With the New ChatGPT; Progress on Gilbreath’s conjecture; ★ Exactly Like Om Malik.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Can Someone Explain to Me How to Get ‘ChatGPT Classic’?；OpenAI Help Center Describes What Is Wrong With the New ChatGPT；Progress on Gilbreath’s conjecture。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Can Someone Explain to Me How to Get ‘ChatGPT Classic’?; OpenAI Help Center Describes What Is Wrong With the New ChatGPT; Progress on Gilbreath’s conjecture.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -94,7 +139,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
+        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -1532,8 +1577,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
@@ -2197,82 +2242,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：RSA munitions T-shirt；Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)；Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: RSA munitions T-shirt; Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026); Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-12",
-      "total": 15,
-      "feeds": [
-        "nesbitt.io (2)",
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "filfre.net (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "pluralistic.net · Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-        "simonwillison.net · Quoting Andrew Singleton",
-        "wheresyoured.at · Premium: The Silicon Valley Bubble (Part 1)",
-        "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · How can I schedule work on a thread pool with low latency?",
-        "jeffgeerling.com · You can finally power on a Mac remotely"
-      ],
-      "key_points": [
-        "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-        "Quoting Andrew Singleton",
-        "Premium: The Silicon Valley Bubble (Part 1)",
-        "This Week on The Analog Antiquarian"
-      ],
-      "key_points_zh": [
-        "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-        "Quoting Andrew Singleton",
-        "Premium: The Silicon Valley Bubble (Part 1)",
-        "This Week on The Analog Antiquarian"
-      ],
-      "key_points_en": [
-        "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-        "Quoting Andrew Singleton",
-        "Premium: The Silicon Valley Bubble (Part 1)",
-        "This Week on The Analog Antiquarian"
-      ],
-      "tweet_drafts": [
-        "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-        "Quoting Andrew Singleton",
-        "Premium: The Silicon Valley Bubble (Part 1)"
-      ],
-      "sources": [
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-          "link": "https://pluralistic.net/2026/06/12/compelled-speech/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Andrew Singleton",
-          "link": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Premium: The Silicon Valley Bubble (Part 1)",
-          "link": "https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/"
-        }
-      ],
-      "summary_zh": "2026-06-12 技术日报：Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)；Quoting Andrew Singleton；Premium: The Silicon Valley Bubble (Part 1)。",
-      "summary_en": "Daily brief (2026-06-12): Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026); Quoting Andrew Singleton; Premium: The Silicon Valley Bubble (Part 1).",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-12 日报】Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)；Quoting Andrew Singleton；Premium: The Silicon Valley Bubble (Part 1)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-12): Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026); Quoting Andrew Singleton; Premium: The Silicon Valley Bubble (Part 1). Actionable takeaways included. Wh"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-12）\n- Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)\n- Quoting Andrew Singleton\n- Premium: The Silicon Valley Bubble (Part 1)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/06/12/compelled-speech/\n- https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything\n- https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-12)\n- Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)\n- Quoting Andrew Singleton\n- Premium: The Silicon Valley Bubble (Part 1)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/06/12/compelled-speech/\n- https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything\n- https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)；Quoting Andrew Singleton；Premium: The Silicon Valley Bubble (Part 1)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026); Quoting Andrew Singleton; Premium: The Silicon Valley Bubble (Part 1).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
