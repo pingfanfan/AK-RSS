@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-12T20:38:43Z",
+  "generated_at": "2026-07-12T21:36:47Z",
   "days": [
     {
       "date": "2026-07-12",
-      "total": 9,
+      "total": 11,
       "feeds": [
-        "daringfireball.net (4)",
+        "daringfireball.net (5)",
         "johndcook.com (2)",
+        "simonwillison.net (2)",
         "geohot.github.io (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "simonwillison.net · Fable gets another bump",
+        "daringfireball.net · Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
         "daringfireball.net · How UIs Degrade Over Time",
         "johndcook.com · Posterior variance",
         "daringfireball.net · TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement",
-        "johndcook.com · Posterior mean",
-        "daringfireball.net · Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam",
-        "daringfireball.net · Stacks — HyperCard Player for Modern MacOS"
+        "johndcook.com · Posterior mean"
       ],
       "key_points": [
+        "Fable gets another bump",
+        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
         "How UIs Degrade Over Time",
-        "Posterior variance",
-        "TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement",
-        "Posterior mean"
+        "Posterior variance"
       ],
       "key_points_zh": [
+        "Fable gets another bump",
+        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
         "How UIs Degrade Over Time",
-        "Posterior variance",
-        "TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement",
-        "Posterior mean"
+        "Posterior variance"
       ],
       "key_points_en": [
+        "Fable gets another bump",
+        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
         "How UIs Degrade Over Time",
-        "Posterior variance",
-        "TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement",
-        "Posterior mean"
+        "Posterior variance"
       ],
       "tweet_drafts": [
-        "How UIs Degrade Over Time",
-        "Posterior variance",
-        "TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement"
+        "Fable gets another bump",
+        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
+        "How UIs Degrade Over Time"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Fable gets another bump",
+          "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
+          "link": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "How UIs Degrade Over Time",
           "link": "https://grumpy.website/1723"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Posterior variance",
-          "link": "https://www.johndcook.com/blog/2026/07/12/posterior-variance/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement",
-          "link": "https://github.com/insidegui/TwoMillionKit"
         }
       ],
-      "summary_zh": "2026-07-12 技术日报：How UIs Degrade Over Time；Posterior variance；TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement。",
-      "summary_en": "Daily brief (2026-07-12): How UIs Degrade Over Time; Posterior variance; TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement.",
+      "summary_zh": "2026-07-12 技术日报：Fable gets another bump；Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’；How UIs Degrade Over Time。",
+      "summary_en": "Daily brief (2026-07-12): Fable gets another bump; Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’; How UIs Degrade Over Time.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-12 日报】How UIs Degrade Over Time；Posterior variance；TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-12): How UIs Degrade Over Time; Posterior variance; TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-12 日报】Fable gets another bump；Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’；How UIs Degrade Over Time。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-12): Fable gets another bump; Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’; How UIs Degrade Over Time. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-12）\n- How UIs Degrade Over Time\n- Posterior variance\n- TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://grumpy.website/1723\n- https://www.johndcook.com/blog/2026/07/12/posterior-variance/\n- https://github.com/insidegui/TwoMillionKit\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-12)\n- How UIs Degrade Over Time\n- Posterior variance\n- TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://grumpy.website/1723\n- https://www.johndcook.com/blog/2026/07/12/posterior-variance/\n- https://github.com/insidegui/TwoMillionKit\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-12）\n- Fable gets another bump\n- Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’\n- How UIs Degrade Over Time\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/12/bump/#atom-everything\n- https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/\n- https://grumpy.website/1723\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-12)\n- Fable gets another bump\n- Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’\n- How UIs Degrade Over Time\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/12/bump/#atom-everything\n- https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/\n- https://grumpy.website/1723\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How UIs Degrade Over Time；Posterior variance；TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How UIs Degrade Over Time; Posterior variance; TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Fable gets another bump；Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’；How UIs Degrade Over Time。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Fable gets another bump; Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’; How UIs Degrade Over Time.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -169,7 +169,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -2139,8 +2139,8 @@
         "eli.thegreenplace.net · Plugins case study: Pluggy",
         "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
         "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "computer.rip · from hookswitch to grave",
-        "maurycyz.com · Arp 185:"
+        "maurycyz.com · Arp 185:",
+        "computer.rip · from hookswitch to grave"
       ],
       "key_points": [
         "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
