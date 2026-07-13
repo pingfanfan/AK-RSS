@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-13 08:39:50 UTC
+Generated at: 2026-07-13 11:46:41 UTC
 
-- [Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) (`simonwillison.net`)
-- [What’s an Icon in 2026?](https://blog.jim-nielsen.com/2026/icons-as-software/) (`blog.jim-nielsen.com`)
-- [Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)](https://pluralistic.net/2026/07/13/go-meta-meta/) (`pluralistic.net`)
+- [Code Red worm, July 13, 2001](https://dfarq.homeip.net/code-red-worm-july-13-2001/?utm_source=rss&utm_medium=rss&utm_campaign=code-red-worm-july-13-2001) (`dfarq.homeip.net`)
+- [Control the ideas, not the code](http://antirez.com/news/169) (`antirez.com`)
