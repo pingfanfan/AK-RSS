@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-13T21:41:17Z",
+  "generated_at": "2026-07-13T22:41:36Z",
   "days": [
     {
       "date": "2026-07-13",
-      "total": 9,
+      "total": 10,
       "feeds": [
+        "simonwillison.net (2)",
         "antirez.com (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "krebsonsecurity.com (1)",
-        "micahflee.com (1)"
+        "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · DOOMQL",
         "micahflee.com · Mandatory Update: A Short Story",
         "daringfireball.net · Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
         "krebsonsecurity.com · Lessons Learned from CISA’s Recent GitHub Leak",
         "devblogs.microsoft.com/oldnewthing · Why don’t we just make the entire stack out of guard pages?",
-        "antirez.com · Control the ideas, not the code",
-        "shkspr.mobi · [RSS Club] Half a million steps is about 10 marathons"
+        "antirez.com · Control the ideas, not the code"
       ],
       "key_points": [
-        "Mandatory Update: A Short Story",
-        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
-        "Lessons Learned from CISA’s Recent GitHub Leak",
-        "Why don’t we just make the entire stack out of guard pages?"
-      ],
-      "key_points_zh": [
-        "Mandatory Update: A Short Story",
-        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
-        "Lessons Learned from CISA’s Recent GitHub Leak",
-        "Why don’t we just make the entire stack out of guard pages?"
-      ],
-      "key_points_en": [
-        "Mandatory Update: A Short Story",
-        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
-        "Lessons Learned from CISA’s Recent GitHub Leak",
-        "Why don’t we just make the entire stack out of guard pages?"
-      ],
-      "tweet_drafts": [
+        "DOOMQL",
         "Mandatory Update: A Short Story",
         "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
         "Lessons Learned from CISA’s Recent GitHub Leak"
       ],
+      "key_points_zh": [
+        "DOOMQL",
+        "Mandatory Update: A Short Story",
+        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
+        "Lessons Learned from CISA’s Recent GitHub Leak"
+      ],
+      "key_points_en": [
+        "DOOMQL",
+        "Mandatory Update: A Short Story",
+        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
+        "Lessons Learned from CISA’s Recent GitHub Leak"
+      ],
+      "tweet_drafts": [
+        "DOOMQL",
+        "Mandatory Update: A Short Story",
+        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "DOOMQL",
+          "link": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything"
+        },
         {
           "feed_title": "micahflee.com",
           "title": "Mandatory Update: A Short Story",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
           "link": "https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/"
-        },
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-          "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/"
         }
       ],
-      "summary_zh": "2026-07-13 技术日报：Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?；Lessons Learned from CISA’s Recent GitHub Leak。",
-      "summary_en": "Daily brief (2026-07-13): Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?; Lessons Learned from CISA’s Recent GitHub Leak.",
+      "summary_zh": "2026-07-13 技术日报：DOOMQL；Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?。",
+      "summary_en": "Daily brief (2026-07-13): DOOMQL; Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-13 日报】Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?；Lessons Learned from CISA’s Recent GitHub Leak。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-13): Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?; Lessons Learned from CISA’s Recent GitHub Leak. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
+          "zh": "【2026-07-13 日报】DOOMQL；Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-13): DOOMQL; Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-13）\n- Mandatory Update: A Short Story\n- Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?\n- Lessons Learned from CISA’s Recent GitHub Leak\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://micahflee.com/mandatory-update-a-short-story/\n- https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/\n- https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-13)\n- Mandatory Update: A Short Story\n- Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?\n- Lessons Learned from CISA’s Recent GitHub Leak\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://micahflee.com/mandatory-update-a-short-story/\n- https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/\n- https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-13）\n- DOOMQL\n- Mandatory Update: A Short Story\n- Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/13/doomql/#atom-everything\n- https://micahflee.com/mandatory-update-a-short-story/\n- https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-13)\n- DOOMQL\n- Mandatory Update: A Short Story\n- Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/13/doomql/#atom-everything\n- https://micahflee.com/mandatory-update-a-short-story/\n- https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?；Lessons Learned from CISA’s Recent GitHub Leak。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?; Lessons Learned from CISA’s Recent GitHub Leak.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：DOOMQL；Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: DOOMQL; Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1684,8 +1684,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
