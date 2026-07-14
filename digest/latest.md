@@ -1,7 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-14 17:37:39 UTC
+Generated at: 2026-07-14 18:56:18 UTC
 
-- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) (`lucumr.pocoo.org`)
-- [Presigned URLs are technically a security vuln](https://www.tigrisdata.com/blog/presigned-urls-security-vuln/) (`xeiaso.net`)
-- [I'm still alive](https://buttondown.com/hillelwayne/archive/im-still-alive/) (`buttondown.com/hillelwayne`)
+- [Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything) (`simonwillison.net`)

@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-14T17:37:53Z",
+  "generated_at": "2026-07-14T18:56:32Z",
   "days": [
     {
       "date": "2026-07-14",
-      "total": 11,
+      "total": 12,
       "feeds": [
+        "simonwillison.net (2)",
         "buttondown.com/hillelwayne (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "dynomight.net (1)",
-        "johndcook.com (1)"
+        "dynomight.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting Armin Ronacher",
         "buttondown.com/hillelwayne · I'm still alive",
         "johndcook.com · ICD-10 chapters and code letters",
         "devblogs.microsoft.com/oldnewthing · Microspeak: Double-click and drill down",
         "shkspr.mobi · I'm a USB-C Maximalist",
-        "pluralistic.net · Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
-        "dfarq.homeip.net · Nintendo Famicom and the secret of Nintendo’s success"
+        "pluralistic.net · Pluralistic: Gerontocracy's failure mode (14 Jul 2026)"
       ],
       "key_points": [
-        "I'm still alive",
-        "ICD-10 chapters and code letters",
-        "Microspeak: Double-click and drill down",
-        "I'm a USB-C Maximalist"
-      ],
-      "key_points_zh": [
-        "I'm still alive",
-        "ICD-10 chapters and code letters",
-        "Microspeak: Double-click and drill down",
-        "I'm a USB-C Maximalist"
-      ],
-      "key_points_en": [
-        "I'm still alive",
-        "ICD-10 chapters and code letters",
-        "Microspeak: Double-click and drill down",
-        "I'm a USB-C Maximalist"
-      ],
-      "tweet_drafts": [
+        "Quoting Armin Ronacher",
         "I'm still alive",
         "ICD-10 chapters and code letters",
         "Microspeak: Double-click and drill down"
       ],
+      "key_points_zh": [
+        "Quoting Armin Ronacher",
+        "I'm still alive",
+        "ICD-10 chapters and code letters",
+        "Microspeak: Double-click and drill down"
+      ],
+      "key_points_en": [
+        "Quoting Armin Ronacher",
+        "I'm still alive",
+        "ICD-10 chapters and code letters",
+        "Microspeak: Double-click and drill down"
+      ],
+      "tweet_drafts": [
+        "Quoting Armin Ronacher",
+        "I'm still alive",
+        "ICD-10 chapters and code letters"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Armin Ronacher",
+          "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything"
+        },
         {
           "feed_title": "buttondown.com/hillelwayne",
           "title": "I'm still alive",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "ICD-10 chapters and code letters",
           "link": "https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Microspeak: Double-click and drill down",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532"
         }
       ],
-      "summary_zh": "2026-07-14 技术日报：I'm still alive；ICD-10 chapters and code letters；Microspeak: Double-click and drill down。",
-      "summary_en": "Daily brief (2026-07-14): I'm still alive; ICD-10 chapters and code letters; Microspeak: Double-click and drill down.",
+      "summary_zh": "2026-07-14 技术日报：Quoting Armin Ronacher；I'm still alive；ICD-10 chapters and code letters。",
+      "summary_en": "Daily brief (2026-07-14): Quoting Armin Ronacher; I'm still alive; ICD-10 chapters and code letters.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-14 日报】I'm still alive；ICD-10 chapters and code letters；Microspeak: Double-click and drill down。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-14): I'm still alive; ICD-10 chapters and code letters; Microspeak: Double-click and drill down. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-14 日报】Quoting Armin Ronacher；I'm still alive；ICD-10 chapters and code letters。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-14): Quoting Armin Ronacher; I'm still alive; ICD-10 chapters and code letters. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-14）\n- I'm still alive\n- ICD-10 chapters and code letters\n- Microspeak: Double-click and drill down\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://buttondown.com/hillelwayne/archive/im-still-alive/\n- https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/\n- https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-14)\n- I'm still alive\n- ICD-10 chapters and code letters\n- Microspeak: Double-click and drill down\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://buttondown.com/hillelwayne/archive/im-still-alive/\n- https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/\n- https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-14）\n- Quoting Armin Ronacher\n- I'm still alive\n- ICD-10 chapters and code letters\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n- https://buttondown.com/hillelwayne/archive/im-still-alive/\n- https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-14)\n- Quoting Armin Ronacher\n- I'm still alive\n- ICD-10 chapters and code letters\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n- https://buttondown.com/hillelwayne/archive/im-still-alive/\n- https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：I'm still alive；ICD-10 chapters and code letters；Microspeak: Double-click and drill down。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: I'm still alive; ICD-10 chapters and code letters; Microspeak: Double-click and drill down.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting Armin Ronacher；I'm still alive；ICD-10 chapters and code letters。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Armin Ronacher; I'm still alive; ICD-10 chapters and code letters.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -322,7 +322,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
