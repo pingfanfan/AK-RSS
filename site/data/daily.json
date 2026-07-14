@@ -1,17 +1,19 @@
 {
-  "generated_at": "2026-07-14T11:14:49Z",
+  "generated_at": "2026-07-14T12:43:37Z",
   "days": [
     {
       "date": "2026-07-14",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "pluralistic.net (1)",
         "seangoedecke.com (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · I'm a USB-C Maximalist",
         "pluralistic.net · Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
         "dfarq.homeip.net · Nintendo Famicom and the secret of Nintendo’s success",
         "daringfireball.net · [Sponsor] Paper",
@@ -19,29 +21,34 @@
         "seangoedecke.com · What does \"playing politics\" mean for software engineers?"
       ],
       "key_points": [
-        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
-        "Nintendo Famicom and the secret of Nintendo’s success",
-        "[Sponsor] Paper",
-        "Using uvx in GitHub Actions in a cache-friendly way"
-      ],
-      "key_points_zh": [
-        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
-        "Nintendo Famicom and the secret of Nintendo’s success",
-        "[Sponsor] Paper",
-        "Using uvx in GitHub Actions in a cache-friendly way"
-      ],
-      "key_points_en": [
-        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
-        "Nintendo Famicom and the secret of Nintendo’s success",
-        "[Sponsor] Paper",
-        "Using uvx in GitHub Actions in a cache-friendly way"
-      ],
-      "tweet_drafts": [
+        "I'm a USB-C Maximalist",
         "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
         "Nintendo Famicom and the secret of Nintendo’s success",
         "[Sponsor] Paper"
       ],
+      "key_points_zh": [
+        "I'm a USB-C Maximalist",
+        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "Nintendo Famicom and the secret of Nintendo’s success",
+        "[Sponsor] Paper"
+      ],
+      "key_points_en": [
+        "I'm a USB-C Maximalist",
+        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "Nintendo Famicom and the secret of Nintendo’s success",
+        "[Sponsor] Paper"
+      ],
+      "tweet_drafts": [
+        "I'm a USB-C Maximalist",
+        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "Nintendo Famicom and the secret of Nintendo’s success"
+      ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "I'm a USB-C Maximalist",
+          "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
@@ -51,27 +58,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "Nintendo Famicom and the secret of Nintendo’s success",
           "link": "https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] Paper",
-          "link": "https://paper.design/?utm_source=df"
         }
       ],
-      "summary_zh": "2026-07-14 技术日报：Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success；[Sponsor] Paper。",
-      "summary_en": "Daily brief (2026-07-14): Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success; [Sponsor] Paper.",
+      "summary_zh": "2026-07-14 技术日报：I'm a USB-C Maximalist；Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success。",
+      "summary_en": "Daily brief (2026-07-14): I'm a USB-C Maximalist; Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-14 日报】Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success；[Sponsor] Paper。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-14): Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success; [Sponsor] Paper. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-14 日报】I'm a USB-C Maximalist；Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-14): I'm a USB-C Maximalist; Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-14）\n- Pluralistic: Gerontocracy's failure mode (14 Jul 2026)\n- Nintendo Famicom and the secret of Nintendo’s success\n- [Sponsor] Paper\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/07/14/designated-survivor/\n- https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success\n- https://paper.design/?utm_source=df\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-14)\n- Pluralistic: Gerontocracy's failure mode (14 Jul 2026)\n- Nintendo Famicom and the secret of Nintendo’s success\n- [Sponsor] Paper\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/07/14/designated-survivor/\n- https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success\n- https://paper.design/?utm_source=df\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-14）\n- I'm a USB-C Maximalist\n- Pluralistic: Gerontocracy's failure mode (14 Jul 2026)\n- Nintendo Famicom and the secret of Nintendo’s success\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/\n- https://pluralistic.net/2026/07/14/designated-survivor/\n- https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-14)\n- I'm a USB-C Maximalist\n- Pluralistic: Gerontocracy's failure mode (14 Jul 2026)\n- Nintendo Famicom and the secret of Nintendo’s success\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/\n- https://pluralistic.net/2026/07/14/designated-survivor/\n- https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success；[Sponsor] Paper。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success; [Sponsor] Paper.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：I'm a USB-C Maximalist；Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: I'm a USB-C Maximalist; Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
