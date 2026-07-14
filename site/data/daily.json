@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T18:56:32Z",
+  "generated_at": "2026-07-14T20:04:01Z",
   "days": [
     {
       "date": "2026-07-14",
-      "total": 12,
+      "total": 14,
       "feeds": [
-        "simonwillison.net (2)",
+        "simonwillison.net (3)",
         "buttondown.com/hillelwayne (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,67 +13,67 @@
         "dynomight.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · lobste.rs is now running on SQLite",
+        "krebsonsecurity.com · Microsoft Patches a Record 570 Security Flaws",
         "simonwillison.net · Quoting Armin Ronacher",
         "buttondown.com/hillelwayne · I'm still alive",
         "johndcook.com · ICD-10 chapters and code letters",
-        "devblogs.microsoft.com/oldnewthing · Microspeak: Double-click and drill down",
-        "shkspr.mobi · I'm a USB-C Maximalist",
-        "pluralistic.net · Pluralistic: Gerontocracy's failure mode (14 Jul 2026)"
+        "devblogs.microsoft.com/oldnewthing · Microspeak: Double-click and drill down"
       ],
       "key_points": [
+        "lobste.rs is now running on SQLite",
+        "Microsoft Patches a Record 570 Security Flaws",
         "Quoting Armin Ronacher",
-        "I'm still alive",
-        "ICD-10 chapters and code letters",
-        "Microspeak: Double-click and drill down"
+        "I'm still alive"
       ],
       "key_points_zh": [
+        "lobste.rs is now running on SQLite",
+        "Microsoft Patches a Record 570 Security Flaws",
         "Quoting Armin Ronacher",
-        "I'm still alive",
-        "ICD-10 chapters and code letters",
-        "Microspeak: Double-click and drill down"
+        "I'm still alive"
       ],
       "key_points_en": [
+        "lobste.rs is now running on SQLite",
+        "Microsoft Patches a Record 570 Security Flaws",
         "Quoting Armin Ronacher",
-        "I'm still alive",
-        "ICD-10 chapters and code letters",
-        "Microspeak: Double-click and drill down"
+        "I'm still alive"
       ],
       "tweet_drafts": [
-        "Quoting Armin Ronacher",
-        "I'm still alive",
-        "ICD-10 chapters and code letters"
+        "lobste.rs is now running on SQLite",
+        "Microsoft Patches a Record 570 Security Flaws",
+        "Quoting Armin Ronacher"
       ],
       "sources": [
         {
           "feed_title": "simonwillison.net",
+          "title": "lobste.rs is now running on SQLite",
+          "link": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
+        },
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "Microsoft Patches a Record 570 Security Flaws",
+          "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
+        },
+        {
+          "feed_title": "simonwillison.net",
           "title": "Quoting Armin Ronacher",
           "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything"
-        },
-        {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "I'm still alive",
-          "link": "https://buttondown.com/hillelwayne/archive/im-still-alive/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "ICD-10 chapters and code letters",
-          "link": "https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/"
         }
       ],
-      "summary_zh": "2026-07-14 技术日报：Quoting Armin Ronacher；I'm still alive；ICD-10 chapters and code letters。",
-      "summary_en": "Daily brief (2026-07-14): Quoting Armin Ronacher; I'm still alive; ICD-10 chapters and code letters.",
+      "summary_zh": "2026-07-14 技术日报：lobste.rs is now running on SQLite；Microsoft Patches a Record 570 Security Flaws；Quoting Armin Ronacher。",
+      "summary_en": "Daily brief (2026-07-14): lobste.rs is now running on SQLite; Microsoft Patches a Record 570 Security Flaws; Quoting Armin Ronacher.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-14 日报】Quoting Armin Ronacher；I'm still alive；ICD-10 chapters and code letters。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-14): Quoting Armin Ronacher; I'm still alive; ICD-10 chapters and code letters. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-14 日报】lobste.rs is now running on SQLite；Microsoft Patches a Record 570 Security Flaws；Quoting Armin Ronacher。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-14): lobste.rs is now running on SQLite; Microsoft Patches a Record 570 Security Flaws; Quoting Armin Ronacher. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-14）\n- Quoting Armin Ronacher\n- I'm still alive\n- ICD-10 chapters and code letters\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n- https://buttondown.com/hillelwayne/archive/im-still-alive/\n- https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-14)\n- Quoting Armin Ronacher\n- I'm still alive\n- ICD-10 chapters and code letters\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n- https://buttondown.com/hillelwayne/archive/im-still-alive/\n- https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-14）\n- lobste.rs is now running on SQLite\n- Microsoft Patches a Record 570 Security Flaws\n- Quoting Armin Ronacher\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n- https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-14)\n- lobste.rs is now running on SQLite\n- Microsoft Patches a Record 570 Security Flaws\n- Quoting Armin Ronacher\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n- https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Armin Ronacher；I'm still alive；ICD-10 chapters and code letters。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Armin Ronacher; I'm still alive; ICD-10 chapters and code letters.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：lobste.rs is now running on SQLite；Microsoft Patches a Record 570 Security Flaws；Quoting Armin Ronacher。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: lobste.rs is now running on SQLite; Microsoft Patches a Record 570 Security Flaws; Quoting Armin Ronacher.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
