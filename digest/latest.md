@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-14 12:43:21 UTC
+Generated at: 2026-07-14 14:30:47 UTC
 
-- [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/) (`shkspr.mobi`)
+- [Microspeak: Double-click and drill down](https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532) (`devblogs.microsoft.com/oldnewthing`)
+- [ICD-10 chapters and code letters](https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/) (`johndcook.com`)
