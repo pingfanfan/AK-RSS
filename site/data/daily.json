@@ -1,59 +1,77 @@
 {
-  "generated_at": "2026-07-14T09:42:12Z",
+  "generated_at": "2026-07-14T11:14:49Z",
   "days": [
     {
       "date": "2026-07-14",
-      "total": 2,
+      "total": 5,
       "feeds": [
         "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
+        "pluralistic.net (1)",
+        "seangoedecke.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "dfarq.homeip.net · Nintendo Famicom and the secret of Nintendo’s success",
         "daringfireball.net · [Sponsor] Paper",
-        "simonwillison.net · Using uvx in GitHub Actions in a cache-friendly way"
+        "simonwillison.net · Using uvx in GitHub Actions in a cache-friendly way",
+        "seangoedecke.com · What does \"playing politics\" mean for software engineers?"
       ],
       "key_points": [
+        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "Nintendo Famicom and the secret of Nintendo’s success",
         "[Sponsor] Paper",
         "Using uvx in GitHub Actions in a cache-friendly way"
       ],
       "key_points_zh": [
+        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "Nintendo Famicom and the secret of Nintendo’s success",
         "[Sponsor] Paper",
         "Using uvx in GitHub Actions in a cache-friendly way"
       ],
       "key_points_en": [
+        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "Nintendo Famicom and the secret of Nintendo’s success",
         "[Sponsor] Paper",
         "Using uvx in GitHub Actions in a cache-friendly way"
       ],
       "tweet_drafts": [
-        "[Sponsor] Paper",
-        "Using uvx in GitHub Actions in a cache-friendly way"
+        "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "Nintendo Famicom and the secret of Nintendo’s success",
+        "[Sponsor] Paper"
       ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+          "link": "https://pluralistic.net/2026/07/14/designated-survivor/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Nintendo Famicom and the secret of Nintendo’s success",
+          "link": "https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "[Sponsor] Paper",
           "link": "https://paper.design/?utm_source=df"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Using uvx in GitHub Actions in a cache-friendly way",
-          "link": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-14 技术日报：[Sponsor] Paper；Using uvx in GitHub Actions in a cache-friendly way。",
-      "summary_en": "Daily brief (2026-07-14): [Sponsor] Paper; Using uvx in GitHub Actions in a cache-friendly way.",
+      "summary_zh": "2026-07-14 技术日报：Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success；[Sponsor] Paper。",
+      "summary_en": "Daily brief (2026-07-14): Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success; [Sponsor] Paper.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-14 日报】[Sponsor] Paper；Using uvx in GitHub Actions in a cache-friendly way。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-14): [Sponsor] Paper; Using uvx in GitHub Actions in a cache-friendly way. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-14 日报】Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success；[Sponsor] Paper。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-14): Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success; [Sponsor] Paper. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-14）\n- [Sponsor] Paper\n- Using uvx in GitHub Actions in a cache-friendly way\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://paper.design/?utm_source=df\n- https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-14)\n- [Sponsor] Paper\n- Using uvx in GitHub Actions in a cache-friendly way\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://paper.design/?utm_source=df\n- https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-14）\n- Pluralistic: Gerontocracy's failure mode (14 Jul 2026)\n- Nintendo Famicom and the secret of Nintendo’s success\n- [Sponsor] Paper\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/07/14/designated-survivor/\n- https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success\n- https://paper.design/?utm_source=df\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-14)\n- Pluralistic: Gerontocracy's failure mode (14 Jul 2026)\n- Nintendo Famicom and the secret of Nintendo’s success\n- [Sponsor] Paper\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/07/14/designated-survivor/\n- https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success\n- https://paper.design/?utm_source=df\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] Paper；Using uvx in GitHub Actions in a cache-friendly way。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] Paper; Using uvx in GitHub Actions in a cache-friendly way.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: Gerontocracy's failure mode (14 Jul 2026)；Nintendo Famicom and the secret of Nintendo’s success；[Sponsor] Paper。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Gerontocracy's failure mode (14 Jul 2026); Nintendo Famicom and the secret of Nintendo’s success; [Sponsor] Paper.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -302,7 +320,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
+        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -1740,8 +1758,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
