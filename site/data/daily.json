@@ -1,47 +1,103 @@
 {
-  "generated_at": "2026-07-13T22:41:36Z",
+  "generated_at": "2026-07-14T07:41:40Z",
   "days": [
     {
+      "date": "2026-07-14",
+      "total": 2,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · [Sponsor] Paper",
+        "simonwillison.net · Using uvx in GitHub Actions in a cache-friendly way"
+      ],
+      "key_points": [
+        "[Sponsor] Paper",
+        "Using uvx in GitHub Actions in a cache-friendly way"
+      ],
+      "key_points_zh": [
+        "[Sponsor] Paper",
+        "Using uvx in GitHub Actions in a cache-friendly way"
+      ],
+      "key_points_en": [
+        "[Sponsor] Paper",
+        "Using uvx in GitHub Actions in a cache-friendly way"
+      ],
+      "tweet_drafts": [
+        "[Sponsor] Paper",
+        "Using uvx in GitHub Actions in a cache-friendly way"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] Paper",
+          "link": "https://paper.design/?utm_source=df"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Using uvx in GitHub Actions in a cache-friendly way",
+          "link": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-07-14 技术日报：[Sponsor] Paper；Using uvx in GitHub Actions in a cache-friendly way。",
+      "summary_en": "Daily brief (2026-07-14): [Sponsor] Paper; Using uvx in GitHub Actions in a cache-friendly way.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-14 日报】[Sponsor] Paper；Using uvx in GitHub Actions in a cache-friendly way。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-14): [Sponsor] Paper; Using uvx in GitHub Actions in a cache-friendly way. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-14）\n- [Sponsor] Paper\n- Using uvx in GitHub Actions in a cache-friendly way\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://paper.design/?utm_source=df\n- https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-14)\n- [Sponsor] Paper\n- Using uvx in GitHub Actions in a cache-friendly way\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://paper.design/?utm_source=df\n- https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：[Sponsor] Paper；Using uvx in GitHub Actions in a cache-friendly way。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: [Sponsor] Paper; Using uvx in GitHub Actions in a cache-friendly way.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-07-13",
-      "total": 10,
+      "total": 12,
       "feeds": [
         "simonwillison.net (2)",
         "antirez.com (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "krebsonsecurity.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
         "simonwillison.net · DOOMQL",
+        "entropicthoughts.com · Intuition for distribution differences",
         "micahflee.com · Mandatory Update: A Short Story",
         "daringfireball.net · Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
         "krebsonsecurity.com · Lessons Learned from CISA’s Recent GitHub Leak",
-        "devblogs.microsoft.com/oldnewthing · Why don’t we just make the entire stack out of guard pages?",
-        "antirez.com · Control the ideas, not the code"
+        "devblogs.microsoft.com/oldnewthing · Why don’t we just make the entire stack out of guard pages?"
       ],
       "key_points": [
         "DOOMQL",
+        "Intuition for distribution differences",
         "Mandatory Update: A Short Story",
-        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
-        "Lessons Learned from CISA’s Recent GitHub Leak"
+        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?"
       ],
       "key_points_zh": [
         "DOOMQL",
+        "Intuition for distribution differences",
         "Mandatory Update: A Short Story",
-        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
-        "Lessons Learned from CISA’s Recent GitHub Leak"
+        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?"
       ],
       "key_points_en": [
         "DOOMQL",
+        "Intuition for distribution differences",
         "Mandatory Update: A Short Story",
-        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
-        "Lessons Learned from CISA’s Recent GitHub Leak"
+        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?"
       ],
       "tweet_drafts": [
         "DOOMQL",
-        "Mandatory Update: A Short Story",
-        "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?"
+        "Intuition for distribution differences",
+        "Mandatory Update: A Short Story"
       ],
       "sources": [
         {
@@ -50,30 +106,30 @@
           "link": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything"
         },
         {
+          "feed_title": "entropicthoughts.com",
+          "title": "Intuition for distribution differences",
+          "link": "https://entropicthoughts.com/distribution-differences"
+        },
+        {
           "feed_title": "micahflee.com",
           "title": "Mandatory Update: A Short Story",
           "link": "https://micahflee.com/mandatory-update-a-short-story/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
-          "link": "https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/"
         }
       ],
-      "summary_zh": "2026-07-13 技术日报：DOOMQL；Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?。",
-      "summary_en": "Daily brief (2026-07-13): DOOMQL; Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?.",
+      "summary_zh": "2026-07-13 技术日报：DOOMQL；Intuition for distribution differences；Mandatory Update: A Short Story。",
+      "summary_en": "Daily brief (2026-07-13): DOOMQL; Intuition for distribution differences; Mandatory Update: A Short Story.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-13 日报】DOOMQL；Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-13): DOOMQL; Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-13 日报】DOOMQL；Intuition for distribution differences；Mandatory Update: A Short Story。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-13): DOOMQL; Intuition for distribution differences; Mandatory Update: A Short Story. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-13）\n- DOOMQL\n- Mandatory Update: A Short Story\n- Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/13/doomql/#atom-everything\n- https://micahflee.com/mandatory-update-a-short-story/\n- https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-13)\n- DOOMQL\n- Mandatory Update: A Short Story\n- Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/13/doomql/#atom-everything\n- https://micahflee.com/mandatory-update-a-short-story/\n- https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-13）\n- DOOMQL\n- Intuition for distribution differences\n- Mandatory Update: A Short Story\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/13/doomql/#atom-everything\n- https://entropicthoughts.com/distribution-differences\n- https://micahflee.com/mandatory-update-a-short-story/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-13)\n- DOOMQL\n- Intuition for distribution differences\n- Mandatory Update: A Short Story\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/13/doomql/#atom-everything\n- https://entropicthoughts.com/distribution-differences\n- https://micahflee.com/mandatory-update-a-short-story/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：DOOMQL；Mandatory Update: A Short Story；Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: DOOMQL; Mandatory Update: A Short Story; Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：DOOMQL；Intuition for distribution differences；Mandatory Update: A Short Story。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: DOOMQL; Intuition for distribution differences; Mandatory Update: A Short Story.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2197,82 +2253,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Lean, not backpressure；Quaternion Rotations, Claude, and Lean；AI's Brokenomics。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Lean, not backpressure; Quaternion Rotations, Claude, and Lean; AI's Brokenomics.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "total": 7,
-      "feeds": [
-        "computer.rip (1)",
-        "eli.thegreenplace.net (1)",
-        "maurycyz.com (1)",
-        "oldvcr.blogspot.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
-      ],
-      "highlights": [
-        "shkspr.mobi · Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
-        "eli.thegreenplace.net · Plugins case study: Pluggy",
-        "utcc.utoronto.ca/~cks · Linux distribution packaging and third party 'package' systems",
-        "oldvcr.blogspot.com · Building a serial and VGA \"everything console\"",
-        "maurycyz.com · Arp 185:",
-        "computer.rip · from hookswitch to grave"
-      ],
-      "key_points": [
-        "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
-        "Plugins case study: Pluggy",
-        "Linux distribution packaging and third party 'package' systems",
-        "Building a serial and VGA \"everything console\""
-      ],
-      "key_points_zh": [
-        "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
-        "Plugins case study: Pluggy",
-        "Linux distribution packaging and third party 'package' systems",
-        "Building a serial and VGA \"everything console\""
-      ],
-      "key_points_en": [
-        "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
-        "Plugins case study: Pluggy",
-        "Linux distribution packaging and third party 'package' systems",
-        "Building a serial and VGA \"everything console\""
-      ],
-      "tweet_drafts": [
-        "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
-        "Plugins case study: Pluggy",
-        "Linux distribution packaging and third party 'package' systems"
-      ],
-      "sources": [
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?",
-          "link": "https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/"
-        },
-        {
-          "feed_title": "eli.thegreenplace.net",
-          "title": "Plugins case study: Pluggy",
-          "link": "https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Linux distribution packaging and third party 'package' systems",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers"
-        }
-      ],
-      "summary_zh": "2026-06-14 技术日报：Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?；Plugins case study: Pluggy；Linux distribution packaging and third party 'package' systems。",
-      "summary_en": "Daily brief (2026-06-14): Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?; Plugins case study: Pluggy; Linux distribution packaging and third party 'package' systems.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-14 日报】Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?；Plugins case study: Pluggy；Linux distribution packaging and third party 'package' systems。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-14): Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?; Plugins case study: Pluggy; Linux distribution packaging and third party 'package' systems. Actionable takeaways included. What would you ship next? #AI #Engine"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-14）\n- Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?\n- Plugins case study: Pluggy\n- Linux distribution packaging and third party 'package' systems\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/\n- https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-14)\n- Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?\n- Plugins case study: Pluggy\n- Linux distribution packaging and third party 'package' systems\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/\n- https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/\n- https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?；Plugins case study: Pluggy；Linux distribution packaging and third party 'package' systems。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Did Frank Sinatra really think \"Something\" was a Lennon/McCartney song?; Plugins case study: Pluggy; Linux distribution packaging and third party 'package' systems.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
