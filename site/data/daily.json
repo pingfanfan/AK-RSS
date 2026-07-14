@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T22:27:59Z",
+  "generated_at": "2026-07-14T23:23:34Z",
   "days": [
     {
       "date": "2026-07-14",
-      "total": 14,
+      "total": 16,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "buttondown.com/hillelwayne (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,67 +13,67 @@
         "dynomight.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · Quoting GitHub Changeling",
+        "idiallo.com · They Prefer the App",
         "simonwillison.net · lobste.rs is now running on SQLite",
         "krebsonsecurity.com · Microsoft Patches a Record 570 Security Flaws",
         "simonwillison.net · Quoting Armin Ronacher",
-        "buttondown.com/hillelwayne · I'm still alive",
-        "johndcook.com · ICD-10 chapters and code letters",
-        "devblogs.microsoft.com/oldnewthing · Microspeak: Double-click and drill down"
+        "buttondown.com/hillelwayne · I'm still alive"
       ],
       "key_points": [
+        "Quoting GitHub Changeling",
+        "They Prefer the App",
         "lobste.rs is now running on SQLite",
-        "Microsoft Patches a Record 570 Security Flaws",
-        "Quoting Armin Ronacher",
-        "I'm still alive"
+        "Microsoft Patches a Record 570 Security Flaws"
       ],
       "key_points_zh": [
+        "Quoting GitHub Changeling",
+        "They Prefer the App",
         "lobste.rs is now running on SQLite",
-        "Microsoft Patches a Record 570 Security Flaws",
-        "Quoting Armin Ronacher",
-        "I'm still alive"
+        "Microsoft Patches a Record 570 Security Flaws"
       ],
       "key_points_en": [
+        "Quoting GitHub Changeling",
+        "They Prefer the App",
         "lobste.rs is now running on SQLite",
-        "Microsoft Patches a Record 570 Security Flaws",
-        "Quoting Armin Ronacher",
-        "I'm still alive"
+        "Microsoft Patches a Record 570 Security Flaws"
       ],
       "tweet_drafts": [
-        "lobste.rs is now running on SQLite",
-        "Microsoft Patches a Record 570 Security Flaws",
-        "Quoting Armin Ronacher"
+        "Quoting GitHub Changeling",
+        "They Prefer the App",
+        "lobste.rs is now running on SQLite"
       ],
       "sources": [
         {
           "feed_title": "simonwillison.net",
-          "title": "lobste.rs is now running on SQLite",
-          "link": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
+          "title": "Quoting GitHub Changeling",
+          "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything"
         },
         {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Microsoft Patches a Record 570 Security Flaws",
-          "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
+          "feed_title": "idiallo.com",
+          "title": "They Prefer the App",
+          "link": "https://idiallo.com/blog/they-prefer-the-app"
         },
         {
           "feed_title": "simonwillison.net",
-          "title": "Quoting Armin Ronacher",
-          "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything"
+          "title": "lobste.rs is now running on SQLite",
+          "link": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-14 技术日报：lobste.rs is now running on SQLite；Microsoft Patches a Record 570 Security Flaws；Quoting Armin Ronacher。",
-      "summary_en": "Daily brief (2026-07-14): lobste.rs is now running on SQLite; Microsoft Patches a Record 570 Security Flaws; Quoting Armin Ronacher.",
+      "summary_zh": "2026-07-14 技术日报：Quoting GitHub Changeling；They Prefer the App；lobste.rs is now running on SQLite。",
+      "summary_en": "Daily brief (2026-07-14): Quoting GitHub Changeling; They Prefer the App; lobste.rs is now running on SQLite.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-14 日报】lobste.rs is now running on SQLite；Microsoft Patches a Record 570 Security Flaws；Quoting Armin Ronacher。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-14): lobste.rs is now running on SQLite; Microsoft Patches a Record 570 Security Flaws; Quoting Armin Ronacher. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-14 日报】Quoting GitHub Changeling；They Prefer the App；lobste.rs is now running on SQLite。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-14): Quoting GitHub Changeling; They Prefer the App; lobste.rs is now running on SQLite. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-14）\n- lobste.rs is now running on SQLite\n- Microsoft Patches a Record 570 Security Flaws\n- Quoting Armin Ronacher\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n- https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-14)\n- lobste.rs is now running on SQLite\n- Microsoft Patches a Record 570 Security Flaws\n- Quoting Armin Ronacher\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n- https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/\n- https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-14）\n- Quoting GitHub Changeling\n- They Prefer the App\n- lobste.rs is now running on SQLite\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything\n- https://idiallo.com/blog/they-prefer-the-app\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-14)\n- Quoting GitHub Changeling\n- They Prefer the App\n- lobste.rs is now running on SQLite\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything\n- https://idiallo.com/blog/they-prefer-the-app\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：lobste.rs is now running on SQLite；Microsoft Patches a Record 570 Security Flaws；Quoting Armin Ronacher。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: lobste.rs is now running on SQLite; Microsoft Patches a Record 570 Security Flaws; Quoting Armin Ronacher.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Quoting GitHub Changeling；They Prefer the App；lobste.rs is now running on SQLite。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting GitHub Changeling; They Prefer the App; lobste.rs is now running on SQLite.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -322,7 +322,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -1760,8 +1760,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
