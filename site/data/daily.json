@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-15T21:49:18Z",
+  "generated_at": "2026-07-15T22:44:54Z",
   "days": [
     {
       "date": "2026-07-15",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "berthub.eu (1)",
+        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
-        "simonwillison.net (1)",
-        "troyhunt.com (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba",
         "wheresyoured.at · The OpenAI Bubble",
         "simonwillison.net · How I tricked Claude into leaking your deepest, darkest secrets",
         "devblogs.microsoft.com/oldnewthing · The case of the invalid function pointer when shutting down the display control panel",
         "dfarq.homeip.net · Reasons for Escom’s bankruptcy",
-        "berthub.eu · Ben je van de IT of niet?",
-        "eli.thegreenplace.net · Notes on the Fourier Transform"
+        "berthub.eu · Ben je van de IT of niet?"
       ],
       "key_points": [
-        "The OpenAI Bubble",
-        "How I tricked Claude into leaking your deepest, darkest secrets",
-        "The case of the invalid function pointer when shutting down the display control panel",
-        "Reasons for Escom’s bankruptcy"
-      ],
-      "key_points_zh": [
-        "The OpenAI Bubble",
-        "How I tricked Claude into leaking your deepest, darkest secrets",
-        "The case of the invalid function pointer when shutting down the display control panel",
-        "Reasons for Escom’s bankruptcy"
-      ],
-      "key_points_en": [
-        "The OpenAI Bubble",
-        "How I tricked Claude into leaking your deepest, darkest secrets",
-        "The case of the invalid function pointer when shutting down the display control panel",
-        "Reasons for Escom’s bankruptcy"
-      ],
-      "tweet_drafts": [
+        "Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba",
         "The OpenAI Bubble",
         "How I tricked Claude into leaking your deepest, darkest secrets",
         "The case of the invalid function pointer when shutting down the display control panel"
       ],
+      "key_points_zh": [
+        "Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba",
+        "The OpenAI Bubble",
+        "How I tricked Claude into leaking your deepest, darkest secrets",
+        "The case of the invalid function pointer when shutting down the display control panel"
+      ],
+      "key_points_en": [
+        "Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba",
+        "The OpenAI Bubble",
+        "How I tricked Claude into leaking your deepest, darkest secrets",
+        "The case of the invalid function pointer when shutting down the display control panel"
+      ],
+      "tweet_drafts": [
+        "Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba",
+        "The OpenAI Bubble",
+        "How I tricked Claude into leaking your deepest, darkest secrets"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba",
+          "link": "https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "The OpenAI Bubble",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "How I tricked Claude into leaking your deepest, darkest secrets",
           "link": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "The case of the invalid function pointer when shutting down the display control panel",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535"
         }
       ],
-      "summary_zh": "2026-07-15 技术日报：The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel。",
-      "summary_en": "Daily brief (2026-07-15): The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel.",
+      "summary_zh": "2026-07-15 技术日报：Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba；The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets。",
+      "summary_en": "Daily brief (2026-07-15): Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba; The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-15 日报】The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-15): The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel. Actionable takeaways included. What would you ship next? #AI #"
+          "zh": "【2026-07-15 日报】Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba；The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-15): Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba; The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets. Actionable takeaways included. What would you ship next? #AI #Eng"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-15）\n- The OpenAI Bubble\n- How I tricked Claude into leaking your deepest, darkest secrets\n- The case of the invalid function pointer when shutting down the display control panel\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-openai-bubble/\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-15)\n- The OpenAI Bubble\n- How I tricked Claude into leaking your deepest, darkest secrets\n- The case of the invalid function pointer when shutting down the display control panel\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-openai-bubble/\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-15）\n- Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba\n- The OpenAI Bubble\n- How I tricked Claude into leaking your deepest, darkest secrets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners\n- https://www.wheresyoured.at/the-openai-bubble/\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-15)\n- Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba\n- The OpenAI Bubble\n- How I tricked Claude into leaking your deepest, darkest secrets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners\n- https://www.wheresyoured.at/the-openai-bubble/\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba；The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba; The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1836,8 +1836,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
