@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-07-14T23:23:34Z",
+  "generated_at": "2026-07-15T07:45:28Z",
   "days": [
+    {
+      "date": "2026-07-15",
+      "total": 2,
+      "feeds": [
+        "eli.thegreenplace.net (1)",
+        "troyhunt.com (1)"
+      ],
+      "highlights": [
+        "eli.thegreenplace.net · Notes on the Fourier Transform",
+        "troyhunt.com · Weekly Update 512: IoT Lockout Fail"
+      ],
+      "key_points": [
+        "Notes on the Fourier Transform",
+        "Weekly Update 512: IoT Lockout Fail"
+      ],
+      "key_points_zh": [
+        "Notes on the Fourier Transform",
+        "Weekly Update 512: IoT Lockout Fail"
+      ],
+      "key_points_en": [
+        "Notes on the Fourier Transform",
+        "Weekly Update 512: IoT Lockout Fail"
+      ],
+      "tweet_drafts": [
+        "Notes on the Fourier Transform",
+        "Weekly Update 512: IoT Lockout Fail"
+      ],
+      "sources": [
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Notes on the Fourier Transform",
+          "link": "https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/"
+        },
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 512: IoT Lockout Fail",
+          "link": "https://www.troyhunt.com/weekly-update-512/"
+        }
+      ],
+      "summary_zh": "2026-07-15 技术日报：Notes on the Fourier Transform；Weekly Update 512: IoT Lockout Fail。",
+      "summary_en": "Daily brief (2026-07-15): Notes on the Fourier Transform; Weekly Update 512: IoT Lockout Fail.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-15 日报】Notes on the Fourier Transform；Weekly Update 512: IoT Lockout Fail。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-15): Notes on the Fourier Transform; Weekly Update 512: IoT Lockout Fail. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-15）\n- Notes on the Fourier Transform\n- Weekly Update 512: IoT Lockout Fail\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/\n- https://www.troyhunt.com/weekly-update-512/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-15)\n- Notes on the Fourier Transform\n- Weekly Update 512: IoT Lockout Fail\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/\n- https://www.troyhunt.com/weekly-update-512/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Notes on the Fourier Transform；Weekly Update 512: IoT Lockout Fail。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Notes on the Fourier Transform; Weekly Update 512: IoT Lockout Fail.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-07-14",
       "total": 16,
@@ -2197,82 +2253,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Debugging on Prod；Key, in sight；Partial fraction decomposition。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Debugging on Prod; Key, in sight; Partial fraction decomposition.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-15",
-      "total": 19,
-      "feeds": [
-        "daringfireball.net (2)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Lean, not backpressure",
-        "johndcook.com · Quaternion Rotations, Claude, and Lean",
-        "wheresyoured.at · AI's Brokenomics",
-        "daringfireball.net · The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA",
-        "daringfireball.net · WorkOS Launches Auth.md — an Open Protocol for Agent Registration",
-        "johndcook.com · Writing Prolog with ChatGPT"
-      ],
-      "key_points": [
-        "Lean, not backpressure",
-        "Quaternion Rotations, Claude, and Lean",
-        "AI's Brokenomics",
-        "The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA"
-      ],
-      "key_points_zh": [
-        "Lean, not backpressure",
-        "Quaternion Rotations, Claude, and Lean",
-        "AI's Brokenomics",
-        "The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA"
-      ],
-      "key_points_en": [
-        "Lean, not backpressure",
-        "Quaternion Rotations, Claude, and Lean",
-        "AI's Brokenomics",
-        "The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA"
-      ],
-      "tweet_drafts": [
-        "Lean, not backpressure",
-        "Quaternion Rotations, Claude, and Lean",
-        "AI's Brokenomics"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Lean, not backpressure",
-          "link": "https://entropicthoughts.com/lean-not-backpressure"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Quaternion Rotations, Claude, and Lean",
-          "link": "https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "AI's Brokenomics",
-          "link": "https://www.wheresyoured.at/brokenomics/"
-        }
-      ],
-      "summary_zh": "2026-06-15 技术日报：Lean, not backpressure；Quaternion Rotations, Claude, and Lean；AI's Brokenomics。",
-      "summary_en": "Daily brief (2026-06-15): Lean, not backpressure; Quaternion Rotations, Claude, and Lean; AI's Brokenomics.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-15 日报】Lean, not backpressure；Quaternion Rotations, Claude, and Lean；AI's Brokenomics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-15): Lean, not backpressure; Quaternion Rotations, Claude, and Lean; AI's Brokenomics. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-15）\n- Lean, not backpressure\n- Quaternion Rotations, Claude, and Lean\n- AI's Brokenomics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/lean-not-backpressure\n- https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/\n- https://www.wheresyoured.at/brokenomics/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-15)\n- Lean, not backpressure\n- Quaternion Rotations, Claude, and Lean\n- AI's Brokenomics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/lean-not-backpressure\n- https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/\n- https://www.wheresyoured.at/brokenomics/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Lean, not backpressure；Quaternion Rotations, Claude, and Lean；AI's Brokenomics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Lean, not backpressure; Quaternion Rotations, Claude, and Lean; AI's Brokenomics.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

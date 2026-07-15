@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-14 23:23:19 UTC
+Generated at: 2026-07-15 07:45:15 UTC
 
-- [Quoting GitHub Changeling](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) (`simonwillison.net`)
-- [They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) (`idiallo.com`)
+- [Notes on the Fourier Transform](https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/) (`eli.thegreenplace.net`)
+- [Weekly Update 512: IoT Lockout Fail](https://www.troyhunt.com/weekly-update-512/) (`troyhunt.com`)
