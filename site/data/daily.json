@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-15T16:01:14Z",
+  "generated_at": "2026-07-15T17:42:03Z",
   "days": [
     {
       "date": "2026-07-15",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "berthub.eu (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "troyhunt.com (1)"
       ],
       "highlights": [
+        "wheresyoured.at · The OpenAI Bubble",
         "simonwillison.net · How I tricked Claude into leaking your deepest, darkest secrets",
         "devblogs.microsoft.com/oldnewthing · The case of the invalid function pointer when shutting down the display control panel",
         "dfarq.homeip.net · Reasons for Escom’s bankruptcy",
         "berthub.eu · Ben je van de IT of niet?",
-        "eli.thegreenplace.net · Notes on the Fourier Transform",
-        "troyhunt.com · Weekly Update 512: IoT Lockout Fail"
+        "eli.thegreenplace.net · Notes on the Fourier Transform"
       ],
       "key_points": [
-        "How I tricked Claude into leaking your deepest, darkest secrets",
-        "The case of the invalid function pointer when shutting down the display control panel",
-        "Reasons for Escom’s bankruptcy",
-        "Ben je van de IT of niet?"
-      ],
-      "key_points_zh": [
-        "How I tricked Claude into leaking your deepest, darkest secrets",
-        "The case of the invalid function pointer when shutting down the display control panel",
-        "Reasons for Escom’s bankruptcy",
-        "Ben je van de IT of niet?"
-      ],
-      "key_points_en": [
-        "How I tricked Claude into leaking your deepest, darkest secrets",
-        "The case of the invalid function pointer when shutting down the display control panel",
-        "Reasons for Escom’s bankruptcy",
-        "Ben je van de IT of niet?"
-      ],
-      "tweet_drafts": [
+        "The OpenAI Bubble",
         "How I tricked Claude into leaking your deepest, darkest secrets",
         "The case of the invalid function pointer when shutting down the display control panel",
         "Reasons for Escom’s bankruptcy"
       ],
+      "key_points_zh": [
+        "The OpenAI Bubble",
+        "How I tricked Claude into leaking your deepest, darkest secrets",
+        "The case of the invalid function pointer when shutting down the display control panel",
+        "Reasons for Escom’s bankruptcy"
+      ],
+      "key_points_en": [
+        "The OpenAI Bubble",
+        "How I tricked Claude into leaking your deepest, darkest secrets",
+        "The case of the invalid function pointer when shutting down the display control panel",
+        "Reasons for Escom’s bankruptcy"
+      ],
+      "tweet_drafts": [
+        "The OpenAI Bubble",
+        "How I tricked Claude into leaking your deepest, darkest secrets",
+        "The case of the invalid function pointer when shutting down the display control panel"
+      ],
       "sources": [
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "The OpenAI Bubble",
+          "link": "https://www.wheresyoured.at/the-openai-bubble/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "How I tricked Claude into leaking your deepest, darkest secrets",
@@ -53,27 +58,22 @@
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "The case of the invalid function pointer when shutting down the display control panel",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Reasons for Escom’s bankruptcy",
-          "link": "https://dfarq.homeip.net/reasons-for-escoms-bankruptcy/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=reasons-for-escoms-bankruptcy"
         }
       ],
-      "summary_zh": "2026-07-15 技术日报：How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel；Reasons for Escom’s bankruptcy。",
-      "summary_en": "Daily brief (2026-07-15): How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel; Reasons for Escom’s bankruptcy.",
+      "summary_zh": "2026-07-15 技术日报：The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel。",
+      "summary_en": "Daily brief (2026-07-15): The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-15 日报】How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel；Reasons for Escom’s bankruptcy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-15): How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel; Reasons for Escom’s bankruptcy. Actionable takeaways included. What would you shi"
+          "zh": "【2026-07-15 日报】The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-15): The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel. Actionable takeaways included. What would you ship next? #AI #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-15）\n- How I tricked Claude into leaking your deepest, darkest secrets\n- The case of the invalid function pointer when shutting down the display control panel\n- Reasons for Escom’s bankruptcy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535\n- https://dfarq.homeip.net/reasons-for-escoms-bankruptcy/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=reasons-for-escoms-bankruptcy\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-15)\n- How I tricked Claude into leaking your deepest, darkest secrets\n- The case of the invalid function pointer when shutting down the display control panel\n- Reasons for Escom’s bankruptcy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535\n- https://dfarq.homeip.net/reasons-for-escoms-bankruptcy/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=reasons-for-escoms-bankruptcy\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-15）\n- The OpenAI Bubble\n- How I tricked Claude into leaking your deepest, darkest secrets\n- The case of the invalid function pointer when shutting down the display control panel\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-openai-bubble/\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-15)\n- The OpenAI Bubble\n- How I tricked Claude into leaking your deepest, darkest secrets\n- The case of the invalid function pointer when shutting down the display control panel\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-openai-bubble/\n- https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything\n- https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel；Reasons for Escom’s bankruptcy。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel; Reasons for Escom’s bankruptcy.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets；The case of the invalid function pointer when shutting down the display control panel。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets; The case of the invalid function pointer when shutting down the display control panel.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
