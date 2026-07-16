@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-16 11:23:42 UTC
+Generated at: 2026-07-16 12:56:16 UTC
 
-- [Intel founded July 18, 1968](https://dfarq.homeip.net/intel-founded-july-18-1968/?utm_source=rss&utm_medium=rss&utm_campaign=intel-founded-july-18-1968) (`dfarq.homeip.net`)
+- [Gadget Review: Thermal Master DV2 - Infrared Birdwatching Scope ★★★★⯪](https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/) (`shkspr.mobi`)
+- [How Predictable Are Laws?](https://www.construction-physics.com/p/how-predictable-are-laws) (`construction-physics.com`)
