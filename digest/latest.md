@@ -1,7 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-16 18:51:14 UTC
+Generated at: 2026-07-16 19:53:19 UTC
 
-- [Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) (`simonwillison.net`)
-- [Louie Mantia: ‘The Shape of Apps’](https://parakeet.co/blog/the-shape-of-apps/) (`daringfireball.net`)
-- [Pluralistic: Deranged billionaires and their syndromes (16 Jul 2026)](https://pluralistic.net/2026/07/16/lucky-orifices/) (`pluralistic.net`)
+- [OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit](https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit) (`daringfireball.net`)
