@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-17 20:40:21 UTC
+Generated at: 2026-07-17 21:38:40 UTC
 
-- [OpenAI’s Product Shake-Up](https://www.wired.com/story/openai-reorg-greg-brockman-product/) (`daringfireball.net`)
+- [Roblox Set to Introduce AI Game-Building Feature, Including on iOS](https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox) (`daringfireball.net`)
