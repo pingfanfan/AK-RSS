@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T19:55:25Z",
+  "generated_at": "2026-07-17T20:40:36Z",
   "days": [
     {
       "date": "2026-07-17",
-      "total": 15,
+      "total": 16,
       "feeds": [
-        "daringfireball.net (5)",
+        "daringfireball.net (6)",
         "johndcook.com (3)",
         "simonwillison.net (2)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "filfre.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · OpenAI’s Product Shake-Up",
         "daringfireball.net · MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
         "daringfireball.net · Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
         "daringfireball.net · BBEdit 16",
         "johndcook.com · Visualizing Medical Code Hierarchy",
-        "filfre.net · The Life and Times of Maxis, Part 2: SimWorld",
-        "daringfireball.net · Google and Epic Give Up Fighting — Third-Party Android App Stores Are Coming Next Week"
+        "filfre.net · The Life and Times of Maxis, Part 2: SimWorld"
       ],
       "key_points": [
-        "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
-        "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
-        "BBEdit 16",
-        "Visualizing Medical Code Hierarchy"
-      ],
-      "key_points_zh": [
-        "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
-        "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
-        "BBEdit 16",
-        "Visualizing Medical Code Hierarchy"
-      ],
-      "key_points_en": [
-        "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
-        "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
-        "BBEdit 16",
-        "Visualizing Medical Code Hierarchy"
-      ],
-      "tweet_drafts": [
+        "OpenAI’s Product Shake-Up",
         "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
         "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
         "BBEdit 16"
       ],
+      "key_points_zh": [
+        "OpenAI’s Product Shake-Up",
+        "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
+        "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
+        "BBEdit 16"
+      ],
+      "key_points_en": [
+        "OpenAI’s Product Shake-Up",
+        "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
+        "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
+        "BBEdit 16"
+      ],
+      "tweet_drafts": [
+        "OpenAI’s Product Shake-Up",
+        "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
+        "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "OpenAI’s Product Shake-Up",
+          "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
           "link": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "BBEdit 16",
-          "link": "https://www.barebones.com/products/bbedit/bbedit16.html"
         }
       ],
-      "summary_zh": "2026-07-17 技术日报：MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’；Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’；BBEdit 16。",
-      "summary_en": "Daily brief (2026-07-17): MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’; Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’; BBEdit 16.",
+      "summary_zh": "2026-07-17 技术日报：OpenAI’s Product Shake-Up；MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’；Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’。",
+      "summary_en": "Daily brief (2026-07-17): OpenAI’s Product Shake-Up; MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’; Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-17 日报】MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’；Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’；BBEdit 16。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-17): MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’; Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’; BBEdit 16. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-17 日报】OpenAI’s Product Shake-Up；MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’；Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-17): OpenAI’s Product Shake-Up; MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’; Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’. Actionable takeaways included. What would you ship next? #AI #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-17）\n- MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’\n- Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’\n- BBEdit 16\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://spyglass.org/chatgpt-brings-back-chatgpt/\n- https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\n- https://www.barebones.com/products/bbedit/bbedit16.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-17)\n- MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’\n- Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’\n- BBEdit 16\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://spyglass.org/chatgpt-brings-back-chatgpt/\n- https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\n- https://www.barebones.com/products/bbedit/bbedit16.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-17）\n- OpenAI’s Product Shake-Up\n- MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’\n- Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wired.com/story/openai-reorg-greg-brockman-product/\n- https://spyglass.org/chatgpt-brings-back-chatgpt/\n- https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-17)\n- OpenAI’s Product Shake-Up\n- MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’\n- Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wired.com/story/openai-reorg-greg-brockman-product/\n- https://spyglass.org/chatgpt-brings-back-chatgpt/\n- https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’；Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’；BBEdit 16。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’; Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’; BBEdit 16.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：OpenAI’s Product Shake-Up；MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’；Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: OpenAI’s Product Shake-Up; MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’; Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1988,8 +1988,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
