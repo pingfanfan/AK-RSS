@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-18 19:37:17 UTC
+Generated at: 2026-07-18 20:34:44 UTC
 
-- [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/) (`minimaxir.com`)
+- [SQLite Query Explainer](https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything) (`simonwillison.net`)
+- [Make It Work vs. Make It Good](https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/) (`blog.jim-nielsen.com`)
