@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-07-19T18:44:06Z",
+  "generated_at": "2026-07-19T19:59:36Z",
   "days": [
     {
       "date": "2026-07-19",
-      "total": 5,
+      "total": 6,
       "feeds": [
         "daringfireball.net (2)",
-        "johndcook.com (1)",
+        "johndcook.com (2)",
         "seangoedecke.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Fitting a regular expression to a list of words",
         "daringfireball.net · 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
@@ -18,29 +19,34 @@
         "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
-        "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
-        "Sum of low squares",
-        "AI Mania Is Eviscerating Global Decision-Making",
-        "★ Mornings in Cupertino Have the Aroma of Napalm Once Again"
-      ],
-      "key_points_zh": [
-        "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
-        "Sum of low squares",
-        "AI Mania Is Eviscerating Global Decision-Making",
-        "★ Mornings in Cupertino Have the Aroma of Napalm Once Again"
-      ],
-      "key_points_en": [
-        "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
-        "Sum of low squares",
-        "AI Mania Is Eviscerating Global Decision-Making",
-        "★ Mornings in Cupertino Have the Aroma of Napalm Once Again"
-      ],
-      "tweet_drafts": [
+        "Fitting a regular expression to a list of words",
         "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
         "Sum of low squares",
         "AI Mania Is Eviscerating Global Decision-Making"
       ],
+      "key_points_zh": [
+        "Fitting a regular expression to a list of words",
+        "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
+        "Sum of low squares",
+        "AI Mania Is Eviscerating Global Decision-Making"
+      ],
+      "key_points_en": [
+        "Fitting a regular expression to a list of words",
+        "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
+        "Sum of low squares",
+        "AI Mania Is Eviscerating Global Decision-Making"
+      ],
+      "tweet_drafts": [
+        "Fitting a regular expression to a list of words",
+        "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
+        "Sum of low squares"
+      ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Fitting a regular expression to a list of words",
+          "link": "https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
@@ -50,27 +56,22 @@
           "feed_title": "johndcook.com",
           "title": "Sum of low squares",
           "link": "https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "AI Mania Is Eviscerating Global Decision-Making",
-          "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-19 技术日报：9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil；Sum of low squares；AI Mania Is Eviscerating Global Decision-Making。",
-      "summary_en": "Daily brief (2026-07-19): 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil; Sum of low squares; AI Mania Is Eviscerating Global Decision-Making.",
+      "summary_zh": "2026-07-19 技术日报：Fitting a regular expression to a list of words；9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil；Sum of low squares。",
+      "summary_en": "Daily brief (2026-07-19): Fitting a regular expression to a list of words; 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil; Sum of low squares.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-19 日报】9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil；Sum of low squares；AI Mania Is Eviscerating Global Decision-Making。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-19): 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil; Sum of low squares; AI Mania Is Eviscerating Global Decision-Making. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPub"
+          "zh": "【2026-07-19 日报】Fitting a regular expression to a list of words；9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil；Sum of low squares。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-19): Fitting a regular expression to a list of words; 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil; Sum of low squares. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPub"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-19）\n- 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil\n- Sum of low squares\n- AI Mania Is Eviscerating Global Decision-Making\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/\n- https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/\n- https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-19)\n- 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil\n- Sum of low squares\n- AI Mania Is Eviscerating Global Decision-Making\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/\n- https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/\n- https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-19）\n- Fitting a regular expression to a list of words\n- 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil\n- Sum of low squares\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/\n- https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/\n- https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-19)\n- Fitting a regular expression to a list of words\n- 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil\n- Sum of low squares\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/\n- https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/\n- https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil；Sum of low squares；AI Mania Is Eviscerating Global Decision-Making。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil; Sum of low squares; AI Mania Is Eviscerating Global Decision-Making.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Fitting a regular expression to a list of words；9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil；Sum of low squares。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Fitting a regular expression to a list of words; 9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil; Sum of low squares.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -699,7 +700,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -2137,8 +2138,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
+        "borretti.me · On Vulgar Materialism",
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
