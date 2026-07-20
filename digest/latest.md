@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-20 11:31:43 UTC
+Generated at: 2026-07-20 13:41:12 UTC
 
-- [The MCI Worldcom merger, bankruptcy, and scandal](https://dfarq.homeip.net/the-mci-worldcom-merger-bankruptcy-and-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=the-mci-worldcom-merger-bankruptcy-and-scandal) (`dfarq.homeip.net`)
-- [I added a blogroll](https://matduggan.com/i-added-a-blogroll/) (`matduggan.com`)
+- [Public Transport - Don't Make Me Think!](https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) (`shkspr.mobi`)
+- [Memory Safety's Hardest Problem](https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html) (`matklad.github.io`)
+- [OpenTK: nu ook met Internetconsultaties & notificaties](https://berthub.eu/articles/posts/opentk-internetconsultaties/) (`berthub.eu`)
