@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-07-20T15:41:49Z",
+  "generated_at": "2026-07-20T17:15:06Z",
   "days": [
     {
       "date": "2026-07-20",
-      "total": 8,
+      "total": 11,
       "feeds": [
+        "simonwillison.net (2)",
         "berthub.eu (1)",
+        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
-        "matduggan.com (1)",
-        "matklad.github.io (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · Who’s Afraid of Chinese Models?",
+        "daringfireball.net · ‘Who’s Afraid of Chinese Models?’",
         "johndcook.com · Volume to Area ratio for Regular Solids",
         "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
         "berthub.eu · OpenTK: nu ook met Internetconsultaties \u0026 notificaties",
-        "shkspr.mobi · Public Transport - Don't Make Me Think!",
-        "matduggan.com · I added a blogroll",
-        "dfarq.homeip.net · The MCI Worldcom merger, bankruptcy, and scandal"
+        "shkspr.mobi · Public Transport - Don't Make Me Think!"
       ],
       "key_points": [
+        "Who’s Afraid of Chinese Models?",
+        "‘Who’s Afraid of Chinese Models?’",
         "Volume to Area ratio for Regular Solids",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
-        "OpenTK: nu ook met Internetconsultaties \u0026 notificaties",
-        "Public Transport - Don't Make Me Think!"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1"
       ],
       "key_points_zh": [
+        "Who’s Afraid of Chinese Models?",
+        "‘Who’s Afraid of Chinese Models?’",
         "Volume to Area ratio for Regular Solids",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
-        "OpenTK: nu ook met Internetconsultaties \u0026 notificaties",
-        "Public Transport - Don't Make Me Think!"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1"
       ],
       "key_points_en": [
+        "Who’s Afraid of Chinese Models?",
+        "‘Who’s Afraid of Chinese Models?’",
         "Volume to Area ratio for Regular Solids",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
-        "OpenTK: nu ook met Internetconsultaties \u0026 notificaties",
-        "Public Transport - Don't Make Me Think!"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1"
       ],
       "tweet_drafts": [
-        "Volume to Area ratio for Regular Solids",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
-        "OpenTK: nu ook met Internetconsultaties \u0026 notificaties"
+        "Who’s Afraid of Chinese Models?",
+        "‘Who’s Afraid of Chinese Models?’",
+        "Volume to Area ratio for Regular Solids"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Who’s Afraid of Chinese Models?",
+          "link": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "‘Who’s Afraid of Chinese Models?’",
+          "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Volume to Area ratio for Regular Solids",
           "link": "https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "OpenTK: nu ook met Internetconsultaties \u0026 notificaties",
-          "link": "https://berthub.eu/articles/posts/opentk-internetconsultaties/"
         }
       ],
-      "summary_zh": "2026-07-20 技术日报：Volume to Area ratio for Regular Solids；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1；OpenTK: nu ook met Internetconsultaties \u0026 notificaties。",
-      "summary_en": "Daily brief (2026-07-20): Volume to Area ratio for Regular Solids; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1; OpenTK: nu ook met Internetconsultaties \u0026 notificaties.",
+      "summary_zh": "2026-07-20 技术日报：Who’s Afraid of Chinese Models?；‘Who’s Afraid of Chinese Models?’；Volume to Area ratio for Regular Solids。",
+      "summary_en": "Daily brief (2026-07-20): Who’s Afraid of Chinese Models?; ‘Who’s Afraid of Chinese Models?’; Volume to Area ratio for Regular Solids.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-20 日报】Volume to Area ratio for Regular Solids；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1；OpenTK: nu ook met Internetconsultaties \u0026 notificaties。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-20): Volume to Area ratio for Regular Solids; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1; OpenTK: nu ook met Internetconsultaties \u0026 notificaties. Actionable takeaways included. What would you ship next? #AI"
+          "zh": "【2026-07-20 日报】Who’s Afraid of Chinese Models?；‘Who’s Afraid of Chinese Models?’；Volume to Area ratio for Regular Solids。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-20): Who’s Afraid of Chinese Models?; ‘Who’s Afraid of Chinese Models?’; Volume to Area ratio for Regular Solids. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-20）\n- Volume to Area ratio for Regular Solids\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1\n- OpenTK: nu ook met Internetconsultaties \u0026 notificaties\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/\n- https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545\n- https://berthub.eu/articles/posts/opentk-internetconsultaties/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-20)\n- Volume to Area ratio for Regular Solids\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1\n- OpenTK: nu ook met Internetconsultaties \u0026 notificaties\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/\n- https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545\n- https://berthub.eu/articles/posts/opentk-internetconsultaties/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-20）\n- Who’s Afraid of Chinese Models?\n- ‘Who’s Afraid of Chinese Models?’\n- Volume to Area ratio for Regular Solids\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n- https://stratechery.com/2026/whos-afraid-of-chinese-models/\n- https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-20)\n- Who’s Afraid of Chinese Models?\n- ‘Who’s Afraid of Chinese Models?’\n- Volume to Area ratio for Regular Solids\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n- https://stratechery.com/2026/whos-afraid-of-chinese-models/\n- https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Volume to Area ratio for Regular Solids；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1；OpenTK: nu ook met Internetconsultaties \u0026 notificaties。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Volume to Area ratio for Regular Solids; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1; OpenTK: nu ook met Internetconsultaties \u0026 notificaties.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Who’s Afraid of Chinese Models?；‘Who’s Afraid of Chinese Models?’；Volume to Area ratio for Regular Solids。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Who’s Afraid of Chinese Models?; ‘Who’s Afraid of Chinese Models?’; Volume to Area ratio for Regular Solids.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -93,7 +93,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "computer.rip · email encryption"
+        "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
@@ -164,46 +164,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "blog.jim-nielsen.com · Make It Work vs. Make It Good",
         "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
+        "blog.jim-nielsen.com · Make It Work vs. Make It Good",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Make It Work vs. Make It Good",
-          "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
-        },
-        {
           "feed_title": "minimaxir.com",
           "title": "What's the deal with all the random weekly quota resets for agents lately?",
           "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
+        },
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Make It Work vs. Make It Good",
+          "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -211,20 +211,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -777,7 +777,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -2215,8 +2215,8 @@
         "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
         "geohot.github.io · The doom justifies the valuation",
         "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "borretti.me · On Vulgar Materialism",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation"
+        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
+        "borretti.me · On Vulgar Materialism"
       ],
       "key_points": [
         "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",

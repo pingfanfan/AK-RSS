@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-20 15:41:34 UTC
+Generated at: 2026-07-20 17:14:51 UTC
 
-- [Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1](https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545) (`devblogs.microsoft.com/oldnewthing`)
-- [Volume to Area ratio for Regular Solids](https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/) (`johndcook.com`)
+- [Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) (`simonwillison.net`)
+- [‘Who’s Afraid of Chinese Models?’](https://stratechery.com/2026/whos-afraid-of-chinese-models/) (`daringfireball.net`)
+- [Why I Stopped "Creating Content"](https://refactoringenglish.com/blog/why-i-stopped-creating-content/) (`refactoringenglish.com`)
