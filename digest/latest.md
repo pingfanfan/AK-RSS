@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-20 08:31:41 UTC
+Generated at: 2026-07-20 11:31:43 UTC
 
-- [Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) (`simonwillison.net`)
+- [The MCI Worldcom merger, bankruptcy, and scandal](https://dfarq.homeip.net/the-mci-worldcom-merger-bankruptcy-and-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=the-mci-worldcom-merger-bankruptcy-and-scandal) (`dfarq.homeip.net`)
+- [I added a blogroll](https://matduggan.com/i-added-a-blogroll/) (`matduggan.com`)
