@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-20 13:41:12 UTC
+Generated at: 2026-07-20 15:41:34 UTC
 
-- [Public Transport - Don't Make Me Think!](https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) (`shkspr.mobi`)
-- [Memory Safety's Hardest Problem](https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html) (`matklad.github.io`)
-- [OpenTK: nu ook met Internetconsultaties & notificaties](https://berthub.eu/articles/posts/opentk-internetconsultaties/) (`berthub.eu`)
+- [Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1](https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545) (`devblogs.microsoft.com/oldnewthing`)
+- [Volume to Area ratio for Regular Solids](https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/) (`johndcook.com`)
