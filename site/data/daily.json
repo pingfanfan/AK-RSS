@@ -1,49 +1,121 @@
 {
-  "generated_at": "2026-07-20T22:43:02Z",
+  "generated_at": "2026-07-21T08:02:12Z",
   "days": [
     {
+      "date": "2026-07-21",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "idiallo.com (1)",
+        "troyhunt.com (1)"
+      ],
+      "highlights": [
+        "troyhunt.com · Weekly Update 513: Clauding The Home Network",
+        "daringfireball.net · [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent",
+        "idiallo.com · Expensive Is Just a Brand Now"
+      ],
+      "key_points": [
+        "Weekly Update 513: Clauding The Home Network",
+        "[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent",
+        "Expensive Is Just a Brand Now"
+      ],
+      "key_points_zh": [
+        "Weekly Update 513: Clauding The Home Network",
+        "[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent",
+        "Expensive Is Just a Brand Now"
+      ],
+      "key_points_en": [
+        "Weekly Update 513: Clauding The Home Network",
+        "[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent",
+        "Expensive Is Just a Brand Now"
+      ],
+      "tweet_drafts": [
+        "Weekly Update 513: Clauding The Home Network",
+        "[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent",
+        "Expensive Is Just a Brand Now"
+      ],
+      "sources": [
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 513: Clauding The Home Network",
+          "link": "https://www.troyhunt.com/weekly-update-513/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent",
+          "link": "https://workos.com/blog/management-mcp-server?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026"
+        },
+        {
+          "feed_title": "idiallo.com",
+          "title": "Expensive Is Just a Brand Now",
+          "link": "https://idiallo.com/blog/expensive-is-just-branding"
+        }
+      ],
+      "summary_zh": "2026-07-21 技术日报：Weekly Update 513: Clauding The Home Network；[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent；Expensive Is Just a Brand Now。",
+      "summary_en": "Daily brief (2026-07-21): Weekly Update 513: Clauding The Home Network; [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent; Expensive Is Just a Brand Now.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-21 日报】Weekly Update 513: Clauding The Home Network；[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent；Expensive Is Just a Brand Now。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-21): Weekly Update 513: Clauding The Home Network; [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent; Expensive Is Just a Brand Now. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-21）\n- Weekly Update 513: Clauding The Home Network\n- [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent\n- Expensive Is Just a Brand Now\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/weekly-update-513/\n- https://workos.com/blog/management-mcp-server?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://idiallo.com/blog/expensive-is-just-branding\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-21)\n- Weekly Update 513: Clauding The Home Network\n- [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent\n- Expensive Is Just a Brand Now\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/weekly-update-513/\n- https://workos.com/blog/management-mcp-server?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://idiallo.com/blog/expensive-is-just-branding\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Weekly Update 513: Clauding The Home Network；[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent；Expensive Is Just a Brand Now。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Weekly Update 513: Clauding The Home Network; [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent; Expensive Is Just a Brand Now.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-07-20",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "simonwillison.net (3)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Kuiper Q-Q plot: are these the same?",
         "simonwillison.net · Reverse-engineering is cheap now",
         "simonwillison.net · Who’s Afraid of Chinese Models?",
         "daringfireball.net · ‘Who’s Afraid of Chinese Models?’",
         "johndcook.com · Volume to Area ratio for Regular Solids",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1",
-        "berthub.eu · OpenTK: nu ook met Internetconsultaties \u0026 notificaties"
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1"
       ],
       "key_points": [
-        "Reverse-engineering is cheap now",
-        "Who’s Afraid of Chinese Models?",
-        "‘Who’s Afraid of Chinese Models?’",
-        "Volume to Area ratio for Regular Solids"
-      ],
-      "key_points_zh": [
-        "Reverse-engineering is cheap now",
-        "Who’s Afraid of Chinese Models?",
-        "‘Who’s Afraid of Chinese Models?’",
-        "Volume to Area ratio for Regular Solids"
-      ],
-      "key_points_en": [
-        "Reverse-engineering is cheap now",
-        "Who’s Afraid of Chinese Models?",
-        "‘Who’s Afraid of Chinese Models?’",
-        "Volume to Area ratio for Regular Solids"
-      ],
-      "tweet_drafts": [
+        "Kuiper Q-Q plot: are these the same?",
         "Reverse-engineering is cheap now",
         "Who’s Afraid of Chinese Models?",
         "‘Who’s Afraid of Chinese Models?’"
       ],
+      "key_points_zh": [
+        "Kuiper Q-Q plot: are these the same?",
+        "Reverse-engineering is cheap now",
+        "Who’s Afraid of Chinese Models?",
+        "‘Who’s Afraid of Chinese Models?’"
+      ],
+      "key_points_en": [
+        "Kuiper Q-Q plot: are these the same?",
+        "Reverse-engineering is cheap now",
+        "Who’s Afraid of Chinese Models?",
+        "‘Who’s Afraid of Chinese Models?’"
+      ],
+      "tweet_drafts": [
+        "Kuiper Q-Q plot: are these the same?",
+        "Reverse-engineering is cheap now",
+        "Who’s Afraid of Chinese Models?"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Kuiper Q-Q plot: are these the same?",
+          "link": "https://entropicthoughts.com/kuiper-q-q-plot"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Reverse-engineering is cheap now",
@@ -53,27 +125,22 @@
           "feed_title": "simonwillison.net",
           "title": "Who’s Afraid of Chinese Models?",
           "link": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘Who’s Afraid of Chinese Models?’",
-          "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/"
         }
       ],
-      "summary_zh": "2026-07-20 技术日报：Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?；‘Who’s Afraid of Chinese Models?’。",
-      "summary_en": "Daily brief (2026-07-20): Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?; ‘Who’s Afraid of Chinese Models?’.",
+      "summary_zh": "2026-07-20 技术日报：Kuiper Q-Q plot: are these the same?；Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?。",
+      "summary_en": "Daily brief (2026-07-20): Kuiper Q-Q plot: are these the same?; Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-20 日报】Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?；‘Who’s Afraid of Chinese Models?’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-20): Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?; ‘Who’s Afraid of Chinese Models?’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-20 日报】Kuiper Q-Q plot: are these the same?；Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-20): Kuiper Q-Q plot: are these the same?; Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-20）\n- Reverse-engineering is cheap now\n- Who’s Afraid of Chinese Models?\n- ‘Who’s Afraid of Chinese Models?’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n- https://stratechery.com/2026/whos-afraid-of-chinese-models/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-20)\n- Reverse-engineering is cheap now\n- Who’s Afraid of Chinese Models?\n- ‘Who’s Afraid of Chinese Models?’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n- https://stratechery.com/2026/whos-afraid-of-chinese-models/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-20）\n- Kuiper Q-Q plot: are these the same?\n- Reverse-engineering is cheap now\n- Who’s Afraid of Chinese Models?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/kuiper-q-q-plot\n- https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-20)\n- Kuiper Q-Q plot: are these the same?\n- Reverse-engineering is cheap now\n- Who’s Afraid of Chinese Models?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/kuiper-q-q-plot\n- https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?；‘Who’s Afraid of Chinese Models?’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?; ‘Who’s Afraid of Chinese Models?’.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Kuiper Q-Q plot: are these the same?；Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Kuiper Q-Q plot: are these the same?; Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -93,7 +160,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "computer.rip · email encryption"
+        "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
@@ -164,46 +231,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "blog.jim-nielsen.com · Make It Work vs. Make It Good",
+        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "minimaxir.com",
-          "title": "What's the deal with all the random weekly quota resets for agents lately?",
-          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
-        },
-        {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Make It Work vs. Make It Good",
           "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
+        },
+        {
+          "feed_title": "minimaxir.com",
+          "title": "What's the deal with all the random weekly quota resets for agents lately?",
+          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -211,20 +278,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -777,7 +844,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -2196,82 +2263,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Tagged data in Haskell (SICP 2.4.2)；Apple Is Going to Raise Device Prices — but When?；Lobachevsky’s integral formula。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Tagged data in Haskell (SICP 2.4.2); Apple Is Going to Raise Device Prices — but When?; Lobachevsky’s integral formula.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "total": 6,
-      "feeds": [
-        "borretti.me (1)",
-        "daringfireball.net (1)",
-        "geohot.github.io (1)",
-        "mitchellh.com (1)",
-        "simonwillison.net (1)",
-        "utcc.utoronto.ca/~cks (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
-        "simonwillison.net · Temporary Cloudflare Accounts for AI agents",
-        "geohot.github.io · The doom justifies the valuation",
-        "utcc.utoronto.ca/~cks · PyPy and Python 3 for us",
-        "mitchellh.com · Pledging Another $400,000 to the Zig Software Foundation",
-        "borretti.me · On Vulgar Materialism"
-      ],
-      "key_points": [
-        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
-        "Temporary Cloudflare Accounts for AI agents",
-        "The doom justifies the valuation",
-        "PyPy and Python 3 for us"
-      ],
-      "key_points_zh": [
-        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
-        "Temporary Cloudflare Accounts for AI agents",
-        "The doom justifies the valuation",
-        "PyPy and Python 3 for us"
-      ],
-      "key_points_en": [
-        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
-        "Temporary Cloudflare Accounts for AI agents",
-        "The doom justifies the valuation",
-        "PyPy and Python 3 for us"
-      ],
-      "tweet_drafts": [
-        "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
-        "Temporary Cloudflare Accounts for AI agents",
-        "The doom justifies the valuation"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Before and After: MacOS 27 Golden Gate Beta 1’s App Icons",
-          "link": "https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Temporary Cloudflare Accounts for AI agents",
-          "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything"
-        },
-        {
-          "feed_title": "geohot.github.io",
-          "title": "The doom justifies the valuation",
-          "link": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html"
-        }
-      ],
-      "summary_zh": "2026-06-21 技术日报：Before and After: MacOS 27 Golden Gate Beta 1’s App Icons；Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation。",
-      "summary_en": "Daily brief (2026-06-21): Before and After: MacOS 27 Golden Gate Beta 1’s App Icons; Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-21 日报】Before and After: MacOS 27 Golden Gate Beta 1’s App Icons；Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-21): Before and After: MacOS 27 Golden Gate Beta 1’s App Icons; Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-21）\n- Before and After: MacOS 27 Golden Gate Beta 1’s App Icons\n- Temporary Cloudflare Accounts for AI agents\n- The doom justifies the valuation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison\n- https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything\n- https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-21)\n- Before and After: MacOS 27 Golden Gate Beta 1’s App Icons\n- Temporary Cloudflare Accounts for AI agents\n- The doom justifies the valuation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison\n- https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything\n- https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Before and After: MacOS 27 Golden Gate Beta 1’s App Icons；Temporary Cloudflare Accounts for AI agents；The doom justifies the valuation。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Before and After: MacOS 27 Golden Gate Beta 1’s App Icons; Temporary Cloudflare Accounts for AI agents; The doom justifies the valuation.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
