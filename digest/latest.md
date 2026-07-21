@@ -1,8 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-21 08:01:58 UTC
+Generated at: 2026-07-21 10:35:41 UTC
 
-- [Expensive Is Just a Brand Now](https://idiallo.com/blog/expensive-is-just-branding) (`idiallo.com`)
-- [[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) (`daringfireball.net`)
-- [Kuiper Q-Q plot: are these the same?](https://entropicthoughts.com/kuiper-q-q-plot) (`entropicthoughts.com`)
-- [Weekly Update 513: Clauding The Home Network](https://www.troyhunt.com/weekly-update-513/) (`troyhunt.com`)
+- [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html) (`nesbitt.io`)
+- [Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers](https://pluralistic.net/2026/07/21/dickovers/) (`pluralistic.net`)
