@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-21 10:35:41 UTC
+Generated at: 2026-07-21 12:16:34 UTC
 
-- [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html) (`nesbitt.io`)
-- [Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers](https://pluralistic.net/2026/07/21/dickovers/) (`pluralistic.net`)
+- [Locally everywhere does not imply everywhere](https://www.johndcook.com/blog/2026/07/21/jacobian-conjecture/) (`johndcook.com`)
+- [The First Microsoft Product](https://dfarq.homeip.net/the-first-microsoft-product/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-microsoft-product) (`dfarq.homeip.net`)
