@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-22 15:58:14 UTC
+Generated at: 2026-07-22 17:10:50 UTC
 
-- [Does creatine make you smarter?](https://dynomight.net/creatine/) (`dynomight.net`)
-- [Not just development, distribution of software may change as well](http://antirez.com/news/170) (`antirez.com`)
+- [The Subprime Data Center Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/) (`wheresyoured.at`)
