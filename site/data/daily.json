@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-22T14:30:26Z",
+  "generated_at": "2026-07-22T15:58:27Z",
   "days": [
     {
       "date": "2026-07-22",
-      "total": 6,
+      "total": 8,
       "feeds": [
+        "antirez.com (1)",
         "dfarq.homeip.net (1)",
+        "dynomight.net (1)",
         "jeffgeerling.com (1)",
         "johndcook.com (1)",
-        "krebsonsecurity.com (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "antirez.com · Not just development, distribution of software may change as well",
         "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation",
         "dfarq.homeip.net · Amiga 1000: Ten years ahead of its time",
-        "pluralistic.net · Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)",
-        "krebsonsecurity.com · LG to Ban Residential Proxies from Smart TV Apps"
+        "pluralistic.net · Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)"
       ],
       "key_points": [
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "When sine of x degrees equals sine of x radians",
-        "Scattered thoughts on social geolocation",
-        "Amiga 1000: Ten years ahead of its time"
-      ],
-      "key_points_zh": [
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "When sine of x degrees equals sine of x radians",
-        "Scattered thoughts on social geolocation",
-        "Amiga 1000: Ten years ahead of its time"
-      ],
-      "key_points_en": [
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "When sine of x degrees equals sine of x radians",
-        "Scattered thoughts on social geolocation",
-        "Amiga 1000: Ten years ahead of its time"
-      ],
-      "tweet_drafts": [
+        "Not just development, distribution of software may change as well",
         "Open Sauce and GPS time were my summer AI Antiseptics",
         "When sine of x degrees equals sine of x radians",
         "Scattered thoughts on social geolocation"
       ],
+      "key_points_zh": [
+        "Not just development, distribution of software may change as well",
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "When sine of x degrees equals sine of x radians",
+        "Scattered thoughts on social geolocation"
+      ],
+      "key_points_en": [
+        "Not just development, distribution of software may change as well",
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "When sine of x degrees equals sine of x radians",
+        "Scattered thoughts on social geolocation"
+      ],
+      "tweet_drafts": [
+        "Not just development, distribution of software may change as well",
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "When sine of x degrees equals sine of x radians"
+      ],
       "sources": [
+        {
+          "feed_title": "antirez.com",
+          "title": "Not just development, distribution of software may change as well",
+          "link": "http://antirez.com/news/170"
+        },
         {
           "feed_title": "jeffgeerling.com",
           "title": "Open Sauce and GPS time were my summer AI Antiseptics",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "When sine of x degrees equals sine of x radians",
           "link": "https://www.johndcook.com/blog/2026/07/22/degrees-radians/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Scattered thoughts on social geolocation",
-          "link": "https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：Open Sauce and GPS time were my summer AI Antiseptics；When sine of x degrees equals sine of x radians；Scattered thoughts on social geolocation。",
-      "summary_en": "Daily brief (2026-07-22): Open Sauce and GPS time were my summer AI Antiseptics; When sine of x degrees equals sine of x radians; Scattered thoughts on social geolocation.",
+      "summary_zh": "2026-07-22 技术日报：Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics；When sine of x degrees equals sine of x radians。",
+      "summary_en": "Daily brief (2026-07-22): Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics; When sine of x degrees equals sine of x radians.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】Open Sauce and GPS time were my summer AI Antiseptics；When sine of x degrees equals sine of x radians；Scattered thoughts on social geolocation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): Open Sauce and GPS time were my summer AI Antiseptics; When sine of x degrees equals sine of x radians; Scattered thoughts on social geolocation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubli"
+          "zh": "【2026-07-22 日报】Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics；When sine of x degrees equals sine of x radians。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics; When sine of x degrees equals sine of x radians. Actionable takeaways included. What would you ship next? #AI #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- Open Sauce and GPS time were my summer AI Antiseptics\n- When sine of x degrees equals sine of x radians\n- Scattered thoughts on social geolocation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n- https://www.johndcook.com/blog/2026/07/22/degrees-radians/\n- https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- Open Sauce and GPS time were my summer AI Antiseptics\n- When sine of x degrees equals sine of x radians\n- Scattered thoughts on social geolocation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n- https://www.johndcook.com/blog/2026/07/22/degrees-radians/\n- https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n- When sine of x degrees equals sine of x radians\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n- https://www.johndcook.com/blog/2026/07/22/degrees-radians/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n- When sine of x degrees equals sine of x radians\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n- https://www.johndcook.com/blog/2026/07/22/degrees-radians/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Open Sauce and GPS time were my summer AI Antiseptics；When sine of x degrees equals sine of x radians；Scattered thoughts on social geolocation。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Open Sauce and GPS time were my summer AI Antiseptics; When sine of x degrees equals sine of x radians; Scattered thoughts on social geolocation.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics；When sine of x degrees equals sine of x radians。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics; When sine of x degrees equals sine of x radians.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -245,7 +245,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "computer.rip · email encryption"
+        "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
@@ -316,46 +316,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "blog.jim-nielsen.com · Make It Work vs. Make It Good",
+        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "minimaxir.com",
-          "title": "What's the deal with all the random weekly quota resets for agents lately?",
-          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
-        },
-        {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Make It Work vs. Make It Good",
           "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
+        },
+        {
+          "feed_title": "minimaxir.com",
+          "title": "What's the deal with all the random weekly quota resets for agents lately?",
+          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -363,20 +363,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -929,7 +929,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
+        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
