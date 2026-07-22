@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-22 17:10:50 UTC
+Generated at: 2026-07-22 18:37:26 UTC
 
-- [The Subprime Data Center Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/) (`wheresyoured.at`)
+- [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) (`mitchellh.com`)
