@@ -1,7 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-23 10:36:46 UTC
+Generated at: 2026-07-23 12:16:48 UTC
 
-- [Powerful AIs might escape containment by releasing themselves as open-weight models](https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/) (`seangoedecke.com`)
-- [Pluralistic: California's privacy obstacle course (23 Jul 2026)](https://pluralistic.net/2026/07/23/drop-a-dime/) (`pluralistic.net`)
-- [Met het Oog op Morgen: Uitgebroken AI?](https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/) (`berthub.eu`)
+- [The Caldera-Microsoft Lawsuit of 1996](https://dfarq.homeip.net/the-caldera-microsoft-lawsuit-of-1996/?utm_source=rss&utm_medium=rss&utm_campaign=the-caldera-microsoft-lawsuit-of-1996) (`dfarq.homeip.net`)
