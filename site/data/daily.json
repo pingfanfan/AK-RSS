@@ -1,47 +1,114 @@
 {
-  "generated_at": "2026-07-22T22:48:39Z",
+  "generated_at": "2026-07-23T08:05:30Z",
   "days": [
     {
+      "date": "2026-07-23",
+      "total": 3,
+      "feeds": [
+        "nesbitt.io (1)",
+        "oldvcr.blogspot.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Seth Larson",
+        "oldvcr.blogspot.com · John C. Dvorak has died",
+        "nesbitt.io · Package Name Prefixes"
+      ],
+      "key_points": [
+        "Quoting Seth Larson",
+        "John C. Dvorak has died",
+        "Package Name Prefixes"
+      ],
+      "key_points_zh": [
+        "Quoting Seth Larson",
+        "John C. Dvorak has died",
+        "Package Name Prefixes"
+      ],
+      "key_points_en": [
+        "Quoting Seth Larson",
+        "John C. Dvorak has died",
+        "Package Name Prefixes"
+      ],
+      "tweet_drafts": [
+        "Quoting Seth Larson",
+        "John C. Dvorak has died",
+        "Package Name Prefixes"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Seth Larson",
+          "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything"
+        },
+        {
+          "feed_title": "oldvcr.blogspot.com",
+          "title": "John C. Dvorak has died",
+          "link": "https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Name Prefixes",
+          "link": "https://nesbitt.io/2026/07/23/package-name-prefixes.html"
+        }
+      ],
+      "summary_zh": "2026-07-23 技术日报：Quoting Seth Larson；John C. Dvorak has died；Package Name Prefixes。",
+      "summary_en": "Daily brief (2026-07-23): Quoting Seth Larson; John C. Dvorak has died; Package Name Prefixes.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-23 日报】Quoting Seth Larson；John C. Dvorak has died；Package Name Prefixes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-23): Quoting Seth Larson; John C. Dvorak has died; Package Name Prefixes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-23）\n- Quoting Seth Larson\n- John C. Dvorak has died\n- Package Name Prefixes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything\n- https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html\n- https://nesbitt.io/2026/07/23/package-name-prefixes.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- Quoting Seth Larson\n- John C. Dvorak has died\n- Package Name Prefixes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything\n- https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html\n- https://nesbitt.io/2026/07/23/package-name-prefixes.html\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Quoting Seth Larson；John C. Dvorak has died；Package Name Prefixes。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Seth Larson; John C. Dvorak has died; Package Name Prefixes.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-07-22",
-      "total": 10,
+      "total": 12,
       "feeds": [
         "antirez.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
         "jeffgeerling.com (1)",
-        "johndcook.com (1)",
-        "krebsonsecurity.com (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
-        "shkspr.mobi · Scattered thoughts on social geolocation",
-        "dfarq.homeip.net · Amiga 1000: Ten years ahead of its time"
+        "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "When sine of x degrees equals sine of x radians"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "When sine of x degrees equals sine of x radians"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "When sine of x degrees equals sine of x radians"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "sources": [
         {
@@ -55,25 +122,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
-          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -316,46 +383,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "blog.jim-nielsen.com · Make It Work vs. Make It Good",
+        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "minimaxir.com",
-          "title": "What's the deal with all the random weekly quota resets for agents lately?",
-          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
-        },
-        {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Make It Work vs. Make It Good",
           "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
+        },
+        {
+          "feed_title": "minimaxir.com",
+          "title": "What's the deal with all the random weekly quota resets for agents lately?",
+          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -363,20 +430,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -610,7 +677,7 @@
     },
     {
       "date": "2026-07-14",
-      "total": 16,
+      "total": 17,
       "feeds": [
         "simonwillison.net (4)",
         "buttondown.com/hillelwayne (1)",
@@ -2196,82 +2263,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：WebKit Always Enables the Copy Menu Item in Every App；WebKit in Safari 27 Beta；Blogging Can Just Be Stating The Obvious。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: WebKit Always Enables the Copy Menu Item in Every App; WebKit in Safari 27 Beta; Blogging Can Just Be Stating The Obvious.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "total": 18,
-      "feeds": [
-        "simonwillison.net (3)",
-        "daringfireball.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dynomight.net (1)",
-        "experimental-history.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · datasette 1.0a35",
-        "simonwillison.net · OPFS + Pyodide test harness",
-        "daringfireball.net · The Talk Show: ‘Perp Walk for Selfies’",
-        "krebsonsecurity.com · Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-        "experimental-history.com · The most wonderful thing that happened to Tommy McHugh",
-        "wheresyoured.at · Cargo Culture"
-      ],
-      "key_points": [
-        "datasette 1.0a35",
-        "OPFS + Pyodide test harness",
-        "The Talk Show: ‘Perp Walk for Selfies’",
-        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial"
-      ],
-      "key_points_zh": [
-        "datasette 1.0a35",
-        "OPFS + Pyodide test harness",
-        "The Talk Show: ‘Perp Walk for Selfies’",
-        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial"
-      ],
-      "key_points_en": [
-        "datasette 1.0a35",
-        "OPFS + Pyodide test harness",
-        "The Talk Show: ‘Perp Walk for Selfies’",
-        "Scattered Spider Hackers Plead Guilty on Day 1 of Trial"
-      ],
-      "tweet_drafts": [
-        "datasette 1.0a35",
-        "OPFS + Pyodide test harness",
-        "The Talk Show: ‘Perp Walk for Selfies’"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "datasette 1.0a35",
-          "link": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "OPFS + Pyodide test harness",
-          "link": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The Talk Show: ‘Perp Walk for Selfies’",
-          "link": "https://daringfireball.net/thetalkshow/2026/06/23/ep-450"
-        }
-      ],
-      "summary_zh": "2026-06-23 技术日报：datasette 1.0a35；OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’。",
-      "summary_en": "Daily brief (2026-06-23): datasette 1.0a35; OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-23 日报】datasette 1.0a35；OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-23): datasette 1.0a35; OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-23）\n- datasette 1.0a35\n- OPFS + Pyodide test harness\n- The Talk Show: ‘Perp Walk for Selfies’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jun/23/datasette/#atom-everything\n- https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/06/23/ep-450\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-23)\n- datasette 1.0a35\n- OPFS + Pyodide test harness\n- The Talk Show: ‘Perp Walk for Selfies’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jun/23/datasette/#atom-everything\n- https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything\n- https://daringfireball.net/thetalkshow/2026/06/23/ep-450\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：datasette 1.0a35；OPFS + Pyodide test harness；The Talk Show: ‘Perp Walk for Selfies’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: datasette 1.0a35; OPFS + Pyodide test harness; The Talk Show: ‘Perp Walk for Selfies’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
