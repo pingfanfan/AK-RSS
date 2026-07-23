@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-23 12:16:48 UTC
+Generated at: 2026-07-23 14:37:53 UTC
 
-- [The Caldera-Microsoft Lawsuit of 1996](https://dfarq.homeip.net/the-caldera-microsoft-lawsuit-of-1996/?utm_source=rss&utm_medium=rss&utm_campaign=the-caldera-microsoft-lawsuit-of-1996) (`dfarq.homeip.net`)
+- [An almost periodic function](https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/) (`johndcook.com`)
+- [Can We Lower Construction Costs with Cheaper Labor or Materials?](https://www.construction-physics.com/p/can-we-lower-construction-costs-with) (`construction-physics.com`)
