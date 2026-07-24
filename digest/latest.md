@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-24 12:09:37 UTC
+Generated at: 2026-07-24 14:17:46 UTC
 
-- [Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆](https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/) (`shkspr.mobi`)
-- [David Bunnell, vintage computer magazine publisher](https://dfarq.homeip.net/david-bunnell-vintage-computer-magazine-publisher/?utm_source=rss&utm_medium=rss&utm_campaign=david-bunnell-vintage-computer-magazine-publisher) (`dfarq.homeip.net`)
+- [LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/) (`seangoedecke.com`)
+- [Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5](https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562) (`devblogs.microsoft.com/oldnewthing`)
