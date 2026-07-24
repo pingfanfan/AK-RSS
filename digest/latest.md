@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-24 21:33:19 UTC
+Generated at: 2026-07-24 22:48:40 UTC
 
-- [★ Regarding Ad Blockers and Daring Fireball](https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball) (`daringfireball.net`)
+- [JAX backends and devices](https://www.gilesthomas.com/2026/06/jax-backends-and-devices) (`gilesthomas.com`)
