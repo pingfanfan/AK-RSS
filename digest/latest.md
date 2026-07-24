@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-24 17:17:40 UTC
+Generated at: 2026-07-24 18:52:28 UTC
 
-- [Premium: The Hater’s Guide To Oracle (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/) (`wheresyoured.at`)
+- [Index 01 Is In Mass Production!](https://repebble.com/blog/index-01-is-in-mass-production) (`ericmigi.com`)
+- [Defending Privacy, Daily](https://anildash.com/2026/03/31/defending-privacy-daily/) (`anildash.com`)
