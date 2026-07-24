@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-24 10:30:28 UTC
+Generated at: 2026-07-24 12:09:37 UTC
 
-- [Have you read it?](https://idiallo.com/byte-size/have-you-read-your-own-article) (`idiallo.com`)
-- [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html) (`nesbitt.io`)
-- [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) (`pluralistic.net`)
+- [Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆](https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/) (`shkspr.mobi`)
+- [David Bunnell, vintage computer magazine publisher](https://dfarq.homeip.net/david-bunnell-vintage-computer-magazine-publisher/?utm_source=rss&utm_medium=rss&utm_campaign=david-bunnell-vintage-computer-magazine-publisher) (`dfarq.homeip.net`)
