@@ -1,70 +1,77 @@
 {
-  "generated_at": "2026-07-25T10:49:14Z",
+  "generated_at": "2026-07-25T11:55:08Z",
   "days": [
     {
       "date": "2026-07-25",
-      "total": 3,
+      "total": 5,
       "feeds": [
+        "antirez.com (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "shkspr.mobi · Some Quick Thoughts on EMF Camp 2026",
+        "antirez.com · Being Linux Torvalds",
         "pluralistic.net · Pluralistic: Apple's robo-repo (25 Jul 2026)",
         "nesbitt.io · This Week in Package Management: 25 July 2026",
         "simonwillison.net · Quoting Boris Cherny"
       ],
       "key_points": [
+        "Some Quick Thoughts on EMF Camp 2026",
+        "Being Linux Torvalds",
         "Pluralistic: Apple's robo-repo (25 Jul 2026)",
-        "This Week in Package Management: 25 July 2026",
-        "Quoting Boris Cherny"
+        "This Week in Package Management: 25 July 2026"
       ],
       "key_points_zh": [
+        "Some Quick Thoughts on EMF Camp 2026",
+        "Being Linux Torvalds",
         "Pluralistic: Apple's robo-repo (25 Jul 2026)",
-        "This Week in Package Management: 25 July 2026",
-        "Quoting Boris Cherny"
+        "This Week in Package Management: 25 July 2026"
       ],
       "key_points_en": [
+        "Some Quick Thoughts on EMF Camp 2026",
+        "Being Linux Torvalds",
         "Pluralistic: Apple's robo-repo (25 Jul 2026)",
-        "This Week in Package Management: 25 July 2026",
-        "Quoting Boris Cherny"
+        "This Week in Package Management: 25 July 2026"
       ],
       "tweet_drafts": [
-        "Pluralistic: Apple's robo-repo (25 Jul 2026)",
-        "This Week in Package Management: 25 July 2026",
-        "Quoting Boris Cherny"
+        "Some Quick Thoughts on EMF Camp 2026",
+        "Being Linux Torvalds",
+        "Pluralistic: Apple's robo-repo (25 Jul 2026)"
       ],
       "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Some Quick Thoughts on EMF Camp 2026",
+          "link": "https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/"
+        },
+        {
+          "feed_title": "antirez.com",
+          "title": "Being Linux Torvalds",
+          "link": "http://antirez.com/news/171"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Apple's robo-repo (25 Jul 2026)",
           "link": "https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "This Week in Package Management: 25 July 2026",
-          "link": "https://nesbitt.io/2026/07/25/this-week-in-package-management.html"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Boris Cherny",
-          "link": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-25 技术日报：Pluralistic: Apple's robo-repo (25 Jul 2026)；This Week in Package Management: 25 July 2026；Quoting Boris Cherny。",
-      "summary_en": "Daily brief (2026-07-25): Pluralistic: Apple's robo-repo (25 Jul 2026); This Week in Package Management: 25 July 2026; Quoting Boris Cherny.",
+      "summary_zh": "2026-07-25 技术日报：Some Quick Thoughts on EMF Camp 2026；Being Linux Torvalds；Pluralistic: Apple's robo-repo (25 Jul 2026)。",
+      "summary_en": "Daily brief (2026-07-25): Some Quick Thoughts on EMF Camp 2026; Being Linux Torvalds; Pluralistic: Apple's robo-repo (25 Jul 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-25 日报】Pluralistic: Apple's robo-repo (25 Jul 2026)；This Week in Package Management: 25 July 2026；Quoting Boris Cherny。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-25): Pluralistic: Apple's robo-repo (25 Jul 2026); This Week in Package Management: 25 July 2026; Quoting Boris Cherny. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-25 日报】Some Quick Thoughts on EMF Camp 2026；Being Linux Torvalds；Pluralistic: Apple's robo-repo (25 Jul 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-25): Some Quick Thoughts on EMF Camp 2026; Being Linux Torvalds; Pluralistic: Apple's robo-repo (25 Jul 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-25）\n- Pluralistic: Apple's robo-repo (25 Jul 2026)\n- This Week in Package Management: 25 July 2026\n- Quoting Boris Cherny\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/\n- https://nesbitt.io/2026/07/25/this-week-in-package-management.html\n- https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-25)\n- Pluralistic: Apple's robo-repo (25 Jul 2026)\n- This Week in Package Management: 25 July 2026\n- Quoting Boris Cherny\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/\n- https://nesbitt.io/2026/07/25/this-week-in-package-management.html\n- https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-25）\n- Some Quick Thoughts on EMF Camp 2026\n- Being Linux Torvalds\n- Pluralistic: Apple's robo-repo (25 Jul 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/\n- http://antirez.com/news/171\n- https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-25)\n- Some Quick Thoughts on EMF Camp 2026\n- Being Linux Torvalds\n- Pluralistic: Apple's robo-repo (25 Jul 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/\n- http://antirez.com/news/171\n- https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Apple's robo-repo (25 Jul 2026)；This Week in Package Management: 25 July 2026；Quoting Boris Cherny。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Apple's robo-repo (25 Jul 2026); This Week in Package Management: 25 July 2026; Quoting Boris Cherny.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Some Quick Thoughts on EMF Camp 2026；Being Linux Torvalds；Pluralistic: Apple's robo-repo (25 Jul 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Some Quick Thoughts on EMF Camp 2026; Being Linux Torvalds; Pluralistic: Apple's robo-repo (25 Jul 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -200,7 +207,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -211,8 +218,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
