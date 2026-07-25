@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-24 22:48:40 UTC
+Generated at: 2026-07-25 07:47:01 UTC
 
-- [JAX backends and devices](https://www.gilesthomas.com/2026/06/jax-backends-and-devices) (`gilesthomas.com`)
+- [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) (`simonwillison.net`)
