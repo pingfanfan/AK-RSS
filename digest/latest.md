@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-25 17:46:38 UTC
+Generated at: 2026-07-25 18:44:25 UTC
 
-- [EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en) (`daringfireball.net`)
+- [‘AI Mania Is Eviscerating Global Decision-Making’](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/) (`daringfireball.net`)
