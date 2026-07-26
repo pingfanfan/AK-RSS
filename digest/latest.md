@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-26 10:15:56 UTC
+Generated at: 2026-07-26 11:41:28 UTC
 
-- [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/) (`troyhunt.com`)
+- [Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆](https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/) (`shkspr.mobi`)
