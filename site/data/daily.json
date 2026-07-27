@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-26T23:25:43Z",
+  "generated_at": "2026-07-27T09:20:22Z",
   "days": [
     {
       "date": "2026-07-26",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "johndcook.com (2)",
         "dfarq.homeip.net (1)",
+        "entropicthoughts.com (1)",
         "idiallo.com (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "troyhunt.com (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Digital circuit simulator in Haskell (SICP 3.3)",
         "johndcook.com · Permutation roots",
         "simonwillison.net · An Inside Look at the Relay Market Powering Token Resellers and Fraud",
         "idiallo.com · Why $550 Million Medical Debt only Cost $5.5 Million",
         "johndcook.com · exp_q",
-        "shkspr.mobi · Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆",
-        "dfarq.homeip.net · What happened to ARCNET"
+        "shkspr.mobi · Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆"
       ],
       "key_points": [
-        "Permutation roots",
-        "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-        "Why $550 Million Medical Debt only Cost $5.5 Million",
-        "exp_q"
-      ],
-      "key_points_zh": [
-        "Permutation roots",
-        "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-        "Why $550 Million Medical Debt only Cost $5.5 Million",
-        "exp_q"
-      ],
-      "key_points_en": [
-        "Permutation roots",
-        "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-        "Why $550 Million Medical Debt only Cost $5.5 Million",
-        "exp_q"
-      ],
-      "tweet_drafts": [
+        "Digital circuit simulator in Haskell (SICP 3.3)",
         "Permutation roots",
         "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
         "Why $550 Million Medical Debt only Cost $5.5 Million"
       ],
+      "key_points_zh": [
+        "Digital circuit simulator in Haskell (SICP 3.3)",
+        "Permutation roots",
+        "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+        "Why $550 Million Medical Debt only Cost $5.5 Million"
+      ],
+      "key_points_en": [
+        "Digital circuit simulator in Haskell (SICP 3.3)",
+        "Permutation roots",
+        "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+        "Why $550 Million Medical Debt only Cost $5.5 Million"
+      ],
+      "tweet_drafts": [
+        "Digital circuit simulator in Haskell (SICP 3.3)",
+        "Permutation roots",
+        "An Inside Look at the Relay Market Powering Token Resellers and Fraud"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Digital circuit simulator in Haskell (SICP 3.3)",
+          "link": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Permutation roots",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
           "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Why $550 Million Medical Debt only Cost $5.5 Million",
-          "link": "https://idiallo.com/byte-size/550-million-only-cost-5-million"
         }
       ],
-      "summary_zh": "2026-07-26 技术日报：Permutation roots；An Inside Look at the Relay Market Powering Token Resellers and Fraud；Why $550 Million Medical Debt only Cost $5.5 Million。",
-      "summary_en": "Daily brief (2026-07-26): Permutation roots; An Inside Look at the Relay Market Powering Token Resellers and Fraud; Why $550 Million Medical Debt only Cost $5.5 Million.",
+      "summary_zh": "2026-07-26 技术日报：Digital circuit simulator in Haskell (SICP 3.3)；Permutation roots；An Inside Look at the Relay Market Powering Token Resellers and Fraud。",
+      "summary_en": "Daily brief (2026-07-26): Digital circuit simulator in Haskell (SICP 3.3); Permutation roots; An Inside Look at the Relay Market Powering Token Resellers and Fraud.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-26 日报】Permutation roots；An Inside Look at the Relay Market Powering Token Resellers and Fraud；Why $550 Million Medical Debt only Cost $5.5 Million。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-26): Permutation roots; An Inside Look at the Relay Market Powering Token Resellers and Fraud; Why $550 Million Medical Debt only Cost $5.5 Million. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-26 日报】Digital circuit simulator in Haskell (SICP 3.3)；Permutation roots；An Inside Look at the Relay Market Powering Token Resellers and Fraud。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-26): Digital circuit simulator in Haskell (SICP 3.3); Permutation roots; An Inside Look at the Relay Market Powering Token Resellers and Fraud. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-26）\n- Permutation roots\n- An Inside Look at the Relay Market Powering Token Resellers and Fraud\n- Why $550 Million Medical Debt only Cost $5.5 Million\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/07/26/permutation-roots/\n- https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything\n- https://idiallo.com/byte-size/550-million-only-cost-5-million\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-26)\n- Permutation roots\n- An Inside Look at the Relay Market Powering Token Resellers and Fraud\n- Why $550 Million Medical Debt only Cost $5.5 Million\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/07/26/permutation-roots/\n- https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything\n- https://idiallo.com/byte-size/550-million-only-cost-5-million\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-26）\n- Digital circuit simulator in Haskell (SICP 3.3)\n- Permutation roots\n- An Inside Look at the Relay Market Powering Token Resellers and Fraud\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell\n- https://www.johndcook.com/blog/2026/07/26/permutation-roots/\n- https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-26)\n- Digital circuit simulator in Haskell (SICP 3.3)\n- Permutation roots\n- An Inside Look at the Relay Market Powering Token Resellers and Fraud\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell\n- https://www.johndcook.com/blog/2026/07/26/permutation-roots/\n- https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Permutation roots；An Inside Look at the Relay Market Powering Token Resellers and Fraud；Why $550 Million Medical Debt only Cost $5.5 Million。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Permutation roots; An Inside Look at the Relay Market Powering Token Resellers and Fraud; Why $550 Million Medical Debt only Cost $5.5 Million.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Digital circuit simulator in Haskell (SICP 3.3)；Permutation roots；An Inside Look at the Relay Market Powering Token Resellers and Fraud。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Digital circuit simulator in Haskell (SICP 3.3); Permutation roots; An Inside Look at the Relay Market Powering Token Resellers and Fraud.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -285,7 +285,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -296,8 +296,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1233,7 +1233,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
