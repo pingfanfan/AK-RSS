@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-27 21:33:19 UTC
+Generated at: 2026-07-27 22:46:27 UTC
 
-- [Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6](https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566) (`devblogs.microsoft.com/oldnewthing`)
+- [An opinionated guide to which AI to use to do stuff](https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything) (`simonwillison.net`)
