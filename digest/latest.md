@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-28 16:28:35 UTC
+Generated at: 2026-07-28 17:50:51 UTC
 
-- [Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’](https://www.businessinsider.com/apple-snubs-the-iad-2011-6) (`daringfireball.net`)
-- [Does every question mark deserve a Betteridge?](https://dynomight.net/betteridge/) (`dynomight.net`)
+- [When The Future Doesn’t Need Us](https://borretti.me/article/when-the-future-doesnt-need-us) (`borretti.me`)
+- [The More You Buy, The More You Lose](https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/) (`wheresyoured.at`)
