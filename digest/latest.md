@@ -1,7 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-28 10:54:55 UTC
+Generated at: 2026-07-28 12:27:47 UTC
 
-- [Why npm Dependency Trees Are So Big](https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html) (`nesbitt.io`)
-- [The real AI risk is inside the labs](http://antirez.com/news/172) (`antirez.com`)
-- [Pluralistic: Discernment (28 Jul 2026)](https://pluralistic.net/2026/07/28/hitl-ers/) (`pluralistic.net`)
+- [Cryptographic Keys and Decks of Cards](https://www.johndcook.com/blog/2026/07/28/keys-and-cards/) (`johndcook.com`)
+- [Google Calendar "Unable to launch event" - caused by missing DTSTAMP](https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/) (`shkspr.mobi`)
+- [IBM PS/2 E: The first Energy Star computer](https://dfarq.homeip.net/ibm-ps-2-e-the-first-energy-star-computer/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-ps-2-e-the-first-energy-star-computer) (`dfarq.homeip.net`)
