@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-28 14:57:18 UTC
+Generated at: 2026-07-28 16:28:35 UTC
 
-- [Inverse factorial improved](https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/) (`johndcook.com`)
-- [The Photographer Who Takes No Pictures](https://simone.org/intent/) (`simone.org`)
+- [Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’](https://www.businessinsider.com/apple-snubs-the-iad-2011-6) (`daringfireball.net`)
+- [Does every question mark deserve a Betteridge?](https://dynomight.net/betteridge/) (`dynomight.net`)
