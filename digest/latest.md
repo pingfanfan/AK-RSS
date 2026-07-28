@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-27 22:46:27 UTC
+Generated at: 2026-07-28 08:09:04 UTC
 
-- [An opinionated guide to which AI to use to do stuff](https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything) (`simonwillison.net`)
+- [moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything) (`simonwillison.net`)
+- [[Sponsor] Introducing Agent Fone](https://fail.xyz/phone/) (`daringfireball.net`)
+- [Hiding data in permutations](https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/) (`johndcook.com`)
