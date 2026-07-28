@@ -1,70 +1,79 @@
 {
-  "generated_at": "2026-07-28T08:09:21Z",
+  "generated_at": "2026-07-28T10:55:10Z",
   "days": [
     {
       "date": "2026-07-28",
-      "total": 3,
+      "total": 6,
       "feeds": [
+        "antirez.com (1)",
         "daringfireball.net (1)",
         "johndcook.com (1)",
+        "nesbitt.io (1)",
+        "pluralistic.net (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: Discernment (28 Jul 2026)",
+        "nesbitt.io · Why npm Dependency Trees Are So Big",
+        "antirez.com · The real AI risk is inside the labs",
         "daringfireball.net · [Sponsor] Introducing Agent Fone",
         "simonwillison.net · moonshotai/Kimi-K3",
         "johndcook.com · Hiding data in permutations"
       ],
       "key_points": [
-        "[Sponsor] Introducing Agent Fone",
-        "moonshotai/Kimi-K3",
-        "Hiding data in permutations"
+        "Pluralistic: Discernment (28 Jul 2026)",
+        "Why npm Dependency Trees Are So Big",
+        "The real AI risk is inside the labs",
+        "[Sponsor] Introducing Agent Fone"
       ],
       "key_points_zh": [
-        "[Sponsor] Introducing Agent Fone",
-        "moonshotai/Kimi-K3",
-        "Hiding data in permutations"
+        "Pluralistic: Discernment (28 Jul 2026)",
+        "Why npm Dependency Trees Are So Big",
+        "The real AI risk is inside the labs",
+        "[Sponsor] Introducing Agent Fone"
       ],
       "key_points_en": [
-        "[Sponsor] Introducing Agent Fone",
-        "moonshotai/Kimi-K3",
-        "Hiding data in permutations"
+        "Pluralistic: Discernment (28 Jul 2026)",
+        "Why npm Dependency Trees Are So Big",
+        "The real AI risk is inside the labs",
+        "[Sponsor] Introducing Agent Fone"
       ],
       "tweet_drafts": [
-        "[Sponsor] Introducing Agent Fone",
-        "moonshotai/Kimi-K3",
-        "Hiding data in permutations"
+        "Pluralistic: Discernment (28 Jul 2026)",
+        "Why npm Dependency Trees Are So Big",
+        "The real AI risk is inside the labs"
       ],
       "sources": [
         {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] Introducing Agent Fone",
-          "link": "https://fail.xyz/phone/"
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Discernment (28 Jul 2026)",
+          "link": "https://pluralistic.net/2026/07/28/hitl-ers/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything"
+          "feed_title": "nesbitt.io",
+          "title": "Why npm Dependency Trees Are So Big",
+          "link": "https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html"
         },
         {
-          "feed_title": "johndcook.com",
-          "title": "Hiding data in permutations",
-          "link": "https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/"
+          "feed_title": "antirez.com",
+          "title": "The real AI risk is inside the labs",
+          "link": "http://antirez.com/news/172"
         }
       ],
-      "summary_zh": "2026-07-28 技术日报：[Sponsor] Introducing Agent Fone；moonshotai/Kimi-K3；Hiding data in permutations。",
-      "summary_en": "Daily brief (2026-07-28): [Sponsor] Introducing Agent Fone; moonshotai/Kimi-K3; Hiding data in permutations.",
+      "summary_zh": "2026-07-28 技术日报：Pluralistic: Discernment (28 Jul 2026)；Why npm Dependency Trees Are So Big；The real AI risk is inside the labs。",
+      "summary_en": "Daily brief (2026-07-28): Pluralistic: Discernment (28 Jul 2026); Why npm Dependency Trees Are So Big; The real AI risk is inside the labs.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-28 日报】[Sponsor] Introducing Agent Fone；moonshotai/Kimi-K3；Hiding data in permutations。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-28): [Sponsor] Introducing Agent Fone; moonshotai/Kimi-K3; Hiding data in permutations. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-28 日报】Pluralistic: Discernment (28 Jul 2026)；Why npm Dependency Trees Are So Big；The real AI risk is inside the labs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-28): Pluralistic: Discernment (28 Jul 2026); Why npm Dependency Trees Are So Big; The real AI risk is inside the labs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-28）\n- [Sponsor] Introducing Agent Fone\n- moonshotai/Kimi-K3\n- Hiding data in permutations\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://fail.xyz/phone/\n- https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything\n- https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-28)\n- [Sponsor] Introducing Agent Fone\n- moonshotai/Kimi-K3\n- Hiding data in permutations\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://fail.xyz/phone/\n- https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything\n- https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-28）\n- Pluralistic: Discernment (28 Jul 2026)\n- Why npm Dependency Trees Are So Big\n- The real AI risk is inside the labs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/07/28/hitl-ers/\n- https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html\n- http://antirez.com/news/172\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-28)\n- Pluralistic: Discernment (28 Jul 2026)\n- Why npm Dependency Trees Are So Big\n- The real AI risk is inside the labs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/07/28/hitl-ers/\n- https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html\n- http://antirez.com/news/172\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] Introducing Agent Fone；moonshotai/Kimi-K3；Hiding data in permutations。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] Introducing Agent Fone; moonshotai/Kimi-K3; Hiding data in permutations.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: Discernment (28 Jul 2026)；Why npm Dependency Trees Are So Big；The real AI risk is inside the labs。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Discernment (28 Jul 2026); Why npm Dependency Trees Are So Big; The real AI risk is inside the labs.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -428,7 +437,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/"
+          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -439,8 +448,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -462,33 +471,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "sources": [
         {
@@ -502,25 +511,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
-          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -692,7 +701,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "computer.rip · email encryption"
+        "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
