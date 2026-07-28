@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-28T20:37:54Z",
+  "generated_at": "2026-07-28T21:52:50Z",
   "days": [
     {
       "date": "2026-07-28",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "johndcook.com (3)",
         "daringfireball.net (2)",
+        "simonwillison.net (2)",
         "antirez.com (1)",
         "borretti.me (1)",
-        "dfarq.homeip.net (1)",
-        "dynomight.net (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · uv 0.12.0",
         "wheresyoured.at · The More You Buy, The More You Lose",
         "daringfireball.net · Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
         "johndcook.com · Inverse factorial improved",
         "simone.org · The Photographer Who Takes No Pictures",
-        "johndcook.com · Cryptographic Keys and Decks of Cards",
-        "shkspr.mobi · Google Calendar \"Unable to launch event\" - caused by missing DTSTAMP"
+        "johndcook.com · Cryptographic Keys and Decks of Cards"
       ],
       "key_points": [
-        "The More You Buy, The More You Lose",
-        "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
-        "Inverse factorial improved",
-        "The Photographer Who Takes No Pictures"
-      ],
-      "key_points_zh": [
-        "The More You Buy, The More You Lose",
-        "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
-        "Inverse factorial improved",
-        "The Photographer Who Takes No Pictures"
-      ],
-      "key_points_en": [
-        "The More You Buy, The More You Lose",
-        "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
-        "Inverse factorial improved",
-        "The Photographer Who Takes No Pictures"
-      ],
-      "tweet_drafts": [
+        "uv 0.12.0",
         "The More You Buy, The More You Lose",
         "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
         "Inverse factorial improved"
       ],
+      "key_points_zh": [
+        "uv 0.12.0",
+        "The More You Buy, The More You Lose",
+        "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
+        "Inverse factorial improved"
+      ],
+      "key_points_en": [
+        "uv 0.12.0",
+        "The More You Buy, The More You Lose",
+        "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
+        "Inverse factorial improved"
+      ],
+      "tweet_drafts": [
+        "uv 0.12.0",
+        "The More You Buy, The More You Lose",
+        "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "uv 0.12.0",
+          "link": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "The More You Buy, The More You Lose",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
           "link": "https://www.businessinsider.com/apple-snubs-the-iad-2011-6"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Inverse factorial improved",
-          "link": "https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/"
         }
       ],
-      "summary_zh": "2026-07-28 技术日报：The More You Buy, The More You Lose；Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’；Inverse factorial improved。",
-      "summary_en": "Daily brief (2026-07-28): The More You Buy, The More You Lose; Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’; Inverse factorial improved.",
+      "summary_zh": "2026-07-28 技术日报：uv 0.12.0；The More You Buy, The More You Lose；Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’。",
+      "summary_en": "Daily brief (2026-07-28): uv 0.12.0; The More You Buy, The More You Lose; Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-28 日报】The More You Buy, The More You Lose；Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’；Inverse factorial improved。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-28): The More You Buy, The More You Lose; Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’; Inverse factorial improved. Actionable takeaways included. What would you ship next? #AI #Engin"
+          "zh": "【2026-07-28 日报】uv 0.12.0；The More You Buy, The More You Lose；Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-28): uv 0.12.0; The More You Buy, The More You Lose; Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-28）\n- The More You Buy, The More You Lose\n- Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’\n- Inverse factorial improved\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/\n- https://www.businessinsider.com/apple-snubs-the-iad-2011-6\n- https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-28)\n- The More You Buy, The More You Lose\n- Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’\n- Inverse factorial improved\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/\n- https://www.businessinsider.com/apple-snubs-the-iad-2011-6\n- https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-28）\n- uv 0.12.0\n- The More You Buy, The More You Lose\n- Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/28/uv/#atom-everything\n- https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/\n- https://www.businessinsider.com/apple-snubs-the-iad-2011-6\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-28)\n- uv 0.12.0\n- The More You Buy, The More You Lose\n- Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/28/uv/#atom-everything\n- https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/\n- https://www.businessinsider.com/apple-snubs-the-iad-2011-6\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The More You Buy, The More You Lose；Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’；Inverse factorial improved。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The More You Buy, The More You Lose; Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’; Inverse factorial improved.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：uv 0.12.0；The More You Buy, The More You Lose；Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: uv 0.12.0; The More You Buy, The More You Lose; Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -437,7 +437,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -448,8 +448,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -471,33 +471,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "sources": [
         {
@@ -511,25 +511,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
-          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
