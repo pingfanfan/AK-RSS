@@ -1,16 +1,72 @@
 {
-  "generated_at": "2026-07-28T22:47:20Z",
+  "generated_at": "2026-07-29T08:13:25Z",
   "days": [
     {
+      "date": "2026-07-29",
+      "total": 2,
+      "feeds": [
+        "pluralistic.net (1)",
+        "seangoedecke.com (1)"
+      ],
+      "highlights": [
+        "pluralistic.net · Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+        "seangoedecke.com · You don't have to be smart if you can think clearly"
+      ],
+      "key_points": [
+        "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+        "You don't have to be smart if you can think clearly"
+      ],
+      "key_points_zh": [
+        "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+        "You don't have to be smart if you can think clearly"
+      ],
+      "key_points_en": [
+        "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+        "You don't have to be smart if you can think clearly"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+        "You don't have to be smart if you can think clearly"
+      ],
+      "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)",
+          "link": "https://pluralistic.net/2026/07/29/la-la-la-la-la/"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "You don't have to be smart if you can think clearly",
+          "link": "https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/"
+        }
+      ],
+      "summary_zh": "2026-07-29 技术日报：Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)；You don't have to be smart if you can think clearly。",
+      "summary_en": "Daily brief (2026-07-29): Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026); You don't have to be smart if you can think clearly.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-07-29 日报】Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)；You don't have to be smart if you can think clearly。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-29): Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026); You don't have to be smart if you can think clearly. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-07-29）\n- Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)\n- You don't have to be smart if you can think clearly\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/07/29/la-la-la-la-la/\n- https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-29)\n- Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)\n- You don't have to be smart if you can think clearly\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/07/29/la-la-la-la-la/\n- https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)；You don't have to be smart if you can think clearly。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026); You don't have to be smart if you can think clearly.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-07-28",
-      "total": 17,
+      "total": 18,
       "feeds": [
         "johndcook.com (3)",
         "simonwillison.net (3)",
         "daringfireball.net (2)",
         "antirez.com (1)",
         "borretti.me (1)",
-        "dfarq.homeip.net (1)"
+        "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
         "simonwillison.net · Discovering cryptographic weaknesses with Claude",
@@ -18,7 +74,7 @@
         "wheresyoured.at · The More You Buy, The More You Lose",
         "daringfireball.net · Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’",
         "johndcook.com · Inverse factorial improved",
-        "simone.org · The Photographer Who Takes No Pictures"
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 7"
       ],
       "key_points": [
         "Discovering cryptographic weaknesses with Claude",
@@ -471,33 +527,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "sources": [
         {
@@ -511,25 +567,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
+          "feed_title": "jeffgeerling.com",
+          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
+          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -701,7 +757,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "computer.rip · email encryption"
+        "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
@@ -1385,7 +1441,7 @@
         "simonwillison.net · Quoting Nilay Patel",
         "dwarkesh.com · Adam Brown – Einstein's happiest thought: General Relativity from scratch",
         "filfre.net · This Week on The Analog Antiquarian",
-        "devblogs.microsoft.com/oldnewthing · The case of the mysterious changes to integers when there shouldn’t have been any code generation effect"
+        "jeffgeerling.com · QuadRF can spot drones and see WiFi through my wall"
       ],
       "key_points": [
         "Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets",
@@ -2196,82 +2252,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Nano Banana 2 Lite；What's new in Claude Sonnet 5；Gnome。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Nano Banana 2 Lite; What's new in Claude Sonnet 5; Gnome.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-06-29",
-      "total": 10,
-      "feeds": [
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)",
-        "idiallo.com (1)",
-        "johndcook.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Data-directed programming in Haskell (SICP 2.4.3)",
-        "simonwillison.net · Count the number of Safari tabs",
-        "pluralistic.net · Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-        "simonwillison.net · Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "devblogs.microsoft.com/oldnewthing · The evolution of window and class extra bytes in Windows",
-        "johndcook.com · Who you gonna believe: Grok or the docs?"
-      ],
-      "key_points": [
-        "Data-directed programming in Haskell (SICP 2.4.3)",
-        "Count the number of Safari tabs",
-        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
-      ],
-      "key_points_zh": [
-        "Data-directed programming in Haskell (SICP 2.4.3)",
-        "Count the number of Safari tabs",
-        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
-      ],
-      "key_points_en": [
-        "Data-directed programming in Haskell (SICP 2.4.3)",
-        "Count the number of Safari tabs",
-        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-        "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
-      ],
-      "tweet_drafts": [
-        "Data-directed programming in Haskell (SICP 2.4.3)",
-        "Count the number of Safari tabs",
-        "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Data-directed programming in Haskell (SICP 2.4.3)",
-          "link": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Count the number of Safari tabs",
-          "link": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-          "link": "https://pluralistic.net/2026/06/29/arsonist-firefighters/"
-        }
-      ],
-      "summary_zh": "2026-06-29 技术日报：Data-directed programming in Haskell (SICP 2.4.3)；Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)。",
-      "summary_en": "Daily brief (2026-06-29): Data-directed programming in Haskell (SICP 2.4.3); Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026).",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-06-29 日报】Data-directed programming in Haskell (SICP 2.4.3)；Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-06-29): Data-directed programming in Haskell (SICP 2.4.3); Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026). Actionable takeaways included. What would you ship next?"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-06-29）\n- Data-directed programming in Haskell (SICP 2.4.3)\n- Count the number of Safari tabs\n- Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell\n- https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything\n- https://pluralistic.net/2026/06/29/arsonist-firefighters/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-06-29)\n- Data-directed programming in Haskell (SICP 2.4.3)\n- Count the number of Safari tabs\n- Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell\n- https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything\n- https://pluralistic.net/2026/06/29/arsonist-firefighters/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Data-directed programming in Haskell (SICP 2.4.3)；Count the number of Safari tabs；Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Data-directed programming in Haskell (SICP 2.4.3); Count the number of Safari tabs; Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
