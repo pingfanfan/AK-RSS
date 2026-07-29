@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-29 15:06:17 UTC
+Generated at: 2026-07-29 16:43:39 UTC
 
-- [‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’](https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement) (`daringfireball.net`)
-- [Why compute might get 10x+ more expensive in coming years](https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive) (`dwarkesh.com`)
-- [JAX: commitment issues](https://www.gilesthomas.com/2026/06/jax-commitment-issues) (`gilesthomas.com`)
-- [AI: Overwegingen voor wie erover gaat](https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/) (`berthub.eu`)
+- [Pastebot 3](https://tapbots.com/pastebot/) (`daringfireball.net`)
+- [Superlogical](https://mitchellh.com/writing/superlogical) (`mitchellh.com`)
+- [Logic for Programmers is Done](https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/) (`buttondown.com/hillelwayne`)
