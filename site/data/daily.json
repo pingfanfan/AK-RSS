@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-29T16:43:54Z",
+  "generated_at": "2026-07-29T18:00:16Z",
   "days": [
     {
       "date": "2026-07-29",
-      "total": 9,
+      "total": 11,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "berthub.eu (1)",
         "buttondown.com/hillelwayne (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "mitchellh.com (1)"
+        "dwarkesh.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest",
         "daringfireball.net · Pastebot 3",
         "buttondown.com/hillelwayne · Logic for Programmers is Done",
         "dwarkesh.com · Why compute might get 10x+ more expensive in coming years",
         "daringfireball.net · ‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’",
-        "berthub.eu · AI: Overwegingen voor wie erover gaat",
-        "dfarq.homeip.net · Clive Sinclair: a US perspective"
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 8"
       ],
       "key_points": [
-        "Pastebot 3",
-        "Logic for Programmers is Done",
-        "Why compute might get 10x+ more expensive in coming years",
-        "‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’"
-      ],
-      "key_points_zh": [
-        "Pastebot 3",
-        "Logic for Programmers is Done",
-        "Why compute might get 10x+ more expensive in coming years",
-        "‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’"
-      ],
-      "key_points_en": [
-        "Pastebot 3",
-        "Logic for Programmers is Done",
-        "Why compute might get 10x+ more expensive in coming years",
-        "‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’"
-      ],
-      "tweet_drafts": [
+        "Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest",
         "Pastebot 3",
         "Logic for Programmers is Done",
         "Why compute might get 10x+ more expensive in coming years"
       ],
+      "key_points_zh": [
+        "Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest",
+        "Pastebot 3",
+        "Logic for Programmers is Done",
+        "Why compute might get 10x+ more expensive in coming years"
+      ],
+      "key_points_en": [
+        "Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest",
+        "Pastebot 3",
+        "Logic for Programmers is Done",
+        "Why compute might get 10x+ more expensive in coming years"
+      ],
+      "tweet_drafts": [
+        "Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest",
+        "Pastebot 3",
+        "Logic for Programmers is Done"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest",
+          "link": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Pastebot 3",
@@ -53,27 +58,22 @@
           "feed_title": "buttondown.com/hillelwayne",
           "title": "Logic for Programmers is Done",
           "link": "https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "Why compute might get 10x+ more expensive in coming years",
-          "link": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive"
         }
       ],
-      "summary_zh": "2026-07-29 技术日报：Pastebot 3；Logic for Programmers is Done；Why compute might get 10x+ more expensive in coming years。",
-      "summary_en": "Daily brief (2026-07-29): Pastebot 3; Logic for Programmers is Done; Why compute might get 10x+ more expensive in coming years.",
+      "summary_zh": "2026-07-29 技术日报：Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest；Pastebot 3；Logic for Programmers is Done。",
+      "summary_en": "Daily brief (2026-07-29): Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest; Pastebot 3; Logic for Programmers is Done.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-29 日报】Pastebot 3；Logic for Programmers is Done；Why compute might get 10x+ more expensive in coming years。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-29): Pastebot 3; Logic for Programmers is Done; Why compute might get 10x+ more expensive in coming years. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-29 日报】Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest；Pastebot 3；Logic for Programmers is Done。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-29): Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest; Pastebot 3; Logic for Programmers is Done. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInP"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-29）\n- Pastebot 3\n- Logic for Programmers is Done\n- Why compute might get 10x+ more expensive in coming years\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://tapbots.com/pastebot/\n- https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/\n- https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-29)\n- Pastebot 3\n- Logic for Programmers is Done\n- Why compute might get 10x+ more expensive in coming years\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://tapbots.com/pastebot/\n- https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/\n- https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-29）\n- Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest\n- Pastebot 3\n- Logic for Programmers is Done\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/\n- https://tapbots.com/pastebot/\n- https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-29)\n- Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest\n- Pastebot 3\n- Logic for Programmers is Done\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/\n- https://tapbots.com/pastebot/\n- https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pastebot 3；Logic for Programmers is Done；Why compute might get 10x+ more expensive in coming years。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pastebot 3; Logic for Programmers is Done; Why compute might get 10x+ more expensive in coming years.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest；Pastebot 3；Logic for Programmers is Done。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest; Pastebot 3; Logic for Programmers is Done.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -513,7 +513,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -524,8 +524,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -547,33 +547,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "sources": [
         {
@@ -587,25 +587,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
-          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

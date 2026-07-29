@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-29 16:43:39 UTC
+Generated at: 2026-07-29 18:00:00 UTC
 
-- [Pastebot 3](https://tapbots.com/pastebot/) (`daringfireball.net`)
-- [Superlogical](https://mitchellh.com/writing/superlogical) (`mitchellh.com`)
-- [Logic for Programmers is Done](https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/) (`buttondown.com/hillelwayne`)
+- [Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest](https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/) (`daringfireball.net`)
+- [Making an agile version of a Windows Runtime delegate in C++/WinRT, part 8](https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570) (`devblogs.microsoft.com/oldnewthing`)
