@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-30 08:01:27 UTC
+Generated at: 2026-07-30 10:35:55 UTC
 
-- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) (`blog.jim-nielsen.com`)
+- [Wheels, Bottles and Images](https://nesbitt.io/2026/07/30/wheels-bottles-images.html) (`nesbitt.io`)
