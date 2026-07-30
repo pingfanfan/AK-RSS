@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-30 12:20:05 UTC
+Generated at: 2026-07-30 14:37:53 UTC
 
-- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) (`construction-physics.com`)
-- [When Nintendo sued Blockbuster](https://dfarq.homeip.net/when-nintendo-sued-blockbuster/?utm_source=rss&utm_medium=rss&utm_campaign=when-nintendo-sued-blockbuster) (`dfarq.homeip.net`)
+- [Are political journalists always wrong?](https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/) (`shkspr.mobi`)
+- [Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)](https://pluralistic.net/2026/07/30/pay-for-privacy/) (`pluralistic.net`)
