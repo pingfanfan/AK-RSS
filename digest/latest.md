@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-30 20:38:41 UTC
+Generated at: 2026-07-30 21:54:54 UTC
 
-- [Rogue Amoeba: Unobtrusive Update Notifications](https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/) (`daringfireball.net`)
-- [You have been mislead about lightbulbs](https://maurycyz.com/misc/tungsten/) (`maurycyz.com`)
+- [Mark Zuckerberg: ‘The AI Future Is for Everyone’](https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM) (`daringfireball.net`)
