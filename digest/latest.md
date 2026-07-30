@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-30 17:54:07 UTC
+Generated at: 2026-07-30 19:04:46 UTC
 
-- [Looking for the Catch in Apple Upgrade](https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/) (`daringfireball.net`)
-- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) (`krebsonsecurity.com`)
+- [Quoting Bruce Schneier](https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything) (`simonwillison.net`)
+- [So you want to use plants to reduce CO₂](https://dynomight.net/plants/) (`dynomight.net`)
+- [10Gb/s Ethernet: switching to a Broadcom SFP+ module](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus) (`gilesthomas.com`)
