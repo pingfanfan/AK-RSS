@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-07-31 21:33:12 UTC
+Generated at: 2026-07-31 22:46:41 UTC
 
-- [smevals - a small eval suite for evaluating models, prompts, and harnesses](https://simonwillison.net/2026/Jul/31/smevals/#atom-everything) (`simonwillison.net`)
+- [Oxide and Friends: The Open Weight Revolution with Simon Willison](https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything) (`simonwillison.net`)
