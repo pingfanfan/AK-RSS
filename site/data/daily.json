@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-07-31T20:13:05Z",
+  "generated_at": "2026-07-31T21:33:24Z",
   "days": [
     {
       "date": "2026-07-31",
-      "total": 14,
+      "total": 15,
       "feeds": [
+        "simonwillison.net (2)",
         "berthub.eu (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "evanhahn.com (1)",
-        "filfre.net (1)",
-        "idiallo.com (1)"
+        "filfre.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · smevals - a small eval suite for evaluating models, prompts, and harnesses",
         "johndcook.com · Solving the RK4 design equations",
         "daringfireball.net · ★ Temu Is a Comically Bad App",
         "filfre.net · Y2K Will Be Quite Okay",
         "righto.com · Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
-        "wheresyoured.at · Premium: AI Is Getting Way Too Expensive",
-        "jeffgeerling.com · Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio"
+        "wheresyoured.at · Premium: AI Is Getting Way Too Expensive"
       ],
       "key_points": [
-        "Solving the RK4 design equations",
-        "★ Temu Is a Comically Bad App",
-        "Y2K Will Be Quite Okay",
-        "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
-      ],
-      "key_points_zh": [
-        "Solving the RK4 design equations",
-        "★ Temu Is a Comically Bad App",
-        "Y2K Will Be Quite Okay",
-        "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
-      ],
-      "key_points_en": [
-        "Solving the RK4 design equations",
-        "★ Temu Is a Comically Bad App",
-        "Y2K Will Be Quite Okay",
-        "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
-      ],
-      "tweet_drafts": [
+        "smevals - a small eval suite for evaluating models, prompts, and harnesses",
         "Solving the RK4 design equations",
         "★ Temu Is a Comically Bad App",
         "Y2K Will Be Quite Okay"
       ],
+      "key_points_zh": [
+        "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+        "Solving the RK4 design equations",
+        "★ Temu Is a Comically Bad App",
+        "Y2K Will Be Quite Okay"
+      ],
+      "key_points_en": [
+        "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+        "Solving the RK4 design equations",
+        "★ Temu Is a Comically Bad App",
+        "Y2K Will Be Quite Okay"
+      ],
+      "tweet_drafts": [
+        "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+        "Solving the RK4 design equations",
+        "★ Temu Is a Comically Bad App"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+          "link": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Solving the RK4 design equations",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "★ Temu Is a Comically Bad App",
           "link": "https://daringfireball.net/2026/07/temu_is_a_comically_bad_app"
-        },
-        {
-          "feed_title": "filfre.net",
-          "title": "Y2K Will Be Quite Okay",
-          "link": "https://www.filfre.net/2026/07/y2k-will-be-quite-okay/"
         }
       ],
-      "summary_zh": "2026-07-31 技术日报：Solving the RK4 design equations；★ Temu Is a Comically Bad App；Y2K Will Be Quite Okay。",
-      "summary_en": "Daily brief (2026-07-31): Solving the RK4 design equations; ★ Temu Is a Comically Bad App; Y2K Will Be Quite Okay.",
+      "summary_zh": "2026-07-31 技术日报：smevals - a small eval suite for evaluating models, prompts, and harnesses；Solving the RK4 design equations；★ Temu Is a Comically Bad App。",
+      "summary_en": "Daily brief (2026-07-31): smevals - a small eval suite for evaluating models, prompts, and harnesses; Solving the RK4 design equations; ★ Temu Is a Comically Bad App.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-31 日报】Solving the RK4 design equations；★ Temu Is a Comically Bad App；Y2K Will Be Quite Okay。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-31): Solving the RK4 design equations; ★ Temu Is a Comically Bad App; Y2K Will Be Quite Okay. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-31 日报】smevals - a small eval suite for evaluating models, prompts, and harnesses；Solving the RK4 design equations；★ Temu Is a Comically Bad App。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-31): smevals - a small eval suite for evaluating models, prompts, and harnesses; Solving the RK4 design equations; ★ Temu Is a Comically Bad App. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-31）\n- Solving the RK4 design equations\n- ★ Temu Is a Comically Bad App\n- Y2K Will Be Quite Okay\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/\n- https://daringfireball.net/2026/07/temu_is_a_comically_bad_app\n- https://www.filfre.net/2026/07/y2k-will-be-quite-okay/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-31)\n- Solving the RK4 design equations\n- ★ Temu Is a Comically Bad App\n- Y2K Will Be Quite Okay\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/\n- https://daringfireball.net/2026/07/temu_is_a_comically_bad_app\n- https://www.filfre.net/2026/07/y2k-will-be-quite-okay/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-31）\n- smevals - a small eval suite for evaluating models, prompts, and harnesses\n- Solving the RK4 design equations\n- ★ Temu Is a Comically Bad App\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/31/smevals/#atom-everything\n- https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/\n- https://daringfireball.net/2026/07/temu_is_a_comically_bad_app\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-31)\n- smevals - a small eval suite for evaluating models, prompts, and harnesses\n- Solving the RK4 design equations\n- ★ Temu Is a Comically Bad App\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/31/smevals/#atom-everything\n- https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/\n- https://daringfireball.net/2026/07/temu_is_a_comically_bad_app\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Solving the RK4 design equations；★ Temu Is a Comically Bad App；Y2K Will Be Quite Okay。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Solving the RK4 design equations; ★ Temu Is a Comically Bad App; Y2K Will Be Quite Okay.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：smevals - a small eval suite for evaluating models, prompts, and harnesses；Solving the RK4 design equations；★ Temu Is a Comically Bad App。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: smevals - a small eval suite for evaluating models, prompts, and harnesses; Solving the RK4 design equations; ★ Temu Is a Comically Bad App.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -699,33 +699,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "sources": [
         {
@@ -739,25 +739,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
+          "feed_title": "jeffgeerling.com",
+          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
+          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -929,7 +929,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "seangoedecke.com · Impro is a handbook for running a cult"
+        "computer.rip · email encryption"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
@@ -1000,46 +1000,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "blog.jim-nielsen.com · Make It Work vs. Make It Good",
         "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
+        "blog.jim-nielsen.com · Make It Work vs. Make It Good",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Make It Work vs. Make It Good",
-          "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
-        },
-        {
           "feed_title": "minimaxir.com",
           "title": "What's the deal with all the random weekly quota resets for agents lately?",
           "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
+        },
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Make It Work vs. Make It Good",
+          "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -1047,20 +1047,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
