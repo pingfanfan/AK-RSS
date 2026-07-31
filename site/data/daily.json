@@ -1,70 +1,77 @@
 {
-  "generated_at": "2026-07-31T08:26:39Z",
+  "generated_at": "2026-07-31T11:03:23Z",
   "days": [
     {
       "date": "2026-07-31",
-      "total": 3,
+      "total": 5,
       "feeds": [
         "berthub.eu (1)",
         "idiallo.com (1)",
+        "nesbitt.io (1)",
+        "seangoedecke.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "nesbitt.io · The AI Phrasebook",
         "berthub.eu · AI: Considerations for people who make decisions",
+        "seangoedecke.com · AI models need moral support to make discoveries",
         "simonwillison.net · Advancing the price-performance frontier with GPT‑5.6",
         "idiallo.com · BI Slop"
       ],
       "key_points": [
+        "The AI Phrasebook",
         "AI: Considerations for people who make decisions",
-        "Advancing the price-performance frontier with GPT‑5.6",
-        "BI Slop"
+        "AI models need moral support to make discoveries",
+        "Advancing the price-performance frontier with GPT‑5.6"
       ],
       "key_points_zh": [
+        "The AI Phrasebook",
         "AI: Considerations for people who make decisions",
-        "Advancing the price-performance frontier with GPT‑5.6",
-        "BI Slop"
+        "AI models need moral support to make discoveries",
+        "Advancing the price-performance frontier with GPT‑5.6"
       ],
       "key_points_en": [
+        "The AI Phrasebook",
         "AI: Considerations for people who make decisions",
-        "Advancing the price-performance frontier with GPT‑5.6",
-        "BI Slop"
+        "AI models need moral support to make discoveries",
+        "Advancing the price-performance frontier with GPT‑5.6"
       ],
       "tweet_drafts": [
+        "The AI Phrasebook",
         "AI: Considerations for people who make decisions",
-        "Advancing the price-performance frontier with GPT‑5.6",
-        "BI Slop"
+        "AI models need moral support to make discoveries"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "The AI Phrasebook",
+          "link": "https://nesbitt.io/2026/07/31/the-ai-phrasebook.html"
+        },
         {
           "feed_title": "berthub.eu",
           "title": "AI: Considerations for people who make decisions",
           "link": "https://berthub.eu/articles/posts/ai-for-decision-makers/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "Advancing the price-performance frontier with GPT‑5.6",
-          "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "BI Slop",
-          "link": "https://idiallo.com/blog/business-intelligence-slop"
+          "feed_title": "seangoedecke.com",
+          "title": "AI models need moral support to make discoveries",
+          "link": "https://seangoedecke.com/ai-models-need-moral-support/"
         }
       ],
-      "summary_zh": "2026-07-31 技术日报：AI: Considerations for people who make decisions；Advancing the price-performance frontier with GPT‑5.6；BI Slop。",
-      "summary_en": "Daily brief (2026-07-31): AI: Considerations for people who make decisions; Advancing the price-performance frontier with GPT‑5.6; BI Slop.",
+      "summary_zh": "2026-07-31 技术日报：The AI Phrasebook；AI: Considerations for people who make decisions；AI models need moral support to make discoveries。",
+      "summary_en": "Daily brief (2026-07-31): The AI Phrasebook; AI: Considerations for people who make decisions; AI models need moral support to make discoveries.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-31 日报】AI: Considerations for people who make decisions；Advancing the price-performance frontier with GPT‑5.6；BI Slop。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-31): AI: Considerations for people who make decisions; Advancing the price-performance frontier with GPT‑5.6; BI Slop. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-31 日报】The AI Phrasebook；AI: Considerations for people who make decisions；AI models need moral support to make discoveries。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-31): The AI Phrasebook; AI: Considerations for people who make decisions; AI models need moral support to make discoveries. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-31）\n- AI: Considerations for people who make decisions\n- Advancing the price-performance frontier with GPT‑5.6\n- BI Slop\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://berthub.eu/articles/posts/ai-for-decision-makers/\n- https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything\n- https://idiallo.com/blog/business-intelligence-slop\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-31)\n- AI: Considerations for people who make decisions\n- Advancing the price-performance frontier with GPT‑5.6\n- BI Slop\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://berthub.eu/articles/posts/ai-for-decision-makers/\n- https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything\n- https://idiallo.com/blog/business-intelligence-slop\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-31）\n- The AI Phrasebook\n- AI: Considerations for people who make decisions\n- AI models need moral support to make discoveries\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/07/31/the-ai-phrasebook.html\n- https://berthub.eu/articles/posts/ai-for-decision-makers/\n- https://seangoedecke.com/ai-models-need-moral-support/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-31)\n- The AI Phrasebook\n- AI: Considerations for people who make decisions\n- AI models need moral support to make discoveries\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/07/31/the-ai-phrasebook.html\n- https://berthub.eu/articles/posts/ai-for-decision-makers/\n- https://seangoedecke.com/ai-models-need-moral-support/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：AI: Considerations for people who make decisions；Advancing the price-performance frontier with GPT‑5.6；BI Slop。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: AI: Considerations for people who make decisions; Advancing the price-performance frontier with GPT‑5.6; BI Slop.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The AI Phrasebook；AI: Considerations for people who make decisions；AI models need moral support to make discoveries。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The AI Phrasebook; AI: Considerations for people who make decisions; AI models need moral support to make discoveries.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -920,7 +927,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "seangoedecke.com · Impro is a handbook for running a cult"
+        "computer.rip · email encryption"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
