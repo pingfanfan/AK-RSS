@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-03 21:35:47 UTC
+Generated at: 2026-08-03 22:46:48 UTC
 
-- [Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/) (`daringfireball.net`)
+- [[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) (`daringfireball.net`)
