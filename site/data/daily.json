@@ -1,49 +1,126 @@
 {
-  "generated_at": "2026-08-02T23:24:48Z",
+  "generated_at": "2026-08-03T08:55:15Z",
   "days": [
     {
-      "date": "2026-08-02",
-      "total": 7,
+      "date": "2026-08-03",
+      "total": 4,
       "feeds": [
-        "johndcook.com (2)",
         "borretti.me (1)",
-        "martinalderson.com (1)",
-        "oldvcr.blogspot.com (1)",
-        "seangoedecke.com (1)",
-        "simonwillison.net (1)"
+        "idiallo.com (1)",
+        "pluralistic.net (1)",
+        "troyhunt.com (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: Dualism (03 Aug 2026)",
+        "idiallo.com · Invisible Problems",
+        "troyhunt.com · Welcoming the Nepalese Government to Have I Been Pwned",
+        "borretti.me · Review: Job-Less Utopia"
+      ],
+      "key_points": [
+        "Pluralistic: Dualism (03 Aug 2026)",
+        "Invisible Problems",
+        "Welcoming the Nepalese Government to Have I Been Pwned",
+        "Review: Job-Less Utopia"
+      ],
+      "key_points_zh": [
+        "Pluralistic: Dualism (03 Aug 2026)",
+        "Invisible Problems",
+        "Welcoming the Nepalese Government to Have I Been Pwned",
+        "Review: Job-Less Utopia"
+      ],
+      "key_points_en": [
+        "Pluralistic: Dualism (03 Aug 2026)",
+        "Invisible Problems",
+        "Welcoming the Nepalese Government to Have I Been Pwned",
+        "Review: Job-Less Utopia"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: Dualism (03 Aug 2026)",
+        "Invisible Problems",
+        "Welcoming the Nepalese Government to Have I Been Pwned"
+      ],
+      "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Dualism (03 Aug 2026)",
+          "link": "https://pluralistic.net/2026/08/03/andor/"
+        },
+        {
+          "feed_title": "idiallo.com",
+          "title": "Invisible Problems",
+          "link": "https://idiallo.com/blog/invisible-problems"
+        },
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+          "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/"
+        }
+      ],
+      "summary_zh": "2026-08-03 技术日报：Pluralistic: Dualism (03 Aug 2026)；Invisible Problems；Welcoming the Nepalese Government to Have I Been Pwned。",
+      "summary_en": "Daily brief (2026-08-03): Pluralistic: Dualism (03 Aug 2026); Invisible Problems; Welcoming the Nepalese Government to Have I Been Pwned.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-03 日报】Pluralistic: Dualism (03 Aug 2026)；Invisible Problems；Welcoming the Nepalese Government to Have I Been Pwned。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-03): Pluralistic: Dualism (03 Aug 2026); Invisible Problems; Welcoming the Nepalese Government to Have I Been Pwned. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-03）\n- Pluralistic: Dualism (03 Aug 2026)\n- Invisible Problems\n- Welcoming the Nepalese Government to Have I Been Pwned\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/08/03/andor/\n- https://idiallo.com/blog/invisible-problems\n- https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-03)\n- Pluralistic: Dualism (03 Aug 2026)\n- Invisible Problems\n- Welcoming the Nepalese Government to Have I Been Pwned\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/08/03/andor/\n- https://idiallo.com/blog/invisible-problems\n- https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Pluralistic: Dualism (03 Aug 2026)；Invisible Problems；Welcoming the Nepalese Government to Have I Been Pwned。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Dualism (03 Aug 2026); Invisible Problems; Welcoming the Nepalese Government to Have I Been Pwned.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-08-02",
+      "total": 9,
+      "feeds": [
+        "johndcook.com (2)",
+        "simonwillison.net (2)",
+        "borretti.me (1)",
+        "computer.rip (1)",
+        "martinalderson.com (1)",
+        "oldvcr.blogspot.com (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · condense-json 1.0",
         "johndcook.com · Holonomic functions",
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "martinalderson.com · I'm (mostly) picking models on speed now, not intelligence",
-        "seangoedecke.com · Giving and taking credit in big tech companies"
+        "martinalderson.com · I'm (mostly) picking models on speed now, not intelligence"
       ],
       "key_points": [
-        "Holonomic functions",
-        "Estimating a cumulative sum",
-        "Open letters about AI development",
-        "MkLinux and the pimped-out Apple Workgroup Server 9150"
-      ],
-      "key_points_zh": [
-        "Holonomic functions",
-        "Estimating a cumulative sum",
-        "Open letters about AI development",
-        "MkLinux and the pimped-out Apple Workgroup Server 9150"
-      ],
-      "key_points_en": [
-        "Holonomic functions",
-        "Estimating a cumulative sum",
-        "Open letters about AI development",
-        "MkLinux and the pimped-out Apple Workgroup Server 9150"
-      ],
-      "tweet_drafts": [
+        "condense-json 1.0",
         "Holonomic functions",
         "Estimating a cumulative sum",
         "Open letters about AI development"
       ],
+      "key_points_zh": [
+        "condense-json 1.0",
+        "Holonomic functions",
+        "Estimating a cumulative sum",
+        "Open letters about AI development"
+      ],
+      "key_points_en": [
+        "condense-json 1.0",
+        "Holonomic functions",
+        "Estimating a cumulative sum",
+        "Open letters about AI development"
+      ],
+      "tweet_drafts": [
+        "condense-json 1.0",
+        "Holonomic functions",
+        "Estimating a cumulative sum"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "condense-json 1.0",
+          "link": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "Holonomic functions",
@@ -53,27 +130,22 @@
           "feed_title": "johndcook.com",
           "title": "Estimating a cumulative sum",
           "link": "https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Open letters about AI development",
-          "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything"
         }
       ],
-      "summary_zh": "2026-08-02 技术日报：Holonomic functions；Estimating a cumulative sum；Open letters about AI development。",
-      "summary_en": "Daily brief (2026-08-02): Holonomic functions; Estimating a cumulative sum; Open letters about AI development.",
+      "summary_zh": "2026-08-02 技术日报：condense-json 1.0；Holonomic functions；Estimating a cumulative sum。",
+      "summary_en": "Daily brief (2026-08-02): condense-json 1.0; Holonomic functions; Estimating a cumulative sum.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-02 日报】Holonomic functions；Estimating a cumulative sum；Open letters about AI development。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-02): Holonomic functions; Estimating a cumulative sum; Open letters about AI development. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-08-02 日报】condense-json 1.0；Holonomic functions；Estimating a cumulative sum。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-02): condense-json 1.0; Holonomic functions; Estimating a cumulative sum. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-02）\n- Holonomic functions\n- Estimating a cumulative sum\n- Open letters about AI development\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/08/02/holonomic-functions/\n- https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/\n- https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-02)\n- Holonomic functions\n- Estimating a cumulative sum\n- Open letters about AI development\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/08/02/holonomic-functions/\n- https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/\n- https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-02）\n- condense-json 1.0\n- Holonomic functions\n- Estimating a cumulative sum\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything\n- https://www.johndcook.com/blog/2026/08/02/holonomic-functions/\n- https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-02)\n- condense-json 1.0\n- Holonomic functions\n- Estimating a cumulative sum\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything\n- https://www.johndcook.com/blog/2026/08/02/holonomic-functions/\n- https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Holonomic functions；Estimating a cumulative sum；Open letters about AI development。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Holonomic functions; Estimating a cumulative sum; Open letters about AI development.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：condense-json 1.0；Holonomic functions；Estimating a cumulative sum。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: condense-json 1.0; Holonomic functions; Estimating a cumulative sum.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -817,7 +889,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -828,8 +900,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1152,46 +1224,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "blog.jim-nielsen.com · Make It Work vs. Make It Good",
+        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "minimaxir.com",
-          "title": "What's the deal with all the random weekly quota resets for agents lately?",
-          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
-        },
-        {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Make It Work vs. Make It Good",
           "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
+        },
+        {
+          "feed_title": "minimaxir.com",
+          "title": "What's the deal with all the random weekly quota resets for agents lately?",
+          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -1199,20 +1271,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2196,82 +2268,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Making a Shuffle Button；sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Making a Shuffle Button; sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-04",
-      "total": 10,
-      "feeds": [
-        "daringfireball.net (3)",
-        "computer.rip (1)",
-        "construction-physics.com (1)",
-        "johndcook.com (1)",
-        "lucumr.pocoo.org (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Day One Journal",
-        "daringfireball.net · From the DF Archive: ‘Electron and the Decline of Native Apps’",
-        "daringfireball.net · Fantastical 4.1.15 Adds Calendar Mirroring",
-        "construction-physics.com · Reading List 07/04/26",
-        "shkspr.mobi · Combined 1D and 2D Barcodes",
-        "nesbitt.io · This Week in Package Management: 4 July 2026"
-      ],
-      "key_points": [
-        "Day One Journal",
-        "From the DF Archive: ‘Electron and the Decline of Native Apps’",
-        "Fantastical 4.1.15 Adds Calendar Mirroring",
-        "Reading List 07/04/26"
-      ],
-      "key_points_zh": [
-        "Day One Journal",
-        "From the DF Archive: ‘Electron and the Decline of Native Apps’",
-        "Fantastical 4.1.15 Adds Calendar Mirroring",
-        "Reading List 07/04/26"
-      ],
-      "key_points_en": [
-        "Day One Journal",
-        "From the DF Archive: ‘Electron and the Decline of Native Apps’",
-        "Fantastical 4.1.15 Adds Calendar Mirroring",
-        "Reading List 07/04/26"
-      ],
-      "tweet_drafts": [
-        "Day One Journal",
-        "From the DF Archive: ‘Electron and the Decline of Native Apps’",
-        "Fantastical 4.1.15 Adds Calendar Mirroring"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Day One Journal",
-          "link": "https://dayoneapp.com/blog/introducing-daily-chat/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "From the DF Archive: ‘Electron and the Decline of Native Apps’",
-          "link": "https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Fantastical 4.1.15 Adds Calendar Mirroring",
-          "link": "https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/"
-        }
-      ],
-      "summary_zh": "2026-07-04 技术日报：Day One Journal；From the DF Archive: ‘Electron and the Decline of Native Apps’；Fantastical 4.1.15 Adds Calendar Mirroring。",
-      "summary_en": "Daily brief (2026-07-04): Day One Journal; From the DF Archive: ‘Electron and the Decline of Native Apps’; Fantastical 4.1.15 Adds Calendar Mirroring.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-04 日报】Day One Journal；From the DF Archive: ‘Electron and the Decline of Native Apps’；Fantastical 4.1.15 Adds Calendar Mirroring。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-04): Day One Journal; From the DF Archive: ‘Electron and the Decline of Native Apps’; Fantastical 4.1.15 Adds Calendar Mirroring. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-04）\n- Day One Journal\n- From the DF Archive: ‘Electron and the Decline of Native Apps’\n- Fantastical 4.1.15 Adds Calendar Mirroring\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dayoneapp.com/blog/introducing-daily-chat/\n- https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps\n- https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-04)\n- Day One Journal\n- From the DF Archive: ‘Electron and the Decline of Native Apps’\n- Fantastical 4.1.15 Adds Calendar Mirroring\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dayoneapp.com/blog/introducing-daily-chat/\n- https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps\n- https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Day One Journal；From the DF Archive: ‘Electron and the Decline of Native Apps’；Fantastical 4.1.15 Adds Calendar Mirroring。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Day One Journal; From the DF Archive: ‘Electron and the Decline of Native Apps’; Fantastical 4.1.15 Adds Calendar Mirroring.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
