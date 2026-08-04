@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-04 19:01:43 UTC
+Generated at: 2026-08-04 20:46:47 UTC
 
-- [Yours Truly on TBPN Yesterday](https://www.youtube.com/live/ruL8Q-TsbbI?t=4085) (`daringfireball.net`)
+- [PipeNetwork/minimax-h3-mlx](https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything) (`simonwillison.net`)
