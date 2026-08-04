@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-04 15:41:03 UTC
+Generated at: 2026-08-04 17:26:18 UTC
 
-- [Metallic alchemy](https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/) (`johndcook.com`)
+- [Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case](https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/) (`daringfireball.net`)
+- [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/) (`wheresyoured.at`)
