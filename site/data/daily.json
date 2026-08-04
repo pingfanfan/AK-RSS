@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-08-03T22:47:05Z",
+  "generated_at": "2026-08-04T08:12:05Z",
   "days": [
     {
+      "date": "2026-08-04",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "eli.thegreenplace.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "eli.thegreenplace.net · Relative velocity and closing speed",
+        "daringfireball.net · TerminalWidget 1.0",
+        "simonwillison.net · Quoting Steve Yegge"
+      ],
+      "key_points": [
+        "Relative velocity and closing speed",
+        "TerminalWidget 1.0",
+        "Quoting Steve Yegge"
+      ],
+      "key_points_zh": [
+        "Relative velocity and closing speed",
+        "TerminalWidget 1.0",
+        "Quoting Steve Yegge"
+      ],
+      "key_points_en": [
+        "Relative velocity and closing speed",
+        "TerminalWidget 1.0",
+        "Quoting Steve Yegge"
+      ],
+      "tweet_drafts": [
+        "Relative velocity and closing speed",
+        "TerminalWidget 1.0",
+        "Quoting Steve Yegge"
+      ],
+      "sources": [
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Relative velocity and closing speed",
+          "link": "https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "TerminalWidget 1.0",
+          "link": "https://terminalwidget.app/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Steve Yegge",
+          "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-08-04 技术日报：Relative velocity and closing speed；TerminalWidget 1.0；Quoting Steve Yegge。",
+      "summary_en": "Daily brief (2026-08-04): Relative velocity and closing speed; TerminalWidget 1.0; Quoting Steve Yegge.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-04 日报】Relative velocity and closing speed；TerminalWidget 1.0；Quoting Steve Yegge。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-04): Relative velocity and closing speed; TerminalWidget 1.0; Quoting Steve Yegge. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-04）\n- Relative velocity and closing speed\n- TerminalWidget 1.0\n- Quoting Steve Yegge\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/\n- https://terminalwidget.app/\n- https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-04)\n- Relative velocity and closing speed\n- TerminalWidget 1.0\n- Quoting Steve Yegge\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/\n- https://terminalwidget.app/\n- https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Relative velocity and closing speed；TerminalWidget 1.0；Quoting Steve Yegge。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Relative velocity and closing speed; TerminalWidget 1.0; Quoting Steve Yegge.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-03",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "daringfireball.net (3)",
         "borretti.me (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dwarkesh.com (1)",
-        "idiallo.com (1)",
-        "micahflee.com (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
         "daringfireball.net · [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API",
@@ -94,7 +161,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "dynomight.net · Indirect lessons from human alignment"
+        "seangoedecke.com · Giving and taking credit in big tech companies"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -893,7 +960,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -904,8 +971,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -2201,77 +2268,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ Apple Should Eliminate the App Icon ‘Squircle Jail’；A full body MRI earns you a year of smoking；Markdown Now Has a UTI in Apple’s Version 27 OSes。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ Apple Should Eliminate the App Icon ‘Squircle Jail’; A full body MRI earns you a year of smoking; Markdown Now Has a UTI in Apple’s Version 27 OSes.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-05",
-      "total": 4,
-      "feeds": [
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "utcc.utoronto.ca/~cks (1)"
-      ],
-      "highlights": [
-        "blog.jim-nielsen.com · Making a Shuffle Button",
-        "simonwillison.net · sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "utcc.utoronto.ca/~cks · What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
-        "simonwillison.net · Building a World Map with only 500 bytes"
-      ],
-      "key_points": [
-        "Making a Shuffle Button",
-        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
-        "Building a World Map with only 500 bytes"
-      ],
-      "key_points_zh": [
-        "Making a Shuffle Button",
-        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
-        "Building a World Map with only 500 bytes"
-      ],
-      "key_points_en": [
-        "Making a Shuffle Button",
-        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
-        "Building a World Map with only 500 bytes"
-      ],
-      "tweet_drafts": [
-        "Making a Shuffle Button",
-        "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output"
-      ],
-      "sources": [
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Making a Shuffle Button",
-          "link": "https://blog.jim-nielsen.com/2026/notes-shuffle/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything"
-        },
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize"
-        }
-      ],
-      "summary_zh": "2026-07-05 技术日报：Making a Shuffle Button；sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output。",
-      "summary_en": "Daily brief (2026-07-05): Making a Shuffle Button; sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-05 日报】Making a Shuffle Button；sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-05): Making a Shuffle Button; sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output. Actionable takeaways included. What would you ship next?"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-05）\n- Making a Shuffle Button\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/notes-shuffle/\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-05)\n- Making a Shuffle Button\n- sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)\n- What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/notes-shuffle/\n- https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Making a Shuffle Button；sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)；What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Making a Shuffle Button; sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25); What buffer size (OpenSSH) \u003ccode\u003essh\u003c/code\u003e seems to use for streaming output.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
