@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-05 10:55:56 UTC
+Generated at: 2026-08-05 12:45:38 UTC
 
-- [Pluralistic: Google is a scammer's paradise (05 Aug 2026)](https://pluralistic.net/2026/08/05/absentee-landlord/) (`pluralistic.net`)
+- [Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆](https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/) (`shkspr.mobi`)
+- [Ebay’s 1995 debut](https://dfarq.homeip.net/ebays-1995-debut/?utm_source=rss&utm_medium=rss&utm_campaign=ebays-1995-debut) (`dfarq.homeip.net`)
+- [Committing to creativity](https://herman.bearblog.dev/creativity/) (`herman.bearblog.dev`)
