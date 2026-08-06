@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-08-05T22:32:14Z",
+  "generated_at": "2026-08-06T08:09:42Z",
   "days": [
     {
+      "date": "2026-08-06",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "nesbitt.io (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · An AI model from Meta also hacked another company during testing",
+        "nesbitt.io · A year of AI disclosure in critical packages",
+        "daringfireball.net · Shawn Smucker: ‘Please Use AI’"
+      ],
+      "key_points": [
+        "An AI model from Meta also hacked another company during testing",
+        "A year of AI disclosure in critical packages",
+        "Shawn Smucker: ‘Please Use AI’"
+      ],
+      "key_points_zh": [
+        "An AI model from Meta also hacked another company during testing",
+        "A year of AI disclosure in critical packages",
+        "Shawn Smucker: ‘Please Use AI’"
+      ],
+      "key_points_en": [
+        "An AI model from Meta also hacked another company during testing",
+        "A year of AI disclosure in critical packages",
+        "Shawn Smucker: ‘Please Use AI’"
+      ],
+      "tweet_drafts": [
+        "An AI model from Meta also hacked another company during testing",
+        "A year of AI disclosure in critical packages",
+        "Shawn Smucker: ‘Please Use AI’"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "An AI model from Meta also hacked another company during testing",
+          "link": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "A year of AI disclosure in critical packages",
+          "link": "https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Shawn Smucker: ‘Please Use AI’",
+          "link": "https://shawnsmucker.substack.com/p/please-use-ai"
+        }
+      ],
+      "summary_zh": "2026-08-06 技术日报：An AI model from Meta also hacked another company during testing；A year of AI disclosure in critical packages；Shawn Smucker: ‘Please Use AI’。",
+      "summary_en": "Daily brief (2026-08-06): An AI model from Meta also hacked another company during testing; A year of AI disclosure in critical packages; Shawn Smucker: ‘Please Use AI’.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-06 日报】An AI model from Meta also hacked another company during testing；A year of AI disclosure in critical packages；Shawn Smucker: ‘Please Use AI’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-06): An AI model from Meta also hacked another company during testing; A year of AI disclosure in critical packages; Shawn Smucker: ‘Please Use AI’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-06）\n- An AI model from Meta also hacked another company during testing\n- A year of AI disclosure in critical packages\n- Shawn Smucker: ‘Please Use AI’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything\n- https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html\n- https://shawnsmucker.substack.com/p/please-use-ai\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-06)\n- An AI model from Meta also hacked another company during testing\n- A year of AI disclosure in critical packages\n- Shawn Smucker: ‘Please Use AI’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything\n- https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html\n- https://shawnsmucker.substack.com/p/please-use-ai\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：An AI model from Meta also hacked another company during testing；A year of AI disclosure in critical packages；Shawn Smucker: ‘Please Use AI’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: An AI model from Meta also hacked another company during testing; A year of AI disclosure in critical packages; Shawn Smucker: ‘Please Use AI’.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-05",
-      "total": 17,
+      "total": 19,
       "feeds": [
         "daringfireball.net (5)",
         "johndcook.com (2)",
         "simonwillison.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "experimental-history.com (1)",
-        "herman.bearblog.dev (1)"
+        "experimental-history.com (1)"
       ],
       "highlights": [
         "daringfireball.net · Uh, I’m Pretty Sure People Would Know",
@@ -246,7 +313,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "dynomight.net · Indirect lessons from human alignment"
+        "borretti.me · Mathematics Without Mathematicians"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -1045,7 +1112,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -1056,8 +1123,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1309,7 +1376,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "seangoedecke.com · Impro is a handbook for running a cult"
+        "computer.rip · email encryption"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
@@ -2201,82 +2268,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973；Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store；Quoting Kenton Varda。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973; Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store; Quoting Kenton Varda.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "total": 12,
-      "feeds": [
-        "simonwillison.net (2)",
-        "utcc.utoronto.ca/~cks (2)",
-        "berthub.eu (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "utcc.utoronto.ca/~cks · Our mixed building network wiring and its consequences",
-        "simonwillison.net · sqlite-utils 4.0, now with database schema migrations",
-        "wheresyoured.at · Let AI Burn",
-        "daringfireball.net · OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices",
-        "devblogs.microsoft.com/oldnewthing · How did Windows 95 decide that a setup program ran?",
-        "pluralistic.net · Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)"
-      ],
-      "key_points": [
-        "Our mixed building network wiring and its consequences",
-        "sqlite-utils 4.0, now with database schema migrations",
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices"
-      ],
-      "key_points_zh": [
-        "Our mixed building network wiring and its consequences",
-        "sqlite-utils 4.0, now with database schema migrations",
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices"
-      ],
-      "key_points_en": [
-        "Our mixed building network wiring and its consequences",
-        "sqlite-utils 4.0, now with database schema migrations",
-        "Let AI Burn",
-        "OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices"
-      ],
-      "tweet_drafts": [
-        "Our mixed building network wiring and its consequences",
-        "sqlite-utils 4.0, now with database schema migrations",
-        "Let AI Burn"
-      ],
-      "sources": [
-        {
-          "feed_title": "utcc.utoronto.ca/~cks",
-          "title": "Our mixed building network wiring and its consequences",
-          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "sqlite-utils 4.0, now with database schema migrations",
-          "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Let AI Burn",
-          "link": "https://www.wheresyoured.at/let-ai-burn/"
-        }
-      ],
-      "summary_zh": "2026-07-07 技术日报：Our mixed building network wiring and its consequences；sqlite-utils 4.0, now with database schema migrations；Let AI Burn。",
-      "summary_en": "Daily brief (2026-07-07): Our mixed building network wiring and its consequences; sqlite-utils 4.0, now with database schema migrations; Let AI Burn.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-07 日报】Our mixed building network wiring and its consequences；sqlite-utils 4.0, now with database schema migrations；Let AI Burn。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-07): Our mixed building network wiring and its consequences; sqlite-utils 4.0, now with database schema migrations; Let AI Burn. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-07）\n- Our mixed building network wiring and its consequences\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-07)\n- Our mixed building network wiring and its consequences\n- sqlite-utils 4.0, now with database schema migrations\n- Let AI Burn\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring\n- https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything\n- https://www.wheresyoured.at/let-ai-burn/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Our mixed building network wiring and its consequences；sqlite-utils 4.0, now with database schema migrations；Let AI Burn。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Our mixed building network wiring and its consequences; sqlite-utils 4.0, now with database schema migrations; Let AI Burn.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
