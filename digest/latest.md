@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-06 10:57:57 UTC
+Generated at: 2026-08-06 12:52:56 UTC
 
-- [Pluralistic: Eternal Sloptember (06 Aug 2026)](https://pluralistic.net/2026/08/06/sin-is-when/) (`pluralistic.net`)
+- [What Will the 21st Century ROAD to Housing Act Do for Housing Supply?](https://www.construction-physics.com/p/what-will-the-21st-century-road-to) (`construction-physics.com`)
