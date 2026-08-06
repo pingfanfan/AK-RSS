@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-06 12:52:56 UTC
+Generated at: 2026-08-06 15:03:21 UTC
 
-- [What Will the 21st Century ROAD to Housing Act Do for Housing Supply?](https://www.construction-physics.com/p/what-will-the-21st-century-road-to) (`construction-physics.com`)
+- [Calculating log(1000!)](https://www.johndcook.com/blog/2026/08/06/log1000/) (`johndcook.com`)
