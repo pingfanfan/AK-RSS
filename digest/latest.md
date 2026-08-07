@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-07 12:03:18 UTC
+Generated at: 2026-08-07 13:44:05 UTC
 
-- [Metadata for AI Generated Outputs](https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/) (`shkspr.mobi`)
+- [cos(200!)](https://www.johndcook.com/blog/2026/08/07/cos200/) (`johndcook.com`)
