@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-07 11:12:35 UTC
+Generated at: 2026-08-07 12:03:18 UTC
 
-- [The Software Stewardship Lab](https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html) (`nesbitt.io`)
-- [Netscape: The IPO that went boom on its way up and down](https://dfarq.homeip.net/netscape-the-ipo-that-went-boom-on-its-way-up-and-down/?utm_source=rss&utm_medium=rss&utm_campaign=netscape-the-ipo-that-went-boom-on-its-way-up-and-down) (`dfarq.homeip.net`)
+- [Metadata for AI Generated Outputs](https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/) (`shkspr.mobi`)
