@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-08 11:49:29 UTC
+Generated at: 2026-08-08 12:19:21 UTC
 
-- [[RSS Club] I got an NLnet grant!](https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/) (`shkspr.mobi`)
+- [Reading List 08/08/2026](https://www.construction-physics.com/p/reading-list-08082026) (`construction-physics.com`)
