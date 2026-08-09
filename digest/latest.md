@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-09 11:51:23 UTC
+Generated at: 2026-08-09 12:21:24 UTC
 
-- [Against Doomerism](https://shkspr.mobi/blog/2026/08/against-doomerism/) (`shkspr.mobi`)
