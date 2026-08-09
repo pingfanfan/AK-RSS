@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-08 22:52:31 UTC
+Generated at: 2026-08-09 06:33:07 UTC
 
-- [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) (`simonwillison.net`)
-- [Anubis v1.27.0: Moenbryda Wilfsunnwyn](https://anubis.techaro.lol/blog/release/v1.27.0/) (`xeiaso.net`)
+- [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) (`seangoedecke.com`)
+- [★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) (`daringfireball.net`)
