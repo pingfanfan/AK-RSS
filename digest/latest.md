@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-09 17:01:06 UTC
+Generated at: 2026-08-09 17:53:46 UTC
 
-- [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/) (`johndcook.com`)
+- [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/) (`johndcook.com`)
