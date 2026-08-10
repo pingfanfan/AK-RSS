@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-10 20:28:05 UTC
+Generated at: 2026-08-10 21:10:01 UTC
 
-- [Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story](https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/) (`daringfireball.net`)
+- [‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro](https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/) (`daringfireball.net`)
+- [Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/) (`shkspr.mobi`)
