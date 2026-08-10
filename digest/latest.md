@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-10 15:45:41 UTC
+Generated at: 2026-08-10 16:39:04 UTC
 
-- [The NYT and WSJ on Apple, China, and the RAM Crisis](https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz) (`daringfireball.net`)
+- [Edinburgh Fringe - Michael Brunström: William Tell vs the Algorithm ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-algorithm/) (`shkspr.mobi`)
