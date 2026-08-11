@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:59:58Z",
+  "generated_at": "2026-08-11T08:53:57Z",
   "days": [
     {
       "date": "2026-08-11",
@@ -59,47 +59,52 @@
     },
     {
       "date": "2026-08-10",
-      "total": 20,
+      "total": 21,
       "feeds": [
         "daringfireball.net (5)",
         "shkspr.mobi (5)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "johndcook.com (1)"
+        "entropicthoughts.com (1)",
+        "idiallo.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · A noob learns FFT",
         "daringfireball.net · What’s New in iOS 27 Beta 5",
         "daringfireball.net · ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
         "shkspr.mobi · Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪",
         "daringfireball.net · Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story",
-        "shkspr.mobi · Edinburgh Fringe - Kat Ronson: Millennial Girl ★★★★☆",
-        "daringfireball.net · ‘The Problem With Vibe-Coded Flattery’"
+        "shkspr.mobi · Edinburgh Fringe - Kat Ronson: Millennial Girl ★★★★☆"
       ],
       "key_points": [
-        "What’s New in iOS 27 Beta 5",
-        "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
-        "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪",
-        "Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story"
-      ],
-      "key_points_zh": [
-        "What’s New in iOS 27 Beta 5",
-        "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
-        "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪",
-        "Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story"
-      ],
-      "key_points_en": [
-        "What’s New in iOS 27 Beta 5",
-        "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
-        "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪",
-        "Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story"
-      ],
-      "tweet_drafts": [
+        "A noob learns FFT",
         "What’s New in iOS 27 Beta 5",
         "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
         "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪"
       ],
+      "key_points_zh": [
+        "A noob learns FFT",
+        "What’s New in iOS 27 Beta 5",
+        "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
+        "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪"
+      ],
+      "key_points_en": [
+        "A noob learns FFT",
+        "What’s New in iOS 27 Beta 5",
+        "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
+        "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪"
+      ],
+      "tweet_drafts": [
+        "A noob learns FFT",
+        "What’s New in iOS 27 Beta 5",
+        "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "A noob learns FFT",
+          "link": "https://entropicthoughts.com/fft"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "What’s New in iOS 27 Beta 5",
@@ -109,27 +114,22 @@
           "feed_title": "daringfireball.net",
           "title": "‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro",
           "link": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪",
-          "link": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/"
         }
       ],
-      "summary_zh": "2026-08-10 技术日报：What’s New in iOS 27 Beta 5；‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro；Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪。",
-      "summary_en": "Daily brief (2026-08-10): What’s New in iOS 27 Beta 5; ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro; Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪.",
+      "summary_zh": "2026-08-10 技术日报：A noob learns FFT；What’s New in iOS 27 Beta 5；‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro。",
+      "summary_en": "Daily brief (2026-08-10): A noob learns FFT; What’s New in iOS 27 Beta 5; ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-10 日报】What’s New in iOS 27 Beta 5；‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro；Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-10): What’s New in iOS 27 Beta 5; ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro; Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪. Actionable takeaways included. What would you ship next? #AI #En"
+          "zh": "【2026-08-10 日报】A noob learns FFT；What’s New in iOS 27 Beta 5；‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-10): A noob learns FFT; What’s New in iOS 27 Beta 5; ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-10）\n- What’s New in iOS 27 Beta 5\n- ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro\n- Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/\n- https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-10)\n- What’s New in iOS 27 Beta 5\n- ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro\n- Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/\n- https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-10）\n- A noob learns FFT\n- What’s New in iOS 27 Beta 5\n- ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/fft\n- https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/\n- https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-10)\n- A noob learns FFT\n- What’s New in iOS 27 Beta 5\n- ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/fft\n- https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/\n- https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What’s New in iOS 27 Beta 5；‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro；Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What’s New in iOS 27 Beta 5; ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro; Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A noob learns FFT；What’s New in iOS 27 Beta 5；‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A noob learns FFT; What’s New in iOS 27 Beta 5; ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -682,7 +682,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "dynomight.net · Indirect lessons from human alignment"
+        "seangoedecke.com · Giving and taking credit in big tech companies"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -1481,7 +1481,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/"
+          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -1492,8 +1492,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1515,33 +1515,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "sources": [
         {
@@ -1555,25 +1555,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
-          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
