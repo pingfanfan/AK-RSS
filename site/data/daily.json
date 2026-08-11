@@ -1,34 +1,45 @@
 {
-  "generated_at": "2026-08-11T09:46:38Z",
+  "generated_at": "2026-08-11T10:39:01Z",
   "days": [
     {
       "date": "2026-08-11",
-      "total": 2,
+      "total": 3,
       "feeds": [
+        "nesbitt.io (1)",
         "seangoedecke.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "nesbitt.io · Shared Code Between Package Managers",
         "seangoedecke.com · No, local models will not win",
         "simonwillison.net · Introducing Muse Glimmer"
       ],
       "key_points": [
+        "Shared Code Between Package Managers",
         "No, local models will not win",
         "Introducing Muse Glimmer"
       ],
       "key_points_zh": [
+        "Shared Code Between Package Managers",
         "No, local models will not win",
         "Introducing Muse Glimmer"
       ],
       "key_points_en": [
+        "Shared Code Between Package Managers",
         "No, local models will not win",
         "Introducing Muse Glimmer"
       ],
       "tweet_drafts": [
+        "Shared Code Between Package Managers",
         "No, local models will not win",
         "Introducing Muse Glimmer"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Shared Code Between Package Managers",
+          "link": "https://nesbitt.io/2026/08/11/package-manager-library-reuse.html"
+        },
         {
           "feed_title": "seangoedecke.com",
           "title": "No, local models will not win",
@@ -40,20 +51,20 @@
           "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-08-11 技术日报：No, local models will not win；Introducing Muse Glimmer。",
-      "summary_en": "Daily brief (2026-08-11): No, local models will not win; Introducing Muse Glimmer.",
+      "summary_zh": "2026-08-11 技术日报：Shared Code Between Package Managers；No, local models will not win；Introducing Muse Glimmer。",
+      "summary_en": "Daily brief (2026-08-11): Shared Code Between Package Managers; No, local models will not win; Introducing Muse Glimmer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-11 日报】No, local models will not win；Introducing Muse Glimmer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-11): No, local models will not win; Introducing Muse Glimmer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-08-11 日报】Shared Code Between Package Managers；No, local models will not win；Introducing Muse Glimmer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-11): Shared Code Between Package Managers; No, local models will not win; Introducing Muse Glimmer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-11）\n- No, local models will not win\n- Introducing Muse Glimmer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://seangoedecke.com/local-models-will-not-win/\n- https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-11)\n- No, local models will not win\n- Introducing Muse Glimmer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://seangoedecke.com/local-models-will-not-win/\n- https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-11）\n- Shared Code Between Package Managers\n- No, local models will not win\n- Introducing Muse Glimmer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/08/11/package-manager-library-reuse.html\n- https://seangoedecke.com/local-models-will-not-win/\n- https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-11)\n- Shared Code Between Package Managers\n- No, local models will not win\n- Introducing Muse Glimmer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/08/11/package-manager-library-reuse.html\n- https://seangoedecke.com/local-models-will-not-win/\n- https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：No, local models will not win；Introducing Muse Glimmer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: No, local models will not win; Introducing Muse Glimmer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Shared Code Between Package Managers；No, local models will not win；Introducing Muse Glimmer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Shared Code Between Package Managers; No, local models will not win; Introducing Muse Glimmer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -682,7 +693,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "computer.rip · telephones caught in between"
+        "dynomight.net · Indirect lessons from human alignment"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -1816,46 +1827,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "blog.jim-nielsen.com · Make It Work vs. Make It Good",
         "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
+        "blog.jim-nielsen.com · Make It Work vs. Make It Good",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "Make It Work vs. Make It Good",
         "What's the deal with all the random weekly quota resets for agents lately?",
+        "Make It Work vs. Make It Good",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Make It Work vs. Make It Good",
-          "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
-        },
-        {
           "feed_title": "minimaxir.com",
           "title": "What's the deal with all the random weekly quota resets for agents lately?",
           "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
+        },
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Make It Work vs. Make It Good",
+          "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -1863,20 +1874,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
