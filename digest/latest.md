@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-11 22:28:31 UTC
+Generated at: 2026-08-11 23:10:33 UTC
 
-- [The Economist: ‘How to Spot AI Writing’](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm) (`daringfireball.net`)
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) (`simonwillison.net`)
+- [Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/) (`shkspr.mobi`)
