@@ -1,16 +1,72 @@
 {
-  "generated_at": "2026-08-10T23:01:57Z",
+  "generated_at": "2026-08-11T06:41:58Z",
   "days": [
     {
+      "date": "2026-08-11",
+      "total": 2,
+      "feeds": [
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "seangoedecke.com · No, local models will not win",
+        "simonwillison.net · Introducing Muse Glimmer"
+      ],
+      "key_points": [
+        "No, local models will not win",
+        "Introducing Muse Glimmer"
+      ],
+      "key_points_zh": [
+        "No, local models will not win",
+        "Introducing Muse Glimmer"
+      ],
+      "key_points_en": [
+        "No, local models will not win",
+        "Introducing Muse Glimmer"
+      ],
+      "tweet_drafts": [
+        "No, local models will not win",
+        "Introducing Muse Glimmer"
+      ],
+      "sources": [
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "No, local models will not win",
+          "link": "https://seangoedecke.com/local-models-will-not-win/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Introducing Muse Glimmer",
+          "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything"
+        }
+      ],
+      "summary_zh": "2026-08-11 技术日报：No, local models will not win；Introducing Muse Glimmer。",
+      "summary_en": "Daily brief (2026-08-11): No, local models will not win; Introducing Muse Glimmer.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-11 日报】No, local models will not win；Introducing Muse Glimmer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-11): No, local models will not win; Introducing Muse Glimmer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-11）\n- No, local models will not win\n- Introducing Muse Glimmer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://seangoedecke.com/local-models-will-not-win/\n- https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-11)\n- No, local models will not win\n- Introducing Muse Glimmer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://seangoedecke.com/local-models-will-not-win/\n- https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：No, local models will not win；Introducing Muse Glimmer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: No, local models will not win; Introducing Muse Glimmer.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-10",
-      "total": 19,
+      "total": 20,
       "feeds": [
         "daringfireball.net (5)",
         "shkspr.mobi (5)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
-        "martinalderson.com (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
         "daringfireball.net · What’s New in iOS 27 Beta 5",
@@ -626,7 +682,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "seangoedecke.com · Giving and taking credit in big tech companies"
+        "martinalderson.com · I'm (mostly) picking models on speed now, not intelligence"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -1689,7 +1745,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "computer.rip · email encryption"
+        "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
@@ -2201,82 +2257,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：DOOMQL；Intuition for distribution differences；Mandatory Update: A Short Story。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: DOOMQL; Intuition for distribution differences; Mandatory Update: A Short Story.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-12",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (6)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "geohot.github.io (1)",
-        "martinalderson.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · WorkOS Pipes",
-        "simonwillison.net · Fable gets another bump",
-        "daringfireball.net · Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
-        "daringfireball.net · How UIs Degrade Over Time",
-        "johndcook.com · Posterior variance",
-        "blog.jim-nielsen.com · What’s an Icon in 2026?"
-      ],
-      "key_points": [
-        "WorkOS Pipes",
-        "Fable gets another bump",
-        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
-        "How UIs Degrade Over Time"
-      ],
-      "key_points_zh": [
-        "WorkOS Pipes",
-        "Fable gets another bump",
-        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
-        "How UIs Degrade Over Time"
-      ],
-      "key_points_en": [
-        "WorkOS Pipes",
-        "Fable gets another bump",
-        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
-        "How UIs Degrade Over Time"
-      ],
-      "tweet_drafts": [
-        "WorkOS Pipes",
-        "Fable gets another bump",
-        "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "WorkOS Pipes",
-          "link": "https://workos.com/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Fable gets another bump",
-          "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’",
-          "link": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/"
-        }
-      ],
-      "summary_zh": "2026-07-12 技术日报：WorkOS Pipes；Fable gets another bump；Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’。",
-      "summary_en": "Daily brief (2026-07-12): WorkOS Pipes; Fable gets another bump; Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-12 日报】WorkOS Pipes；Fable gets another bump；Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-12): WorkOS Pipes; Fable gets another bump; Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-12）\n- WorkOS Pipes\n- Fable gets another bump\n- Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://workos.com/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://simonwillison.net/2026/Jul/12/bump/#atom-everything\n- https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-12)\n- WorkOS Pipes\n- Fable gets another bump\n- Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://workos.com/pipes?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://simonwillison.net/2026/Jul/12/bump/#atom-everything\n- https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：WorkOS Pipes；Fable gets another bump；Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: WorkOS Pipes; Fable gets another bump; Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
