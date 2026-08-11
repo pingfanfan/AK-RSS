@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-11 17:23:28 UTC
+Generated at: 2026-08-11 18:11:50 UTC
 
-- [Edinburgh Fringe: Afronauts ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/) (`shkspr.mobi`)
-- [Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032](https://www.dwarkesh.com/p/ryan-greenblatt) (`dwarkesh.com`)
+- [Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) (`daringfireball.net`)
