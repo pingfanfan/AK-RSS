@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-11 11:34:45 UTC
+Generated at: 2026-08-11 12:34:40 UTC
 
-- [Red Hat’s successful 1999 IPO](https://dfarq.homeip.net/red-hats-successful-1999-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=red-hats-successful-1999-ipo) (`dfarq.homeip.net`)
-- [Pluralistic: Surveillance vs guillotines (11 Aug 2026)](https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/) (`pluralistic.net`)
+- [Manually unbreakable cryptography](https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/) (`johndcook.com`)
+- [Gadget Review: Soundpeats POP Clip2 Earphones ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/) (`shkspr.mobi`)
