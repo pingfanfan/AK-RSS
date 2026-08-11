@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-11 20:30:48 UTC
+Generated at: 2026-08-11 21:32:32 UTC
 
-- [Alex Micek on BMW’s iDrive ‘Special Surprises’](https://tumbledry.org/2026/08/07/idrive_ads) (`daringfireball.net`)
-- [Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/) (`shkspr.mobi`)
+- [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) (`krebsonsecurity.com`)
