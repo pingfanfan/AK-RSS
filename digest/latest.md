@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-12 21:12:01 UTC
+Generated at: 2026-08-12 22:07:03 UTC
 
-- [Google Introduces ‘Camera Looks’ With Pixel 11 Phones](https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography) (`daringfireball.net`)
+- [Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light](https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263) (`daringfireball.net`)
+- [Quoting Florian Herrengt](https://simonwillison.net/2026/Aug/12/florian-herrengt/) (`simonwillison.net`)
