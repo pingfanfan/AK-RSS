@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-12 19:31:59 UTC
+Generated at: 2026-08-12 20:28:31 UTC
 
-- [Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data) (`daringfireball.net`)
-- [Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/) (`shkspr.mobi`)
+- [TechCrunch on Google’s Pixel 11 Lineup](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) (`daringfireball.net`)
+- [Card Sharks](https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history) (`tedium.co`)
