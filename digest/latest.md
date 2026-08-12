@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-12 18:12:22 UTC
+Generated at: 2026-08-12 19:31:59 UTC
 
-- [Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/) (`shkspr.mobi`)
+- [Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data) (`daringfireball.net`)
+- [Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/) (`shkspr.mobi`)
