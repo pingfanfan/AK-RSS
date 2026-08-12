@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-12 08:43:31 UTC
+Generated at: 2026-08-12 09:51:00 UTC
 
-- [Weekly Update 516: Live From Vietnam](https://www.troyhunt.com/weekly-update-516/) (`troyhunt.com`)
+- [Pluralistic: Model collapse (12 Aug 2026)](https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/) (`pluralistic.net`)
