@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-13 15:26:48 UTC
+Generated at: 2026-08-13 16:14:20 UTC
 
-- [Constructing Hadamard matrices](https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/) (`johndcook.com`)
-- [Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/) (`shkspr.mobi`)
+- [Ceramic Shield 2 Is the Real Deal](https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping) (`daringfireball.net`)
