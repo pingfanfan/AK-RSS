@@ -1,16 +1,72 @@
 {
-  "generated_at": "2026-08-12T23:07:00Z",
+  "generated_at": "2026-08-13T07:05:51Z",
   "days": [
     {
+      "date": "2026-08-13",
+      "total": 2,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Google Design Pisses Its Pants on Twitter/X",
+        "simonwillison.net · DeepSeek V4 Pro 0813 (on OpenRouter)"
+      ],
+      "key_points": [
+        "Google Design Pisses Its Pants on Twitter/X",
+        "DeepSeek V4 Pro 0813 (on OpenRouter)"
+      ],
+      "key_points_zh": [
+        "Google Design Pisses Its Pants on Twitter/X",
+        "DeepSeek V4 Pro 0813 (on OpenRouter)"
+      ],
+      "key_points_en": [
+        "Google Design Pisses Its Pants on Twitter/X",
+        "DeepSeek V4 Pro 0813 (on OpenRouter)"
+      ],
+      "tweet_drafts": [
+        "Google Design Pisses Its Pants on Twitter/X",
+        "DeepSeek V4 Pro 0813 (on OpenRouter)"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Google Design Pisses Its Pants on Twitter/X",
+          "link": "https://x.com/googledesign/status/2087195277094695096"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+          "link": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/"
+        }
+      ],
+      "summary_zh": "2026-08-13 技术日报：Google Design Pisses Its Pants on Twitter/X；DeepSeek V4 Pro 0813 (on OpenRouter)。",
+      "summary_en": "Daily brief (2026-08-13): Google Design Pisses Its Pants on Twitter/X; DeepSeek V4 Pro 0813 (on OpenRouter).",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-13 日报】Google Design Pisses Its Pants on Twitter/X；DeepSeek V4 Pro 0813 (on OpenRouter)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-13): Google Design Pisses Its Pants on Twitter/X; DeepSeek V4 Pro 0813 (on OpenRouter). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-13）\n- Google Design Pisses Its Pants on Twitter/X\n- DeepSeek V4 Pro 0813 (on OpenRouter)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://x.com/googledesign/status/2087195277094695096\n- https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-13)\n- Google Design Pisses Its Pants on Twitter/X\n- DeepSeek V4 Pro 0813 (on OpenRouter)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://x.com/googledesign/status/2087195277094695096\n- https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Google Design Pisses Its Pants on Twitter/X；DeepSeek V4 Pro 0813 (on OpenRouter)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Google Design Pisses Its Pants on Twitter/X; DeepSeek V4 Pro 0813 (on OpenRouter).\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-12",
-      "total": 20,
+      "total": 21,
       "feeds": [
         "daringfireball.net (5)",
         "shkspr.mobi (4)",
         "simonwillison.net (3)",
         "borretti.me (1)",
-        "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
+        "devblogs.microsoft.com/oldnewthing (1)",
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
         "daringfireball.net · Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light",
@@ -778,7 +834,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "computer.rip · telephones caught in between"
+        "seangoedecke.com · Giving and taking credit in big tech companies"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -1577,7 +1633,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/map/?entry=tangier_erfoud_morocco"
+          "link": "https://department-m.agency/"
         }
       ],
       "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
@@ -1588,8 +1644,8 @@
           "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/map/?entry=tangier_erfoud_morocco\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1611,33 +1667,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "sources": [
         {
@@ -1651,25 +1707,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
+          "feed_title": "jeffgeerling.com",
+          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
+          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1912,46 +1968,46 @@
         "nesbitt.io (1)"
       ],
       "highlights": [
-        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "blog.jim-nielsen.com · Make It Work vs. Make It Good",
+        "minimaxir.com · What's the deal with all the random weekly quota resets for agents lately?",
         "simonwillison.net · SQLite Query Explainer",
         "construction-physics.com · Reading List 07/18/26",
         "shkspr.mobi · Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪",
         "nesbitt.io · This Week in Package Management: 18 July 2026"
       ],
       "key_points": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_zh": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "key_points_en": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer",
         "Reading List 07/18/26"
       ],
       "tweet_drafts": [
-        "What's the deal with all the random weekly quota resets for agents lately?",
         "Make It Work vs. Make It Good",
+        "What's the deal with all the random weekly quota resets for agents lately?",
         "SQLite Query Explainer"
       ],
       "sources": [
         {
-          "feed_title": "minimaxir.com",
-          "title": "What's the deal with all the random weekly quota resets for agents lately?",
-          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
-        },
-        {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Make It Work vs. Make It Good",
           "link": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/"
+        },
+        {
+          "feed_title": "minimaxir.com",
+          "title": "What's the deal with all the random weekly quota resets for agents lately?",
+          "link": "https://minimaxir.com/2026/07/agent-quota-reset/"
         },
         {
           "feed_title": "simonwillison.net",
@@ -1959,20 +2015,20 @@
           "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything"
         }
       ],
-      "summary_zh": "2026-07-18 技术日报：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。",
-      "summary_en": "Daily brief (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.",
+      "summary_zh": "2026-07-18 技术日报：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。",
+      "summary_en": "Daily brief (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-18 日报】What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-18): What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-07-18 日报】Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-18): Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-18）\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-18)\n- What's the deal with all the random weekly quota resets for agents lately?\n- Make It Work vs. Make It Good\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-18）\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-18)\n- Make It Work vs. Make It Good\n- What's the deal with all the random weekly quota resets for agents lately?\n- SQLite Query Explainer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/\n- https://minimaxir.com/2026/07/agent-quota-reset/\n- https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What's the deal with all the random weekly quota resets for agents lately?；Make It Work vs. Make It Good；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What's the deal with all the random weekly quota resets for agents lately?; Make It Work vs. Make It Good; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Make It Work vs. Make It Good；What's the deal with all the random weekly quota resets for agents lately?；SQLite Query Explainer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Make It Work vs. Make It Good; What's the deal with all the random weekly quota resets for agents lately?; SQLite Query Explainer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2201,82 +2257,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba；The OpenAI Bubble；How I tricked Claude into leaking your deepest, darkest secrets。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba; The OpenAI Bubble; How I tricked Claude into leaking your deepest, darkest secrets.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "total": 18,
-      "feeds": [
-        "simonwillison.net (4)",
-        "xeiaso.net (2)",
-        "buttondown.com/hillelwayne (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Quoting GitHub Changeling",
-        "idiallo.com · They Prefer the App",
-        "simonwillison.net · lobste.rs is now running on SQLite",
-        "krebsonsecurity.com · Microsoft Patches a Record 570 Security Flaws",
-        "simonwillison.net · Quoting Armin Ronacher",
-        "buttondown.com/hillelwayne · I'm still alive"
-      ],
-      "key_points": [
-        "Quoting GitHub Changeling",
-        "They Prefer the App",
-        "lobste.rs is now running on SQLite",
-        "Microsoft Patches a Record 570 Security Flaws"
-      ],
-      "key_points_zh": [
-        "Quoting GitHub Changeling",
-        "They Prefer the App",
-        "lobste.rs is now running on SQLite",
-        "Microsoft Patches a Record 570 Security Flaws"
-      ],
-      "key_points_en": [
-        "Quoting GitHub Changeling",
-        "They Prefer the App",
-        "lobste.rs is now running on SQLite",
-        "Microsoft Patches a Record 570 Security Flaws"
-      ],
-      "tweet_drafts": [
-        "Quoting GitHub Changeling",
-        "They Prefer the App",
-        "lobste.rs is now running on SQLite"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting GitHub Changeling",
-          "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "They Prefer the App",
-          "link": "https://idiallo.com/blog/they-prefer-the-app"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "lobste.rs is now running on SQLite",
-          "link": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-07-14 技术日报：Quoting GitHub Changeling；They Prefer the App；lobste.rs is now running on SQLite。",
-      "summary_en": "Daily brief (2026-07-14): Quoting GitHub Changeling; They Prefer the App; lobste.rs is now running on SQLite.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-14 日报】Quoting GitHub Changeling；They Prefer the App；lobste.rs is now running on SQLite。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-14): Quoting GitHub Changeling; They Prefer the App; lobste.rs is now running on SQLite. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-14）\n- Quoting GitHub Changeling\n- They Prefer the App\n- lobste.rs is now running on SQLite\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything\n- https://idiallo.com/blog/they-prefer-the-app\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-14)\n- Quoting GitHub Changeling\n- They Prefer the App\n- lobste.rs is now running on SQLite\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything\n- https://idiallo.com/blog/they-prefer-the-app\n- https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting GitHub Changeling；They Prefer the App；lobste.rs is now running on SQLite。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting GitHub Changeling; They Prefer the App; lobste.rs is now running on SQLite.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
