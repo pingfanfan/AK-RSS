@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-13 16:14:20 UTC
+Generated at: 2026-08-13 17:24:38 UTC
 
-- [Ceramic Shield 2 Is the Real Deal](https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping) (`daringfireball.net`)
+- [Supplier Security Questionnaire](https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html) (`nesbitt.io`)
+- [Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/) (`shkspr.mobi`)
