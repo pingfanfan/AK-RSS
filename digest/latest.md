@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-14 16:10:20 UTC
+Generated at: 2026-08-14 17:21:57 UTC
 
-- [Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/) (`shkspr.mobi`)
-- [Premium: How Much Money Does AI Need?](https://www.wheresyoured.at/premium-how-much-money-does-ai-need/) (`wheresyoured.at`)
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/) (`filfre.net`)
+- [★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses](https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance) (`daringfireball.net`)
+- [Forcing an ARM64X executable to run as a specific architecture](https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613) (`devblogs.microsoft.com/oldnewthing`)
