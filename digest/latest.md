@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-14 11:34:09 UTC
+Generated at: 2026-08-14 12:34:14 UTC
 
-- [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/) (`krebsonsecurity.com`)
-- [How This Blog Is Built](https://nesbitt.io/2026/08/14/how-this-blog-is-built.html) (`nesbitt.io`)
-- [Commodore’s purchase of Amiga, August 14, 1984](https://dfarq.homeip.net/commodores-purchase-of-amiga-august-14-1984/?utm_source=rss&utm_medium=rss&utm_campaign=commodores-purchase-of-amiga-august-14-1984) (`dfarq.homeip.net`)
-- [Pluralistic: Capital formation (14 Aug 2026)](https://pluralistic.net/2026/08/14/one-chokable-throat/) (`pluralistic.net`)
+- [Printing Lists](https://matklad.github.io/2026/08/14/printing-lists.html) (`matklad.github.io`)
+- [Edinburgh Fringe: Waiting for Wonka ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/) (`shkspr.mobi`)
+- [How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II](https://www.construction-physics.com/p/how-will-the-21st-century-road-to) (`construction-physics.com`)
