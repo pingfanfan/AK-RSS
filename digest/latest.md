@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-15 11:40:30 UTC
+Generated at: 2026-08-15 12:11:43 UTC
 
-- [Book Review: Slags by Emma Jane Unsworth ★★★⯪☆](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) (`shkspr.mobi`)
+- [Reading List — 08/15/2026](https://www.construction-physics.com/p/reading-list-08152026) (`construction-physics.com`)
