@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-08-17T10:52:53Z",
+  "generated_at": "2026-08-17T11:13:48Z",
   "days": [
     {
       "date": "2026-08-17",
-      "total": 3,
+      "total": 4,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · When the Internet reached half of US households",
         "pluralistic.net · Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
         "johndcook.com · Proportion of 1s in a Hadamard matrix",
         "simonwillison.net · Markdown SVG upgrades"
       ],
       "key_points": [
+        "When the Internet reached half of US households",
         "Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
         "Proportion of 1s in a Hadamard matrix",
         "Markdown SVG upgrades"
       ],
       "key_points_zh": [
+        "When the Internet reached half of US households",
         "Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
         "Proportion of 1s in a Hadamard matrix",
         "Markdown SVG upgrades"
       ],
       "key_points_en": [
+        "When the Internet reached half of US households",
         "Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
         "Proportion of 1s in a Hadamard matrix",
         "Markdown SVG upgrades"
       ],
       "tweet_drafts": [
+        "When the Internet reached half of US households",
         "Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
-        "Proportion of 1s in a Hadamard matrix",
-        "Markdown SVG upgrades"
+        "Proportion of 1s in a Hadamard matrix"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "When the Internet reached half of US households",
+          "link": "https://dfarq.homeip.net/when-the-internet-reached-half-of-us-households/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-the-internet-reached-half-of-us-households"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)",
@@ -44,27 +54,22 @@
           "feed_title": "johndcook.com",
           "title": "Proportion of 1s in a Hadamard matrix",
           "link": "https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Markdown SVG upgrades",
-          "link": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/"
         }
       ],
-      "summary_zh": "2026-08-17 技术日报：Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)；Proportion of 1s in a Hadamard matrix；Markdown SVG upgrades。",
-      "summary_en": "Daily brief (2026-08-17): Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026); Proportion of 1s in a Hadamard matrix; Markdown SVG upgrades.",
+      "summary_zh": "2026-08-17 技术日报：When the Internet reached half of US households；Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)；Proportion of 1s in a Hadamard matrix。",
+      "summary_en": "Daily brief (2026-08-17): When the Internet reached half of US households; Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026); Proportion of 1s in a Hadamard matrix.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-17 日报】Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)；Proportion of 1s in a Hadamard matrix；Markdown SVG upgrades。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-17): Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026); Proportion of 1s in a Hadamard matrix; Markdown SVG upgrades. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildIn"
+          "zh": "【2026-08-17 日报】When the Internet reached half of US households；Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)；Proportion of 1s in a Hadamard matrix。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-17): When the Internet reached half of US households; Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026); Proportion of 1s in a Hadamard matrix. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-17）\n- Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)\n- Proportion of 1s in a Hadamard matrix\n- Markdown SVG upgrades\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/08/17/great-sousas-ghost/\n- https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/\n- https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-17)\n- Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)\n- Proportion of 1s in a Hadamard matrix\n- Markdown SVG upgrades\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/08/17/great-sousas-ghost/\n- https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/\n- https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-17）\n- When the Internet reached half of US households\n- Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)\n- Proportion of 1s in a Hadamard matrix\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/when-the-internet-reached-half-of-us-households/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-the-internet-reached-half-of-us-households\n- https://pluralistic.net/2026/08/17/great-sousas-ghost/\n- https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-17)\n- When the Internet reached half of US households\n- Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)\n- Proportion of 1s in a Hadamard matrix\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/when-the-internet-reached-half-of-us-households/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-the-internet-reached-half-of-us-households\n- https://pluralistic.net/2026/08/17/great-sousas-ghost/\n- https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)；Proportion of 1s in a Hadamard matrix；Markdown SVG upgrades。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026); Proportion of 1s in a Hadamard matrix; Markdown SVG upgrades.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：When the Internet reached half of US households；Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)；Proportion of 1s in a Hadamard matrix。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: When the Internet reached half of US households; Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026); Proportion of 1s in a Hadamard matrix.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1149,7 +1154,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "borretti.me · Mathematics Without Mathematicians"
+        "seangoedecke.com · Giving and taking credit in big tech companies"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -1982,33 +1987,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "sources": [
         {
@@ -2022,25 +2027,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
-          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2212,7 +2217,7 @@
         "johndcook.com · Sum of low squares",
         "simonwillison.net · AI Mania Is Eviscerating Global Decision-Making",
         "daringfireball.net · ★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
-        "computer.rip · email encryption"
+        "seangoedecke.com · Impro is a handbook for running a cult"
       ],
       "key_points": [
         "Fitting a regular expression to a list of words",
