@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-17 15:45:30 UTC
+Generated at: 2026-08-17 16:11:58 UTC
 
-- [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/) (`simonwillison.net`)
+- [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617) (`devblogs.microsoft.com/oldnewthing`)
