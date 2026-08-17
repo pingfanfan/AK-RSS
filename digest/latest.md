@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-17 21:45:24 UTC
+Generated at: 2026-08-17 22:10:35 UTC
 
-- [No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d) (`daringfireball.net`)
+- [Apple TV Still Has No Start Date for ‘The Savant’](https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released) (`daringfireball.net`)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) (`fabiensanglard.net`)
