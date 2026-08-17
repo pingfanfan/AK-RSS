@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-17 11:13:33 UTC
+Generated at: 2026-08-17 11:46:04 UTC
 
-- [When the Internet reached half of US households](https://dfarq.homeip.net/when-the-internet-reached-half-of-us-households/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-internet-reached-half-of-us-households) (`dfarq.homeip.net`)
+- [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/) (`shkspr.mobi`)
