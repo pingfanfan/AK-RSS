@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-18 15:22:51 UTC
+Generated at: 2026-08-18 15:52:38 UTC
 
-- [I like 'em thick](https://www.experimental-history.com/p/i-like-em-thick) (`experimental-history.com`)
+- [What Happens If OpenAI Dies?](https://www.wheresyoured.at/what-happens-if-openai-dies/) (`wheresyoured.at`)
