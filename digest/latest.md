@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-18 14:01:35 UTC
+Generated at: 2026-08-18 14:57:11 UTC
 
-- [Mean distance to the sun](https://www.johndcook.com/blog/2026/08/18/mean-distance-to-the-sun/) (`johndcook.com`)
+- [OpenAI Pot Complains That Google Kettle Is Black](https://x.com/thsottiaux/status/2083373529081291076?s=12) (`daringfireball.net`)
+- [Pluralistic: IP can't save you from AI (18 Aug 2026)](https://pluralistic.net/2026/08/18/enron-corpus/) (`pluralistic.net`)
