@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-18 19:03:17 UTC
+Generated at: 2026-08-18 19:45:29 UTC
 
-- [Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/) (`daringfireball.net`)
+- [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-00/?p=112617) (`devblogs.microsoft.com/oldnewthing`)
