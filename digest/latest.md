@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-18 15:52:38 UTC
+Generated at: 2026-08-18 16:15:38 UTC
 
-- [What Happens If OpenAI Dies?](https://www.wheresyoured.at/what-happens-if-openai-dies/) (`wheresyoured.at`)
+- [‘Dickover’ Makes It Into The Guardian](https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape) (`daringfireball.net`)
+- [The imbalance theorem](https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/) (`johndcook.com`)
