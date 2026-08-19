@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-08-18T22:45:47Z",
+  "generated_at": "2026-08-19T06:20:56Z",
   "days": [
+    {
+      "date": "2026-08-19",
+      "total": 1,
+      "feeds": [
+        "johndcook.com (1)"
+      ],
+      "highlights": [
+        "johndcook.com · Big little hexagon"
+      ],
+      "key_points": [
+        "Big little hexagon"
+      ],
+      "key_points_zh": [
+        "Big little hexagon"
+      ],
+      "key_points_en": [
+        "Big little hexagon"
+      ],
+      "tweet_drafts": [
+        "Big little hexagon"
+      ],
+      "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Big little hexagon",
+          "link": "https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/"
+        }
+      ],
+      "summary_zh": "2026-08-19 技术日报：Big little hexagon。",
+      "summary_en": "Daily brief (2026-08-19): Big little hexagon.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-19 日报】Big little hexagon。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-19): Big little hexagon. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-19）\n- Big little hexagon\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-19)\n- Big little hexagon\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Big little hexagon。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Big little hexagon.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-08-18",
       "total": 19,
@@ -1234,7 +1279,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "borretti.me · Mathematics Without Mathematicians"
+        "seangoedecke.com · Giving and taking credit in big tech companies"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’；Forensic accounting in Python；Blog Jamboree 2026: The Winners。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’; Forensic accounting in Python; Blog Jamboree 2026: The Winners.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "total": 13,
-      "feeds": [
-        "simonwillison.net (3)",
-        "berthub.eu (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Kuiper Q-Q plot: are these the same?",
-        "simonwillison.net · Reverse-engineering is cheap now",
-        "simonwillison.net · Who’s Afraid of Chinese Models?",
-        "daringfireball.net · ‘Who’s Afraid of Chinese Models?’",
-        "johndcook.com · Volume to Area ratio for Regular Solids",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1"
-      ],
-      "key_points": [
-        "Kuiper Q-Q plot: are these the same?",
-        "Reverse-engineering is cheap now",
-        "Who’s Afraid of Chinese Models?",
-        "‘Who’s Afraid of Chinese Models?’"
-      ],
-      "key_points_zh": [
-        "Kuiper Q-Q plot: are these the same?",
-        "Reverse-engineering is cheap now",
-        "Who’s Afraid of Chinese Models?",
-        "‘Who’s Afraid of Chinese Models?’"
-      ],
-      "key_points_en": [
-        "Kuiper Q-Q plot: are these the same?",
-        "Reverse-engineering is cheap now",
-        "Who’s Afraid of Chinese Models?",
-        "‘Who’s Afraid of Chinese Models?’"
-      ],
-      "tweet_drafts": [
-        "Kuiper Q-Q plot: are these the same?",
-        "Reverse-engineering is cheap now",
-        "Who’s Afraid of Chinese Models?"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Kuiper Q-Q plot: are these the same?",
-          "link": "https://entropicthoughts.com/kuiper-q-q-plot"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Reverse-engineering is cheap now",
-          "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Who’s Afraid of Chinese Models?",
-          "link": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
-        }
-      ],
-      "summary_zh": "2026-07-20 技术日报：Kuiper Q-Q plot: are these the same?；Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?。",
-      "summary_en": "Daily brief (2026-07-20): Kuiper Q-Q plot: are these the same?; Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-20 日报】Kuiper Q-Q plot: are these the same?；Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-20): Kuiper Q-Q plot: are these the same?; Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-20）\n- Kuiper Q-Q plot: are these the same?\n- Reverse-engineering is cheap now\n- Who’s Afraid of Chinese Models?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/kuiper-q-q-plot\n- https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-20)\n- Kuiper Q-Q plot: are these the same?\n- Reverse-engineering is cheap now\n- Who’s Afraid of Chinese Models?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/kuiper-q-q-plot\n- https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything\n- https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Kuiper Q-Q plot: are these the same?；Reverse-engineering is cheap now；Who’s Afraid of Chinese Models?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Kuiper Q-Q plot: are these the same?; Reverse-engineering is cheap now; Who’s Afraid of Chinese Models?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
