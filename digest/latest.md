@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-19 11:12:45 UTC
+Generated at: 2026-08-19 11:45:37 UTC
 
-- [MOS Technology founded August 19, 1974](https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss&utm_medium=rss&utm_campaign=mos-technology-founded-august-19-1974) (`dfarq.homeip.net`)
+- [Asymmetric Agents](https://shkspr.mobi/blog/2026/08/asymmetric-agents/) (`shkspr.mobi`)
