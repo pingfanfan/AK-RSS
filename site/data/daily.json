@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-08-20T15:33:46Z",
+  "generated_at": "2026-08-20T16:18:30Z",
   "days": [
     {
       "date": "2026-08-20",
-      "total": 6,
+      "total": 7,
       "feeds": [
+        "blog.jim-nielsen.com (1)",
         "borretti.me (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "simonwillison.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · A Sloppy Interface Is a Security Liability ￼",
         "jeffgeerling.com · Getting the Steam Deck LCD working on a Raspberry Pi",
         "johndcook.com · AI-generated ASCII diagrams",
         "dfarq.homeip.net · Adobe Systems IPO August 20, 1986",
         "nesbitt.io · Issues in the Repo",
-        "borretti.me · Our Servants Will Do That For Us",
-        "simonwillison.net · smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript"
+        "borretti.me · Our Servants Will Do That For Us"
       ],
       "key_points": [
-        "Getting the Steam Deck LCD working on a Raspberry Pi",
-        "AI-generated ASCII diagrams",
-        "Adobe Systems IPO August 20, 1986",
-        "Issues in the Repo"
-      ],
-      "key_points_zh": [
-        "Getting the Steam Deck LCD working on a Raspberry Pi",
-        "AI-generated ASCII diagrams",
-        "Adobe Systems IPO August 20, 1986",
-        "Issues in the Repo"
-      ],
-      "key_points_en": [
-        "Getting the Steam Deck LCD working on a Raspberry Pi",
-        "AI-generated ASCII diagrams",
-        "Adobe Systems IPO August 20, 1986",
-        "Issues in the Repo"
-      ],
-      "tweet_drafts": [
+        "A Sloppy Interface Is a Security Liability ￼",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
         "AI-generated ASCII diagrams",
         "Adobe Systems IPO August 20, 1986"
       ],
+      "key_points_zh": [
+        "A Sloppy Interface Is a Security Liability ￼",
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "AI-generated ASCII diagrams",
+        "Adobe Systems IPO August 20, 1986"
+      ],
+      "key_points_en": [
+        "A Sloppy Interface Is a Security Liability ￼",
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "AI-generated ASCII diagrams",
+        "Adobe Systems IPO August 20, 1986"
+      ],
+      "tweet_drafts": [
+        "A Sloppy Interface Is a Security Liability ￼",
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "AI-generated ASCII diagrams"
+      ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "A Sloppy Interface Is a Security Liability ￼",
+          "link": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/"
+        },
         {
           "feed_title": "jeffgeerling.com",
           "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "AI-generated ASCII diagrams",
           "link": "https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Adobe Systems IPO August 20, 1986",
-          "link": "https://dfarq.homeip.net/adobe-systems-ipo-august-20-1986/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=adobe-systems-ipo-august-20-1986"
         }
       ],
-      "summary_zh": "2026-08-20 技术日报：Getting the Steam Deck LCD working on a Raspberry Pi；AI-generated ASCII diagrams；Adobe Systems IPO August 20, 1986。",
-      "summary_en": "Daily brief (2026-08-20): Getting the Steam Deck LCD working on a Raspberry Pi; AI-generated ASCII diagrams; Adobe Systems IPO August 20, 1986.",
+      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；AI-generated ASCII diagrams。",
+      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; AI-generated ASCII diagrams.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-20 日报】Getting the Steam Deck LCD working on a Raspberry Pi；AI-generated ASCII diagrams；Adobe Systems IPO August 20, 1986。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-20): Getting the Steam Deck LCD working on a Raspberry Pi; AI-generated ASCII diagrams; Adobe Systems IPO August 20, 1986. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；AI-generated ASCII diagrams。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; AI-generated ASCII diagrams. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-20）\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- AI-generated ASCII diagrams\n- Adobe Systems IPO August 20, 1986\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/\n- https://dfarq.homeip.net/adobe-systems-ipo-august-20-1986/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=adobe-systems-ipo-august-20-1986\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-20)\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- AI-generated ASCII diagrams\n- Adobe Systems IPO August 20, 1986\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/\n- https://dfarq.homeip.net/adobe-systems-ipo-august-20-1986/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=adobe-systems-ipo-august-20-1986\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- AI-generated ASCII diagrams\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- AI-generated ASCII diagrams\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Getting the Steam Deck LCD working on a Raspberry Pi；AI-generated ASCII diagrams；Adobe Systems IPO August 20, 1986。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Getting the Steam Deck LCD working on a Raspberry Pi; AI-generated ASCII diagrams; Adobe Systems IPO August 20, 1986.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；AI-generated ASCII diagrams。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; AI-generated ASCII diagrams.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2219,33 +2219,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "sources": [
         {
@@ -2259,25 +2259,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
-          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
