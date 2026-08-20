@@ -1,49 +1,99 @@
 {
-  "generated_at": "2026-08-19T22:46:38Z",
+  "generated_at": "2026-08-20T06:21:41Z",
   "days": [
     {
-      "date": "2026-08-19",
-      "total": 7,
+      "date": "2026-08-20",
+      "total": 1,
       "feeds": [
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript"
+      ],
+      "key_points": [
+        "smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript"
+      ],
+      "key_points_zh": [
+        "smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript"
+      ],
+      "key_points_en": [
+        "smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript"
+      ],
+      "tweet_drafts": [
+        "smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript",
+          "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/"
+        }
+      ],
+      "summary_zh": "2026-08-20 技术日报：smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript。",
+      "summary_en": "Daily brief (2026-08-20): smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-20 日报】smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-20): smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-20）\n- smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-20)\n- smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: smolmachines / smolvm as a sandbox for untrusted Python \u0026 JavaScript.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "total": 8,
+      "feeds": [
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "jeffgeerling.com (1)",
         "johndcook.com (1)",
         "lucumr.pocoo.org (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "devblogs.microsoft.com/oldnewthing · On wrapping a callable in a lambda that just calls it with the same parameters",
         "shkspr.mobi · Asymmetric Agents",
         "dfarq.homeip.net · MOS Technology founded August 19, 1974",
         "pluralistic.net · Pluralistic: The ordinariness of evil (19 Aug 2026)",
         "jeffgeerling.com · Hands-on with Raspberry Pi's CM5 Programming Jig",
-        "johndcook.com · Big little hexagon",
-        "lucumr.pocoo.org · What Is Reasoning"
+        "johndcook.com · Big little hexagon"
       ],
       "key_points": [
-        "Asymmetric Agents",
-        "MOS Technology founded August 19, 1974",
-        "Pluralistic: The ordinariness of evil (19 Aug 2026)",
-        "Hands-on with Raspberry Pi's CM5 Programming Jig"
-      ],
-      "key_points_zh": [
-        "Asymmetric Agents",
-        "MOS Technology founded August 19, 1974",
-        "Pluralistic: The ordinariness of evil (19 Aug 2026)",
-        "Hands-on with Raspberry Pi's CM5 Programming Jig"
-      ],
-      "key_points_en": [
-        "Asymmetric Agents",
-        "MOS Technology founded August 19, 1974",
-        "Pluralistic: The ordinariness of evil (19 Aug 2026)",
-        "Hands-on with Raspberry Pi's CM5 Programming Jig"
-      ],
-      "tweet_drafts": [
+        "On wrapping a callable in a lambda that just calls it with the same parameters",
         "Asymmetric Agents",
         "MOS Technology founded August 19, 1974",
         "Pluralistic: The ordinariness of evil (19 Aug 2026)"
       ],
+      "key_points_zh": [
+        "On wrapping a callable in a lambda that just calls it with the same parameters",
+        "Asymmetric Agents",
+        "MOS Technology founded August 19, 1974",
+        "Pluralistic: The ordinariness of evil (19 Aug 2026)"
+      ],
+      "key_points_en": [
+        "On wrapping a callable in a lambda that just calls it with the same parameters",
+        "Asymmetric Agents",
+        "MOS Technology founded August 19, 1974",
+        "Pluralistic: The ordinariness of evil (19 Aug 2026)"
+      ],
+      "tweet_drafts": [
+        "On wrapping a callable in a lambda that just calls it with the same parameters",
+        "Asymmetric Agents",
+        "MOS Technology founded August 19, 1974"
+      ],
       "sources": [
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "On wrapping a callable in a lambda that just calls it with the same parameters",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "Asymmetric Agents",
@@ -53,27 +103,22 @@
           "feed_title": "dfarq.homeip.net",
           "title": "MOS Technology founded August 19, 1974",
           "link": "https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: The ordinariness of evil (19 Aug 2026)",
-          "link": "https://pluralistic.net/2026/08/19/banaility/"
         }
       ],
-      "summary_zh": "2026-08-19 技术日报：Asymmetric Agents；MOS Technology founded August 19, 1974；Pluralistic: The ordinariness of evil (19 Aug 2026)。",
-      "summary_en": "Daily brief (2026-08-19): Asymmetric Agents; MOS Technology founded August 19, 1974; Pluralistic: The ordinariness of evil (19 Aug 2026).",
+      "summary_zh": "2026-08-19 技术日报：On wrapping a callable in a lambda that just calls it with the same parameters；Asymmetric Agents；MOS Technology founded August 19, 1974。",
+      "summary_en": "Daily brief (2026-08-19): On wrapping a callable in a lambda that just calls it with the same parameters; Asymmetric Agents; MOS Technology founded August 19, 1974.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-19 日报】Asymmetric Agents；MOS Technology founded August 19, 1974；Pluralistic: The ordinariness of evil (19 Aug 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-19): Asymmetric Agents; MOS Technology founded August 19, 1974; Pluralistic: The ordinariness of evil (19 Aug 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-08-19 日报】On wrapping a callable in a lambda that just calls it with the same parameters；Asymmetric Agents；MOS Technology founded August 19, 1974。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-19): On wrapping a callable in a lambda that just calls it with the same parameters; Asymmetric Agents; MOS Technology founded August 19, 1974. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-19）\n- Asymmetric Agents\n- MOS Technology founded August 19, 1974\n- Pluralistic: The ordinariness of evil (19 Aug 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/08/asymmetric-agents/\n- https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974\n- https://pluralistic.net/2026/08/19/banaility/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-19)\n- Asymmetric Agents\n- MOS Technology founded August 19, 1974\n- Pluralistic: The ordinariness of evil (19 Aug 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/08/asymmetric-agents/\n- https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974\n- https://pluralistic.net/2026/08/19/banaility/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-19）\n- On wrapping a callable in a lambda that just calls it with the same parameters\n- Asymmetric Agents\n- MOS Technology founded August 19, 1974\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624\n- https://shkspr.mobi/blog/2026/08/asymmetric-agents/\n- https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-19)\n- On wrapping a callable in a lambda that just calls it with the same parameters\n- Asymmetric Agents\n- MOS Technology founded August 19, 1974\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624\n- https://shkspr.mobi/blog/2026/08/asymmetric-agents/\n- https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Asymmetric Agents；MOS Technology founded August 19, 1974；Pluralistic: The ordinariness of evil (19 Aug 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Asymmetric Agents; MOS Technology founded August 19, 1974; Pluralistic: The ordinariness of evil (19 Aug 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：On wrapping a callable in a lambda that just calls it with the same parameters；Asymmetric Agents；MOS Technology founded August 19, 1974。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: On wrapping a callable in a lambda that just calls it with the same parameters; Asymmetric Agents; MOS Technology founded August 19, 1974.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1310,7 +1355,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "borretti.me · Mathematics Without Mathematicians"
+        "computer.rip · telephones caught in between"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -2143,33 +2188,33 @@
       "highlights": [
         "wheresyoured.at · The Subprime Data Center Crisis",
         "antirez.com · Not just development, distribution of software may change as well",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "jeffgeerling.com · Open Sauce and GPS time were my summer AI Antiseptics",
+        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
         "johndcook.com · When sine of x degrees equals sine of x radians",
         "shkspr.mobi · Scattered thoughts on social geolocation"
       ],
       "key_points": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_zh": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "key_points_en": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-        "Open Sauce and GPS time were my summer AI Antiseptics"
+        "Open Sauce and GPS time were my summer AI Antiseptics",
+        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
       ],
       "tweet_drafts": [
         "The Subprime Data Center Crisis",
         "Not just development, distribution of software may change as well",
-        "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3"
+        "Open Sauce and GPS time were my summer AI Antiseptics"
       ],
       "sources": [
         {
@@ -2183,101 +2228,25 @@
           "link": "http://antirez.com/news/170"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552"
+          "feed_title": "jeffgeerling.com",
+          "title": "Open Sauce and GPS time were my summer AI Antiseptics",
+          "link": "https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/"
         }
       ],
-      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。",
-      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.",
+      "summary_zh": "2026-07-22 技术日报：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。",
+      "summary_en": "Daily brief (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.",
       "social_posts": {
         "x": {
-          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3. Actionable takeaways included. What would you ship next?"
+          "zh": "【2026-07-22 日报】The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-07-22): The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-07-22）\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-07-22)\n- The Subprime Data Center Crisis\n- Not just development, distribution of software may change as well\n- Open Sauce and GPS time were my summer AI Antiseptics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/the-subprime-data-center-crisis/\n- http://antirez.com/news/170\n- https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (2)",
-        "johndcook.com (2)",
-        "beej.us (1)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’",
-        "johndcook.com · Forensic accounting in Python",
-        "experimental-history.com · Blog Jamboree 2026: The Winners",
-        "simonwillison.net · Nativ: Run AI models locally on your Mac",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2",
-        "berthub.eu · Kan een Amerikaans bedrijf met encryptie de Amerikaanse overheid buiten de deur houden?"
-      ],
-      "key_points": [
-        "★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’",
-        "Forensic accounting in Python",
-        "Blog Jamboree 2026: The Winners",
-        "Nativ: Run AI models locally on your Mac"
-      ],
-      "key_points_zh": [
-        "★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’",
-        "Forensic accounting in Python",
-        "Blog Jamboree 2026: The Winners",
-        "Nativ: Run AI models locally on your Mac"
-      ],
-      "key_points_en": [
-        "★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’",
-        "Forensic accounting in Python",
-        "Blog Jamboree 2026: The Winners",
-        "Nativ: Run AI models locally on your Mac"
-      ],
-      "tweet_drafts": [
-        "★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’",
-        "Forensic accounting in Python",
-        "Blog Jamboree 2026: The Winners"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’",
-          "link": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Forensic accounting in Python",
-          "link": "https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/"
-        },
-        {
-          "feed_title": "experimental-history.com",
-          "title": "Blog Jamboree 2026: The Winners",
-          "link": "https://www.experimental-history.com/p/blog-jamboree-2026-the-winners"
-        }
-      ],
-      "summary_zh": "2026-07-21 技术日报：★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’；Forensic accounting in Python；Blog Jamboree 2026: The Winners。",
-      "summary_en": "Daily brief (2026-07-21): ★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’; Forensic accounting in Python; Blog Jamboree 2026: The Winners.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-21 日报】★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’；Forensic accounting in Python；Blog Jamboree 2026: The Winners。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-21): ★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’; Forensic accounting in Python; Blog Jamboree 2026: The Winners. Actionable takeaways included. What would you ship next? #AI #"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-21）\n- ★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’\n- Forensic accounting in Python\n- Blog Jamboree 2026: The Winners\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing\n- https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/\n- https://www.experimental-history.com/p/blog-jamboree-2026-the-winners\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-21)\n- ★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’\n- Forensic accounting in Python\n- Blog Jamboree 2026: The Winners\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing\n- https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/\n- https://www.experimental-history.com/p/blog-jamboree-2026-the-winners\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’；Forensic accounting in Python；Blog Jamboree 2026: The Winners。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ European Commission: ‘Guidance to Google for AI Interoperability on Android \u0026 Sharing of Google Search’; Forensic accounting in Python; Blog Jamboree 2026: The Winners.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Subprime Data Center Crisis；Not just development, distribution of software may change as well；Open Sauce and GPS time were my summer AI Antiseptics。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Subprime Data Center Crisis; Not just development, distribution of software may change as well; Open Sauce and GPS time were my summer AI Antiseptics.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
