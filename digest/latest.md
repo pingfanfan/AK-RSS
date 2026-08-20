@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-20 14:04:31 UTC
+Generated at: 2026-08-20 15:00:25 UTC
 
-- [AI-generated ASCII diagrams](https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/) (`johndcook.com`)
+- [Getting the Steam Deck LCD working on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/) (`jeffgeerling.com`)
