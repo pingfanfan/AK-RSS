@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-21 11:14:31 UTC
+Generated at: 2026-08-21 11:48:01 UTC
 
-- [Microsoft QuickBasic remembered](https://dfarq.homeip.net/microsoft-quickbasic-remembered/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-quickbasic-remembered) (`dfarq.homeip.net`)
+- [Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆](https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/) (`shkspr.mobi`)
