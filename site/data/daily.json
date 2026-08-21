@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-08-21T15:28:40Z",
+  "generated_at": "2026-08-21T15:57:49Z",
   "days": [
     {
       "date": "2026-08-21",
-      "total": 9,
+      "total": 11,
       "feeds": [
         "simonwillison.net (2)",
+        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
-        "matduggan.com (1)",
-        "pluralistic.net (1)"
+        "filfre.net (1)",
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "filfre.net · A Need for Speed",
         "simonwillison.net · Quoting Matt Webb",
         "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
+        "daringfireball.net · Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X",
         "johndcook.com · How would you know whether an ancient culture had zero?",
-        "shkspr.mobi · Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆",
-        "dfarq.homeip.net · Microsoft QuickBasic remembered",
-        "matduggan.com · In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive"
+        "shkspr.mobi · Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆"
       ],
       "key_points": [
+        "A Need for Speed",
         "Quoting Matt Webb",
         "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
-        "How would you know whether an ancient culture had zero?",
-        "Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆"
+        "Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X"
       ],
       "key_points_zh": [
+        "A Need for Speed",
         "Quoting Matt Webb",
         "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
-        "How would you know whether an ancient culture had zero?",
-        "Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆"
+        "Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X"
       ],
       "key_points_en": [
+        "A Need for Speed",
         "Quoting Matt Webb",
         "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
-        "How would you know whether an ancient culture had zero?",
-        "Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆"
+        "Bluesky’s Active User Base Is Shrinking, and Remains Tiny Compared to Threads and Twitter/X"
       ],
       "tweet_drafts": [
+        "A Need for Speed",
         "Quoting Matt Webb",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
-        "How would you know whether an ancient culture had zero?"
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam"
       ],
       "sources": [
+        {
+          "feed_title": "filfre.net",
+          "title": "A Need for Speed",
+          "link": "https://www.filfre.net/2026/08/a-need-for-speed/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Quoting Matt Webb",
@@ -53,27 +58,22 @@
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "How would you know whether an ancient culture had zero?",
-          "link": "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/"
         }
       ],
-      "summary_zh": "2026-08-21 技术日报：Quoting Matt Webb；Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam；How would you know whether an ancient culture had zero?。",
-      "summary_en": "Daily brief (2026-08-21): Quoting Matt Webb; Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam; How would you know whether an ancient culture had zero?.",
+      "summary_zh": "2026-08-21 技术日报：A Need for Speed；Quoting Matt Webb；Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam。",
+      "summary_en": "Daily brief (2026-08-21): A Need for Speed; Quoting Matt Webb; Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-21 日报】Quoting Matt Webb；Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam；How would you know whether an ancient culture had zero?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-21): Quoting Matt Webb; Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam; How would you know whether an ancient culture had zero?. Actionable takeaways included. What would you ship"
+          "zh": "【2026-08-21 日报】A Need for Speed；Quoting Matt Webb；Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-21): A Need for Speed; Quoting Matt Webb; Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-21）\n- Quoting Matt Webb\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam\n- How would you know whether an ancient culture had zero?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/21/matt-webb/\n- https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632\n- https://www.johndcook.com/blog/2026/08/21/ancient-number-system/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-21)\n- Quoting Matt Webb\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam\n- How would you know whether an ancient culture had zero?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/21/matt-webb/\n- https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632\n- https://www.johndcook.com/blog/2026/08/21/ancient-number-system/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-21）\n- A Need for Speed\n- Quoting Matt Webb\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.filfre.net/2026/08/a-need-for-speed/\n- https://simonwillison.net/2026/Aug/21/matt-webb/\n- https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-21)\n- A Need for Speed\n- Quoting Matt Webb\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.filfre.net/2026/08/a-need-for-speed/\n- https://simonwillison.net/2026/Aug/21/matt-webb/\n- https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Matt Webb；Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam；How would you know whether an ancient culture had zero?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Matt Webb; Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam; How would you know whether an ancient culture had zero?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A Need for Speed；Quoting Matt Webb；Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A Need for Speed; Quoting Matt Webb; Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
