@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-22 14:43:00 UTC
+Generated at: 2026-08-22 15:08:06 UTC
 
-- [WorkOS: Agents Can Now Sign Up for Your App](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) (`daringfireball.net`)
+- [Concurrent Servers: Part 8 - Go](https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/) (`eli.thegreenplace.net`)

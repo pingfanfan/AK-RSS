@@ -1,48 +1,54 @@
 {
-  "generated_at": "2026-08-22T14:43:13Z",
+  "generated_at": "2026-08-22T15:08:18Z",
   "days": [
     {
       "date": "2026-08-22",
-      "total": 6,
+      "total": 7,
       "feeds": [
         "daringfireball.net (2)",
         "construction-physics.com (1)",
+        "eli.thegreenplace.net (1)",
         "nesbitt.io (1)",
         "pluralistic.net (1)",
         "seangoedecke.com (1)"
       ],
       "highlights": [
+        "eli.thegreenplace.net · Concurrent Servers: Part 8 - Go",
         "daringfireball.net · WorkOS: Agents Can Now Sign Up for Your App",
         "construction-physics.com · Reading List 08/22/26",
         "nesbitt.io · This Week in Package Management: 22 August 2026",
         "pluralistic.net · Pluralistic: Born on technology's third base (21 Aug 2026)",
-        "seangoedecke.com · You should never be angry at work",
-        "daringfireball.net · The Fourth Horseman of the File-Format-Hegemony Apocalypse"
+        "seangoedecke.com · You should never be angry at work"
       ],
       "key_points": [
-        "WorkOS: Agents Can Now Sign Up for Your App",
-        "Reading List 08/22/26",
-        "This Week in Package Management: 22 August 2026",
-        "Pluralistic: Born on technology's third base (21 Aug 2026)"
-      ],
-      "key_points_zh": [
-        "WorkOS: Agents Can Now Sign Up for Your App",
-        "Reading List 08/22/26",
-        "This Week in Package Management: 22 August 2026",
-        "Pluralistic: Born on technology's third base (21 Aug 2026)"
-      ],
-      "key_points_en": [
-        "WorkOS: Agents Can Now Sign Up for Your App",
-        "Reading List 08/22/26",
-        "This Week in Package Management: 22 August 2026",
-        "Pluralistic: Born on technology's third base (21 Aug 2026)"
-      ],
-      "tweet_drafts": [
+        "Concurrent Servers: Part 8 - Go",
         "WorkOS: Agents Can Now Sign Up for Your App",
         "Reading List 08/22/26",
         "This Week in Package Management: 22 August 2026"
       ],
+      "key_points_zh": [
+        "Concurrent Servers: Part 8 - Go",
+        "WorkOS: Agents Can Now Sign Up for Your App",
+        "Reading List 08/22/26",
+        "This Week in Package Management: 22 August 2026"
+      ],
+      "key_points_en": [
+        "Concurrent Servers: Part 8 - Go",
+        "WorkOS: Agents Can Now Sign Up for Your App",
+        "Reading List 08/22/26",
+        "This Week in Package Management: 22 August 2026"
+      ],
+      "tweet_drafts": [
+        "Concurrent Servers: Part 8 - Go",
+        "WorkOS: Agents Can Now Sign Up for Your App",
+        "Reading List 08/22/26"
+      ],
       "sources": [
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Concurrent Servers: Part 8 - Go",
+          "link": "https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "WorkOS: Agents Can Now Sign Up for Your App",
@@ -52,27 +58,22 @@
           "feed_title": "construction-physics.com",
           "title": "Reading List 08/22/26",
           "link": "https://www.construction-physics.com/p/reading-list-082226"
-        },
-        {
-          "feed_title": "nesbitt.io",
-          "title": "This Week in Package Management: 22 August 2026",
-          "link": "https://nesbitt.io/2026/08/22/this-week-in-package-management.html"
         }
       ],
-      "summary_zh": "2026-08-22 技术日报：WorkOS: Agents Can Now Sign Up for Your App；Reading List 08/22/26；This Week in Package Management: 22 August 2026。",
-      "summary_en": "Daily brief (2026-08-22): WorkOS: Agents Can Now Sign Up for Your App; Reading List 08/22/26; This Week in Package Management: 22 August 2026.",
+      "summary_zh": "2026-08-22 技术日报：Concurrent Servers: Part 8 - Go；WorkOS: Agents Can Now Sign Up for Your App；Reading List 08/22/26。",
+      "summary_en": "Daily brief (2026-08-22): Concurrent Servers: Part 8 - Go; WorkOS: Agents Can Now Sign Up for Your App; Reading List 08/22/26.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-22 日报】WorkOS: Agents Can Now Sign Up for Your App；Reading List 08/22/26；This Week in Package Management: 22 August 2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-22): WorkOS: Agents Can Now Sign Up for Your App; Reading List 08/22/26; This Week in Package Management: 22 August 2026. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-08-22 日报】Concurrent Servers: Part 8 - Go；WorkOS: Agents Can Now Sign Up for Your App；Reading List 08/22/26。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-22): Concurrent Servers: Part 8 - Go; WorkOS: Agents Can Now Sign Up for Your App; Reading List 08/22/26. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-22）\n- WorkOS: Agents Can Now Sign Up for Your App\n- Reading List 08/22/26\n- This Week in Package Management: 22 August 2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://www.construction-physics.com/p/reading-list-082226\n- https://nesbitt.io/2026/08/22/this-week-in-package-management.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-22)\n- WorkOS: Agents Can Now Sign Up for Your App\n- Reading List 08/22/26\n- This Week in Package Management: 22 August 2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://www.construction-physics.com/p/reading-list-082226\n- https://nesbitt.io/2026/08/22/this-week-in-package-management.html\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-22）\n- Concurrent Servers: Part 8 - Go\n- WorkOS: Agents Can Now Sign Up for Your App\n- Reading List 08/22/26\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/\n- https://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://www.construction-physics.com/p/reading-list-082226\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-22)\n- Concurrent Servers: Part 8 - Go\n- WorkOS: Agents Can Now Sign Up for Your App\n- Reading List 08/22/26\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/\n- https://workos.com/auth-md?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://www.construction-physics.com/p/reading-list-082226\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：WorkOS: Agents Can Now Sign Up for Your App；Reading List 08/22/26；This Week in Package Management: 22 August 2026。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: WorkOS: Agents Can Now Sign Up for Your App; Reading List 08/22/26; This Week in Package Management: 22 August 2026.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Concurrent Servers: Part 8 - Go；WorkOS: Agents Can Now Sign Up for Your App；Reading List 08/22/26。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Concurrent Servers: Part 8 - Go; WorkOS: Agents Can Now Sign Up for Your App; Reading List 08/22/26.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -892,7 +893,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "The Economist: ‘How to Spot AI Writing’",
-          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm"
+          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw"
         }
       ],
       "summary_zh": "2026-08-11 技术日报：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。",
@@ -903,8 +904,8 @@
           "en": "AK-RSS Daily (2026-08-11): Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。\n我把行动建议做成日报了，可以直接拿去用。",
