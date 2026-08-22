@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-08-22T17:41:33Z",
+  "generated_at": "2026-08-22T18:10:40Z",
   "days": [
     {
       "date": "2026-08-22",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "daringfireball.net (3)",
+        "simonwillison.net (2)",
         "construction-physics.com (1)",
         "eli.thegreenplace.net (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "simonwillison.net · llm 0.33",
         "daringfireball.net · Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
         "simonwillison.net · More than just code review",
         "johndcook.com · Coming soon",
         "eli.thegreenplace.net · Concurrent Servers: Part 8 - Go",
-        "daringfireball.net · WorkOS: Agents Can Now Sign Up for Your App",
-        "construction-physics.com · Reading List 08/22/26"
+        "daringfireball.net · WorkOS: Agents Can Now Sign Up for Your App"
       ],
       "key_points": [
-        "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
-        "More than just code review",
-        "Coming soon",
-        "Concurrent Servers: Part 8 - Go"
-      ],
-      "key_points_zh": [
-        "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
-        "More than just code review",
-        "Coming soon",
-        "Concurrent Servers: Part 8 - Go"
-      ],
-      "key_points_en": [
-        "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
-        "More than just code review",
-        "Coming soon",
-        "Concurrent Servers: Part 8 - Go"
-      ],
-      "tweet_drafts": [
+        "llm 0.33",
         "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
         "More than just code review",
         "Coming soon"
       ],
+      "key_points_zh": [
+        "llm 0.33",
+        "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
+        "More than just code review",
+        "Coming soon"
+      ],
+      "key_points_en": [
+        "llm 0.33",
+        "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
+        "More than just code review",
+        "Coming soon"
+      ],
+      "tweet_drafts": [
+        "llm 0.33",
+        "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
+        "More than just code review"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "llm 0.33",
+          "link": "https://simonwillison.net/2026/Aug/22/llm/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "More than just code review",
           "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Coming soon",
-          "link": "https://www.johndcook.com/blog/2026/08/22/coming-soon/"
         }
       ],
-      "summary_zh": "2026-08-22 技术日报：Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’；More than just code review；Coming soon。",
-      "summary_en": "Daily brief (2026-08-22): Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’; More than just code review; Coming soon.",
+      "summary_zh": "2026-08-22 技术日报：llm 0.33；Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’；More than just code review。",
+      "summary_en": "Daily brief (2026-08-22): llm 0.33; Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’; More than just code review.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-22 日报】Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’；More than just code review；Coming soon。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-22): Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’; More than just code review; Coming soon. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-08-22 日报】llm 0.33；Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’；More than just code review。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-22): llm 0.33; Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’; More than just code review. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-22）\n- Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’\n- More than just code review\n- Coming soon\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn\n- https://simonwillison.net/2026/Aug/22/more-than-just-code-review/\n- https://www.johndcook.com/blog/2026/08/22/coming-soon/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-22)\n- Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’\n- More than just code review\n- Coming soon\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn\n- https://simonwillison.net/2026/Aug/22/more-than-just-code-review/\n- https://www.johndcook.com/blog/2026/08/22/coming-soon/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-22）\n- llm 0.33\n- Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’\n- More than just code review\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/22/llm/\n- https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn\n- https://simonwillison.net/2026/Aug/22/more-than-just-code-review/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-22)\n- llm 0.33\n- Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’\n- More than just code review\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/22/llm/\n- https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn\n- https://simonwillison.net/2026/Aug/22/more-than-just-code-review/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’；More than just code review；Coming soon。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’; More than just code review; Coming soon.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：llm 0.33；Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’；More than just code review。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: llm 0.33; Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’; More than just code review.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -166,34 +166,34 @@
       ],
       "highlights": [
         "blog.jim-nielsen.com · A Sloppy Interface Is a Security Liability ￼",
-        "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "jeffgeerling.com · Getting the Steam Deck LCD working on a Raspberry Pi",
+        "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "johndcook.com · AI-generated ASCII diagrams",
         "dfarq.homeip.net · Adobe Systems IPO August 20, 1986",
         "nesbitt.io · Issues in the Repo"
       ],
       "key_points": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "key_points_zh": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "key_points_en": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "tweet_drafts": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
-        "Getting the Steam Deck LCD working on a Raspberry Pi"
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function"
       ],
       "sources": [
         {
@@ -202,30 +202,30 @@
           "link": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629"
-        },
-        {
           "feed_title": "jeffgeerling.com",
           "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
           "link": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/"
+        },
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629"
         }
       ],
-      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。",
-      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.",
+      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。",
+      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi. Actionable takeaways included. What would y"
+          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function. Actionable takeaways included. What would y"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -893,7 +893,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "The Economist: ‘How to Spot AI Writing’",
-          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm"
+          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw"
         }
       ],
       "summary_zh": "2026-08-11 技术日报：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。",
@@ -904,8 +904,8 @@
           "en": "AK-RSS Daily (2026-08-11): Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1538,7 +1538,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "seangoedecke.com · Giving and taking credit in big tech companies"
+        "borretti.me · Mathematics Without Mathematicians"
       ],
       "key_points": [
         "condense-json 1.0",
