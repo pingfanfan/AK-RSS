@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-08-21T22:46:16Z",
+  "generated_at": "2026-08-22T06:17:08Z",
   "days": [
     {
+      "date": "2026-08-22",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "pluralistic.net (1)",
+        "seangoedecke.com (1)"
+      ],
+      "highlights": [
+        "pluralistic.net · Pluralistic: Born on technology's third base (21 Aug 2026)",
+        "seangoedecke.com · You should never be angry at work",
+        "daringfireball.net · The Fourth Horseman of the File-Format-Hegemony Apocalypse"
+      ],
+      "key_points": [
+        "Pluralistic: Born on technology's third base (21 Aug 2026)",
+        "You should never be angry at work",
+        "The Fourth Horseman of the File-Format-Hegemony Apocalypse"
+      ],
+      "key_points_zh": [
+        "Pluralistic: Born on technology's third base (21 Aug 2026)",
+        "You should never be angry at work",
+        "The Fourth Horseman of the File-Format-Hegemony Apocalypse"
+      ],
+      "key_points_en": [
+        "Pluralistic: Born on technology's third base (21 Aug 2026)",
+        "You should never be angry at work",
+        "The Fourth Horseman of the File-Format-Hegemony Apocalypse"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: Born on technology's third base (21 Aug 2026)",
+        "You should never be angry at work",
+        "The Fourth Horseman of the File-Format-Hegemony Apocalypse"
+      ],
+      "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Born on technology's third base (21 Aug 2026)",
+          "link": "https://pluralistic.net/2026/08/21/world-historic-forces/"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "You should never be angry at work",
+          "link": "https://seangoedecke.com/you-should-never-be-angry-at-work/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "The Fourth Horseman of the File-Format-Hegemony Apocalypse",
+          "link": "https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174"
+        }
+      ],
+      "summary_zh": "2026-08-22 技术日报：Pluralistic: Born on technology's third base (21 Aug 2026)；You should never be angry at work；The Fourth Horseman of the File-Format-Hegemony Apocalypse。",
+      "summary_en": "Daily brief (2026-08-22): Pluralistic: Born on technology's third base (21 Aug 2026); You should never be angry at work; The Fourth Horseman of the File-Format-Hegemony Apocalypse.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-22 日报】Pluralistic: Born on technology's third base (21 Aug 2026)；You should never be angry at work；The Fourth Horseman of the File-Format-Hegemony Apocalypse。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-22): Pluralistic: Born on technology's third base (21 Aug 2026); You should never be angry at work; The Fourth Horseman of the File-Format-Hegemony Apocalypse. Actionable takeaways included. What would you ship next? #AI #Engineering #Bui"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-22）\n- Pluralistic: Born on technology's third base (21 Aug 2026)\n- You should never be angry at work\n- The Fourth Horseman of the File-Format-Hegemony Apocalypse\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/08/21/world-historic-forces/\n- https://seangoedecke.com/you-should-never-be-angry-at-work/\n- https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-22)\n- Pluralistic: Born on technology's third base (21 Aug 2026)\n- You should never be angry at work\n- The Fourth Horseman of the File-Format-Hegemony Apocalypse\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/08/21/world-historic-forces/\n- https://seangoedecke.com/you-should-never-be-angry-at-work/\n- https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Pluralistic: Born on technology's third base (21 Aug 2026)；You should never be angry at work；The Fourth Horseman of the File-Format-Hegemony Apocalypse。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Born on technology's third base (21 Aug 2026); You should never be angry at work; The Fourth Horseman of the File-Format-Hegemony Apocalypse.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-21",
-      "total": 16,
+      "total": 17,
       "feeds": [
         "simonwillison.net (4)",
         "daringfireball.net (3)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "filfre.net (1)",
-        "johndcook.com (1)"
+        "fabiensanglard.net (1)",
+        "filfre.net (1)"
       ],
       "highlights": [
         "daringfireball.net · Walmart Finally Caves, Will Soon Support Apple Pay",
@@ -90,34 +157,34 @@
       ],
       "highlights": [
         "blog.jim-nielsen.com · A Sloppy Interface Is a Security Liability ￼",
-        "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "jeffgeerling.com · Getting the Steam Deck LCD working on a Raspberry Pi",
+        "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "johndcook.com · AI-generated ASCII diagrams",
         "dfarq.homeip.net · Adobe Systems IPO August 20, 1986",
         "nesbitt.io · Issues in the Repo"
       ],
       "key_points": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "key_points_zh": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "key_points_en": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "tweet_drafts": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
-        "Getting the Steam Deck LCD working on a Raspberry Pi"
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function"
       ],
       "sources": [
         {
@@ -126,30 +193,30 @@
           "link": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629"
-        },
-        {
           "feed_title": "jeffgeerling.com",
           "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
           "link": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/"
+        },
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629"
         }
       ],
-      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。",
-      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.",
+      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。",
+      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi. Actionable takeaways included. What would y"
+          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function. Actionable takeaways included. What would y"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -817,7 +884,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "The Economist: ‘How to Spot AI Writing’",
-          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw"
+          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm"
         }
       ],
       "summary_zh": "2026-08-11 技术日报：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。",
@@ -828,8 +895,8 @@
           "en": "AK-RSS Daily (2026-08-11): Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ Regarding Ad Blockers and Daring Fireball；Podcast Notes: Ed Catmull on David Senra；Premium: The Hater’s Guide To Oracle (Part 2)。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ Regarding Ad Blockers and Daring Fireball; Podcast Notes: Ed Catmull on David Senra; Premium: The Hater’s Guide To Oracle (Part 2).\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-23",
-      "total": 17,
-      "feeds": [
-        "daringfireball.net (4)",
-        "simonwillison.net (2)",
-        "berthub.eu (1)",
-        "construction-physics.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · The first known runaway AI agent - or a very bad marketing stunt?",
-        "jeffgeerling.com · Adding a backup Internet WAN on my OPNsense Router",
-        "daringfireball.net · Bond Movie Filming Locations Map",
-        "daringfireball.net · Bond Movie Filming Locations Map",
-        "daringfireball.net · John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2",
-        "minimaxir.com · LLMs break down in funny ways when told the Jacobian Conjecture counterargument"
-      ],
-      "key_points": [
-        "The first known runaway AI agent - or a very bad marketing stunt?",
-        "Adding a backup Internet WAN on my OPNsense Router",
-        "Bond Movie Filming Locations Map",
-        "John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2"
-      ],
-      "key_points_zh": [
-        "The first known runaway AI agent - or a very bad marketing stunt?",
-        "Adding a backup Internet WAN on my OPNsense Router",
-        "Bond Movie Filming Locations Map",
-        "John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2"
-      ],
-      "key_points_en": [
-        "The first known runaway AI agent - or a very bad marketing stunt?",
-        "Adding a backup Internet WAN on my OPNsense Router",
-        "Bond Movie Filming Locations Map",
-        "John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2"
-      ],
-      "tweet_drafts": [
-        "The first known runaway AI agent - or a very bad marketing stunt?",
-        "Adding a backup Internet WAN on my OPNsense Router",
-        "Bond Movie Filming Locations Map"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The first known runaway AI agent - or a very bad marketing stunt?",
-          "link": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"
-        },
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "Adding a backup Internet WAN on my OPNsense Router",
-          "link": "https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Bond Movie Filming Locations Map",
-          "link": "https://department-m.agency/"
-        }
-      ],
-      "summary_zh": "2026-07-23 技术日报：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。",
-      "summary_en": "Daily brief (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-23 日报】The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-23): The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map. Actionable takeaways included. What would you ship next? #AI #Engineering #Build"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-23）\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-23)\n- The first known runaway AI agent - or a very bad marketing stunt?\n- Adding a backup Internet WAN on my OPNsense Router\n- Bond Movie Filming Locations Map\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything\n- https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/\n- https://department-m.agency/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：The first known runaway AI agent - or a very bad marketing stunt?；Adding a backup Internet WAN on my OPNsense Router；Bond Movie Filming Locations Map。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The first known runaway AI agent - or a very bad marketing stunt?; Adding a backup Internet WAN on my OPNsense Router; Bond Movie Filming Locations Map.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
