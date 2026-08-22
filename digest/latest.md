@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-22 15:41:36 UTC
+Generated at: 2026-08-22 16:08:21 UTC
 
-- [Coming soon](https://www.johndcook.com/blog/2026/08/22/coming-soon/) (`johndcook.com`)
+- [More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/) (`simonwillison.net`)
