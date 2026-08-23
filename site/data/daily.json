@@ -1,16 +1,61 @@
 {
-  "generated_at": "2026-08-22T22:43:52Z",
+  "generated_at": "2026-08-23T06:18:41Z",
   "days": [
     {
+      "date": "2026-08-23",
+      "total": 1,
+      "feeds": [
+        "johndcook.com (1)"
+      ],
+      "highlights": [
+        "johndcook.com · The difference orbit inclination makes"
+      ],
+      "key_points": [
+        "The difference orbit inclination makes"
+      ],
+      "key_points_zh": [
+        "The difference orbit inclination makes"
+      ],
+      "key_points_en": [
+        "The difference orbit inclination makes"
+      ],
+      "tweet_drafts": [
+        "The difference orbit inclination makes"
+      ],
+      "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "The difference orbit inclination makes",
+          "link": "https://www.johndcook.com/blog/2026/08/22/inclination/"
+        }
+      ],
+      "summary_zh": "2026-08-23 技术日报：The difference orbit inclination makes。",
+      "summary_en": "Daily brief (2026-08-23): The difference orbit inclination makes.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-23 日报】The difference orbit inclination makes。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-23): The difference orbit inclination makes. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-23）\n- The difference orbit inclination makes\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/08/22/inclination/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-23)\n- The difference orbit inclination makes\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/08/22/inclination/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：The difference orbit inclination makes。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The difference orbit inclination makes.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-22",
-      "total": 13,
+      "total": 16,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (3)",
+        "borretti.me (1)",
+        "computer.rip (1)",
         "construction-physics.com (1)",
-        "eli.thegreenplace.net (1)",
-        "johndcook.com (1)",
-        "lucumr.pocoo.org (1)"
+        "eli.thegreenplace.net (1)"
       ],
       "highlights": [
         "simonwillison.net · Quoting Linus Torvalds",
@@ -166,34 +211,34 @@
       ],
       "highlights": [
         "blog.jim-nielsen.com · A Sloppy Interface Is a Security Liability ￼",
-        "jeffgeerling.com · Getting the Steam Deck LCD working on a Raspberry Pi",
         "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+        "jeffgeerling.com · Getting the Steam Deck LCD working on a Raspberry Pi",
         "johndcook.com · AI-generated ASCII diagrams",
         "dfarq.homeip.net · Adobe Systems IPO August 20, 1986",
         "nesbitt.io · Issues in the Repo"
       ],
       "key_points": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Getting the Steam Deck LCD working on a Raspberry Pi",
         "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
         "AI-generated ASCII diagrams"
       ],
       "key_points_zh": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Getting the Steam Deck LCD working on a Raspberry Pi",
         "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
         "AI-generated ASCII diagrams"
       ],
       "key_points_en": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Getting the Steam Deck LCD working on a Raspberry Pi",
         "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
         "AI-generated ASCII diagrams"
       ],
       "tweet_drafts": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Getting the Steam Deck LCD working on a Raspberry Pi",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function"
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+        "Getting the Steam Deck LCD working on a Raspberry Pi"
       ],
       "sources": [
         {
@@ -202,30 +247,30 @@
           "link": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
-          "link": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/"
-        },
-        {
           "feed_title": "devblogs.microsoft.com/oldnewthing",
           "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
           "link": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
+          "link": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/"
         }
       ],
-      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。",
-      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.",
+      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。",
+      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function. Actionable takeaways included. What would y"
+          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi. Actionable takeaways included. What would y"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1538,7 +1583,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "seangoedecke.com · Giving and taking credit in big tech companies"
+        "computer.rip · telephones caught in between"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Ruff v0.16.0；‘AI Mania Is Eviscerating Global Decision-Making’；EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Ruff v0.16.0; ‘AI Mania Is Eviscerating Global Decision-Making’; EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-24",
-      "total": 14,
-      "feeds": [
-        "daringfireball.net (2)",
-        "abortretry.fail (1)",
-        "blog.jim-nielsen.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "ericmigi.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ★ Regarding Ad Blockers and Daring Fireball",
-        "blog.jim-nielsen.com · Podcast Notes: Ed Catmull on David Senra",
-        "wheresyoured.at · Premium: The Hater’s Guide To Oracle (Part 2)",
-        "daringfireball.net · The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’",
-        "abortretry.fail · Matrox",
-        "devblogs.microsoft.com/oldnewthing · Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5"
-      ],
-      "key_points": [
-        "★ Regarding Ad Blockers and Daring Fireball",
-        "Podcast Notes: Ed Catmull on David Senra",
-        "Premium: The Hater’s Guide To Oracle (Part 2)",
-        "The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’"
-      ],
-      "key_points_zh": [
-        "★ Regarding Ad Blockers and Daring Fireball",
-        "Podcast Notes: Ed Catmull on David Senra",
-        "Premium: The Hater’s Guide To Oracle (Part 2)",
-        "The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’"
-      ],
-      "key_points_en": [
-        "★ Regarding Ad Blockers and Daring Fireball",
-        "Podcast Notes: Ed Catmull on David Senra",
-        "Premium: The Hater’s Guide To Oracle (Part 2)",
-        "The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’"
-      ],
-      "tweet_drafts": [
-        "★ Regarding Ad Blockers and Daring Fireball",
-        "Podcast Notes: Ed Catmull on David Senra",
-        "Premium: The Hater’s Guide To Oracle (Part 2)"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ Regarding Ad Blockers and Daring Fireball",
-          "link": "https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Podcast Notes: Ed Catmull on David Senra",
-          "link": "https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Premium: The Hater’s Guide To Oracle (Part 2)",
-          "link": "https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/"
-        }
-      ],
-      "summary_zh": "2026-07-24 技术日报：★ Regarding Ad Blockers and Daring Fireball；Podcast Notes: Ed Catmull on David Senra；Premium: The Hater’s Guide To Oracle (Part 2)。",
-      "summary_en": "Daily brief (2026-07-24): ★ Regarding Ad Blockers and Daring Fireball; Podcast Notes: Ed Catmull on David Senra; Premium: The Hater’s Guide To Oracle (Part 2).",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-24 日报】★ Regarding Ad Blockers and Daring Fireball；Podcast Notes: Ed Catmull on David Senra；Premium: The Hater’s Guide To Oracle (Part 2)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-24): ★ Regarding Ad Blockers and Daring Fireball; Podcast Notes: Ed Catmull on David Senra; Premium: The Hater’s Guide To Oracle (Part 2). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-24）\n- ★ Regarding Ad Blockers and Daring Fireball\n- Podcast Notes: Ed Catmull on David Senra\n- Premium: The Hater’s Guide To Oracle (Part 2)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball\n- https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-24)\n- ★ Regarding Ad Blockers and Daring Fireball\n- Podcast Notes: Ed Catmull on David Senra\n- Premium: The Hater’s Guide To Oracle (Part 2)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball\n- https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/\n- https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：★ Regarding Ad Blockers and Daring Fireball；Podcast Notes: Ed Catmull on David Senra；Premium: The Hater’s Guide To Oracle (Part 2)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ Regarding Ad Blockers and Daring Fireball; Podcast Notes: Ed Catmull on David Senra; Premium: The Hater’s Guide To Oracle (Part 2).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
