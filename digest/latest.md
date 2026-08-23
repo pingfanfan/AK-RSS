@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-23 17:40:49 UTC
+Generated at: 2026-08-23 18:10:03 UTC
 
-- [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/) (`daringfireball.net`)
+- [Why special function terminology is arcane](https://www.johndcook.com/blog/2026/08/23/arcane-terminology/) (`johndcook.com`)
