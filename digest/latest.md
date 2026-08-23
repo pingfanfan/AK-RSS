@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-23 19:41:14 UTC
+Generated at: 2026-08-23 20:07:57 UTC
 
-- [Fixing an eMachines EL1200 BIOS bug with Claude](https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/) (`downtowndougbrown.com`)
+- [Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/) (`simonwillison.net`)
