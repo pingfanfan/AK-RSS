@@ -1,42 +1,87 @@
 {
-  "generated_at": "2026-08-23T22:43:47Z",
+  "generated_at": "2026-08-24T06:30:30Z",
   "days": [
     {
+      "date": "2026-08-24",
+      "total": 1,
+      "feeds": [
+        "troyhunt.com (1)"
+      ],
+      "highlights": [
+        "troyhunt.com · Weekly Update 518: IoT Doorlock Nirvana with UniFi"
+      ],
+      "key_points": [
+        "Weekly Update 518: IoT Doorlock Nirvana with UniFi"
+      ],
+      "key_points_zh": [
+        "Weekly Update 518: IoT Doorlock Nirvana with UniFi"
+      ],
+      "key_points_en": [
+        "Weekly Update 518: IoT Doorlock Nirvana with UniFi"
+      ],
+      "tweet_drafts": [
+        "Weekly Update 518: IoT Doorlock Nirvana with UniFi"
+      ],
+      "sources": [
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",
+          "link": "https://www.troyhunt.com/weekly-update-518/"
+        }
+      ],
+      "summary_zh": "2026-08-24 技术日报：Weekly Update 518: IoT Doorlock Nirvana with UniFi。",
+      "summary_en": "Daily brief (2026-08-24): Weekly Update 518: IoT Doorlock Nirvana with UniFi.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-24 日报】Weekly Update 518: IoT Doorlock Nirvana with UniFi。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-24): Weekly Update 518: IoT Doorlock Nirvana with UniFi. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-24）\n- Weekly Update 518: IoT Doorlock Nirvana with UniFi\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/weekly-update-518/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-24)\n- Weekly Update 518: IoT Doorlock Nirvana with UniFi\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/weekly-update-518/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Weekly Update 518: IoT Doorlock Nirvana with UniFi。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Weekly Update 518: IoT Doorlock Nirvana with UniFi.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-23",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "johndcook.com (3)",
         "simonwillison.net (2)",
+        "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
         "downtowndougbrown.com (1)",
-        "martinalderson.com (1)",
-        "shkspr.mobi (1)"
+        "martinalderson.com (1)"
       ],
       "highlights": [
         "simonwillison.net · Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "simonwillison.net · Quoting Drew Breunig",
         "downtowndougbrown.com · Fixing an eMachines EL1200 BIOS bug with Claude",
+        "blog.jim-nielsen.com · Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection",
         "johndcook.com · What exactly is modified about a modified Bessel function?",
-        "johndcook.com · Why special function terminology is arcane",
-        "daringfireball.net · Cooper Sharp Proves That American Cheese Can Be Great Cheese"
+        "johndcook.com · Why special function terminology is arcane"
       ],
       "key_points": [
         "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "Quoting Drew Breunig",
         "Fixing an eMachines EL1200 BIOS bug with Claude",
-        "What exactly is modified about a modified Bessel function?"
+        "Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection"
       ],
       "key_points_zh": [
         "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "Quoting Drew Breunig",
         "Fixing an eMachines EL1200 BIOS bug with Claude",
-        "What exactly is modified about a modified Bessel function?"
+        "Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection"
       ],
       "key_points_en": [
         "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "Quoting Drew Breunig",
         "Fixing an eMachines EL1200 BIOS bug with Claude",
-        "What exactly is modified about a modified Bessel function?"
+        "Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection"
       ],
       "tweet_drafts": [
         "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -969,7 +1014,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "The Economist: ‘How to Spot AI Writing’",
-          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm"
+          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw"
         }
       ],
       "summary_zh": "2026-08-11 技术日报：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。",
@@ -980,8 +1025,8 @@
           "en": "AK-RSS Daily (2026-08-11): Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -1614,7 +1659,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "computer.rip · telephones caught in between"
+        "seangoedecke.com · Giving and taking credit in big tech companies"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Digital circuit simulator in Haskell (SICP 3.3)；Permutation roots；An Inside Look at the Relay Market Powering Token Resellers and Fraud。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Digital circuit simulator in Haskell (SICP 3.3); Permutation roots; An Inside Look at the Relay Market Powering Token Resellers and Fraud.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "total": 11,
-      "feeds": [
-        "daringfireball.net (3)",
-        "simonwillison.net (2)",
-        "antirez.com (1)",
-        "construction-physics.com (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Ruff v0.16.0",
-        "daringfireball.net · ‘AI Mania Is Eviscerating Global Decision-Making’",
-        "daringfireball.net · EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful",
-        "daringfireball.net · Apple Maps to Power Navigation Experience for Ford’s New EVs",
-        "construction-physics.com · Reading List 07/25/26",
-        "johndcook.com · Excel column numbering"
-      ],
-      "key_points": [
-        "Ruff v0.16.0",
-        "‘AI Mania Is Eviscerating Global Decision-Making’",
-        "EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful",
-        "Apple Maps to Power Navigation Experience for Ford’s New EVs"
-      ],
-      "key_points_zh": [
-        "Ruff v0.16.0",
-        "‘AI Mania Is Eviscerating Global Decision-Making’",
-        "EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful",
-        "Apple Maps to Power Navigation Experience for Ford’s New EVs"
-      ],
-      "key_points_en": [
-        "Ruff v0.16.0",
-        "‘AI Mania Is Eviscerating Global Decision-Making’",
-        "EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful",
-        "Apple Maps to Power Navigation Experience for Ford’s New EVs"
-      ],
-      "tweet_drafts": [
-        "Ruff v0.16.0",
-        "‘AI Mania Is Eviscerating Global Decision-Making’",
-        "EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Ruff v0.16.0",
-          "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful",
-          "link": "https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en"
-        }
-      ],
-      "summary_zh": "2026-07-25 技术日报：Ruff v0.16.0；‘AI Mania Is Eviscerating Global Decision-Making’；EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful。",
-      "summary_en": "Daily brief (2026-07-25): Ruff v0.16.0; ‘AI Mania Is Eviscerating Global Decision-Making’; EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-25 日报】Ruff v0.16.0；‘AI Mania Is Eviscerating Global Decision-Making’；EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-25): Ruff v0.16.0; ‘AI Mania Is Eviscerating Global Decision-Making’; EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful. Actionable takeaways included. What would you ship next? #AI #En"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-25）\n- Ruff v0.16.0\n- ‘AI Mania Is Eviscerating Global Decision-Making’\n- EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/25/ruff/#atom-everything\n- https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/\n- https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-25)\n- Ruff v0.16.0\n- ‘AI Mania Is Eviscerating Global Decision-Making’\n- EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/25/ruff/#atom-everything\n- https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/\n- https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Ruff v0.16.0；‘AI Mania Is Eviscerating Global Decision-Making’；EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Ruff v0.16.0; ‘AI Mania Is Eviscerating Global Decision-Making’; EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
