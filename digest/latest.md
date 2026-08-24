@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-24 15:05:57 UTC
+Generated at: 2026-08-24 16:00:23 UTC
 
-- [Three-term recurrences](https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/) (`johndcook.com`)
+- [More on TestFlight’s Screwy Sort Order](https://daringfireball.net/2026/08/apple_testflight_list_sort_order) (`daringfireball.net`)
