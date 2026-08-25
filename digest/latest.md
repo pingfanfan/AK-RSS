@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-25 12:20:20 UTC
+Generated at: 2026-08-25 13:24:20 UTC
 
-- [Extending life perception](https://herman.bearblog.dev/extending-life-perception/) (`herman.bearblog.dev`)
+- [Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) (`daringfireball.net`)
