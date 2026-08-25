@@ -1,45 +1,52 @@
 {
-  "generated_at": "2026-08-25T09:57:00Z",
+  "generated_at": "2026-08-25T10:22:14Z",
   "days": [
     {
       "date": "2026-08-25",
-      "total": 4,
+      "total": 5,
       "feeds": [
         "daringfireball.net (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
+        "nesbitt.io (1)",
         "tedium.co (1)"
       ],
       "highlights": [
+        "nesbitt.io · Hardening the Override Flag",
         "idiallo.com · Foot Guns for Sale",
         "tedium.co · The Negative Option",
         "johndcook.com · Numerical (in)stability of recurrence relations",
         "daringfireball.net · [Sponsor] Finalist 4: Inspired by Paper Day Planners"
       ],
       "key_points": [
-        "Foot Guns for Sale",
-        "The Negative Option",
-        "Numerical (in)stability of recurrence relations",
-        "[Sponsor] Finalist 4: Inspired by Paper Day Planners"
-      ],
-      "key_points_zh": [
-        "Foot Guns for Sale",
-        "The Negative Option",
-        "Numerical (in)stability of recurrence relations",
-        "[Sponsor] Finalist 4: Inspired by Paper Day Planners"
-      ],
-      "key_points_en": [
-        "Foot Guns for Sale",
-        "The Negative Option",
-        "Numerical (in)stability of recurrence relations",
-        "[Sponsor] Finalist 4: Inspired by Paper Day Planners"
-      ],
-      "tweet_drafts": [
+        "Hardening the Override Flag",
         "Foot Guns for Sale",
         "The Negative Option",
         "Numerical (in)stability of recurrence relations"
       ],
+      "key_points_zh": [
+        "Hardening the Override Flag",
+        "Foot Guns for Sale",
+        "The Negative Option",
+        "Numerical (in)stability of recurrence relations"
+      ],
+      "key_points_en": [
+        "Hardening the Override Flag",
+        "Foot Guns for Sale",
+        "The Negative Option",
+        "Numerical (in)stability of recurrence relations"
+      ],
+      "tweet_drafts": [
+        "Hardening the Override Flag",
+        "Foot Guns for Sale",
+        "The Negative Option"
+      ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Hardening the Override Flag",
+          "link": "https://nesbitt.io/2026/08/25/hardening-the-override-flag.html"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "Foot Guns for Sale",
@@ -49,27 +56,22 @@
           "feed_title": "tedium.co",
           "title": "The Negative Option",
           "link": "https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Numerical (in)stability of recurrence relations",
-          "link": "https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/"
         }
       ],
-      "summary_zh": "2026-08-25 技术日报：Foot Guns for Sale；The Negative Option；Numerical (in)stability of recurrence relations。",
-      "summary_en": "Daily brief (2026-08-25): Foot Guns for Sale; The Negative Option; Numerical (in)stability of recurrence relations.",
+      "summary_zh": "2026-08-25 技术日报：Hardening the Override Flag；Foot Guns for Sale；The Negative Option。",
+      "summary_en": "Daily brief (2026-08-25): Hardening the Override Flag; Foot Guns for Sale; The Negative Option.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-25 日报】Foot Guns for Sale；The Negative Option；Numerical (in)stability of recurrence relations。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-25): Foot Guns for Sale; The Negative Option; Numerical (in)stability of recurrence relations. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-08-25 日报】Hardening the Override Flag；Foot Guns for Sale；The Negative Option。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-25): Hardening the Override Flag; Foot Guns for Sale; The Negative Option. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-25）\n- Foot Guns for Sale\n- The Negative Option\n- Numerical (in)stability of recurrence relations\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/foot-gun-for-sale\n- https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective\n- https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-25)\n- Foot Guns for Sale\n- The Negative Option\n- Numerical (in)stability of recurrence relations\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/foot-gun-for-sale\n- https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective\n- https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-25）\n- Hardening the Override Flag\n- Foot Guns for Sale\n- The Negative Option\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/08/25/hardening-the-override-flag.html\n- https://idiallo.com/blog/foot-gun-for-sale\n- https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-25)\n- Hardening the Override Flag\n- Foot Guns for Sale\n- The Negative Option\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/08/25/hardening-the-override-flag.html\n- https://idiallo.com/blog/foot-gun-for-sale\n- https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Foot Guns for Sale；The Negative Option；Numerical (in)stability of recurrence relations。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Foot Guns for Sale; The Negative Option; Numerical (in)stability of recurrence relations.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Hardening the Override Flag；Foot Guns for Sale；The Negative Option。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Hardening the Override Flag; Foot Guns for Sale; The Negative Option.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1762,7 +1764,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "dynomight.net · Indirect lessons from human alignment"
+        "seangoedecke.com · Giving and taking credit in big tech companies"
       ],
       "key_points": [
         "condense-json 1.0",
