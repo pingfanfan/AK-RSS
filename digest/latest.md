@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-25 11:49:39 UTC
+Generated at: 2026-08-25 12:20:20 UTC
 
-- [Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆](https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/) (`shkspr.mobi`)
+- [Extending life perception](https://herman.bearblog.dev/extending-life-perception/) (`herman.bearblog.dev`)
