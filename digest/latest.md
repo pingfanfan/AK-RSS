@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-26 16:01:19 UTC
+Generated at: 2026-08-26 16:40:54 UTC
 
-- [If your VS Code remotes stopped working, downgrade to v1.124.x](https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/) (`xeiaso.net`)
+- [Why didn’t the Windows Entertainment Pack just run the MS-DOS version inside an emulator?](https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645) (`devblogs.microsoft.com/oldnewthing`)
