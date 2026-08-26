@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-26 09:07:06 UTC
+Generated at: 2026-08-26 10:02:46 UTC
 
-- [Quoting Paul Dix](https://simonwillison.net/2026/Aug/26/paul-dix/) (`simonwillison.net`)
