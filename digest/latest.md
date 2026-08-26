@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-26 11:19:30 UTC
+Generated at: 2026-08-26 11:51:57 UTC
 
-- [Digg v4 and lessons not learned](https://dfarq.homeip.net/digg-v4-and-lessons-not-learned/?utm_source=rss&utm_medium=rss&utm_campaign=digg-v4-and-lessons-not-learned) (`dfarq.homeip.net`)
+- [Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/) (`shkspr.mobi`)
