@@ -1,24 +1,100 @@
 {
-  "generated_at": "2026-08-28T01:11:45Z",
+  "generated_at": "2026-08-28T17:46:10Z",
   "days": [
     {
+      "date": "2026-08-28",
+      "total": 10,
+      "feeds": [
+        "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
+        "eli.thegreenplace.net (1)",
+        "jeffgeerling.com (1)",
+        "johndcook.com (1)",
+        "matduggan.com (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · ‘Not Sure How You Own Canada by Deleting Your Own History’",
+        "wheresyoured.at · Premium: The Hater's Guide To Circular Financing (Part One)",
+        "jeffgeerling.com · Building a mini Homelab that fits in my carry-on",
+        "johndcook.com · Making the unnecessary easier",
+        "matduggan.com · You Know GDPR Is Good Based on Who Hates It",
+        "shkspr.mobi · \"iT woRKs BeTter in THe aPp!!\""
+      ],
+      "key_points": [
+        "‘Not Sure How You Own Canada by Deleting Your Own History’",
+        "Premium: The Hater's Guide To Circular Financing (Part One)",
+        "Building a mini Homelab that fits in my carry-on",
+        "Making the unnecessary easier"
+      ],
+      "key_points_zh": [
+        "‘Not Sure How You Own Canada by Deleting Your Own History’",
+        "Premium: The Hater's Guide To Circular Financing (Part One)",
+        "Building a mini Homelab that fits in my carry-on",
+        "Making the unnecessary easier"
+      ],
+      "key_points_en": [
+        "‘Not Sure How You Own Canada by Deleting Your Own History’",
+        "Premium: The Hater's Guide To Circular Financing (Part One)",
+        "Building a mini Homelab that fits in my carry-on",
+        "Making the unnecessary easier"
+      ],
+      "tweet_drafts": [
+        "‘Not Sure How You Own Canada by Deleting Your Own History’",
+        "Premium: The Hater's Guide To Circular Financing (Part One)",
+        "Building a mini Homelab that fits in my carry-on"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "‘Not Sure How You Own Canada by Deleting Your Own History’",
+          "link": "https://x.com/MattWalshBlog/status/2093060290371870948"
+        },
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "Premium: The Hater's Guide To Circular Financing (Part One)",
+          "link": "https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Building a mini Homelab that fits in my carry-on",
+          "link": "https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/"
+        }
+      ],
+      "summary_zh": "2026-08-28 技术日报：‘Not Sure How You Own Canada by Deleting Your Own History’；Premium: The Hater's Guide To Circular Financing (Part One)；Building a mini Homelab that fits in my carry-on。",
+      "summary_en": "Daily brief (2026-08-28): ‘Not Sure How You Own Canada by Deleting Your Own History’; Premium: The Hater's Guide To Circular Financing (Part One); Building a mini Homelab that fits in my carry-on.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-08-28 日报】‘Not Sure How You Own Canada by Deleting Your Own History’；Premium: The Hater's Guide To Circular Financing (Part One)；Building a mini Homelab that fits in my carry-on。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-28): ‘Not Sure How You Own Canada by Deleting Your Own History’; Premium: The Hater's Guide To Circular Financing (Part One); Building a mini Homelab that fits in my carry-on. Actionable takeaways included. What would you ship next? #AI #"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-08-28）\n- ‘Not Sure How You Own Canada by Deleting Your Own History’\n- Premium: The Hater's Guide To Circular Financing (Part One)\n- Building a mini Homelab that fits in my carry-on\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://x.com/MattWalshBlog/status/2093060290371870948\n- https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/\n- https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-28)\n- ‘Not Sure How You Own Canada by Deleting Your Own History’\n- Premium: The Hater's Guide To Circular Financing (Part One)\n- Building a mini Homelab that fits in my carry-on\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://x.com/MattWalshBlog/status/2093060290371870948\n- https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/\n- https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：‘Not Sure How You Own Canada by Deleting Your Own History’；Premium: The Hater's Guide To Circular Financing (Part One)；Building a mini Homelab that fits in my carry-on。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ‘Not Sure How You Own Canada by Deleting Your Own History’; Premium: The Hater's Guide To Circular Financing (Part One); Building a mini Homelab that fits in my carry-on.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-08-27",
-      "total": 14,
+      "total": 15,
       "feeds": [
         "simonwillison.net (2)",
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)",
         "construction-physics.com (1)",
         "daringfireball.net (1)",
-        "dfarq.homeip.net (1)"
+        "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
         "simonwillison.net · Breaking Claude Code Opus 5 Auto Mode",
         "daringfireball.net · Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
         "micahflee.com · Sandboxing coding agents",
         "blog.jim-nielsen.com · A Calendar View For My Blog",
-        "johndcook.com · Second solutions",
-        "construction-physics.com · How the Strategic Petroleum Reserve Works"
+        "devblogs.microsoft.com/oldnewthing · On forcing all derived classes to implement a specific non-virtual method, part 1",
+        "johndcook.com · Second solutions"
       ],
       "key_points": [
         "Breaking Claude Code Opus 5 Auto Mode",
@@ -1918,7 +1994,7 @@
         "johndcook.com · Estimating a cumulative sum",
         "simonwillison.net · Open letters about AI development",
         "oldvcr.blogspot.com · MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "borretti.me · Mathematics Without Mathematicians"
+        "dynomight.net · Indirect lessons from human alignment"
       ],
       "key_points": [
         "condense-json 1.0",
@@ -2202,82 +2278,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Mark Zuckerberg: ‘The AI Future Is for Everyone’；Rogue Amoeba: Unobtrusive Update Notifications；Quoting Bruce Schneier。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Mark Zuckerberg: ‘The AI Future Is for Everyone’; Rogue Amoeba: Unobtrusive Update Notifications; Quoting Bruce Schneier.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (4)",
-        "simonwillison.net (2)",
-        "berthub.eu (1)",
-        "blog.jim-nielsen.com (1)",
-        "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Quoting D. Richard Hipp",
-        "daringfireball.net · Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program",
-        "blog.jim-nielsen.com · The AI Aesthetic",
-        "simonwillison.net · AI Worming through Word",
-        "daringfireball.net · Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest",
-        "daringfireball.net · Pastebot 3"
-      ],
-      "key_points": [
-        "Quoting D. Richard Hipp",
-        "Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program",
-        "The AI Aesthetic",
-        "AI Worming through Word"
-      ],
-      "key_points_zh": [
-        "Quoting D. Richard Hipp",
-        "Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program",
-        "The AI Aesthetic",
-        "AI Worming through Word"
-      ],
-      "key_points_en": [
-        "Quoting D. Richard Hipp",
-        "Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program",
-        "The AI Aesthetic",
-        "AI Worming through Word"
-      ],
-      "tweet_drafts": [
-        "Quoting D. Richard Hipp",
-        "Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program",
-        "The AI Aesthetic"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting D. Richard Hipp",
-          "link": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program",
-          "link": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "The AI Aesthetic",
-          "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-        }
-      ],
-      "summary_zh": "2026-07-29 技术日报：Quoting D. Richard Hipp；Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program；The AI Aesthetic。",
-      "summary_en": "Daily brief (2026-07-29): Quoting D. Richard Hipp; Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program; The AI Aesthetic.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-07-29 日报】Quoting D. Richard Hipp；Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program；The AI Aesthetic。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-07-29): Quoting D. Richard Hipp; Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program; The AI Aesthetic. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-07-29）\n- Quoting D. Richard Hipp\n- Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program\n- The AI Aesthetic\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything\n- https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/\n- https://blog.jim-nielsen.com/2026/ai-aesthetic/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-07-29)\n- Quoting D. Richard Hipp\n- Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program\n- The AI Aesthetic\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything\n- https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/\n- https://blog.jim-nielsen.com/2026/ai-aesthetic/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting D. Richard Hipp；Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program；The AI Aesthetic。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting D. Richard Hipp; Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program; The AI Aesthetic.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
