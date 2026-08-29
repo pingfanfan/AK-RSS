@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-29 01:12:54 UTC
+Generated at: 2026-08-29 11:50:13 UTC
 
-- [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) (`simonwillison.net`)
-- [Apple Announces Price Increase for Apple TV and Apple One Subscriptions](https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/) (`daringfireball.net`)
-- [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
+- [On forcing all derived classes to implement a specific non-virtual method, part 2](https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654) (`devblogs.microsoft.com/oldnewthing`)
+- [A simple "copy this code" button in JavaScript](https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/) (`shkspr.mobi`)
+- [This Week in Package Management: 29 August 2026](https://nesbitt.io/2026/08/29/this-week-in-package-management.html) (`nesbitt.io`)
+- [Dell Optiplex 3040 and 3050 micro](https://dfarq.homeip.net/dell-optiplex-3040-and-3050-micro/?utm_source=rss&utm_medium=rss&utm_campaign=dell-optiplex-3040-and-3050-micro) (`dfarq.homeip.net`)
