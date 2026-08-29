@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-29 21:23:39 UTC
+Generated at: 2026-08-29 23:26:37 UTC
 
-- [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/) (`micahflee.com`)
+- [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface) (`dwarkesh.com`)
