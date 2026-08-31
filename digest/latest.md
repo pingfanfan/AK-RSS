@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-08-31 18:23:52 UTC
+Generated at: 2026-08-31 22:56:39 UTC
 
-- [Cancelation Terminology](https://matklad.github.io/2026/08/31/cancelation-terminology.html) (`matklad.github.io`)
-- [Reducing codebase cognitive debt through... quizzes?](https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
+- [Notes from August 2026](https://evanhahn.com/notes-from-august-2026/) (`evanhahn.com`)
+- [The rise and fall of agent civilizations](https://www.dwarkesh.com/p/openai-huggingface-narration) (`dwarkesh.com`)
