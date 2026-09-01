@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-09-01T15:15:40Z",
+  "generated_at": "2026-09-01T18:39:45Z",
   "days": [
     {
       "date": "2026-09-01",
-      "total": 7,
+      "total": 11,
       "feeds": [
-        "simonwillison.net (2)",
-        "daringfireball.net (1)",
+        "simonwillison.net (3)",
+        "daringfireball.net (2)",
         "dfarq.homeip.net (1)",
+        "dwarkesh.com (1)",
         "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "shkspr.mobi (1)"
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "daringfireball.net · Tim Cook’s Departure Memo on His Last Day as CEO",
+        "wheresyoured.at · Hyperscale Normalization",
+        "simonwillison.net · Quoting Tarn Adams",
+        "dwarkesh.com · Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
         "simonwillison.net · Python 3.15.0 candidate 2 is here!",
-        "shkspr.mobi · Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
-        "dfarq.homeip.net · Commodore 64 released September 1, 1982",
-        "nesbitt.io · Git Submodules as a Package Manager",
-        "daringfireball.net · [Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token",
-        "simonwillison.net · Introducing wrapture"
+        "shkspr.mobi · Book Review: ActivityPub by Evan Prodromou ★★★★⯪"
       ],
       "key_points": [
-        "Python 3.15.0 candidate 2 is here!",
-        "Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
-        "Commodore 64 released September 1, 1982",
-        "Git Submodules as a Package Manager"
+        "Tim Cook’s Departure Memo on His Last Day as CEO",
+        "Hyperscale Normalization",
+        "Quoting Tarn Adams",
+        "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face"
       ],
       "key_points_zh": [
-        "Python 3.15.0 candidate 2 is here!",
-        "Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
-        "Commodore 64 released September 1, 1982",
-        "Git Submodules as a Package Manager"
+        "Tim Cook’s Departure Memo on His Last Day as CEO",
+        "Hyperscale Normalization",
+        "Quoting Tarn Adams",
+        "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face"
       ],
       "key_points_en": [
-        "Python 3.15.0 candidate 2 is here!",
-        "Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
-        "Commodore 64 released September 1, 1982",
-        "Git Submodules as a Package Manager"
+        "Tim Cook’s Departure Memo on His Last Day as CEO",
+        "Hyperscale Normalization",
+        "Quoting Tarn Adams",
+        "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face"
       ],
       "tweet_drafts": [
-        "Python 3.15.0 candidate 2 is here!",
-        "Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
-        "Commodore 64 released September 1, 1982"
+        "Tim Cook’s Departure Memo on His Last Day as CEO",
+        "Hyperscale Normalization",
+        "Quoting Tarn Adams"
       ],
       "sources": [
         {
+          "feed_title": "daringfireball.net",
+          "title": "Tim Cook’s Departure Memo on His Last Day as CEO",
+          "link": "https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/"
+        },
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "Hyperscale Normalization",
+          "link": "https://www.wheresyoured.at/hyperscale-normalization/"
+        },
+        {
           "feed_title": "simonwillison.net",
-          "title": "Python 3.15.0 candidate 2 is here!",
-          "link": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
-          "link": "https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Commodore 64 released September 1, 1982",
-          "link": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=commodore-64-released-september-1-1982"
+          "title": "Quoting Tarn Adams",
+          "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/"
         }
       ],
-      "summary_zh": "2026-09-01 技术日报：Python 3.15.0 candidate 2 is here!；Book Review: ActivityPub by Evan Prodromou ★★★★⯪；Commodore 64 released September 1, 1982。",
-      "summary_en": "Daily brief (2026-09-01): Python 3.15.0 candidate 2 is here!; Book Review: ActivityPub by Evan Prodromou ★★★★⯪; Commodore 64 released September 1, 1982.",
+      "summary_zh": "2026-09-01 技术日报：Tim Cook’s Departure Memo on His Last Day as CEO；Hyperscale Normalization；Quoting Tarn Adams。",
+      "summary_en": "Daily brief (2026-09-01): Tim Cook’s Departure Memo on His Last Day as CEO; Hyperscale Normalization; Quoting Tarn Adams.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-01 日报】Python 3.15.0 candidate 2 is here!；Book Review: ActivityPub by Evan Prodromou ★★★★⯪；Commodore 64 released September 1, 1982。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-01): Python 3.15.0 candidate 2 is here!; Book Review: ActivityPub by Evan Prodromou ★★★★⯪; Commodore 64 released September 1, 1982. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-01 日报】Tim Cook’s Departure Memo on His Last Day as CEO；Hyperscale Normalization；Quoting Tarn Adams。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-01): Tim Cook’s Departure Memo on His Last Day as CEO; Hyperscale Normalization; Quoting Tarn Adams. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-01）\n- Python 3.15.0 candidate 2 is here!\n- Book Review: ActivityPub by Evan Prodromou ★★★★⯪\n- Commodore 64 released September 1, 1982\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/1/python-315-rc-2/\n- https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/\n- https://dfarq.homeip.net/commodore-64-released-september-1-1982/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=commodore-64-released-september-1-1982\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-01)\n- Python 3.15.0 candidate 2 is here!\n- Book Review: ActivityPub by Evan Prodromou ★★★★⯪\n- Commodore 64 released September 1, 1982\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/1/python-315-rc-2/\n- https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/\n- https://dfarq.homeip.net/commodore-64-released-september-1-1982/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=commodore-64-released-september-1-1982\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-01）\n- Tim Cook’s Departure Memo on His Last Day as CEO\n- Hyperscale Normalization\n- Quoting Tarn Adams\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/\n- https://www.wheresyoured.at/hyperscale-normalization/\n- https://simonwillison.net/2026/Sep/1/tarn-adams/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-01)\n- Tim Cook’s Departure Memo on His Last Day as CEO\n- Hyperscale Normalization\n- Quoting Tarn Adams\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/\n- https://www.wheresyoured.at/hyperscale-normalization/\n- https://simonwillison.net/2026/Sep/1/tarn-adams/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Python 3.15.0 candidate 2 is here!；Book Review: ActivityPub by Evan Prodromou ★★★★⯪；Commodore 64 released September 1, 1982。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Python 3.15.0 candidate 2 is here!; Book Review: ActivityPub by Evan Prodromou ★★★★⯪; Commodore 64 released September 1, 1982.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Tim Cook’s Departure Memo on His Last Day as CEO；Hyperscale Normalization；Quoting Tarn Adams。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tim Cook’s Departure Memo on His Last Day as CEO; Hyperscale Normalization; Quoting Tarn Adams.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
