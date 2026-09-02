@@ -1,42 +1,98 @@
 {
-  "generated_at": "2026-09-01T23:27:28Z",
+  "generated_at": "2026-09-02T10:01:27Z",
   "days": [
     {
+      "date": "2026-09-02",
+      "total": 2,
+      "feeds": [
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Rick Brewster",
+        "seangoedecke.com · How to protect yourself from workslop"
+      ],
+      "key_points": [
+        "Quoting Rick Brewster",
+        "How to protect yourself from workslop"
+      ],
+      "key_points_zh": [
+        "Quoting Rick Brewster",
+        "How to protect yourself from workslop"
+      ],
+      "key_points_en": [
+        "Quoting Rick Brewster",
+        "How to protect yourself from workslop"
+      ],
+      "tweet_drafts": [
+        "Quoting Rick Brewster",
+        "How to protect yourself from workslop"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Rick Brewster",
+          "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "How to protect yourself from workslop",
+          "link": "https://seangoedecke.com/how-to-protect-yourself-from-workslop/"
+        }
+      ],
+      "summary_zh": "2026-09-02 技术日报：Quoting Rick Brewster；How to protect yourself from workslop。",
+      "summary_en": "Daily brief (2026-09-02): Quoting Rick Brewster; How to protect yourself from workslop.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-02 日报】Quoting Rick Brewster；How to protect yourself from workslop。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-02): Quoting Rick Brewster; How to protect yourself from workslop. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-02）\n- Quoting Rick Brewster\n- How to protect yourself from workslop\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/2/rick-brewster/\n- https://seangoedecke.com/how-to-protect-yourself-from-workslop/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-02)\n- Quoting Rick Brewster\n- How to protect yourself from workslop\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/2/rick-brewster/\n- https://seangoedecke.com/how-to-protect-yourself-from-workslop/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Quoting Rick Brewster；How to protect yourself from workslop。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Rick Brewster; How to protect yourself from workslop.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-09-01",
-      "total": 15,
+      "total": 17,
       "feeds": [
         "simonwillison.net (4)",
         "daringfireball.net (2)",
+        "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "johndcook.com (1)"
+        "devblogs.microsoft.com/oldnewthing (1)",
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
         "krebsonsecurity.com · FBI Probes Service Selling 153M+ Drivers Licenses",
         "troyhunt.com · Weekly Update 519: Breaches \u0026 Data Integrity",
         "simonwillison.net · Codex bundles LibreOffice",
+        "blog.jim-nielsen.com · Nobody Believes It, Everybody Does It",
         "buttondown.com/hillelwayne · New Post: A Crash Course in Predicate Logic",
-        "daringfireball.net · Tim Cook’s Departure Memo on His Last Day as CEO",
-        "wheresyoured.at · Hyperscale Normalization"
+        "daringfireball.net · Tim Cook’s Departure Memo on His Last Day as CEO"
       ],
       "key_points": [
         "FBI Probes Service Selling 153M+ Drivers Licenses",
         "Weekly Update 519: Breaches \u0026 Data Integrity",
         "Codex bundles LibreOffice",
-        "New Post: A Crash Course in Predicate Logic"
+        "Nobody Believes It, Everybody Does It"
       ],
       "key_points_zh": [
         "FBI Probes Service Selling 153M+ Drivers Licenses",
         "Weekly Update 519: Breaches \u0026 Data Integrity",
         "Codex bundles LibreOffice",
-        "New Post: A Crash Course in Predicate Logic"
+        "Nobody Believes It, Everybody Does It"
       ],
       "key_points_en": [
         "FBI Probes Service Selling 153M+ Drivers Licenses",
         "Weekly Update 519: Breaches \u0026 Data Integrity",
         "Codex bundles LibreOffice",
-        "New Post: A Crash Course in Predicate Logic"
+        "Nobody Believes It, Everybody Does It"
       ],
       "tweet_drafts": [
         "FBI Probes Service Selling 153M+ Drivers Licenses",
@@ -2202,82 +2258,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ OpenAI Responds to Apple’s Lawsuit and Motion for Preliminary Injunction: ‘Apple Is Getting This Wrong’；Purely functional digital circuit simulator (SICP 3.3)；PipeNetwork/minimax-h3-mlx。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ OpenAI Responds to Apple’s Lawsuit and Motion for Preliminary Injunction: ‘Apple Is Getting This Wrong’; Purely functional digital circuit simulator (SICP 3.3); PipeNetwork/minimax-h3-mlx.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-03",
-      "total": 13,
-      "feeds": [
-        "daringfireball.net (3)",
-        "borretti.me (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "idiallo.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API",
-        "daringfireball.net · Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’",
-        "dwarkesh.com · Why smarter AI models could drive up compute prices 10x",
-        "daringfireball.net · ★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone",
-        "simonwillison.net · Quoting David Crawshaw's prompt",
-        "micahflee.com · Agentic coding techniques"
-      ],
-      "key_points": [
-        "[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API",
-        "Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’",
-        "Why smarter AI models could drive up compute prices 10x",
-        "★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone"
-      ],
-      "key_points_zh": [
-        "[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API",
-        "Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’",
-        "Why smarter AI models could drive up compute prices 10x",
-        "★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone"
-      ],
-      "key_points_en": [
-        "[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API",
-        "Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’",
-        "Why smarter AI models could drive up compute prices 10x",
-        "★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone"
-      ],
-      "tweet_drafts": [
-        "[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API",
-        "Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’",
-        "Why smarter AI models could drive up compute prices 10x"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API",
-          "link": "https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’",
-          "link": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "Why smarter AI models could drive up compute prices 10x",
-          "link": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video"
-        }
-      ],
-      "summary_zh": "2026-08-03 技术日报：[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API；Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’；Why smarter AI models could drive up compute prices 10x。",
-      "summary_en": "Daily brief (2026-08-03): [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API; Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’; Why smarter AI models could drive up compute prices 10x.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-03 日报】[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API；Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’；Why smarter AI models could drive up compute prices 10x。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-03): [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API; Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’; Why smarter AI models could drive up compute prices 10x. Actionable takeaways included. What would you s"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-03）\n- [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API\n- Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’\n- Why smarter AI models could drive up compute prices 10x\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/\n- https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-03)\n- [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API\n- Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’\n- Why smarter AI models could drive up compute prices 10x\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q32026\n- https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/\n- https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API；Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’；Why smarter AI models could drive up compute prices 10x。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API; Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’; Why smarter AI models could drive up compute prices 10x.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

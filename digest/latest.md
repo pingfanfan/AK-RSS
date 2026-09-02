@@ -1,6 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-01 23:27:17 UTC
+Generated at: 2026-09-02 10:01:12 UTC
 
-- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) (`krebsonsecurity.com`)
-- [Weekly Update 519: Breaches & Data Integrity](https://www.troyhunt.com/weekly-update-519/) (`troyhunt.com`)
+- [Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/) (`simonwillison.net`)
+- [How to protect yourself from workslop](https://seangoedecke.com/how-to-protect-yourself-from-workslop/) (`seangoedecke.com`)
+- [Microspeak: Funded / unfunded](https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662) (`devblogs.microsoft.com/oldnewthing`)
+- [Nobody Believes It, Everybody Does It](https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/) (`blog.jim-nielsen.com`)
