@@ -1,48 +1,54 @@
 {
-  "generated_at": "2026-09-02T21:09:38Z",
+  "generated_at": "2026-09-02T23:24:34Z",
   "days": [
     {
       "date": "2026-09-02",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "simonwillison.net (3)",
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "matklad.github.io (1)",
         "pluralistic.net (1)",
         "seangoedecke.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · iOS 27 Introduces New ‘iPhone Handoff’ Feature",
         "simonwillison.net · llm-gemini 0.34",
         "simonwillison.net · Claude's new system prompt really doesn't want to reproduce song lyrics",
         "dfarq.homeip.net · Atari Lynx: The first color handheld game console",
         "pluralistic.net · Pluralistic: Unpermissioned research (02 Sep 2026)",
-        "simonwillison.net · Quoting Rick Brewster",
-        "matklad.github.io · Static Allocation, Constant Work"
+        "simonwillison.net · Quoting Rick Brewster"
       ],
       "key_points": [
-        "llm-gemini 0.34",
-        "Claude's new system prompt really doesn't want to reproduce song lyrics",
-        "Atari Lynx: The first color handheld game console",
-        "Pluralistic: Unpermissioned research (02 Sep 2026)"
-      ],
-      "key_points_zh": [
-        "llm-gemini 0.34",
-        "Claude's new system prompt really doesn't want to reproduce song lyrics",
-        "Atari Lynx: The first color handheld game console",
-        "Pluralistic: Unpermissioned research (02 Sep 2026)"
-      ],
-      "key_points_en": [
-        "llm-gemini 0.34",
-        "Claude's new system prompt really doesn't want to reproduce song lyrics",
-        "Atari Lynx: The first color handheld game console",
-        "Pluralistic: Unpermissioned research (02 Sep 2026)"
-      ],
-      "tweet_drafts": [
+        "iOS 27 Introduces New ‘iPhone Handoff’ Feature",
         "llm-gemini 0.34",
         "Claude's new system prompt really doesn't want to reproduce song lyrics",
         "Atari Lynx: The first color handheld game console"
       ],
+      "key_points_zh": [
+        "iOS 27 Introduces New ‘iPhone Handoff’ Feature",
+        "llm-gemini 0.34",
+        "Claude's new system prompt really doesn't want to reproduce song lyrics",
+        "Atari Lynx: The first color handheld game console"
+      ],
+      "key_points_en": [
+        "iOS 27 Introduces New ‘iPhone Handoff’ Feature",
+        "llm-gemini 0.34",
+        "Claude's new system prompt really doesn't want to reproduce song lyrics",
+        "Atari Lynx: The first color handheld game console"
+      ],
+      "tweet_drafts": [
+        "iOS 27 Introduces New ‘iPhone Handoff’ Feature",
+        "llm-gemini 0.34",
+        "Claude's new system prompt really doesn't want to reproduce song lyrics"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "iOS 27 Introduces New ‘iPhone Handoff’ Feature",
+          "link": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "llm-gemini 0.34",
@@ -52,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
           "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Atari Lynx: The first color handheld game console",
-          "link": "https://dfarq.homeip.net/atari-lynx-the-first-color-handheld-game-console/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=atari-lynx-the-first-color-handheld-game-console"
         }
       ],
-      "summary_zh": "2026-09-02 技术日报：llm-gemini 0.34；Claude's new system prompt really doesn't want to reproduce song lyrics；Atari Lynx: The first color handheld game console。",
-      "summary_en": "Daily brief (2026-09-02): llm-gemini 0.34; Claude's new system prompt really doesn't want to reproduce song lyrics; Atari Lynx: The first color handheld game console.",
+      "summary_zh": "2026-09-02 技术日报：iOS 27 Introduces New ‘iPhone Handoff’ Feature；llm-gemini 0.34；Claude's new system prompt really doesn't want to reproduce song lyrics。",
+      "summary_en": "Daily brief (2026-09-02): iOS 27 Introduces New ‘iPhone Handoff’ Feature; llm-gemini 0.34; Claude's new system prompt really doesn't want to reproduce song lyrics.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-02 日报】llm-gemini 0.34；Claude's new system prompt really doesn't want to reproduce song lyrics；Atari Lynx: The first color handheld game console。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-02): llm-gemini 0.34; Claude's new system prompt really doesn't want to reproduce song lyrics; Atari Lynx: The first color handheld game console. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-02 日报】iOS 27 Introduces New ‘iPhone Handoff’ Feature；llm-gemini 0.34；Claude's new system prompt really doesn't want to reproduce song lyrics。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-02): iOS 27 Introduces New ‘iPhone Handoff’ Feature; llm-gemini 0.34; Claude's new system prompt really doesn't want to reproduce song lyrics. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-02）\n- llm-gemini 0.34\n- Claude's new system prompt really doesn't want to reproduce song lyrics\n- Atari Lynx: The first color handheld game console\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/2/llm-gemini/\n- https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/\n- https://dfarq.homeip.net/atari-lynx-the-first-color-handheld-game-console/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=atari-lynx-the-first-color-handheld-game-console\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-02)\n- llm-gemini 0.34\n- Claude's new system prompt really doesn't want to reproduce song lyrics\n- Atari Lynx: The first color handheld game console\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/2/llm-gemini/\n- https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/\n- https://dfarq.homeip.net/atari-lynx-the-first-color-handheld-game-console/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=atari-lynx-the-first-color-handheld-game-console\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-02）\n- iOS 27 Introduces New ‘iPhone Handoff’ Feature\n- llm-gemini 0.34\n- Claude's new system prompt really doesn't want to reproduce song lyrics\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/\n- https://simonwillison.net/2026/Sep/2/llm-gemini/\n- https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-02)\n- iOS 27 Introduces New ‘iPhone Handoff’ Feature\n- llm-gemini 0.34\n- Claude's new system prompt really doesn't want to reproduce song lyrics\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/\n- https://simonwillison.net/2026/Sep/2/llm-gemini/\n- https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：llm-gemini 0.34；Claude's new system prompt really doesn't want to reproduce song lyrics；Atari Lynx: The first color handheld game console。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: llm-gemini 0.34; Claude's new system prompt really doesn't want to reproduce song lyrics; Atari Lynx: The first color handheld game console.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：iOS 27 Introduces New ‘iPhone Handoff’ Feature；llm-gemini 0.34；Claude's new system prompt really doesn't want to reproduce song lyrics。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: iOS 27 Introduces New ‘iPhone Handoff’ Feature; llm-gemini 0.34; Claude's new system prompt really doesn't want to reproduce song lyrics.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
