@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-02 14:34:31 UTC
+Generated at: 2026-09-02 18:10:09 UTC
 
-- [Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) (`simonwillison.net`)
-- [Atari Lynx: The first color handheld game console](https://dfarq.homeip.net/atari-lynx-the-first-color-handheld-game-console/?utm_source=rss&utm_medium=rss&utm_campaign=atari-lynx-the-first-color-handheld-game-console) (`dfarq.homeip.net`)
-- [Pluralistic: Unpermissioned research (02 Sep 2026)](https://pluralistic.net/2026/09/02/scrape-scrope-scrap/) (`pluralistic.net`)
+- [llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) (`simonwillison.net`)
+- [Static Allocation, Constant Work](https://matklad.github.io/2026/09/02/static-allocation-constant-work.html) (`matklad.github.io`)
