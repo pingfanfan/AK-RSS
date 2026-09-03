@@ -1,7 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-03 10:12:03 UTC
+Generated at: 2026-09-03 14:38:45 UTC
 
-- [The perils of binding to value types in XAML](https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668) (`devblogs.microsoft.com/oldnewthing`)
-- [Second Quest](https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival) (`tedium.co`)
-- [Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)](https://pluralistic.net/2026/09/03/broken-arrows/) (`pluralistic.net`)
+- [A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP](https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/) (`shkspr.mobi`)
+- [Microsoft 6502 Basic released as open source Sept 3, 2025](https://dfarq.homeip.net/microsoft-6502-basic-released-as-open-source-sept-3-2025/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-6502-basic-released-as-open-source-sept-3-2025) (`dfarq.homeip.net`)
+- [De nieuwe AIVD/MIVD wet: een eerste overzicht](https://berthub.eu/articles/posts/de-wiv-202x/) (`berthub.eu`)
