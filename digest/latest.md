@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-04 21:58:09 UTC
+Generated at: 2026-09-04 23:38:21 UTC
 
-- [Apple Fixed ‎TestFlight’s Screwy Sort Order](https://apps.apple.com/us/app/testflight/id899247664) (`daringfireball.net`)
-- [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/) (`jyn.dev`)
+- [NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) (`daringfireball.net`)
