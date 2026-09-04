@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-04 19:57:09 UTC
+Generated at: 2026-09-04 21:58:09 UTC
 
-- [Vinted](https://www.vinted.com/) (`daringfireball.net`)
-- [Y2K 2.0: The AI security reckoning](https://anildash.com/2026/04/10/y2k-2.0-ai-security/) (`anildash.com`)
+- [Apple Fixed ‎TestFlight’s Screwy Sort Order](https://apps.apple.com/us/app/testflight/id899247664) (`daringfireball.net`)
+- [we have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/) (`jyn.dev`)
