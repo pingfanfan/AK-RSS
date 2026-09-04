@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-09-04T10:02:13Z",
+  "generated_at": "2026-09-04T14:25:52Z",
   "days": [
     {
       "date": "2026-09-04",
-      "total": 4,
+      "total": 8,
       "feeds": [
-        "johndcook.com (1)",
+        "johndcook.com (2)",
+        "dfarq.homeip.net (1)",
+        "jeffgeerling.com (1)",
+        "nesbitt.io (1)",
         "pluralistic.net (1)",
-        "seangoedecke.com (1)",
-        "simonwillison.net (1)"
+        "seangoedecke.com (1)"
       ],
       "highlights": [
+        "johndcook.com · Computing a lower bound on matrix rank",
+        "jeffgeerling.com · Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+        "dfarq.homeip.net · The September that Never Ended",
         "pluralistic.net · Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-        "simonwillison.net · August newsletter is out",
-        "seangoedecke.com · Radical responsibility means treating people like tools",
-        "johndcook.com · Hugging Face Easter Egg"
+        "nesbitt.io · How much should you trust your OSS data?",
+        "simonwillison.net · August newsletter is out"
       ],
       "key_points": [
-        "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-        "August newsletter is out",
-        "Radical responsibility means treating people like tools",
-        "Hugging Face Easter Egg"
+        "Computing a lower bound on matrix rank",
+        "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+        "The September that Never Ended",
+        "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)"
       ],
       "key_points_zh": [
-        "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-        "August newsletter is out",
-        "Radical responsibility means treating people like tools",
-        "Hugging Face Easter Egg"
+        "Computing a lower bound on matrix rank",
+        "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+        "The September that Never Ended",
+        "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)"
       ],
       "key_points_en": [
-        "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-        "August newsletter is out",
-        "Radical responsibility means treating people like tools",
-        "Hugging Face Easter Egg"
+        "Computing a lower bound on matrix rank",
+        "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+        "The September that Never Ended",
+        "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)"
       ],
       "tweet_drafts": [
-        "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-        "August newsletter is out",
-        "Radical responsibility means treating people like tools"
+        "Computing a lower bound on matrix rank",
+        "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+        "The September that Never Ended"
       ],
       "sources": [
         {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-          "link": "https://pluralistic.net/2026/09/04/cheating-at-fraud/"
+          "feed_title": "johndcook.com",
+          "title": "Computing a lower bound on matrix rank",
+          "link": "https://www.johndcook.com/blog/2026/09/04/stable-rank/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "August newsletter is out",
-          "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
+          "feed_title": "jeffgeerling.com",
+          "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+          "link": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/"
         },
         {
-          "feed_title": "seangoedecke.com",
-          "title": "Radical responsibility means treating people like tools",
-          "link": "https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/"
+          "feed_title": "dfarq.homeip.net",
+          "title": "The September that Never Ended",
+          "link": "https://dfarq.homeip.net/the-september-that-never-ended/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-september-that-never-ended"
         }
       ],
-      "summary_zh": "2026-09-04 技术日报：Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)；August newsletter is out；Radical responsibility means treating people like tools。",
-      "summary_en": "Daily brief (2026-09-04): Pluralistic: Amazon achieves enshittification inception (04 Sep 2026); August newsletter is out; Radical responsibility means treating people like tools.",
+      "summary_zh": "2026-09-04 技术日报：Computing a lower bound on matrix rank；Rebuilding a 1995 GPS Time Server so I don't get Telstra'd；The September that Never Ended。",
+      "summary_en": "Daily brief (2026-09-04): Computing a lower bound on matrix rank; Rebuilding a 1995 GPS Time Server so I don't get Telstra'd; The September that Never Ended.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-04 日报】Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)；August newsletter is out；Radical responsibility means treating people like tools。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-04): Pluralistic: Amazon achieves enshittification inception (04 Sep 2026); August newsletter is out; Radical responsibility means treating people like tools. Actionable takeaways included. What would you ship next? #AI #Engineering #Buil"
+          "zh": "【2026-09-04 日报】Computing a lower bound on matrix rank；Rebuilding a 1995 GPS Time Server so I don't get Telstra'd；The September that Never Ended。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-04): Computing a lower bound on matrix rank; Rebuilding a 1995 GPS Time Server so I don't get Telstra'd; The September that Never Ended. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-04）\n- Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)\n- August newsletter is out\n- Radical responsibility means treating people like tools\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/09/04/cheating-at-fraud/\n- https://simonwillison.net/2026/Sep/4/august-newsletter/\n- https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-04)\n- Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)\n- August newsletter is out\n- Radical responsibility means treating people like tools\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/09/04/cheating-at-fraud/\n- https://simonwillison.net/2026/Sep/4/august-newsletter/\n- https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-04）\n- Computing a lower bound on matrix rank\n- Rebuilding a 1995 GPS Time Server so I don't get Telstra'd\n- The September that Never Ended\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/09/04/stable-rank/\n- https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/\n- https://dfarq.homeip.net/the-september-that-never-ended/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-september-that-never-ended\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-04)\n- Computing a lower bound on matrix rank\n- Rebuilding a 1995 GPS Time Server so I don't get Telstra'd\n- The September that Never Ended\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/09/04/stable-rank/\n- https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/\n- https://dfarq.homeip.net/the-september-that-never-ended/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-september-that-never-ended\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)；August newsletter is out；Radical responsibility means treating people like tools。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Amazon achieves enshittification inception (04 Sep 2026); August newsletter is out; Radical responsibility means treating people like tools.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Computing a lower bound on matrix rank；Rebuilding a 1995 GPS Time Server so I don't get Telstra'd；The September that Never Ended。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Computing a lower bound on matrix rank; Rebuilding a 1995 GPS Time Server so I don't get Telstra'd; The September that Never Ended.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
