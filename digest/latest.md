@@ -1,8 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-05 09:31:18 UTC
+Generated at: 2026-09-05 13:04:04 UTC
 
-- [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) (`simonwillison.net`)
-- [Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) (`daringfireball.net`)
-- [What happens if you change a window class’s GCL_CB­WND­EXTRA?](https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675) (`devblogs.microsoft.com/oldnewthing`)
-- [Pluralistic: Google skates (05 Sep 2026)](https://pluralistic.net/2026/09/05/divorce-court/) (`pluralistic.net`)
+- [Latent Powers](https://lucumr.pocoo.org/2026/9/5/latent-powers/) (`lucumr.pocoo.org`)
+- [Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆](https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/) (`shkspr.mobi`)
+- [This Week in Package Management: 5 September 2026](https://nesbitt.io/2026/09/05/this-week-in-package-management.html) (`nesbitt.io`)
+- [Reading List - 09/05/2026](https://www.construction-physics.com/p/reading-list-09052026) (`construction-physics.com`)
