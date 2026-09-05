@@ -1,5 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-04 23:38:21 UTC
+Generated at: 2026-09-05 09:31:18 UTC
 
-- [NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) (`daringfireball.net`)
+- [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) (`simonwillison.net`)
+- [Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) (`daringfireball.net`)
+- [What happens if you change a window class’s GCL_CB­WND­EXTRA?](https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675) (`devblogs.microsoft.com/oldnewthing`)
+- [Pluralistic: Google skates (05 Sep 2026)](https://pluralistic.net/2026/09/05/divorce-court/) (`pluralistic.net`)
