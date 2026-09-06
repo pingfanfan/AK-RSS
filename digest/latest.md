@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-06 00:01:15 UTC
+Generated at: 2026-09-06 09:45:37 UTC
 
-- [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) (`simonwillison.net`)
+- [Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) (`simonwillison.net`)
+- [avalanche technology](https://computer.rip/2026-09-05-avalanche.html) (`computer.rip`)
+- [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/) (`michael.stapelberg.ch`)
