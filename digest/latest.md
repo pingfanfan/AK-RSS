@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-06 20:32:51 UTC
+Generated at: 2026-09-06 22:29:18 UTC
 
-- [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
-- [Conflict resolution is “fun”](https://www.tigrisdata.com/blog/conflict-resolution-is-fun/) (`xeiaso.net`)
+- [Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) (`daringfireball.net`)
+- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) (`xeiaso.net`)
