@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-06 18:25:32 UTC
+Generated at: 2026-09-06 20:32:51 UTC
 
-- [Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766) (`daringfireball.net`)
+- [Have the frontier labs mixed up AI safety and security?](https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
+- [Conflict resolution is “fun”](https://www.tigrisdata.com/blog/conflict-resolution-is-fun/) (`xeiaso.net`)
