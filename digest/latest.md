@@ -1,7 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-07 20:01:55 UTC
+Generated at: 2026-09-07 22:53:50 UTC
 
-- [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/) (`daringfireball.net`)
-- [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/) (`johndcook.com`)
-- [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer) (`borretti.me`)
+- [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/) (`simonwillison.net`)
+- [[Sponsor] Glyphs 4](https://glyphsapp.com/) (`daringfireball.net`)
+- [Clickable whitespace](https://idiallo.com/blog/clickable-whitespace) (`idiallo.com`)
