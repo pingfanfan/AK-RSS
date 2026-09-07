@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-07 16:08:24 UTC
+Generated at: 2026-09-07 20:01:55 UTC
 
-- [The ill-fated HP-Compaq merger](https://dfarq.homeip.net/the-ill-fated-hp-compaq-merger/?utm_source=rss&utm_medium=rss&utm_campaign=the-ill-fated-hp-compaq-merger) (`dfarq.homeip.net`)
+- [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/) (`daringfireball.net`)
+- [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/) (`johndcook.com`)
+- [The Education of a Doomer](https://borretti.me/article/the-education-of-a-doomer) (`borretti.me`)
