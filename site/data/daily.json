@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-09-07T22:54:05Z",
+  "generated_at": "2026-09-08T10:09:28Z",
   "days": [
+    {
+      "date": "2026-09-08",
+      "total": 4,
+      "feeds": [
+        "idiallo.com (1)",
+        "nesbitt.io (1)",
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "nesbitt.io · What’s new in git-pkgs",
+        "seangoedecke.com · Automatically detecting AI text in my browser",
+        "simonwillison.net · llm 0.35",
+        "idiallo.com · I found an old interview mine (2017)"
+      ],
+      "key_points": [
+        "What’s new in git-pkgs",
+        "Automatically detecting AI text in my browser",
+        "llm 0.35",
+        "I found an old interview mine (2017)"
+      ],
+      "key_points_zh": [
+        "What’s new in git-pkgs",
+        "Automatically detecting AI text in my browser",
+        "llm 0.35",
+        "I found an old interview mine (2017)"
+      ],
+      "key_points_en": [
+        "What’s new in git-pkgs",
+        "Automatically detecting AI text in my browser",
+        "llm 0.35",
+        "I found an old interview mine (2017)"
+      ],
+      "tweet_drafts": [
+        "What’s new in git-pkgs",
+        "Automatically detecting AI text in my browser",
+        "llm 0.35"
+      ],
+      "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "What’s new in git-pkgs",
+          "link": "https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "Automatically detecting AI text in my browser",
+          "link": "https://seangoedecke.com/deckard/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "llm 0.35",
+          "link": "https://simonwillison.net/2026/Sep/7/llm/"
+        }
+      ],
+      "summary_zh": "2026-09-08 技术日报：What’s new in git-pkgs；Automatically detecting AI text in my browser；llm 0.35。",
+      "summary_en": "Daily brief (2026-09-08): What’s new in git-pkgs; Automatically detecting AI text in my browser; llm 0.35.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-08 日报】What’s new in git-pkgs；Automatically detecting AI text in my browser；llm 0.35。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-08): What’s new in git-pkgs; Automatically detecting AI text in my browser; llm 0.35. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-08）\n- What’s new in git-pkgs\n- Automatically detecting AI text in my browser\n- llm 0.35\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html\n- https://seangoedecke.com/deckard/\n- https://simonwillison.net/2026/Sep/7/llm/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-08)\n- What’s new in git-pkgs\n- Automatically detecting AI text in my browser\n- llm 0.35\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html\n- https://seangoedecke.com/deckard/\n- https://simonwillison.net/2026/Sep/7/llm/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：What’s new in git-pkgs；Automatically detecting AI text in my browser；llm 0.35。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: What’s new in git-pkgs; Automatically detecting AI text in my browser; llm 0.35.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-09-07",
       "total": 10,
@@ -2109,7 +2181,7 @@
         {
           "feed_title": "daringfireball.net",
           "title": "The Economist: ‘How to Spot AI Writing’",
-          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw"
+          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm"
         }
       ],
       "summary_zh": "2026-08-11 技术日报：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。",
@@ -2120,8 +2192,8 @@
           "en": "AK-RSS Daily (2026-08-11): Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=YWNmMzkyMzAtNTRjMy00MTYyLWE4MGUtYjRmNTMyYjIzY2Fm\n#AI #Engineering #Product"
         },
         "threads": {
           "zh": "今天最值得看的 3 个点：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。\n我把行动建议做成日报了，可以直接拿去用。",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：A noob learns FFT；What’s New in iOS 27 Beta 5；‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: A noob learns FFT; What’s New in iOS 27 Beta 5; ‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-09",
-      "total": 10,
-      "feeds": [
-        "shkspr.mobi (3)",
-        "johndcook.com (2)",
-        "blog.jim-nielsen.com (1)",
-        "daringfireball.net (1)",
-        "michael.stapelberg.ch (1)",
-        "seangoedecke.com (1)"
-      ],
-      "highlights": [
-        "shkspr.mobi · Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
-        "simonwillison.net · SQLite compressed text-history prototypes",
-        "blog.jim-nielsen.com · A License to Act",
-        "johndcook.com · DNA and Bessel functions",
-        "johndcook.com · A simple range reduction method",
-        "shkspr.mobi · Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆"
-      ],
-      "key_points": [
-        "Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
-        "SQLite compressed text-history prototypes",
-        "A License to Act",
-        "DNA and Bessel functions"
-      ],
-      "key_points_zh": [
-        "Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
-        "SQLite compressed text-history prototypes",
-        "A License to Act",
-        "DNA and Bessel functions"
-      ],
-      "key_points_en": [
-        "Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
-        "SQLite compressed text-history prototypes",
-        "A License to Act",
-        "DNA and Bessel functions"
-      ],
-      "tweet_drafts": [
-        "Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
-        "SQLite compressed text-history prototypes",
-        "A License to Act"
-      ],
-      "sources": [
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★",
-          "link": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "SQLite compressed text-history prototypes",
-          "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "A License to Act",
-          "link": "https://blog.jim-nielsen.com/2026/license-to-act/"
-        }
-      ],
-      "summary_zh": "2026-08-09 技术日报：Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★；SQLite compressed text-history prototypes；A License to Act。",
-      "summary_en": "Daily brief (2026-08-09): Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★; SQLite compressed text-history prototypes; A License to Act.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-09 日报】Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★；SQLite compressed text-history prototypes；A License to Act。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-09): Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★; SQLite compressed text-history prototypes; A License to Act. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-09）\n- Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★\n- SQLite compressed text-history prototypes\n- A License to Act\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/\n- https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything\n- https://blog.jim-nielsen.com/2026/license-to-act/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-09)\n- Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★\n- SQLite compressed text-history prototypes\n- A License to Act\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/\n- https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything\n- https://blog.jim-nielsen.com/2026/license-to-act/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★；SQLite compressed text-history prototypes；A License to Act。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★; SQLite compressed text-history prototypes; A License to Act.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

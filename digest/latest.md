@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-07 22:53:50 UTC
+Generated at: 2026-09-08 10:09:13 UTC
 
-- [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/) (`simonwillison.net`)
-- [[Sponsor] Glyphs 4](https://glyphsapp.com/) (`daringfireball.net`)
-- [Clickable whitespace](https://idiallo.com/blog/clickable-whitespace) (`idiallo.com`)
+- [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) (`simonwillison.net`)
+- [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude) (`idiallo.com`)
+- [Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/) (`seangoedecke.com`)
+- [What’s new in git-pkgs](https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html) (`nesbitt.io`)
