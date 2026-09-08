@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-09-08T10:09:28Z",
+  "generated_at": "2026-09-08T14:39:30Z",
   "days": [
     {
       "date": "2026-09-08",
-      "total": 4,
+      "total": 7,
       "feeds": [
+        "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "nesbitt.io (1)",
         "seangoedecke.com (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "wheresyoured.at · Concentration Risk",
+        "shkspr.mobi · ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+        "dfarq.homeip.net · What happened to Compuserve?",
         "nesbitt.io · What’s new in git-pkgs",
         "seangoedecke.com · Automatically detecting AI text in my browser",
-        "simonwillison.net · llm 0.35",
-        "idiallo.com · I found an old interview mine (2017)"
+        "simonwillison.net · llm 0.35"
       ],
       "key_points": [
-        "What’s new in git-pkgs",
-        "Automatically detecting AI text in my browser",
-        "llm 0.35",
-        "I found an old interview mine (2017)"
+        "Concentration Risk",
+        "ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+        "What happened to Compuserve?",
+        "What’s new in git-pkgs"
       ],
       "key_points_zh": [
-        "What’s new in git-pkgs",
-        "Automatically detecting AI text in my browser",
-        "llm 0.35",
-        "I found an old interview mine (2017)"
+        "Concentration Risk",
+        "ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+        "What happened to Compuserve?",
+        "What’s new in git-pkgs"
       ],
       "key_points_en": [
-        "What’s new in git-pkgs",
-        "Automatically detecting AI text in my browser",
-        "llm 0.35",
-        "I found an old interview mine (2017)"
+        "Concentration Risk",
+        "ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+        "What happened to Compuserve?",
+        "What’s new in git-pkgs"
       ],
       "tweet_drafts": [
-        "What’s new in git-pkgs",
-        "Automatically detecting AI text in my browser",
-        "llm 0.35"
+        "Concentration Risk",
+        "ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+        "What happened to Compuserve?"
       ],
       "sources": [
         {
-          "feed_title": "nesbitt.io",
-          "title": "What’s new in git-pkgs",
-          "link": "https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html"
+          "feed_title": "wheresyoured.at",
+          "title": "Concentration Risk",
+          "link": "https://www.wheresyoured.at/concentration-risk/"
         },
         {
-          "feed_title": "seangoedecke.com",
-          "title": "Automatically detecting AI text in my browser",
-          "link": "https://seangoedecke.com/deckard/"
+          "feed_title": "shkspr.mobi",
+          "title": "ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+          "link": "https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "llm 0.35",
-          "link": "https://simonwillison.net/2026/Sep/7/llm/"
+          "feed_title": "dfarq.homeip.net",
+          "title": "What happened to Compuserve?",
+          "link": "https://dfarq.homeip.net/what-happened-to-compuserve/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-compuserve"
         }
       ],
-      "summary_zh": "2026-09-08 技术日报：What’s new in git-pkgs；Automatically detecting AI text in my browser；llm 0.35。",
-      "summary_en": "Daily brief (2026-09-08): What’s new in git-pkgs; Automatically detecting AI text in my browser; llm 0.35.",
+      "summary_zh": "2026-09-08 技术日报：Concentration Risk；ActivityPub - Is it worth defending against replay attacks and message/signature time skew?；What happened to Compuserve?。",
+      "summary_en": "Daily brief (2026-09-08): Concentration Risk; ActivityPub - Is it worth defending against replay attacks and message/signature time skew?; What happened to Compuserve?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-08 日报】What’s new in git-pkgs；Automatically detecting AI text in my browser；llm 0.35。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-08): What’s new in git-pkgs; Automatically detecting AI text in my browser; llm 0.35. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-08 日报】Concentration Risk；ActivityPub - Is it worth defending against replay attacks and message/signature time skew?；What happened to Compuserve?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-08): Concentration Risk; ActivityPub - Is it worth defending against replay attacks and message/signature time skew?; What happened to Compuserve?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-08）\n- What’s new in git-pkgs\n- Automatically detecting AI text in my browser\n- llm 0.35\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html\n- https://seangoedecke.com/deckard/\n- https://simonwillison.net/2026/Sep/7/llm/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-08)\n- What’s new in git-pkgs\n- Automatically detecting AI text in my browser\n- llm 0.35\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html\n- https://seangoedecke.com/deckard/\n- https://simonwillison.net/2026/Sep/7/llm/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-08）\n- Concentration Risk\n- ActivityPub - Is it worth defending against replay attacks and message/signature time skew?\n- What happened to Compuserve?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/concentration-risk/\n- https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/\n- https://dfarq.homeip.net/what-happened-to-compuserve/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-compuserve\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-08)\n- Concentration Risk\n- ActivityPub - Is it worth defending against replay attacks and message/signature time skew?\n- What happened to Compuserve?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/concentration-risk/\n- https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/\n- https://dfarq.homeip.net/what-happened-to-compuserve/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-compuserve\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What’s new in git-pkgs；Automatically detecting AI text in my browser；llm 0.35。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What’s new in git-pkgs; Automatically detecting AI text in my browser; llm 0.35.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Concentration Risk；ActivityPub - Is it worth defending against replay attacks and message/signature time skew?；What happened to Compuserve?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Concentration Risk; ActivityPub - Is it worth defending against replay attacks and message/signature time skew?; What happened to Compuserve?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

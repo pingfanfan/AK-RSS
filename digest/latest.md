@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-08 10:09:13 UTC
+Generated at: 2026-09-08 14:39:16 UTC
 
-- [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) (`simonwillison.net`)
-- [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude) (`idiallo.com`)
-- [Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/) (`seangoedecke.com`)
-- [What’s new in git-pkgs](https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html) (`nesbitt.io`)
+- [ActivityPub - Is it worth defending against replay attacks and message/signature time skew?](https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/) (`shkspr.mobi`)
+- [Concentration Risk](https://www.wheresyoured.at/concentration-risk/) (`wheresyoured.at`)
+- [What happened to Compuserve?](https://dfarq.homeip.net/what-happened-to-compuserve/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-compuserve) (`dfarq.homeip.net`)
