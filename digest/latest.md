@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-09 10:12:09 UTC
+Generated at: 2026-09-09 14:40:44 UTC
 
-- [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/) (`simonwillison.net`)
-- [★ The iPhone Air and iPhone 17 Pro](https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro) (`daringfireball.net`)
-- [Why we should anthropomorphize AI agents](https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/) (`seangoedecke.com`)
+- [AI is an intelligence multiplier](https://www.johndcook.com/blog/2026/09/09/ai-multiplier/) (`johndcook.com`)
+- [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier) (`entropicthoughts.com`)
+- [The first VHS VCR: JVC HR-3300](https://dfarq.homeip.net/the-first-vhs-vcr-jvc-hr-3300/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-vhs-vcr-jvc-hr-3300) (`dfarq.homeip.net`)
+- [Pluralistic: Anti-vax/anti-trust (09 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/) (`pluralistic.net`)
