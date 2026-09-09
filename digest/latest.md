@@ -1,8 +1,9 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-09 14:40:44 UTC
+Generated at: 2026-09-09 18:03:57 UTC
 
-- [AI is an intelligence multiplier](https://www.johndcook.com/blog/2026/09/09/ai-multiplier/) (`johndcook.com`)
-- [Better AI code comment detector](https://entropicthoughts.com/better-ai-comment-classifier) (`entropicthoughts.com`)
-- [The first VHS VCR: JVC HR-3300](https://dfarq.homeip.net/the-first-vhs-vcr-jvc-hr-3300/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-vhs-vcr-jvc-hr-3300) (`dfarq.homeip.net`)
-- [Pluralistic: Anti-vax/anti-trust (09 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/) (`pluralistic.net`)
+- [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/) (`lucumr.pocoo.org`)
+- [A 50-year-old computer-assisted proof](https://www.johndcook.com/blog/2026/09/09/four-colors/) (`johndcook.com`)
+- [Don’t Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) (`blog.jim-nielsen.com`)
+- [The Power of Possibility](https://anildash.com/2026/04/16/girls-club-gala/) (`anildash.com`)
+- [Analysing 2048 on a 3×3 board](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/) (`chiark.greenend.org.uk/~sgtatham`)
