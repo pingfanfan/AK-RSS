@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-10 20:08:14 UTC
+Generated at: 2026-09-10 22:40:32 UTC
 
-- [Why do OpenAI's GPT-2 weights beat mine?](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro) (`gilesthomas.com`)
-- [An Ode to Links](https://blog.jim-nielsen.com/2026/ode-to-links/) (`blog.jim-nielsen.com`)
+- [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/) (`simonwillison.net`)
+- [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/) (`daringfireball.net`)
