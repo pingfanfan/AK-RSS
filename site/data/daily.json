@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-09-10T17:55:37Z",
+  "generated_at": "2026-09-10T20:08:28Z",
   "days": [
     {
       "date": "2026-09-10",
-      "total": 9,
+      "total": 10,
       "feeds": [
+        "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "nesbitt.io (1)",
-        "seangoedecke.com (1)",
-        "shkspr.mobi (1)"
+        "seangoedecke.com (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · An Ode to Links",
         "daringfireball.net · Joanna Stern on the iPhone Duo",
         "terriblesoftware.org · AI Is Breaking This Thing We Call Trust",
         "johndcook.com · Bayesian OCR",
         "shkspr.mobi · Put an AV test at the start of your slides",
-        "dfarq.homeip.net · When the RIAA sued a 12-year-old for MP3 piracy",
-        "nesbitt.io · Package Manager Trends"
+        "dfarq.homeip.net · When the RIAA sued a 12-year-old for MP3 piracy"
       ],
       "key_points": [
-        "Joanna Stern on the iPhone Duo",
-        "AI Is Breaking This Thing We Call Trust",
-        "Bayesian OCR",
-        "Put an AV test at the start of your slides"
-      ],
-      "key_points_zh": [
-        "Joanna Stern on the iPhone Duo",
-        "AI Is Breaking This Thing We Call Trust",
-        "Bayesian OCR",
-        "Put an AV test at the start of your slides"
-      ],
-      "key_points_en": [
-        "Joanna Stern on the iPhone Duo",
-        "AI Is Breaking This Thing We Call Trust",
-        "Bayesian OCR",
-        "Put an AV test at the start of your slides"
-      ],
-      "tweet_drafts": [
+        "An Ode to Links",
         "Joanna Stern on the iPhone Duo",
         "AI Is Breaking This Thing We Call Trust",
         "Bayesian OCR"
       ],
+      "key_points_zh": [
+        "An Ode to Links",
+        "Joanna Stern on the iPhone Duo",
+        "AI Is Breaking This Thing We Call Trust",
+        "Bayesian OCR"
+      ],
+      "key_points_en": [
+        "An Ode to Links",
+        "Joanna Stern on the iPhone Duo",
+        "AI Is Breaking This Thing We Call Trust",
+        "Bayesian OCR"
+      ],
+      "tweet_drafts": [
+        "An Ode to Links",
+        "Joanna Stern on the iPhone Duo",
+        "AI Is Breaking This Thing We Call Trust"
+      ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "An Ode to Links",
+          "link": "https://blog.jim-nielsen.com/2026/ode-to-links/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Joanna Stern on the iPhone Duo",
@@ -53,27 +58,22 @@
           "feed_title": "terriblesoftware.org",
           "title": "AI Is Breaking This Thing We Call Trust",
           "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Bayesian OCR",
-          "link": "https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/"
         }
       ],
-      "summary_zh": "2026-09-10 技术日报：Joanna Stern on the iPhone Duo；AI Is Breaking This Thing We Call Trust；Bayesian OCR。",
-      "summary_en": "Daily brief (2026-09-10): Joanna Stern on the iPhone Duo; AI Is Breaking This Thing We Call Trust; Bayesian OCR.",
+      "summary_zh": "2026-09-10 技术日报：An Ode to Links；Joanna Stern on the iPhone Duo；AI Is Breaking This Thing We Call Trust。",
+      "summary_en": "Daily brief (2026-09-10): An Ode to Links; Joanna Stern on the iPhone Duo; AI Is Breaking This Thing We Call Trust.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-10 日报】Joanna Stern on the iPhone Duo；AI Is Breaking This Thing We Call Trust；Bayesian OCR。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-10): Joanna Stern on the iPhone Duo; AI Is Breaking This Thing We Call Trust; Bayesian OCR. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-10 日报】An Ode to Links；Joanna Stern on the iPhone Duo；AI Is Breaking This Thing We Call Trust。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-10): An Ode to Links; Joanna Stern on the iPhone Duo; AI Is Breaking This Thing We Call Trust. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-10）\n- Joanna Stern on the iPhone Duo\n- AI Is Breaking This Thing We Call Trust\n- Bayesian OCR\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://youtu.be/VNzl-q0EGfg\n- https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/\n- https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-10)\n- Joanna Stern on the iPhone Duo\n- AI Is Breaking This Thing We Call Trust\n- Bayesian OCR\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://youtu.be/VNzl-q0EGfg\n- https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/\n- https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-10）\n- An Ode to Links\n- Joanna Stern on the iPhone Duo\n- AI Is Breaking This Thing We Call Trust\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/ode-to-links/\n- https://youtu.be/VNzl-q0EGfg\n- https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-10)\n- An Ode to Links\n- Joanna Stern on the iPhone Duo\n- AI Is Breaking This Thing We Call Trust\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/ode-to-links/\n- https://youtu.be/VNzl-q0EGfg\n- https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Joanna Stern on the iPhone Duo；AI Is Breaking This Thing We Call Trust；Bayesian OCR。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Joanna Stern on the iPhone Duo; AI Is Breaking This Thing We Call Trust; Bayesian OCR.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：An Ode to Links；Joanna Stern on the iPhone Duo；AI Is Breaking This Thing We Call Trust。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: An Ode to Links; Joanna Stern on the iPhone Duo; AI Is Breaking This Thing We Call Trust.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
