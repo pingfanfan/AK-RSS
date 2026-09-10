@@ -1,24 +1,91 @@
 {
-  "generated_at": "2026-09-09T23:22:10Z",
+  "generated_at": "2026-09-10T10:07:33Z",
   "days": [
     {
+      "date": "2026-09-10",
+      "total": 3,
+      "feeds": [
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)",
+        "tedium.co (1)"
+      ],
+      "highlights": [
+        "tedium.co · Automattic Minus Matt",
+        "simonwillison.net · Quoting Calif Research",
+        "seangoedecke.com · They really do think AI might kill everyone"
+      ],
+      "key_points": [
+        "Automattic Minus Matt",
+        "Quoting Calif Research",
+        "They really do think AI might kill everyone"
+      ],
+      "key_points_zh": [
+        "Automattic Minus Matt",
+        "Quoting Calif Research",
+        "They really do think AI might kill everyone"
+      ],
+      "key_points_en": [
+        "Automattic Minus Matt",
+        "Quoting Calif Research",
+        "They really do think AI might kill everyone"
+      ],
+      "tweet_drafts": [
+        "Automattic Minus Matt",
+        "Quoting Calif Research",
+        "They really do think AI might kill everyone"
+      ],
+      "sources": [
+        {
+          "feed_title": "tedium.co",
+          "title": "Automattic Minus Matt",
+          "link": "https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Calif Research",
+          "link": "https://simonwillison.net/2026/Sep/10/calif-research/"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "They really do think AI might kill everyone",
+          "link": "https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/"
+        }
+      ],
+      "summary_zh": "2026-09-10 技术日报：Automattic Minus Matt；Quoting Calif Research；They really do think AI might kill everyone。",
+      "summary_en": "Daily brief (2026-09-10): Automattic Minus Matt; Quoting Calif Research; They really do think AI might kill everyone.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-10 日报】Automattic Minus Matt；Quoting Calif Research；They really do think AI might kill everyone。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-10): Automattic Minus Matt; Quoting Calif Research; They really do think AI might kill everyone. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-10）\n- Automattic Minus Matt\n- Quoting Calif Research\n- They really do think AI might kill everyone\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence\n- https://simonwillison.net/2026/Sep/10/calif-research/\n- https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-10)\n- Automattic Minus Matt\n- Quoting Calif Research\n- They really do think AI might kill everyone\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence\n- https://simonwillison.net/2026/Sep/10/calif-research/\n- https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Automattic Minus Matt；Quoting Calif Research；They really do think AI might kill everyone。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Automattic Minus Matt; Quoting Calif Research; They really do think AI might kill everyone.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-09-09",
-      "total": 10,
+      "total": 13,
       "feeds": [
         "johndcook.com (2)",
         "blog.jim-nielsen.com (1)",
+        "borretti.me (1)",
         "chiark.greenend.org.uk/~sgtatham (1)",
         "daringfireball.net (1)",
-        "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
+        "devblogs.microsoft.com/oldnewthing (1)"
       ],
       "highlights": [
         "idiallo.com · We own the Glass",
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "dfarq.homeip.net · The first VHS VCR: JVC HR-3300",
-        "pluralistic.net · Pluralistic: Anti-vax/anti-trust (09 Sep 2026)"
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
+        "borretti.me · The Other Road"
       ],
       "key_points": [
         "We own the Glass",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light；Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆；Google Introduces ‘Camera Looks’ With Pixel 11 Phones。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light; Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆; Google Introduces ‘Camera Looks’ With Pixel 11 Phones.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "total": 26,
-      "feeds": [
-        "shkspr.mobi (6)",
-        "daringfireball.net (5)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Stealing Reasoning Traces from Proprietary LLM APIs",
-        "shkspr.mobi · Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆",
-        "daringfireball.net · The Economist: ‘How to Spot AI Writing’",
-        "daringfireball.net · The Economist: ‘How to Spot AI Writing’",
-        "krebsonsecurity.com · Microsoft Plugs Nearly 400 Security Holes",
-        "shkspr.mobi · Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆"
-      ],
-      "key_points": [
-        "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆",
-        "The Economist: ‘How to Spot AI Writing’",
-        "Microsoft Plugs Nearly 400 Security Holes"
-      ],
-      "key_points_zh": [
-        "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆",
-        "The Economist: ‘How to Spot AI Writing’",
-        "Microsoft Plugs Nearly 400 Security Holes"
-      ],
-      "key_points_en": [
-        "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆",
-        "The Economist: ‘How to Spot AI Writing’",
-        "Microsoft Plugs Nearly 400 Security Holes"
-      ],
-      "tweet_drafts": [
-        "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆",
-        "The Economist: ‘How to Spot AI Writing’"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-          "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆",
-          "link": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The Economist: ‘How to Spot AI Writing’",
-          "link": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw"
-        }
-      ],
-      "summary_zh": "2026-08-11 技术日报：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。",
-      "summary_en": "Daily brief (2026-08-11): Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-11 日报】Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-11): Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPu"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-11）\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-11)\n- Stealing Reasoning Traces from Proprietary LLM APIs\n- Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆\n- The Economist: ‘How to Spot AI Writing’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/\n- https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Stealing Reasoning Traces from Proprietary LLM APIs；Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆；The Economist: ‘How to Spot AI Writing’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Stealing Reasoning Traces from Proprietary LLM APIs; Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆; The Economist: ‘How to Spot AI Writing’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
