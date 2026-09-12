@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-09-11T22:40:43Z",
+  "generated_at": "2026-09-12T09:40:20Z",
   "days": [
+    {
+      "date": "2026-09-12",
+      "total": 3,
+      "feeds": [
+        "daringfireball.net (1)",
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · OpenAI agents attacked RubyGems back in May",
+        "daringfireball.net · Last Year’s iPhone Share Amongst Users of Widgetsmith",
+        "seangoedecke.com · Don't build tools for AI agents"
+      ],
+      "key_points": [
+        "OpenAI agents attacked RubyGems back in May",
+        "Last Year’s iPhone Share Amongst Users of Widgetsmith",
+        "Don't build tools for AI agents"
+      ],
+      "key_points_zh": [
+        "OpenAI agents attacked RubyGems back in May",
+        "Last Year’s iPhone Share Amongst Users of Widgetsmith",
+        "Don't build tools for AI agents"
+      ],
+      "key_points_en": [
+        "OpenAI agents attacked RubyGems back in May",
+        "Last Year’s iPhone Share Amongst Users of Widgetsmith",
+        "Don't build tools for AI agents"
+      ],
+      "tweet_drafts": [
+        "OpenAI agents attacked RubyGems back in May",
+        "Last Year’s iPhone Share Amongst Users of Widgetsmith",
+        "Don't build tools for AI agents"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "OpenAI agents attacked RubyGems back in May",
+          "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Last Year’s iPhone Share Amongst Users of Widgetsmith",
+          "link": "https://mastodon.social/@_Davidsmith/117253170115740653"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "Don't build tools for AI agents",
+          "link": "https://seangoedecke.com/dont-build-tools-for-ai-agents/"
+        }
+      ],
+      "summary_zh": "2026-09-12 技术日报：OpenAI agents attacked RubyGems back in May；Last Year’s iPhone Share Amongst Users of Widgetsmith；Don't build tools for AI agents。",
+      "summary_en": "Daily brief (2026-09-12): OpenAI agents attacked RubyGems back in May; Last Year’s iPhone Share Amongst Users of Widgetsmith; Don't build tools for AI agents.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-12 日报】OpenAI agents attacked RubyGems back in May；Last Year’s iPhone Share Amongst Users of Widgetsmith；Don't build tools for AI agents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-12): OpenAI agents attacked RubyGems back in May; Last Year’s iPhone Share Amongst Users of Widgetsmith; Don't build tools for AI agents. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-12）\n- OpenAI agents attacked RubyGems back in May\n- Last Year’s iPhone Share Amongst Users of Widgetsmith\n- Don't build tools for AI agents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\n- https://mastodon.social/@_Davidsmith/117253170115740653\n- https://seangoedecke.com/dont-build-tools-for-ai-agents/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-12)\n- OpenAI agents attacked RubyGems back in May\n- Last Year’s iPhone Share Amongst Users of Widgetsmith\n- Don't build tools for AI agents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\n- https://mastodon.social/@_Davidsmith/117253170115740653\n- https://seangoedecke.com/dont-build-tools-for-ai-agents/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：OpenAI agents attacked RubyGems back in May；Last Year’s iPhone Share Amongst Users of Widgetsmith；Don't build tools for AI agents。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: OpenAI agents attacked RubyGems back in May; Last Year’s iPhone Share Amongst Users of Widgetsmith; Don't build tools for AI agents.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-09-11",
       "total": 17,
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Don't classify. Hallucinate!；Oh Hey, It’s Not Just Me；Edinburgh Fringe: Target Audience ★★★★★。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Don't classify. Hallucinate!; Oh Hey, It’s Not Just Me; Edinburgh Fringe: Target Audience ★★★★★.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "total": 14,
-      "feeds": [
-        "shkspr.mobi (6)",
-        "daringfireball.net (2)",
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "johndcook.com (1)"
-      ],
-      "highlights": [
-        "shkspr.mobi · Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
-        "shkspr.mobi · Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
-        "shkspr.mobi · Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
-        "nesbitt.io · Supplier Security Questionnaire",
-        "shkspr.mobi · Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆",
-        "daringfireball.net · Ceramic Shield 2 Is the Real Deal"
-      ],
-      "key_points": [
-        "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
-        "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
-        "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
-        "Supplier Security Questionnaire"
-      ],
-      "key_points_zh": [
-        "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
-        "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
-        "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
-        "Supplier Security Questionnaire"
-      ],
-      "key_points_en": [
-        "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
-        "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
-        "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
-        "Supplier Security Questionnaire"
-      ],
-      "tweet_drafts": [
-        "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
-        "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
-        "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆"
-      ],
-      "sources": [
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪",
-          "link": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Edinburgh Fringe: The Musical Mystery Caller ★★★★★",
-          "link": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Edinburgh Fringe: Miscast Sondheim ★★☆☆☆",
-          "link": "https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/"
-        }
-      ],
-      "summary_zh": "2026-08-13 技术日报：Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪；Edinburgh Fringe: The Musical Mystery Caller ★★★★★；Edinburgh Fringe: Miscast Sondheim ★★☆☆☆。",
-      "summary_en": "Daily brief (2026-08-13): Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪; Edinburgh Fringe: The Musical Mystery Caller ★★★★★; Edinburgh Fringe: Miscast Sondheim ★★☆☆☆.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-13 日报】Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪；Edinburgh Fringe: The Musical Mystery Caller ★★★★★；Edinburgh Fringe: Miscast Sondheim ★★☆☆☆。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-13): Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪; Edinburgh Fringe: The Musical Mystery Caller ★★★★★; Edinburgh Fringe: Miscast Sondheim ★★☆☆☆. Actionable takeaways included. What would you ship next? #AI #Engineering"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-13）\n- Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪\n- Edinburgh Fringe: The Musical Mystery Caller ★★★★★\n- Edinburgh Fringe: Miscast Sondheim ★★☆☆☆\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-13)\n- Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪\n- Edinburgh Fringe: The Musical Mystery Caller ★★★★★\n- Edinburgh Fringe: Miscast Sondheim ★★☆☆☆\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/\n- https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪；Edinburgh Fringe: The Musical Mystery Caller ★★★★★；Edinburgh Fringe: Miscast Sondheim ★★☆☆☆。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪; Edinburgh Fringe: The Musical Mystery Caller ★★★★★; Edinburgh Fringe: Miscast Sondheim ★★☆☆☆.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

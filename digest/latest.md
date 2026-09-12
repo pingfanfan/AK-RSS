@@ -1,7 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-11 22:40:30 UTC
+Generated at: 2026-09-12 09:40:05 UTC
 
-- [You Can Drop SEO](https://idiallo.com/blog/you-can-drop-the-seo) (`idiallo.com`)
-- [Clarus the Dogcow Easter Egg in iOS 27 Settings](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/) (`daringfireball.net`)
-- [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/) (`troyhunt.com`)
+- [OpenAI agents attacked RubyGems back in May](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) (`simonwillison.net`)
+- [Last Year’s iPhone Share Amongst Users of Widgetsmith](https://mastodon.social/@_Davidsmith/117253170115740653) (`daringfireball.net`)
+- [Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/) (`seangoedecke.com`)
