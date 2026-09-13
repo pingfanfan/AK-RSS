@@ -1,70 +1,79 @@
 {
-  "generated_at": "2026-09-13T14:43:47Z",
+  "generated_at": "2026-09-13T17:45:27Z",
   "days": [
     {
       "date": "2026-09-13",
-      "total": 3,
+      "total": 6,
       "feeds": [
+        "dfarq.homeip.net (1)",
+        "evanhahn.com (1)",
         "oldvcr.blogspot.com (1)",
         "seangoedecke.com (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "dfarq.homeip.net · The spy in your living room",
+        "shkspr.mobi · The expectations of privacy in driverless cars",
         "oldvcr.blogspot.com · A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
+        "evanhahn.com · Anecdotally, programmers dislike \"reduce\"",
         "seangoedecke.com · AI is breaking our proxies for expertise",
         "simonwillison.net · Generating running routes with GPT-6 Astra and ChatGPT Work"
       ],
       "key_points": [
+        "The spy in your living room",
+        "The expectations of privacy in driverless cars",
         "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
-        "AI is breaking our proxies for expertise",
-        "Generating running routes with GPT-6 Astra and ChatGPT Work"
+        "Anecdotally, programmers dislike \"reduce\""
       ],
       "key_points_zh": [
+        "The spy in your living room",
+        "The expectations of privacy in driverless cars",
         "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
-        "AI is breaking our proxies for expertise",
-        "Generating running routes with GPT-6 Astra and ChatGPT Work"
+        "Anecdotally, programmers dislike \"reduce\""
       ],
       "key_points_en": [
+        "The spy in your living room",
+        "The expectations of privacy in driverless cars",
         "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
-        "AI is breaking our proxies for expertise",
-        "Generating running routes with GPT-6 Astra and ChatGPT Work"
+        "Anecdotally, programmers dislike \"reduce\""
       ],
       "tweet_drafts": [
-        "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
-        "AI is breaking our proxies for expertise",
-        "Generating running routes with GPT-6 Astra and ChatGPT Work"
+        "The spy in your living room",
+        "The expectations of privacy in driverless cars",
+        "A Dick Smith VZ200 without the Dick Smith (but with a serial port)"
       ],
       "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "The spy in your living room",
+          "link": "https://dfarq.homeip.net/the-spy-in-your-living-room/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-spy-in-your-living-room"
+        },
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "The expectations of privacy in driverless cars",
+          "link": "https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/"
+        },
         {
           "feed_title": "oldvcr.blogspot.com",
           "title": "A Dick Smith VZ200 without the Dick Smith (but with a serial port)",
           "link": "https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html"
-        },
-        {
-          "feed_title": "seangoedecke.com",
-          "title": "AI is breaking our proxies for expertise",
-          "link": "https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-          "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/"
         }
       ],
-      "summary_zh": "2026-09-13 技术日报：A Dick Smith VZ200 without the Dick Smith (but with a serial port)；AI is breaking our proxies for expertise；Generating running routes with GPT-6 Astra and ChatGPT Work。",
-      "summary_en": "Daily brief (2026-09-13): A Dick Smith VZ200 without the Dick Smith (but with a serial port); AI is breaking our proxies for expertise; Generating running routes with GPT-6 Astra and ChatGPT Work.",
+      "summary_zh": "2026-09-13 技术日报：The spy in your living room；The expectations of privacy in driverless cars；A Dick Smith VZ200 without the Dick Smith (but with a serial port)。",
+      "summary_en": "Daily brief (2026-09-13): The spy in your living room; The expectations of privacy in driverless cars; A Dick Smith VZ200 without the Dick Smith (but with a serial port).",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-13 日报】A Dick Smith VZ200 without the Dick Smith (but with a serial port)；AI is breaking our proxies for expertise；Generating running routes with GPT-6 Astra and ChatGPT Work。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-13): A Dick Smith VZ200 without the Dick Smith (but with a serial port); AI is breaking our proxies for expertise; Generating running routes with GPT-6 Astra and ChatGPT Work. Actionable takeaways included. What would you ship next? #AI #"
+          "zh": "【2026-09-13 日报】The spy in your living room；The expectations of privacy in driverless cars；A Dick Smith VZ200 without the Dick Smith (but with a serial port)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-13): The spy in your living room; The expectations of privacy in driverless cars; A Dick Smith VZ200 without the Dick Smith (but with a serial port). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-13）\n- A Dick Smith VZ200 without the Dick Smith (but with a serial port)\n- AI is breaking our proxies for expertise\n- Generating running routes with GPT-6 Astra and ChatGPT Work\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html\n- https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/\n- https://simonwillison.net/2026/Sep/12/astra-running-routes/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-13)\n- A Dick Smith VZ200 without the Dick Smith (but with a serial port)\n- AI is breaking our proxies for expertise\n- Generating running routes with GPT-6 Astra and ChatGPT Work\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html\n- https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/\n- https://simonwillison.net/2026/Sep/12/astra-running-routes/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-13）\n- The spy in your living room\n- The expectations of privacy in driverless cars\n- A Dick Smith VZ200 without the Dick Smith (but with a serial port)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-spy-in-your-living-room/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-spy-in-your-living-room\n- https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/\n- https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-13)\n- The spy in your living room\n- The expectations of privacy in driverless cars\n- A Dick Smith VZ200 without the Dick Smith (but with a serial port)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-spy-in-your-living-room/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-spy-in-your-living-room\n- https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/\n- https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A Dick Smith VZ200 without the Dick Smith (but with a serial port)；AI is breaking our proxies for expertise；Generating running routes with GPT-6 Astra and ChatGPT Work。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A Dick Smith VZ200 without the Dick Smith (but with a serial port); AI is breaking our proxies for expertise; Generating running routes with GPT-6 Astra and ChatGPT Work.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The spy in your living room；The expectations of privacy in driverless cars；A Dick Smith VZ200 without the Dick Smith (but with a serial port)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The spy in your living room; The expectations of privacy in driverless cars; A Dick Smith VZ200 without the Dick Smith (but with a serial port).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
