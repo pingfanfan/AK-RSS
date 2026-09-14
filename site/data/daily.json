@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T20:44:14Z",
+  "generated_at": "2026-09-14T23:32:55Z",
   "days": [
     {
       "date": "2026-09-14",
-      "total": 14,
+      "total": 15,
       "feeds": [
-        "simonwillison.net (3)",
+        "simonwillison.net (4)",
         "daringfireball.net (2)",
         "berthub.eu (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
@@ -13,37 +13,42 @@
         "johndcook.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · The contagion of fear",
         "simonwillison.net · What blog posts influenced your thinking the most?",
         "daringfireball.net · Apple’s 27.0 OS Updates",
         "wheresyoured.at · AI Is Already In Dangerous Hands",
         "daringfireball.net · Dumpster Fire – Litterbox-Inspired Extension for Firefox",
-        "simonwillison.net · Quoting Laurie Voss",
-        "devblogs.microsoft.com/oldnewthing · Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?"
+        "simonwillison.net · Quoting Laurie Voss"
       ],
       "key_points": [
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates",
-        "AI Is Already In Dangerous Hands",
-        "Dumpster Fire – Litterbox-Inspired Extension for Firefox"
-      ],
-      "key_points_zh": [
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates",
-        "AI Is Already In Dangerous Hands",
-        "Dumpster Fire – Litterbox-Inspired Extension for Firefox"
-      ],
-      "key_points_en": [
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates",
-        "AI Is Already In Dangerous Hands",
-        "Dumpster Fire – Litterbox-Inspired Extension for Firefox"
-      ],
-      "tweet_drafts": [
+        "The contagion of fear",
         "What blog posts influenced your thinking the most?",
         "Apple’s 27.0 OS Updates",
         "AI Is Already In Dangerous Hands"
       ],
+      "key_points_zh": [
+        "The contagion of fear",
+        "What blog posts influenced your thinking the most?",
+        "Apple’s 27.0 OS Updates",
+        "AI Is Already In Dangerous Hands"
+      ],
+      "key_points_en": [
+        "The contagion of fear",
+        "What blog posts influenced your thinking the most?",
+        "Apple’s 27.0 OS Updates",
+        "AI Is Already In Dangerous Hands"
+      ],
+      "tweet_drafts": [
+        "The contagion of fear",
+        "What blog posts influenced your thinking the most?",
+        "Apple’s 27.0 OS Updates"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "The contagion of fear",
+          "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "What blog posts influenced your thinking the most?",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Apple’s 27.0 OS Updates",
           "link": "https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "AI Is Already In Dangerous Hands",
-          "link": "https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/"
         }
       ],
-      "summary_zh": "2026-09-14 技术日报：What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates；AI Is Already In Dangerous Hands。",
-      "summary_en": "Daily brief (2026-09-14): What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates; AI Is Already In Dangerous Hands.",
+      "summary_zh": "2026-09-14 技术日报：The contagion of fear；What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates。",
+      "summary_en": "Daily brief (2026-09-14): The contagion of fear; What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-14 日报】What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates；AI Is Already In Dangerous Hands。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-14): What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates; AI Is Already In Dangerous Hands. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-14 日报】The contagion of fear；What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-14): The contagion of fear; What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-14）\n- What blog posts influenced your thinking the most?\n- Apple’s 27.0 OS Updates\n- AI Is Already In Dangerous Hands\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/14/influences/\n- https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/\n- https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-14)\n- What blog posts influenced your thinking the most?\n- Apple’s 27.0 OS Updates\n- AI Is Already In Dangerous Hands\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/14/influences/\n- https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/\n- https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-14）\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n- Apple’s 27.0 OS Updates\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n- https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-14)\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n- Apple’s 27.0 OS Updates\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n- https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates；AI Is Already In Dangerous Hands。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates; AI Is Already In Dangerous Hands.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The contagion of fear；What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The contagion of fear; What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -397,8 +397,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "borretti.me · The Other Road",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
+        "borretti.me · The Other Road"
       ],
       "key_points": [
         "We own the Glass",
