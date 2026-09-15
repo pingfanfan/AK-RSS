@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-15 10:32:40 UTC
+Generated at: 2026-09-15 15:18:15 UTC
 
-- [Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/) (`seangoedecke.com`)
-- [Shadowing the Standard Library](https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html) (`nesbitt.io`)
-- [alt.time-capsule.reopened](https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website) (`tedium.co`)
-- [Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/) (`pluralistic.net`)
+- [[RSS Club] Sorry for breaking your feed readers!](https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/) (`shkspr.mobi`)
+- [Diamond Rio PMP300](https://dfarq.homeip.net/diamond-rio-pmp300/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-rio-pmp300) (`dfarq.homeip.net`)
+- [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness) (`experimental-history.com`)
