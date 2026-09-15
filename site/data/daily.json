@@ -1,125 +1,130 @@
 {
-  "generated_at": "2026-09-15T15:18:29Z",
+  "generated_at": "2026-09-15T19:06:17Z",
   "days": [
     {
       "date": "2026-09-15",
-      "total": 7,
+      "total": 9,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "experimental-history.com (1)",
+        "johndcook.com (1)",
         "nesbitt.io (1)",
-        "pluralistic.net (1)",
-        "seangoedecke.com (1)",
-        "shkspr.mobi (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’",
+        "johndcook.com · What counts as a large cosine similarity?",
         "experimental-history.com · There is no epidemic of loneliness, but there is an epidemic of scurvy",
         "shkspr.mobi · [RSS Club] Sorry for breaking your feed readers!",
         "dfarq.homeip.net · Diamond Rio PMP300",
-        "nesbitt.io · Shadowing the Standard Library",
-        "pluralistic.net · Pluralistic: Everybody pees (15 Sep 2026)",
-        "tedium.co · alt.time-capsule.reopened"
+        "nesbitt.io · Shadowing the Standard Library"
       ],
       "key_points": [
+        "FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’",
+        "What counts as a large cosine similarity?",
         "There is no epidemic of loneliness, but there is an epidemic of scurvy",
-        "[RSS Club] Sorry for breaking your feed readers!",
-        "Diamond Rio PMP300",
-        "Shadowing the Standard Library"
+        "[RSS Club] Sorry for breaking your feed readers!"
       ],
       "key_points_zh": [
+        "FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’",
+        "What counts as a large cosine similarity?",
         "There is no epidemic of loneliness, but there is an epidemic of scurvy",
-        "[RSS Club] Sorry for breaking your feed readers!",
-        "Diamond Rio PMP300",
-        "Shadowing the Standard Library"
+        "[RSS Club] Sorry for breaking your feed readers!"
       ],
       "key_points_en": [
+        "FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’",
+        "What counts as a large cosine similarity?",
         "There is no epidemic of loneliness, but there is an epidemic of scurvy",
-        "[RSS Club] Sorry for breaking your feed readers!",
-        "Diamond Rio PMP300",
-        "Shadowing the Standard Library"
+        "[RSS Club] Sorry for breaking your feed readers!"
       ],
       "tweet_drafts": [
-        "There is no epidemic of loneliness, but there is an epidemic of scurvy",
-        "[RSS Club] Sorry for breaking your feed readers!",
-        "Diamond Rio PMP300"
+        "FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’",
+        "What counts as a large cosine similarity?",
+        "There is no epidemic of loneliness, but there is an epidemic of scurvy"
       ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’",
+          "link": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "What counts as a large cosine similarity?",
+          "link": "https://www.johndcook.com/blog/2026/09/15/cosine-similarity/"
+        },
         {
           "feed_title": "experimental-history.com",
           "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
           "link": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "[RSS Club] Sorry for breaking your feed readers!",
-          "link": "https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Diamond Rio PMP300",
-          "link": "https://dfarq.homeip.net/diamond-rio-pmp300/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=diamond-rio-pmp300"
         }
       ],
-      "summary_zh": "2026-09-15 技术日报：There is no epidemic of loneliness, but there is an epidemic of scurvy；[RSS Club] Sorry for breaking your feed readers!；Diamond Rio PMP300。",
-      "summary_en": "Daily brief (2026-09-15): There is no epidemic of loneliness, but there is an epidemic of scurvy; [RSS Club] Sorry for breaking your feed readers!; Diamond Rio PMP300.",
+      "summary_zh": "2026-09-15 技术日报：FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’；What counts as a large cosine similarity?；There is no epidemic of loneliness, but there is an epidemic of scurvy。",
+      "summary_en": "Daily brief (2026-09-15): FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’; What counts as a large cosine similarity?; There is no epidemic of loneliness, but there is an epidemic of scurvy.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-15 日报】There is no epidemic of loneliness, but there is an epidemic of scurvy；[RSS Club] Sorry for breaking your feed readers!；Diamond Rio PMP300。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-15): There is no epidemic of loneliness, but there is an epidemic of scurvy; [RSS Club] Sorry for breaking your feed readers!; Diamond Rio PMP300. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-15 日报】FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’；What counts as a large cosine similarity?；There is no epidemic of loneliness, but there is an epidemic of scurvy。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-15): FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’; What counts as a large cosine similarity?; There is no epidemic of loneliness, but there is an epidemic of scurvy. Actionable takeaways included. What would you ship next"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-15）\n- There is no epidemic of loneliness, but there is an epidemic of scurvy\n- [RSS Club] Sorry for breaking your feed readers!\n- Diamond Rio PMP300\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness\n- https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/\n- https://dfarq.homeip.net/diamond-rio-pmp300/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=diamond-rio-pmp300\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-15)\n- There is no epidemic of loneliness, but there is an epidemic of scurvy\n- [RSS Club] Sorry for breaking your feed readers!\n- Diamond Rio PMP300\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness\n- https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/\n- https://dfarq.homeip.net/diamond-rio-pmp300/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=diamond-rio-pmp300\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-15）\n- FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’\n- What counts as a large cosine similarity?\n- There is no epidemic of loneliness, but there is an epidemic of scurvy\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1\n- https://www.johndcook.com/blog/2026/09/15/cosine-similarity/\n- https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-15)\n- FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’\n- What counts as a large cosine similarity?\n- There is no epidemic of loneliness, but there is an epidemic of scurvy\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1\n- https://www.johndcook.com/blog/2026/09/15/cosine-similarity/\n- https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：There is no epidemic of loneliness, but there is an epidemic of scurvy；[RSS Club] Sorry for breaking your feed readers!；Diamond Rio PMP300。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: There is no epidemic of loneliness, but there is an epidemic of scurvy; [RSS Club] Sorry for breaking your feed readers!; Diamond Rio PMP300.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’；What counts as a large cosine similarity?；There is no epidemic of loneliness, but there is an epidemic of scurvy。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’; What counts as a large cosine similarity?; There is no epidemic of loneliness, but there is an epidemic of scurvy.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-09-14",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "simonwillison.net (4)",
         "daringfireball.net (2)",
         "berthub.eu (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · Tag index for Org mode blog",
         "simonwillison.net · The contagion of fear",
         "simonwillison.net · What blog posts influenced your thinking the most?",
         "daringfireball.net · Apple’s 27.0 OS Updates",
         "wheresyoured.at · AI Is Already In Dangerous Hands",
-        "daringfireball.net · Dumpster Fire – Litterbox-Inspired Extension for Firefox",
-        "simonwillison.net · Quoting Laurie Voss"
+        "daringfireball.net · Dumpster Fire – Litterbox-Inspired Extension for Firefox"
       ],
       "key_points": [
-        "The contagion of fear",
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates",
-        "AI Is Already In Dangerous Hands"
-      ],
-      "key_points_zh": [
-        "The contagion of fear",
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates",
-        "AI Is Already In Dangerous Hands"
-      ],
-      "key_points_en": [
-        "The contagion of fear",
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates",
-        "AI Is Already In Dangerous Hands"
-      ],
-      "tweet_drafts": [
+        "Tag index for Org mode blog",
         "The contagion of fear",
         "What blog posts influenced your thinking the most?",
         "Apple’s 27.0 OS Updates"
       ],
+      "key_points_zh": [
+        "Tag index for Org mode blog",
+        "The contagion of fear",
+        "What blog posts influenced your thinking the most?",
+        "Apple’s 27.0 OS Updates"
+      ],
+      "key_points_en": [
+        "Tag index for Org mode blog",
+        "The contagion of fear",
+        "What blog posts influenced your thinking the most?",
+        "Apple’s 27.0 OS Updates"
+      ],
+      "tweet_drafts": [
+        "Tag index for Org mode blog",
+        "The contagion of fear",
+        "What blog posts influenced your thinking the most?"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "Tag index for Org mode blog",
+          "link": "https://entropicthoughts.com/tag-index-for-org-mode-blog"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "The contagion of fear",
@@ -129,27 +134,22 @@
           "feed_title": "simonwillison.net",
           "title": "What blog posts influenced your thinking the most?",
           "link": "https://simonwillison.net/2026/Sep/14/influences/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Apple’s 27.0 OS Updates",
-          "link": "https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/"
         }
       ],
-      "summary_zh": "2026-09-14 技术日报：The contagion of fear；What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates。",
-      "summary_en": "Daily brief (2026-09-14): The contagion of fear; What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates.",
+      "summary_zh": "2026-09-14 技术日报：Tag index for Org mode blog；The contagion of fear；What blog posts influenced your thinking the most?。",
+      "summary_en": "Daily brief (2026-09-14): Tag index for Org mode blog; The contagion of fear; What blog posts influenced your thinking the most?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-14 日报】The contagion of fear；What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-14): The contagion of fear; What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-14 日报】Tag index for Org mode blog；The contagion of fear；What blog posts influenced your thinking the most?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-14): Tag index for Org mode blog; The contagion of fear; What blog posts influenced your thinking the most?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-14）\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n- Apple’s 27.0 OS Updates\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n- https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-14)\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n- Apple’s 27.0 OS Updates\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n- https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-14）\n- Tag index for Org mode blog\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/tag-index-for-org-mode-blog\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-14)\n- Tag index for Org mode blog\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/tag-index-for-org-mode-blog\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The contagion of fear；What blog posts influenced your thinking the most?；Apple’s 27.0 OS Updates。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The contagion of fear; What blog posts influenced your thinking the most?; Apple’s 27.0 OS Updates.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Tag index for Org mode blog；The contagion of fear；What blog posts influenced your thinking the most?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Tag index for Org mode blog; The contagion of fear; What blog posts influenced your thinking the most?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -473,8 +473,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
-        "borretti.me · The Other Road"
+        "borretti.me · The Other Road",
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
       ],
       "key_points": [
         "We own the Glass",
