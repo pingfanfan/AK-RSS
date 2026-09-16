@@ -1,7 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-16 21:48:08 UTC
+Generated at: 2026-09-16 23:55:56 UTC
 
-- [Woz Launches Merch Store](https://x.com/stevewoz/status/2100074363605397658) (`daringfireball.net`)
-- [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) (`micahflee.com`)
-- [The LLMs yearn for the spines](https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/) (`buttondown.com/hillelwayne`)
+- [Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) (`daringfireball.net`)
