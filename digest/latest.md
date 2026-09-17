@@ -1,8 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-17 10:31:11 UTC
+Generated at: 2026-09-17 15:20:24 UTC
 
-- [datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) (`simonwillison.net`)
-- [You can run git on object storage if you re-make packfiles](https://www.tigrisdata.com/blog/objgit-packfiles/) (`xeiaso.net`)
-- [Good Morning, Your Toaster Is Compromised](https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html) (`nesbitt.io`)
-- [Pluralistic: On the sincerity of AI bosses (17 Sep 2026)](https://pluralistic.net/2026/09/17/porque-no-los-dos/) (`pluralistic.net`)
+- [Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?](https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/) (`daringfireball.net`)
+- [Magic statics vs. std::call_once](https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703) (`devblogs.microsoft.com/oldnewthing`)
+- [Phone words](https://www.johndcook.com/blog/2026/09/17/phone-words/) (`johndcook.com`)
+- [How SpaceX Streamlined the Raptor Engine](https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor) (`construction-physics.com`)
+- [Computer Reset, Dallas](https://dfarq.homeip.net/computer-reset-dallas/?utm_source=rss&utm_medium=rss&utm_campaign=computer-reset-dallas) (`dfarq.homeip.net`)
+- [Corporate Sunset](https://feed.tedium.co/link/15204/17464641/cox-charter-spectrum-brand-retirement-analysis) (`tedium.co`)
