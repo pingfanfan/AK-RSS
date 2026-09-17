@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-09-16T23:56:09Z",
+  "generated_at": "2026-09-17T10:31:25Z",
   "days": [
+    {
+      "date": "2026-09-17",
+      "total": 3,
+      "feeds": [
+        "nesbitt.io (1)",
+        "pluralistic.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "nesbitt.io · Good Morning, Your Toaster Is Compromised",
+        "pluralistic.net · Pluralistic: On the sincerity of AI bosses (17 Sep 2026)",
+        "simonwillison.net · datasette 1.0a40"
+      ],
+      "key_points": [
+        "Good Morning, Your Toaster Is Compromised",
+        "Pluralistic: On the sincerity of AI bosses (17 Sep 2026)",
+        "datasette 1.0a40"
+      ],
+      "key_points_zh": [
+        "Good Morning, Your Toaster Is Compromised",
+        "Pluralistic: On the sincerity of AI bosses (17 Sep 2026)",
+        "datasette 1.0a40"
+      ],
+      "key_points_en": [
+        "Good Morning, Your Toaster Is Compromised",
+        "Pluralistic: On the sincerity of AI bosses (17 Sep 2026)",
+        "datasette 1.0a40"
+      ],
+      "tweet_drafts": [
+        "Good Morning, Your Toaster Is Compromised",
+        "Pluralistic: On the sincerity of AI bosses (17 Sep 2026)",
+        "datasette 1.0a40"
+      ],
+      "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Good Morning, Your Toaster Is Compromised",
+          "link": "https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html"
+        },
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: On the sincerity of AI bosses (17 Sep 2026)",
+          "link": "https://pluralistic.net/2026/09/17/porque-no-los-dos/"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette 1.0a40",
+          "link": "https://simonwillison.net/2026/Sep/16/datasette/"
+        }
+      ],
+      "summary_zh": "2026-09-17 技术日报：Good Morning, Your Toaster Is Compromised；Pluralistic: On the sincerity of AI bosses (17 Sep 2026)；datasette 1.0a40。",
+      "summary_en": "Daily brief (2026-09-17): Good Morning, Your Toaster Is Compromised; Pluralistic: On the sincerity of AI bosses (17 Sep 2026); datasette 1.0a40.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-17 日报】Good Morning, Your Toaster Is Compromised；Pluralistic: On the sincerity of AI bosses (17 Sep 2026)；datasette 1.0a40。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-17): Good Morning, Your Toaster Is Compromised; Pluralistic: On the sincerity of AI bosses (17 Sep 2026); datasette 1.0a40. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-17）\n- Good Morning, Your Toaster Is Compromised\n- Pluralistic: On the sincerity of AI bosses (17 Sep 2026)\n- datasette 1.0a40\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html\n- https://pluralistic.net/2026/09/17/porque-no-los-dos/\n- https://simonwillison.net/2026/Sep/16/datasette/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-17)\n- Good Morning, Your Toaster Is Compromised\n- Pluralistic: On the sincerity of AI bosses (17 Sep 2026)\n- datasette 1.0a40\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html\n- https://pluralistic.net/2026/09/17/porque-no-los-dos/\n- https://simonwillison.net/2026/Sep/16/datasette/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Good Morning, Your Toaster Is Compromised；Pluralistic: On the sincerity of AI bosses (17 Sep 2026)；datasette 1.0a40。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Good Morning, Your Toaster Is Compromised; Pluralistic: On the sincerity of AI bosses (17 Sep 2026); datasette 1.0a40.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-09-16",
       "total": 15,
@@ -79,7 +146,7 @@
     },
     {
       "date": "2026-09-15",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "johndcook.com (2)",
         "blog.jim-nielsen.com (1)",
@@ -549,8 +616,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "borretti.me · The Other Road",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
+        "borretti.me · The Other Road"
       ],
       "key_points": [
         "We own the Glass",
@@ -2066,34 +2133,34 @@
       ],
       "highlights": [
         "blog.jim-nielsen.com · A Sloppy Interface Is a Security Liability ￼",
-        "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "jeffgeerling.com · Getting the Steam Deck LCD working on a Raspberry Pi",
+        "devblogs.microsoft.com/oldnewthing · Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "johndcook.com · AI-generated ASCII diagrams",
         "dfarq.homeip.net · Adobe Systems IPO August 20, 1986",
         "nesbitt.io · Issues in the Repo"
       ],
       "key_points": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "key_points_zh": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "key_points_en": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
         "AI-generated ASCII diagrams"
       ],
       "tweet_drafts": [
         "A Sloppy Interface Is a Security Liability ￼",
-        "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
-        "Getting the Steam Deck LCD working on a Raspberry Pi"
+        "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "Reducing C++ template bloat by factoring out the type-dependent portions of the function"
       ],
       "sources": [
         {
@@ -2102,30 +2169,30 @@
           "link": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629"
-        },
-        {
           "feed_title": "jeffgeerling.com",
           "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
           "link": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/"
+        },
+        {
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "Reducing C++ template bloat by factoring out the type-dependent portions of the function",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629"
         }
       ],
-      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。",
-      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.",
+      "summary_zh": "2026-08-20 技术日报：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。",
+      "summary_en": "Daily brief (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.",
       "social_posts": {
         "x": {
-          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi. Actionable takeaways included. What would y"
+          "zh": "【2026-08-20 日报】A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-08-20): A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function. Actionable takeaways included. What would y"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n- Getting the Steam Deck LCD working on a Raspberry Pi\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-08-20）\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-08-20)\n- A Sloppy Interface Is a Security Liability ￼\n- Getting the Steam Deck LCD working on a Raspberry Pi\n- Reducing C++ template bloat by factoring out the type-dependent portions of the function\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/\n- https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/\n- https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Getting the Steam Deck LCD working on a Raspberry Pi；Reducing C++ template bloat by factoring out the type-dependent portions of the function。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Getting the Steam Deck LCD working on a Raspberry Pi; Reducing C++ template bloat by factoring out the type-dependent portions of the function.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：On wrapping a callable in a lambda that just calls it with the same parameters；Asymmetric Agents；MOS Technology founded August 19, 1974。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: On wrapping a callable in a lambda that just calls it with the same parameters; Asymmetric Agents; MOS Technology founded August 19, 1974.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "total": 20,
-      "feeds": [
-        "daringfireball.net (6)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "borretti.me (1)",
-        "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License",
-        "simonwillison.net · Mojo🔥 is now open source",
-        "daringfireball.net · Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings",
-        "buttondown.com/hillelwayne · Vim wants you to control, VSCode wants you to consume",
-        "daringfireball.net · ‘Dickover’ Makes It Into The Guardian",
-        "johndcook.com · The imbalance theorem"
-      ],
-      "key_points": [
-        "Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License",
-        "Mojo🔥 is now open source",
-        "Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings",
-        "Vim wants you to control, VSCode wants you to consume"
-      ],
-      "key_points_zh": [
-        "Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License",
-        "Mojo🔥 is now open source",
-        "Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings",
-        "Vim wants you to control, VSCode wants you to consume"
-      ],
-      "key_points_en": [
-        "Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License",
-        "Mojo🔥 is now open source",
-        "Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings",
-        "Vim wants you to control, VSCode wants you to consume"
-      ],
-      "tweet_drafts": [
-        "Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License",
-        "Mojo🔥 is now open source",
-        "Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License",
-          "link": "https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Mojo🔥 is now open source",
-          "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings",
-          "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/"
-        }
-      ],
-      "summary_zh": "2026-08-18 技术日报：Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License；Mojo🔥 is now open source；Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings。",
-      "summary_en": "Daily brief (2026-08-18): Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License; Mojo🔥 is now open source; Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-18 日报】Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License；Mojo🔥 is now open source；Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-18): Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License; Mojo🔥 is now open source; Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings. Actionable takeaways included. What would you ship next"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-18）\n- Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License\n- Mojo🔥 is now open source\n- Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA\n- https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/\n- https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-18)\n- Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License\n- Mojo🔥 is now open source\n- Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA\n- https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/\n- https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License；Mojo🔥 is now open source；Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License; Mojo🔥 is now open source; Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
