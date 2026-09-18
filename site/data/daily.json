@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-17T22:17:26Z",
+  "generated_at": "2026-09-18T00:30:10Z",
   "days": [
+    {
+      "date": "2026-09-18",
+      "total": 2,
+      "feeds": [
+        "idiallo.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Be alert: targeted attacks on prominent Rustaceans",
+        "idiallo.com · The Front Page of the Internet Is Up for Grabs"
+      ],
+      "key_points": [
+        "Be alert: targeted attacks on prominent Rustaceans",
+        "The Front Page of the Internet Is Up for Grabs"
+      ],
+      "key_points_zh": [
+        "Be alert: targeted attacks on prominent Rustaceans",
+        "The Front Page of the Internet Is Up for Grabs"
+      ],
+      "key_points_en": [
+        "Be alert: targeted attacks on prominent Rustaceans",
+        "The Front Page of the Internet Is Up for Grabs"
+      ],
+      "tweet_drafts": [
+        "Be alert: targeted attacks on prominent Rustaceans",
+        "The Front Page of the Internet Is Up for Grabs"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Be alert: targeted attacks on prominent Rustaceans",
+          "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/"
+        },
+        {
+          "feed_title": "idiallo.com",
+          "title": "The Front Page of the Internet Is Up for Grabs",
+          "link": "https://idiallo.com/byte-size/the-front-page-of-the-internet"
+        }
+      ],
+      "summary_zh": "2026-09-18 技术日报：Be alert: targeted attacks on prominent Rustaceans；The Front Page of the Internet Is Up for Grabs。",
+      "summary_en": "Daily brief (2026-09-18): Be alert: targeted attacks on prominent Rustaceans; The Front Page of the Internet Is Up for Grabs.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-18 日报】Be alert: targeted attacks on prominent Rustaceans；The Front Page of the Internet Is Up for Grabs。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-18): Be alert: targeted attacks on prominent Rustaceans; The Front Page of the Internet Is Up for Grabs. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-18）\n- Be alert: targeted attacks on prominent Rustaceans\n- The Front Page of the Internet Is Up for Grabs\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/\n- https://idiallo.com/byte-size/the-front-page-of-the-internet\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-18)\n- Be alert: targeted attacks on prominent Rustaceans\n- The Front Page of the Internet Is Up for Grabs\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/\n- https://idiallo.com/byte-size/the-front-page-of-the-internet\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Be alert: targeted attacks on prominent Rustaceans；The Front Page of the Internet Is Up for Grabs。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Be alert: targeted attacks on prominent Rustaceans; The Front Page of the Internet Is Up for Grabs.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-09-17",
       "total": 12,
@@ -625,8 +681,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
-        "borretti.me · The Other Road"
+        "borretti.me · The Other Road",
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
       ],
       "key_points": [
         "We own the Glass",
@@ -2202,82 +2258,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：A Sloppy Interface Is a Security Liability ￼；Reducing C++ template bloat by factoring out the type-dependent portions of the function；Getting the Steam Deck LCD working on a Raspberry Pi。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: A Sloppy Interface Is a Security Liability ￼; Reducing C++ template bloat by factoring out the type-dependent portions of the function; Getting the Steam Deck LCD working on a Raspberry Pi.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "total": 9,
-      "feeds": [
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "jeffgeerling.com (1)",
-        "johndcook.com (1)",
-        "lucumr.pocoo.org (1)",
-        "pluralistic.net (1)"
-      ],
-      "highlights": [
-        "devblogs.microsoft.com/oldnewthing · On wrapping a callable in a lambda that just calls it with the same parameters",
-        "shkspr.mobi · Asymmetric Agents",
-        "dfarq.homeip.net · MOS Technology founded August 19, 1974",
-        "pluralistic.net · Pluralistic: The ordinariness of evil (19 Aug 2026)",
-        "jeffgeerling.com · Hands-on with Raspberry Pi's CM5 Programming Jig",
-        "johndcook.com · Big little hexagon"
-      ],
-      "key_points": [
-        "On wrapping a callable in a lambda that just calls it with the same parameters",
-        "Asymmetric Agents",
-        "MOS Technology founded August 19, 1974",
-        "Pluralistic: The ordinariness of evil (19 Aug 2026)"
-      ],
-      "key_points_zh": [
-        "On wrapping a callable in a lambda that just calls it with the same parameters",
-        "Asymmetric Agents",
-        "MOS Technology founded August 19, 1974",
-        "Pluralistic: The ordinariness of evil (19 Aug 2026)"
-      ],
-      "key_points_en": [
-        "On wrapping a callable in a lambda that just calls it with the same parameters",
-        "Asymmetric Agents",
-        "MOS Technology founded August 19, 1974",
-        "Pluralistic: The ordinariness of evil (19 Aug 2026)"
-      ],
-      "tweet_drafts": [
-        "On wrapping a callable in a lambda that just calls it with the same parameters",
-        "Asymmetric Agents",
-        "MOS Technology founded August 19, 1974"
-      ],
-      "sources": [
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "On wrapping a callable in a lambda that just calls it with the same parameters",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Asymmetric Agents",
-          "link": "https://shkspr.mobi/blog/2026/08/asymmetric-agents/"
-        },
-        {
-          "feed_title": "dfarq.homeip.net",
-          "title": "MOS Technology founded August 19, 1974",
-          "link": "https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974"
-        }
-      ],
-      "summary_zh": "2026-08-19 技术日报：On wrapping a callable in a lambda that just calls it with the same parameters；Asymmetric Agents；MOS Technology founded August 19, 1974。",
-      "summary_en": "Daily brief (2026-08-19): On wrapping a callable in a lambda that just calls it with the same parameters; Asymmetric Agents; MOS Technology founded August 19, 1974.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-19 日报】On wrapping a callable in a lambda that just calls it with the same parameters；Asymmetric Agents；MOS Technology founded August 19, 1974。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-19): On wrapping a callable in a lambda that just calls it with the same parameters; Asymmetric Agents; MOS Technology founded August 19, 1974. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-19）\n- On wrapping a callable in a lambda that just calls it with the same parameters\n- Asymmetric Agents\n- MOS Technology founded August 19, 1974\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624\n- https://shkspr.mobi/blog/2026/08/asymmetric-agents/\n- https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-19)\n- On wrapping a callable in a lambda that just calls it with the same parameters\n- Asymmetric Agents\n- MOS Technology founded August 19, 1974\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624\n- https://shkspr.mobi/blog/2026/08/asymmetric-agents/\n- https://dfarq.homeip.net/mos-technology-founded-august-19-1974/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=mos-technology-founded-august-19-1974\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：On wrapping a callable in a lambda that just calls it with the same parameters；Asymmetric Agents；MOS Technology founded August 19, 1974。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: On wrapping a callable in a lambda that just calls it with the same parameters; Asymmetric Agents; MOS Technology founded August 19, 1974.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
