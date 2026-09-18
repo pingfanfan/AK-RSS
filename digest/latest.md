@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-18 10:07:31 UTC
+Generated at: 2026-09-18 14:33:42 UTC
 
-- [Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/) (`seangoedecke.com`)
-- [★ The iPhones 18 Pro](https://daringfireball.net/2026/09/the_iphones_18_pro) (`daringfireball.net`)
-- [Pluralistic: Textured (18 Sep 2026)](https://pluralistic.net/2026/09/18/surprise/) (`pluralistic.net`)
+- [NTP, an atomic clock, and having a great time at the world's largest VCF](https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/) (`jeffgeerling.com`)
+- [How I Vibed a Proof of Conway’s Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/) (`overreacted.io`)
+- [Theatre Review: The School for Wives - at Riverside Studios ★★★★★](https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/) (`shkspr.mobi`)
+- [Retro emojis: We had ’em in the 80s and 90s](https://dfarq.homeip.net/emoticons-in-the-80s-and-90s-we-had-em/?utm_source=rss&utm_medium=rss&utm_campaign=emoticons-in-the-80s-and-90s-we-had-em) (`dfarq.homeip.net`)
