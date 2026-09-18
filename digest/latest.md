@@ -1,8 +1,9 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-18 14:33:42 UTC
+Generated at: 2026-09-18 17:55:50 UTC
 
-- [NTP, an atomic clock, and having a great time at the world's largest VCF](https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/) (`jeffgeerling.com`)
-- [How I Vibed a Proof of Conway’s Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/) (`overreacted.io`)
-- [Theatre Review: The School for Wives - at Riverside Studios ★★★★★](https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/) (`shkspr.mobi`)
-- [Retro emojis: We had ’em in the 80s and 90s](https://dfarq.homeip.net/emoticons-in-the-80s-and-90s-we-had-em/?utm_source=rss&utm_medium=rss&utm_campaign=emoticons-in-the-80s-and-90s-we-had-em) (`dfarq.homeip.net`)
+- [The Creative Spirit of Who Framed Roger Rabbit](https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/) (`simonwillison.net`)
+- [Hollywood Wants the Duo](https://pagesix.com/2026/09/16/hollywood/mysterious-apple-ceo-charms-hollywood-following-big-emmys-night-by-showing-off-new-iphone/) (`daringfireball.net`)
+- [Premium: The Hater's Guide To AI Debt (Part 1)](https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/) (`wheresyoured.at`)
+- [The Lamentable Later Life of Lemmings](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/) (`filfre.net`)
+- [My design bookshelves](https://aresluna.org/my-design-bookshelves) (`aresluna.org`)
