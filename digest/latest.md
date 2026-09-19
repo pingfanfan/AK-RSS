@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-19 21:31:12 UTC
+Generated at: 2026-09-19 23:41:42 UTC
 
-- [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html) (`matklad.github.io`)
+- [datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/) (`simonwillison.net`)
