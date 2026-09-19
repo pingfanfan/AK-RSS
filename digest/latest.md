@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-19 13:31:07 UTC
+Generated at: 2026-09-19 16:50:45 UTC
 
-- [This Week in Package Management: 19 September 2026](https://nesbitt.io/2026/09/19/this-week-in-package-management.html) (`nesbitt.io`)
-- [Reading List 09/19/2026](https://www.construction-physics.com/p/reading-list-09192026) (`construction-physics.com`)
+- [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/) (`simonwillison.net`)
+- [Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc) (`daringfireball.net`)
+- [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/) (`eli.thegreenplace.net`)
