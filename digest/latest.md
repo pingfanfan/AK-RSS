@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-20 21:57:43 UTC
+Generated at: 2026-09-20 23:46:13 UTC
 
-- [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) (`simonwillison.net`)
+- [a new world airport and its baggage](https://computer.rip/2026-09-20-denver-baggage.html) (`computer.rip`)
