@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-20 10:10:31 UTC
+Generated at: 2026-09-20 14:16:57 UTC
 
-- [Grit your teeth and ship it](https://seangoedecke.com/grit-your-teeth-and-ship-it/) (`seangoedecke.com`)
+- [Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆](https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/) (`shkspr.mobi`)
