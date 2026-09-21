@@ -1,8 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-21 11:12:38 UTC
+Generated at: 2026-09-21 17:07:20 UTC
 
-- [System One models like Jev can train their own replacements](https://seangoedecke.com/system-one-models-can-train-their-own-replacements/) (`seangoedecke.com`)
-- [Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly](https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/) (`daringfireball.net`)
-- [The iPhone Model Hall of Fame](https://blog.jim-nielsen.com/2026/iphone-hall-of-fame/) (`blog.jim-nielsen.com`)
-- [NEC V20 CPU: A bit of pep for an XT](https://dfarq.homeip.net/nec-v20-cpu-a-bit-of-pep-for-an-xt/?utm_source=rss&utm_medium=rss&utm_campaign=nec-v20-cpu-a-bit-of-pep-for-an-xt) (`dfarq.homeip.net`)
+- [Matthew Butterick: ‘Big AI to Humanity: Drop Dead’](https://matthewbutterick.com/chron/drop-dead.html) (`daringfireball.net`)
+- [What’s the highest legal FILETIME? Is it safe to use?](https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711) (`devblogs.microsoft.com/oldnewthing`)
+- [Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) (`minimaxir.com`)
+- [Abusing CD-Rs, DVD-Rs, and BD-Rs for Science](https://jayd.ml/2026/09/05/burned-media-torture-test.html) (`jayd.ml`)
+- [Cursed Napster](https://feed.tedium.co/link/15204/17468568/napster-ai-pivot) (`tedium.co`)
+- [Pluralistic: The Claude Delusion (21 Sep 2026)](https://pluralistic.net/2026/09/21/sunsetting/) (`pluralistic.net`)
