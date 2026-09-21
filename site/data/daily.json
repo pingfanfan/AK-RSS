@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-09-21T17:07:35Z",
+  "generated_at": "2026-09-21T21:09:02Z",
   "days": [
     {
       "date": "2026-09-21",
-      "total": 8,
+      "total": 10,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
+        "jeffgeerling.com (1)",
         "minimaxir.com (1)",
-        "pluralistic.net (1)",
-        "tedium.co (1)"
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+        "jeffgeerling.com · Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
         "daringfireball.net · Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
         "minimaxir.com · Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
         "tedium.co · Cursed Napster",
-        "devblogs.microsoft.com/oldnewthing · What’s the highest legal FILETIME? Is it safe to use?",
-        "pluralistic.net · Pluralistic: The Claude Delusion (21 Sep 2026)",
-        "dfarq.homeip.net · NEC V20 CPU: A bit of pep for an XT"
+        "devblogs.microsoft.com/oldnewthing · What’s the highest legal FILETIME? Is it safe to use?"
       ],
       "key_points": [
+        "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+        "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
         "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
-        "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
-        "Cursed Napster",
-        "What’s the highest legal FILETIME? Is it safe to use?"
+        "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster"
       ],
       "key_points_zh": [
+        "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+        "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
         "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
-        "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
-        "Cursed Napster",
-        "What’s the highest legal FILETIME? Is it safe to use?"
+        "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster"
       ],
       "key_points_en": [
+        "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+        "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
         "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
-        "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
-        "Cursed Napster",
-        "What’s the highest legal FILETIME? Is it safe to use?"
+        "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster"
       ],
       "tweet_drafts": [
-        "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
-        "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
-        "Cursed Napster"
+        "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+        "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+        "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’"
       ],
       "sources": [
         {
           "feed_title": "daringfireball.net",
+          "title": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+          "link": "https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+          "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/"
+        },
+        {
+          "feed_title": "daringfireball.net",
           "title": "Matthew Butterick: ‘Big AI to Humanity: Drop Dead’",
           "link": "https://matthewbutterick.com/chron/drop-dead.html"
-        },
-        {
-          "feed_title": "minimaxir.com",
-          "title": "Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster",
-          "link": "https://minimaxir.com/2026/09/agentic-iteration/"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Cursed Napster",
-          "link": "https://feed.tedium.co/link/15204/17468568/napster-ai-pivot"
         }
       ],
-      "summary_zh": "2026-09-21 技术日报：Matthew Butterick: ‘Big AI to Humanity: Drop Dead’；Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster；Cursed Napster。",
-      "summary_en": "Daily brief (2026-09-21): Matthew Butterick: ‘Big AI to Humanity: Drop Dead’; Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster; Cursed Napster.",
+      "summary_zh": "2026-09-21 技术日报：Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan；Raspberry Pi locks down Pi 5 RAM upgrades in firmware；Matthew Butterick: ‘Big AI to Humanity: Drop Dead’。",
+      "summary_en": "Daily brief (2026-09-21): Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan; Raspberry Pi locks down Pi 5 RAM upgrades in firmware; Matthew Butterick: ‘Big AI to Humanity: Drop Dead’.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-21 日报】Matthew Butterick: ‘Big AI to Humanity: Drop Dead’；Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster；Cursed Napster。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-21): Matthew Butterick: ‘Big AI to Humanity: Drop Dead’; Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster; Cursed Napster. Actionable takeaways included. What would you ship next? #A"
+          "zh": "【2026-09-21 日报】Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan；Raspberry Pi locks down Pi 5 RAM upgrades in firmware；Matthew Butterick: ‘Big AI to Humanity: Drop Dead’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-21): Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan; Raspberry Pi locks down Pi 5 RAM upgrades in firmware; Matthew Butterick: ‘Big AI to Humanity: Drop Dead’. Actionable takeaways included. What would you sh"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-21）\n- Matthew Butterick: ‘Big AI to Humanity: Drop Dead’\n- Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster\n- Cursed Napster\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://matthewbutterick.com/chron/drop-dead.html\n- https://minimaxir.com/2026/09/agentic-iteration/\n- https://feed.tedium.co/link/15204/17468568/napster-ai-pivot\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-21)\n- Matthew Butterick: ‘Big AI to Humanity: Drop Dead’\n- Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster\n- Cursed Napster\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://matthewbutterick.com/chron/drop-dead.html\n- https://minimaxir.com/2026/09/agentic-iteration/\n- https://feed.tedium.co/link/15204/17468568/napster-ai-pivot\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-21）\n- Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan\n- Raspberry Pi locks down Pi 5 RAM upgrades in firmware\n- Matthew Butterick: ‘Big AI to Humanity: Drop Dead’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/\n- https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/\n- https://matthewbutterick.com/chron/drop-dead.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-21)\n- Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan\n- Raspberry Pi locks down Pi 5 RAM upgrades in firmware\n- Matthew Butterick: ‘Big AI to Humanity: Drop Dead’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/\n- https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/\n- https://matthewbutterick.com/chron/drop-dead.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Matthew Butterick: ‘Big AI to Humanity: Drop Dead’；Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster；Cursed Napster。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Matthew Butterick: ‘Big AI to Humanity: Drop Dead’; Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster; Cursed Napster.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan；Raspberry Pi locks down Pi 5 RAM upgrades in firmware；Matthew Butterick: ‘Big AI to Humanity: Drop Dead’。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan; Raspberry Pi locks down Pi 5 RAM upgrades in firmware; Matthew Butterick: ‘Big AI to Humanity: Drop Dead’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -94,7 +94,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · Grit your teeth and ship it"
+        "seangoedecke.com · System One models like Jev can train their own replacements"
       ],
       "key_points": [
         "Quoting voxium",
