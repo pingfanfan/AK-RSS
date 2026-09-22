@@ -1,7 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-22 19:00:03 UTC
+Generated at: 2026-09-22 21:47:44 UTC
 
-- [Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/) (`simonwillison.net`)
-- [Siri AI Class-Action Lawsuit Settlement Website Is Now Live](https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/) (`daringfireball.net`)
-- [tokens too cheap to meter](https://jyn.dev/tokens-too-cheap-to-meter/) (`jyn.dev`)
+- [Meta’s New Muse AI Agent Read Jason Aten’s Messages Database](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202) (`daringfireball.net`)
