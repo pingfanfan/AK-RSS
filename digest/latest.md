@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-21 21:08:46 UTC
+Generated at: 2026-09-22 00:11:22 UTC
 
-- [Raspberry Pi locks down Pi 5 RAM upgrades in firmware](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/) (`jeffgeerling.com`)
-- [Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan](https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/) (`daringfireball.net`)
+- [Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/) (`simonwillison.net`)
+- [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/) (`johndcook.com`)
