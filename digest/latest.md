@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-22 21:47:44 UTC
+Generated at: 2026-09-22 23:53:10 UTC
 
-- [Meta’s New Muse AI Agent Read Jason Aten’s Messages Database](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202) (`daringfireball.net`)
+- [Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/) (`simonwillison.net`)
+- [Meta’s Muse Logomark, Designed by Jessica Hische](https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/) (`daringfireball.net`)
