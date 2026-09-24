@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-24 15:32:11 UTC
+Generated at: 2026-09-24 19:32:24 UTC
 
-- [Some thoughts on HTML's proposed previewsrc attribute](https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/) (`shkspr.mobi`)
-- [Motorola born September 25, 1928](https://dfarq.homeip.net/motorola-born-on-this-day-in-1928/?utm_source=rss&utm_medium=rss&utm_campaign=motorola-born-on-this-day-in-1928) (`dfarq.homeip.net`)
+- [‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/) (`daringfireball.net`)
+- [Why is the human body so crap except for the liver?](https://dynomight.net/liver/) (`dynomight.net`)
+- [So yeah it was written using AI](https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/) (`berthub.eu`)
