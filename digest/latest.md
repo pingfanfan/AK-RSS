@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-24 10:35:28 UTC
+Generated at: 2026-09-24 15:32:11 UTC
 
-- [When working with Win32 FILETIME, don’t forget that you have std::chrono now](https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/) (`devblogs.microsoft.com/oldnewthing`)
-- [Package Manager Sandboxing](https://nesbitt.io/2026/09/24/package-manager-sandboxing.html) (`nesbitt.io`)
-- [Shrinking a Fedora virtual disk](https://entropicthoughts.com/shrinking-fedora-virtual-disk) (`entropicthoughts.com`)
+- [Some thoughts on HTML's proposed previewsrc attribute](https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/) (`shkspr.mobi`)
+- [Motorola born September 25, 1928](https://dfarq.homeip.net/motorola-born-on-this-day-in-1928/?utm_source=rss&utm_medium=rss&utm_campaign=motorola-born-on-this-day-in-1928) (`dfarq.homeip.net`)
