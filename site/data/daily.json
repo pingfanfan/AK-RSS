@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-09-23T22:23:09Z",
+  "generated_at": "2026-09-24T00:37:13Z",
   "days": [
+    {
+      "date": "2026-09-24",
+      "total": 1,
+      "feeds": [
+        "daringfireball.net (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Changes to App Tracking Transparency in the E.U."
+      ],
+      "key_points": [
+        "Changes to App Tracking Transparency in the E.U"
+      ],
+      "key_points_zh": [
+        "Changes to App Tracking Transparency in the E.U"
+      ],
+      "key_points_en": [
+        "Changes to App Tracking Transparency in the E.U"
+      ],
+      "tweet_drafts": [
+        "Changes to App Tracking Transparency in the E.U"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Changes to App Tracking Transparency in the E.U.",
+          "link": "https://developer.apple.com/app-store/user-privacy-and-data-use/"
+        }
+      ],
+      "summary_zh": "2026-09-24 技术日报：Changes to App Tracking Transparency in the E.U。",
+      "summary_en": "Daily brief (2026-09-24): Changes to App Tracking Transparency in the E.U.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-24 日报】Changes to App Tracking Transparency in the E.U。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-24): Changes to App Tracking Transparency in the E.U. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-24）\n- Changes to App Tracking Transparency in the E.U\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://developer.apple.com/app-store/user-privacy-and-data-use/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-24)\n- Changes to App Tracking Transparency in the E.U\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://developer.apple.com/app-store/user-privacy-and-data-use/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Changes to App Tracking Transparency in the E.U。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Changes to App Tracking Transparency in the E.U.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-09-23",
       "total": 11,
@@ -246,7 +291,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · Grit your teeth and ship it"
+        "seangoedecke.com · System One models like Jev can train their own replacements"
       ],
       "key_points": [
         "Quoting voxium",
@@ -1081,8 +1126,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "borretti.me · The Other Road",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
+        "borretti.me · The Other Road"
       ],
       "key_points": [
         "We own the Glass",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：POSIWID: The Purpose of a System Is What It Does；What is the quality of software that AI writes?；In the product end game, every change carries significant risk, episode 2。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: POSIWID: The Purpose of a System Is What It Does; What is the quality of software that AI writes?; In the product end game, every change carries significant risk, episode 2.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-25",
-      "total": 22,
-      "feeds": [
-        "daringfireball.net (4)",
-        "blog.jim-nielsen.com (1)",
-        "borretti.me (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · EVE Online: The Move to Python 3 Begins!",
-        "daringfireball.net · XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp",
-        "troyhunt.com · A Cautionary Tale About Data Breach Claims, Verification and Carhartt",
-        "jeffgeerling.com · Debugging Ubiquiti's 5G Backup on AT\u0026T",
-        "blog.jim-nielsen.com · Have You Heard the Good News About Microlighter?",
-        "wheresyoured.at · The AI Hater's Manifesto"
-      ],
-      "key_points": [
-        "EVE Online: The Move to Python 3 Begins!",
-        "XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp",
-        "A Cautionary Tale About Data Breach Claims, Verification and Carhartt",
-        "Debugging Ubiquiti's 5G Backup on AT\u0026T"
-      ],
-      "key_points_zh": [
-        "EVE Online: The Move to Python 3 Begins!",
-        "XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp",
-        "A Cautionary Tale About Data Breach Claims, Verification and Carhartt",
-        "Debugging Ubiquiti's 5G Backup on AT\u0026T"
-      ],
-      "key_points_en": [
-        "EVE Online: The Move to Python 3 Begins!",
-        "XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp",
-        "A Cautionary Tale About Data Breach Claims, Verification and Carhartt",
-        "Debugging Ubiquiti's 5G Backup on AT\u0026T"
-      ],
-      "tweet_drafts": [
-        "EVE Online: The Move to Python 3 Begins!",
-        "XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp",
-        "A Cautionary Tale About Data Breach Claims, Verification and Carhartt"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "EVE Online: The Move to Python 3 Begins!",
-          "link": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp",
-          "link": "https://xcancel.com/"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "A Cautionary Tale About Data Breach Claims, Verification and Carhartt",
-          "link": "https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/"
-        }
-      ],
-      "summary_zh": "2026-08-25 技术日报：EVE Online: The Move to Python 3 Begins!；XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp；A Cautionary Tale About Data Breach Claims, Verification and Carhartt。",
-      "summary_en": "Daily brief (2026-08-25): EVE Online: The Move to Python 3 Begins!; XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp; A Cautionary Tale About Data Breach Claims, Verification and Carhartt.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-25 日报】EVE Online: The Move to Python 3 Begins!；XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp；A Cautionary Tale About Data Breach Claims, Verification and Carhartt。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-25): EVE Online: The Move to Python 3 Begins!; XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp; A Cautionary Tale About Data Breach Claims, Verification and Carhartt. Actionable takeaways inc"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-25）\n- EVE Online: The Move to Python 3 Begins!\n- XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp\n- A Cautionary Tale About Data Breach Claims, Verification and Carhartt\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/\n- https://xcancel.com/\n- https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-25)\n- EVE Online: The Move to Python 3 Begins!\n- XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp\n- A Cautionary Tale About Data Breach Claims, Verification and Carhartt\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/\n- https://xcancel.com/\n- https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：EVE Online: The Move to Python 3 Begins!；XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp；A Cautionary Tale About Data Breach Claims, Verification and Carhartt。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: EVE Online: The Move to Python 3 Begins!; XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp; A Cautionary Tale About Data Breach Claims, Verification and Carhartt.\nI turned them into an action-ready daily brief you can use right away"
         }
       }
     }
