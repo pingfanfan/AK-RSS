@@ -1,92 +1,103 @@
 {
-  "generated_at": "2026-09-24T00:37:13Z",
+  "generated_at": "2026-09-24T10:35:42Z",
   "days": [
     {
       "date": "2026-09-24",
-      "total": 1,
+      "total": 2,
       "feeds": [
-        "daringfireball.net (1)"
+        "daringfireball.net (1)",
+        "nesbitt.io (1)"
       ],
       "highlights": [
+        "nesbitt.io · Package Manager Sandboxing",
         "daringfireball.net · Changes to App Tracking Transparency in the E.U."
       ],
       "key_points": [
+        "Package Manager Sandboxing",
         "Changes to App Tracking Transparency in the E.U"
       ],
       "key_points_zh": [
+        "Package Manager Sandboxing",
         "Changes to App Tracking Transparency in the E.U"
       ],
       "key_points_en": [
+        "Package Manager Sandboxing",
         "Changes to App Tracking Transparency in the E.U"
       ],
       "tweet_drafts": [
+        "Package Manager Sandboxing",
         "Changes to App Tracking Transparency in the E.U"
       ],
       "sources": [
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Manager Sandboxing",
+          "link": "https://nesbitt.io/2026/09/24/package-manager-sandboxing.html"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Changes to App Tracking Transparency in the E.U.",
           "link": "https://developer.apple.com/app-store/user-privacy-and-data-use/"
         }
       ],
-      "summary_zh": "2026-09-24 技术日报：Changes to App Tracking Transparency in the E.U。",
-      "summary_en": "Daily brief (2026-09-24): Changes to App Tracking Transparency in the E.U.",
+      "summary_zh": "2026-09-24 技术日报：Package Manager Sandboxing；Changes to App Tracking Transparency in the E.U。",
+      "summary_en": "Daily brief (2026-09-24): Package Manager Sandboxing; Changes to App Tracking Transparency in the E.U.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-24 日报】Changes to App Tracking Transparency in the E.U。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-24): Changes to App Tracking Transparency in the E.U. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-24 日报】Package Manager Sandboxing；Changes to App Tracking Transparency in the E.U。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-24): Package Manager Sandboxing; Changes to App Tracking Transparency in the E.U. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-24）\n- Changes to App Tracking Transparency in the E.U\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://developer.apple.com/app-store/user-privacy-and-data-use/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-24)\n- Changes to App Tracking Transparency in the E.U\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://developer.apple.com/app-store/user-privacy-and-data-use/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-24）\n- Package Manager Sandboxing\n- Changes to App Tracking Transparency in the E.U\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://nesbitt.io/2026/09/24/package-manager-sandboxing.html\n- https://developer.apple.com/app-store/user-privacy-and-data-use/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-24)\n- Package Manager Sandboxing\n- Changes to App Tracking Transparency in the E.U\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://nesbitt.io/2026/09/24/package-manager-sandboxing.html\n- https://developer.apple.com/app-store/user-privacy-and-data-use/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Changes to App Tracking Transparency in the E.U。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Changes to App Tracking Transparency in the E.U.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Package Manager Sandboxing；Changes to App Tracking Transparency in the E.U。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Package Manager Sandboxing; Changes to App Tracking Transparency in the E.U.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-09-23",
-      "total": 11,
+      "total": 13,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (3)",
         "blog.jim-nielsen.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
-        "steveblank.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
         "daringfireball.net · ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
+        "entropicthoughts.com · Shrinking a Fedora virtual disk",
         "blog.jim-nielsen.com · Make Money to Make More Websites",
         "daringfireball.net · App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev",
         "simonwillison.net · Gemini 3.8 TTS Playground",
-        "daringfireball.net · Super Intelligence, Indeed",
-        "johndcook.com · Navigation with only addition, subtraction, and tables"
+        "daringfireball.net · Super Intelligence, Indeed"
       ],
       "key_points": [
         "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
+        "Shrinking a Fedora virtual disk",
         "Make Money to Make More Websites",
-        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev",
-        "Gemini 3.8 TTS Playground"
+        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev"
       ],
       "key_points_zh": [
         "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
+        "Shrinking a Fedora virtual disk",
         "Make Money to Make More Websites",
-        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev",
-        "Gemini 3.8 TTS Playground"
+        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev"
       ],
       "key_points_en": [
         "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
+        "Shrinking a Fedora virtual disk",
         "Make Money to Make More Websites",
-        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev",
-        "Gemini 3.8 TTS Playground"
+        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev"
       ],
       "tweet_drafts": [
         "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
-        "Make Money to Make More Websites",
-        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev"
+        "Shrinking a Fedora virtual disk",
+        "Make Money to Make More Websites"
       ],
       "sources": [
         {
@@ -95,30 +106,30 @@
           "link": "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a"
         },
         {
+          "feed_title": "entropicthoughts.com",
+          "title": "Shrinking a Fedora virtual disk",
+          "link": "https://entropicthoughts.com/shrinking-fedora-virtual-disk"
+        },
+        {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Make Money to Make More Websites",
           "link": "https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev",
-          "link": "https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837"
         }
       ],
-      "summary_zh": "2026-09-23 技术日报：★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Make Money to Make More Websites；App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev。",
-      "summary_en": "Daily brief (2026-09-23): ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Make Money to Make More Websites; App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev.",
+      "summary_zh": "2026-09-23 技术日报：★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Shrinking a Fedora virtual disk；Make Money to Make More Websites。",
+      "summary_en": "Daily brief (2026-09-23): ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Shrinking a Fedora virtual disk; Make Money to Make More Websites.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-23 日报】★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Make Money to Make More Websites；App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-23): ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Make Money to Make More Websites; App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev. Actionable takeaways included. What would you ship next? #AI"
+          "zh": "【2026-09-23 日报】★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Shrinking a Fedora virtual disk；Make Money to Make More Websites。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-23): ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Shrinking a Fedora virtual disk; Make Money to Make More Websites. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-23）\n- ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally\n- Make Money to Make More Websites\n- App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a\n- https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/\n- https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-23)\n- ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally\n- Make Money to Make More Websites\n- App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a\n- https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/\n- https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-23）\n- ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally\n- Shrinking a Fedora virtual disk\n- Make Money to Make More Websites\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a\n- https://entropicthoughts.com/shrinking-fedora-virtual-disk\n- https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-23)\n- ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally\n- Shrinking a Fedora virtual disk\n- Make Money to Make More Websites\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a\n- https://entropicthoughts.com/shrinking-fedora-virtual-disk\n- https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Make Money to Make More Websites；App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Make Money to Make More Websites; App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Shrinking a Fedora virtual disk；Make Money to Make More Websites。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Shrinking a Fedora virtual disk; Make Money to Make More Websites.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -291,7 +302,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · System One models like Jev can train their own replacements"
+        "seangoedecke.com · Grit your teeth and ship it"
       ],
       "key_points": [
         "Quoting voxium",
@@ -1126,8 +1137,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
-        "borretti.me · The Other Road"
+        "borretti.me · The Other Road",
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
       ],
       "key_points": [
         "We own the Glass",
