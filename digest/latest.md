@@ -1,8 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-25 19:36:29 UTC
+Generated at: 2026-09-25 22:52:07 UTC
 
-- [Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/) (`simonwillison.net`)
-- [★ I’ll Wait](https://daringfireball.net/2026/09/ill_wait) (`daringfireball.net`)
-- [Using an LLM to Automate the Process of Archiving New macOS App Icons](https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/) (`blog.jim-nielsen.com`)
-- [Pluralistic: Itch scratching (25 Sep 2026)](https://pluralistic.net/2026/09/25/other-people/) (`pluralistic.net`)
+- [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/) (`krebsonsecurity.com`)
+- [Stock UI in MacOS 27 Eschews Clarity](https://mastodon.design/@thibault/117320401426286497) (`daringfireball.net`)
