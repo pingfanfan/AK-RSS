@@ -1,16 +1,83 @@
 {
-  "generated_at": "2026-09-25T22:52:21Z",
+  "generated_at": "2026-09-26T10:23:00Z",
   "days": [
     {
+      "date": "2026-09-26",
+      "total": 3,
+      "feeds": [
+        "construction-physics.com (1)",
+        "daringfireball.net (1)",
+        "seangoedecke.com (1)"
+      ],
+      "highlights": [
+        "construction-physics.com · Reading List 2026-09-26",
+        "seangoedecke.com · Advice to a beginning software engineer",
+        "daringfireball.net · Mr. Choyka Is Apparently Doing Well"
+      ],
+      "key_points": [
+        "Reading List 2026-09-26",
+        "Advice to a beginning software engineer",
+        "Mr. Choyka Is Apparently Doing Well"
+      ],
+      "key_points_zh": [
+        "Reading List 2026-09-26",
+        "Advice to a beginning software engineer",
+        "Mr. Choyka Is Apparently Doing Well"
+      ],
+      "key_points_en": [
+        "Reading List 2026-09-26",
+        "Advice to a beginning software engineer",
+        "Mr. Choyka Is Apparently Doing Well"
+      ],
+      "tweet_drafts": [
+        "Reading List 2026-09-26",
+        "Advice to a beginning software engineer",
+        "Mr. Choyka Is Apparently Doing Well"
+      ],
+      "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Reading List 2026-09-26",
+          "link": "https://www.construction-physics.com/p/reading-list-2026-09-26"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "Advice to a beginning software engineer",
+          "link": "https://seangoedecke.com/advice-to-a-beginning-software-engineer/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Mr. Choyka Is Apparently Doing Well",
+          "link": "https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/"
+        }
+      ],
+      "summary_zh": "2026-09-26 技术日报：Reading List 2026-09-26；Advice to a beginning software engineer；Mr. Choyka Is Apparently Doing Well。",
+      "summary_en": "Daily brief (2026-09-26): Reading List 2026-09-26; Advice to a beginning software engineer; Mr. Choyka Is Apparently Doing Well.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-26 日报】Reading List 2026-09-26；Advice to a beginning software engineer；Mr. Choyka Is Apparently Doing Well。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-26): Reading List 2026-09-26; Advice to a beginning software engineer; Mr. Choyka Is Apparently Doing Well. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-26）\n- Reading List 2026-09-26\n- Advice to a beginning software engineer\n- Mr. Choyka Is Apparently Doing Well\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/reading-list-2026-09-26\n- https://seangoedecke.com/advice-to-a-beginning-software-engineer/\n- https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-26)\n- Reading List 2026-09-26\n- Advice to a beginning software engineer\n- Mr. Choyka Is Apparently Doing Well\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/reading-list-2026-09-26\n- https://seangoedecke.com/advice-to-a-beginning-software-engineer/\n- https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Reading List 2026-09-26；Advice to a beginning software engineer；Mr. Choyka Is Apparently Doing Well。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Reading List 2026-09-26; Advice to a beginning software engineer; Mr. Choyka Is Apparently Doing Well.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-09-25",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (2)",
         "blog.jim-nielsen.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "jeffgeerling.com (1)",
-        "johndcook.com (1)"
+        "jeffgeerling.com (1)"
       ],
       "highlights": [
         "krebsonsecurity.com · U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions",
@@ -398,7 +465,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · Grit your teeth and ship it"
+        "computer.rip · a new world airport and its baggage"
       ],
       "key_points": [
         "Quoting voxium",
@@ -1233,8 +1300,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
-        "borretti.me · The Other Road"
+        "borretti.me · The Other Road",
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
       ],
       "key_points": [
         "We own the Glass",
@@ -2202,82 +2269,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Just a rumour of a bug is enough to find a security exploit these days；Apple Announces Price Increase for Apple TV and Apple One Subscriptions；‘Not Sure How You Own Canada by Deleting Your Own History’。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Just a rumour of a bug is enough to find a security exploit these days; Apple Announces Price Increase for Apple TV and Apple One Subscriptions; ‘Not Sure How You Own Canada by Deleting Your Own History’.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-27",
-      "total": 16,
-      "feeds": [
-        "simonwillison.net (2)",
-        "berthub.eu (1)",
-        "blog.jim-nielsen.com (1)",
-        "construction-physics.com (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Breaking Claude Code Opus 5 Auto Mode",
-        "daringfireball.net · Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
-        "micahflee.com · Sandboxing coding agents",
-        "blog.jim-nielsen.com · A Calendar View For My Blog",
-        "devblogs.microsoft.com/oldnewthing · On forcing all derived classes to implement a specific non-virtual method, part 1",
-        "johndcook.com · Second solutions"
-      ],
-      "key_points": [
-        "Breaking Claude Code Opus 5 Auto Mode",
-        "Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
-        "Sandboxing coding agents",
-        "A Calendar View For My Blog"
-      ],
-      "key_points_zh": [
-        "Breaking Claude Code Opus 5 Auto Mode",
-        "Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
-        "Sandboxing coding agents",
-        "A Calendar View For My Blog"
-      ],
-      "key_points_en": [
-        "Breaking Claude Code Opus 5 Auto Mode",
-        "Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
-        "Sandboxing coding agents",
-        "A Calendar View For My Blog"
-      ],
-      "tweet_drafts": [
-        "Breaking Claude Code Opus 5 Auto Mode",
-        "Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
-        "Sandboxing coding agents"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Breaking Claude Code Opus 5 Auto Mode",
-          "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Afterglow — Classic After Dark Screen Savers on Today’s MacOS",
-          "link": "https://morphing.cloud/afterglow/"
-        },
-        {
-          "feed_title": "micahflee.com",
-          "title": "Sandboxing coding agents",
-          "link": "https://micahflee.com/sandboxing-coding-agents/"
-        }
-      ],
-      "summary_zh": "2026-08-27 技术日报：Breaking Claude Code Opus 5 Auto Mode；Afterglow — Classic After Dark Screen Savers on Today’s MacOS；Sandboxing coding agents。",
-      "summary_en": "Daily brief (2026-08-27): Breaking Claude Code Opus 5 Auto Mode; Afterglow — Classic After Dark Screen Savers on Today’s MacOS; Sandboxing coding agents.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-27 日报】Breaking Claude Code Opus 5 Auto Mode；Afterglow — Classic After Dark Screen Savers on Today’s MacOS；Sandboxing coding agents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-27): Breaking Claude Code Opus 5 Auto Mode; Afterglow — Classic After Dark Screen Savers on Today’s MacOS; Sandboxing coding agents. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-27）\n- Breaking Claude Code Opus 5 Auto Mode\n- Afterglow — Classic After Dark Screen Savers on Today’s MacOS\n- Sandboxing coding agents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/\n- https://morphing.cloud/afterglow/\n- https://micahflee.com/sandboxing-coding-agents/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-27)\n- Breaking Claude Code Opus 5 Auto Mode\n- Afterglow — Classic After Dark Screen Savers on Today’s MacOS\n- Sandboxing coding agents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/\n- https://morphing.cloud/afterglow/\n- https://micahflee.com/sandboxing-coding-agents/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Breaking Claude Code Opus 5 Auto Mode；Afterglow — Classic After Dark Screen Savers on Today’s MacOS；Sandboxing coding agents。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Breaking Claude Code Opus 5 Auto Mode; Afterglow — Classic After Dark Screen Savers on Today’s MacOS; Sandboxing coding agents.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
