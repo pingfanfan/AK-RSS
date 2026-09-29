@@ -1,47 +1,103 @@
 {
-  "generated_at": "2026-09-29T00:00:30Z",
+  "generated_at": "2026-09-29T11:39:41Z",
   "days": [
     {
+      "date": "2026-09-29",
+      "total": 2,
+      "feeds": [
+        "daringfireball.net (1)",
+        "dfarq.homeip.net (1)"
+      ],
+      "highlights": [
+        "dfarq.homeip.net · When Internet Explorer passed Netscape for the first time",
+        "daringfireball.net · Bastardica"
+      ],
+      "key_points": [
+        "When Internet Explorer passed Netscape for the first time",
+        "Bastardica"
+      ],
+      "key_points_zh": [
+        "When Internet Explorer passed Netscape for the first time",
+        "Bastardica"
+      ],
+      "key_points_en": [
+        "When Internet Explorer passed Netscape for the first time",
+        "Bastardica"
+      ],
+      "tweet_drafts": [
+        "When Internet Explorer passed Netscape for the first time",
+        "Bastardica"
+      ],
+      "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "When Internet Explorer passed Netscape for the first time",
+          "link": "https://dfarq.homeip.net/when-internet-explorer-passed-netscape-for-the-first-time/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-internet-explorer-passed-netscape-for-the-first-time"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Bastardica",
+          "link": "https://bastardica.mitpit.com/"
+        }
+      ],
+      "summary_zh": "2026-09-29 技术日报：When Internet Explorer passed Netscape for the first time；Bastardica。",
+      "summary_en": "Daily brief (2026-09-29): When Internet Explorer passed Netscape for the first time; Bastardica.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-29 日报】When Internet Explorer passed Netscape for the first time；Bastardica。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-29): When Internet Explorer passed Netscape for the first time; Bastardica. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-29）\n- When Internet Explorer passed Netscape for the first time\n- Bastardica\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/when-internet-explorer-passed-netscape-for-the-first-time/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-internet-explorer-passed-netscape-for-the-first-time\n- https://bastardica.mitpit.com/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-29)\n- When Internet Explorer passed Netscape for the first time\n- Bastardica\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/when-internet-explorer-passed-netscape-for-the-first-time/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=when-internet-explorer-passed-netscape-for-the-first-time\n- https://bastardica.mitpit.com/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：When Internet Explorer passed Netscape for the first time；Bastardica。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: When Internet Explorer passed Netscape for the first time; Bastardica.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-09-28",
-      "total": 15,
+      "total": 18,
       "feeds": [
         "simonwillison.net (4)",
         "daringfireball.net (2)",
         "berthub.eu (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "it-notes.dragas.net (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
         "daringfireball.net · Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
         "simonwillison.net · Claude Sonnet 5.5",
+        "entropicthoughts.com · Donating to open source",
         "simonwillison.net · Quoting @joedaroo",
         "daringfireball.net · ★ Spitballing Predictions for Apple’s October",
-        "pluralistic.net · Pluralistic: Priceful (28 Sep 2026)",
-        "krebsonsecurity.com · Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation"
+        "pluralistic.net · Pluralistic: Priceful (28 Sep 2026)"
       ],
       "key_points": [
         "Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
         "Claude Sonnet 5.5",
-        "Quoting @joedaroo",
-        "★ Spitballing Predictions for Apple’s October"
+        "Donating to open source",
+        "Quoting @joedaroo"
       ],
       "key_points_zh": [
         "Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
         "Claude Sonnet 5.5",
-        "Quoting @joedaroo",
-        "★ Spitballing Predictions for Apple’s October"
+        "Donating to open source",
+        "Quoting @joedaroo"
       ],
       "key_points_en": [
         "Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
         "Claude Sonnet 5.5",
-        "Quoting @joedaroo",
-        "★ Spitballing Predictions for Apple’s October"
+        "Donating to open source",
+        "Quoting @joedaroo"
       ],
       "tweet_drafts": [
         "Jeremy Stern’s Profile of Mark Zuckerberg for Colossus",
         "Claude Sonnet 5.5",
-        "Quoting @joedaroo"
+        "Donating to open source"
       ],
       "sources": [
         {
@@ -55,25 +111,25 @@
           "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting @joedaroo",
-          "link": "https://simonwillison.net/2026/Sep/28/joedaroo/"
+          "feed_title": "entropicthoughts.com",
+          "title": "Donating to open source",
+          "link": "https://entropicthoughts.com/open-source-donation"
         }
       ],
-      "summary_zh": "2026-09-28 技术日报：Jeremy Stern’s Profile of Mark Zuckerberg for Colossus；Claude Sonnet 5.5；Quoting @joedaroo。",
-      "summary_en": "Daily brief (2026-09-28): Jeremy Stern’s Profile of Mark Zuckerberg for Colossus; Claude Sonnet 5.5; Quoting @joedaroo.",
+      "summary_zh": "2026-09-28 技术日报：Jeremy Stern’s Profile of Mark Zuckerberg for Colossus；Claude Sonnet 5.5；Donating to open source。",
+      "summary_en": "Daily brief (2026-09-28): Jeremy Stern’s Profile of Mark Zuckerberg for Colossus; Claude Sonnet 5.5; Donating to open source.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-28 日报】Jeremy Stern’s Profile of Mark Zuckerberg for Colossus；Claude Sonnet 5.5；Quoting @joedaroo。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-28): Jeremy Stern’s Profile of Mark Zuckerberg for Colossus; Claude Sonnet 5.5; Quoting @joedaroo. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-28 日报】Jeremy Stern’s Profile of Mark Zuckerberg for Colossus；Claude Sonnet 5.5；Donating to open source。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-28): Jeremy Stern’s Profile of Mark Zuckerberg for Colossus; Claude Sonnet 5.5; Donating to open source. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-28）\n- Jeremy Stern’s Profile of Mark Zuckerberg for Colossus\n- Claude Sonnet 5.5\n- Quoting @joedaroo\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://colossus.com/article/mark-zuckerberg-profile/\n- https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\n- https://simonwillison.net/2026/Sep/28/joedaroo/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-28)\n- Jeremy Stern’s Profile of Mark Zuckerberg for Colossus\n- Claude Sonnet 5.5\n- Quoting @joedaroo\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://colossus.com/article/mark-zuckerberg-profile/\n- https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\n- https://simonwillison.net/2026/Sep/28/joedaroo/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-28）\n- Jeremy Stern’s Profile of Mark Zuckerberg for Colossus\n- Claude Sonnet 5.5\n- Donating to open source\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://colossus.com/article/mark-zuckerberg-profile/\n- https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\n- https://entropicthoughts.com/open-source-donation\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-28)\n- Jeremy Stern’s Profile of Mark Zuckerberg for Colossus\n- Claude Sonnet 5.5\n- Donating to open source\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://colossus.com/article/mark-zuckerberg-profile/\n- https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\n- https://entropicthoughts.com/open-source-donation\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Jeremy Stern’s Profile of Mark Zuckerberg for Colossus；Claude Sonnet 5.5；Quoting @joedaroo。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Jeremy Stern’s Profile of Mark Zuckerberg for Colossus; Claude Sonnet 5.5; Quoting @joedaroo.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Jeremy Stern’s Profile of Mark Zuckerberg for Colossus；Claude Sonnet 5.5；Donating to open source。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Jeremy Stern’s Profile of Mark Zuckerberg for Colossus; Claude Sonnet 5.5; Donating to open source.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -624,7 +680,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · System One models like Jev can train their own replacements"
+        "computer.rip · a new world airport and its baggage"
       ],
       "key_points": [
         "Quoting voxium",
@@ -2200,82 +2256,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Claude comment detection；The rise and fall of agent civilizations；My Experience Has Nuance, Yours Is a Data Point。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Claude comment detection; The rise and fall of agent civilizations; My Experience Has Nuance, Yours Is a Data Point.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-30",
-      "total": 10,
-      "feeds": [
-        "borretti.me (1)",
-        "dfarq.homeip.net (1)",
-        "ericmigi.com (1)",
-        "jeffgeerling.com (1)",
-        "miguelgrinberg.com (1)",
-        "righto.com (1)"
-      ],
-      "highlights": [
-        "jeffgeerling.com · Before NTP there were Time and Daytime",
-        "xania.org · Recreating a 2010 Experiment",
-        "righto.com · Cores in space: The core memory module from a 1980 Spacelab computer",
-        "miguelgrinberg.com · Forgejo Hack #2: Integration with Read The Docs",
-        "borretti.me · On Inevitability",
-        "shkspr.mobi · ActivityBot is the recipient of an NLnet grant!"
-      ],
-      "key_points": [
-        "Before NTP there were Time and Daytime",
-        "Recreating a 2010 Experiment",
-        "Cores in space: The core memory module from a 1980 Spacelab computer",
-        "Forgejo Hack #2: Integration with Read The Docs"
-      ],
-      "key_points_zh": [
-        "Before NTP there were Time and Daytime",
-        "Recreating a 2010 Experiment",
-        "Cores in space: The core memory module from a 1980 Spacelab computer",
-        "Forgejo Hack #2: Integration with Read The Docs"
-      ],
-      "key_points_en": [
-        "Before NTP there were Time and Daytime",
-        "Recreating a 2010 Experiment",
-        "Cores in space: The core memory module from a 1980 Spacelab computer",
-        "Forgejo Hack #2: Integration with Read The Docs"
-      ],
-      "tweet_drafts": [
-        "Before NTP there were Time and Daytime",
-        "Recreating a 2010 Experiment",
-        "Cores in space: The core memory module from a 1980 Spacelab computer"
-      ],
-      "sources": [
-        {
-          "feed_title": "jeffgeerling.com",
-          "title": "Before NTP there were Time and Daytime",
-          "link": "https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/"
-        },
-        {
-          "feed_title": "xania.org",
-          "title": "Recreating a 2010 Experiment",
-          "link": "http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed\u0026utm_medium=rss"
-        },
-        {
-          "feed_title": "righto.com",
-          "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-          "link": "http://www.righto.com/2026/08/spacelab-core-memory.html"
-        }
-      ],
-      "summary_zh": "2026-08-30 技术日报：Before NTP there were Time and Daytime；Recreating a 2010 Experiment；Cores in space: The core memory module from a 1980 Spacelab computer。",
-      "summary_en": "Daily brief (2026-08-30): Before NTP there were Time and Daytime; Recreating a 2010 Experiment; Cores in space: The core memory module from a 1980 Spacelab computer.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-30 日报】Before NTP there were Time and Daytime；Recreating a 2010 Experiment；Cores in space: The core memory module from a 1980 Spacelab computer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-30): Before NTP there were Time and Daytime; Recreating a 2010 Experiment; Cores in space: The core memory module from a 1980 Spacelab computer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-30）\n- Before NTP there were Time and Daytime\n- Recreating a 2010 Experiment\n- Cores in space: The core memory module from a 1980 Spacelab computer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/\n- http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed\u0026utm_medium=rss\n- http://www.righto.com/2026/08/spacelab-core-memory.html\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-30)\n- Before NTP there were Time and Daytime\n- Recreating a 2010 Experiment\n- Cores in space: The core memory module from a 1980 Spacelab computer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/\n- http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed\u0026utm_medium=rss\n- http://www.righto.com/2026/08/spacelab-core-memory.html\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Before NTP there were Time and Daytime；Recreating a 2010 Experiment；Cores in space: The core memory module from a 1980 Spacelab computer。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Before NTP there were Time and Daytime; Recreating a 2010 Experiment; Cores in space: The core memory module from a 1980 Spacelab computer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
