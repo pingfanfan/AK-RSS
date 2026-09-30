@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-30 11:26:31 UTC
+Generated at: 2026-09-30 16:53:15 UTC
 
-- [As a general rule, calling product support while drunk is not recommended](https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/) (`devblogs.microsoft.com/oldnewthing`)
-- [IBM PS/2 series](https://dfarq.homeip.net/ibm-ps2-series/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-ps2-series) (`dfarq.homeip.net`)
-- [Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!](https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/) (`berthub.eu`)
+- [Are you a smartwatch "power user"?](https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/) (`shkspr.mobi`)
+- [Notes from September 2026](https://evanhahn.com/notes-from-september-2026/) (`evanhahn.com`)
+- [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/) (`buttondown.com/hillelwayne`)
+- [Lean LaunchPad – The Next Generation](https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/) (`steveblank.com`)
