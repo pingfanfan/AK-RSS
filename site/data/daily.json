@@ -1,16 +1,72 @@
 {
-  "generated_at": "2026-09-30T00:40:13Z",
+  "generated_at": "2026-09-30T11:26:46Z",
   "days": [
     {
+      "date": "2026-09-30",
+      "total": 2,
+      "feeds": [
+        "berthub.eu (1)",
+        "dfarq.homeip.net (1)"
+      ],
+      "highlights": [
+        "dfarq.homeip.net · IBM PS/2 series",
+        "berthub.eu · Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!"
+      ],
+      "key_points": [
+        "IBM PS/2 series",
+        "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!"
+      ],
+      "key_points_zh": [
+        "IBM PS/2 series",
+        "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!"
+      ],
+      "key_points_en": [
+        "IBM PS/2 series",
+        "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!"
+      ],
+      "tweet_drafts": [
+        "IBM PS/2 series",
+        "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!"
+      ],
+      "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "IBM PS/2 series",
+          "link": "https://dfarq.homeip.net/ibm-ps2-series/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-ps2-series"
+        },
+        {
+          "feed_title": "berthub.eu",
+          "title": "Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!",
+          "link": "https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/"
+        }
+      ],
+      "summary_zh": "2026-09-30 技术日报：IBM PS/2 series；Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!。",
+      "summary_en": "Daily brief (2026-09-30): IBM PS/2 series; Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-09-30 日报】IBM PS/2 series；Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-30): IBM PS/2 series; Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-09-30）\n- IBM PS/2 series\n- Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/ibm-ps2-series/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-ps2-series\n- https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-30)\n- IBM PS/2 series\n- Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/ibm-ps2-series/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ibm-ps2-series\n- https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：IBM PS/2 series；Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: IBM PS/2 series; Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-09-29",
-      "total": 10,
+      "total": 11,
       "feeds": [
         "simonwillison.net (2)",
         "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "experimental-history.com (1)",
-        "lucumr.pocoo.org (1)"
+        "experimental-history.com (1)"
       ],
       "highlights": [
         "simonwillison.net · Quoting Anthropic Frontier Red Team",
@@ -18,7 +74,7 @@
         "simonwillison.net · OpenAI DevDay 2026 live blog",
         "wheresyoured.at · Dead Money",
         "experimental-history.com · The Strangest Idea in the World",
-        "pluralistic.net · Pluralistic: Lindsay Owens's \"Gouged\" (29 Sep 2026)"
+        "devblogs.microsoft.com/oldnewthing · As a general rule, calling product support while drunk is not recommended"
       ],
       "key_points": [
         "Quoting Anthropic Frontier Red Team",
@@ -2200,82 +2256,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：FBI Probes Service Selling 153M+ Drivers Licenses；Weekly Update 519: Breaches \u0026 Data Integrity；Codex bundles LibreOffice。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: FBI Probes Service Selling 153M+ Drivers Licenses; Weekly Update 519: Breaches \u0026 Data Integrity; Codex bundles LibreOffice.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-08-31",
-      "total": 11,
-      "feeds": [
-        "blog.jim-nielsen.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "dwarkesh.com (1)",
-        "entropicthoughts.com (1)",
-        "evanhahn.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Claude comment detection",
-        "dwarkesh.com · The rise and fall of agent civilizations",
-        "blog.jim-nielsen.com · My Experience Has Nuance, Yours Is a Data Point",
-        "devblogs.microsoft.com/oldnewthing · AWE does not require PAE, though PAE makes it much more useful",
-        "shkspr.mobi · Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆",
-        "dfarq.homeip.net · Adobe’s August 1994 acquisition of Aldus"
-      ],
-      "key_points": [
-        "Claude comment detection",
-        "The rise and fall of agent civilizations",
-        "My Experience Has Nuance, Yours Is a Data Point",
-        "AWE does not require PAE, though PAE makes it much more useful"
-      ],
-      "key_points_zh": [
-        "Claude comment detection",
-        "The rise and fall of agent civilizations",
-        "My Experience Has Nuance, Yours Is a Data Point",
-        "AWE does not require PAE, though PAE makes it much more useful"
-      ],
-      "key_points_en": [
-        "Claude comment detection",
-        "The rise and fall of agent civilizations",
-        "My Experience Has Nuance, Yours Is a Data Point",
-        "AWE does not require PAE, though PAE makes it much more useful"
-      ],
-      "tweet_drafts": [
-        "Claude comment detection",
-        "The rise and fall of agent civilizations",
-        "My Experience Has Nuance, Yours Is a Data Point"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Claude comment detection",
-          "link": "https://entropicthoughts.com/ai-comment-classifier"
-        },
-        {
-          "feed_title": "dwarkesh.com",
-          "title": "The rise and fall of agent civilizations",
-          "link": "https://www.dwarkesh.com/p/openai-huggingface-narration"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "My Experience Has Nuance, Yours Is a Data Point",
-          "link": "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/"
-        }
-      ],
-      "summary_zh": "2026-08-31 技术日报：Claude comment detection；The rise and fall of agent civilizations；My Experience Has Nuance, Yours Is a Data Point。",
-      "summary_en": "Daily brief (2026-08-31): Claude comment detection; The rise and fall of agent civilizations; My Experience Has Nuance, Yours Is a Data Point.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-08-31 日报】Claude comment detection；The rise and fall of agent civilizations；My Experience Has Nuance, Yours Is a Data Point。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-08-31): Claude comment detection; The rise and fall of agent civilizations; My Experience Has Nuance, Yours Is a Data Point. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-08-31）\n- Claude comment detection\n- The rise and fall of agent civilizations\n- My Experience Has Nuance, Yours Is a Data Point\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/ai-comment-classifier\n- https://www.dwarkesh.com/p/openai-huggingface-narration\n- https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-08-31)\n- Claude comment detection\n- The rise and fall of agent civilizations\n- My Experience Has Nuance, Yours Is a Data Point\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/ai-comment-classifier\n- https://www.dwarkesh.com/p/openai-huggingface-narration\n- https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Claude comment detection；The rise and fall of agent civilizations；My Experience Has Nuance, Yours Is a Data Point。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Claude comment detection; The rise and fall of agent civilizations; My Experience Has Nuance, Yours Is a Data Point.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

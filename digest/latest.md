@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-30 00:39:59 UTC
+Generated at: 2026-09-30 11:26:31 UTC
 
-- [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) (`simonwillison.net`)
-- [Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/) (`lucumr.pocoo.org`)
+- [As a general rule, calling product support while drunk is not recommended](https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/) (`devblogs.microsoft.com/oldnewthing`)
+- [IBM PS/2 series](https://dfarq.homeip.net/ibm-ps2-series/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-ps2-series) (`dfarq.homeip.net`)
+- [Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!](https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/) (`berthub.eu`)
