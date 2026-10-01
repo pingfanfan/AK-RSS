@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-30T21:04:34Z",
+  "generated_at": "2026-10-01T00:37:59Z",
   "days": [
     {
       "date": "2026-09-30",
-      "total": 7,
+      "total": 8,
       "feeds": [
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)",
@@ -13,37 +13,42 @@
         "shkspr.mobi (1)"
       ],
       "highlights": [
+        "simonwillison.net · He Built This City",
         "blog.jim-nielsen.com · Dear Software Makers",
         "buttondown.com/hillelwayne · What TLA+ can and can't check",
         "steveblank.com · Lean LaunchPad – The Next Generation",
         "shkspr.mobi · Are you a smartwatch \"power user\"?",
-        "dfarq.homeip.net · IBM PS/2 series",
-        "berthub.eu · Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!"
+        "dfarq.homeip.net · IBM PS/2 series"
       ],
       "key_points": [
-        "Dear Software Makers",
-        "What TLA+ can and can't check",
-        "Lean LaunchPad – The Next Generation",
-        "Are you a smartwatch \"power user\"?"
-      ],
-      "key_points_zh": [
-        "Dear Software Makers",
-        "What TLA+ can and can't check",
-        "Lean LaunchPad – The Next Generation",
-        "Are you a smartwatch \"power user\"?"
-      ],
-      "key_points_en": [
-        "Dear Software Makers",
-        "What TLA+ can and can't check",
-        "Lean LaunchPad – The Next Generation",
-        "Are you a smartwatch \"power user\"?"
-      ],
-      "tweet_drafts": [
+        "He Built This City",
         "Dear Software Makers",
         "What TLA+ can and can't check",
         "Lean LaunchPad – The Next Generation"
       ],
+      "key_points_zh": [
+        "He Built This City",
+        "Dear Software Makers",
+        "What TLA+ can and can't check",
+        "Lean LaunchPad – The Next Generation"
+      ],
+      "key_points_en": [
+        "He Built This City",
+        "Dear Software Makers",
+        "What TLA+ can and can't check",
+        "Lean LaunchPad – The Next Generation"
+      ],
+      "tweet_drafts": [
+        "He Built This City",
+        "Dear Software Makers",
+        "What TLA+ can and can't check"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "He Built This City",
+          "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/"
+        },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "Dear Software Makers",
@@ -53,27 +58,22 @@
           "feed_title": "buttondown.com/hillelwayne",
           "title": "What TLA+ can and can't check",
           "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
-        },
-        {
-          "feed_title": "steveblank.com",
-          "title": "Lean LaunchPad – The Next Generation",
-          "link": "https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/"
         }
       ],
-      "summary_zh": "2026-09-30 技术日报：Dear Software Makers；What TLA+ can and can't check；Lean LaunchPad – The Next Generation。",
-      "summary_en": "Daily brief (2026-09-30): Dear Software Makers; What TLA+ can and can't check; Lean LaunchPad – The Next Generation.",
+      "summary_zh": "2026-09-30 技术日报：He Built This City；Dear Software Makers；What TLA+ can and can't check。",
+      "summary_en": "Daily brief (2026-09-30): He Built This City; Dear Software Makers; What TLA+ can and can't check.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-30 日报】Dear Software Makers；What TLA+ can and can't check；Lean LaunchPad – The Next Generation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-30): Dear Software Makers; What TLA+ can and can't check; Lean LaunchPad – The Next Generation. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-30 日报】He Built This City；Dear Software Makers；What TLA+ can and can't check。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-30): He Built This City; Dear Software Makers; What TLA+ can and can't check. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-30）\n- Dear Software Makers\n- What TLA+ can and can't check\n- Lean LaunchPad – The Next Generation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\n- https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-30)\n- Dear Software Makers\n- What TLA+ can and can't check\n- Lean LaunchPad – The Next Generation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\n- https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-30）\n- He Built This City\n- Dear Software Makers\n- What TLA+ can and can't check\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/30/he-built-this-city/\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-30)\n- He Built This City\n- Dear Software Makers\n- What TLA+ can and can't check\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/30/he-built-this-city/\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Dear Software Makers；What TLA+ can and can't check；Lean LaunchPad – The Next Generation。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Dear Software Makers; What TLA+ can and can't check; Lean LaunchPad – The Next Generation.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：He Built This City；Dear Software Makers；What TLA+ can and can't check。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: He Built This City; Dear Software Makers; What TLA+ can and can't check.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },

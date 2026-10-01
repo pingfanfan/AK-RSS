@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-09-30 21:04:20 UTC
+Generated at: 2026-10-01 00:37:45 UTC
 
-- [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/) (`blog.jim-nielsen.com`)
+- [He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/) (`simonwillison.net`)
