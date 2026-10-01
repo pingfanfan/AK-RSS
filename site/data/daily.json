@@ -1,47 +1,119 @@
 {
-  "generated_at": "2026-10-01T00:37:59Z",
+  "generated_at": "2026-10-01T11:54:35Z",
   "days": [
     {
+      "date": "2026-10-01",
+      "total": 4,
+      "feeds": [
+        "derekthompson.org (1)",
+        "dfarq.homeip.net (1)",
+        "nesbitt.io (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "dfarq.homeip.net · The day GIF became free to use, forever",
+        "derekthompson.org · Death of the Dinner Party",
+        "nesbitt.io · Software Heritage Identifiers",
+        "simonwillison.net · Quoting Matthew Green"
+      ],
+      "key_points": [
+        "The day GIF became free to use, forever",
+        "Death of the Dinner Party",
+        "Software Heritage Identifiers",
+        "Quoting Matthew Green"
+      ],
+      "key_points_zh": [
+        "The day GIF became free to use, forever",
+        "Death of the Dinner Party",
+        "Software Heritage Identifiers",
+        "Quoting Matthew Green"
+      ],
+      "key_points_en": [
+        "The day GIF became free to use, forever",
+        "Death of the Dinner Party",
+        "Software Heritage Identifiers",
+        "Quoting Matthew Green"
+      ],
+      "tweet_drafts": [
+        "The day GIF became free to use, forever",
+        "Death of the Dinner Party",
+        "Software Heritage Identifiers"
+      ],
+      "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "The day GIF became free to use, forever",
+          "link": "https://dfarq.homeip.net/the-day-gif-became-free-to-use-forever/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-day-gif-became-free-to-use-forever"
+        },
+        {
+          "feed_title": "derekthompson.org",
+          "title": "Death of the Dinner Party",
+          "link": "https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Software Heritage Identifiers",
+          "link": "https://nesbitt.io/2026/10/01/software-heritage-identifiers.html"
+        }
+      ],
+      "summary_zh": "2026-10-01 技术日报：The day GIF became free to use, forever；Death of the Dinner Party；Software Heritage Identifiers。",
+      "summary_en": "Daily brief (2026-10-01): The day GIF became free to use, forever; Death of the Dinner Party; Software Heritage Identifiers.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-10-01 日报】The day GIF became free to use, forever；Death of the Dinner Party；Software Heritage Identifiers。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-01): The day GIF became free to use, forever; Death of the Dinner Party; Software Heritage Identifiers. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-10-01）\n- The day GIF became free to use, forever\n- Death of the Dinner Party\n- Software Heritage Identifiers\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-day-gif-became-free-to-use-forever/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-day-gif-became-free-to-use-forever\n- https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed\n- https://nesbitt.io/2026/10/01/software-heritage-identifiers.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-01)\n- The day GIF became free to use, forever\n- Death of the Dinner Party\n- Software Heritage Identifiers\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-day-gif-became-free-to-use-forever/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-day-gif-became-free-to-use-forever\n- https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed\n- https://nesbitt.io/2026/10/01/software-heritage-identifiers.html\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：The day GIF became free to use, forever；Death of the Dinner Party；Software Heritage Identifiers。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The day GIF became free to use, forever; Death of the Dinner Party; Software Heritage Identifiers.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-09-30",
-      "total": 8,
+      "total": 10,
       "feeds": [
         "berthub.eu (1)",
         "blog.jim-nielsen.com (1)",
         "buttondown.com/hillelwayne (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "evanhahn.com (1)",
-        "shkspr.mobi (1)"
+        "evanhahn.com (1)"
       ],
       "highlights": [
         "simonwillison.net · He Built This City",
         "blog.jim-nielsen.com · Dear Software Makers",
+        "geohot.github.io · Why do you need freedom?",
+        "devblogs.microsoft.com/oldnewthing · Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86",
         "buttondown.com/hillelwayne · What TLA+ can and can't check",
-        "steveblank.com · Lean LaunchPad – The Next Generation",
-        "shkspr.mobi · Are you a smartwatch \"power user\"?",
-        "dfarq.homeip.net · IBM PS/2 series"
+        "steveblank.com · Lean LaunchPad – The Next Generation"
       ],
       "key_points": [
         "He Built This City",
         "Dear Software Makers",
-        "What TLA+ can and can't check",
-        "Lean LaunchPad – The Next Generation"
+        "Why do you need freedom?",
+        "Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86"
       ],
       "key_points_zh": [
         "He Built This City",
         "Dear Software Makers",
-        "What TLA+ can and can't check",
-        "Lean LaunchPad – The Next Generation"
+        "Why do you need freedom?",
+        "Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86"
       ],
       "key_points_en": [
         "He Built This City",
         "Dear Software Makers",
-        "What TLA+ can and can't check",
-        "Lean LaunchPad – The Next Generation"
+        "Why do you need freedom?",
+        "Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86"
       ],
       "tweet_drafts": [
         "He Built This City",
         "Dear Software Makers",
-        "What TLA+ can and can't check"
+        "Why do you need freedom?"
       ],
       "sources": [
         {
@@ -55,25 +127,25 @@
           "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/"
         },
         {
-          "feed_title": "buttondown.com/hillelwayne",
-          "title": "What TLA+ can and can't check",
-          "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/"
+          "feed_title": "geohot.github.io",
+          "title": "Why do you need freedom?",
+          "link": "https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html"
         }
       ],
-      "summary_zh": "2026-09-30 技术日报：He Built This City；Dear Software Makers；What TLA+ can and can't check。",
-      "summary_en": "Daily brief (2026-09-30): He Built This City; Dear Software Makers; What TLA+ can and can't check.",
+      "summary_zh": "2026-09-30 技术日报：He Built This City；Dear Software Makers；Why do you need freedom?。",
+      "summary_en": "Daily brief (2026-09-30): He Built This City; Dear Software Makers; Why do you need freedom?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-09-30 日报】He Built This City；Dear Software Makers；What TLA+ can and can't check。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-30): He Built This City; Dear Software Makers; What TLA+ can and can't check. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-09-30 日报】He Built This City；Dear Software Makers；Why do you need freedom?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-09-30): He Built This City; Dear Software Makers; Why do you need freedom?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-09-30）\n- He Built This City\n- Dear Software Makers\n- What TLA+ can and can't check\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/30/he-built-this-city/\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-30)\n- He Built This City\n- Dear Software Makers\n- What TLA+ can and can't check\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/30/he-built-this-city/\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-09-30）\n- He Built This City\n- Dear Software Makers\n- Why do you need freedom?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/30/he-built-this-city/\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-09-30)\n- He Built This City\n- Dear Software Makers\n- Why do you need freedom?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/30/he-built-this-city/\n- https://blog.jim-nielsen.com/2026/dear-software-makers/\n- https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：He Built This City；Dear Software Makers；What TLA+ can and can't check。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: He Built This City; Dear Software Makers; What TLA+ can and can't check.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：He Built This City；Dear Software Makers；Why do you need freedom?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: He Built This City; Dear Software Makers; Why do you need freedom?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1611,8 +1683,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
-        "borretti.me · The Other Road"
+        "borretti.me · The Other Road",
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
       ],
       "key_points": [
         "We own the Glass",
@@ -2200,82 +2272,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：iOS 27 Introduces New ‘iPhone Handoff’ Feature；llm-gemini 0.34；Claude's new system prompt really doesn't want to reproduce song lyrics。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: iOS 27 Introduces New ‘iPhone Handoff’ Feature; llm-gemini 0.34; Claude's new system prompt really doesn't want to reproduce song lyrics.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-09-01",
-      "total": 18,
-      "feeds": [
-        "simonwillison.net (4)",
-        "daringfireball.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "buttondown.com/hillelwayne (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "krebsonsecurity.com · FBI Probes Service Selling 153M+ Drivers Licenses",
-        "troyhunt.com · Weekly Update 519: Breaches \u0026 Data Integrity",
-        "simonwillison.net · Codex bundles LibreOffice",
-        "blog.jim-nielsen.com · Nobody Believes It, Everybody Does It",
-        "buttondown.com/hillelwayne · New Post: A Crash Course in Predicate Logic",
-        "daringfireball.net · Tim Cook’s Departure Memo on His Last Day as CEO"
-      ],
-      "key_points": [
-        "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "Weekly Update 519: Breaches \u0026 Data Integrity",
-        "Codex bundles LibreOffice",
-        "Nobody Believes It, Everybody Does It"
-      ],
-      "key_points_zh": [
-        "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "Weekly Update 519: Breaches \u0026 Data Integrity",
-        "Codex bundles LibreOffice",
-        "Nobody Believes It, Everybody Does It"
-      ],
-      "key_points_en": [
-        "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "Weekly Update 519: Breaches \u0026 Data Integrity",
-        "Codex bundles LibreOffice",
-        "Nobody Believes It, Everybody Does It"
-      ],
-      "tweet_drafts": [
-        "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "Weekly Update 519: Breaches \u0026 Data Integrity",
-        "Codex bundles LibreOffice"
-      ],
-      "sources": [
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-          "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 519: Breaches \u0026 Data Integrity",
-          "link": "https://www.troyhunt.com/weekly-update-519/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Codex bundles LibreOffice",
-          "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
-        }
-      ],
-      "summary_zh": "2026-09-01 技术日报：FBI Probes Service Selling 153M+ Drivers Licenses；Weekly Update 519: Breaches \u0026 Data Integrity；Codex bundles LibreOffice。",
-      "summary_en": "Daily brief (2026-09-01): FBI Probes Service Selling 153M+ Drivers Licenses; Weekly Update 519: Breaches \u0026 Data Integrity; Codex bundles LibreOffice.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-09-01 日报】FBI Probes Service Selling 153M+ Drivers Licenses；Weekly Update 519: Breaches \u0026 Data Integrity；Codex bundles LibreOffice。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-01): FBI Probes Service Selling 153M+ Drivers Licenses; Weekly Update 519: Breaches \u0026 Data Integrity; Codex bundles LibreOffice. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-09-01）\n- FBI Probes Service Selling 153M+ Drivers Licenses\n- Weekly Update 519: Breaches \u0026 Data Integrity\n- Codex bundles LibreOffice\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\n- https://www.troyhunt.com/weekly-update-519/\n- https://simonwillison.net/2026/Sep/1/codex-libreoffice/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-01)\n- FBI Probes Service Selling 153M+ Drivers Licenses\n- Weekly Update 519: Breaches \u0026 Data Integrity\n- Codex bundles LibreOffice\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\n- https://www.troyhunt.com/weekly-update-519/\n- https://simonwillison.net/2026/Sep/1/codex-libreoffice/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：FBI Probes Service Selling 153M+ Drivers Licenses；Weekly Update 519: Breaches \u0026 Data Integrity；Codex bundles LibreOffice。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: FBI Probes Service Selling 153M+ Drivers Licenses; Weekly Update 519: Breaches \u0026 Data Integrity; Codex bundles LibreOffice.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
