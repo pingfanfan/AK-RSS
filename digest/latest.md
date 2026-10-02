@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-02 16:43:30 UTC
+Generated at: 2026-10-02 21:04:11 UTC
 
-- [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/) (`terriblesoftware.org`)
-- [Gadget Review: Una Watch ★★★★☆](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/) (`shkspr.mobi`)
+- [★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](https://daringfireball.net/2026/10/apple_full_disk_access) (`daringfireball.net`)
+- [Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/) (`wheresyoured.at`)
