@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-03 14:58:02 UTC
+Generated at: 2026-10-03 18:29:31 UTC
 
-- [This Week in Package Management: 3 October 2026](https://nesbitt.io/2026/10/03/this-week-in-package-management.html) (`nesbitt.io`)
-- [Reading List 2026-10-03](https://www.construction-physics.com/p/reading-list-2026-10-03) (`construction-physics.com`)
-- [Cull lumber at Menards](https://dfarq.homeip.net/cull-lumber-at-menards/?utm_source=rss&utm_medium=rss&utm_campaign=cull-lumber-at-menards) (`dfarq.homeip.net`)
-- [Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)](https://pluralistic.net/2026/10/03/full-employment/) (`pluralistic.net`)
+- [Rex's Dino Store](https://simonwillison.net/2026/Oct/2/rex-s-dino-store/) (`simonwillison.net`)
+- [Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/) (`daringfireball.net`)
+- [Connect Sony WH-1000XM3 on Arch Linux and a buggy UGREEN Bluetooth adapter](https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html) (`jayd.ml`)
