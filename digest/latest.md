@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-03 00:33:58 UTC
+Generated at: 2026-10-03 10:42:50 UTC
 
-- [Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/) (`seangoedecke.com`)
+- [Altera Quartus Linux jtagd bug fixes](https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/) (`downtowndougbrown.com`)
