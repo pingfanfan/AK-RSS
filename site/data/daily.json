@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-10-04T22:02:14Z",
+  "generated_at": "2026-10-05T01:03:30Z",
   "days": [
     {
       "date": "2026-10-04",
-      "total": 6,
+      "total": 8,
       "feeds": [
+        "abortretry.fail (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
         "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "troyhunt.com (1)"
+        "simonwillison.net (1)"
       ],
       "highlights": [
+        "abortretry.fail · Zenith Data Systems, Part I",
         "dfarq.homeip.net · Weekend content through the end of 2026",
         "johndcook.com · Miquel’s pentagon theorem",
         "troyhunt.com · Weekly Update 524: Live From Copenhagen",
         "shkspr.mobi · My Pitch for the New Season of Doctor Who",
-        "idiallo.com · Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it",
-        "simonwillison.net · We're going to need default hard budget caps on pretty much everything"
+        "idiallo.com · Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it"
       ],
       "key_points": [
-        "Weekend content through the end of 2026",
-        "Miquel’s pentagon theorem",
-        "Weekly Update 524: Live From Copenhagen",
-        "My Pitch for the New Season of Doctor Who"
-      ],
-      "key_points_zh": [
-        "Weekend content through the end of 2026",
-        "Miquel’s pentagon theorem",
-        "Weekly Update 524: Live From Copenhagen",
-        "My Pitch for the New Season of Doctor Who"
-      ],
-      "key_points_en": [
-        "Weekend content through the end of 2026",
-        "Miquel’s pentagon theorem",
-        "Weekly Update 524: Live From Copenhagen",
-        "My Pitch for the New Season of Doctor Who"
-      ],
-      "tweet_drafts": [
+        "Zenith Data Systems, Part I",
         "Weekend content through the end of 2026",
         "Miquel’s pentagon theorem",
         "Weekly Update 524: Live From Copenhagen"
       ],
+      "key_points_zh": [
+        "Zenith Data Systems, Part I",
+        "Weekend content through the end of 2026",
+        "Miquel’s pentagon theorem",
+        "Weekly Update 524: Live From Copenhagen"
+      ],
+      "key_points_en": [
+        "Zenith Data Systems, Part I",
+        "Weekend content through the end of 2026",
+        "Miquel’s pentagon theorem",
+        "Weekly Update 524: Live From Copenhagen"
+      ],
+      "tweet_drafts": [
+        "Zenith Data Systems, Part I",
+        "Weekend content through the end of 2026",
+        "Miquel’s pentagon theorem"
+      ],
       "sources": [
+        {
+          "feed_title": "abortretry.fail",
+          "title": "Zenith Data Systems, Part I",
+          "link": "https://www.abortretry.fail/p/zenith-data-systems-part-i"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Weekend content through the end of 2026",
@@ -53,27 +58,22 @@
           "feed_title": "johndcook.com",
           "title": "Miquel’s pentagon theorem",
           "link": "https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/"
-        },
-        {
-          "feed_title": "troyhunt.com",
-          "title": "Weekly Update 524: Live From Copenhagen",
-          "link": "https://www.troyhunt.com/weekly-update-524/"
         }
       ],
-      "summary_zh": "2026-10-04 技术日报：Weekend content through the end of 2026；Miquel’s pentagon theorem；Weekly Update 524: Live From Copenhagen。",
-      "summary_en": "Daily brief (2026-10-04): Weekend content through the end of 2026; Miquel’s pentagon theorem; Weekly Update 524: Live From Copenhagen.",
+      "summary_zh": "2026-10-04 技术日报：Zenith Data Systems, Part I；Weekend content through the end of 2026；Miquel’s pentagon theorem。",
+      "summary_en": "Daily brief (2026-10-04): Zenith Data Systems, Part I; Weekend content through the end of 2026; Miquel’s pentagon theorem.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-04 日报】Weekend content through the end of 2026；Miquel’s pentagon theorem；Weekly Update 524: Live From Copenhagen。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-04): Weekend content through the end of 2026; Miquel’s pentagon theorem; Weekly Update 524: Live From Copenhagen. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-04 日报】Zenith Data Systems, Part I；Weekend content through the end of 2026；Miquel’s pentagon theorem。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-04): Zenith Data Systems, Part I; Weekend content through the end of 2026; Miquel’s pentagon theorem. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-04）\n- Weekend content through the end of 2026\n- Miquel’s pentagon theorem\n- Weekly Update 524: Live From Copenhagen\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/weekend-content-through-the-end-of-2026/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=weekend-content-through-the-end-of-2026\n- https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/\n- https://www.troyhunt.com/weekly-update-524/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-04)\n- Weekend content through the end of 2026\n- Miquel’s pentagon theorem\n- Weekly Update 524: Live From Copenhagen\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/weekend-content-through-the-end-of-2026/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=weekend-content-through-the-end-of-2026\n- https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/\n- https://www.troyhunt.com/weekly-update-524/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-04）\n- Zenith Data Systems, Part I\n- Weekend content through the end of 2026\n- Miquel’s pentagon theorem\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.abortretry.fail/p/zenith-data-systems-part-i\n- https://dfarq.homeip.net/weekend-content-through-the-end-of-2026/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=weekend-content-through-the-end-of-2026\n- https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-04)\n- Zenith Data Systems, Part I\n- Weekend content through the end of 2026\n- Miquel’s pentagon theorem\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.abortretry.fail/p/zenith-data-systems-part-i\n- https://dfarq.homeip.net/weekend-content-through-the-end-of-2026/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=weekend-content-through-the-end-of-2026\n- https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Weekend content through the end of 2026；Miquel’s pentagon theorem；Weekly Update 524: Live From Copenhagen。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Weekend content through the end of 2026; Miquel’s pentagon theorem; Weekly Update 524: Live From Copenhagen.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Zenith Data Systems, Part I；Weekend content through the end of 2026；Miquel’s pentagon theorem。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Zenith Data Systems, Part I; Weekend content through the end of 2026; Miquel’s pentagon theorem.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -246,7 +246,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "nesbitt.io · Software Heritage Identifiers"
+        "derekthompson.org · Death of the Dinner Party"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
