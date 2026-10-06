@@ -1,78 +1,79 @@
 {
-  "generated_at": "2026-10-06T12:17:21Z",
+  "generated_at": "2026-10-06T18:30:08Z",
   "days": [
     {
       "date": "2026-10-06",
-      "total": 6,
+      "total": 12,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
+        "simonwillison.net (2)",
+        "blog.jim-nielsen.com (1)",
         "dfarq.homeip.net (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)",
-        "tedium.co (1)"
+        "lucumr.pocoo.org (1)",
+        "pluralistic.net (1)"
       ],
       "highlights": [
-        "shkspr.mobi · Una Watch - SDK and Writing Your First App",
-        "dfarq.homeip.net · Lotus: Second largest software publisher in the world (in 1983)",
-        "tedium.co · Missing Link",
-        "daringfireball.net · Steve Jobs, Walking Through a Mockup for Apple Park in 2010",
-        "simonwillison.net · Quoting Felix Rieseberg",
-        "daringfireball.net · [Sponsor] Sunnny"
+        "blog.jim-nielsen.com · Apple’s App Icon HOA",
+        "daringfireball.net · Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
+        "simonwillison.net · Scrimshaw Jukebox",
+        "wheresyoured.at · Credit Crunch",
+        "pluralistic.net · Pluralistic: Swapping money for expertise (06 Oct 2026)",
+        "shkspr.mobi · Una Watch - SDK and Writing Your First App"
       ],
       "key_points": [
-        "Una Watch - SDK and Writing Your First App",
-        "Lotus: Second largest software publisher in the world (in 1983)",
-        "Missing Link",
-        "Steve Jobs, Walking Through a Mockup for Apple Park in 2010"
+        "Apple’s App Icon HOA",
+        "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
+        "Scrimshaw Jukebox",
+        "Credit Crunch"
       ],
       "key_points_zh": [
-        "Una Watch - SDK and Writing Your First App",
-        "Lotus: Second largest software publisher in the world (in 1983)",
-        "Missing Link",
-        "Steve Jobs, Walking Through a Mockup for Apple Park in 2010"
+        "Apple’s App Icon HOA",
+        "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
+        "Scrimshaw Jukebox",
+        "Credit Crunch"
       ],
       "key_points_en": [
-        "Una Watch - SDK and Writing Your First App",
-        "Lotus: Second largest software publisher in the world (in 1983)",
-        "Missing Link",
-        "Steve Jobs, Walking Through a Mockup for Apple Park in 2010"
+        "Apple’s App Icon HOA",
+        "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
+        "Scrimshaw Jukebox",
+        "Credit Crunch"
       ],
       "tweet_drafts": [
-        "Una Watch - SDK and Writing Your First App",
-        "Lotus: Second largest software publisher in the world (in 1983)",
-        "Missing Link"
+        "Apple’s App Icon HOA",
+        "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
+        "Scrimshaw Jukebox"
       ],
       "sources": [
         {
-          "feed_title": "shkspr.mobi",
-          "title": "Una Watch - SDK and Writing Your First App",
-          "link": "https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "Apple’s App Icon HOA",
+          "link": "https://blog.jim-nielsen.com/2026/app-icon-hoa/"
         },
         {
-          "feed_title": "dfarq.homeip.net",
-          "title": "Lotus: Second largest software publisher in the world (in 1983)",
-          "link": "https://dfarq.homeip.net/lotus-second-largest-software-publisher-in-the-world-in-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=lotus-second-largest-software-publisher-in-the-world-in-1983"
+          "feed_title": "daringfireball.net",
+          "title": "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
+          "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/"
         },
         {
-          "feed_title": "tedium.co",
-          "title": "Missing Link",
-          "link": "https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance"
+          "feed_title": "simonwillison.net",
+          "title": "Scrimshaw Jukebox",
+          "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/"
         }
       ],
-      "summary_zh": "2026-10-06 技术日报：Una Watch - SDK and Writing Your First App；Lotus: Second largest software publisher in the world (in 1983)；Missing Link。",
-      "summary_en": "Daily brief (2026-10-06): Una Watch - SDK and Writing Your First App; Lotus: Second largest software publisher in the world (in 1983); Missing Link.",
+      "summary_zh": "2026-10-06 技术日报：Apple’s App Icon HOA；Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27；Scrimshaw Jukebox。",
+      "summary_en": "Daily brief (2026-10-06): Apple’s App Icon HOA; Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27; Scrimshaw Jukebox.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-06 日报】Una Watch - SDK and Writing Your First App；Lotus: Second largest software publisher in the world (in 1983)；Missing Link。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-06): Una Watch - SDK and Writing Your First App; Lotus: Second largest software publisher in the world (in 1983); Missing Link. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-06 日报】Apple’s App Icon HOA；Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27；Scrimshaw Jukebox。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-06): Apple’s App Icon HOA; Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27; Scrimshaw Jukebox. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-06）\n- Una Watch - SDK and Writing Your First App\n- Lotus: Second largest software publisher in the world (in 1983)\n- Missing Link\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/\n- https://dfarq.homeip.net/lotus-second-largest-software-publisher-in-the-world-in-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=lotus-second-largest-software-publisher-in-the-world-in-1983\n- https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-06)\n- Una Watch - SDK and Writing Your First App\n- Lotus: Second largest software publisher in the world (in 1983)\n- Missing Link\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/\n- https://dfarq.homeip.net/lotus-second-largest-software-publisher-in-the-world-in-1983/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=lotus-second-largest-software-publisher-in-the-world-in-1983\n- https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-06）\n- Apple’s App Icon HOA\n- Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27\n- Scrimshaw Jukebox\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/app-icon-hoa/\n- https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/\n- https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-06)\n- Apple’s App Icon HOA\n- Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27\n- Scrimshaw Jukebox\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/app-icon-hoa/\n- https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/\n- https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Una Watch - SDK and Writing Your First App；Lotus: Second largest software publisher in the world (in 1983)；Missing Link。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Una Watch - SDK and Writing Your First App; Lotus: Second largest software publisher in the world (in 1983); Missing Link.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Apple’s App Icon HOA；Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27；Scrimshaw Jukebox。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple’s App Icon HOA; Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27; Scrimshaw Jukebox.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -397,7 +398,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "nesbitt.io · Software Heritage Identifiers"
+        "derekthompson.org · Death of the Dinner Party"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
@@ -1231,7 +1232,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · Grit your teeth and ship it"
+        "seangoedecke.com · System One models like Jev can train their own replacements"
       ],
       "key_points": [
         "Quoting voxium",
