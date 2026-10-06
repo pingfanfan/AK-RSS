@@ -1,40 +1,108 @@
 {
-  "generated_at": "2026-10-05T12:47:44Z",
+  "generated_at": "2026-10-06T01:34:21Z",
   "days": [
     {
+      "date": "2026-10-06",
+      "total": 2,
+      "feeds": [
+        "daringfireball.net (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Felix Rieseberg",
+        "daringfireball.net · [Sponsor] Sunnny"
+      ],
+      "key_points": [
+        "Quoting Felix Rieseberg",
+        "[Sponsor] Sunnny"
+      ],
+      "key_points_zh": [
+        "Quoting Felix Rieseberg",
+        "[Sponsor] Sunnny"
+      ],
+      "key_points_en": [
+        "Quoting Felix Rieseberg",
+        "[Sponsor] Sunnny"
+      ],
+      "tweet_drafts": [
+        "Quoting Felix Rieseberg",
+        "[Sponsor] Sunnny"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Felix Rieseberg",
+          "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "[Sponsor] Sunnny",
+          "link": "https://sunnny.com/"
+        }
+      ],
+      "summary_zh": "2026-10-06 技术日报：Quoting Felix Rieseberg；[Sponsor] Sunnny。",
+      "summary_en": "Daily brief (2026-10-06): Quoting Felix Rieseberg; [Sponsor] Sunnny.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-10-06 日报】Quoting Felix Rieseberg；[Sponsor] Sunnny。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-06): Quoting Felix Rieseberg; [Sponsor] Sunnny. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-10-06）\n- Quoting Felix Rieseberg\n- [Sponsor] Sunnny\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/5/felix-rieseberg/\n- https://sunnny.com/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-06)\n- Quoting Felix Rieseberg\n- [Sponsor] Sunnny\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/5/felix-rieseberg/\n- https://sunnny.com/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Quoting Felix Rieseberg；[Sponsor] Sunnny。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Felix Rieseberg; [Sponsor] Sunnny.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-10-05",
-      "total": 3,
+      "total": 5,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "matklad.github.io (1)",
         "miguelgrinberg.com (1)",
+        "pluralistic.net (1)",
         "shkspr.mobi (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: Scrutinized (05 Oct 2026)",
         "shkspr.mobi · [RSS Club] Changes to the RSS and Atom feeds",
         "dfarq.homeip.net · The IBM Thinkpad’s 1992 debut",
-        "miguelgrinberg.com · How fast is Python 3.15?"
+        "miguelgrinberg.com · How fast is Python 3.15?",
+        "matklad.github.io · Benchmark In Milliseconds"
       ],
       "key_points": [
+        "Pluralistic: Scrutinized (05 Oct 2026)",
         "[RSS Club] Changes to the RSS and Atom feeds",
         "The IBM Thinkpad’s 1992 debut",
         "How fast is Python 3.15?"
       ],
       "key_points_zh": [
+        "Pluralistic: Scrutinized (05 Oct 2026)",
         "[RSS Club] Changes to the RSS and Atom feeds",
         "The IBM Thinkpad’s 1992 debut",
         "How fast is Python 3.15?"
       ],
       "key_points_en": [
+        "Pluralistic: Scrutinized (05 Oct 2026)",
         "[RSS Club] Changes to the RSS and Atom feeds",
         "The IBM Thinkpad’s 1992 debut",
         "How fast is Python 3.15?"
       ],
       "tweet_drafts": [
+        "Pluralistic: Scrutinized (05 Oct 2026)",
         "[RSS Club] Changes to the RSS and Atom feeds",
-        "The IBM Thinkpad’s 1992 debut",
-        "How fast is Python 3.15?"
+        "The IBM Thinkpad’s 1992 debut"
       ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Scrutinized (05 Oct 2026)",
+          "link": "https://pluralistic.net/2026/10/05/pervert-glasses/"
+        },
         {
           "feed_title": "shkspr.mobi",
           "title": "[RSS Club] Changes to the RSS and Atom feeds",
@@ -44,40 +112,35 @@
           "feed_title": "dfarq.homeip.net",
           "title": "The IBM Thinkpad’s 1992 debut",
           "link": "https://dfarq.homeip.net/the-ibm-thinkpads-1992-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-ibm-thinkpads-1992-debut"
-        },
-        {
-          "feed_title": "miguelgrinberg.com",
-          "title": "How fast is Python 3.15?",
-          "link": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15"
         }
       ],
-      "summary_zh": "2026-10-05 技术日报：[RSS Club] Changes to the RSS and Atom feeds；The IBM Thinkpad’s 1992 debut；How fast is Python 3.15?。",
-      "summary_en": "Daily brief (2026-10-05): [RSS Club] Changes to the RSS and Atom feeds; The IBM Thinkpad’s 1992 debut; How fast is Python 3.15?.",
+      "summary_zh": "2026-10-05 技术日报：Pluralistic: Scrutinized (05 Oct 2026)；[RSS Club] Changes to the RSS and Atom feeds；The IBM Thinkpad’s 1992 debut。",
+      "summary_en": "Daily brief (2026-10-05): Pluralistic: Scrutinized (05 Oct 2026); [RSS Club] Changes to the RSS and Atom feeds; The IBM Thinkpad’s 1992 debut.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-05 日报】[RSS Club] Changes to the RSS and Atom feeds；The IBM Thinkpad’s 1992 debut；How fast is Python 3.15?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-05): [RSS Club] Changes to the RSS and Atom feeds; The IBM Thinkpad’s 1992 debut; How fast is Python 3.15?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-05 日报】Pluralistic: Scrutinized (05 Oct 2026)；[RSS Club] Changes to the RSS and Atom feeds；The IBM Thinkpad’s 1992 debut。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-05): Pluralistic: Scrutinized (05 Oct 2026); [RSS Club] Changes to the RSS and Atom feeds; The IBM Thinkpad’s 1992 debut. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-05）\n- [RSS Club] Changes to the RSS and Atom feeds\n- The IBM Thinkpad’s 1992 debut\n- How fast is Python 3.15?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/\n- https://dfarq.homeip.net/the-ibm-thinkpads-1992-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-ibm-thinkpads-1992-debut\n- https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-05)\n- [RSS Club] Changes to the RSS and Atom feeds\n- The IBM Thinkpad’s 1992 debut\n- How fast is Python 3.15?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/\n- https://dfarq.homeip.net/the-ibm-thinkpads-1992-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-ibm-thinkpads-1992-debut\n- https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-05）\n- Pluralistic: Scrutinized (05 Oct 2026)\n- [RSS Club] Changes to the RSS and Atom feeds\n- The IBM Thinkpad’s 1992 debut\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/10/05/pervert-glasses/\n- https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/\n- https://dfarq.homeip.net/the-ibm-thinkpads-1992-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-ibm-thinkpads-1992-debut\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-05)\n- Pluralistic: Scrutinized (05 Oct 2026)\n- [RSS Club] Changes to the RSS and Atom feeds\n- The IBM Thinkpad’s 1992 debut\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/10/05/pervert-glasses/\n- https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/\n- https://dfarq.homeip.net/the-ibm-thinkpads-1992-debut/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-ibm-thinkpads-1992-debut\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：[RSS Club] Changes to the RSS and Atom feeds；The IBM Thinkpad’s 1992 debut；How fast is Python 3.15?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: [RSS Club] Changes to the RSS and Atom feeds; The IBM Thinkpad’s 1992 debut; How fast is Python 3.15?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: Scrutinized (05 Oct 2026)；[RSS Club] Changes to the RSS and Atom feeds；The IBM Thinkpad’s 1992 debut。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Scrutinized (05 Oct 2026); [RSS Club] Changes to the RSS and Atom feeds; The IBM Thinkpad’s 1992 debut.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-10-04",
-      "total": 9,
+      "total": 10,
       "feeds": [
         "abortretry.fail (1)",
         "blog.jim-nielsen.com (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
         "johndcook.com (1)",
-        "shkspr.mobi (1)"
+        "maurycyz.com (1)"
       ],
       "highlights": [
         "abortretry.fail · Zenith Data Systems, Part I",
@@ -1147,7 +1210,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · System One models like Jev can train their own replacements"
+        "seangoedecke.com · Grit your teeth and ship it"
       ],
       "key_points": [
         "Quoting voxium",
@@ -1982,8 +2045,8 @@
         "blog.jim-nielsen.com · Don’t Let Anyone Take Away Your Big Box of Cables",
         "johndcook.com · A 50-year-old computer-assisted proof",
         "johndcook.com · AI is an intelligence multiplier",
-        "borretti.me · The Other Road",
-        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?"
+        "devblogs.microsoft.com/oldnewthing · What algorithm did Windows XP use to choose your initial user picture?",
+        "borretti.me · The Other Road"
       ],
       "key_points": [
         "We own the Glass",
@@ -2191,82 +2254,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Quoting Jakub Pachocki；[Sponsor] Glyphs 4；Clickable whitespace。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Quoting Jakub Pachocki; [Sponsor] Glyphs 4; Clickable whitespace.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "total": 11,
-      "feeds": [
-        "daringfireball.net (3)",
-        "simonwillison.net (3)",
-        "berthub.eu (1)",
-        "martinalderson.com (1)",
-        "michael.stapelberg.ch (1)",
-        "shkspr.mobi (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Meta AI Has a Native Mac App Now, and It Seems Decent",
-        "daringfireball.net · Trump Administration Launches Rip-Off Video Games at Arcade.gov",
-        "daringfireball.net · Litterbox: Safari Extension for Viewing X Tweets",
-        "simonwillison.net · The purpose of DNS is to spread scams",
-        "berthub.eu · Kunsten '92 praatje: De AI Trein",
-        "shkspr.mobi · The purpose of DNS is to spread scams"
-      ],
-      "key_points": [
-        "Meta AI Has a Native Mac App Now, and It Seems Decent",
-        "Trump Administration Launches Rip-Off Video Games at Arcade.gov",
-        "Litterbox: Safari Extension for Viewing X Tweets",
-        "The purpose of DNS is to spread scams"
-      ],
-      "key_points_zh": [
-        "Meta AI Has a Native Mac App Now, and It Seems Decent",
-        "Trump Administration Launches Rip-Off Video Games at Arcade.gov",
-        "Litterbox: Safari Extension for Viewing X Tweets",
-        "The purpose of DNS is to spread scams"
-      ],
-      "key_points_en": [
-        "Meta AI Has a Native Mac App Now, and It Seems Decent",
-        "Trump Administration Launches Rip-Off Video Games at Arcade.gov",
-        "Litterbox: Safari Extension for Viewing X Tweets",
-        "The purpose of DNS is to spread scams"
-      ],
-      "tweet_drafts": [
-        "Meta AI Has a Native Mac App Now, and It Seems Decent",
-        "Trump Administration Launches Rip-Off Video Games at Arcade.gov",
-        "Litterbox: Safari Extension for Viewing X Tweets"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Meta AI Has a Native Mac App Now, and It Seems Decent",
-          "link": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Trump Administration Launches Rip-Off Video Games at Arcade.gov",
-          "link": "https://x.com/WhiteHouse/status/2095615734567100766"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Litterbox: Safari Extension for Viewing X Tweets",
-          "link": "https://andadinosaur.com/launch-litterbox"
-        }
-      ],
-      "summary_zh": "2026-09-06 技术日报：Meta AI Has a Native Mac App Now, and It Seems Decent；Trump Administration Launches Rip-Off Video Games at Arcade.gov；Litterbox: Safari Extension for Viewing X Tweets。",
-      "summary_en": "Daily brief (2026-09-06): Meta AI Has a Native Mac App Now, and It Seems Decent; Trump Administration Launches Rip-Off Video Games at Arcade.gov; Litterbox: Safari Extension for Viewing X Tweets.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-09-06 日报】Meta AI Has a Native Mac App Now, and It Seems Decent；Trump Administration Launches Rip-Off Video Games at Arcade.gov；Litterbox: Safari Extension for Viewing X Tweets。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-06): Meta AI Has a Native Mac App Now, and It Seems Decent; Trump Administration Launches Rip-Off Video Games at Arcade.gov; Litterbox: Safari Extension for Viewing X Tweets. Actionable takeaways included. What would you ship next? #AI #E"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-09-06）\n- Meta AI Has a Native Mac App Now, and It Seems Decent\n- Trump Administration Launches Rip-Off Video Games at Arcade.gov\n- Litterbox: Safari Extension for Viewing X Tweets\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/\n- https://x.com/WhiteHouse/status/2095615734567100766\n- https://andadinosaur.com/launch-litterbox\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-06)\n- Meta AI Has a Native Mac App Now, and It Seems Decent\n- Trump Administration Launches Rip-Off Video Games at Arcade.gov\n- Litterbox: Safari Extension for Viewing X Tweets\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/\n- https://x.com/WhiteHouse/status/2095615734567100766\n- https://andadinosaur.com/launch-litterbox\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Meta AI Has a Native Mac App Now, and It Seems Decent；Trump Administration Launches Rip-Off Video Games at Arcade.gov；Litterbox: Safari Extension for Viewing X Tweets。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Meta AI Has a Native Mac App Now, and It Seems Decent; Trump Administration Launches Rip-Off Video Games at Arcade.gov; Litterbox: Safari Extension for Viewing X Tweets.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

@@ -1,8 +1,9 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-05 12:47:30 UTC
+Generated at: 2026-10-06 01:34:08 UTC
 
-- [[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) (`shkspr.mobi`)
-- [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/) (`blog.jim-nielsen.com`)
-- [The IBM Thinkpad’s 1992 debut](https://dfarq.homeip.net/the-ibm-thinkpads-1992-debut/?utm_source=rss&utm_medium=rss&utm_campaign=the-ibm-thinkpads-1992-debut) (`dfarq.homeip.net`)
-- [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15) (`miguelgrinberg.com`)
+- [[Sponsor] Sunnny](https://sunnny.com/) (`daringfireball.net`)
+- [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) (`simonwillison.net`)
+- [Benchmark In Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html) (`matklad.github.io`)
+- [The indicators of a quality website (somewhat silly)](https://maurycyz.com/misc/quality/indicators.html) (`maurycyz.com`)
+- [Pluralistic: Scrutinized (05 Oct 2026)](https://pluralistic.net/2026/10/05/pervert-glasses/) (`pluralistic.net`)
