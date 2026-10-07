@@ -1,16 +1,90 @@
 {
-  "generated_at": "2026-10-06T22:44:20Z",
+  "generated_at": "2026-10-07T12:08:47Z",
   "days": [
     {
+      "date": "2026-10-07",
+      "total": 5,
+      "feeds": [
+        "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
+        "nesbitt.io (1)",
+        "seangoedecke.com (1)",
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "dfarq.homeip.net · Max Toy, embattled Commodore president",
+        "nesbitt.io · Package Management RFCs",
+        "simonwillison.net · Quoting Jake Boggan",
+        "johndcook.com · Lissajous and Bowditch",
+        "seangoedecke.com · How to read code"
+      ],
+      "key_points": [
+        "Max Toy, embattled Commodore president",
+        "Package Management RFCs",
+        "Quoting Jake Boggan",
+        "Lissajous and Bowditch"
+      ],
+      "key_points_zh": [
+        "Max Toy, embattled Commodore president",
+        "Package Management RFCs",
+        "Quoting Jake Boggan",
+        "Lissajous and Bowditch"
+      ],
+      "key_points_en": [
+        "Max Toy, embattled Commodore president",
+        "Package Management RFCs",
+        "Quoting Jake Boggan",
+        "Lissajous and Bowditch"
+      ],
+      "tweet_drafts": [
+        "Max Toy, embattled Commodore president",
+        "Package Management RFCs",
+        "Quoting Jake Boggan"
+      ],
+      "sources": [
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Max Toy, embattled Commodore president",
+          "link": "https://dfarq.homeip.net/max-toy-embattled-commodore-president/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=max-toy-embattled-commodore-president"
+        },
+        {
+          "feed_title": "nesbitt.io",
+          "title": "Package Management RFCs",
+          "link": "https://nesbitt.io/2026/10/07/package-management-rfcs.html"
+        },
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Jake Boggan",
+          "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/"
+        }
+      ],
+      "summary_zh": "2026-10-07 技术日报：Max Toy, embattled Commodore president；Package Management RFCs；Quoting Jake Boggan。",
+      "summary_en": "Daily brief (2026-10-07): Max Toy, embattled Commodore president; Package Management RFCs; Quoting Jake Boggan.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-10-07 日报】Max Toy, embattled Commodore president；Package Management RFCs；Quoting Jake Boggan。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-07): Max Toy, embattled Commodore president; Package Management RFCs; Quoting Jake Boggan. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-10-07）\n- Max Toy, embattled Commodore president\n- Package Management RFCs\n- Quoting Jake Boggan\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/max-toy-embattled-commodore-president/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=max-toy-embattled-commodore-president\n- https://nesbitt.io/2026/10/07/package-management-rfcs.html\n- https://simonwillison.net/2026/Oct/7/jake-boggan/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-07)\n- Max Toy, embattled Commodore president\n- Package Management RFCs\n- Quoting Jake Boggan\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/max-toy-embattled-commodore-president/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=max-toy-embattled-commodore-president\n- https://nesbitt.io/2026/10/07/package-management-rfcs.html\n- https://simonwillison.net/2026/Oct/7/jake-boggan/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Max Toy, embattled Commodore president；Package Management RFCs；Quoting Jake Boggan。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Max Toy, embattled Commodore president; Package Management RFCs; Quoting Jake Boggan.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-10-06",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "daringfireball.net (3)",
         "simonwillison.net (3)",
         "blog.jim-nielsen.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
-        "lucumr.pocoo.org (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
         "simonwillison.net · llm-mistral 0.16",
@@ -1232,7 +1306,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "computer.rip · a new world airport and its baggage"
+        "seangoedecke.com · System One models like Jev can train their own replacements"
       ],
       "key_points": [
         "Quoting voxium",
@@ -2200,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：‘Modern Day Typographer’；Introducing ChatGPT Images 2.5；Better AI code comment detector。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ‘Modern Day Typographer’; Introducing ChatGPT Images 2.5; Better AI code comment detector.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-09-07",
-      "total": 11,
-      "feeds": [
-        "daringfireball.net (2)",
-        "simonwillison.net (2)",
-        "borretti.me (1)",
-        "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
-        "johndcook.com (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Quoting Jakub Pachocki",
-        "daringfireball.net · [Sponsor] Glyphs 4",
-        "idiallo.com · Clickable whitespace",
-        "daringfireball.net · Matt Birchler’s Folding iPhone Predictions",
-        "johndcook.com · Ngram error rate",
-        "borretti.me · The Education of a Doomer"
-      ],
-      "key_points": [
-        "Quoting Jakub Pachocki",
-        "[Sponsor] Glyphs 4",
-        "Clickable whitespace",
-        "Matt Birchler’s Folding iPhone Predictions"
-      ],
-      "key_points_zh": [
-        "Quoting Jakub Pachocki",
-        "[Sponsor] Glyphs 4",
-        "Clickable whitespace",
-        "Matt Birchler’s Folding iPhone Predictions"
-      ],
-      "key_points_en": [
-        "Quoting Jakub Pachocki",
-        "[Sponsor] Glyphs 4",
-        "Clickable whitespace",
-        "Matt Birchler’s Folding iPhone Predictions"
-      ],
-      "tweet_drafts": [
-        "Quoting Jakub Pachocki",
-        "[Sponsor] Glyphs 4",
-        "Clickable whitespace"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting Jakub Pachocki",
-          "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] Glyphs 4",
-          "link": "https://glyphsapp.com/"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Clickable whitespace",
-          "link": "https://idiallo.com/blog/clickable-whitespace"
-        }
-      ],
-      "summary_zh": "2026-09-07 技术日报：Quoting Jakub Pachocki；[Sponsor] Glyphs 4；Clickable whitespace。",
-      "summary_en": "Daily brief (2026-09-07): Quoting Jakub Pachocki; [Sponsor] Glyphs 4; Clickable whitespace.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-09-07 日报】Quoting Jakub Pachocki；[Sponsor] Glyphs 4；Clickable whitespace。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-07): Quoting Jakub Pachocki; [Sponsor] Glyphs 4; Clickable whitespace. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-09-07）\n- Quoting Jakub Pachocki\n- [Sponsor] Glyphs 4\n- Clickable whitespace\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Sep/7/jakub-pachocki/\n- https://glyphsapp.com/\n- https://idiallo.com/blog/clickable-whitespace\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-07)\n- Quoting Jakub Pachocki\n- [Sponsor] Glyphs 4\n- Clickable whitespace\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Sep/7/jakub-pachocki/\n- https://glyphsapp.com/\n- https://idiallo.com/blog/clickable-whitespace\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Quoting Jakub Pachocki；[Sponsor] Glyphs 4；Clickable whitespace。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quoting Jakub Pachocki; [Sponsor] Glyphs 4; Clickable whitespace.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
