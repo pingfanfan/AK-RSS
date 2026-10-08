@@ -1,6 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-08 18:55:18 UTC
+Generated at: 2026-10-08 23:35:13 UTC
 
-- [Privacy policies and modal logic](https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/) (`johndcook.com`)
-- [“Getting off the Modernization Treadmill”](https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/) (`blog.jim-nielsen.com`)
+- [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/) (`simonwillison.net`)
+- [Let’s Check In on Trump’s Blog](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) (`daringfireball.net`)
+- [Let’s Deconstruct Photoshop](https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake) (`tedium.co`)
