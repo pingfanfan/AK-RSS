@@ -1,9 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-09 12:09:32 UTC
+Generated at: 2026-10-09 18:25:47 UTC
 
-- [ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/) (`simonwillison.net`)
-- [If one anti-malware software is good, does that make two better?](https://devblogs.microsoft.com/oldnewthing/20261008-00/?p=112762/) (`devblogs.microsoft.com/oldnewthing`)
-- [20 Minutes of Political Debate, Brought to You by Commercial Breaks](https://idiallo.com/byte-size/20-minutes-of-political-debate) (`idiallo.com`)
-- [iFlac: Sync your FLAC files to your iPhone from Linux](https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html) (`jayd.ml`)
-- [Commodore’s knockoff Atari joystick from 1982](https://dfarq.homeip.net/commodores-knockoff-atari-joystick-from-1982/?utm_source=rss&utm_medium=rss&utm_campaign=commodores-knockoff-atari-joystick-from-1982) (`dfarq.homeip.net`)
+- [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/) (`simonwillison.net`)
+- [Concert Review: London Voices - Video Games Go Choral ★★★★☆](https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/) (`shkspr.mobi`)
+- [No Man Is an Island](https://borretti.me/article/no-man-is-an-island) (`borretti.me`)
+- [Why do OpenAI's GPT-2 weights beat mine?  Part three: testing overtraining](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining) (`gilesthomas.com`)
+- [Premium: The Hater's Guide To Junk](https://www.wheresyoured.at/premium-the-haters-guide-to-junk/) (`wheresyoured.at`)
+- [An Ion Storm!, Part 1: The Ascent to Gamer Paradise](https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/) (`filfre.net`)
