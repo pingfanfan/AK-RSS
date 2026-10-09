@@ -1,10 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-09 18:25:47 UTC
+Generated at: 2026-10-09 22:46:07 UTC
 
-- [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/) (`simonwillison.net`)
-- [Concert Review: London Voices - Video Games Go Choral ★★★★☆](https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/) (`shkspr.mobi`)
-- [No Man Is an Island](https://borretti.me/article/no-man-is-an-island) (`borretti.me`)
-- [Why do OpenAI's GPT-2 weights beat mine?  Part three: testing overtraining](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining) (`gilesthomas.com`)
-- [Premium: The Hater's Guide To Junk](https://www.wheresyoured.at/premium-the-haters-guide-to-junk/) (`wheresyoured.at`)
-- [An Ion Storm!, Part 1: The Ascent to Gamer Paradise](https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/) (`filfre.net`)
+- [Radxa's Q8B has 2x the performance and expansion of the Pi 5](https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/) (`jeffgeerling.com`)
+- [Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/) (`seangoedecke.com`)
+- [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/) (`pluralistic.net`)
+- [Name Shame](https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history) (`tedium.co`)
