@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-10 11:27:05 UTC
+Generated at: 2026-10-10 16:17:55 UTC
 
-- [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) (`simonwillison.net`)
-- [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) (`krebsonsecurity.com`)
-- [This Week in Package Management: 10 October 2026](https://nesbitt.io/2026/10/10/this-week-in-package-management.html) (`nesbitt.io`)
-- [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html) (`geohot.github.io`)
+- [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/) (`shkspr.mobi`)
+- [Reading List 10/10/26](https://www.construction-physics.com/p/reading-list-101026) (`construction-physics.com`)
+- [The Infogrames-Atari merger of 2008](https://dfarq.homeip.net/the-infogrames-atari-merger-of-2008/?utm_source=rss&utm_medium=rss&utm_campaign=the-infogrames-atari-merger-of-2008) (`dfarq.homeip.net`)
