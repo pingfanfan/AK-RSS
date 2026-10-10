@@ -1,7 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-10 16:17:55 UTC
+Generated at: 2026-10-10 20:11:15 UTC
 
-- [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/) (`shkspr.mobi`)
-- [Reading List 10/10/26](https://www.construction-physics.com/p/reading-list-101026) (`construction-physics.com`)
-- [The Infogrames-Atari merger of 2008](https://dfarq.homeip.net/the-infogrames-atari-merger-of-2008/?utm_source=rss&utm_medium=rss&utm_campaign=the-infogrames-atari-merger-of-2008) (`dfarq.homeip.net`)
+- [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html) (`righto.com`)
