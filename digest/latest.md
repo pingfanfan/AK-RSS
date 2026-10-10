@@ -1,8 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-09 22:46:07 UTC
+Generated at: 2026-10-10 11:27:05 UTC
 
-- [Radxa's Q8B has 2x the performance and expansion of the Pi 5](https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/) (`jeffgeerling.com`)
-- [Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/) (`seangoedecke.com`)
-- [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/) (`pluralistic.net`)
-- [Name Shame](https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history) (`tedium.co`)
+- [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) (`simonwillison.net`)
+- [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) (`krebsonsecurity.com`)
+- [This Week in Package Management: 10 October 2026](https://nesbitt.io/2026/10/10/this-week-in-package-management.html) (`nesbitt.io`)
+- [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html) (`geohot.github.io`)
