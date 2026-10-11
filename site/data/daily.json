@@ -1,70 +1,77 @@
 {
-  "generated_at": "2026-10-11T11:40:48Z",
+  "generated_at": "2026-10-11T16:51:16Z",
   "days": [
     {
       "date": "2026-10-11",
-      "total": 3,
+      "total": 5,
       "feeds": [
         "dfarq.homeip.net (1)",
+        "idiallo.com (1)",
         "seangoedecke.com (1)",
+        "shkspr.mobi (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "idiallo.com · Why I Get Bored",
+        "shkspr.mobi · I paid people to try and follow my README",
         "dfarq.homeip.net · Ward Christensen, telecommunications pioneer",
         "simonwillison.net · Dwarf Fortress uses version control now",
         "seangoedecke.com · Don't diagnose your opponents"
       ],
       "key_points": [
+        "Why I Get Bored",
+        "I paid people to try and follow my README",
         "Ward Christensen, telecommunications pioneer",
-        "Dwarf Fortress uses version control now",
-        "Don't diagnose your opponents"
+        "Dwarf Fortress uses version control now"
       ],
       "key_points_zh": [
+        "Why I Get Bored",
+        "I paid people to try and follow my README",
         "Ward Christensen, telecommunications pioneer",
-        "Dwarf Fortress uses version control now",
-        "Don't diagnose your opponents"
+        "Dwarf Fortress uses version control now"
       ],
       "key_points_en": [
+        "Why I Get Bored",
+        "I paid people to try and follow my README",
         "Ward Christensen, telecommunications pioneer",
-        "Dwarf Fortress uses version control now",
-        "Don't diagnose your opponents"
+        "Dwarf Fortress uses version control now"
       ],
       "tweet_drafts": [
-        "Ward Christensen, telecommunications pioneer",
-        "Dwarf Fortress uses version control now",
-        "Don't diagnose your opponents"
+        "Why I Get Bored",
+        "I paid people to try and follow my README",
+        "Ward Christensen, telecommunications pioneer"
       ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Why I Get Bored",
+          "link": "https://idiallo.com/byte-size/why-i-get-bored"
+        },
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "I paid people to try and follow my README",
+          "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "Ward Christensen, telecommunications pioneer",
           "link": "https://dfarq.homeip.net/ward-christensen-telecommunications-pioneer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ward-christensen-telecommunications-pioneer"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Dwarf Fortress uses version control now",
-          "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/"
-        },
-        {
-          "feed_title": "seangoedecke.com",
-          "title": "Don't diagnose your opponents",
-          "link": "https://seangoedecke.com/dont-diagnose-your-opponents/"
         }
       ],
-      "summary_zh": "2026-10-11 技术日报：Ward Christensen, telecommunications pioneer；Dwarf Fortress uses version control now；Don't diagnose your opponents。",
-      "summary_en": "Daily brief (2026-10-11): Ward Christensen, telecommunications pioneer; Dwarf Fortress uses version control now; Don't diagnose your opponents.",
+      "summary_zh": "2026-10-11 技术日报：Why I Get Bored；I paid people to try and follow my README；Ward Christensen, telecommunications pioneer。",
+      "summary_en": "Daily brief (2026-10-11): Why I Get Bored; I paid people to try and follow my README; Ward Christensen, telecommunications pioneer.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-11 日报】Ward Christensen, telecommunications pioneer；Dwarf Fortress uses version control now；Don't diagnose your opponents。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-11): Ward Christensen, telecommunications pioneer; Dwarf Fortress uses version control now; Don't diagnose your opponents. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-11 日报】Why I Get Bored；I paid people to try and follow my README；Ward Christensen, telecommunications pioneer。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-11): Why I Get Bored; I paid people to try and follow my README; Ward Christensen, telecommunications pioneer. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-11）\n- Ward Christensen, telecommunications pioneer\n- Dwarf Fortress uses version control now\n- Don't diagnose your opponents\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/ward-christensen-telecommunications-pioneer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ward-christensen-telecommunications-pioneer\n- https://simonwillison.net/2026/Oct/11/dwarf-fortress/\n- https://seangoedecke.com/dont-diagnose-your-opponents/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-11)\n- Ward Christensen, telecommunications pioneer\n- Dwarf Fortress uses version control now\n- Don't diagnose your opponents\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/ward-christensen-telecommunications-pioneer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ward-christensen-telecommunications-pioneer\n- https://simonwillison.net/2026/Oct/11/dwarf-fortress/\n- https://seangoedecke.com/dont-diagnose-your-opponents/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-11）\n- Why I Get Bored\n- I paid people to try and follow my README\n- Ward Christensen, telecommunications pioneer\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/why-i-get-bored\n- https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/\n- https://dfarq.homeip.net/ward-christensen-telecommunications-pioneer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ward-christensen-telecommunications-pioneer\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-11)\n- Why I Get Bored\n- I paid people to try and follow my README\n- Ward Christensen, telecommunications pioneer\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/why-i-get-bored\n- https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/\n- https://dfarq.homeip.net/ward-christensen-telecommunications-pioneer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=ward-christensen-telecommunications-pioneer\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Ward Christensen, telecommunications pioneer；Dwarf Fortress uses version control now；Don't diagnose your opponents。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Ward Christensen, telecommunications pioneer; Dwarf Fortress uses version control now; Don't diagnose your opponents.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Why I Get Bored；I paid people to try and follow my README；Ward Christensen, telecommunications pioneer。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Why I Get Bored; I paid people to try and follow my README; Ward Christensen, telecommunications pioneer.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -769,7 +776,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "derekthompson.org · Death of the Dinner Party"
+        "nesbitt.io · Software Heritage Identifiers"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
@@ -1603,7 +1610,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · Grit your teeth and ship it"
+        "seangoedecke.com · System One models like Jev can train their own replacements"
       ],
       "key_points": [
         "Quoting voxium",
