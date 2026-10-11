@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-11 16:51:02 UTC
+Generated at: 2026-10-11 20:38:51 UTC
 
-- [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored) (`idiallo.com`)
-- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) (`shkspr.mobi`)
+- [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/) (`daringfireball.net`)
