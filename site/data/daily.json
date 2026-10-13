@@ -1,125 +1,130 @@
 {
-  "generated_at": "2026-10-13T13:01:33Z",
+  "generated_at": "2026-10-13T19:54:13Z",
   "days": [
     {
       "date": "2026-10-13",
-      "total": 6,
+      "total": 11,
       "feeds": [
+        "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)",
-        "steveblank.com (1)",
-        "troyhunt.com (1)"
+        "johndcook.com (1)",
+        "pluralistic.net (1)"
       ],
       "highlights": [
-        "steveblank.com · Subterranean Warfare – An Urgent DoW Need Without An Owner",
-        "pluralistic.net · Pluralistic: Bundestrojaner (13 Oct 2026)",
-        "shkspr.mobi · Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
-        "dfarq.homeip.net · What happened to Ashton-Tate and dBase",
-        "troyhunt.com · Weekly Update 525: AI Data Breach Hyperbole",
-        "idiallo.com · The Last Answer"
+        "wheresyoured.at · Annualized Enron Rate",
+        "daringfireball.net · Apple HomeView",
+        "devblogs.microsoft.com/oldnewthing · C++ futures part 2: The mental model for std::promise, std::packaged_task",
+        "johndcook.com · Harmonic triangle",
+        "simonwillison.net · Quoting Geoffrey Huntley",
+        "steveblank.com · Subterranean Warfare – An Urgent DoW Need Without An Owner"
       ],
       "key_points": [
-        "Subterranean Warfare – An Urgent DoW Need Without An Owner",
-        "Pluralistic: Bundestrojaner (13 Oct 2026)",
-        "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
-        "What happened to Ashton-Tate and dBase"
+        "Annualized Enron Rate",
+        "Apple HomeView",
+        "C++ futures part 2: The mental model for std::promise, std::packaged_task",
+        "Harmonic triangle"
       ],
       "key_points_zh": [
-        "Subterranean Warfare – An Urgent DoW Need Without An Owner",
-        "Pluralistic: Bundestrojaner (13 Oct 2026)",
-        "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
-        "What happened to Ashton-Tate and dBase"
+        "Annualized Enron Rate",
+        "Apple HomeView",
+        "C++ futures part 2: The mental model for std::promise, std::packaged_task",
+        "Harmonic triangle"
       ],
       "key_points_en": [
-        "Subterranean Warfare – An Urgent DoW Need Without An Owner",
-        "Pluralistic: Bundestrojaner (13 Oct 2026)",
-        "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
-        "What happened to Ashton-Tate and dBase"
+        "Annualized Enron Rate",
+        "Apple HomeView",
+        "C++ futures part 2: The mental model for std::promise, std::packaged_task",
+        "Harmonic triangle"
       ],
       "tweet_drafts": [
-        "Subterranean Warfare – An Urgent DoW Need Without An Owner",
-        "Pluralistic: Bundestrojaner (13 Oct 2026)",
-        "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★"
+        "Annualized Enron Rate",
+        "Apple HomeView",
+        "C++ futures part 2: The mental model for std::promise, std::packaged_task"
       ],
       "sources": [
         {
-          "feed_title": "steveblank.com",
-          "title": "Subterranean Warfare – An Urgent DoW Need Without An Owner",
-          "link": "https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/"
+          "feed_title": "wheresyoured.at",
+          "title": "Annualized Enron Rate",
+          "link": "https://www.wheresyoured.at/annualized-enron-rate/"
         },
         {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Bundestrojaner (13 Oct 2026)",
-          "link": "https://pluralistic.net/2026/10/13/petards-r-us/"
+          "feed_title": "daringfireball.net",
+          "title": "Apple HomeView",
+          "link": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
         },
         {
-          "feed_title": "shkspr.mobi",
-          "title": "Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★",
-          "link": "https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "C++ futures part 2: The mental model for std::promise, std::packaged_task",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/"
         }
       ],
-      "summary_zh": "2026-10-13 技术日报：Subterranean Warfare – An Urgent DoW Need Without An Owner；Pluralistic: Bundestrojaner (13 Oct 2026)；Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★。",
-      "summary_en": "Daily brief (2026-10-13): Subterranean Warfare – An Urgent DoW Need Without An Owner; Pluralistic: Bundestrojaner (13 Oct 2026); Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★.",
+      "summary_zh": "2026-10-13 技术日报：Annualized Enron Rate；Apple HomeView；C++ futures part 2: The mental model for std::promise, std::packaged_task。",
+      "summary_en": "Daily brief (2026-10-13): Annualized Enron Rate; Apple HomeView; C++ futures part 2: The mental model for std::promise, std::packaged_task.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-13 日报】Subterranean Warfare – An Urgent DoW Need Without An Owner；Pluralistic: Bundestrojaner (13 Oct 2026)；Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-13): Subterranean Warfare – An Urgent DoW Need Without An Owner; Pluralistic: Bundestrojaner (13 Oct 2026); Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★. Actionable takeaways included. What would you ship ne"
+          "zh": "【2026-10-13 日报】Annualized Enron Rate；Apple HomeView；C++ futures part 2: The mental model for std::promise, std::packaged_task。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-13): Annualized Enron Rate; Apple HomeView; C++ futures part 2: The mental model for std::promise, std::packaged_task. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-13）\n- Subterranean Warfare – An Urgent DoW Need Without An Owner\n- Pluralistic: Bundestrojaner (13 Oct 2026)\n- Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/\n- https://pluralistic.net/2026/10/13/petards-r-us/\n- https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-13)\n- Subterranean Warfare – An Urgent DoW Need Without An Owner\n- Pluralistic: Bundestrojaner (13 Oct 2026)\n- Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/\n- https://pluralistic.net/2026/10/13/petards-r-us/\n- https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-13）\n- Annualized Enron Rate\n- Apple HomeView\n- C++ futures part 2: The mental model for std::promise, std::packaged_task\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n- https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-13)\n- Annualized Enron Rate\n- Apple HomeView\n- C++ futures part 2: The mental model for std::promise, std::packaged_task\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n- https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Subterranean Warfare – An Urgent DoW Need Without An Owner；Pluralistic: Bundestrojaner (13 Oct 2026)；Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Subterranean Warfare – An Urgent DoW Need Without An Owner; Pluralistic: Bundestrojaner (13 Oct 2026); Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Annualized Enron Rate；Apple HomeView；C++ futures part 2: The mental model for std::promise, std::packaged_task。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Annualized Enron Rate; Apple HomeView; C++ futures part 2: The mental model for std::promise, std::packaged_task.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
     {
       "date": "2026-10-12",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "blog.jim-nielsen.com (1)",
         "computer.rip (1)",
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "johndcook.com (1)"
+        "entropicthoughts.com (1)"
       ],
       "highlights": [
+        "entropicthoughts.com · The geometric model of maintenance",
         "blog.jim-nielsen.com · The Dock on Mac, From OS 10 to macOS 27",
         "simonwillison.net · Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
         "daringfireball.net · Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
         "tedium.co · The X is Off-Target",
-        "devblogs.microsoft.com/oldnewthing · C++ futures part 1: The mental model",
-        "johndcook.com · Categorical models of logics"
+        "devblogs.microsoft.com/oldnewthing · C++ futures part 1: The mental model"
       ],
       "key_points": [
-        "The Dock on Mac, From OS 10 to macOS 27",
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-        "The X is Off-Target"
-      ],
-      "key_points_zh": [
-        "The Dock on Mac, From OS 10 to macOS 27",
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-        "The X is Off-Target"
-      ],
-      "key_points_en": [
-        "The Dock on Mac, From OS 10 to macOS 27",
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-        "The X is Off-Target"
-      ],
-      "tweet_drafts": [
+        "The geometric model of maintenance",
         "The Dock on Mac, From OS 10 to macOS 27",
         "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
         "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73"
       ],
+      "key_points_zh": [
+        "The geometric model of maintenance",
+        "The Dock on Mac, From OS 10 to macOS 27",
+        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73"
+      ],
+      "key_points_en": [
+        "The geometric model of maintenance",
+        "The Dock on Mac, From OS 10 to macOS 27",
+        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73"
+      ],
+      "tweet_drafts": [
+        "The geometric model of maintenance",
+        "The Dock on Mac, From OS 10 to macOS 27",
+        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11"
+      ],
       "sources": [
+        {
+          "feed_title": "entropicthoughts.com",
+          "title": "The geometric model of maintenance",
+          "link": "https://entropicthoughts.com/geometric-model-of-maintenance"
+        },
         {
           "feed_title": "blog.jim-nielsen.com",
           "title": "The Dock on Mac, From OS 10 to macOS 27",
@@ -129,27 +134,22 @@
           "feed_title": "simonwillison.net",
           "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
           "link": "https://simonwillison.net/2026/Oct/12/python-3-15/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-          "link": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr"
         }
       ],
-      "summary_zh": "2026-10-12 技术日报：The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73。",
-      "summary_en": "Daily brief (2026-10-12): The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73.",
+      "summary_zh": "2026-10-12 技术日报：The geometric model of maintenance；The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11。",
+      "summary_en": "Daily brief (2026-10-12): The geometric model of maintenance; The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-12 日报】The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-12): The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildI"
+          "zh": "【2026-10-12 日报】The geometric model of maintenance；The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-12): The geometric model of maintenance; The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-12）\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n- Mark Stephens, a.k.a. Robert X. Cringely, Died at 73\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n- https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-12)\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n- Mark Stephens, a.k.a. Robert X. Cringely, Died at 73\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n- https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-12）\n- The geometric model of maintenance\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/geometric-model-of-maintenance\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-12)\n- The geometric model of maintenance\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/geometric-model-of-maintenance\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The geometric model of maintenance；The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The geometric model of maintenance; The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -930,7 +930,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "nesbitt.io · Software Heritage Identifiers"
+        "derekthompson.org · Death of the Dinner Party"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
@@ -1764,7 +1764,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · System One models like Jev can train their own replacements"
+        "seangoedecke.com · Grit your teeth and ship it"
       ],
       "key_points": [
         "Quoting voxium",

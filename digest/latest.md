@@ -1,11 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-13 13:01:13 UTC
+Generated at: 2026-10-13 19:53:59 UTC
 
-- [The Last Answer](https://idiallo.com/blog/the-last-answer) (`idiallo.com`)
-- [C++ futures part 1: The mental model](https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/) (`devblogs.microsoft.com/oldnewthing`)
-- [Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★](https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/) (`shkspr.mobi`)
-- [Pluralistic: Bundestrojaner (13 Oct 2026)](https://pluralistic.net/2026/10/13/petards-r-us/) (`pluralistic.net`)
-- [What happened to Ashton-Tate and dBase](https://dfarq.homeip.net/what-happened-to-ashton-tate-and-dbase/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-ashton-tate-and-dbase) (`dfarq.homeip.net`)
-- [Subterranean Warfare – An Urgent DoW Need Without An Owner](https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/) (`steveblank.com`)
-- [Weekly Update 525: AI Data Breach Hyperbole](https://www.troyhunt.com/weekly-update-525/) (`troyhunt.com`)
+- [Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/) (`simonwillison.net`)
+- [C++ futures part 2: The mental model for std::promise, std::packaged_task](https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/) (`devblogs.microsoft.com/oldnewthing`)
+- [Apple HomeView](https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/) (`daringfireball.net`)
+- [Harmonic triangle](https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/) (`johndcook.com`)
+- [Annualized Enron Rate](https://www.wheresyoured.at/annualized-enron-rate/) (`wheresyoured.at`)
+- [The geometric model of maintenance](https://entropicthoughts.com/geometric-model-of-maintenance) (`entropicthoughts.com`)
