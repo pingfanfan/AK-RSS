@@ -1,49 +1,99 @@
 {
-  "generated_at": "2026-10-13T19:54:13Z",
+  "generated_at": "2026-10-13T23:28:10Z",
   "days": [
     {
+      "date": "2026-10-14",
+      "total": 1,
+      "feeds": [
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Redesigning source control at Anthropic"
+      ],
+      "key_points": [
+        "Redesigning source control at Anthropic"
+      ],
+      "key_points_zh": [
+        "Redesigning source control at Anthropic"
+      ],
+      "key_points_en": [
+        "Redesigning source control at Anthropic"
+      ],
+      "tweet_drafts": [
+        "Redesigning source control at Anthropic"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Redesigning source control at Anthropic",
+          "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
+        }
+      ],
+      "summary_zh": "2026-10-14 技术日报：Redesigning source control at Anthropic。",
+      "summary_en": "Daily brief (2026-10-14): Redesigning source control at Anthropic.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-10-14 日报】Redesigning source control at Anthropic。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-14): Redesigning source control at Anthropic. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-10-14）\n- Redesigning source control at Anthropic\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-14)\n- Redesigning source control at Anthropic\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Redesigning source control at Anthropic。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Redesigning source control at Anthropic.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-10-13",
-      "total": 11,
+      "total": 12,
       "feeds": [
         "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
+        "experimental-history.com (1)",
         "idiallo.com (1)",
-        "johndcook.com (1)",
-        "pluralistic.net (1)"
+        "johndcook.com (1)"
       ],
       "highlights": [
+        "experimental-history.com · Claude, don’t touch my lump",
         "wheresyoured.at · Annualized Enron Rate",
         "daringfireball.net · Apple HomeView",
         "devblogs.microsoft.com/oldnewthing · C++ futures part 2: The mental model for std::promise, std::packaged_task",
         "johndcook.com · Harmonic triangle",
-        "simonwillison.net · Quoting Geoffrey Huntley",
-        "steveblank.com · Subterranean Warfare – An Urgent DoW Need Without An Owner"
+        "simonwillison.net · Quoting Geoffrey Huntley"
       ],
       "key_points": [
-        "Annualized Enron Rate",
-        "Apple HomeView",
-        "C++ futures part 2: The mental model for std::promise, std::packaged_task",
-        "Harmonic triangle"
-      ],
-      "key_points_zh": [
-        "Annualized Enron Rate",
-        "Apple HomeView",
-        "C++ futures part 2: The mental model for std::promise, std::packaged_task",
-        "Harmonic triangle"
-      ],
-      "key_points_en": [
-        "Annualized Enron Rate",
-        "Apple HomeView",
-        "C++ futures part 2: The mental model for std::promise, std::packaged_task",
-        "Harmonic triangle"
-      ],
-      "tweet_drafts": [
+        "Claude, don’t touch my lump",
         "Annualized Enron Rate",
         "Apple HomeView",
         "C++ futures part 2: The mental model for std::promise, std::packaged_task"
       ],
+      "key_points_zh": [
+        "Claude, don’t touch my lump",
+        "Annualized Enron Rate",
+        "Apple HomeView",
+        "C++ futures part 2: The mental model for std::promise, std::packaged_task"
+      ],
+      "key_points_en": [
+        "Claude, don’t touch my lump",
+        "Annualized Enron Rate",
+        "Apple HomeView",
+        "C++ futures part 2: The mental model for std::promise, std::packaged_task"
+      ],
+      "tweet_drafts": [
+        "Claude, don’t touch my lump",
+        "Annualized Enron Rate",
+        "Apple HomeView"
+      ],
       "sources": [
+        {
+          "feed_title": "experimental-history.com",
+          "title": "Claude, don’t touch my lump",
+          "link": "https://www.experimental-history.com/p/claude-dont-touch-my-lump"
+        },
         {
           "feed_title": "wheresyoured.at",
           "title": "Annualized Enron Rate",
@@ -53,27 +103,22 @@
           "feed_title": "daringfireball.net",
           "title": "Apple HomeView",
           "link": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "C++ futures part 2: The mental model for std::promise, std::packaged_task",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/"
         }
       ],
-      "summary_zh": "2026-10-13 技术日报：Annualized Enron Rate；Apple HomeView；C++ futures part 2: The mental model for std::promise, std::packaged_task。",
-      "summary_en": "Daily brief (2026-10-13): Annualized Enron Rate; Apple HomeView; C++ futures part 2: The mental model for std::promise, std::packaged_task.",
+      "summary_zh": "2026-10-13 技术日报：Claude, don’t touch my lump；Annualized Enron Rate；Apple HomeView。",
+      "summary_en": "Daily brief (2026-10-13): Claude, don’t touch my lump; Annualized Enron Rate; Apple HomeView.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-13 日报】Annualized Enron Rate；Apple HomeView；C++ futures part 2: The mental model for std::promise, std::packaged_task。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-13): Annualized Enron Rate; Apple HomeView; C++ futures part 2: The mental model for std::promise, std::packaged_task. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-13 日报】Claude, don’t touch my lump；Annualized Enron Rate；Apple HomeView。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-13): Claude, don’t touch my lump; Annualized Enron Rate; Apple HomeView. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-13）\n- Annualized Enron Rate\n- Apple HomeView\n- C++ futures part 2: The mental model for std::promise, std::packaged_task\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n- https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-13)\n- Annualized Enron Rate\n- Apple HomeView\n- C++ futures part 2: The mental model for std::promise, std::packaged_task\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n- https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-13）\n- Claude, don’t touch my lump\n- Annualized Enron Rate\n- Apple HomeView\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/claude-dont-touch-my-lump\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-13)\n- Claude, don’t touch my lump\n- Annualized Enron Rate\n- Apple HomeView\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/claude-dont-touch-my-lump\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Annualized Enron Rate；Apple HomeView；C++ futures part 2: The mental model for std::promise, std::packaged_task。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Annualized Enron Rate; Apple HomeView; C++ futures part 2: The mental model for std::promise, std::packaged_task.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Claude, don’t touch my lump；Annualized Enron Rate；Apple HomeView。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Claude, don’t touch my lump; Annualized Enron Rate; Apple HomeView.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1764,7 +1809,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · Grit your teeth and ship it"
+        "computer.rip · a new world airport and its baggage"
       ],
       "key_points": [
         "Quoting voxium",
@@ -2200,82 +2245,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Gemini Live audio；Simple approximation for spherical cap area；FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Gemini Live audio; Simple approximation for spherical cap area; FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "total": 16,
-      "feeds": [
-        "simonwillison.net (4)",
-        "daringfireball.net (2)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · Tag index for Org mode blog",
-        "simonwillison.net · The contagion of fear",
-        "simonwillison.net · What blog posts influenced your thinking the most?",
-        "daringfireball.net · Apple’s 27.0 OS Updates",
-        "wheresyoured.at · AI Is Already In Dangerous Hands",
-        "daringfireball.net · Dumpster Fire – Litterbox-Inspired Extension for Firefox"
-      ],
-      "key_points": [
-        "Tag index for Org mode blog",
-        "The contagion of fear",
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates"
-      ],
-      "key_points_zh": [
-        "Tag index for Org mode blog",
-        "The contagion of fear",
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates"
-      ],
-      "key_points_en": [
-        "Tag index for Org mode blog",
-        "The contagion of fear",
-        "What blog posts influenced your thinking the most?",
-        "Apple’s 27.0 OS Updates"
-      ],
-      "tweet_drafts": [
-        "Tag index for Org mode blog",
-        "The contagion of fear",
-        "What blog posts influenced your thinking the most?"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Tag index for Org mode blog",
-          "link": "https://entropicthoughts.com/tag-index-for-org-mode-blog"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "The contagion of fear",
-          "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "What blog posts influenced your thinking the most?",
-          "link": "https://simonwillison.net/2026/Sep/14/influences/"
-        }
-      ],
-      "summary_zh": "2026-09-14 技术日报：Tag index for Org mode blog；The contagion of fear；What blog posts influenced your thinking the most?。",
-      "summary_en": "Daily brief (2026-09-14): Tag index for Org mode blog; The contagion of fear; What blog posts influenced your thinking the most?.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-09-14 日报】Tag index for Org mode blog；The contagion of fear；What blog posts influenced your thinking the most?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-14): Tag index for Org mode blog; The contagion of fear; What blog posts influenced your thinking the most?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-09-14）\n- Tag index for Org mode blog\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/tag-index-for-org-mode-blog\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-14)\n- Tag index for Org mode blog\n- The contagion of fear\n- What blog posts influenced your thinking the most?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/tag-index-for-org-mode-blog\n- https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/\n- https://simonwillison.net/2026/Sep/14/influences/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Tag index for Org mode blog；The contagion of fear；What blog posts influenced your thinking the most?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Tag index for Org mode blog; The contagion of fear; What blog posts influenced your thinking the most?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
