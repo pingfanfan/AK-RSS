@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-10-12T21:54:02Z",
+  "generated_at": "2026-10-13T02:44:54Z",
   "days": [
     {
       "date": "2026-10-12",
-      "total": 11,
+      "total": 12,
       "feeds": [
+        "blog.jim-nielsen.com (1)",
         "computer.rip (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
-        "micahflee.com (1)",
-        "nesbitt.io (1)"
+        "micahflee.com (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · The Dock on Mac, From OS 10 to macOS 27",
         "simonwillison.net · Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
         "daringfireball.net · Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
         "tedium.co · The X is Off-Target",
         "johndcook.com · Categorical models of logics",
-        "pluralistic.net · Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)",
-        "dfarq.homeip.net · Nvidia’s first GPU: GeForce 256"
+        "pluralistic.net · Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)"
       ],
       "key_points": [
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-        "The X is Off-Target",
-        "Categorical models of logics"
-      ],
-      "key_points_zh": [
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-        "The X is Off-Target",
-        "Categorical models of logics"
-      ],
-      "key_points_en": [
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-        "The X is Off-Target",
-        "Categorical models of logics"
-      ],
-      "tweet_drafts": [
+        "The Dock on Mac, From OS 10 to macOS 27",
         "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
         "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
         "The X is Off-Target"
       ],
+      "key_points_zh": [
+        "The Dock on Mac, From OS 10 to macOS 27",
+        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
+        "The X is Off-Target"
+      ],
+      "key_points_en": [
+        "The Dock on Mac, From OS 10 to macOS 27",
+        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
+        "The X is Off-Target"
+      ],
+      "tweet_drafts": [
+        "The Dock on Mac, From OS 10 to macOS 27",
+        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73"
+      ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "The Dock on Mac, From OS 10 to macOS 27",
+          "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
@@ -53,27 +58,22 @@
           "feed_title": "daringfireball.net",
           "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
           "link": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "The X is Off-Target",
-          "link": "https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique"
         }
       ],
-      "summary_zh": "2026-10-12 技术日报：Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73；The X is Off-Target。",
-      "summary_en": "Daily brief (2026-10-12): Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73; The X is Off-Target.",
+      "summary_zh": "2026-10-12 技术日报：The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73。",
+      "summary_en": "Daily brief (2026-10-12): The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-12 日报】Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73；The X is Off-Target。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-12): Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73; The X is Off-Target. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-12 日报】The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-12): The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildI"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-12）\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n- Mark Stephens, a.k.a. Robert X. Cringely, Died at 73\n- The X is Off-Target\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n- https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr\n- https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-12)\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n- Mark Stephens, a.k.a. Robert X. Cringely, Died at 73\n- The X is Off-Target\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n- https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr\n- https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-12）\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n- Mark Stephens, a.k.a. Robert X. Cringely, Died at 73\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n- https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-12)\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n- Mark Stephens, a.k.a. Robert X. Cringely, Died at 73\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n- https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l\u0026id=536506060\u0026_rdr\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73；The X is Off-Target。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73; The X is Off-Target.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11；Mark Stephens, a.k.a. Robert X. Cringely, Died at 73。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11; Mark Stephens, a.k.a. Robert X. Cringely, Died at 73.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -854,7 +854,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "derekthompson.org · Death of the Dinner Party"
+        "nesbitt.io · Software Heritage Identifiers"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
