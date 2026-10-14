@@ -1,48 +1,70 @@
 {
-  "generated_at": "2026-10-13T23:28:10Z",
+  "generated_at": "2026-10-14T10:42:34Z",
   "days": [
     {
       "date": "2026-10-14",
-      "total": 1,
+      "total": 3,
       "feeds": [
+        "johndcook.com (1)",
+        "krebsonsecurity.com (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "johndcook.com · Poe, Bessel, and Drones",
+        "krebsonsecurity.com · Microsoft Patches More Than 1,400 Security Flaws",
         "simonwillison.net · Redesigning source control at Anthropic"
       ],
       "key_points": [
+        "Poe, Bessel, and Drones",
+        "Microsoft Patches More Than 1,400 Security Flaws",
         "Redesigning source control at Anthropic"
       ],
       "key_points_zh": [
+        "Poe, Bessel, and Drones",
+        "Microsoft Patches More Than 1,400 Security Flaws",
         "Redesigning source control at Anthropic"
       ],
       "key_points_en": [
+        "Poe, Bessel, and Drones",
+        "Microsoft Patches More Than 1,400 Security Flaws",
         "Redesigning source control at Anthropic"
       ],
       "tweet_drafts": [
+        "Poe, Bessel, and Drones",
+        "Microsoft Patches More Than 1,400 Security Flaws",
         "Redesigning source control at Anthropic"
       ],
       "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Poe, Bessel, and Drones",
+          "link": "https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/"
+        },
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "Microsoft Patches More Than 1,400 Security Flaws",
+          "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "Redesigning source control at Anthropic",
           "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
         }
       ],
-      "summary_zh": "2026-10-14 技术日报：Redesigning source control at Anthropic。",
-      "summary_en": "Daily brief (2026-10-14): Redesigning source control at Anthropic.",
+      "summary_zh": "2026-10-14 技术日报：Poe, Bessel, and Drones；Microsoft Patches More Than 1,400 Security Flaws；Redesigning source control at Anthropic。",
+      "summary_en": "Daily brief (2026-10-14): Poe, Bessel, and Drones; Microsoft Patches More Than 1,400 Security Flaws; Redesigning source control at Anthropic.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-14 日报】Redesigning source control at Anthropic。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-14): Redesigning source control at Anthropic. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-14 日报】Poe, Bessel, and Drones；Microsoft Patches More Than 1,400 Security Flaws；Redesigning source control at Anthropic。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-14): Poe, Bessel, and Drones; Microsoft Patches More Than 1,400 Security Flaws; Redesigning source control at Anthropic. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-14）\n- Redesigning source control at Anthropic\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-14)\n- Redesigning source control at Anthropic\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-14）\n- Poe, Bessel, and Drones\n- Microsoft Patches More Than 1,400 Security Flaws\n- Redesigning source control at Anthropic\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/\n- https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/\n- https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-14)\n- Poe, Bessel, and Drones\n- Microsoft Patches More Than 1,400 Security Flaws\n- Redesigning source control at Anthropic\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/\n- https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/\n- https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Redesigning source control at Anthropic。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Redesigning source control at Anthropic.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Poe, Bessel, and Drones；Microsoft Patches More Than 1,400 Security Flaws；Redesigning source control at Anthropic。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Poe, Bessel, and Drones; Microsoft Patches More Than 1,400 Security Flaws; Redesigning source control at Anthropic.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -975,7 +997,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "derekthompson.org · Death of the Dinner Party"
+        "nesbitt.io · Software Heritage Identifiers"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",

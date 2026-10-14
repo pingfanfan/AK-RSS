@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-13 23:27:58 UTC
+Generated at: 2026-10-14 10:42:20 UTC
 
-- [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/) (`simonwillison.net`)
-- [Claude, don’t touch my lump](https://www.experimental-history.com/p/claude-dont-touch-my-lump) (`experimental-history.com`)
+- [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/) (`krebsonsecurity.com`)
+- [Poe, Bessel, and Drones](https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/) (`johndcook.com`)
