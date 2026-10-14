@@ -1,10 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-14 15:34:26 UTC
+Generated at: 2026-10-14 19:46:37 UTC
 
-- [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/) (`krebsonsecurity.com`)
-- [Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer](https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/) (`jeffgeerling.com`)
-- [A generalization of the Pythagorean theorem](https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/) (`johndcook.com`)
-- [The Internet of Very Cheap Things](https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/) (`shkspr.mobi`)
-- [When SCO fired Darl McBride](https://dfarq.homeip.net/when-sco-fired-darl-mcbride/?utm_source=rss&utm_medium=rss&utm_campaign=when-sco-fired-darl-mcbride) (`dfarq.homeip.net`)
-- [The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum](https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/) (`berthub.eu`)
+- [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/) (`simonwillison.net`)
+- [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/) (`johndcook.com`)
+- ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/) (`xeiaso.net`)
