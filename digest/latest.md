@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-14 22:44:38 UTC
+Generated at: 2026-10-15 10:25:38 UTC
 
-- [[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) (`daringfireball.net`)
+- [Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/) (`simonwillison.net`)
