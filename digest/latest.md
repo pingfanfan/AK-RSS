@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-15 19:16:03 UTC
+Generated at: 2026-10-15 22:29:54 UTC
 
-- [C++ futures part 4: What if I want an immediate on-thread std::async?](https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/) (`devblogs.microsoft.com/oldnewthing`)
-- [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/) (`blog.jim-nielsen.com`)
+- [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) (`simonwillison.net`)
+- [Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/) (`daringfireball.net`)
