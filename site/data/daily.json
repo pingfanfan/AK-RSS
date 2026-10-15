@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-10-15T15:09:30Z",
+  "generated_at": "2026-10-15T19:16:18Z",
   "days": [
     {
       "date": "2026-10-15",
-      "total": 4,
+      "total": 6,
       "feeds": [
+        "blog.jim-nielsen.com (1)",
         "construction-physics.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "pluralistic.net (1)",
         "simonwillison.net (1)"
       ],
       "highlights": [
+        "blog.jim-nielsen.com · We Need All the Disciplines",
         "construction-physics.com · How to Train Your Robot",
+        "devblogs.microsoft.com/oldnewthing · C++ futures part 4: What if I want an immediate on-thread std::async?",
         "simonwillison.net · Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
         "pluralistic.net · Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
         "dfarq.homeip.net · What was a Token Ring network?"
       ],
       "key_points": [
+        "We Need All the Disciplines",
         "How to Train Your Robot",
-        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-        "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
-        "What was a Token Ring network?"
+        "C++ futures part 4: What if I want an immediate on-thread std::async?",
+        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
       ],
       "key_points_zh": [
+        "We Need All the Disciplines",
         "How to Train Your Robot",
-        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-        "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
-        "What was a Token Ring network?"
+        "C++ futures part 4: What if I want an immediate on-thread std::async?",
+        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
       ],
       "key_points_en": [
+        "We Need All the Disciplines",
         "How to Train Your Robot",
-        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-        "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
-        "What was a Token Ring network?"
+        "C++ futures part 4: What if I want an immediate on-thread std::async?",
+        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
       ],
       "tweet_drafts": [
+        "We Need All the Disciplines",
         "How to Train Your Robot",
-        "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-        "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)"
+        "C++ futures part 4: What if I want an immediate on-thread std::async?"
       ],
       "sources": [
+        {
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "We Need All the Disciplines",
+          "link": "https://blog.jim-nielsen.com/2026/we-need-all-disciplines/"
+        },
         {
           "feed_title": "construction-physics.com",
           "title": "How to Train Your Robot",
           "link": "https://www.construction-physics.com/p/how-to-train-your-robot"
         },
         {
-          "feed_title": "simonwillison.net",
-          "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-          "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
-          "link": "https://pluralistic.net/2026/10/15/enshittipedia/"
+          "feed_title": "devblogs.microsoft.com/oldnewthing",
+          "title": "C++ futures part 4: What if I want an immediate on-thread std::async?",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/"
         }
       ],
-      "summary_zh": "2026-10-15 技术日报：How to Train Your Robot；Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO；Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)。",
-      "summary_en": "Daily brief (2026-10-15): How to Train Your Robot; Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO; Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026).",
+      "summary_zh": "2026-10-15 技术日报：We Need All the Disciplines；How to Train Your Robot；C++ futures part 4: What if I want an immediate on-thread std::async?。",
+      "summary_en": "Daily brief (2026-10-15): We Need All the Disciplines; How to Train Your Robot; C++ futures part 4: What if I want an immediate on-thread std::async?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-15 日报】How to Train Your Robot；Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO；Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-15): How to Train Your Robot; Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO; Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026). Actionable takeaways included. What would you ship next? #AI #Engine"
+          "zh": "【2026-10-15 日报】We Need All the Disciplines；How to Train Your Robot；C++ futures part 4: What if I want an immediate on-thread std::async?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-15): We Need All the Disciplines; How to Train Your Robot; C++ futures part 4: What if I want an immediate on-thread std::async?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-15）\n- How to Train Your Robot\n- Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO\n- Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/how-to-train-your-robot\n- https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/\n- https://pluralistic.net/2026/10/15/enshittipedia/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-15)\n- How to Train Your Robot\n- Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO\n- Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/how-to-train-your-robot\n- https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/\n- https://pluralistic.net/2026/10/15/enshittipedia/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-15）\n- We Need All the Disciplines\n- How to Train Your Robot\n- C++ futures part 4: What if I want an immediate on-thread std::async?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://blog.jim-nielsen.com/2026/we-need-all-disciplines/\n- https://www.construction-physics.com/p/how-to-train-your-robot\n- https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-15)\n- We Need All the Disciplines\n- How to Train Your Robot\n- C++ futures part 4: What if I want an immediate on-thread std::async?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://blog.jim-nielsen.com/2026/we-need-all-disciplines/\n- https://www.construction-physics.com/p/how-to-train-your-robot\n- https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：How to Train Your Robot；Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO；Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: How to Train Your Robot; Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO; Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026).\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：We Need All the Disciplines；How to Train Your Robot；C++ futures part 4: What if I want an immediate on-thread std::async?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: We Need All the Disciplines; How to Train Your Robot; C++ futures part 4: What if I want an immediate on-thread std::async?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1078,7 +1082,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "nesbitt.io · Software Heritage Identifiers"
+        "derekthompson.org · Death of the Dinner Party"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
@@ -1912,7 +1916,7 @@
         "daringfireball.net · WorkOS: How SSO Works and the Fastest Way to Add It",
         "daringfireball.net · Marques Brownlee’s iPhone 18 Pro Review",
         "shkspr.mobi · Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
-        "seangoedecke.com · Grit your teeth and ship it"
+        "computer.rip · a new world airport and its baggage"
       ],
       "key_points": [
         "Quoting voxium",

@@ -1,8 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-15 15:09:14 UTC
+Generated at: 2026-10-15 19:16:03 UTC
 
-- [Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/) (`simonwillison.net`)
-- [Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)](https://pluralistic.net/2026/10/15/enshittipedia/) (`pluralistic.net`)
-- [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot) (`construction-physics.com`)
-- [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/?utm_source=rss&utm_medium=rss&utm_campaign=what-was-a-token-ring-network) (`dfarq.homeip.net`)
+- [C++ futures part 4: What if I want an immediate on-thread std::async?](https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/) (`devblogs.microsoft.com/oldnewthing`)
+- [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/) (`blog.jim-nielsen.com`)
