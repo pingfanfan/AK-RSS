@@ -1,8 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-16 14:55:53 UTC
+Generated at: 2026-10-16 18:29:28 UTC
 
-- [C++ futures part 5: std::future and std::shared_future](https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/) (`devblogs.microsoft.com/oldnewthing`)
-- [Monoliths and Lagrange Points](https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/) (`johndcook.com`)
-- [Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪](https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/) (`shkspr.mobi`)
-- [Spyware invented October 16, 1995](https://dfarq.homeip.net/spyware-invented-october-16-1995/?utm_source=rss&utm_medium=rss&utm_campaign=spyware-invented-october-16-1995) (`dfarq.homeip.net`)
+- [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/) (`daringfireball.net`)
+- [Movie password](https://www.johndcook.com/blog/2026/10/16/movie-password/) (`johndcook.com`)
+- [Premium: Venture Capital Is Killing Itself](https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/) (`wheresyoured.at`)
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) (`filfre.net`)
