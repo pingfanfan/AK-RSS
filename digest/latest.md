@@ -1,8 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-16 10:13:09 UTC
+Generated at: 2026-10-16 14:55:53 UTC
 
-- [AI is driving a boom in modestly successful software projects](https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/) (`seangoedecke.com`)
-- [★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2](https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2) (`daringfireball.net`)
-- [This video is 2 minutes long](https://idiallo.com/byte-size/two-minutes-long-video) (`idiallo.com`)
-- [Pluralistic: Load-bearing (16 Oct 2026)](https://pluralistic.net/2026/10/15/sovereign-it/) (`pluralistic.net`)
+- [C++ futures part 5: std::future and std::shared_future](https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/) (`devblogs.microsoft.com/oldnewthing`)
+- [Monoliths and Lagrange Points](https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/) (`johndcook.com`)
+- [Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪](https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/) (`shkspr.mobi`)
+- [Spyware invented October 16, 1995](https://dfarq.homeip.net/spyware-invented-october-16-1995/?utm_source=rss&utm_medium=rss&utm_campaign=spyware-invented-october-16-1995) (`dfarq.homeip.net`)
