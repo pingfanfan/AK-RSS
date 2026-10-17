@@ -1,5 +1,4 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-17 18:54:46 UTC
+Generated at: 2026-10-17 21:05:23 UTC
 
-- [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations) (`daringfireball.net`)
