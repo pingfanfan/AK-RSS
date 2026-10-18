@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-18 13:45:46 UTC
+Generated at: 2026-10-18 16:58:42 UTC
 
-- [How many VICmodems Commodore sold](https://dfarq.homeip.net/how-many-vicmodems-commodore-sold/?utm_source=rss&utm_medium=rss&utm_campaign=how-many-vicmodems-commodore-sold) (`dfarq.homeip.net`)
+- [Inside the Intel 8087 chip: floating-point addition and subtraction](http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html) (`righto.com`)
+- [Una Watch TOTP - MFA on your wrist!](https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/) (`shkspr.mobi`)
