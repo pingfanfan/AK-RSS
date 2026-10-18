@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-18 21:36:57 UTC
+Generated at: 2026-10-18 23:45:14 UTC
 
-- [Claim Chowder: The Information on HomeView having a ‘robotic swiveling base’](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin) (`daringfireball.net`)
+- [Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction](https://tomthedancingbug.com/the-inner-hive/) (`daringfireball.net`)
