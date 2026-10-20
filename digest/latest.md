@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-20 10:29:46 UTC
+Generated at: 2026-10-20 15:16:20 UTC
 
-- [Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170) (`daringfireball.net`)
-- [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/) (`devblogs.microsoft.com/oldnewthing`)
-- [No More Icons In Every Menu By Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) (`blog.jim-nielsen.com`)
+- [Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/) (`shkspr.mobi`)
+- [NixOS Is Making Me Less Afraid](https://entropicthoughts.com/nixos-is-making-me-less-afraid) (`entropicthoughts.com`)
+- [What happened to Epyx](https://dfarq.homeip.net/what-happened-to-epyx/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-epyx) (`dfarq.homeip.net`)
+- [ClickHouse Will Let You Be Wrong at Scale](https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/) (`matduggan.com`)
