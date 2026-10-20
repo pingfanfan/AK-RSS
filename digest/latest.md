@@ -1,7 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-20 00:45:40 UTC
+Generated at: 2026-10-20 10:29:46 UTC
 
-- [My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) (`simonwillison.net`)
-- [From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?](https://daringfireball.net/linked/2022/10/11/ceos-as-nerds) (`daringfireball.net`)
-- [Laypeople support technical fields for technology, not art](https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/) (`seangoedecke.com`)
+- [Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170) (`daringfireball.net`)
+- [Why do we need ud2 when int 6 is right there?](https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/) (`devblogs.microsoft.com/oldnewthing`)
+- [No More Icons In Every Menu By Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) (`blog.jim-nielsen.com`)
