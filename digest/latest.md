@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-20 19:24:09 UTC
+Generated at: 2026-10-20 22:26:13 UTC
 
-- [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/) (`pluralistic.net`)
-- [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/) (`wheresyoured.at`)
-- [Maybe it's time for lots of little indie AIs to take over](https://anildash.com/2026/06/15/indie-AI-takeover/) (`anildash.com`)
+- [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) (`simonwillison.net`)
+- [Death & Domains](https://feed.tedium.co/link/15204/17501584/death-domains-commentary) (`tedium.co`)
