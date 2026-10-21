@@ -1,48 +1,79 @@
 {
-  "generated_at": "2026-10-21T10:41:48Z",
+  "generated_at": "2026-10-21T15:41:20Z",
   "days": [
     {
       "date": "2026-10-21",
-      "total": 1,
+      "total": 6,
       "feeds": [
-        "simonwillison.net (1)"
+        "dfarq.homeip.net (1)",
+        "jeffgeerling.com (1)",
+        "johndcook.com (1)",
+        "krebsonsecurity.com (1)",
+        "simonwillison.net (1)",
+        "xeiaso.net (1)"
       ],
       "highlights": [
+        "krebsonsecurity.com · Widespread PHP Flaw May Cause Many Site Outages Today",
+        "johndcook.com · Backdoors, Incompetence, and Elliptic Curves",
+        "jeffgeerling.com · Upgrade your PHP installs immediately to protect against php2shell",
+        "dfarq.homeip.net · Creative Computing launched October 1974",
+        "xeiaso.net · Jesus Christ patch your shit now",
         "simonwillison.net · eMudhra Intermediate CA Compromise"
       ],
       "key_points": [
-        "eMudhra Intermediate CA Compromise"
+        "Widespread PHP Flaw May Cause Many Site Outages Today",
+        "Backdoors, Incompetence, and Elliptic Curves",
+        "Upgrade your PHP installs immediately to protect against php2shell",
+        "Creative Computing launched October 1974"
       ],
       "key_points_zh": [
-        "eMudhra Intermediate CA Compromise"
+        "Widespread PHP Flaw May Cause Many Site Outages Today",
+        "Backdoors, Incompetence, and Elliptic Curves",
+        "Upgrade your PHP installs immediately to protect against php2shell",
+        "Creative Computing launched October 1974"
       ],
       "key_points_en": [
-        "eMudhra Intermediate CA Compromise"
+        "Widespread PHP Flaw May Cause Many Site Outages Today",
+        "Backdoors, Incompetence, and Elliptic Curves",
+        "Upgrade your PHP installs immediately to protect against php2shell",
+        "Creative Computing launched October 1974"
       ],
       "tweet_drafts": [
-        "eMudhra Intermediate CA Compromise"
+        "Widespread PHP Flaw May Cause Many Site Outages Today",
+        "Backdoors, Incompetence, and Elliptic Curves",
+        "Upgrade your PHP installs immediately to protect against php2shell"
       ],
       "sources": [
         {
-          "feed_title": "simonwillison.net",
-          "title": "eMudhra Intermediate CA Compromise",
-          "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
+          "feed_title": "krebsonsecurity.com",
+          "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+          "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Backdoors, Incompetence, and Elliptic Curves",
+          "link": "https://www.johndcook.com/blog/2026/10/21/emudhra/"
+        },
+        {
+          "feed_title": "jeffgeerling.com",
+          "title": "Upgrade your PHP installs immediately to protect against php2shell",
+          "link": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/"
         }
       ],
-      "summary_zh": "2026-10-21 技术日报：eMudhra Intermediate CA Compromise。",
-      "summary_en": "Daily brief (2026-10-21): eMudhra Intermediate CA Compromise.",
+      "summary_zh": "2026-10-21 技术日报：Widespread PHP Flaw May Cause Many Site Outages Today；Backdoors, Incompetence, and Elliptic Curves；Upgrade your PHP installs immediately to protect against php2shell。",
+      "summary_en": "Daily brief (2026-10-21): Widespread PHP Flaw May Cause Many Site Outages Today; Backdoors, Incompetence, and Elliptic Curves; Upgrade your PHP installs immediately to protect against php2shell.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-21 日报】eMudhra Intermediate CA Compromise。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-21): eMudhra Intermediate CA Compromise. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-21 日报】Widespread PHP Flaw May Cause Many Site Outages Today；Backdoors, Incompetence, and Elliptic Curves；Upgrade your PHP installs immediately to protect against php2shell。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-21): Widespread PHP Flaw May Cause Many Site Outages Today; Backdoors, Incompetence, and Elliptic Curves; Upgrade your PHP installs immediately to protect against php2shell. Actionable takeaways included. What would you ship next? #AI #En"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-21）\n- eMudhra Intermediate CA Compromise\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/20/emudhra-certificates/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-21)\n- eMudhra Intermediate CA Compromise\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/20/emudhra-certificates/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-21）\n- Widespread PHP Flaw May Cause Many Site Outages Today\n- Backdoors, Incompetence, and Elliptic Curves\n- Upgrade your PHP installs immediately to protect against php2shell\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/\n- https://www.johndcook.com/blog/2026/10/21/emudhra/\n- https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-21)\n- Widespread PHP Flaw May Cause Many Site Outages Today\n- Backdoors, Incompetence, and Elliptic Curves\n- Upgrade your PHP installs immediately to protect against php2shell\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/\n- https://www.johndcook.com/blog/2026/10/21/emudhra/\n- https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：eMudhra Intermediate CA Compromise。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: eMudhra Intermediate CA Compromise.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Widespread PHP Flaw May Cause Many Site Outages Today；Backdoors, Incompetence, and Elliptic Curves；Upgrade your PHP installs immediately to protect against php2shell。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Widespread PHP Flaw May Cause Many Site Outages Today; Backdoors, Incompetence, and Elliptic Curves; Upgrade your PHP installs immediately to protect against php2shell.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1507,7 +1538,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "derekthompson.org · Death of the Dinner Party"
+        "nesbitt.io · Software Heritage Identifiers"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
