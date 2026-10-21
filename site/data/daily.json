@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-10-21T19:42:47Z",
+  "generated_at": "2026-10-21T22:50:16Z",
   "days": [
     {
       "date": "2026-10-21",
-      "total": 13,
+      "total": 15,
       "feeds": [
+        "xeiaso.net (3)",
         "simonwillison.net (2)",
-        "xeiaso.net (2)",
         "blog.jim-nielsen.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "idiallo.com (1)"
       ],
       "highlights": [
+        "pluralistic.net · Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
         "idiallo.com · Can they write a function?",
         "blog.jim-nielsen.com · No Need for Retirement When Utopia Is Around the Corner",
         "simonwillison.net · Today's PHP Security Release, and How We're Strengthening PHP Security",
         "simone.org · Going Somewhere",
-        "nesbitt.io · Trust Stores Are Dependencies Too",
-        "krebsonsecurity.com · Widespread PHP Flaw May Cause Many Site Outages Today"
+        "nesbitt.io · Trust Stores Are Dependencies Too"
       ],
       "key_points": [
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner",
-        "Today's PHP Security Release, and How We're Strengthening PHP Security",
-        "Going Somewhere"
-      ],
-      "key_points_zh": [
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner",
-        "Today's PHP Security Release, and How We're Strengthening PHP Security",
-        "Going Somewhere"
-      ],
-      "key_points_en": [
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner",
-        "Today's PHP Security Release, and How We're Strengthening PHP Security",
-        "Going Somewhere"
-      ],
-      "tweet_drafts": [
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
         "Can they write a function?",
         "No Need for Retirement When Utopia Is Around the Corner",
         "Today's PHP Security Release, and How We're Strengthening PHP Security"
       ],
+      "key_points_zh": [
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner",
+        "Today's PHP Security Release, and How We're Strengthening PHP Security"
+      ],
+      "key_points_en": [
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner",
+        "Today's PHP Security Release, and How We're Strengthening PHP Security"
+      ],
+      "tweet_drafts": [
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner"
+      ],
       "sources": [
+        {
+          "feed_title": "pluralistic.net",
+          "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+          "link": "https://pluralistic.net/2026/10/21/brittle-individualism/"
+        },
         {
           "feed_title": "idiallo.com",
           "title": "Can they write a function?",
@@ -53,27 +58,22 @@
           "feed_title": "blog.jim-nielsen.com",
           "title": "No Need for Retirement When Utopia Is Around the Corner",
           "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-          "link": "https://simonwillison.net/2026/Oct/21/php-security-release/"
         }
       ],
-      "summary_zh": "2026-10-21 技术日报：Can they write a function?；No Need for Retirement When Utopia Is Around the Corner；Today's PHP Security Release, and How We're Strengthening PHP Security。",
-      "summary_en": "Daily brief (2026-10-21): Can they write a function?; No Need for Retirement When Utopia Is Around the Corner; Today's PHP Security Release, and How We're Strengthening PHP Security.",
+      "summary_zh": "2026-10-21 技术日报：Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?；No Need for Retirement When Utopia Is Around the Corner。",
+      "summary_en": "Daily brief (2026-10-21): Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?; No Need for Retirement When Utopia Is Around the Corner.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-21 日报】Can they write a function?；No Need for Retirement When Utopia Is Around the Corner；Today's PHP Security Release, and How We're Strengthening PHP Security。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-21): Can they write a function?; No Need for Retirement When Utopia Is Around the Corner; Today's PHP Security Release, and How We're Strengthening PHP Security. Actionable takeaways included. What would you ship next? #AI #Engineering #B"
+          "zh": "【2026-10-21 日报】Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?；No Need for Retirement When Utopia Is Around the Corner。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-21): Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?; No Need for Retirement When Utopia Is Around the Corner. Actionable takeaways included. What would you ship next? #AI #Engineering #"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-21）\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n- Today's PHP Security Release, and How We're Strengthening PHP Security\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n- https://simonwillison.net/2026/Oct/21/php-security-release/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-21)\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n- Today's PHP Security Release, and How We're Strengthening PHP Security\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n- https://simonwillison.net/2026/Oct/21/php-security-release/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-21）\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-21)\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Can they write a function?；No Need for Retirement When Utopia Is Around the Corner；Today's PHP Security Release, and How We're Strengthening PHP Security。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Can they write a function?; No Need for Retirement When Utopia Is Around the Corner; Today's PHP Security Release, and How We're Strengthening PHP Security.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?；No Need for Retirement When Utopia Is Around the Corner。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?; No Need for Retirement When Utopia Is Around the Corner.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
