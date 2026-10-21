@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-10-21T15:41:20Z",
+  "generated_at": "2026-10-21T19:42:47Z",
   "days": [
     {
       "date": "2026-10-21",
-      "total": 6,
+      "total": 13,
       "feeds": [
+        "simonwillison.net (2)",
+        "xeiaso.net (2)",
+        "blog.jim-nielsen.com (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "jeffgeerling.com (1)",
-        "johndcook.com (1)",
-        "krebsonsecurity.com (1)",
-        "simonwillison.net (1)",
-        "xeiaso.net (1)"
+        "idiallo.com (1)"
       ],
       "highlights": [
-        "krebsonsecurity.com · Widespread PHP Flaw May Cause Many Site Outages Today",
-        "johndcook.com · Backdoors, Incompetence, and Elliptic Curves",
-        "jeffgeerling.com · Upgrade your PHP installs immediately to protect against php2shell",
-        "dfarq.homeip.net · Creative Computing launched October 1974",
-        "xeiaso.net · Jesus Christ patch your shit now",
-        "simonwillison.net · eMudhra Intermediate CA Compromise"
+        "idiallo.com · Can they write a function?",
+        "blog.jim-nielsen.com · No Need for Retirement When Utopia Is Around the Corner",
+        "simonwillison.net · Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "simone.org · Going Somewhere",
+        "nesbitt.io · Trust Stores Are Dependencies Too",
+        "krebsonsecurity.com · Widespread PHP Flaw May Cause Many Site Outages Today"
       ],
       "key_points": [
-        "Widespread PHP Flaw May Cause Many Site Outages Today",
-        "Backdoors, Incompetence, and Elliptic Curves",
-        "Upgrade your PHP installs immediately to protect against php2shell",
-        "Creative Computing launched October 1974"
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner",
+        "Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "Going Somewhere"
       ],
       "key_points_zh": [
-        "Widespread PHP Flaw May Cause Many Site Outages Today",
-        "Backdoors, Incompetence, and Elliptic Curves",
-        "Upgrade your PHP installs immediately to protect against php2shell",
-        "Creative Computing launched October 1974"
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner",
+        "Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "Going Somewhere"
       ],
       "key_points_en": [
-        "Widespread PHP Flaw May Cause Many Site Outages Today",
-        "Backdoors, Incompetence, and Elliptic Curves",
-        "Upgrade your PHP installs immediately to protect against php2shell",
-        "Creative Computing launched October 1974"
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner",
+        "Today's PHP Security Release, and How We're Strengthening PHP Security",
+        "Going Somewhere"
       ],
       "tweet_drafts": [
-        "Widespread PHP Flaw May Cause Many Site Outages Today",
-        "Backdoors, Incompetence, and Elliptic Curves",
-        "Upgrade your PHP installs immediately to protect against php2shell"
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner",
+        "Today's PHP Security Release, and How We're Strengthening PHP Security"
       ],
       "sources": [
         {
-          "feed_title": "krebsonsecurity.com",
-          "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-          "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+          "feed_title": "idiallo.com",
+          "title": "Can they write a function?",
+          "link": "https://idiallo.com/blog/can-they-write-a-function"
         },
         {
-          "feed_title": "johndcook.com",
-          "title": "Backdoors, Incompetence, and Elliptic Curves",
-          "link": "https://www.johndcook.com/blog/2026/10/21/emudhra/"
+          "feed_title": "blog.jim-nielsen.com",
+          "title": "No Need for Retirement When Utopia Is Around the Corner",
+          "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/"
         },
         {
-          "feed_title": "jeffgeerling.com",
-          "title": "Upgrade your PHP installs immediately to protect against php2shell",
-          "link": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/"
+          "feed_title": "simonwillison.net",
+          "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "link": "https://simonwillison.net/2026/Oct/21/php-security-release/"
         }
       ],
-      "summary_zh": "2026-10-21 技术日报：Widespread PHP Flaw May Cause Many Site Outages Today；Backdoors, Incompetence, and Elliptic Curves；Upgrade your PHP installs immediately to protect against php2shell。",
-      "summary_en": "Daily brief (2026-10-21): Widespread PHP Flaw May Cause Many Site Outages Today; Backdoors, Incompetence, and Elliptic Curves; Upgrade your PHP installs immediately to protect against php2shell.",
+      "summary_zh": "2026-10-21 技术日报：Can they write a function?；No Need for Retirement When Utopia Is Around the Corner；Today's PHP Security Release, and How We're Strengthening PHP Security。",
+      "summary_en": "Daily brief (2026-10-21): Can they write a function?; No Need for Retirement When Utopia Is Around the Corner; Today's PHP Security Release, and How We're Strengthening PHP Security.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-21 日报】Widespread PHP Flaw May Cause Many Site Outages Today；Backdoors, Incompetence, and Elliptic Curves；Upgrade your PHP installs immediately to protect against php2shell。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-21): Widespread PHP Flaw May Cause Many Site Outages Today; Backdoors, Incompetence, and Elliptic Curves; Upgrade your PHP installs immediately to protect against php2shell. Actionable takeaways included. What would you ship next? #AI #En"
+          "zh": "【2026-10-21 日报】Can they write a function?；No Need for Retirement When Utopia Is Around the Corner；Today's PHP Security Release, and How We're Strengthening PHP Security。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-21): Can they write a function?; No Need for Retirement When Utopia Is Around the Corner; Today's PHP Security Release, and How We're Strengthening PHP Security. Actionable takeaways included. What would you ship next? #AI #Engineering #B"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-21）\n- Widespread PHP Flaw May Cause Many Site Outages Today\n- Backdoors, Incompetence, and Elliptic Curves\n- Upgrade your PHP installs immediately to protect against php2shell\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/\n- https://www.johndcook.com/blog/2026/10/21/emudhra/\n- https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-21)\n- Widespread PHP Flaw May Cause Many Site Outages Today\n- Backdoors, Incompetence, and Elliptic Curves\n- Upgrade your PHP installs immediately to protect against php2shell\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/\n- https://www.johndcook.com/blog/2026/10/21/emudhra/\n- https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-21）\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n- Today's PHP Security Release, and How We're Strengthening PHP Security\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n- https://simonwillison.net/2026/Oct/21/php-security-release/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-21)\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n- Today's PHP Security Release, and How We're Strengthening PHP Security\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n- https://simonwillison.net/2026/Oct/21/php-security-release/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Widespread PHP Flaw May Cause Many Site Outages Today；Backdoors, Incompetence, and Elliptic Curves；Upgrade your PHP installs immediately to protect against php2shell。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Widespread PHP Flaw May Cause Many Site Outages Today; Backdoors, Incompetence, and Elliptic Curves; Upgrade your PHP installs immediately to protect against php2shell.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Can they write a function?；No Need for Retirement When Utopia Is Around the Corner；Today's PHP Security Release, and How We're Strengthening PHP Security。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Can they write a function?; No Need for Retirement When Utopia Is Around the Corner; Today's PHP Security Release, and How We're Strengthening PHP Security.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
