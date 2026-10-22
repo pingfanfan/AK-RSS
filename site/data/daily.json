@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-10-21T22:50:16Z",
+  "generated_at": "2026-10-22T10:43:43Z",
   "days": [
     {
       "date": "2026-10-21",
-      "total": 15,
+      "total": 16,
       "feeds": [
         "xeiaso.net (3)",
         "simonwillison.net (2)",
         "blog.jim-nielsen.com (1)",
+        "daringfireball.net (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "idiallo.com (1)"
+        "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · ★ The iPhone Duo",
         "pluralistic.net · Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
         "idiallo.com · Can they write a function?",
         "blog.jim-nielsen.com · No Need for Retirement When Utopia Is Around the Corner",
         "simonwillison.net · Today's PHP Security Release, and How We're Strengthening PHP Security",
-        "simone.org · Going Somewhere",
-        "nesbitt.io · Trust Stores Are Dependencies Too"
+        "simone.org · Going Somewhere"
       ],
       "key_points": [
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner",
-        "Today's PHP Security Release, and How We're Strengthening PHP Security"
-      ],
-      "key_points_zh": [
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner",
-        "Today's PHP Security Release, and How We're Strengthening PHP Security"
-      ],
-      "key_points_en": [
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner",
-        "Today's PHP Security Release, and How We're Strengthening PHP Security"
-      ],
-      "tweet_drafts": [
+        "★ The iPhone Duo",
         "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
         "Can they write a function?",
         "No Need for Retirement When Utopia Is Around the Corner"
       ],
+      "key_points_zh": [
+        "★ The iPhone Duo",
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner"
+      ],
+      "key_points_en": [
+        "★ The iPhone Duo",
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+        "Can they write a function?",
+        "No Need for Retirement When Utopia Is Around the Corner"
+      ],
+      "tweet_drafts": [
+        "★ The iPhone Duo",
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+        "Can they write a function?"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "★ The iPhone Duo",
+          "link": "https://daringfireball.net/2026/10/the_iphone_duo"
+        },
         {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
@@ -53,27 +58,22 @@
           "feed_title": "idiallo.com",
           "title": "Can they write a function?",
           "link": "https://idiallo.com/blog/can-they-write-a-function"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "No Need for Retirement When Utopia Is Around the Corner",
-          "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/"
         }
       ],
-      "summary_zh": "2026-10-21 技术日报：Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?；No Need for Retirement When Utopia Is Around the Corner。",
-      "summary_en": "Daily brief (2026-10-21): Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?; No Need for Retirement When Utopia Is Around the Corner.",
+      "summary_zh": "2026-10-21 技术日报：★ The iPhone Duo；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?。",
+      "summary_en": "Daily brief (2026-10-21): ★ The iPhone Duo; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-21 日报】Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?；No Need for Retirement When Utopia Is Around the Corner。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-21): Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?; No Need for Retirement When Utopia Is Around the Corner. Actionable takeaways included. What would you ship next? #AI #Engineering #"
+          "zh": "【2026-10-21 日报】★ The iPhone Duo；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-21): ★ The iPhone Duo; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-21）\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-21)\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n- No Need for Retirement When Utopia Is Around the Corner\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n- https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-21）\n- ★ The iPhone Duo\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-21)\n- ★ The iPhone Duo\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?；No Need for Retirement When Utopia Is Around the Corner。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?; No Need for Retirement When Utopia Is Around the Corner.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：★ The iPhone Duo；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ The iPhone Duo; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1538,7 +1538,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "nesbitt.io · Software Heritage Identifiers"
+        "derekthompson.org · Death of the Dinner Party"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
