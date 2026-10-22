@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-10-22T19:35:05Z",
+  "generated_at": "2026-10-22T22:49:09Z",
   "days": [
     {
-      "date": "2026-10-22",
-      "total": 11,
+      "date": "2026-10-23",
+      "total": 1,
       "feeds": [
-        "simonwillison.net (2)",
+        "seangoedecke.com (1)"
+      ],
+      "highlights": [
+        "seangoedecke.com · Software is slow because of bad design, not slow languages"
+      ],
+      "key_points": [
+        "Software is slow because of bad design, not slow languages"
+      ],
+      "key_points_zh": [
+        "Software is slow because of bad design, not slow languages"
+      ],
+      "key_points_en": [
+        "Software is slow because of bad design, not slow languages"
+      ],
+      "tweet_drafts": [
+        "Software is slow because of bad design, not slow languages"
+      ],
+      "sources": [
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "Software is slow because of bad design, not slow languages",
+          "link": "https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/"
+        }
+      ],
+      "summary_zh": "2026-10-23 技术日报：Software is slow because of bad design, not slow languages。",
+      "summary_en": "Daily brief (2026-10-23): Software is slow because of bad design, not slow languages.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-10-23 日报】Software is slow because of bad design, not slow languages。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-23): Software is slow because of bad design, not slow languages. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-10-23）\n- Software is slow because of bad design, not slow languages\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-23)\n- Software is slow because of bad design, not slow languages\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Software is slow because of bad design, not slow languages。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Software is slow because of bad design, not slow languages.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "total": 12,
+      "feeds": [
+        "simonwillison.net (3)",
         "buttondown.com/hillelwayne (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
@@ -13,37 +58,42 @@
         "herman.bearblog.dev (1)"
       ],
       "highlights": [
+        "simonwillison.net · DE STAAT - FREEDOM (Official Music Video)",
         "daringfireball.net · Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
         "simonwillison.net · Donating Agent Skills to the Agentic AI Foundation",
         "idiallo.com · Productivity",
         "simonwillison.net · Quoting Armin Ronacher",
-        "buttondown.com/hillelwayne · NYC, New Webinar, Differential Testing",
-        "johndcook.com · Working around a strange Python problem"
+        "buttondown.com/hillelwayne · NYC, New Webinar, Differential Testing"
       ],
       "key_points": [
-        "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
-        "Donating Agent Skills to the Agentic AI Foundation",
-        "Productivity",
-        "Quoting Armin Ronacher"
-      ],
-      "key_points_zh": [
-        "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
-        "Donating Agent Skills to the Agentic AI Foundation",
-        "Productivity",
-        "Quoting Armin Ronacher"
-      ],
-      "key_points_en": [
-        "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
-        "Donating Agent Skills to the Agentic AI Foundation",
-        "Productivity",
-        "Quoting Armin Ronacher"
-      ],
-      "tweet_drafts": [
+        "DE STAAT - FREEDOM (Official Music Video)",
         "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
         "Donating Agent Skills to the Agentic AI Foundation",
         "Productivity"
       ],
+      "key_points_zh": [
+        "DE STAAT - FREEDOM (Official Music Video)",
+        "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
+        "Donating Agent Skills to the Agentic AI Foundation",
+        "Productivity"
+      ],
+      "key_points_en": [
+        "DE STAAT - FREEDOM (Official Music Video)",
+        "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
+        "Donating Agent Skills to the Agentic AI Foundation",
+        "Productivity"
+      ],
+      "tweet_drafts": [
+        "DE STAAT - FREEDOM (Official Music Video)",
+        "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
+        "Donating Agent Skills to the Agentic AI Foundation"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "DE STAAT - FREEDOM (Official Music Video)",
+          "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
@@ -53,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "Donating Agent Skills to the Agentic AI Foundation",
           "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Productivity",
-          "link": "https://idiallo.com/byte-size/productivity-video"
         }
       ],
-      "summary_zh": "2026-10-22 技术日报：Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo；Donating Agent Skills to the Agentic AI Foundation；Productivity。",
-      "summary_en": "Daily brief (2026-10-22): Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo; Donating Agent Skills to the Agentic AI Foundation; Productivity.",
+      "summary_zh": "2026-10-22 技术日报：DE STAAT - FREEDOM (Official Music Video)；Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo；Donating Agent Skills to the Agentic AI Foundation。",
+      "summary_en": "Daily brief (2026-10-22): DE STAAT - FREEDOM (Official Music Video); Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo; Donating Agent Skills to the Agentic AI Foundation.",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-22 日报】Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo；Donating Agent Skills to the Agentic AI Foundation；Productivity。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-22): Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo; Donating Agent Skills to the Agentic AI Foundation; Productivity. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-22 日报】DE STAAT - FREEDOM (Official Music Video)；Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo；Donating Agent Skills to the Agentic AI Foundation。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-22): DE STAAT - FREEDOM (Official Music Video); Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo; Donating Agent Skills to the Agentic AI Foundation. Actionable takeaways included. What would you ship next? #A"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-22）\n- Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo\n- Donating Agent Skills to the Agentic AI Foundation\n- Productivity\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/\n- https://simonwillison.net/2026/Oct/22/donating-agent-skills/\n- https://idiallo.com/byte-size/productivity-video\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-22)\n- Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo\n- Donating Agent Skills to the Agentic AI Foundation\n- Productivity\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/\n- https://simonwillison.net/2026/Oct/22/donating-agent-skills/\n- https://idiallo.com/byte-size/productivity-video\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-22）\n- DE STAAT - FREEDOM (Official Music Video)\n- Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo\n- Donating Agent Skills to the Agentic AI Foundation\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/22/de-staat-freedom/\n- https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/\n- https://simonwillison.net/2026/Oct/22/donating-agent-skills/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-22)\n- DE STAAT - FREEDOM (Official Music Video)\n- Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo\n- Donating Agent Skills to the Agentic AI Foundation\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/22/de-staat-freedom/\n- https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/\n- https://simonwillison.net/2026/Oct/22/donating-agent-skills/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo；Donating Agent Skills to the Agentic AI Foundation；Productivity。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo; Donating Agent Skills to the Agentic AI Foundation; Productivity.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：DE STAAT - FREEDOM (Official Music Video)；Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo；Donating Agent Skills to the Agentic AI Foundation。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: DE STAAT - FREEDOM (Official Music Video); Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo; Donating Agent Skills to the Agentic AI Foundation.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1614,7 +1659,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "derekthompson.org · Death of the Dinner Party"
+        "nesbitt.io · Software Heritage Identifiers"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
@@ -2200,82 +2245,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Victoria Song on Meta Muse’s Cuteness；commit-rewriter 0.2；‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Victoria Song on Meta Muse’s Cuteness; commit-rewriter 0.2; ‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-09-23",
-      "total": 13,
-      "feeds": [
-        "daringfireball.net (3)",
-        "simonwillison.net (3)",
-        "blog.jim-nielsen.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
-        "entropicthoughts.com · Shrinking a Fedora virtual disk",
-        "blog.jim-nielsen.com · Make Money to Make More Websites",
-        "daringfireball.net · App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev",
-        "simonwillison.net · Gemini 3.8 TTS Playground",
-        "daringfireball.net · Super Intelligence, Indeed"
-      ],
-      "key_points": [
-        "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
-        "Shrinking a Fedora virtual disk",
-        "Make Money to Make More Websites",
-        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev"
-      ],
-      "key_points_zh": [
-        "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
-        "Shrinking a Fedora virtual disk",
-        "Make Money to Make More Websites",
-        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev"
-      ],
-      "key_points_en": [
-        "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
-        "Shrinking a Fedora virtual disk",
-        "Make Money to Make More Websites",
-        "App Store Scam of the Week: ‘Update My Phone \u0026 Apps: Guide’ by Tair Olzhasev"
-      ],
-      "tweet_drafts": [
-        "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
-        "Shrinking a Fedora virtual disk",
-        "Make Money to Make More Websites"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally",
-          "link": "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a"
-        },
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Shrinking a Fedora virtual disk",
-          "link": "https://entropicthoughts.com/shrinking-fedora-virtual-disk"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Make Money to Make More Websites",
-          "link": "https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/"
-        }
-      ],
-      "summary_zh": "2026-09-23 技术日报：★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Shrinking a Fedora virtual disk；Make Money to Make More Websites。",
-      "summary_en": "Daily brief (2026-09-23): ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Shrinking a Fedora virtual disk; Make Money to Make More Websites.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-09-23 日报】★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Shrinking a Fedora virtual disk；Make Money to Make More Websites。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-23): ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Shrinking a Fedora virtual disk; Make Money to Make More Websites. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-09-23）\n- ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally\n- Shrinking a Fedora virtual disk\n- Make Money to Make More Websites\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a\n- https://entropicthoughts.com/shrinking-fedora-virtual-disk\n- https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-23)\n- ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally\n- Shrinking a Fedora virtual disk\n- Make Money to Make More Websites\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a\n- https://entropicthoughts.com/shrinking-fedora-virtual-disk\n- https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Shrinking a Fedora virtual disk；Make Money to Make More Websites。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Shrinking a Fedora virtual disk; Make Money to Make More Websites.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
