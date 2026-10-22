@@ -1,9 +1,85 @@
 {
-  "generated_at": "2026-10-22T10:43:43Z",
+  "generated_at": "2026-10-22T15:42:35Z",
   "days": [
     {
+      "date": "2026-10-22",
+      "total": 7,
+      "feeds": [
+        "buttondown.com/hillelwayne (1)",
+        "dfarq.homeip.net (1)",
+        "dwarkesh.com (1)",
+        "herman.bearblog.dev (1)",
+        "johndcook.com (1)",
+        "shkspr.mobi (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Quoting Armin Ronacher",
+        "buttondown.com/hillelwayne · NYC, New Webinar, Differential Testing",
+        "johndcook.com · Working around a strange Python problem",
+        "dwarkesh.com · What will computer chips look like in 2045?",
+        "herman.bearblog.dev · If people would just",
+        "shkspr.mobi · Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆"
+      ],
+      "key_points": [
+        "Quoting Armin Ronacher",
+        "NYC, New Webinar, Differential Testing",
+        "Working around a strange Python problem",
+        "What will computer chips look like in 2045?"
+      ],
+      "key_points_zh": [
+        "Quoting Armin Ronacher",
+        "NYC, New Webinar, Differential Testing",
+        "Working around a strange Python problem",
+        "What will computer chips look like in 2045?"
+      ],
+      "key_points_en": [
+        "Quoting Armin Ronacher",
+        "NYC, New Webinar, Differential Testing",
+        "Working around a strange Python problem",
+        "What will computer chips look like in 2045?"
+      ],
+      "tweet_drafts": [
+        "Quoting Armin Ronacher",
+        "NYC, New Webinar, Differential Testing",
+        "Working around a strange Python problem"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Quoting Armin Ronacher",
+          "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/"
+        },
+        {
+          "feed_title": "buttondown.com/hillelwayne",
+          "title": "NYC, New Webinar, Differential Testing",
+          "link": "https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Working around a strange Python problem",
+          "link": "https://www.johndcook.com/blog/2026/10/22/pep-723/"
+        }
+      ],
+      "summary_zh": "2026-10-22 技术日报：Quoting Armin Ronacher；NYC, New Webinar, Differential Testing；Working around a strange Python problem。",
+      "summary_en": "Daily brief (2026-10-22): Quoting Armin Ronacher; NYC, New Webinar, Differential Testing; Working around a strange Python problem.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-10-22 日报】Quoting Armin Ronacher；NYC, New Webinar, Differential Testing；Working around a strange Python problem。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-22): Quoting Armin Ronacher; NYC, New Webinar, Differential Testing; Working around a strange Python problem. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-10-22）\n- Quoting Armin Ronacher\n- NYC, New Webinar, Differential Testing\n- Working around a strange Python problem\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/22/armin-ronacher/\n- https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/\n- https://www.johndcook.com/blog/2026/10/22/pep-723/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-22)\n- Quoting Armin Ronacher\n- NYC, New Webinar, Differential Testing\n- Working around a strange Python problem\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/22/armin-ronacher/\n- https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/\n- https://www.johndcook.com/blog/2026/10/22/pep-723/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Quoting Armin Ronacher；NYC, New Webinar, Differential Testing；Working around a strange Python problem。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Quoting Armin Ronacher; NYC, New Webinar, Differential Testing; Working around a strange Python problem.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-10-21",
-      "total": 16,
+      "total": 17,
       "feeds": [
         "xeiaso.net (3)",
         "simonwillison.net (2)",
@@ -14,34 +90,34 @@
       ],
       "highlights": [
         "daringfireball.net · ★ The iPhone Duo",
+        "entropicthoughts.com · Script dependencies with Nix",
         "pluralistic.net · Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
         "idiallo.com · Can they write a function?",
         "blog.jim-nielsen.com · No Need for Retirement When Utopia Is Around the Corner",
-        "simonwillison.net · Today's PHP Security Release, and How We're Strengthening PHP Security",
-        "simone.org · Going Somewhere"
+        "simonwillison.net · Today's PHP Security Release, and How We're Strengthening PHP Security"
       ],
       "key_points": [
         "★ The iPhone Duo",
+        "Script dependencies with Nix",
         "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner"
+        "Can they write a function?"
       ],
       "key_points_zh": [
         "★ The iPhone Duo",
+        "Script dependencies with Nix",
         "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner"
+        "Can they write a function?"
       ],
       "key_points_en": [
         "★ The iPhone Duo",
+        "Script dependencies with Nix",
         "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?",
-        "No Need for Retirement When Utopia Is Around the Corner"
+        "Can they write a function?"
       ],
       "tweet_drafts": [
         "★ The iPhone Duo",
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?"
+        "Script dependencies with Nix",
+        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)"
       ],
       "sources": [
         {
@@ -50,30 +126,30 @@
           "link": "https://daringfireball.net/2026/10/the_iphone_duo"
         },
         {
+          "feed_title": "entropicthoughts.com",
+          "title": "Script dependencies with Nix",
+          "link": "https://entropicthoughts.com/python-dependencies-with-nix"
+        },
+        {
           "feed_title": "pluralistic.net",
           "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
           "link": "https://pluralistic.net/2026/10/21/brittle-individualism/"
-        },
-        {
-          "feed_title": "idiallo.com",
-          "title": "Can they write a function?",
-          "link": "https://idiallo.com/blog/can-they-write-a-function"
         }
       ],
-      "summary_zh": "2026-10-21 技术日报：★ The iPhone Duo；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?。",
-      "summary_en": "Daily brief (2026-10-21): ★ The iPhone Duo; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?.",
+      "summary_zh": "2026-10-21 技术日报：★ The iPhone Duo；Script dependencies with Nix；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)。",
+      "summary_en": "Daily brief (2026-10-21): ★ The iPhone Duo; Script dependencies with Nix; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026).",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-21 日报】★ The iPhone Duo；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-21): ★ The iPhone Duo; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-21 日报】★ The iPhone Duo；Script dependencies with Nix；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-21): ★ The iPhone Duo; Script dependencies with Nix; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-21）\n- ★ The iPhone Duo\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-21)\n- ★ The iPhone Duo\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n- Can they write a function?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n- https://idiallo.com/blog/can-they-write-a-function\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-21）\n- ★ The iPhone Duo\n- Script dependencies with Nix\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://entropicthoughts.com/python-dependencies-with-nix\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-21)\n- ★ The iPhone Duo\n- Script dependencies with Nix\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://entropicthoughts.com/python-dependencies-with-nix\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ The iPhone Duo；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)；Can they write a function?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ The iPhone Duo; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026); Can they write a function?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：★ The iPhone Duo；Script dependencies with Nix；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: ★ The iPhone Duo; Script dependencies with Nix; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1538,7 +1614,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "derekthompson.org · Death of the Dinner Party"
+        "nesbitt.io · Software Heritage Identifiers"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
@@ -2200,82 +2276,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally；Shrinking a Fedora virtual disk；Make Money to Make More Websites。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ The iPhone 4 ‘Antennagate’ Press Conference Q\u0026A — Finally; Shrinking a Fedora virtual disk; Make Money to Make More Websites.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-09-22",
-      "total": 16,
-      "feeds": [
-        "daringfireball.net (3)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "downtowndougbrown.com (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · Meta’s Muse Logomark, Designed by Jessica Hische",
-        "daringfireball.net · Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
-        "simonwillison.net · Quoting @therealcornpop",
-        "daringfireball.net · Siri AI Class-Action Lawsuit Settlement Website Is Now Live",
-        "wheresyoured.at · Where're All The AI Chips?",
-        "johndcook.com · Nathaniel Bowditch"
-      ],
-      "key_points": [
-        "Meta’s Muse Logomark, Designed by Jessica Hische",
-        "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
-        "Quoting @therealcornpop",
-        "Siri AI Class-Action Lawsuit Settlement Website Is Now Live"
-      ],
-      "key_points_zh": [
-        "Meta’s Muse Logomark, Designed by Jessica Hische",
-        "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
-        "Quoting @therealcornpop",
-        "Siri AI Class-Action Lawsuit Settlement Website Is Now Live"
-      ],
-      "key_points_en": [
-        "Meta’s Muse Logomark, Designed by Jessica Hische",
-        "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
-        "Quoting @therealcornpop",
-        "Siri AI Class-Action Lawsuit Settlement Website Is Now Live"
-      ],
-      "tweet_drafts": [
-        "Meta’s Muse Logomark, Designed by Jessica Hische",
-        "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
-        "Quoting @therealcornpop"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Meta’s Muse Logomark, Designed by Jessica Hische",
-          "link": "https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Meta’s New Muse AI Agent Read Jason Aten’s Messages Database",
-          "link": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quoting @therealcornpop",
-          "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/"
-        }
-      ],
-      "summary_zh": "2026-09-22 技术日报：Meta’s Muse Logomark, Designed by Jessica Hische；Meta’s New Muse AI Agent Read Jason Aten’s Messages Database；Quoting @therealcornpop。",
-      "summary_en": "Daily brief (2026-09-22): Meta’s Muse Logomark, Designed by Jessica Hische; Meta’s New Muse AI Agent Read Jason Aten’s Messages Database; Quoting @therealcornpop.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-09-22 日报】Meta’s Muse Logomark, Designed by Jessica Hische；Meta’s New Muse AI Agent Read Jason Aten’s Messages Database；Quoting @therealcornpop。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-22): Meta’s Muse Logomark, Designed by Jessica Hische; Meta’s New Muse AI Agent Read Jason Aten’s Messages Database; Quoting @therealcornpop. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-09-22）\n- Meta’s Muse Logomark, Designed by Jessica Hische\n- Meta’s New Muse AI Agent Read Jason Aten’s Messages Database\n- Quoting @therealcornpop\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/\n- https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202\n- https://simonwillison.net/2026/Sep/22/therealcornpop/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-22)\n- Meta’s Muse Logomark, Designed by Jessica Hische\n- Meta’s New Muse AI Agent Read Jason Aten’s Messages Database\n- Quoting @therealcornpop\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/\n- https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202\n- https://simonwillison.net/2026/Sep/22/therealcornpop/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Meta’s Muse Logomark, Designed by Jessica Hische；Meta’s New Muse AI Agent Read Jason Aten’s Messages Database；Quoting @therealcornpop。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Meta’s Muse Logomark, Designed by Jessica Hische; Meta’s New Muse AI Agent Read Jason Aten’s Messages Database; Quoting @therealcornpop.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
