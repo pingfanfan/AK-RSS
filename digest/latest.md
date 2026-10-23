@@ -1,8 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-23 15:29:37 UTC
+Generated at: 2026-10-23 19:26:31 UTC
 
-- [Ubiquiti's $99 Vape Detector is actually pretty good](https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/) (`jeffgeerling.com`)
-- [Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’](https://www.youtube.com/watch?v=bxDTWuL9GxY) (`daringfireball.net`)
-- [More phishing messages via Booking.com and Novotel](https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/) (`shkspr.mobi`)
-- [Windows XP released October 25, 2001](https://dfarq.homeip.net/windows-xp-released-october-25-2001/?utm_source=rss&utm_medium=rss&utm_campaign=windows-xp-released-october-25-2001) (`dfarq.homeip.net`)
+- [The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review) (`daringfireball.net`)
+- [Why didn’t we use the COM static store to clean up the unmarshalable delegate?](https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/) (`devblogs.microsoft.com/oldnewthing`)
+- ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/) (`xeiaso.net`)
+- [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/) (`wheresyoured.at`)
+- [How I use AI on this blog](https://www.gilesthomas.com/2026/07/ai-use) (`gilesthomas.com`)
+- [An Ion Storm!, Part 2: The Return to Ground Level](https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/) (`filfre.net`)
