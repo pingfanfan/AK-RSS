@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-22 22:48:56 UTC
+Generated at: 2026-10-23 10:35:16 UTC
 
-- [Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/) (`seangoedecke.com`)
-- [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) (`simonwillison.net`)
+- [One Small Bug](https://nesbitt.io/2026/10/23/one-small-bug.html) (`nesbitt.io`)
