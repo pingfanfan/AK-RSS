@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-25 20:03:23 UTC
+Generated at: 2026-10-25 22:40:21 UTC
 
-- [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/) (`johndcook.com`)
-- [A rising tide raises all rents](https://jyn.dev/rising-tide-raises-rents/) (`jyn.dev`)
+- [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) (`minimaxir.com`)
+- [lighting the skies](https://computer.rip/2026-10-25-searchlights.html) (`computer.rip`)
