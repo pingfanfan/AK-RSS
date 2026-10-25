@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-10-25T00:23:35Z",
+  "generated_at": "2026-10-25T10:14:35Z",
   "days": [
+    {
+      "date": "2026-10-25",
+      "total": 3,
+      "feeds": [
+        "johndcook.com (1)",
+        "oldvcr.blogspot.com (1)",
+        "seangoedecke.com (1)"
+      ],
+      "highlights": [
+        "oldvcr.blogspot.com · MacOS Extensions pack for the Apple Network Server v1.0",
+        "johndcook.com · Computing polar triangles with linear algebra",
+        "seangoedecke.com · Don't anthropomorphize big tech companies"
+      ],
+      "key_points": [
+        "MacOS Extensions pack for the Apple Network Server v1.0",
+        "Computing polar triangles with linear algebra",
+        "Don't anthropomorphize big tech companies"
+      ],
+      "key_points_zh": [
+        "MacOS Extensions pack for the Apple Network Server v1.0",
+        "Computing polar triangles with linear algebra",
+        "Don't anthropomorphize big tech companies"
+      ],
+      "key_points_en": [
+        "MacOS Extensions pack for the Apple Network Server v1.0",
+        "Computing polar triangles with linear algebra",
+        "Don't anthropomorphize big tech companies"
+      ],
+      "tweet_drafts": [
+        "MacOS Extensions pack for the Apple Network Server v1.0",
+        "Computing polar triangles with linear algebra",
+        "Don't anthropomorphize big tech companies"
+      ],
+      "sources": [
+        {
+          "feed_title": "oldvcr.blogspot.com",
+          "title": "MacOS Extensions pack for the Apple Network Server v1.0",
+          "link": "https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html"
+        },
+        {
+          "feed_title": "johndcook.com",
+          "title": "Computing polar triangles with linear algebra",
+          "link": "https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/"
+        },
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "Don't anthropomorphize big tech companies",
+          "link": "https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/"
+        }
+      ],
+      "summary_zh": "2026-10-25 技术日报：MacOS Extensions pack for the Apple Network Server v1.0；Computing polar triangles with linear algebra；Don't anthropomorphize big tech companies。",
+      "summary_en": "Daily brief (2026-10-25): MacOS Extensions pack for the Apple Network Server v1.0; Computing polar triangles with linear algebra; Don't anthropomorphize big tech companies.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-10-25 日报】MacOS Extensions pack for the Apple Network Server v1.0；Computing polar triangles with linear algebra；Don't anthropomorphize big tech companies。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-25): MacOS Extensions pack for the Apple Network Server v1.0; Computing polar triangles with linear algebra; Don't anthropomorphize big tech companies. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubl"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-10-25）\n- MacOS Extensions pack for the Apple Network Server v1.0\n- Computing polar triangles with linear algebra\n- Don't anthropomorphize big tech companies\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html\n- https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/\n- https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-25)\n- MacOS Extensions pack for the Apple Network Server v1.0\n- Computing polar triangles with linear algebra\n- Don't anthropomorphize big tech companies\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html\n- https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/\n- https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：MacOS Extensions pack for the Apple Network Server v1.0；Computing polar triangles with linear algebra；Don't anthropomorphize big tech companies。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: MacOS Extensions pack for the Apple Network Server v1.0; Computing polar triangles with linear algebra; Don't anthropomorphize big tech companies.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
     {
       "date": "2026-10-24",
       "total": 12,
@@ -2200,82 +2267,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Reelizer Returns；Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed；Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Reelizer Returns; Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed; Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-09-25",
-      "total": 16,
-      "feeds": [
-        "daringfireball.net (3)",
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "jeffgeerling.com (1)"
-      ],
-      "highlights": [
-        "krebsonsecurity.com · U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions",
-        "daringfireball.net · Stock UI in MacOS 27 Eschews Clarity",
-        "blog.jim-nielsen.com · Using an LLM to Automate the Process of Archiving New macOS App Icons",
-        "pluralistic.net · Pluralistic: Itch scratching (25 Sep 2026)",
-        "daringfireball.net · ★ I’ll Wait",
-        "simonwillison.net · Quoting John Gruber"
-      ],
-      "key_points": [
-        "U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions",
-        "Stock UI in MacOS 27 Eschews Clarity",
-        "Using an LLM to Automate the Process of Archiving New macOS App Icons",
-        "Pluralistic: Itch scratching (25 Sep 2026)"
-      ],
-      "key_points_zh": [
-        "U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions",
-        "Stock UI in MacOS 27 Eschews Clarity",
-        "Using an LLM to Automate the Process of Archiving New macOS App Icons",
-        "Pluralistic: Itch scratching (25 Sep 2026)"
-      ],
-      "key_points_en": [
-        "U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions",
-        "Stock UI in MacOS 27 Eschews Clarity",
-        "Using an LLM to Automate the Process of Archiving New macOS App Icons",
-        "Pluralistic: Itch scratching (25 Sep 2026)"
-      ],
-      "tweet_drafts": [
-        "U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions",
-        "Stock UI in MacOS 27 Eschews Clarity",
-        "Using an LLM to Automate the Process of Archiving New macOS App Icons"
-      ],
-      "sources": [
-        {
-          "feed_title": "krebsonsecurity.com",
-          "title": "U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions",
-          "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Stock UI in MacOS 27 Eschews Clarity",
-          "link": "https://mastodon.design/@thibault/117320401426286497"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "Using an LLM to Automate the Process of Archiving New macOS App Icons",
-          "link": "https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/"
-        }
-      ],
-      "summary_zh": "2026-09-25 技术日报：U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions；Stock UI in MacOS 27 Eschews Clarity；Using an LLM to Automate the Process of Archiving New macOS App Icons。",
-      "summary_en": "Daily brief (2026-09-25): U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions; Stock UI in MacOS 27 Eschews Clarity; Using an LLM to Automate the Process of Archiving New macOS App Icons.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-09-25 日报】U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions；Stock UI in MacOS 27 Eschews Clarity；Using an LLM to Automate the Process of Archiving New macOS App Icons。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-09-25): U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions; Stock UI in MacOS 27 Eschews Clarity; Using an LLM to Automate the Process of Archiving New macOS App Icons. Actionable takeaways included. What would you ship next?"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-09-25）\n- U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions\n- Stock UI in MacOS 27 Eschews Clarity\n- Using an LLM to Automate the Process of Archiving New macOS App Icons\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/\n- https://mastodon.design/@thibault/117320401426286497\n- https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-09-25)\n- U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions\n- Stock UI in MacOS 27 Eschews Clarity\n- Using an LLM to Automate the Process of Archiving New macOS App Icons\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/\n- https://mastodon.design/@thibault/117320401426286497\n- https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions；Stock UI in MacOS 27 Eschews Clarity；Using an LLM to Automate the Process of Archiving New macOS App Icons。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: U.S. Soldier Gets 70 Months in Prison for AT\u0026T, Verizon Extortions; Stock UI in MacOS 27 Eschews Clarity; Using an LLM to Automate the Process of Archiving New macOS App Icons.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }

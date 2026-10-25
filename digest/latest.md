@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-25 00:23:22 UTC
+Generated at: 2026-10-25 10:14:23 UTC
 
-- [Nicole Nguyen’s Duo Review for the WSJ](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf) (`daringfireball.net`)
+- [Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) (`seangoedecke.com`)
+- [Computing polar triangles with linear algebra](https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/) (`johndcook.com`)
+- [MacOS Extensions pack for the Apple Network Server v1.0](https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html) (`oldvcr.blogspot.com`)
