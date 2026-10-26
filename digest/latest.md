@@ -1,8 +1,11 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-26 11:38:57 UTC
+Generated at: 2026-10-26 17:43:17 UTC
 
-- [Seam Cutter](https://simonwillison.net/2026/Oct/25/seam-cutter/) (`simonwillison.net`)
-- [Package Management Devroom at FOSDEM 2027: Call for Participation](https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html) (`nesbitt.io`)
-- [Why My Dad Didn’t Have a Cell Phone](https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/) (`blog.jim-nielsen.com`)
-- [Windows 8 released Oct 26, 2012](https://dfarq.homeip.net/windows-8-released-oct-26-2012/?utm_source=rss&utm_medium=rss&utm_campaign=windows-8-released-oct-26-2012) (`dfarq.homeip.net`)
+- [Puzzling out why a program doesn’t work when run from a batch file, but works when double-clicked from Explorer](https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/) (`devblogs.microsoft.com/oldnewthing`)
+- [Scattered thoughts on how doing math feels these days](https://dynomight.net/math/) (`dynomight.net`)
+- [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932) (`daringfireball.net`)
+- [Where else to find me](https://www.johndcook.com/blog/2026/10/26/where-to-find-me/) (`johndcook.com`)
+- [Theatre Review: Opera UnTouched's "The Telephone" ★★★★★](https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/) (`shkspr.mobi`)
+- [Pluralistic: Sovereign citizens, but for news (26 Oct 2026)](https://pluralistic.net/2026/10/26/abandon-hope/) (`pluralistic.net`)
+- [De IT-onmacht van de Nederlandse overheid](https://berthub.eu/articles/posts/de-it-onmacht-van-de-nederlands-overheid/) (`berthub.eu`)
