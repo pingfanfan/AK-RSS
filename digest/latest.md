@@ -1,7 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-26 21:57:57 UTC
+Generated at: 2026-10-27 01:02:25 UTC
 
-- [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) (`simonwillison.net`)
-- [Glenn Fleishman on Apple Notes and Markdown](https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/) (`daringfireball.net`)
-- [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/) (`johndcook.com`)
+- [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) (`simonwillison.net`)
+- [The NYT Seemingly Does Marissa Mayer Dirty](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr) (`daringfireball.net`)
