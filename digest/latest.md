@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-27 01:02:25 UTC
+Generated at: 2026-10-27 11:08:01 UTC
 
-- [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) (`simonwillison.net`)
-- [The NYT Seemingly Does Marissa Mayer Dirty](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr) (`daringfireball.net`)
+- [Pluralistic: History is something you do (27 Oct 2026)](https://pluralistic.net/2026/10/27/tied-to-the-tracks/) (`pluralistic.net`)
+- [Weekly Update 527: Cybergeddon News v. Reality](https://www.troyhunt.com/weekly-update-527/) (`troyhunt.com`)
