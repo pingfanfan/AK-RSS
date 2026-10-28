@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-27 21:01:15 UTC
+Generated at: 2026-10-28 00:34:45 UTC
 
-- [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/) (`simonwillison.net`)
-- [What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks](https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/) (`daringfireball.net`)
+- [Siri AI Expands to More Languages in OS 27.2](https://nr.apple.com/Du9G9W8Nq1) (`daringfireball.net`)
