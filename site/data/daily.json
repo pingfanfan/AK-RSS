@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-10-28T17:29:13Z",
+  "generated_at": "2026-10-28T21:48:30Z",
   "days": [
     {
       "date": "2026-10-28",
-      "total": 11,
+      "total": 13,
       "feeds": [
         "simonwillison.net (2)",
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
         "dynomight.net (1)",
-        "experimental-history.com (1)",
-        "johndcook.com (1)"
+        "experimental-history.com (1)"
       ],
       "highlights": [
+        "wheresyoured.at · Exit Liquidity",
         "simonwillison.net · GitHub Octoverse 2026",
         "experimental-history.com · Fake it ‘til you make it (and then keep faking it)",
         "daringfireball.net · Guessing the Name: MacBook Studio?",
-        "shkspr.mobi · Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪",
-        "johndcook.com · The Unbalanced Group Theorem",
-        "dfarq.homeip.net · TI-99/4A discontinued October 28, 1983"
+        "devblogs.microsoft.com/oldnewthing · C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface",
+        "shkspr.mobi · Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪"
       ],
       "key_points": [
-        "GitHub Octoverse 2026",
-        "Fake it ‘til you make it (and then keep faking it)",
-        "Guessing the Name: MacBook Studio?",
-        "Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪"
-      ],
-      "key_points_zh": [
-        "GitHub Octoverse 2026",
-        "Fake it ‘til you make it (and then keep faking it)",
-        "Guessing the Name: MacBook Studio?",
-        "Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪"
-      ],
-      "key_points_en": [
-        "GitHub Octoverse 2026",
-        "Fake it ‘til you make it (and then keep faking it)",
-        "Guessing the Name: MacBook Studio?",
-        "Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪"
-      ],
-      "tweet_drafts": [
+        "Exit Liquidity",
         "GitHub Octoverse 2026",
         "Fake it ‘til you make it (and then keep faking it)",
         "Guessing the Name: MacBook Studio?"
       ],
+      "key_points_zh": [
+        "Exit Liquidity",
+        "GitHub Octoverse 2026",
+        "Fake it ‘til you make it (and then keep faking it)",
+        "Guessing the Name: MacBook Studio?"
+      ],
+      "key_points_en": [
+        "Exit Liquidity",
+        "GitHub Octoverse 2026",
+        "Fake it ‘til you make it (and then keep faking it)",
+        "Guessing the Name: MacBook Studio?"
+      ],
+      "tweet_drafts": [
+        "Exit Liquidity",
+        "GitHub Octoverse 2026",
+        "Fake it ‘til you make it (and then keep faking it)"
+      ],
       "sources": [
+        {
+          "feed_title": "wheresyoured.at",
+          "title": "Exit Liquidity",
+          "link": "https://www.wheresyoured.at/exit-liquidity/"
+        },
         {
           "feed_title": "simonwillison.net",
           "title": "GitHub Octoverse 2026",
@@ -53,27 +58,22 @@
           "feed_title": "experimental-history.com",
           "title": "Fake it ‘til you make it (and then keep faking it)",
           "link": "https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Guessing the Name: MacBook Studio?",
-          "link": "https://www.macrumors.com/2026/10/28/macbook-studio/"
         }
       ],
-      "summary_zh": "2026-10-28 技术日报：GitHub Octoverse 2026；Fake it ‘til you make it (and then keep faking it)；Guessing the Name: MacBook Studio?。",
-      "summary_en": "Daily brief (2026-10-28): GitHub Octoverse 2026; Fake it ‘til you make it (and then keep faking it); Guessing the Name: MacBook Studio?.",
+      "summary_zh": "2026-10-28 技术日报：Exit Liquidity；GitHub Octoverse 2026；Fake it ‘til you make it (and then keep faking it)。",
+      "summary_en": "Daily brief (2026-10-28): Exit Liquidity; GitHub Octoverse 2026; Fake it ‘til you make it (and then keep faking it).",
       "social_posts": {
         "x": {
-          "zh": "【2026-10-28 日报】GitHub Octoverse 2026；Fake it ‘til you make it (and then keep faking it)；Guessing the Name: MacBook Studio?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-28): GitHub Octoverse 2026; Fake it ‘til you make it (and then keep faking it); Guessing the Name: MacBook Studio?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-10-28 日报】Exit Liquidity；GitHub Octoverse 2026；Fake it ‘til you make it (and then keep faking it)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-10-28): Exit Liquidity; GitHub Octoverse 2026; Fake it ‘til you make it (and then keep faking it). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-10-28）\n- GitHub Octoverse 2026\n- Fake it ‘til you make it (and then keep faking it)\n- Guessing the Name: MacBook Studio?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/28/github-octoverse-2026/\n- https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then\n- https://www.macrumors.com/2026/10/28/macbook-studio/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-28)\n- GitHub Octoverse 2026\n- Fake it ‘til you make it (and then keep faking it)\n- Guessing the Name: MacBook Studio?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/28/github-octoverse-2026/\n- https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then\n- https://www.macrumors.com/2026/10/28/macbook-studio/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-10-28）\n- Exit Liquidity\n- GitHub Octoverse 2026\n- Fake it ‘til you make it (and then keep faking it)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.wheresyoured.at/exit-liquidity/\n- https://simonwillison.net/2026/Oct/28/github-octoverse-2026/\n- https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-10-28)\n- Exit Liquidity\n- GitHub Octoverse 2026\n- Fake it ‘til you make it (and then keep faking it)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.wheresyoured.at/exit-liquidity/\n- https://simonwillison.net/2026/Oct/28/github-octoverse-2026/\n- https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：GitHub Octoverse 2026；Fake it ‘til you make it (and then keep faking it)；Guessing the Name: MacBook Studio?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: GitHub Octoverse 2026; Fake it ‘til you make it (and then keep faking it); Guessing the Name: MacBook Studio?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Exit Liquidity；GitHub Octoverse 2026；Fake it ‘til you make it (and then keep faking it)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Exit Liquidity; GitHub Octoverse 2026; Fake it ‘til you make it (and then keep faking it).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2070,7 +2070,7 @@
         "devblogs.microsoft.com/oldnewthing · Windows on Itanium also provided for hot-patching, in an even simpler way",
         "construction-physics.com · Understanding the AI That Drives Robots",
         "dfarq.homeip.net · The day GIF became free to use, forever",
-        "nesbitt.io · Software Heritage Identifiers"
+        "derekthompson.org · Death of the Dinner Party"
       ],
       "key_points": [
         "Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)",
