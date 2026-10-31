@@ -1,6 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-31 20:07:03 UTC
+Generated at: 2026-10-31 23:29:19 UTC
 
-- [Gig Review: The Witcher in Concert ★★★★☆](https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/) (`shkspr.mobi`)
-- [Hyperlink selected text in Gmail](https://danielwirtz.com/blog/gmail-url-paste) (`danielwirtz.com`)
+- [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) (`simonwillison.net`)
