@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-30 21:37:02 UTC
+Generated at: 2026-10-31 01:07:14 UTC
 
-- [The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) (`daringfireball.net`)
+- [College will only cost $20 a month](https://idiallo.com/blog/college-will-cost-20-dollars) (`idiallo.com`)
+- [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) (`simonwillison.net`)
