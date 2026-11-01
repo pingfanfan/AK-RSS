@@ -1,5 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-10-31 23:29:19 UTC
+Generated at: 2026-11-01 12:07:42 UTC
 
-- [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) (`simonwillison.net`)
+- [Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) (`seangoedecke.com`)
+- [IBM PC/XT drives stuck in the bay? How to free them](https://dfarq.homeip.net/ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them) (`dfarq.homeip.net`)
+- [Weekly Update 528: Reading AI-generated Code & the Economics of Solar](https://www.troyhunt.com/weekly-update-528/) (`troyhunt.com`)
