@@ -1,5 +1,5 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-01 21:42:29 UTC
+Generated at: 2026-11-02 01:04:24 UTC
 
-- [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/) (`johndcook.com`)
+- [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) (`simonwillison.net`)

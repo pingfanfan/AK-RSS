@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-11-01T21:42:45Z",
+  "generated_at": "2026-11-02T01:04:36Z",
   "days": [
     {
       "date": "2026-11-01",
-      "total": 7,
+      "total": 8,
       "feeds": [
+        "simonwillison.net (2)",
         "dfarq.homeip.net (1)",
         "evanhahn.com (1)",
         "johndcook.com (1)",
         "seangoedecke.com (1)",
-        "shkspr.mobi (1)",
-        "simonwillison.net (1)"
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "simonwillison.net · If in doubt, delete the uv.lock file",
         "johndcook.com · A unified view of poles and polars",
         "simonwillison.net · Quoting Kyle Kingsbury",
         "shkspr.mobi · 10 Years on Mastodon",
         "dfarq.homeip.net · IBM PC/XT drives stuck in the bay? How to free them",
-        "evanhahn.com · A Mastodon bot powered by iOS Shortcuts",
-        "troyhunt.com · Weekly Update 528: Reading AI-generated Code \u0026 the Economics of Solar"
+        "evanhahn.com · A Mastodon bot powered by iOS Shortcuts"
       ],
       "key_points": [
-        "A unified view of poles and polars",
-        "Quoting Kyle Kingsbury",
-        "10 Years on Mastodon",
-        "IBM PC/XT drives stuck in the bay? How to free them"
-      ],
-      "key_points_zh": [
-        "A unified view of poles and polars",
-        "Quoting Kyle Kingsbury",
-        "10 Years on Mastodon",
-        "IBM PC/XT drives stuck in the bay? How to free them"
-      ],
-      "key_points_en": [
-        "A unified view of poles and polars",
-        "Quoting Kyle Kingsbury",
-        "10 Years on Mastodon",
-        "IBM PC/XT drives stuck in the bay? How to free them"
-      ],
-      "tweet_drafts": [
+        "If in doubt, delete the uv.lock file",
         "A unified view of poles and polars",
         "Quoting Kyle Kingsbury",
         "10 Years on Mastodon"
       ],
+      "key_points_zh": [
+        "If in doubt, delete the uv.lock file",
+        "A unified view of poles and polars",
+        "Quoting Kyle Kingsbury",
+        "10 Years on Mastodon"
+      ],
+      "key_points_en": [
+        "If in doubt, delete the uv.lock file",
+        "A unified view of poles and polars",
+        "Quoting Kyle Kingsbury",
+        "10 Years on Mastodon"
+      ],
+      "tweet_drafts": [
+        "If in doubt, delete the uv.lock file",
+        "A unified view of poles and polars",
+        "Quoting Kyle Kingsbury"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "If in doubt, delete the uv.lock file",
+          "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/"
+        },
         {
           "feed_title": "johndcook.com",
           "title": "A unified view of poles and polars",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Quoting Kyle Kingsbury",
           "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "10 Years on Mastodon",
-          "link": "https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/"
         }
       ],
-      "summary_zh": "2026-11-01 技术日报：A unified view of poles and polars；Quoting Kyle Kingsbury；10 Years on Mastodon。",
-      "summary_en": "Daily brief (2026-11-01): A unified view of poles and polars; Quoting Kyle Kingsbury; 10 Years on Mastodon.",
+      "summary_zh": "2026-11-01 技术日报：If in doubt, delete the uv.lock file；A unified view of poles and polars；Quoting Kyle Kingsbury。",
+      "summary_en": "Daily brief (2026-11-01): If in doubt, delete the uv.lock file; A unified view of poles and polars; Quoting Kyle Kingsbury.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-01 日报】A unified view of poles and polars；Quoting Kyle Kingsbury；10 Years on Mastodon。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-01): A unified view of poles and polars; Quoting Kyle Kingsbury; 10 Years on Mastodon. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-01 日报】If in doubt, delete the uv.lock file；A unified view of poles and polars；Quoting Kyle Kingsbury。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-01): If in doubt, delete the uv.lock file; A unified view of poles and polars; Quoting Kyle Kingsbury. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-01）\n- A unified view of poles and polars\n- Quoting Kyle Kingsbury\n- 10 Years on Mastodon\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/\n- https://simonwillison.net/2026/Nov/1/kyle-kingsbury/\n- https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-01)\n- A unified view of poles and polars\n- Quoting Kyle Kingsbury\n- 10 Years on Mastodon\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/\n- https://simonwillison.net/2026/Nov/1/kyle-kingsbury/\n- https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-01）\n- If in doubt, delete the uv.lock file\n- A unified view of poles and polars\n- Quoting Kyle Kingsbury\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/\n- https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/\n- https://simonwillison.net/2026/Nov/1/kyle-kingsbury/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-01)\n- If in doubt, delete the uv.lock file\n- A unified view of poles and polars\n- Quoting Kyle Kingsbury\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/\n- https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/\n- https://simonwillison.net/2026/Nov/1/kyle-kingsbury/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：A unified view of poles and polars；Quoting Kyle Kingsbury；10 Years on Mastodon。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: A unified view of poles and polars; Quoting Kyle Kingsbury; 10 Years on Mastodon.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：If in doubt, delete the uv.lock file；A unified view of poles and polars；Quoting Kyle Kingsbury。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: If in doubt, delete the uv.lock file; A unified view of poles and polars; Quoting Kyle Kingsbury.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
