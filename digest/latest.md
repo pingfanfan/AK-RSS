@@ -1,9 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-02 13:56:47 UTC
+Generated at: 2026-11-02 22:30:58 UTC
 
-- [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) (`simonwillison.net`)
-- [Reliably aligning LLMs is impossible in principle](https://seangoedecke.com/alignment-is-impossible/) (`seangoedecke.com`)
-- [Lorem Ipsum Dot Gov Dot UK](https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/) (`shkspr.mobi`)
-- [Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/) (`pluralistic.net`)
-- [Etoys.com and its rapid rise and fall](https://dfarq.homeip.net/etoys-com-and-its-rapid-rise-and-fall/?utm_source=rss&utm_medium=rss&utm_campaign=etoys-com-and-its-rapid-rise-and-fall) (`dfarq.homeip.net`)
+- [LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/) (`seangoedecke.com`)
+- [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/) (`devblogs.microsoft.com/oldnewthing`)
+- [Making peace with the projective plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/) (`johndcook.com`)
+- [Pray for Chaos](https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html) (`geohot.github.io`)
