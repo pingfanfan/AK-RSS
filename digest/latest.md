@@ -1,13 +1,12 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-03 13:05:13 UTC
+Generated at: 2026-11-03 20:10:01 UTC
 
-- [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/) (`krebsonsecurity.com`)
-- [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) (`simonwillison.net`)
-- [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child) (`idiallo.com`)
-- [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/) (`daringfireball.net`)
-- [Euclidean, Spherical, and Projective Geometry](https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/) (`johndcook.com`)
-- [Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/) (`shkspr.mobi`)
-- [Charles Tandy, the mastermind behind Radio Shack](https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/?utm_source=rss&utm_medium=rss&utm_campaign=charles-tandy-the-mastermind-behind-radio-shack) (`dfarq.homeip.net`)
-- [Runs scored in World Baseball Classic](https://entropicthoughts.com/sums-of-overdispersed-counts) (`entropicthoughts.com`)
-- [Pumpkin Seeds](https://feed.tedium.co/link/15204/17514236/cryptids-halloween-ephemera) (`tedium.co`)
+- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) (`simonwillison.net`)
+- [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/) (`daringfireball.net`)
+- [Pluralistic: Separable (03 Nov 2026)](https://pluralistic.net/2026/11/03/nobody-is-home/) (`pluralistic.net`)
+- [How do you implement a random-access database when you don’t have random-access external storage?](https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/) (`devblogs.microsoft.com/oldnewthing`)
+- [Fraction comparison trick revisited](https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/) (`johndcook.com`)
+- [New Article, Annual LFP Charity Discount](https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/) (`buttondown.com/hillelwayne`)
+- [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) (`rakhim.exotext.com`)
+- [Running Dry](https://www.wheresyoured.at/running-dry/) (`wheresyoured.at`)
