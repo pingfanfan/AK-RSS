@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T20:10:13Z",
+  "generated_at": "2026-11-04T00:42:43Z",
   "days": [
     {
       "date": "2026-11-03",
-      "total": 17,
+      "total": 18,
       "feeds": [
-        "daringfireball.net (2)",
+        "daringfireball.net (3)",
         "johndcook.com (2)",
         "simonwillison.net (2)",
         "buttondown.com/hillelwayne (1)",
@@ -13,37 +13,42 @@
         "dfarq.homeip.net (1)"
       ],
       "highlights": [
+        "daringfireball.net · Apple Begins Opening Siri AI to Developers",
         "daringfireball.net · Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
         "buttondown.com/hillelwayne · New Article, Annual LFP Charity Discount",
         "wheresyoured.at · Running Dry",
         "simonwillison.net · Qwen 3.8 27B on my laptop can interpret model weights, too",
-        "devblogs.microsoft.com/oldnewthing · How do you implement a random-access database when you don’t have random-access external storage?",
-        "johndcook.com · Fraction comparison trick revisited"
+        "devblogs.microsoft.com/oldnewthing · How do you implement a random-access database when you don’t have random-access external storage?"
       ],
       "key_points": [
-        "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
-        "New Article, Annual LFP Charity Discount",
-        "Running Dry",
-        "Qwen 3.8 27B on my laptop can interpret model weights, too"
-      ],
-      "key_points_zh": [
-        "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
-        "New Article, Annual LFP Charity Discount",
-        "Running Dry",
-        "Qwen 3.8 27B on my laptop can interpret model weights, too"
-      ],
-      "key_points_en": [
-        "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
-        "New Article, Annual LFP Charity Discount",
-        "Running Dry",
-        "Qwen 3.8 27B on my laptop can interpret model weights, too"
-      ],
-      "tweet_drafts": [
+        "Apple Begins Opening Siri AI to Developers",
         "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
         "New Article, Annual LFP Charity Discount",
         "Running Dry"
       ],
+      "key_points_zh": [
+        "Apple Begins Opening Siri AI to Developers",
+        "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
+        "New Article, Annual LFP Charity Discount",
+        "Running Dry"
+      ],
+      "key_points_en": [
+        "Apple Begins Opening Siri AI to Developers",
+        "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
+        "New Article, Annual LFP Charity Discount",
+        "Running Dry"
+      ],
+      "tweet_drafts": [
+        "Apple Begins Opening Siri AI to Developers",
+        "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
+        "New Article, Annual LFP Charity Discount"
+      ],
       "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Apple Begins Opening Siri AI to Developers",
+          "link": "https://developer.apple.com/news/?id=gdk2umrf"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
@@ -53,27 +58,22 @@
           "feed_title": "buttondown.com/hillelwayne",
           "title": "New Article, Annual LFP Charity Discount",
           "link": "https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Running Dry",
-          "link": "https://www.wheresyoured.at/running-dry/"
         }
       ],
-      "summary_zh": "2026-11-03 技术日报：Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode；New Article, Annual LFP Charity Discount；Running Dry。",
-      "summary_en": "Daily brief (2026-11-03): Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode; New Article, Annual LFP Charity Discount; Running Dry.",
+      "summary_zh": "2026-11-03 技术日报：Apple Begins Opening Siri AI to Developers；Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode；New Article, Annual LFP Charity Discount。",
+      "summary_en": "Daily brief (2026-11-03): Apple Begins Opening Siri AI to Developers; Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode; New Article, Annual LFP Charity Discount.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-03 日报】Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode；New Article, Annual LFP Charity Discount；Running Dry。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-03): Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode; New Article, Annual LFP Charity Discount; Running Dry. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-03 日报】Apple Begins Opening Siri AI to Developers；Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode；New Article, Annual LFP Charity Discount。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-03): Apple Begins Opening Siri AI to Developers; Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode; New Article, Annual LFP Charity Discount. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPubli"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-03）\n- Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode\n- New Article, Annual LFP Charity Discount\n- Running Dry\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.macrumors.com/2026/11/03/ios-27-3-safari/\n- https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/\n- https://www.wheresyoured.at/running-dry/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-03)\n- Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode\n- New Article, Annual LFP Charity Discount\n- Running Dry\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.macrumors.com/2026/11/03/ios-27-3-safari/\n- https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/\n- https://www.wheresyoured.at/running-dry/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-03）\n- Apple Begins Opening Siri AI to Developers\n- Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode\n- New Article, Annual LFP Charity Discount\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://developer.apple.com/news/?id=gdk2umrf\n- https://www.macrumors.com/2026/11/03/ios-27-3-safari/\n- https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-03)\n- Apple Begins Opening Siri AI to Developers\n- Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode\n- New Article, Annual LFP Charity Discount\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://developer.apple.com/news/?id=gdk2umrf\n- https://www.macrumors.com/2026/11/03/ios-27-3-safari/\n- https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode；New Article, Annual LFP Charity Discount；Running Dry。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode; New Article, Annual LFP Charity Discount; Running Dry.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Apple Begins Opening Siri AI to Developers；Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode；New Article, Annual LFP Charity Discount。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Apple Begins Opening Siri AI to Developers; Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode; New Article, Annual LFP Charity Discount.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -322,7 +322,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "jeffgeerling.com · Rejoice, leap seconds are dead!"
+        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
       ],
       "key_points": [
         "College will only cost $20 a month",
