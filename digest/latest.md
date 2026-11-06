@@ -1,9 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-06 13:18:36 UTC
+Generated at: 2026-11-06 19:59:35 UTC
 
-- [Writing English is Solved](https://idiallo.com/byte-size/english-is-solved) (`idiallo.com`)
-- [You shouldn’t change the style of a Win32 static control after it has been created](https://devblogs.microsoft.com/oldnewthing/20261105-00/?p=112835/) (`devblogs.microsoft.com/oldnewthing`)
-- [A video game which caused real world violence](https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/) (`shkspr.mobi`)
-- [How Do Building Codes Affect the Price of Housing?](https://www.construction-physics.com/p/how-do-building-codes-affect-the) (`construction-physics.com`)
-- [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-transmeta-the-last-big-dotcom-ipo) (`dfarq.homeip.net`)
+- [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) (`simonwillison.net`)
+- [★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow) (`daringfireball.net`)
+- [Static site generators are weird](https://evanhahn.com/static-site-generators-are-weird/) (`evanhahn.com`)
+- [Weekend at Bernie’s II](https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html) (`nesbitt.io`)
+- [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/) (`wheresyoured.at`)
+- [Deus Ex](https://www.filfre.net/2026/11/deus-ex/) (`filfre.net`)
