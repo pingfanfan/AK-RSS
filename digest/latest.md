@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-08 00:10:38 UTC
+Generated at: 2026-11-08 12:17:28 UTC
 
-- [datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) (`simonwillison.net`)
-- [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0) (`daringfireball.net`)
+- [LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) (`seangoedecke.com`)
+- [The problem with Micron MT 4264 RAM](https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss&utm_medium=rss&utm_campaign=the-problem-with-micron-mt-4264-ram) (`dfarq.homeip.net`)
