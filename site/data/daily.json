@@ -1,59 +1,75 @@
 {
-  "generated_at": "2026-11-08T12:17:42Z",
+  "generated_at": "2026-11-08T17:59:12Z",
   "days": [
     {
       "date": "2026-11-08",
-      "total": 2,
+      "total": 4,
       "feeds": [
         "dfarq.homeip.net (1)",
-        "seangoedecke.com (1)"
+        "righto.com (1)",
+        "seangoedecke.com (1)",
+        "shkspr.mobi (1)"
       ],
       "highlights": [
+        "righto.com · Reverse engineering a vintage diode-transistor logic chip",
+        "shkspr.mobi · Some thoughts on restaurant menu QR codes",
         "dfarq.homeip.net · The problem with Micron MT 4264 RAM",
         "seangoedecke.com · LLMs are terrible at designing AI systems"
       ],
       "key_points": [
+        "Reverse engineering a vintage diode-transistor logic chip",
+        "Some thoughts on restaurant menu QR codes",
         "The problem with Micron MT 4264 RAM",
         "LLMs are terrible at designing AI systems"
       ],
       "key_points_zh": [
+        "Reverse engineering a vintage diode-transistor logic chip",
+        "Some thoughts on restaurant menu QR codes",
         "The problem with Micron MT 4264 RAM",
         "LLMs are terrible at designing AI systems"
       ],
       "key_points_en": [
+        "Reverse engineering a vintage diode-transistor logic chip",
+        "Some thoughts on restaurant menu QR codes",
         "The problem with Micron MT 4264 RAM",
         "LLMs are terrible at designing AI systems"
       ],
       "tweet_drafts": [
-        "The problem with Micron MT 4264 RAM",
-        "LLMs are terrible at designing AI systems"
+        "Reverse engineering a vintage diode-transistor logic chip",
+        "Some thoughts on restaurant menu QR codes",
+        "The problem with Micron MT 4264 RAM"
       ],
       "sources": [
+        {
+          "feed_title": "righto.com",
+          "title": "Reverse engineering a vintage diode-transistor logic chip",
+          "link": "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
+        },
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Some thoughts on restaurant menu QR codes",
+          "link": "https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/"
+        },
         {
           "feed_title": "dfarq.homeip.net",
           "title": "The problem with Micron MT 4264 RAM",
           "link": "https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram"
-        },
-        {
-          "feed_title": "seangoedecke.com",
-          "title": "LLMs are terrible at designing AI systems",
-          "link": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/"
         }
       ],
-      "summary_zh": "2026-11-08 技术日报：The problem with Micron MT 4264 RAM；LLMs are terrible at designing AI systems。",
-      "summary_en": "Daily brief (2026-11-08): The problem with Micron MT 4264 RAM; LLMs are terrible at designing AI systems.",
+      "summary_zh": "2026-11-08 技术日报：Reverse engineering a vintage diode-transistor logic chip；Some thoughts on restaurant menu QR codes；The problem with Micron MT 4264 RAM。",
+      "summary_en": "Daily brief (2026-11-08): Reverse engineering a vintage diode-transistor logic chip; Some thoughts on restaurant menu QR codes; The problem with Micron MT 4264 RAM.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-08 日报】The problem with Micron MT 4264 RAM；LLMs are terrible at designing AI systems。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-08): The problem with Micron MT 4264 RAM; LLMs are terrible at designing AI systems. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-08 日报】Reverse engineering a vintage diode-transistor logic chip；Some thoughts on restaurant menu QR codes；The problem with Micron MT 4264 RAM。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-08): Reverse engineering a vintage diode-transistor logic chip; Some thoughts on restaurant menu QR codes; The problem with Micron MT 4264 RAM. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-08）\n- The problem with Micron MT 4264 RAM\n- LLMs are terrible at designing AI systems\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram\n- https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-08)\n- The problem with Micron MT 4264 RAM\n- LLMs are terrible at designing AI systems\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram\n- https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-08）\n- Reverse engineering a vintage diode-transistor logic chip\n- Some thoughts on restaurant menu QR codes\n- The problem with Micron MT 4264 RAM\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html\n- https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/\n- https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-08)\n- Reverse engineering a vintage diode-transistor logic chip\n- Some thoughts on restaurant menu QR codes\n- The problem with Micron MT 4264 RAM\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html\n- https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/\n- https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：The problem with Micron MT 4264 RAM；LLMs are terrible at designing AI systems。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The problem with Micron MT 4264 RAM; LLMs are terrible at designing AI systems.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Reverse engineering a vintage diode-transistor logic chip；Some thoughts on restaurant menu QR codes；The problem with Micron MT 4264 RAM。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Reverse engineering a vintage diode-transistor logic chip; Some thoughts on restaurant menu QR codes; The problem with Micron MT 4264 RAM.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -682,7 +698,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
+        "jeffgeerling.com · Rejoice, leap seconds are dead!"
       ],
       "key_points": [
         "College will only cost $20 a month",
