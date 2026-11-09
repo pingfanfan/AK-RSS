@@ -1,75 +1,79 @@
 {
-  "generated_at": "2026-11-08T21:39:34Z",
+  "generated_at": "2026-11-09T01:15:28Z",
   "days": [
     {
       "date": "2026-11-08",
-      "total": 4,
+      "total": 8,
       "feeds": [
+        "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
+        "johndcook.com (1)",
+        "martinalderson.com (1)",
         "righto.com (1)",
-        "seangoedecke.com (1)",
-        "shkspr.mobi (1)"
+        "seangoedecke.com (1)"
       ],
       "highlights": [
+        "daringfireball.net · Jensen Huang Betrayed Nvidia, Not Just His Family",
+        "johndcook.com · Finite Projective Planes",
+        "simonwillison.net · parse_number() as a SQLite extension: C vs Rust",
         "righto.com · Reverse engineering a vintage diode-transistor logic chip",
         "shkspr.mobi · Some thoughts on restaurant menu QR codes",
-        "dfarq.homeip.net · The problem with Micron MT 4264 RAM",
-        "seangoedecke.com · LLMs are terrible at designing AI systems"
+        "dfarq.homeip.net · The problem with Micron MT 4264 RAM"
       ],
       "key_points": [
-        "Reverse engineering a vintage diode-transistor logic chip",
-        "Some thoughts on restaurant menu QR codes",
-        "The problem with Micron MT 4264 RAM",
-        "LLMs are terrible at designing AI systems"
+        "Jensen Huang Betrayed Nvidia, Not Just His Family",
+        "Finite Projective Planes",
+        "parse_number() as a SQLite extension: C vs Rust",
+        "Reverse engineering a vintage diode-transistor logic chip"
       ],
       "key_points_zh": [
-        "Reverse engineering a vintage diode-transistor logic chip",
-        "Some thoughts on restaurant menu QR codes",
-        "The problem with Micron MT 4264 RAM",
-        "LLMs are terrible at designing AI systems"
+        "Jensen Huang Betrayed Nvidia, Not Just His Family",
+        "Finite Projective Planes",
+        "parse_number() as a SQLite extension: C vs Rust",
+        "Reverse engineering a vintage diode-transistor logic chip"
       ],
       "key_points_en": [
-        "Reverse engineering a vintage diode-transistor logic chip",
-        "Some thoughts on restaurant menu QR codes",
-        "The problem with Micron MT 4264 RAM",
-        "LLMs are terrible at designing AI systems"
+        "Jensen Huang Betrayed Nvidia, Not Just His Family",
+        "Finite Projective Planes",
+        "parse_number() as a SQLite extension: C vs Rust",
+        "Reverse engineering a vintage diode-transistor logic chip"
       ],
       "tweet_drafts": [
-        "Reverse engineering a vintage diode-transistor logic chip",
-        "Some thoughts on restaurant menu QR codes",
-        "The problem with Micron MT 4264 RAM"
+        "Jensen Huang Betrayed Nvidia, Not Just His Family",
+        "Finite Projective Planes",
+        "parse_number() as a SQLite extension: C vs Rust"
       ],
       "sources": [
         {
-          "feed_title": "righto.com",
-          "title": "Reverse engineering a vintage diode-transistor logic chip",
-          "link": "http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html"
+          "feed_title": "daringfireball.net",
+          "title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+          "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI"
         },
         {
-          "feed_title": "shkspr.mobi",
-          "title": "Some thoughts on restaurant menu QR codes",
-          "link": "https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/"
+          "feed_title": "johndcook.com",
+          "title": "Finite Projective Planes",
+          "link": "https://www.johndcook.com/blog/2026/11/08/finite-geometries/"
         },
         {
-          "feed_title": "dfarq.homeip.net",
-          "title": "The problem with Micron MT 4264 RAM",
-          "link": "https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram"
+          "feed_title": "simonwillison.net",
+          "title": "parse_number() as a SQLite extension: C vs Rust",
+          "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"
         }
       ],
-      "summary_zh": "2026-11-08 技术日报：Reverse engineering a vintage diode-transistor logic chip；Some thoughts on restaurant menu QR codes；The problem with Micron MT 4264 RAM。",
-      "summary_en": "Daily brief (2026-11-08): Reverse engineering a vintage diode-transistor logic chip; Some thoughts on restaurant menu QR codes; The problem with Micron MT 4264 RAM.",
+      "summary_zh": "2026-11-08 技术日报：Jensen Huang Betrayed Nvidia, Not Just His Family；Finite Projective Planes；parse_number() as a SQLite extension: C vs Rust。",
+      "summary_en": "Daily brief (2026-11-08): Jensen Huang Betrayed Nvidia, Not Just His Family; Finite Projective Planes; parse_number() as a SQLite extension: C vs Rust.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-08 日报】Reverse engineering a vintage diode-transistor logic chip；Some thoughts on restaurant menu QR codes；The problem with Micron MT 4264 RAM。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-08): Reverse engineering a vintage diode-transistor logic chip; Some thoughts on restaurant menu QR codes; The problem with Micron MT 4264 RAM. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-08 日报】Jensen Huang Betrayed Nvidia, Not Just His Family；Finite Projective Planes；parse_number() as a SQLite extension: C vs Rust。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-08): Jensen Huang Betrayed Nvidia, Not Just His Family; Finite Projective Planes; parse_number() as a SQLite extension: C vs Rust. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-08）\n- Reverse engineering a vintage diode-transistor logic chip\n- Some thoughts on restaurant menu QR codes\n- The problem with Micron MT 4264 RAM\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html\n- https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/\n- https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-08)\n- Reverse engineering a vintage diode-transistor logic chip\n- Some thoughts on restaurant menu QR codes\n- The problem with Micron MT 4264 RAM\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html\n- https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/\n- https://dfarq.homeip.net/the-problem-with-micron-mt-4264-ram/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-problem-with-micron-mt-4264-ram\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-08）\n- Jensen Huang Betrayed Nvidia, Not Just His Family\n- Finite Projective Planes\n- parse_number() as a SQLite extension: C vs Rust\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI\n- https://www.johndcook.com/blog/2026/11/08/finite-geometries/\n- https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-08)\n- Jensen Huang Betrayed Nvidia, Not Just His Family\n- Finite Projective Planes\n- parse_number() as a SQLite extension: C vs Rust\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI\n- https://www.johndcook.com/blog/2026/11/08/finite-geometries/\n- https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Reverse engineering a vintage diode-transistor logic chip；Some thoughts on restaurant menu QR codes；The problem with Micron MT 4264 RAM。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Reverse engineering a vintage diode-transistor logic chip; Some thoughts on restaurant menu QR codes; The problem with Micron MT 4264 RAM.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Jensen Huang Betrayed Nvidia, Not Just His Family；Finite Projective Planes；parse_number() as a SQLite extension: C vs Rust。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Jensen Huang Betrayed Nvidia, Not Just His Family; Finite Projective Planes; parse_number() as a SQLite extension: C vs Rust.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
