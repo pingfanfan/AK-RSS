@@ -1,42 +1,118 @@
 {
-  "generated_at": "2026-11-09T01:15:28Z",
+  "generated_at": "2026-11-09T14:28:55Z",
   "days": [
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "total": 8,
       "feeds": [
+        "dfarq.homeip.net (1)",
+        "dynomight.net (1)",
+        "johndcook.com (1)",
+        "nesbitt.io (1)",
+        "pluralistic.net (1)",
+        "shkspr.mobi (1)"
+      ],
+      "highlights": [
+        "johndcook.com · Finite hyperbolic planes",
+        "shkspr.mobi · Blunt Banhammer Blocks Basic Bots Ballistically",
+        "dfarq.homeip.net · Radio Shack index",
+        "nesbitt.io · Introducing Ninety",
+        "pluralistic.net · Pluralistic: America cannot undo Trumpism (09 Nov 2026)",
+        "simonwillison.net · The Web Is More Than Enough, by Paul Ford"
+      ],
+      "key_points": [
+        "Finite hyperbolic planes",
+        "Blunt Banhammer Blocks Basic Bots Ballistically",
+        "Radio Shack index",
+        "Introducing Ninety"
+      ],
+      "key_points_zh": [
+        "Finite hyperbolic planes",
+        "Blunt Banhammer Blocks Basic Bots Ballistically",
+        "Radio Shack index",
+        "Introducing Ninety"
+      ],
+      "key_points_en": [
+        "Finite hyperbolic planes",
+        "Blunt Banhammer Blocks Basic Bots Ballistically",
+        "Radio Shack index",
+        "Introducing Ninety"
+      ],
+      "tweet_drafts": [
+        "Finite hyperbolic planes",
+        "Blunt Banhammer Blocks Basic Bots Ballistically",
+        "Radio Shack index"
+      ],
+      "sources": [
+        {
+          "feed_title": "johndcook.com",
+          "title": "Finite hyperbolic planes",
+          "link": "https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/"
+        },
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+          "link": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "Radio Shack index",
+          "link": "https://dfarq.homeip.net/radio-shack-index/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=radio-shack-index"
+        }
+      ],
+      "summary_zh": "2026-11-09 技术日报：Finite hyperbolic planes；Blunt Banhammer Blocks Basic Bots Ballistically；Radio Shack index。",
+      "summary_en": "Daily brief (2026-11-09): Finite hyperbolic planes; Blunt Banhammer Blocks Basic Bots Ballistically; Radio Shack index.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-09 日报】Finite hyperbolic planes；Blunt Banhammer Blocks Basic Bots Ballistically；Radio Shack index。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-09): Finite hyperbolic planes; Blunt Banhammer Blocks Basic Bots Ballistically; Radio Shack index. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-09）\n- Finite hyperbolic planes\n- Blunt Banhammer Blocks Basic Bots Ballistically\n- Radio Shack index\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/\n- https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/\n- https://dfarq.homeip.net/radio-shack-index/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=radio-shack-index\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-09)\n- Finite hyperbolic planes\n- Blunt Banhammer Blocks Basic Bots Ballistically\n- Radio Shack index\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/\n- https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/\n- https://dfarq.homeip.net/radio-shack-index/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=radio-shack-index\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Finite hyperbolic planes；Blunt Banhammer Blocks Basic Bots Ballistically；Radio Shack index。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Finite hyperbolic planes; Blunt Banhammer Blocks Basic Bots Ballistically; Radio Shack index.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "total": 10,
+      "feeds": [
+        "blog.jim-nielsen.com (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "johndcook.com (1)",
         "martinalderson.com (1)",
-        "righto.com (1)",
-        "seangoedecke.com (1)"
+        "maurycyz.com (1)"
       ],
       "highlights": [
         "daringfireball.net · Jensen Huang Betrayed Nvidia, Not Just His Family",
         "johndcook.com · Finite Projective Planes",
         "simonwillison.net · parse_number() as a SQLite extension: C vs Rust",
+        "blog.jim-nielsen.com · Addition By Subtraction",
         "righto.com · Reverse engineering a vintage diode-transistor logic chip",
-        "shkspr.mobi · Some thoughts on restaurant menu QR codes",
-        "dfarq.homeip.net · The problem with Micron MT 4264 RAM"
+        "shkspr.mobi · Some thoughts on restaurant menu QR codes"
       ],
       "key_points": [
         "Jensen Huang Betrayed Nvidia, Not Just His Family",
         "Finite Projective Planes",
         "parse_number() as a SQLite extension: C vs Rust",
-        "Reverse engineering a vintage diode-transistor logic chip"
+        "Addition By Subtraction"
       ],
       "key_points_zh": [
         "Jensen Huang Betrayed Nvidia, Not Just His Family",
         "Finite Projective Planes",
         "parse_number() as a SQLite extension: C vs Rust",
-        "Reverse engineering a vintage diode-transistor logic chip"
+        "Addition By Subtraction"
       ],
       "key_points_en": [
         "Jensen Huang Betrayed Nvidia, Not Just His Family",
         "Finite Projective Planes",
         "parse_number() as a SQLite extension: C vs Rust",
-        "Reverse engineering a vintage diode-transistor logic chip"
+        "Addition By Subtraction"
       ],
       "tweet_drafts": [
         "Jensen Huang Betrayed Nvidia, Not Just His Family",
@@ -2202,82 +2278,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：★ X Once Again Marks the Spot；Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago；The Fascinating World of Domains。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: ★ X Once Again Marks the Spot; Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago; The Fascinating World of Domains.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-10-10",
-      "total": 8,
-      "feeds": [
-        "construction-physics.com (1)",
-        "dfarq.homeip.net (1)",
-        "krebsonsecurity.com (1)",
-        "nesbitt.io (1)",
-        "righto.com (1)",
-        "seangoedecke.com (1)"
-      ],
-      "highlights": [
-        "righto.com · Inside a 1980s filter chip that uses switched capacitors",
-        "construction-physics.com · Reading List 10/10/26",
-        "shkspr.mobi · Some quick thoughts on Unit Testing ActivityPub",
-        "dfarq.homeip.net · The Infogrames-Atari merger of 2008",
-        "nesbitt.io · This Week in Package Management: 10 October 2026",
-        "simonwillison.net · Quoting The New York Times"
-      ],
-      "key_points": [
-        "Inside a 1980s filter chip that uses switched capacitors",
-        "Reading List 10/10/26",
-        "Some quick thoughts on Unit Testing ActivityPub",
-        "The Infogrames-Atari merger of 2008"
-      ],
-      "key_points_zh": [
-        "Inside a 1980s filter chip that uses switched capacitors",
-        "Reading List 10/10/26",
-        "Some quick thoughts on Unit Testing ActivityPub",
-        "The Infogrames-Atari merger of 2008"
-      ],
-      "key_points_en": [
-        "Inside a 1980s filter chip that uses switched capacitors",
-        "Reading List 10/10/26",
-        "Some quick thoughts on Unit Testing ActivityPub",
-        "The Infogrames-Atari merger of 2008"
-      ],
-      "tweet_drafts": [
-        "Inside a 1980s filter chip that uses switched capacitors",
-        "Reading List 10/10/26",
-        "Some quick thoughts on Unit Testing ActivityPub"
-      ],
-      "sources": [
-        {
-          "feed_title": "righto.com",
-          "title": "Inside a 1980s filter chip that uses switched capacitors",
-          "link": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html"
-        },
-        {
-          "feed_title": "construction-physics.com",
-          "title": "Reading List 10/10/26",
-          "link": "https://www.construction-physics.com/p/reading-list-101026"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Some quick thoughts on Unit Testing ActivityPub",
-          "link": "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/"
-        }
-      ],
-      "summary_zh": "2026-10-10 技术日报：Inside a 1980s filter chip that uses switched capacitors；Reading List 10/10/26；Some quick thoughts on Unit Testing ActivityPub。",
-      "summary_en": "Daily brief (2026-10-10): Inside a 1980s filter chip that uses switched capacitors; Reading List 10/10/26; Some quick thoughts on Unit Testing ActivityPub.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-10 日报】Inside a 1980s filter chip that uses switched capacitors；Reading List 10/10/26；Some quick thoughts on Unit Testing ActivityPub。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-10): Inside a 1980s filter chip that uses switched capacitors; Reading List 10/10/26; Some quick thoughts on Unit Testing ActivityPub. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-10）\n- Inside a 1980s filter chip that uses switched capacitors\n- Reading List 10/10/26\n- Some quick thoughts on Unit Testing ActivityPub\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html\n- https://www.construction-physics.com/p/reading-list-101026\n- https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-10)\n- Inside a 1980s filter chip that uses switched capacitors\n- Reading List 10/10/26\n- Some quick thoughts on Unit Testing ActivityPub\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html\n- https://www.construction-physics.com/p/reading-list-101026\n- https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Inside a 1980s filter chip that uses switched capacitors；Reading List 10/10/26；Some quick thoughts on Unit Testing ActivityPub。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Inside a 1980s filter chip that uses switched capacitors; Reading List 10/10/26; Some quick thoughts on Unit Testing ActivityPub.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
