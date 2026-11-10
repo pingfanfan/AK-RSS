@@ -1,7 +1,13 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-09 23:29:43 UTC
+Generated at: 2026-11-10 13:50:32 UTC
 
-- [Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf) (`daringfireball.net`)
-- [AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/) (`lucumr.pocoo.org`)
-- [Steiner Systems](https://www.johndcook.com/blog/2026/11/09/steiner-systems/) (`johndcook.com`)
+- [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/) (`simonwillison.net`)
+- [[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein](https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) (`daringfireball.net`)
+- [If the Windows Update hot patcher checks that the function hasn’t already been patched, does that mean you can’t install two hot-patches?](https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/) (`devblogs.microsoft.com/oldnewthing`)
+- [Combinatorial designs](https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/) (`johndcook.com`)
+- [Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆](https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/) (`shkspr.mobi`)
+- [Novell’s lawsuits with Microsoft](https://dfarq.homeip.net/novells-lawsuits-with-microsoft/?utm_source=rss&utm_medium=rss&utm_campaign=novells-lawsuits-with-microsoft) (`dfarq.homeip.net`)
+- [Claude Code token cost explorer](https://entropicthoughts.com/claude-code-token-cost-explorer) (`entropicthoughts.com`)
+- [The classic console corner's CRT changeover](https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html) (`oldvcr.blogspot.com`)
+- [Weekly Update 529: Kids Social Media Bans (and Everything Else)](https://www.troyhunt.com/weekly-update-529/) (`troyhunt.com`)
