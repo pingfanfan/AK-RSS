@@ -1,79 +1,124 @@
 {
-  "generated_at": "2026-11-10T20:38:15Z",
+  "generated_at": "2026-11-11T00:56:13Z",
   "days": [
     {
-      "date": "2026-11-10",
-      "total": 15,
+      "date": "2026-11-11",
+      "total": 1,
       "feeds": [
-        "daringfireball.net (2)",
-        "johndcook.com (2)",
-        "troyhunt.com (2)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
+        "seangoedecke.com (1)"
       ],
       "highlights": [
-        "troyhunt.com · Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-        "berthub.eu · Revisiting Leander v Sweden and Big Brother Watch",
-        "wheresyoured.at · Jensen's Bizarre Adventure",
-        "pluralistic.net · Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)",
-        "experimental-history.com · We need more goat sacrifices",
-        "daringfireball.net · Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’"
+        "seangoedecke.com · Glue work is still harmful in the age of AI"
       ],
       "key_points": [
-        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-        "Revisiting Leander v Sweden and Big Brother Watch",
-        "Jensen's Bizarre Adventure",
-        "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)"
+        "Glue work is still harmful in the age of AI"
       ],
       "key_points_zh": [
-        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-        "Revisiting Leander v Sweden and Big Brother Watch",
-        "Jensen's Bizarre Adventure",
-        "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)"
+        "Glue work is still harmful in the age of AI"
       ],
       "key_points_en": [
-        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-        "Revisiting Leander v Sweden and Big Brother Watch",
-        "Jensen's Bizarre Adventure",
-        "Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)"
+        "Glue work is still harmful in the age of AI"
       ],
       "tweet_drafts": [
-        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
-        "Revisiting Leander v Sweden and Big Brother Watch",
-        "Jensen's Bizarre Adventure"
+        "Glue work is still harmful in the age of AI"
       ],
       "sources": [
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "Glue work is still harmful in the age of AI",
+          "link": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/"
+        }
+      ],
+      "summary_zh": "2026-11-11 技术日报：Glue work is still harmful in the age of AI。",
+      "summary_en": "Daily brief (2026-11-11): Glue work is still harmful in the age of AI.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-11 日报】Glue work is still harmful in the age of AI。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-11): Glue work is still harmful in the age of AI. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-11）\n- Glue work is still harmful in the age of AI\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-11)\n- Glue work is still harmful in the age of AI\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Glue work is still harmful in the age of AI。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Glue work is still harmful in the age of AI.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "total": 18,
+      "feeds": [
+        "daringfireball.net (3)",
+        "johndcook.com (2)",
+        "simonwillison.net (2)",
+        "troyhunt.com (2)",
+        "berthub.eu (1)",
+        "devblogs.microsoft.com/oldnewthing (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Gary Marcus: ‘Just Say No to Anthropic’s IPO’",
+        "krebsonsecurity.com · Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+        "troyhunt.com · Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+        "simonwillison.net · llm-gemini 0.36",
+        "berthub.eu · Revisiting Leander v Sweden and Big Brother Watch",
+        "wheresyoured.at · Jensen's Bizarre Adventure"
+      ],
+      "key_points": [
+        "Gary Marcus: ‘Just Say No to Anthropic’s IPO’",
+        "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+        "llm-gemini 0.36"
+      ],
+      "key_points_zh": [
+        "Gary Marcus: ‘Just Say No to Anthropic’s IPO’",
+        "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+        "llm-gemini 0.36"
+      ],
+      "key_points_en": [
+        "Gary Marcus: ‘Just Say No to Anthropic’s IPO’",
+        "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
+        "llm-gemini 0.36"
+      ],
+      "tweet_drafts": [
+        "Gary Marcus: ‘Just Say No to Anthropic’s IPO’",
+        "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+        "Finally, Payment by Bank Transfer Comes to Have I Been Pwned"
+      ],
+      "sources": [
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Gary Marcus: ‘Just Say No to Anthropic’s IPO’",
+          "link": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0"
+        },
+        {
+          "feed_title": "krebsonsecurity.com",
+          "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+          "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+        },
         {
           "feed_title": "troyhunt.com",
           "title": "Finally, Payment by Bank Transfer Comes to Have I Been Pwned",
           "link": "https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/"
-        },
-        {
-          "feed_title": "berthub.eu",
-          "title": "Revisiting Leander v Sweden and Big Brother Watch",
-          "link": "https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Jensen's Bizarre Adventure",
-          "link": "https://www.wheresyoured.at/jensens-bizarre-adventure/"
         }
       ],
-      "summary_zh": "2026-11-10 技术日报：Finally, Payment by Bank Transfer Comes to Have I Been Pwned；Revisiting Leander v Sweden and Big Brother Watch；Jensen's Bizarre Adventure。",
-      "summary_en": "Daily brief (2026-11-10): Finally, Payment by Bank Transfer Comes to Have I Been Pwned; Revisiting Leander v Sweden and Big Brother Watch; Jensen's Bizarre Adventure.",
+      "summary_zh": "2026-11-10 技术日报：Gary Marcus: ‘Just Say No to Anthropic’s IPO’；Microsoft Fixes Nearly 1,100 Security Vulnerabilities；Finally, Payment by Bank Transfer Comes to Have I Been Pwned。",
+      "summary_en": "Daily brief (2026-11-10): Gary Marcus: ‘Just Say No to Anthropic’s IPO’; Microsoft Fixes Nearly 1,100 Security Vulnerabilities; Finally, Payment by Bank Transfer Comes to Have I Been Pwned.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-10 日报】Finally, Payment by Bank Transfer Comes to Have I Been Pwned；Revisiting Leander v Sweden and Big Brother Watch；Jensen's Bizarre Adventure。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-10): Finally, Payment by Bank Transfer Comes to Have I Been Pwned; Revisiting Leander v Sweden and Big Brother Watch; Jensen's Bizarre Adventure. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-10 日报】Gary Marcus: ‘Just Say No to Anthropic’s IPO’；Microsoft Fixes Nearly 1,100 Security Vulnerabilities；Finally, Payment by Bank Transfer Comes to Have I Been Pwned。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-10): Gary Marcus: ‘Just Say No to Anthropic’s IPO’; Microsoft Fixes Nearly 1,100 Security Vulnerabilities; Finally, Payment by Bank Transfer Comes to Have I Been Pwned. Actionable takeaways included. What would you ship next? #AI #Enginee"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-10）\n- Finally, Payment by Bank Transfer Comes to Have I Been Pwned\n- Revisiting Leander v Sweden and Big Brother Watch\n- Jensen's Bizarre Adventure\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/\n- https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/\n- https://www.wheresyoured.at/jensens-bizarre-adventure/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-10)\n- Finally, Payment by Bank Transfer Comes to Have I Been Pwned\n- Revisiting Leander v Sweden and Big Brother Watch\n- Jensen's Bizarre Adventure\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/\n- https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/\n- https://www.wheresyoured.at/jensens-bizarre-adventure/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-10）\n- Gary Marcus: ‘Just Say No to Anthropic’s IPO’\n- Microsoft Fixes Nearly 1,100 Security Vulnerabilities\n- Finally, Payment by Bank Transfer Comes to Have I Been Pwned\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0\n- https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/\n- https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-10)\n- Gary Marcus: ‘Just Say No to Anthropic’s IPO’\n- Microsoft Fixes Nearly 1,100 Security Vulnerabilities\n- Finally, Payment by Bank Transfer Comes to Have I Been Pwned\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0\n- https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/\n- https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Finally, Payment by Bank Transfer Comes to Have I Been Pwned；Revisiting Leander v Sweden and Big Brother Watch；Jensen's Bizarre Adventure。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Finally, Payment by Bank Transfer Comes to Have I Been Pwned; Revisiting Leander v Sweden and Big Brother Watch; Jensen's Bizarre Adventure.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Gary Marcus: ‘Just Say No to Anthropic’s IPO’；Microsoft Fixes Nearly 1,100 Security Vulnerabilities；Finally, Payment by Bank Transfer Comes to Have I Been Pwned。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Gary Marcus: ‘Just Say No to Anthropic’s IPO’; Microsoft Fixes Nearly 1,100 Security Vulnerabilities; Finally, Payment by Bank Transfer Comes to Have I Been Pwned.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -854,7 +899,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
+        "jeffgeerling.com · Rejoice, leap seconds are dead!"
       ],
       "key_points": [
         "College will only cost $20 a month",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Claude, don’t touch my lump；Annualized Enron Rate；Apple HomeView。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Claude, don’t touch my lump; Annualized Enron Rate; Apple HomeView.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "total": 14,
-      "feeds": [
-        "blog.jim-nielsen.com (1)",
-        "computer.rip (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "entropicthoughts.com (1)"
-      ],
-      "highlights": [
-        "entropicthoughts.com · The geometric model of maintenance",
-        "blog.jim-nielsen.com · The Dock on Mac, From OS 10 to macOS 27",
-        "simonwillison.net · Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "daringfireball.net · Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-        "tedium.co · The X is Off-Target",
-        "devblogs.microsoft.com/oldnewthing · C++ futures part 1: The mental model"
-      ],
-      "key_points": [
-        "The geometric model of maintenance",
-        "The Dock on Mac, From OS 10 to macOS 27",
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73"
-      ],
-      "key_points_zh": [
-        "The geometric model of maintenance",
-        "The Dock on Mac, From OS 10 to macOS 27",
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73"
-      ],
-      "key_points_en": [
-        "The geometric model of maintenance",
-        "The Dock on Mac, From OS 10 to macOS 27",
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73"
-      ],
-      "tweet_drafts": [
-        "The geometric model of maintenance",
-        "The Dock on Mac, From OS 10 to macOS 27",
-        "Hello Python 3.15, goodbye 3.10, and now I can use 3.11"
-      ],
-      "sources": [
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "The geometric model of maintenance",
-          "link": "https://entropicthoughts.com/geometric-model-of-maintenance"
-        },
-        {
-          "feed_title": "blog.jim-nielsen.com",
-          "title": "The Dock on Mac, From OS 10 to macOS 27",
-          "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/"
-        },
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-          "link": "https://simonwillison.net/2026/Oct/12/python-3-15/"
-        }
-      ],
-      "summary_zh": "2026-10-12 技术日报：The geometric model of maintenance；The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11。",
-      "summary_en": "Daily brief (2026-10-12): The geometric model of maintenance; The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-12 日报】The geometric model of maintenance；The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-12): The geometric model of maintenance; The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-12）\n- The geometric model of maintenance\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://entropicthoughts.com/geometric-model-of-maintenance\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-12)\n- The geometric model of maintenance\n- The Dock on Mac, From OS 10 to macOS 27\n- Hello Python 3.15, goodbye 3.10, and now I can use 3.11\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://entropicthoughts.com/geometric-model-of-maintenance\n- https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\n- https://simonwillison.net/2026/Oct/12/python-3-15/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：The geometric model of maintenance；The Dock on Mac, From OS 10 to macOS 27；Hello Python 3.15, goodbye 3.10, and now I can use 3.11。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: The geometric model of maintenance; The Dock on Mac, From OS 10 to macOS 27; Hello Python 3.15, goodbye 3.10, and now I can use 3.11.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
