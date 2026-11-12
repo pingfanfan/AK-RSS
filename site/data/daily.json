@@ -1,16 +1,88 @@
 {
-  "generated_at": "2026-11-12T01:56:45Z",
+  "generated_at": "2026-11-12T14:03:40Z",
   "days": [
     {
+      "date": "2026-11-12",
+      "total": 4,
+      "feeds": [
+        "construction-physics.com (1)",
+        "daringfireball.net (1)",
+        "dfarq.homeip.net (1)",
+        "shkspr.mobi (1)"
+      ],
+      "highlights": [
+        "construction-physics.com · Technology as a Search Problem",
+        "shkspr.mobi · Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+        "dfarq.homeip.net · What happened to 3Com?",
+        "daringfireball.net · Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’"
+      ],
+      "key_points": [
+        "Technology as a Search Problem",
+        "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+        "What happened to 3Com?",
+        "Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’"
+      ],
+      "key_points_zh": [
+        "Technology as a Search Problem",
+        "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+        "What happened to 3Com?",
+        "Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’"
+      ],
+      "key_points_en": [
+        "Technology as a Search Problem",
+        "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+        "What happened to 3Com?",
+        "Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’"
+      ],
+      "tweet_drafts": [
+        "Technology as a Search Problem",
+        "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+        "What happened to 3Com?"
+      ],
+      "sources": [
+        {
+          "feed_title": "construction-physics.com",
+          "title": "Technology as a Search Problem",
+          "link": "https://www.construction-physics.com/p/technology-as-a-search-problem"
+        },
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
+          "link": "https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "What happened to 3Com?",
+          "link": "https://dfarq.homeip.net/what-happened-to-3com/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-3com"
+        }
+      ],
+      "summary_zh": "2026-11-12 技术日报：Technology as a Search Problem；Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆；What happened to 3Com?。",
+      "summary_en": "Daily brief (2026-11-12): Technology as a Search Problem; Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆; What happened to 3Com?.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-12 日报】Technology as a Search Problem；Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆；What happened to 3Com?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-12): Technology as a Search Problem; Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆; What happened to 3Com?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-12）\n- Technology as a Search Problem\n- Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆\n- What happened to 3Com?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.construction-physics.com/p/technology-as-a-search-problem\n- https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/\n- https://dfarq.homeip.net/what-happened-to-3com/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-3com\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-12)\n- Technology as a Search Problem\n- Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆\n- What happened to 3Com?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.construction-physics.com/p/technology-as-a-search-problem\n- https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/\n- https://dfarq.homeip.net/what-happened-to-3com/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=what-happened-to-3com\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Technology as a Search Problem；Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆；What happened to 3Com?。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Technology as a Search Problem; Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆; What happened to 3Com?.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-11-11",
-      "total": 12,
+      "total": 13,
       "feeds": [
         "simonwillison.net (2)",
         "borretti.me (1)",
         "daringfireball.net (1)",
+        "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "eli.thegreenplace.net (1)",
-        "jyn.dev (1)"
+        "eli.thegreenplace.net (1)"
       ],
       "highlights": [
         "simonwillison.net · Gemini Decisions API",
@@ -18,7 +90,7 @@
         "simonwillison.net · Browse tools.simonwillison.net by tag",
         "terriblesoftware.org · Why Am I So Tired If AI Is Doing All the Work?",
         "krebsonsecurity.com · Who Runs the Ransomware Group Qilin?",
-        "borretti.me · Possible Futures"
+        "devblogs.microsoft.com/oldnewthing · I didn’t write a program with emoji, but I did use a control character"
       ],
       "key_points": [
         "Gemini Decisions API",
@@ -930,7 +1002,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "jeffgeerling.com · Rejoice, leap seconds are dead!"
+        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
       ],
       "key_points": [
         "College will only cost $20 a month",
@@ -2202,82 +2274,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Tree Appreciator；[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users；LaTeX package for Pascal-like triangles。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Tree Appreciator; [Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users; LaTeX package for Pascal-like triangles.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-10-13",
-      "total": 12,
-      "feeds": [
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "experimental-history.com (1)",
-        "idiallo.com (1)",
-        "johndcook.com (1)"
-      ],
-      "highlights": [
-        "experimental-history.com · Claude, don’t touch my lump",
-        "wheresyoured.at · Annualized Enron Rate",
-        "daringfireball.net · Apple HomeView",
-        "devblogs.microsoft.com/oldnewthing · C++ futures part 2: The mental model for std::promise, std::packaged_task",
-        "johndcook.com · Harmonic triangle",
-        "simonwillison.net · Quoting Geoffrey Huntley"
-      ],
-      "key_points": [
-        "Claude, don’t touch my lump",
-        "Annualized Enron Rate",
-        "Apple HomeView",
-        "C++ futures part 2: The mental model for std::promise, std::packaged_task"
-      ],
-      "key_points_zh": [
-        "Claude, don’t touch my lump",
-        "Annualized Enron Rate",
-        "Apple HomeView",
-        "C++ futures part 2: The mental model for std::promise, std::packaged_task"
-      ],
-      "key_points_en": [
-        "Claude, don’t touch my lump",
-        "Annualized Enron Rate",
-        "Apple HomeView",
-        "C++ futures part 2: The mental model for std::promise, std::packaged_task"
-      ],
-      "tweet_drafts": [
-        "Claude, don’t touch my lump",
-        "Annualized Enron Rate",
-        "Apple HomeView"
-      ],
-      "sources": [
-        {
-          "feed_title": "experimental-history.com",
-          "title": "Claude, don’t touch my lump",
-          "link": "https://www.experimental-history.com/p/claude-dont-touch-my-lump"
-        },
-        {
-          "feed_title": "wheresyoured.at",
-          "title": "Annualized Enron Rate",
-          "link": "https://www.wheresyoured.at/annualized-enron-rate/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Apple HomeView",
-          "link": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/"
-        }
-      ],
-      "summary_zh": "2026-10-13 技术日报：Claude, don’t touch my lump；Annualized Enron Rate；Apple HomeView。",
-      "summary_en": "Daily brief (2026-10-13): Claude, don’t touch my lump; Annualized Enron Rate; Apple HomeView.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-13 日报】Claude, don’t touch my lump；Annualized Enron Rate；Apple HomeView。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-13): Claude, don’t touch my lump; Annualized Enron Rate; Apple HomeView. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-13）\n- Claude, don’t touch my lump\n- Annualized Enron Rate\n- Apple HomeView\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.experimental-history.com/p/claude-dont-touch-my-lump\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-13)\n- Claude, don’t touch my lump\n- Annualized Enron Rate\n- Apple HomeView\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.experimental-history.com/p/claude-dont-touch-my-lump\n- https://www.wheresyoured.at/annualized-enron-rate/\n- https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Claude, don’t touch my lump；Annualized Enron Rate；Apple HomeView。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Claude, don’t touch my lump; Annualized Enron Rate; Apple HomeView.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
