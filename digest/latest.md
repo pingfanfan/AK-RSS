@@ -1,10 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-12 14:03:25 UTC
+Generated at: 2026-11-12 21:30:02 UTC
 
-- [I didn’t write a program with emoji, but I did use a control character](https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/) (`devblogs.microsoft.com/oldnewthing`)
-- [Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’](https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj) (`daringfireball.net`)
-- [Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆](https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/) (`shkspr.mobi`)
-- [Technology as a Search Problem](https://www.construction-physics.com/p/technology-as-a-search-problem) (`construction-physics.com`)
-- [What happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-3com) (`dfarq.homeip.net`)
-- [How we’ll fight the platform war against Big AI](https://anildash.com/2026/06/23/fight-ai-platform-war/) (`anildash.com`)
+- [Scott Colom Flips Mississippi](https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort) (`daringfireball.net`)
+- [How can I pass more than one parameter to co_await?](https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/) (`devblogs.microsoft.com/oldnewthing`)
+- [Pluralistic: Uber's labor crash (12 Nov 2026)](https://pluralistic.net/2026/11/12/starvation-wages/) (`pluralistic.net`)
