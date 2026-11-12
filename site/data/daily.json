@@ -1,49 +1,54 @@
 {
-  "generated_at": "2026-11-11T20:15:36Z",
+  "generated_at": "2026-11-12T01:56:45Z",
   "days": [
     {
       "date": "2026-11-11",
-      "total": 10,
+      "total": 12,
       "feeds": [
+        "simonwillison.net (2)",
+        "borretti.me (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "eli.thegreenplace.net (1)",
-        "jyn.dev (1)",
-        "krebsonsecurity.com (1)",
-        "nesbitt.io (1)"
+        "jyn.dev (1)"
       ],
       "highlights": [
+        "simonwillison.net · Gemini Decisions API",
         "daringfireball.net · Apple Shutters Their Longstanding ‘Apple Support Community’",
         "simonwillison.net · Browse tools.simonwillison.net by tag",
         "terriblesoftware.org · Why Am I So Tired If AI Is Doing All the Work?",
         "krebsonsecurity.com · Who Runs the Ransomware Group Qilin?",
-        "shkspr.mobi · HowTo: Fix Eufy HomeBase 2 Storage Full Issues",
-        "dfarq.homeip.net · Microsoft Windows first announced Nov 10, 1983"
+        "borretti.me · Possible Futures"
       ],
       "key_points": [
-        "Apple Shutters Their Longstanding ‘Apple Support Community’",
-        "Browse tools.simonwillison.net by tag",
-        "Why Am I So Tired If AI Is Doing All the Work?",
-        "Who Runs the Ransomware Group Qilin?"
-      ],
-      "key_points_zh": [
-        "Apple Shutters Their Longstanding ‘Apple Support Community’",
-        "Browse tools.simonwillison.net by tag",
-        "Why Am I So Tired If AI Is Doing All the Work?",
-        "Who Runs the Ransomware Group Qilin?"
-      ],
-      "key_points_en": [
-        "Apple Shutters Their Longstanding ‘Apple Support Community’",
-        "Browse tools.simonwillison.net by tag",
-        "Why Am I So Tired If AI Is Doing All the Work?",
-        "Who Runs the Ransomware Group Qilin?"
-      ],
-      "tweet_drafts": [
+        "Gemini Decisions API",
         "Apple Shutters Their Longstanding ‘Apple Support Community’",
         "Browse tools.simonwillison.net by tag",
         "Why Am I So Tired If AI Is Doing All the Work?"
       ],
+      "key_points_zh": [
+        "Gemini Decisions API",
+        "Apple Shutters Their Longstanding ‘Apple Support Community’",
+        "Browse tools.simonwillison.net by tag",
+        "Why Am I So Tired If AI Is Doing All the Work?"
+      ],
+      "key_points_en": [
+        "Gemini Decisions API",
+        "Apple Shutters Their Longstanding ‘Apple Support Community’",
+        "Browse tools.simonwillison.net by tag",
+        "Why Am I So Tired If AI Is Doing All the Work?"
+      ],
+      "tweet_drafts": [
+        "Gemini Decisions API",
+        "Apple Shutters Their Longstanding ‘Apple Support Community’",
+        "Browse tools.simonwillison.net by tag"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Gemini Decisions API",
+          "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Apple Shutters Their Longstanding ‘Apple Support Community’",
@@ -53,27 +58,22 @@
           "feed_title": "simonwillison.net",
           "title": "Browse tools.simonwillison.net by tag",
           "link": "https://simonwillison.net/2026/Nov/11/tools-tags/"
-        },
-        {
-          "feed_title": "terriblesoftware.org",
-          "title": "Why Am I So Tired If AI Is Doing All the Work?",
-          "link": "https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/"
         }
       ],
-      "summary_zh": "2026-11-11 技术日报：Apple Shutters Their Longstanding ‘Apple Support Community’；Browse tools.simonwillison.net by tag；Why Am I So Tired If AI Is Doing All the Work?。",
-      "summary_en": "Daily brief (2026-11-11): Apple Shutters Their Longstanding ‘Apple Support Community’; Browse tools.simonwillison.net by tag; Why Am I So Tired If AI Is Doing All the Work?.",
+      "summary_zh": "2026-11-11 技术日报：Gemini Decisions API；Apple Shutters Their Longstanding ‘Apple Support Community’；Browse tools.simonwillison.net by tag。",
+      "summary_en": "Daily brief (2026-11-11): Gemini Decisions API; Apple Shutters Their Longstanding ‘Apple Support Community’; Browse tools.simonwillison.net by tag.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-11 日报】Apple Shutters Their Longstanding ‘Apple Support Community’；Browse tools.simonwillison.net by tag；Why Am I So Tired If AI Is Doing All the Work?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-11): Apple Shutters Their Longstanding ‘Apple Support Community’; Browse tools.simonwillison.net by tag; Why Am I So Tired If AI Is Doing All the Work?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPub"
+          "zh": "【2026-11-11 日报】Gemini Decisions API；Apple Shutters Their Longstanding ‘Apple Support Community’；Browse tools.simonwillison.net by tag。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-11): Gemini Decisions API; Apple Shutters Their Longstanding ‘Apple Support Community’; Browse tools.simonwillison.net by tag. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-11）\n- Apple Shutters Their Longstanding ‘Apple Support Community’\n- Browse tools.simonwillison.net by tag\n- Why Am I So Tired If AI Is Doing All the Work?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/\n- https://simonwillison.net/2026/Nov/11/tools-tags/\n- https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-11)\n- Apple Shutters Their Longstanding ‘Apple Support Community’\n- Browse tools.simonwillison.net by tag\n- Why Am I So Tired If AI Is Doing All the Work?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/\n- https://simonwillison.net/2026/Nov/11/tools-tags/\n- https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-11）\n- Gemini Decisions API\n- Apple Shutters Their Longstanding ‘Apple Support Community’\n- Browse tools.simonwillison.net by tag\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Nov/11/gemini-decisions-api/\n- https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/\n- https://simonwillison.net/2026/Nov/11/tools-tags/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-11)\n- Gemini Decisions API\n- Apple Shutters Their Longstanding ‘Apple Support Community’\n- Browse tools.simonwillison.net by tag\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Nov/11/gemini-decisions-api/\n- https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/\n- https://simonwillison.net/2026/Nov/11/tools-tags/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Apple Shutters Their Longstanding ‘Apple Support Community’；Browse tools.simonwillison.net by tag；Why Am I So Tired If AI Is Doing All the Work?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Apple Shutters Their Longstanding ‘Apple Support Community’; Browse tools.simonwillison.net by tag; Why Am I So Tired If AI Is Doing All the Work?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Gemini Decisions API；Apple Shutters Their Longstanding ‘Apple Support Community’；Browse tools.simonwillison.net by tag。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Gemini Decisions API; Apple Shutters Their Longstanding ‘Apple Support Community’; Browse tools.simonwillison.net by tag.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -930,7 +930,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
+        "jeffgeerling.com · Rejoice, leap seconds are dead!"
       ],
       "key_points": [
         "College will only cost $20 a month",
