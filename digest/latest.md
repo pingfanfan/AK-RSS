@@ -1,7 +1,8 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-12 21:30:02 UTC
+Generated at: 2026-11-13 02:00:59 UTC
 
-- [Scott Colom Flips Mississippi](https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort) (`daringfireball.net`)
-- [How can I pass more than one parameter to co_await?](https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/) (`devblogs.microsoft.com/oldnewthing`)
-- [Pluralistic: Uber's labor crash (12 Nov 2026)](https://pluralistic.net/2026/11/12/starvation-wages/) (`pluralistic.net`)
+- [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) (`simonwillison.net`)
+- [Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) (`daringfireball.net`)
+- [So you want to buy AI for your company](https://idiallo.com/byte-size/buying-ai-for-your-company) (`idiallo.com`)
+- [First Strike](https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html) (`geohot.github.io`)

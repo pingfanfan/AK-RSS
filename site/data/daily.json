@@ -1,79 +1,124 @@
 {
-  "generated_at": "2026-11-12T21:30:15Z",
+  "generated_at": "2026-11-13T02:01:15Z",
   "days": [
     {
-      "date": "2026-11-12",
-      "total": 7,
+      "date": "2026-11-13",
+      "total": 1,
       "feeds": [
-        "daringfireball.net (2)",
+        "idiallo.com (1)"
+      ],
+      "highlights": [
+        "idiallo.com · So you want to buy AI for your company"
+      ],
+      "key_points": [
+        "So you want to buy AI for your company"
+      ],
+      "key_points_zh": [
+        "So you want to buy AI for your company"
+      ],
+      "key_points_en": [
+        "So you want to buy AI for your company"
+      ],
+      "tweet_drafts": [
+        "So you want to buy AI for your company"
+      ],
+      "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "So you want to buy AI for your company",
+          "link": "https://idiallo.com/byte-size/buying-ai-for-your-company"
+        }
+      ],
+      "summary_zh": "2026-11-13 技术日报：So you want to buy AI for your company。",
+      "summary_en": "Daily brief (2026-11-13): So you want to buy AI for your company.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-13 日报】So you want to buy AI for your company。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-13): So you want to buy AI for your company. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-13）\n- So you want to buy AI for your company\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/buying-ai-for-your-company\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-13)\n- So you want to buy AI for your company\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/buying-ai-for-your-company\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：So you want to buy AI for your company。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: So you want to buy AI for your company.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "total": 10,
+      "feeds": [
+        "daringfireball.net (3)",
         "construction-physics.com (1)",
         "devblogs.microsoft.com/oldnewthing (1)",
         "dfarq.homeip.net (1)",
-        "pluralistic.net (1)",
-        "shkspr.mobi (1)"
+        "geohot.github.io (1)",
+        "pluralistic.net (1)"
       ],
       "highlights": [
+        "simonwillison.net · llm-gemini 0.37",
+        "daringfireball.net · Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
         "daringfireball.net · Scott Colom Flips Mississippi",
         "pluralistic.net · Pluralistic: Uber's labor crash (12 Nov 2026)",
-        "devblogs.microsoft.com/oldnewthing · How can I pass more than one parameter to co_await?",
-        "construction-physics.com · Technology as a Search Problem",
-        "shkspr.mobi · Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆",
-        "dfarq.homeip.net · What happened to 3Com?"
+        "geohot.github.io · First Strike",
+        "devblogs.microsoft.com/oldnewthing · How can I pass more than one parameter to co_await?"
       ],
       "key_points": [
+        "llm-gemini 0.37",
+        "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
         "Scott Colom Flips Mississippi",
-        "Pluralistic: Uber's labor crash (12 Nov 2026)",
-        "How can I pass more than one parameter to co_await?",
-        "Technology as a Search Problem"
+        "Pluralistic: Uber's labor crash (12 Nov 2026)"
       ],
       "key_points_zh": [
+        "llm-gemini 0.37",
+        "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
         "Scott Colom Flips Mississippi",
-        "Pluralistic: Uber's labor crash (12 Nov 2026)",
-        "How can I pass more than one parameter to co_await?",
-        "Technology as a Search Problem"
+        "Pluralistic: Uber's labor crash (12 Nov 2026)"
       ],
       "key_points_en": [
+        "llm-gemini 0.37",
+        "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
         "Scott Colom Flips Mississippi",
-        "Pluralistic: Uber's labor crash (12 Nov 2026)",
-        "How can I pass more than one parameter to co_await?",
-        "Technology as a Search Problem"
+        "Pluralistic: Uber's labor crash (12 Nov 2026)"
       ],
       "tweet_drafts": [
-        "Scott Colom Flips Mississippi",
-        "Pluralistic: Uber's labor crash (12 Nov 2026)",
-        "How can I pass more than one parameter to co_await?"
+        "llm-gemini 0.37",
+        "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
+        "Scott Colom Flips Mississippi"
       ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "llm-gemini 0.37",
+          "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+        },
+        {
+          "feed_title": "daringfireball.net",
+          "title": "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
+          "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "Scott Colom Flips Mississippi",
           "link": "https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Uber's labor crash (12 Nov 2026)",
-          "link": "https://pluralistic.net/2026/11/12/starvation-wages/"
-        },
-        {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "How can I pass more than one parameter to co_await?",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/"
         }
       ],
-      "summary_zh": "2026-11-12 技术日报：Scott Colom Flips Mississippi；Pluralistic: Uber's labor crash (12 Nov 2026)；How can I pass more than one parameter to co_await?。",
-      "summary_en": "Daily brief (2026-11-12): Scott Colom Flips Mississippi; Pluralistic: Uber's labor crash (12 Nov 2026); How can I pass more than one parameter to co_await?.",
+      "summary_zh": "2026-11-12 技术日报：llm-gemini 0.37；Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)；Scott Colom Flips Mississippi。",
+      "summary_en": "Daily brief (2026-11-12): llm-gemini 0.37; Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet); Scott Colom Flips Mississippi.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-12 日报】Scott Colom Flips Mississippi；Pluralistic: Uber's labor crash (12 Nov 2026)；How can I pass more than one parameter to co_await?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-12): Scott Colom Flips Mississippi; Pluralistic: Uber's labor crash (12 Nov 2026); How can I pass more than one parameter to co_await?. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-12 日报】llm-gemini 0.37；Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)；Scott Colom Flips Mississippi。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-12): llm-gemini 0.37; Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet); Scott Colom Flips Mississippi. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-12）\n- Scott Colom Flips Mississippi\n- Pluralistic: Uber's labor crash (12 Nov 2026)\n- How can I pass more than one parameter to co_await?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort\n- https://pluralistic.net/2026/11/12/starvation-wages/\n- https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-12)\n- Scott Colom Flips Mississippi\n- Pluralistic: Uber's labor crash (12 Nov 2026)\n- How can I pass more than one parameter to co_await?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort\n- https://pluralistic.net/2026/11/12/starvation-wages/\n- https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-12）\n- llm-gemini 0.37\n- Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)\n- Scott Colom Flips Mississippi\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Nov/12/llm-gemini/\n- https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/\n- https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-12)\n- llm-gemini 0.37\n- Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)\n- Scott Colom Flips Mississippi\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Nov/12/llm-gemini/\n- https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/\n- https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：Scott Colom Flips Mississippi；Pluralistic: Uber's labor crash (12 Nov 2026)；How can I pass more than one parameter to co_await?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Scott Colom Flips Mississippi; Pluralistic: Uber's labor crash (12 Nov 2026); How can I pass more than one parameter to co_await?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：llm-gemini 0.37；Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)；Scott Colom Flips Mississippi。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: llm-gemini 0.37; Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet); Scott Colom Flips Mississippi.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1006,7 +1051,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "jeffgeerling.com · Rejoice, leap seconds are dead!"
+        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
       ],
       "key_points": [
         "College will only cost $20 a month",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Chirp Pong；We Need All the Disciplines；Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Chirp Pong; We Need All the Disciplines; Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-10-14",
-      "total": 14,
-      "feeds": [
-        "johndcook.com (3)",
-        "simonwillison.net (3)",
-        "krebsonsecurity.com (2)",
-        "berthub.eu (1)",
-        "daringfireball.net (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Tree Appreciator",
-        "daringfireball.net · [Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-        "johndcook.com · LaTeX package for Pascal-like triangles",
-        "simonwillison.net · AI is mass decompiling games. That's both awesome and scary.",
-        "krebsonsecurity.com · U.K. Sanctions Cryptomus for RU Money Laundering",
-        "berthub.eu · The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum"
-      ],
-      "key_points": [
-        "Tree Appreciator",
-        "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-        "LaTeX package for Pascal-like triangles",
-        "AI is mass decompiling games. That's both awesome and scary"
-      ],
-      "key_points_zh": [
-        "Tree Appreciator",
-        "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-        "LaTeX package for Pascal-like triangles",
-        "AI is mass decompiling games. That's both awesome and scary"
-      ],
-      "key_points_en": [
-        "Tree Appreciator",
-        "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-        "LaTeX package for Pascal-like triangles",
-        "AI is mass decompiling games. That's both awesome and scary"
-      ],
-      "tweet_drafts": [
-        "Tree Appreciator",
-        "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-        "LaTeX package for Pascal-like triangles"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Tree Appreciator",
-          "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-          "link": "https://workos.com/?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q42026"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "LaTeX package for Pascal-like triangles",
-          "link": "https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/"
-        }
-      ],
-      "summary_zh": "2026-10-14 技术日报：Tree Appreciator；[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users；LaTeX package for Pascal-like triangles。",
-      "summary_en": "Daily brief (2026-10-14): Tree Appreciator; [Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users; LaTeX package for Pascal-like triangles.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-14 日报】Tree Appreciator；[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users；LaTeX package for Pascal-like triangles。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-14): Tree Appreciator; [Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users; LaTeX package for Pascal-like triangles. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-14）\n- Tree Appreciator\n- [Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users\n- LaTeX package for Pascal-like triangles\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/14/tree-appreciator/\n- https://workos.com/?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q42026\n- https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-14)\n- Tree Appreciator\n- [Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users\n- LaTeX package for Pascal-like triangles\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/14/tree-appreciator/\n- https://workos.com/?utm_source=daringfireball\u0026utm_medium=newsletter\u0026utm_campaign=q42026\n- https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Tree Appreciator；[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users；LaTeX package for Pascal-like triangles。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Tree Appreciator; [Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users; LaTeX package for Pascal-like triangles.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
