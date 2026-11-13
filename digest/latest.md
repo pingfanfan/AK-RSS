@@ -1,8 +1,7 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-13 02:00:59 UTC
+Generated at: 2026-11-13 13:29:30 UTC
 
-- [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) (`simonwillison.net`)
-- [Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) (`daringfireball.net`)
-- [So you want to buy AI for your company](https://idiallo.com/byte-size/buying-ai-for-your-company) (`idiallo.com`)
-- [First Strike](https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html) (`geohot.github.io`)
+- [Long permutations and long cycles](https://www.johndcook.com/blog/2026/11/13/long-cycles/) (`johndcook.com`)
+- [Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/) (`shkspr.mobi`)
+- [Ira Velinsky, industrial designer for Commodore and Atari](https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/?utm_source=rss&utm_medium=rss&utm_campaign=ira-velinsky-industrial-designer-of-the-commodore-64) (`dfarq.homeip.net`)
