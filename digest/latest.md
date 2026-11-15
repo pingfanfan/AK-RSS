@@ -1,5 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-15 19:24:35 UTC
+Generated at: 2026-11-15 23:25:40 UTC
 
-- [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/) (`daringfireball.net`)
+- [ASI as a Black Box](https://borretti.me/article/asi-as-a-black-box) (`borretti.me`)
+- [What’s Next For Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) (`steveblank.com`)
