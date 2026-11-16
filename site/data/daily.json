@@ -1,17 +1,93 @@
 {
-  "generated_at": "2026-11-15T23:25:54Z",
+  "generated_at": "2026-11-16T14:05:25Z",
   "days": [
     {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "total": 5,
+      "feeds": [
+        "dfarq.homeip.net (1)",
+        "idiallo.com (1)",
+        "johndcook.com (1)",
+        "shkspr.mobi (1)",
+        "troyhunt.com (1)"
+      ],
+      "highlights": [
+        "shkspr.mobi · Gig Review: ABBA Voyage ★★★★☆",
+        "dfarq.homeip.net · The rise and fall of Syquest",
+        "troyhunt.com · Weekly Update 530: Email Dependencies \u0026 Apps",
+        "johndcook.com · Orbital footnote",
+        "idiallo.com · People will lose their jobs over GTA 6"
+      ],
+      "key_points": [
+        "Gig Review: ABBA Voyage ★★★★☆",
+        "The rise and fall of Syquest",
+        "Weekly Update 530: Email Dependencies \u0026 Apps",
+        "Orbital footnote"
+      ],
+      "key_points_zh": [
+        "Gig Review: ABBA Voyage ★★★★☆",
+        "The rise and fall of Syquest",
+        "Weekly Update 530: Email Dependencies \u0026 Apps",
+        "Orbital footnote"
+      ],
+      "key_points_en": [
+        "Gig Review: ABBA Voyage ★★★★☆",
+        "The rise and fall of Syquest",
+        "Weekly Update 530: Email Dependencies \u0026 Apps",
+        "Orbital footnote"
+      ],
+      "tweet_drafts": [
+        "Gig Review: ABBA Voyage ★★★★☆",
+        "The rise and fall of Syquest",
+        "Weekly Update 530: Email Dependencies \u0026 Apps"
+      ],
+      "sources": [
+        {
+          "feed_title": "shkspr.mobi",
+          "title": "Gig Review: ABBA Voyage ★★★★☆",
+          "link": "https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/"
+        },
+        {
+          "feed_title": "dfarq.homeip.net",
+          "title": "The rise and fall of Syquest",
+          "link": "https://dfarq.homeip.net/the-rise-and-fall-of-syquest/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-rise-and-fall-of-syquest"
+        },
+        {
+          "feed_title": "troyhunt.com",
+          "title": "Weekly Update 530: Email Dependencies \u0026 Apps",
+          "link": "https://www.troyhunt.com/weekly-update-530/"
+        }
+      ],
+      "summary_zh": "2026-11-16 技术日报：Gig Review: ABBA Voyage ★★★★☆；The rise and fall of Syquest；Weekly Update 530: Email Dependencies \u0026 Apps。",
+      "summary_en": "Daily brief (2026-11-16): Gig Review: ABBA Voyage ★★★★☆; The rise and fall of Syquest; Weekly Update 530: Email Dependencies \u0026 Apps.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-16 日报】Gig Review: ABBA Voyage ★★★★☆；The rise and fall of Syquest；Weekly Update 530: Email Dependencies \u0026 Apps。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-16): Gig Review: ABBA Voyage ★★★★☆; The rise and fall of Syquest; Weekly Update 530: Email Dependencies \u0026 Apps. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-16）\n- Gig Review: ABBA Voyage ★★★★☆\n- The rise and fall of Syquest\n- Weekly Update 530: Email Dependencies \u0026 Apps\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/\n- https://dfarq.homeip.net/the-rise-and-fall-of-syquest/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-rise-and-fall-of-syquest\n- https://www.troyhunt.com/weekly-update-530/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-16)\n- Gig Review: ABBA Voyage ★★★★☆\n- The rise and fall of Syquest\n- Weekly Update 530: Email Dependencies \u0026 Apps\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/\n- https://dfarq.homeip.net/the-rise-and-fall-of-syquest/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-rise-and-fall-of-syquest\n- https://www.troyhunt.com/weekly-update-530/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Gig Review: ABBA Voyage ★★★★☆；The rise and fall of Syquest；Weekly Update 530: Email Dependencies \u0026 Apps。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Gig Review: ABBA Voyage ★★★★☆; The rise and fall of Syquest; Weekly Update 530: Email Dependencies \u0026 Apps.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "total": 6,
       "feeds": [
         "borretti.me (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
         "shkspr.mobi (1)",
+        "simonwillison.net (1)",
         "steveblank.com (1)"
       ],
       "highlights": [
+        "simonwillison.net · datasette-maplibre 0.1a0",
         "steveblank.com · What’s Next For Nvidia?",
         "daringfireball.net · The Legion of PCAST",
         "borretti.me · ASI as a Black Box",
@@ -19,29 +95,34 @@
         "dfarq.homeip.net · Date codes on cardboard boxes"
       ],
       "key_points": [
-        "What’s Next For Nvidia?",
-        "The Legion of PCAST",
-        "ASI as a Black Box",
-        "Variable Electricity Pricing - the Highs and the Lows"
-      ],
-      "key_points_zh": [
-        "What’s Next For Nvidia?",
-        "The Legion of PCAST",
-        "ASI as a Black Box",
-        "Variable Electricity Pricing - the Highs and the Lows"
-      ],
-      "key_points_en": [
-        "What’s Next For Nvidia?",
-        "The Legion of PCAST",
-        "ASI as a Black Box",
-        "Variable Electricity Pricing - the Highs and the Lows"
-      ],
-      "tweet_drafts": [
+        "datasette-maplibre 0.1a0",
         "What’s Next For Nvidia?",
         "The Legion of PCAST",
         "ASI as a Black Box"
       ],
+      "key_points_zh": [
+        "datasette-maplibre 0.1a0",
+        "What’s Next For Nvidia?",
+        "The Legion of PCAST",
+        "ASI as a Black Box"
+      ],
+      "key_points_en": [
+        "datasette-maplibre 0.1a0",
+        "What’s Next For Nvidia?",
+        "The Legion of PCAST",
+        "ASI as a Black Box"
+      ],
+      "tweet_drafts": [
+        "datasette-maplibre 0.1a0",
+        "What’s Next For Nvidia?",
+        "The Legion of PCAST"
+      ],
       "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "datasette-maplibre 0.1a0",
+          "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/"
+        },
         {
           "feed_title": "steveblank.com",
           "title": "What’s Next For Nvidia?",
@@ -51,27 +132,22 @@
           "feed_title": "daringfireball.net",
           "title": "The Legion of PCAST",
           "link": "https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/"
-        },
-        {
-          "feed_title": "borretti.me",
-          "title": "ASI as a Black Box",
-          "link": "https://borretti.me/article/asi-as-a-black-box"
         }
       ],
-      "summary_zh": "2026-11-15 技术日报：What’s Next For Nvidia?；The Legion of PCAST；ASI as a Black Box。",
-      "summary_en": "Daily brief (2026-11-15): What’s Next For Nvidia?; The Legion of PCAST; ASI as a Black Box.",
+      "summary_zh": "2026-11-15 技术日报：datasette-maplibre 0.1a0；What’s Next For Nvidia?；The Legion of PCAST。",
+      "summary_en": "Daily brief (2026-11-15): datasette-maplibre 0.1a0; What’s Next For Nvidia?; The Legion of PCAST.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-15 日报】What’s Next For Nvidia?；The Legion of PCAST；ASI as a Black Box。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-15): What’s Next For Nvidia?; The Legion of PCAST; ASI as a Black Box. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-15 日报】datasette-maplibre 0.1a0；What’s Next For Nvidia?；The Legion of PCAST。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-15): datasette-maplibre 0.1a0; What’s Next For Nvidia?; The Legion of PCAST. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-15）\n- What’s Next For Nvidia?\n- The Legion of PCAST\n- ASI as a Black Box\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://steveblank.com/2026/11/15/whats-next-for-nvidia/\n- https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/\n- https://borretti.me/article/asi-as-a-black-box\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-15)\n- What’s Next For Nvidia?\n- The Legion of PCAST\n- ASI as a Black Box\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://steveblank.com/2026/11/15/whats-next-for-nvidia/\n- https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/\n- https://borretti.me/article/asi-as-a-black-box\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-15）\n- datasette-maplibre 0.1a0\n- What’s Next For Nvidia?\n- The Legion of PCAST\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Nov/15/datasette-maplibre/\n- https://steveblank.com/2026/11/15/whats-next-for-nvidia/\n- https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-15)\n- datasette-maplibre 0.1a0\n- What’s Next For Nvidia?\n- The Legion of PCAST\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Nov/15/datasette-maplibre/\n- https://steveblank.com/2026/11/15/whats-next-for-nvidia/\n- https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：What’s Next For Nvidia?；The Legion of PCAST；ASI as a Black Box。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: What’s Next For Nvidia?; The Legion of PCAST; ASI as a Black Box.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：datasette-maplibre 0.1a0；What’s Next For Nvidia?；The Legion of PCAST。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: datasette-maplibre 0.1a0; What’s Next For Nvidia?; The Legion of PCAST.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -2200,82 +2276,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction；Claim Chowder: The Information on HomeView having a ‘robotic swiveling base’；Inside the Intel 8087 chip: floating-point addition and subtraction。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction; Claim Chowder: The Information on HomeView having a ‘robotic swiveling base’; Inside the Intel 8087 chip: floating-point addition and subtraction.\nI turned them into an action-"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "total": 11,
-      "feeds": [
-        "daringfireball.net (4)",
-        "construction-physics.com (1)",
-        "dfarq.homeip.net (1)",
-        "johndcook.com (1)",
-        "nesbitt.io (1)",
-        "pluralistic.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Inline rendering with document​.currentScript",
-        "daringfireball.net · ★ HomeView Thoughts and Observations",
-        "johndcook.com · Cloud of suspicion lifted from NIST curves",
-        "daringfireball.net · Apple TV Price History, Charted",
-        "construction-physics.com · Reading List 10/17/26",
-        "shkspr.mobi · Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆"
-      ],
-      "key_points": [
-        "Inline rendering with document​.currentScript",
-        "★ HomeView Thoughts and Observations",
-        "Cloud of suspicion lifted from NIST curves",
-        "Apple TV Price History, Charted"
-      ],
-      "key_points_zh": [
-        "Inline rendering with document​.currentScript",
-        "★ HomeView Thoughts and Observations",
-        "Cloud of suspicion lifted from NIST curves",
-        "Apple TV Price History, Charted"
-      ],
-      "key_points_en": [
-        "Inline rendering with document​.currentScript",
-        "★ HomeView Thoughts and Observations",
-        "Cloud of suspicion lifted from NIST curves",
-        "Apple TV Price History, Charted"
-      ],
-      "tweet_drafts": [
-        "Inline rendering with document​.currentScript",
-        "★ HomeView Thoughts and Observations",
-        "Cloud of suspicion lifted from NIST curves"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Inline rendering with document​.currentScript",
-          "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ HomeView Thoughts and Observations",
-          "link": "https://daringfireball.net/2026/10/homeview_thoughts_and_observations"
-        },
-        {
-          "feed_title": "johndcook.com",
-          "title": "Cloud of suspicion lifted from NIST curves",
-          "link": "https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/"
-        }
-      ],
-      "summary_zh": "2026-10-17 技术日报：Inline rendering with document​.currentScript；★ HomeView Thoughts and Observations；Cloud of suspicion lifted from NIST curves。",
-      "summary_en": "Daily brief (2026-10-17): Inline rendering with document​.currentScript; ★ HomeView Thoughts and Observations; Cloud of suspicion lifted from NIST curves.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-17 日报】Inline rendering with document​.currentScript；★ HomeView Thoughts and Observations；Cloud of suspicion lifted from NIST curves。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-17): Inline rendering with document​.currentScript; ★ HomeView Thoughts and Observations; Cloud of suspicion lifted from NIST curves. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-17）\n- Inline rendering with document​.currentScript\n- ★ HomeView Thoughts and Observations\n- Cloud of suspicion lifted from NIST curves\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/17/document-currentscript/\n- https://daringfireball.net/2026/10/homeview_thoughts_and_observations\n- https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-17)\n- Inline rendering with document​.currentScript\n- ★ HomeView Thoughts and Observations\n- Cloud of suspicion lifted from NIST curves\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/17/document-currentscript/\n- https://daringfireball.net/2026/10/homeview_thoughts_and_observations\n- https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Inline rendering with document​.currentScript；★ HomeView Thoughts and Observations；Cloud of suspicion lifted from NIST curves。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Inline rendering with document​.currentScript; ★ HomeView Thoughts and Observations; Cloud of suspicion lifted from NIST curves.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
