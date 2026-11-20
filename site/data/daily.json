@@ -1,49 +1,99 @@
 {
-  "generated_at": "2026-11-19T22:29:37Z",
+  "generated_at": "2026-11-20T03:38:46Z",
   "days": [
     {
-      "date": "2026-11-19",
-      "total": 9,
+      "date": "2026-11-20",
+      "total": 1,
       "feeds": [
+        "simonwillison.net (1)"
+      ],
+      "highlights": [
+        "simonwillison.net · Token fraud is here and it’s BAD (YouTube)"
+      ],
+      "key_points": [
+        "Token fraud is here and it’s BAD (YouTube)"
+      ],
+      "key_points_zh": [
+        "Token fraud is here and it’s BAD (YouTube)"
+      ],
+      "key_points_en": [
+        "Token fraud is here and it’s BAD (YouTube)"
+      ],
+      "tweet_drafts": [
+        "Token fraud is here and it’s BAD (YouTube)"
+      ],
+      "sources": [
+        {
+          "feed_title": "simonwillison.net",
+          "title": "Token fraud is here and it’s BAD (YouTube)",
+          "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/"
+        }
+      ],
+      "summary_zh": "2026-11-20 技术日报：Token fraud is here and it’s BAD (YouTube)。",
+      "summary_en": "Daily brief (2026-11-20): Token fraud is here and it’s BAD (YouTube).",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-20 日报】Token fraud is here and it’s BAD (YouTube)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-20): Token fraud is here and it’s BAD (YouTube). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-20）\n- Token fraud is here and it’s BAD (YouTube)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-20)\n- Token fraud is here and it’s BAD (YouTube)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Token fraud is here and it’s BAD (YouTube)。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Token fraud is here and it’s BAD (YouTube).\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "total": 10,
+      "feeds": [
+        "idiallo.com (2)",
         "buttondown.com/hillelwayne (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
-        "idiallo.com (1)",
         "johndcook.com (1)",
         "pluralistic.net (1)"
       ],
       "highlights": [
+        "idiallo.com · Another company I've never heard of lost my Data",
         "daringfireball.net · ★ Jon McCormack Retires From Apple",
         "simonwillison.net · PostgreSQL 19 Released",
         "tedium.co · Closing The Sandwich Shop",
         "buttondown.com/hillelwayne · My Least Favorite Example in Software Engineering",
-        "pluralistic.net · Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)",
-        "shkspr.mobi · Theatre Review: FORT – a new opera ★★★☆☆"
+        "pluralistic.net · Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)"
       ],
       "key_points": [
-        "★ Jon McCormack Retires From Apple",
-        "PostgreSQL 19 Released",
-        "Closing The Sandwich Shop",
-        "My Least Favorite Example in Software Engineering"
-      ],
-      "key_points_zh": [
-        "★ Jon McCormack Retires From Apple",
-        "PostgreSQL 19 Released",
-        "Closing The Sandwich Shop",
-        "My Least Favorite Example in Software Engineering"
-      ],
-      "key_points_en": [
-        "★ Jon McCormack Retires From Apple",
-        "PostgreSQL 19 Released",
-        "Closing The Sandwich Shop",
-        "My Least Favorite Example in Software Engineering"
-      ],
-      "tweet_drafts": [
+        "Another company I've never heard of lost my Data",
         "★ Jon McCormack Retires From Apple",
         "PostgreSQL 19 Released",
         "Closing The Sandwich Shop"
       ],
+      "key_points_zh": [
+        "Another company I've never heard of lost my Data",
+        "★ Jon McCormack Retires From Apple",
+        "PostgreSQL 19 Released",
+        "Closing The Sandwich Shop"
+      ],
+      "key_points_en": [
+        "Another company I've never heard of lost my Data",
+        "★ Jon McCormack Retires From Apple",
+        "PostgreSQL 19 Released",
+        "Closing The Sandwich Shop"
+      ],
+      "tweet_drafts": [
+        "Another company I've never heard of lost my Data",
+        "★ Jon McCormack Retires From Apple",
+        "PostgreSQL 19 Released"
+      ],
       "sources": [
+        {
+          "feed_title": "idiallo.com",
+          "title": "Another company I've never heard of lost my Data",
+          "link": "https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "★ Jon McCormack Retires From Apple",
@@ -53,27 +103,22 @@
           "feed_title": "simonwillison.net",
           "title": "PostgreSQL 19 Released",
           "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/"
-        },
-        {
-          "feed_title": "tedium.co",
-          "title": "Closing The Sandwich Shop",
-          "link": "https://feed.tedium.co/link/15204/17535724/salon-media-ownership-tech-destiny"
         }
       ],
-      "summary_zh": "2026-11-19 技术日报：★ Jon McCormack Retires From Apple；PostgreSQL 19 Released；Closing The Sandwich Shop。",
-      "summary_en": "Daily brief (2026-11-19): ★ Jon McCormack Retires From Apple; PostgreSQL 19 Released; Closing The Sandwich Shop.",
+      "summary_zh": "2026-11-19 技术日报：Another company I've never heard of lost my Data；★ Jon McCormack Retires From Apple；PostgreSQL 19 Released。",
+      "summary_en": "Daily brief (2026-11-19): Another company I've never heard of lost my Data; ★ Jon McCormack Retires From Apple; PostgreSQL 19 Released.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-19 日报】★ Jon McCormack Retires From Apple；PostgreSQL 19 Released；Closing The Sandwich Shop。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-19): ★ Jon McCormack Retires From Apple; PostgreSQL 19 Released; Closing The Sandwich Shop. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+          "zh": "【2026-11-19 日报】Another company I've never heard of lost my Data；★ Jon McCormack Retires From Apple；PostgreSQL 19 Released。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-19): Another company I've never heard of lost my Data; ★ Jon McCormack Retires From Apple; PostgreSQL 19 Released. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-19）\n- ★ Jon McCormack Retires From Apple\n- PostgreSQL 19 Released\n- Closing The Sandwich Shop\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/11/mccormack_retires_from_apple\n- https://simonwillison.net/2026/Nov/19/postgresql-19/\n- https://feed.tedium.co/link/15204/17535724/salon-media-ownership-tech-destiny\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-19)\n- ★ Jon McCormack Retires From Apple\n- PostgreSQL 19 Released\n- Closing The Sandwich Shop\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/11/mccormack_retires_from_apple\n- https://simonwillison.net/2026/Nov/19/postgresql-19/\n- https://feed.tedium.co/link/15204/17535724/salon-media-ownership-tech-destiny\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-19）\n- Another company I've never heard of lost my Data\n- ★ Jon McCormack Retires From Apple\n- PostgreSQL 19 Released\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring\n- https://daringfireball.net/2026/11/mccormack_retires_from_apple\n- https://simonwillison.net/2026/Nov/19/postgresql-19/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-19)\n- Another company I've never heard of lost my Data\n- ★ Jon McCormack Retires From Apple\n- PostgreSQL 19 Released\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring\n- https://daringfireball.net/2026/11/mccormack_retires_from_apple\n- https://simonwillison.net/2026/Nov/19/postgresql-19/\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ Jon McCormack Retires From Apple；PostgreSQL 19 Released；Closing The Sandwich Shop。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ Jon McCormack Retires From Apple; PostgreSQL 19 Released; Closing The Sandwich Shop.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Another company I've never heard of lost my Data；★ Jon McCormack Retires From Apple；PostgreSQL 19 Released。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Another company I've never heard of lost my Data; ★ Jon McCormack Retires From Apple; PostgreSQL 19 Released.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -170,7 +215,7 @@
         "daringfireball.net · SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)",
         "geohot.github.io · My Empire of Sunshine and Roses",
         "wheresyoured.at · The NVIDIA Bubble",
-        "jeffgeerling.com · I joined the NTP Pool, but not with my Stratum 1 Pi"
+        "devblogs.microsoft.com/oldnewthing · In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?"
       ],
       "key_points": [
         "External sandboxes for coding agents",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：DE STAAT - FREEDOM (Official Music Video)；Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo；Donating Agent Skills to the Agentic AI Foundation。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: DE STAAT - FREEDOM (Official Music Video); Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo; Donating Agent Skills to the Agentic AI Foundation.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "total": 17,
-      "feeds": [
-        "xeiaso.net (3)",
-        "simonwillison.net (2)",
-        "blog.jim-nielsen.com (1)",
-        "daringfireball.net (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "daringfireball.net · ★ The iPhone Duo",
-        "entropicthoughts.com · Script dependencies with Nix",
-        "pluralistic.net · Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "idiallo.com · Can they write a function?",
-        "blog.jim-nielsen.com · No Need for Retirement When Utopia Is Around the Corner",
-        "simonwillison.net · Today's PHP Security Release, and How We're Strengthening PHP Security"
-      ],
-      "key_points": [
-        "★ The iPhone Duo",
-        "Script dependencies with Nix",
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?"
-      ],
-      "key_points_zh": [
-        "★ The iPhone Duo",
-        "Script dependencies with Nix",
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?"
-      ],
-      "key_points_en": [
-        "★ The iPhone Duo",
-        "Script dependencies with Nix",
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-        "Can they write a function?"
-      ],
-      "tweet_drafts": [
-        "★ The iPhone Duo",
-        "Script dependencies with Nix",
-        "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)"
-      ],
-      "sources": [
-        {
-          "feed_title": "daringfireball.net",
-          "title": "★ The iPhone Duo",
-          "link": "https://daringfireball.net/2026/10/the_iphone_duo"
-        },
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "Script dependencies with Nix",
-          "link": "https://entropicthoughts.com/python-dependencies-with-nix"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
-          "link": "https://pluralistic.net/2026/10/21/brittle-individualism/"
-        }
-      ],
-      "summary_zh": "2026-10-21 技术日报：★ The iPhone Duo；Script dependencies with Nix；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)。",
-      "summary_en": "Daily brief (2026-10-21): ★ The iPhone Duo; Script dependencies with Nix; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026).",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-21 日报】★ The iPhone Duo；Script dependencies with Nix；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-21): ★ The iPhone Duo; Script dependencies with Nix; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026). Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-21）\n- ★ The iPhone Duo\n- Script dependencies with Nix\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://entropicthoughts.com/python-dependencies-with-nix\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-21)\n- ★ The iPhone Duo\n- Script dependencies with Nix\n- Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/10/the_iphone_duo\n- https://entropicthoughts.com/python-dependencies-with-nix\n- https://pluralistic.net/2026/10/21/brittle-individualism/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：★ The iPhone Duo；Script dependencies with Nix；Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ The iPhone Duo; Script dependencies with Nix; Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026).\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
