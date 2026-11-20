@@ -1,6 +1,6 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-20 03:38:33 UTC
+Generated at: 2026-11-20 14:27:16 UTC
 
-- [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) (`simonwillison.net`)
-- [Another company I've never heard of lost my Data](https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring) (`idiallo.com`)
+- [Connect a USB Zigbee Device to HAOS](https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/) (`shkspr.mobi`)
+- [Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)](https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/) (`pluralistic.net`)
