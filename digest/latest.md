@@ -1,9 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-20 21:54:09 UTC
+Generated at: 2026-11-21 02:53:22 UTC
 
-- [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) (`simonwillison.net`)
-- [Why do I get inconsistent results when I ask for the icon for the .. parent folder?](https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/) (`devblogs.microsoft.com/oldnewthing`)
-- [Premium: Bursting Bubbles](https://www.wheresyoured.at/premium-bursting-bubbles/) (`wheresyoured.at`)
-- [Max Headroom incident of Nov 22, 1987](https://dfarq.homeip.net/max-headroom-incident-of-nov-22-1987-3/?utm_source=rss&utm_medium=rss&utm_campaign=max-headroom-incident-of-nov-22-1987-3) (`dfarq.homeip.net`)
-- [Diablo II](https://www.filfre.net/2026/11/diablo-ii/) (`filfre.net`)
+- [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) (`krebsonsecurity.com`)
+- [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/) (`seangoedecke.com`)
+- [The Talk Show: ‘A Whoopsie Treason’](https://daringfireball.net/thetalkshow/2026/11/20/ep-457) (`daringfireball.net`)
+- [Another failed attempt to get the icon for the icon for the .. parent folder](https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/) (`devblogs.microsoft.com/oldnewthing`)
+- [Re: Riemann](https://borretti.me/article/re-riemann) (`borretti.me`)
+- [Why Johnny Can’t Patch](https://dfarq.homeip.net/why-johnny-cant-patch-2/?utm_source=rss&utm_medium=rss&utm_campaign=why-johnny-cant-patch-2) (`dfarq.homeip.net`)
