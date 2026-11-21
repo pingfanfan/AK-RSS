@@ -1,10 +1,10 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-21 02:53:22 UTC
+Generated at: 2026-11-21 13:46:31 UTC
 
-- [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) (`krebsonsecurity.com`)
-- [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/) (`seangoedecke.com`)
-- [The Talk Show: ‘A Whoopsie Treason’](https://daringfireball.net/thetalkshow/2026/11/20/ep-457) (`daringfireball.net`)
-- [Another failed attempt to get the icon for the icon for the .. parent folder](https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/) (`devblogs.microsoft.com/oldnewthing`)
-- [Re: Riemann](https://borretti.me/article/re-riemann) (`borretti.me`)
-- [Why Johnny Can’t Patch](https://dfarq.homeip.net/why-johnny-cant-patch-2/?utm_source=rss&utm_medium=rss&utm_campaign=why-johnny-cant-patch-2) (`dfarq.homeip.net`)
+- [Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.](https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing) (`garymarcus.substack.com`)
+- [What is the Generalized Riemann Hypothesis?](https://www.johndcook.com/blog/2026/11/20/grh/) (`johndcook.com`)
+- [This Week in Package Management: 21 November 2026](https://nesbitt.io/2026/11/21/this-week-in-package-management.html) (`nesbitt.io`)
+- [Reading List 11/21/2026](https://www.construction-physics.com/p/reading-list-11212026) (`construction-physics.com`)
+- [Relicensing to CC BY-SA and making it visible in Schema metadata](https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/) (`shkspr.mobi`)
+- [What three-bolt mount means on a garbage disposal](https://dfarq.homeip.net/what-three-bolt-mount-means-on-a-garbage-disposal/?utm_source=rss&utm_medium=rss&utm_campaign=what-three-bolt-mount-means-on-a-garbage-disposal) (`dfarq.homeip.net`)
