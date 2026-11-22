@@ -1,49 +1,99 @@
 {
-  "generated_at": "2026-11-21T20:16:16Z",
+  "generated_at": "2026-11-22T00:30:45Z",
   "days": [
     {
+      "date": "2026-11-22",
+      "total": 1,
+      "feeds": [
+        "seangoedecke.com (1)"
+      ],
+      "highlights": [
+        "seangoedecke.com · To code well, avoid blunders"
+      ],
+      "key_points": [
+        "To code well, avoid blunders"
+      ],
+      "key_points_zh": [
+        "To code well, avoid blunders"
+      ],
+      "key_points_en": [
+        "To code well, avoid blunders"
+      ],
+      "tweet_drafts": [
+        "To code well, avoid blunders"
+      ],
+      "sources": [
+        {
+          "feed_title": "seangoedecke.com",
+          "title": "To code well, avoid blunders",
+          "link": "https://seangoedecke.com/to-code-well-avoid-blunders/"
+        }
+      ],
+      "summary_zh": "2026-11-22 技术日报：To code well, avoid blunders。",
+      "summary_en": "Daily brief (2026-11-22): To code well, avoid blunders.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-22 日报】To code well, avoid blunders。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-22): To code well, avoid blunders. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-22）\n- To code well, avoid blunders\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://seangoedecke.com/to-code-well-avoid-blunders/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-22)\n- To code well, avoid blunders\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://seangoedecke.com/to-code-well-avoid-blunders/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：To code well, avoid blunders。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: To code well, avoid blunders.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
       "date": "2026-11-21",
-      "total": 8,
+      "total": 9,
       "feeds": [
         "construction-physics.com (1)",
         "daringfireball.net (1)",
         "dfarq.homeip.net (1)",
+        "eli.thegreenplace.net (1)",
         "johndcook.com (1)",
-        "krebsonsecurity.com (1)",
-        "nesbitt.io (1)"
+        "krebsonsecurity.com (1)"
       ],
       "highlights": [
+        "eli.thegreenplace.net · Notes on the discrete Fourier transform (DFT)",
         "daringfireball.net · ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
         "construction-physics.com · Reading List 11/21/2026",
         "shkspr.mobi · Relicensing to CC BY-SA and making it visible in Schema metadata",
         "dfarq.homeip.net · What three-bolt mount means on a garbage disposal",
-        "nesbitt.io · This Week in Package Management: 21 November 2026",
-        "johndcook.com · What is the Generalized Riemann Hypothesis?"
+        "nesbitt.io · This Week in Package Management: 21 November 2026"
       ],
       "key_points": [
-        "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
-        "Reading List 11/21/2026",
-        "Relicensing to CC BY-SA and making it visible in Schema metadata",
-        "What three-bolt mount means on a garbage disposal"
-      ],
-      "key_points_zh": [
-        "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
-        "Reading List 11/21/2026",
-        "Relicensing to CC BY-SA and making it visible in Schema metadata",
-        "What three-bolt mount means on a garbage disposal"
-      ],
-      "key_points_en": [
-        "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
-        "Reading List 11/21/2026",
-        "Relicensing to CC BY-SA and making it visible in Schema metadata",
-        "What three-bolt mount means on a garbage disposal"
-      ],
-      "tweet_drafts": [
+        "Notes on the discrete Fourier transform (DFT)",
         "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
         "Reading List 11/21/2026",
         "Relicensing to CC BY-SA and making it visible in Schema metadata"
       ],
+      "key_points_zh": [
+        "Notes on the discrete Fourier transform (DFT)",
+        "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+        "Reading List 11/21/2026",
+        "Relicensing to CC BY-SA and making it visible in Schema metadata"
+      ],
+      "key_points_en": [
+        "Notes on the discrete Fourier transform (DFT)",
+        "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+        "Reading List 11/21/2026",
+        "Relicensing to CC BY-SA and making it visible in Schema metadata"
+      ],
+      "tweet_drafts": [
+        "Notes on the discrete Fourier transform (DFT)",
+        "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+        "Reading List 11/21/2026"
+      ],
       "sources": [
+        {
+          "feed_title": "eli.thegreenplace.net",
+          "title": "Notes on the discrete Fourier transform (DFT)",
+          "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
+        },
         {
           "feed_title": "daringfireball.net",
           "title": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
@@ -53,27 +103,22 @@
           "feed_title": "construction-physics.com",
           "title": "Reading List 11/21/2026",
           "link": "https://www.construction-physics.com/p/reading-list-11212026"
-        },
-        {
-          "feed_title": "shkspr.mobi",
-          "title": "Relicensing to CC BY-SA and making it visible in Schema metadata",
-          "link": "https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/"
         }
       ],
-      "summary_zh": "2026-11-21 技术日报：★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2；Reading List 11/21/2026；Relicensing to CC BY-SA and making it visible in Schema metadata。",
-      "summary_en": "Daily brief (2026-11-21): ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2; Reading List 11/21/2026; Relicensing to CC BY-SA and making it visible in Schema metadata.",
+      "summary_zh": "2026-11-21 技术日报：Notes on the discrete Fourier transform (DFT)；★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2；Reading List 11/21/2026。",
+      "summary_en": "Daily brief (2026-11-21): Notes on the discrete Fourier transform (DFT); ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2; Reading List 11/21/2026.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-21 日报】★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2；Reading List 11/21/2026；Relicensing to CC BY-SA and making it visible in Schema metadata。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-21): ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2; Reading List 11/21/2026; Relicensing to CC BY-SA and making it visible in Schema metadata. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildI"
+          "zh": "【2026-11-21 日报】Notes on the discrete Fourier transform (DFT)；★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2；Reading List 11/21/2026。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-21): Notes on the discrete Fourier transform (DFT); ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2; Reading List 11/21/2026. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-21）\n- ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2\n- Reading List 11/21/2026\n- Relicensing to CC BY-SA and making it visible in Schema metadata\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273\n- https://www.construction-physics.com/p/reading-list-11212026\n- https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-21)\n- ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2\n- Reading List 11/21/2026\n- Relicensing to CC BY-SA and making it visible in Schema metadata\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273\n- https://www.construction-physics.com/p/reading-list-11212026\n- https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-21）\n- Notes on the discrete Fourier transform (DFT)\n- ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2\n- Reading List 11/21/2026\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\n- https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273\n- https://www.construction-physics.com/p/reading-list-11212026\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-21)\n- Notes on the discrete Fourier transform (DFT)\n- ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2\n- Reading List 11/21/2026\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\n- https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273\n- https://www.construction-physics.com/p/reading-list-11212026\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2；Reading List 11/21/2026；Relicensing to CC BY-SA and making it visible in Schema metadata。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2; Reading List 11/21/2026; Relicensing to CC BY-SA and making it visible in Schema metadata.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Notes on the discrete Fourier transform (DFT)；★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2；Reading List 11/21/2026。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Notes on the discrete Fourier transform (DFT); ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2; Reading List 11/21/2026.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -535,7 +580,7 @@
     },
     {
       "date": "2026-11-14",
-      "total": 13,
+      "total": 14,
       "feeds": [
         "borretti.me (1)",
         "construction-physics.com (1)",
@@ -1690,7 +1735,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
+        "jeffgeerling.com · Rejoice, leap seconds are dead!"
       ],
       "key_points": [
         "College will only cost $20 a month",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Nicole Nguyen’s Duo Review for the WSJ；Marion Barry Meets the iPhone Duo；Tim Pan’s iPhone Duo Review。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Nicole Nguyen’s Duo Review for the WSJ; Marion Barry Meets the iPhone Duo; Tim Pan’s iPhone Duo Review.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-10-23",
-      "total": 13,
-      "feeds": [
-        "daringfireball.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "filfre.net (1)",
-        "jeffgeerling.com (1)",
-        "nesbitt.io (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · Quick Study",
-        "pluralistic.net · Pluralistic: Critique and writing (23 Oct 2026)",
-        "daringfireball.net · The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
-        "wheresyoured.at · Premium: The Hater's Guide To Blackstone",
-        "filfre.net · An Ion Storm!, Part 2: The Return to Ground Level",
-        "daringfireball.net · Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’"
-      ],
-      "key_points": [
-        "Quick Study",
-        "Pluralistic: Critique and writing (23 Oct 2026)",
-        "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
-        "Premium: The Hater's Guide To Blackstone"
-      ],
-      "key_points_zh": [
-        "Quick Study",
-        "Pluralistic: Critique and writing (23 Oct 2026)",
-        "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
-        "Premium: The Hater's Guide To Blackstone"
-      ],
-      "key_points_en": [
-        "Quick Study",
-        "Pluralistic: Critique and writing (23 Oct 2026)",
-        "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
-        "Premium: The Hater's Guide To Blackstone"
-      ],
-      "tweet_drafts": [
-        "Quick Study",
-        "Pluralistic: Critique and writing (23 Oct 2026)",
-        "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "Quick Study",
-          "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
-        },
-        {
-          "feed_title": "pluralistic.net",
-          "title": "Pluralistic: Critique and writing (23 Oct 2026)",
-          "link": "https://pluralistic.net/2026/10/23/better-to-give/"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
-          "link": "https://www.theverge.com/tech/1015028/iphone-duo-review"
-        }
-      ],
-      "summary_zh": "2026-10-23 技术日报：Quick Study；Pluralistic: Critique and writing (23 Oct 2026)；The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’。",
-      "summary_en": "Daily brief (2026-10-23): Quick Study; Pluralistic: Critique and writing (23 Oct 2026); The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-23 日报】Quick Study；Pluralistic: Critique and writing (23 Oct 2026)；The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-23): Quick Study; Pluralistic: Critique and writing (23 Oct 2026); The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-23）\n- Quick Study\n- Pluralistic: Critique and writing (23 Oct 2026)\n- The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/23/quick-study-painter/\n- https://pluralistic.net/2026/10/23/better-to-give/\n- https://www.theverge.com/tech/1015028/iphone-duo-review\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-23)\n- Quick Study\n- Pluralistic: Critique and writing (23 Oct 2026)\n- The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/23/quick-study-painter/\n- https://pluralistic.net/2026/10/23/better-to-give/\n- https://www.theverge.com/tech/1015028/iphone-duo-review\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：Quick Study；Pluralistic: Critique and writing (23 Oct 2026)；The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: Quick Study; Pluralistic: Critique and writing (23 Oct 2026); The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
