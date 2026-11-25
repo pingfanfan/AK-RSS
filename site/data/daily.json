@@ -1,79 +1,124 @@
 {
-  "generated_at": "2026-11-24T16:33:43Z",
+  "generated_at": "2026-11-25T01:09:03Z",
   "days": [
     {
-      "date": "2026-11-24",
-      "total": 9,
+      "date": "2026-11-25",
+      "total": 1,
       "feeds": [
-        "daringfireball.net (2)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)",
-        "herman.bearblog.dev (1)",
-        "johndcook.com (1)",
-        "pluralistic.net (1)"
+        "lucumr.pocoo.org (1)"
       ],
       "highlights": [
-        "daringfireball.net · David Sacks’s Pool Boy Is Cocky",
-        "johndcook.com · Taking a password joke seriously",
-        "devblogs.microsoft.com/oldnewthing · When happens to entries in the CoreApplication Properties when the source apartment shuts down?",
-        "shkspr.mobi · Virgin Media Hub 5 API",
-        "pluralistic.net · Pluralistic: Free lunches (24 Nov 2026)",
-        "dfarq.homeip.net · Why AOL bought Netscape"
+        "lucumr.pocoo.org · Abolish Lock Poisoning"
       ],
       "key_points": [
-        "David Sacks’s Pool Boy Is Cocky",
-        "Taking a password joke seriously",
-        "When happens to entries in the CoreApplication Properties when the source apartment shuts down?",
-        "Virgin Media Hub 5 API"
+        "Abolish Lock Poisoning"
       ],
       "key_points_zh": [
-        "David Sacks’s Pool Boy Is Cocky",
-        "Taking a password joke seriously",
-        "When happens to entries in the CoreApplication Properties when the source apartment shuts down?",
-        "Virgin Media Hub 5 API"
+        "Abolish Lock Poisoning"
       ],
       "key_points_en": [
-        "David Sacks’s Pool Boy Is Cocky",
-        "Taking a password joke seriously",
-        "When happens to entries in the CoreApplication Properties when the source apartment shuts down?",
-        "Virgin Media Hub 5 API"
+        "Abolish Lock Poisoning"
       ],
       "tweet_drafts": [
-        "David Sacks’s Pool Boy Is Cocky",
-        "Taking a password joke seriously",
-        "When happens to entries in the CoreApplication Properties when the source apartment shuts down?"
+        "Abolish Lock Poisoning"
+      ],
+      "sources": [
+        {
+          "feed_title": "lucumr.pocoo.org",
+          "title": "Abolish Lock Poisoning",
+          "link": "https://lucumr.pocoo.org/2026/11/25/poisoning/"
+        }
+      ],
+      "summary_zh": "2026-11-25 技术日报：Abolish Lock Poisoning。",
+      "summary_en": "Daily brief (2026-11-25): Abolish Lock Poisoning.",
+      "social_posts": {
+        "x": {
+          "zh": "【2026-11-25 日报】Abolish Lock Poisoning。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-25): Abolish Lock Poisoning. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
+        },
+        "linkedin": {
+          "zh": "今天的技术情报（2026-11-25）\n- Abolish Lock Poisoning\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://lucumr.pocoo.org/2026/11/25/poisoning/\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-25)\n- Abolish Lock Poisoning\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://lucumr.pocoo.org/2026/11/25/poisoning/\n#AI #Engineering #Product"
+        },
+        "threads": {
+          "zh": "今天最值得看的 3 个点：Abolish Lock Poisoning。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Abolish Lock Poisoning.\nI turned them into an action-ready daily brief you can use right away."
+        }
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "total": 16,
+      "feeds": [
+        "daringfireball.net (3)",
+        "simonwillison.net (2)",
+        "devblogs.microsoft.com/oldnewthing (1)",
+        "dfarq.homeip.net (1)",
+        "dwarkesh.com (1)",
+        "experimental-history.com (1)"
+      ],
+      "highlights": [
+        "daringfireball.net · Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
+        "simonwillison.net · Three LLM inflection points in twelve months",
+        "dwarkesh.com · Responding to objections to recursive self-improvement",
+        "oldvcr.blogspot.com · Blogger broke the lightbox",
+        "xania.org · Advent of Microarchitecture 2026",
+        "wheresyoured.at · Defective Accelerationism"
+      ],
+      "key_points": [
+        "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
+        "Three LLM inflection points in twelve months",
+        "Responding to objections to recursive self-improvement",
+        "Blogger broke the lightbox"
+      ],
+      "key_points_zh": [
+        "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
+        "Three LLM inflection points in twelve months",
+        "Responding to objections to recursive self-improvement",
+        "Blogger broke the lightbox"
+      ],
+      "key_points_en": [
+        "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
+        "Three LLM inflection points in twelve months",
+        "Responding to objections to recursive self-improvement",
+        "Blogger broke the lightbox"
+      ],
+      "tweet_drafts": [
+        "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
+        "Three LLM inflection points in twelve months",
+        "Responding to objections to recursive self-improvement"
       ],
       "sources": [
         {
           "feed_title": "daringfireball.net",
-          "title": "David Sacks’s Pool Boy Is Cocky",
-          "link": "https://www.threads.com/@karaswisher/post/DgGBe_XI147"
+          "title": "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
+          "link": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/"
         },
         {
-          "feed_title": "johndcook.com",
-          "title": "Taking a password joke seriously",
-          "link": "https://www.johndcook.com/blog/2026/11/24/password-joke/"
+          "feed_title": "simonwillison.net",
+          "title": "Three LLM inflection points in twelve months",
+          "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/"
         },
         {
-          "feed_title": "devblogs.microsoft.com/oldnewthing",
-          "title": "When happens to entries in the CoreApplication Properties when the source apartment shuts down?",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/"
+          "feed_title": "dwarkesh.com",
+          "title": "Responding to objections to recursive self-improvement",
+          "link": "https://www.dwarkesh.com/p/rsiobjections"
         }
       ],
-      "summary_zh": "2026-11-24 技术日报：David Sacks’s Pool Boy Is Cocky；Taking a password joke seriously；When happens to entries in the CoreApplication Properties when the source apartment shuts down?。",
-      "summary_en": "Daily brief (2026-11-24): David Sacks’s Pool Boy Is Cocky; Taking a password joke seriously; When happens to entries in the CoreApplication Properties when the source apartment shuts down?.",
+      "summary_zh": "2026-11-24 技术日报：Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau；Three LLM inflection points in twelve months；Responding to objections to recursive self-improvement。",
+      "summary_en": "Daily brief (2026-11-24): Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau; Three LLM inflection points in twelve months; Responding to objections to recursive self-improvement.",
       "social_posts": {
         "x": {
-          "zh": "【2026-11-24 日报】David Sacks’s Pool Boy Is Cocky；Taking a password joke seriously；When happens to entries in the CoreApplication Properties when the source apartment shuts down?。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-11-24): David Sacks’s Pool Boy Is Cocky; Taking a password joke seriously; When happens to entries in the CoreApplication Properties when the source apartment shuts down?. Actionable takeaways included. What would you ship next? #AI #Enginee"
+          "zh": "【2026-11-24 日报】Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau；Three LLM inflection points in twelve months；Responding to objections to recursive self-improvement。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
+          "en": "AK-RSS Daily (2026-11-24): Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau; Three LLM inflection points in twelve months; Responding to objections to recursive self-improvement. Actionable takeaways included. What would you ship next? #AI #Engineer"
         },
         "linkedin": {
-          "zh": "今天的技术情报（2026-11-24）\n- David Sacks’s Pool Boy Is Cocky\n- Taking a password joke seriously\n- When happens to entries in the CoreApplication Properties when the source apartment shuts down?\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.threads.com/@karaswisher/post/DgGBe_XI147\n- https://www.johndcook.com/blog/2026/11/24/password-joke/\n- https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-11-24)\n- David Sacks’s Pool Boy Is Cocky\n- Taking a password joke seriously\n- When happens to entries in the CoreApplication Properties when the source apartment shuts down?\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.threads.com/@karaswisher/post/DgGBe_XI147\n- https://www.johndcook.com/blog/2026/11/24/password-joke/\n- https://devblogs.microsoft.com/oldnewthing/20261124-00/?p=112889/\n#AI #Engineering #Product"
+          "zh": "今天的技术情报（2026-11-24）\n- Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau\n- Three LLM inflection points in twelve months\n- Responding to objections to recursive self-improvement\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/\n- https://simonwillison.net/2026/Nov/24/llm-inflection-points/\n- https://www.dwarkesh.com/p/rsiobjections\n#AI #工程实践 #产品洞察",
+          "en": "Tech signal brief (2026-11-24)\n- Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau\n- Three LLM inflection points in twelve months\n- Responding to objections to recursive self-improvement\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/\n- https://simonwillison.net/2026/Nov/24/llm-inflection-points/\n- https://www.dwarkesh.com/p/rsiobjections\n#AI #Engineering #Product"
         },
         "threads": {
-          "zh": "今天最值得看的 3 个点：David Sacks’s Pool Boy Is Cocky；Taking a password joke seriously；When happens to entries in the CoreApplication Properties when the source apartment shuts down?。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: David Sacks’s Pool Boy Is Cocky; Taking a password joke seriously; When happens to entries in the CoreApplication Properties when the source apartment shuts down?.\nI turned them into an action-ready daily brief you can use right away."
+          "zh": "今天最值得看的 3 个点：Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau；Three LLM inflection points in twelve months；Responding to objections to recursive self-improvement。\n我把行动建议做成日报了，可以直接拿去用。",
+          "en": "Three signals worth your attention today: Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau; Three LLM inflection points in twelve months; Responding to objections to recursive self-improvement.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     },
@@ -1918,7 +1963,7 @@
         "daringfireball.net · The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
         "dwarkesh.com · Robert Caro – The master biographer reflects at 91",
         "daringfireball.net · Patrick Stewart Dies at 86",
-        "jeffgeerling.com · Rejoice, leap seconds are dead!"
+        "devblogs.microsoft.com/oldnewthing · The Microsoft building that was reportedly haunted"
       ],
       "key_points": [
         "College will only cost $20 a month",
@@ -2202,82 +2247,6 @@
         "threads": {
           "zh": "今天最值得看的 3 个点：Siri AI Expands to More Languages in OS 27.2；Game Boy Color on My Conference Badge；What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks。\n我把行动建议做成日报了，可以直接拿去用。",
           "en": "Three signals worth your attention today: Siri AI Expands to More Languages in OS 27.2; Game Boy Color on My Conference Badge; What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks.\nI turned them into an action-ready daily brief you can use right away."
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "total": 15,
-      "feeds": [
-        "daringfireball.net (2)",
-        "johndcook.com (2)",
-        "simonwillison.net (2)",
-        "berthub.eu (1)",
-        "devblogs.microsoft.com/oldnewthing (1)",
-        "dfarq.homeip.net (1)"
-      ],
-      "highlights": [
-        "simonwillison.net · GPT-6.1 Terra",
-        "entropicthoughts.com · MTL-style circuit simulator",
-        "daringfireball.net · Glenn Fleishman on Apple Notes and Markdown",
-        "simonwillison.net · Quoting Jason Koebler",
-        "johndcook.com · Inversion in an ellipse",
-        "daringfireball.net · A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It"
-      ],
-      "key_points": [
-        "GPT-6.1 Terra",
-        "MTL-style circuit simulator",
-        "Glenn Fleishman on Apple Notes and Markdown",
-        "Quoting Jason Koebler"
-      ],
-      "key_points_zh": [
-        "GPT-6.1 Terra",
-        "MTL-style circuit simulator",
-        "Glenn Fleishman on Apple Notes and Markdown",
-        "Quoting Jason Koebler"
-      ],
-      "key_points_en": [
-        "GPT-6.1 Terra",
-        "MTL-style circuit simulator",
-        "Glenn Fleishman on Apple Notes and Markdown",
-        "Quoting Jason Koebler"
-      ],
-      "tweet_drafts": [
-        "GPT-6.1 Terra",
-        "MTL-style circuit simulator",
-        "Glenn Fleishman on Apple Notes and Markdown"
-      ],
-      "sources": [
-        {
-          "feed_title": "simonwillison.net",
-          "title": "GPT-6.1 Terra",
-          "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
-        },
-        {
-          "feed_title": "entropicthoughts.com",
-          "title": "MTL-style circuit simulator",
-          "link": "https://entropicthoughts.com/mtl-style-circuit-simulator"
-        },
-        {
-          "feed_title": "daringfireball.net",
-          "title": "Glenn Fleishman on Apple Notes and Markdown",
-          "link": "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/"
-        }
-      ],
-      "summary_zh": "2026-10-26 技术日报：GPT-6.1 Terra；MTL-style circuit simulator；Glenn Fleishman on Apple Notes and Markdown。",
-      "summary_en": "Daily brief (2026-10-26): GPT-6.1 Terra; MTL-style circuit simulator; Glenn Fleishman on Apple Notes and Markdown.",
-      "social_posts": {
-        "x": {
-          "zh": "【2026-10-26 日报】GPT-6.1 Terra；MTL-style circuit simulator；Glenn Fleishman on Apple Notes and Markdown。我把可执行建议整理好了，欢迎转发讨论。#技术趋势 #AI #工程实践",
-          "en": "AK-RSS Daily (2026-10-26): GPT-6.1 Terra; MTL-style circuit simulator; Glenn Fleishman on Apple Notes and Markdown. Actionable takeaways included. What would you ship next? #AI #Engineering #BuildInPublic"
-        },
-        "linkedin": {
-          "zh": "今天的技术情报（2026-10-26）\n- GPT-6.1 Terra\n- MTL-style circuit simulator\n- Glenn Fleishman on Apple Notes and Markdown\n\n我整理了可执行动作与原文链接，适合团队同步或选题参考。\n来源:\n- https://simonwillison.net/2026/Oct/26/gpt-61-terra/\n- https://entropicthoughts.com/mtl-style-circuit-simulator\n- https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/\n#AI #工程实践 #产品洞察",
-          "en": "Tech signal brief (2026-10-26)\n- GPT-6.1 Terra\n- MTL-style circuit simulator\n- Glenn Fleishman on Apple Notes and Markdown\n\nI compiled actionable next steps and source links for team sync and content planning.\nSources:\n- https://simonwillison.net/2026/Oct/26/gpt-61-terra/\n- https://entropicthoughts.com/mtl-style-circuit-simulator\n- https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/\n#AI #Engineering #Product"
-        },
-        "threads": {
-          "zh": "今天最值得看的 3 个点：GPT-6.1 Terra；MTL-style circuit simulator；Glenn Fleishman on Apple Notes and Markdown。\n我把行动建议做成日报了，可以直接拿去用。",
-          "en": "Three signals worth your attention today: GPT-6.1 Terra; MTL-style circuit simulator; Glenn Fleishman on Apple Notes and Markdown.\nI turned them into an action-ready daily brief you can use right away."
         }
       }
     }
