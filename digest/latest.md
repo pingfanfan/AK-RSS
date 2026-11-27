@@ -1,10 +1,11 @@
 # OPMLWatch Digest
 
-Generated at: 2026-11-27 15:41:08 UTC
+Generated at: 2026-11-27 23:46:39 UTC
 
-- [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/) (`jeffgeerling.com`)
-- [Who gets to decide if something is written by AI?](https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/) (`seangoedecke.com`)
-- [How many triangles can a graph with no pentagons have?](https://www.johndcook.com/blog/2026/11/27/triangles-without-pentagons/) (`johndcook.com`)
-- [Gadget Review: WiFi Carbon Monoxide Alarm (JKD-625W) ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/) (`shkspr.mobi`)
-- [Pluralistic: Taylorism and AI's shared sales-pitch (27 Nov 2026)](https://pluralistic.net/2026/11/27/taylor-made/) (`pluralistic.net`)
-- [Het succesvolle Fieldlab van de Nederlandse Digitale Dienst deze week](https://berthub.eu/articles/posts/fieldlab-is-van-de-it/) (`berthub.eu`)
+- [Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&leadSource=article-gifting) (`daringfireball.net`)
+- [The Invention Algorithm](https://www.construction-physics.com/p/the-invention-algorithm) (`construction-physics.com`)
+- [Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized](https://minimaxir.com/2026/11/opus-fable/) (`minimaxir.com`)
+- [AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil) (`dwarkesh.com`)
+- [The agent tax has arrived: Google Workspace's MCP pricing](https://martinalderson.com/posts/the-agent-tax-has-arrived/?utm_source=rss&utm_medium=rss&utm_campaign=feed) (`martinalderson.com`)
+- [UI style guides](https://aresluna.org/ui-style-guides) (`aresluna.org`)
+- [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots) (`miguelgrinberg.com`)
